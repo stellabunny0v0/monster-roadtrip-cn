@@ -1,194 +1,194 @@
 ﻿row_id,source_file,source_line,event_id,speaker_or_key,mood,source,target,status,notes
-english_metatexts:TIT_BTN_PLY,english_metatexts.json,4,metatext,TIT_BTN_PLY,,Play,开始游戏,reviewed,human override
-english_metatexts:TIT_BTN_PLY_LOC,english_metatexts.json,5,metatext,TIT_BTN_PLY_LOC,,Local,本地游戏,reviewed,human override
-english_metatexts:TIT_BTN_PLY_ONL,english_metatexts.json,6,metatext,TIT_BTN_PLY_ONL,,Online,在线游戏,reviewed,human override
-english_metatexts:TIT_BTN_SET,english_metatexts.json,7,metatext,TIT_BTN_SET,,Settings,设置,reviewed,human override
-english_metatexts:TIT_BTN_SET_SYS,english_metatexts.json,8,metatext,TIT_BTN_SET_SYS,,System,系统,reviewed,human override
-english_metatexts:TIT_BTN_SET_CUS,english_metatexts.json,9,metatext,TIT_BTN_SET_CUS,,Customize,自定义,reviewed,human override
-english_metatexts:TIT_BTN_GAL,english_metatexts.json,10,metatext,TIT_BTN_GAL,,Gallery,画廊,reviewed,human override
-english_metatexts:TIT_BTN_GAL_ART,english_metatexts.json,11,metatext,TIT_BTN_GAL_ART,,Art Gallery,艺术画廊,reviewed,human override
-english_metatexts:TIT_BTN_GAL_ACH,english_metatexts.json,12,metatext,TIT_BTN_GAL_ACH,,Achievements,成就,reviewed,human override
-english_metatexts:TIT_BTN_GAL_ACH_PLAYSTATION,english_metatexts.json,13,metatext,TIT_BTN_GAL_ACH_PLAYSTATION,,Trophies,特罗菲斯,machine,Argos en_zh 1.9; requires review
-english_metatexts:TIT_BTN_MET,english_metatexts.json,14,metatext,TIT_BTN_MET,,Meta-Shop,元商店,reviewed,human override
-english_metatexts:TIT_BTN_STI,english_metatexts.json,15,metatext,TIT_BTN_STI,,Sticker Studio,贴纸工坊,reviewed,human override
-english_metatexts:TIT_BTN_MOD,english_metatexts.json,16,metatext,TIT_BTN_MOD,,Fan Translation Modtool,Fan 翻译工具,machine,Argos en_zh 1.9; requires review
-english_metatexts:TIT_BTN_QUT,english_metatexts.json,17,metatext,TIT_BTN_QUT,,Quit,退出游戏,reviewed,human override
-english_metatexts:STT_VCE_CNF,english_metatexts.json,18,metatext,STT_VCE_CNF,,Do you want to hear awesome voice effects or would you rather make them up as you go?,你想听美妙的声音效果 还是你宁愿去补补?,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_VCE_CNF_YES,english_metatexts.json,19,metatext,STT_VCE_CNF_YES,,"VOICES, YAAAY!","声音,耶!",machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_VCE_CNF_NOO,english_metatexts.json,20,metatext,STT_VCE_CNF_NOO,,Make your own voices,发出自己的声音,machine,Argos en_zh 1.9; requires review
-english_metatexts:LOA_CHK_MSG,english_metatexts.json,21,metatext,LOA_CHK_MSG,,This game saves checkpoints automatically!,这个游戏会自动保存检查点!,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_EOTR_CNF,english_metatexts.json,22,metatext,STT_EOTR_CNF,,WARNING: You've reached the end of the End of the Road. Would you like to deactivate this destination for your next road trip?,警告:你们已经到达了道路尽头。 你想在下次出行时 关闭这个目的地吗?,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_EOTR_STREAMERS_POPUP,english_metatexts.json,23,metatext,STT_EOTR_STREAMERS_POPUP,,"You are about to play the Streamer version of Monster Roadtrip with End of the Road enabled. Your run will start on Week 8, and Game Over will be disabled.","您即将播放 Streamer 版本 怪物公路旅行 并启用了 "" 路尾 "" 。 你的跑步会从第8周开始 游戏结束会被禁用",machine,Argos en_zh 1.9; requires review
-english_metatexts:RSM_BTN_ASK_RSM,english_metatexts.json,24,metatext,RSM_BTN_ASK_RSM,,You have an ongoing game. Do you want to continue where you left off or start a new game?[n][n](Starting a new game will delete your current checkpoint.),你的游戏还在进行中 您要继续你离开的地方还是开始新的游戏 ?[n][n](开始新游戏会删除您的当前检查点 。),machine,Argos en_zh 1.9; requires review
-english_metatexts:RSM_BTN_CON,english_metatexts.json,25,metatext,RSM_BTN_CON,,Continue,继续,machine,Argos en_zh 1.9; requires review
-english_metatexts:RSM_BTN_DEL,english_metatexts.json,26,metatext,RSM_BTN_DEL,,New game,新游戏,machine,Argos en_zh 1.9; requires review
-english_metatexts:RSM_BTN_BCK,english_metatexts.json,27,metatext,RSM_BTN_BCK,,Cancel,取消( E),machine,Argos en_zh 1.9; requires review
-english_metatexts:RSM_BTN_ASK_DLT,english_metatexts.json,28,metatext,RSM_BTN_ASK_DLT,,You have an ongoing game. In order to join another match you will have to discard it.[n][n]Proceed and delete your current checkpoint?,"你的游戏还在进行中 为了加入另一个比赛,你必须放弃它。[n][n]继续删除您的当前检查站吗 ?",machine,Argos en_zh 1.9; requires review
-english_metatexts:RSM_BTN_DLT_YES,english_metatexts.json,29,metatext,RSM_BTN_DLT_YES,,"Yes, delete","是,删除",machine,Argos en_zh 1.9; requires review
-english_metatexts:RSM_BTN_DLT_NOO,english_metatexts.json,30,metatext,RSM_BTN_DLT_NOO,,No,没有,machine,Argos en_zh 1.9; requires review
-english_metatexts:RSM_BTN_ASK_DLT2,english_metatexts.json,31,metatext,RSM_BTN_ASK_DLT2,,You have an ongoing single player game. In order to create another match you will have to discard it.[n][n]Proceed and delete your current checkpoint?,"你有一个持续的单玩家游戏。 为了创造出另一个匹配, 您必须放弃它 。[n][n]继续删除您的当前检查站吗 ?",machine,Argos en_zh 1.9; requires review
-english_metatexts:RSM_BTN_DLT2_YES,english_metatexts.json,32,metatext,RSM_BTN_DLT2_YES,,"Yes, delete","是,删除",machine,Argos en_zh 1.9; requires review
-english_metatexts:RSM_BTN_DLT2_NOO,english_metatexts.json,33,metatext,RSM_BTN_DLT2_NOO,,No,没有,machine,Argos en_zh 1.9; requires review
-english_metatexts:RSM_BTN_EOR_WRN_ENA,english_metatexts.json,34,metatext,RSM_BTN_EOR_WRN_ENA,,[n][n][n]The match you are about to resume has[n]  [c][FF2310]End of the Road[-][/c] enabled.,[n][n][n]你将要恢复的比赛有[n]    [c][FF2310]道路尽头[-][/c] 已启用 。,machine,Argos en_zh 1.9; requires review
-english_metatexts:RSM_BTN_EOR_WRN_DIS,english_metatexts.json,35,metatext,RSM_BTN_EOR_WRN_DIS,,[n][n][n]The match you are about to resume has[n] [c][FF2310]End of the Road[-][/c] disabled.,[n][n][n]你将要恢复的比赛有[n]  [c][FF2310]道路尽头[-][/c] 已禁用。,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_MSC,english_metatexts.json,36,metatext,STT_MSC,,Music,音乐,reviewed,human override
-english_metatexts:STT_SFX,english_metatexts.json,37,metatext,STT_SFX,,Sound effects,音效,reviewed,human override
-english_metatexts:STT_VCE,english_metatexts.json,38,metatext,STT_VCE,,Voice,语音,reviewed,human override
-english_metatexts:STT_WND,english_metatexts.json,39,metatext,STT_WND,,Window mode,窗口模式,reviewed,human override
-english_metatexts:STT_DSP,english_metatexts.json,40,metatext,STT_DSP,,Display,显示器,reviewed,human override
-english_metatexts:STT_LNG,english_metatexts.json,41,metatext,STT_LNG,,Language,语言,reviewed,human override
-english_metatexts:STT_STR,english_metatexts.json,42,metatext,STT_STR,,Streamer mode,流线模式,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_ACC,english_metatexts.json,43,metatext,STT_ACC,,Use accessible font,使用可访问字体,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_DYS,english_metatexts.json,44,metatext,STT_DYS,,Use dyslexia friendly font,使用 dyslexia 友好字体,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_INF,english_metatexts.json,45,metatext,STT_INF,,Check info manual,检查信息手册,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_PRG,english_metatexts.json,46,metatext,STT_PRG,,Delete progress,删除进度,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_CRE,english_metatexts.json,47,metatext,STT_CRE,,View full credits,查看全部贷方,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_BCK,english_metatexts.json,48,metatext,STT_BCK,,Back,返回,reviewed,human override
-english_metatexts:STT_ONN,english_metatexts.json,49,metatext,STT_ONN,,On,开启,reviewed,human override
-english_metatexts:STT_OFF,english_metatexts.json,50,metatext,STT_OFF,,Off,关闭,reviewed,human override
-english_metatexts:STT_WND_FLL,english_metatexts.json,51,metatext,STT_WND_FLL,,Fullscreen,全屏,reviewed,human override
-english_metatexts:STT_WND_WND,english_metatexts.json,52,metatext,STT_WND_WND,,Windowed,窗口化,reviewed,human override
-english_metatexts:STT_LNG_ENG,english_metatexts.json,53,metatext,STT_LNG_ENG,,English,英语,reviewed,human override
-english_metatexts:STT_LNG_CHN,english_metatexts.json,54,metatext,STT_LNG_CHN,,Chinese,简体中文,reviewed,human override
-english_metatexts:STT_LNG_SPA,english_metatexts.json,55,metatext,STT_LNG_SPA,,Spanish,西班牙语,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_LNG_ENGLISH,english_metatexts.json,56,metatext,STT_LNG_ENGLISH,,English,英语,reviewed,human override
-english_metatexts:STT_LNG_SCHINESE,english_metatexts.json,57,metatext,STT_LNG_SCHINESE,,Chinese,简体中文,reviewed,human override
-english_metatexts:STT_LNG_SPANISH,english_metatexts.json,58,metatext,STT_LNG_SPANISH,,Spanish,西班牙语,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_PGR_CNF,english_metatexts.json,59,metatext,STT_PGR_CNF,,ARE YOU SURE YOU WANT TO FLUSH EVERYTHING DOWN THE TOILET?,你确定你想 FLUSH 所有的东西在地上?,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_PGR_CNF_YES,english_metatexts.json,60,metatext,STT_PGR_CNF_YES,,FUCK YEAH,他妈的是的,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_PGR_CNF_NOO,english_metatexts.json,61,metatext,STT_PGR_CNF_NOO,,"WAIT, NO!","等待,没有!",machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_PGR_CNF_CNF,english_metatexts.json,62,metatext,STT_PGR_CNF_CNF,,"BUT LIKE, REALLY FUCKIN' SURE? I MEAN... REALLY?!","但是,像,真的他妈的确定吗? 我是说... 真的吗?",machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_PGR_CNF_CNF_YES,english_metatexts.json,63,metatext,STT_PGR_CNF_CNF_YES,,YEAH!,对!,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_PGR_CNF_CNF_NOO,english_metatexts.json,64,metatext,STT_PGR_CNF_CNF_NOO,,NO!!!,不对!,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_RST,english_metatexts.json,65,metatext,STT_RST,,Restart the game to apply changes!,重新启动游戏以应用更改 !,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_STR_NOTE,english_metatexts.json,66,metatext,STT_STR_NOTE,,Streamer mode will replace the credits song with a safe-to-stream song,Streamer 模式将用一首从安全到流的歌曲来取代积分歌曲,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_ACC_NOTE,english_metatexts.json,67,metatext,STT_ACC_NOTE,,"Accessible fonts are only available for Latin alphabetic languages. If you're using a Fan Translation Mod, it's possible the default font will be used.","无障碍字体仅供拉丁字母语言使用. 如果使用Fan翻译 Mod,则有可能使用默认字体.",machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_TWN_TTL,english_metatexts.json,68,metatext,STT_TWN_TTL,,Trigger warnings,触发警告,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_TWS_BLK,english_metatexts.json,69,metatext,STT_TWS_BLK,,Warning,3⁄4 ̄ ̧漯B,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_TWS_ALW,english_metatexts.json,70,metatext,STT_TWS_ALW,,No Warning,无警告,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_TWN_DRU,english_metatexts.json,71,metatext,STT_TWN_DRU,,Drugs,药物,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_TWD_DRU,english_metatexts.json,72,metatext,STT_TWD_DRU,,Flags content including the use of drugs.,包括吸毒在内的旗帜内容。,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_TWN_SCA,english_metatexts.json,73,metatext,STT_TWN_SCA,,Toilet humor,厕所幽默,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_TWD_SCA,english_metatexts.json,74,metatext,STT_TWD_SCA,,Flags content that use scatological humor that some may find too explicit.,"旗子的内容,使用有的会发现过于清晰的花花公子幽默.",machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_TWN_SEX,english_metatexts.json,75,metatext,STT_TWN_SEX,,Highly sexual,性很强,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_TWD_SEX,english_metatexts.json,76,metatext,STT_TWD_SEX,,Flags content with written depictions of sex that some may find too explicit.,"旗帜内容中写有性描写,有些人可能觉得过于明确。",machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_TWN_VIO,english_metatexts.json,77,metatext,STT_TWN_VIO,,Highly violent,极度暴力,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_TWD_VIO,english_metatexts.json,78,metatext,STT_TWD_VIO,,Flags content with written depictions of violence that some may find too explicit.,"旗帜内容中写有对暴力的描写,有些人可能认为这种描写过于明确。",machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_TWN_XPL,english_metatexts.json,79,metatext,STT_TWN_XPL,,"Please keep in mind that due to the nature of the game, stuff like violence and sex are common grounds. The Trigger Warnings will warn you of the most intense cases that might trigger even someone accustomed to the franchise's usual tone.","请记住,由于游戏的性质,诸如暴力和性等东西是常见的. 触发警告会警告你 最激烈的案件 甚至会触发一个熟悉 特许经营的语气的人",machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_TWN_CRE,english_metatexts.json,80,metatext,STT_TWN_CRE,,Horrible people,令人发指的人,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_TWD_CRE,english_metatexts.json,81,metatext,STT_TWD_CRE,,"Filters events with people who may behave in ways that are especially despicable (hateful or with no boundaries). [These stances are always with characters clearly depicted as villains, or the player is depicted as clearly acting wrongly in a failure outcome]","过滤与行为方式特别可鄙(仇恨或没有边界)的人的事件。 这些姿势总是有人物被清晰地描绘为反派,或者玩家被描绘成在失败结果中明显做出错误的行为.",machine,Argos en_zh 1.9; requires review; sanitized
-english_metatexts:STT_TWN_REF,english_metatexts.json,82,metatext,STT_TWN_REF,,"""Monster Prom"" references","""怪物舞会"" 参考文献",machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_TWD_REF,english_metatexts.json,83,metatext,STT_TWD_REF,,Filters events that have heavy Monster Prom references. For people who didn't play the first game.,过滤重度事件 怪物舞会 参考文献。 对于没有进行第一场比赛的人来说.,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_JMP_TTL,english_metatexts.json,84,metatext,STT_JMP_TTL,,Jump Scare,跳跃恐惧,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_LBL_OTH,english_metatexts.json,85,metatext,STT_LBL_OTH,,Other,其它,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_OTH_ASL,english_metatexts.json,86,metatext,STT_OTH_ASL,,Allow Self-Love,允许自爱,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_OTH_ALL,english_metatexts.json,87,metatext,STT_OTH_ALL,,Allows hitchhiker to be chosen even if a player selected them to play the game.,"即使有玩家选择他们来玩游戏,也允许搭便车者被选中.",machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_SHH_TTL,english_metatexts.json,88,metatext,STT_SHH_TTL,,Special Hitchhiker,特别乘车者,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_EOTR_TTL,english_metatexts.json,89,metatext,STT_EOTR_TTL,,End of the Road,道路尽头,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_OTH_END,english_metatexts.json,90,metatext,STT_OTH_END,,"Be aware this content can at times feel much darker and heavier than the game's usual tone, dealing with themes such as existential dread. Also, due to potentially off-putting visual and audio content, this might not be suitable for people with photosensitive epilepsy or claustrophobia.","注意这些内容有时会感觉比游戏通常的语气更黑暗更重,处理活生生的恐惧等主题. 另外,由于潜在的不切实际的视觉和音频内容,这可能不适合有发光敏感的癫痫或幽闭恐惧症的人。",machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_DOP_PCP,english_metatexts.json,91,metatext,STT_DOP_PCP,,Available character packs,可用的字符包,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_DCP_BASE,english_metatexts.json,92,metatext,STT_DCP_BASE,,Base characters,基本字符,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_DOP_NOD,english_metatexts.json,93,metatext,STT_DOP_NOD,,Get more DLCs,获取更多 DLC,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_DOP_NOD_SWITCH,english_metatexts.json,94,metatext,STT_DOP_NOD_SWITCH,,Check downloadable content,检查可下载内容,machine,Argos en_zh 1.9; requires review
-english_metatexts:MNL_BCK,english_metatexts.json,95,metatext,MNL_BCK,,Back,返回,reviewed,human override
-english_metatexts:PRL_STT_PLN,english_metatexts.json,98,metatext,PRL_STT_PLN,,How many of you are there?,你们有多少人?,machine,Argos en_zh 1.9; requires review
-english_metatexts:PRL_STT_LCK,english_metatexts.json,99,metatext,PRL_STT_LCK,,Locked,已锁定,machine,Argos en_zh 1.9; requires review
-english_metatexts:PRL_STT_LCK2,english_metatexts.json,100,metatext,PRL_STT_LCK2,,Keep playing to unlock!,继续玩来解锁!,machine,Argos en_zh 1.9; requires review
-english_metatexts:PRL_FRH_DSC,english_metatexts.json,101,metatext,PRL_FRH_DSC,,Play with your friends without anyone ending up with a Failure or an MVP ending. No pressure!,"和你的朋友一起玩,没有任何人 最终以失败或MVP结束。 没有压力!",machine,Argos en_zh 1.9; requires review
-english_metatexts:PRL_RDT_DSC,english_metatexts.json,102,metatext,PRL_RDT_DSC,,"The true survival co-op experience, including a player performance ranking at the end!","真实的生存合作体验,包括玩家在结尾的表演排名!",machine,Argos en_zh 1.9; requires review
-english_metatexts:PRL_PRM_DSC,english_metatexts.json,103,metatext,PRL_PRM_DSC,,Add some cutthroat mechanics to decide who's the MVP! (Beautiful Glitch declines responsibility for broken relationships.),加入一些切口力学来决定谁是MVP!. (美丽的Glitch 放弃对断开关系的责任。 ),machine,Argos en_zh 1.9; requires review
-english_metatexts:PRL_EAS_DSC,english_metatexts.json,104,metatext,PRL_EAS_DSC,,Focus on the narrative & take the scenic route[n]- Higher initial Resources[n]- Deep Conversations are impossible to fail,关注叙事和走风景路线( G)[n]- 较高的初始资源[n]-深层对话是不可能失败的,machine,Argos en_zh 1.9; requires review
-english_metatexts:PRL_NRM_DSC,english_metatexts.json,105,metatext,PRL_NRM_DSC,,Your standard road trip experience:[n]- Standard initial Resources[n]- Extra attempt at Deep Conversations,你的标准公路旅行经验:[n]- 标准初始资源[n]- 深层对话的额外尝试,machine,Argos en_zh 1.9; requires review
-english_metatexts:PRL_HAR_DSC,english_metatexts.json,106,metatext,PRL_HAR_DSC,,Face a ruthless survival challenge: [n]- Lower initial Resources[n]- Higher Destination requirements[n]- Resource changes are tougher[n]- No extra attempts at Deep Conversations,面对无情的生存挑战: [n]- 初始资源较低[n]- 更高的目标要求[n]- 资源变化更艰难[n]- 不再尝试深层对话,machine,Argos en_zh 1.9; requires review
-english_metatexts:PRL_GODMODE,english_metatexts.json,107,metatext,PRL_GODMODE,,God mode:,神会模式 :,machine,Argos en_zh 1.9; requires review
-english_metatexts:PRL_GOD_ACH,english_metatexts.json,108,metatext,PRL_GOD_ACH,,Note: You won't unlock any achievements while God Mode is on.,"注意:在""上帝模式""开机期间,你不会解锁任何成就.",machine,Argos en_zh 1.9; requires review
-english_metatexts:PRL_GMD_COOP,english_metatexts.json,109,metatext,PRL_GMD_COOP,,Friend Hugger,猎人朋友,machine,Argos en_zh 1.9; requires review
-english_metatexts:PRL_GMD_REGULAR,english_metatexts.json,110,metatext,PRL_GMD_REGULAR,,Road Tripper,道路旅行者,machine,Argos en_zh 1.9; requires review
-english_metatexts:PRL_GMD_MISSIONS,english_metatexts.json,111,metatext,PRL_GMD_MISSIONS,,Prank Master,恶作剧大师,machine,Argos en_zh 1.9; requires review
-english_metatexts:PRL_DIF_EASY,english_metatexts.json,112,metatext,PRL_DIF_EASY,,Easy,轻点,machine,Argos en_zh 1.9; requires review
-english_metatexts:PRL_DIF_NORMAL,english_metatexts.json,113,metatext,PRL_DIF_NORMAL,,Normal,常规,machine,Argos en_zh 1.9; requires review
-english_metatexts:PRL_DIF_HARD,english_metatexts.json,114,metatext,PRL_DIF_HARD,,Hard,难,machine,Argos en_zh 1.9; requires review
-english_metatexts:PRL_STT_DRT,english_metatexts.json,115,metatext,PRL_STT_DRT,,How long do you want to play?,你想玩多长时间?,machine,Argos en_zh 1.9; requires review
-english_metatexts:PRL_STT_DRV,english_metatexts.json,116,metatext,PRL_STT_DRV,,Around [00] minutes,周围 [00] 分钟,machine,Argos en_zh 1.9; requires review
-english_metatexts:PRL_SKP,english_metatexts.json,117,metatext,PRL_SKP,,Skip,跳过,machine,Argos en_zh 1.9; requires review
-english_metatexts:PRL_STT_PLS,english_metatexts.json,118,metatext,PRL_STT_PLS,,Who are you?,你是谁?,machine,Argos en_zh 1.9; requires review
-english_metatexts:PRL_PLS_CHP,english_metatexts.json,119,metatext,PRL_PLS_CHP,,Choose player [0],选择玩家 [0],machine,Argos en_zh 1.9; requires review
-english_metatexts:PRL_PLS_CHP_SNG,english_metatexts.json,120,metatext,PRL_PLS_CHP_SNG,,Choose player,选择玩家,machine,Argos en_zh 1.9; requires review
-english_metatexts:PLY_WHO_TTL,english_metatexts.json,121,metatext,PLY_WHO_TTL,,"Who are you, really?","你是谁,真的?",machine,Argos en_zh 1.9; requires review
-english_metatexts:PLY_WHO_NAM,english_metatexts.json,122,metatext,PLY_WHO_NAM,,Name,名称,machine,Argos en_zh 1.9; requires review
-english_metatexts:PLY_WHO_PRN,english_metatexts.json,123,metatext,PLY_WHO_PRN,,Pronoun,代名词,machine,Argos en_zh 1.9; requires review
-english_metatexts:PLY_WHO_OK,english_metatexts.json,124,metatext,PLY_WHO_OK,,OK,罢,machine,Argos en_zh 1.9; requires review; sanitized
-english_metatexts:PLY_PRN_HEE,english_metatexts.json,125,metatext,PLY_PRN_HEE,,He,他的电话,machine,Argos en_zh 1.9; requires review
-english_metatexts:PLY_PRN_SHE,english_metatexts.json,126,metatext,PLY_PRN_SHE,,She,她,reviewed,human override
-english_metatexts:PLY_PRN_THY,english_metatexts.json,127,metatext,PLY_PRN_THY,,They,他们,machine,Argos en_zh 1.9; requires review
-english_metatexts:PLY_KYB_WAT,english_metatexts.json,128,metatext,PLY_KYB_WAT,,The other player is typing...,另一名玩家在打字...,machine,Argos en_zh 1.9; requires review
-english_metatexts:PLY_KYB_VRF,english_metatexts.json,129,metatext,PLY_KYB_VRF,,Verifying player name...,正在验证玩家名称...,machine,Argos en_zh 1.9; requires review
-english_metatexts:PLY_KYB_INV,english_metatexts.json,130,metatext,PLY_KYB_INV,,Invalid Player Name,无效的玩家名称,machine,Argos en_zh 1.9; requires review
-english_metatexts:PLY_KYB_INV_DSC,english_metatexts.json,131,metatext,PLY_KYB_INV_DSC,,"The entered name is not valid, please use a different one.","输入的名称无效, 请使用不同的名称 。",machine,Argos en_zh 1.9; requires review
-english_metatexts:PLY_NAM_BLUE,english_metatexts.json,132,metatext,PLY_NAM_BLUE,,Vicky,维姬,machine,Argos en_zh 1.9; requires review
-english_metatexts:PLY_ALT_BLUE,english_metatexts.json,133,metatext,PLY_ALT_BLUE,,Blue,蓝色,machine,Argos en_zh 1.9; requires review
-english_metatexts:PLY_NAM_GREEN,english_metatexts.json,134,metatext,PLY_NAM_GREEN,,Brian,布莱恩,machine,Argos en_zh 1.9; requires review
-english_metatexts:PLY_ALT_GREEN,english_metatexts.json,135,metatext,PLY_ALT_GREEN,,Green,绿色,machine,Argos en_zh 1.9; requires review
-english_metatexts:PLY_NAM_RED,english_metatexts.json,136,metatext,PLY_NAM_RED,,Amira,阿米拉,machine,Argos en_zh 1.9; requires review
-english_metatexts:PLY_ALT_RED,english_metatexts.json,137,metatext,PLY_ALT_RED,,Red,红色,machine,Argos en_zh 1.9; requires review
-english_metatexts:PLY_NAM_YELLOW,english_metatexts.json,138,metatext,PLY_NAM_YELLOW,,Oz,奥兹,machine,Argos en_zh 1.9; requires review
-english_metatexts:PLY_ALT_YELLOW,english_metatexts.json,139,metatext,PLY_ALT_YELLOW,,Yellow,黄色,machine,Argos en_zh 1.9; requires review
-english_metatexts:PLY_NAM_CINNAMON,english_metatexts.json,140,metatext,PLY_NAM_CINNAMON,,Hazel,海泽尔,machine,Argos en_zh 1.9; requires review
-english_metatexts:PLY_ALT_CINNAMON,english_metatexts.json,141,metatext,PLY_ALT_CINNAMON,,Cinnamon,肉桂(变种),machine,Argos en_zh 1.9; requires review
-english_metatexts:PLY_NAM_GLITCH,english_metatexts.json,142,metatext,PLY_NAM_GLITCH,,Glitch,滑动,machine,Argos en_zh 1.9; requires review
-english_metatexts:PLY_ALT_GLITCH,english_metatexts.json,143,metatext,PLY_ALT_GLITCH,,ERROR,错误,machine,Argos en_zh 1.9; requires review
-english_metatexts:PLY_NAM_JUAN,english_metatexts.json,144,metatext,PLY_NAM_JUAN,,Juan,胡安,machine,Argos en_zh 1.9; requires review
-english_metatexts:PLY_ALT_JUAN,english_metatexts.json,145,metatext,PLY_ALT_JUAN,,Chicle,齐克勒,machine,Argos en_zh 1.9; requires review
-english_metatexts:PLY_NAM_ZOE,english_metatexts.json,146,metatext,PLY_NAM_ZOE,,Zoe,佐伊,machine,Argos en_zh 1.9; requires review
-english_metatexts:PLY_ALT_ZOE,english_metatexts.json,147,metatext,PLY_ALT_ZOE,,Purple,紫色( 紫色),machine,Argos en_zh 1.9; requires review
-english_metatexts:PLY_NAM_PUMPKIN,english_metatexts.json,148,metatext,PLY_NAM_PUMPKIN,,Jacqueline,杰奎琳 贾奎琳,machine,Argos en_zh 1.9; requires review
-english_metatexts:PLY_ALT_PUMPKIN,english_metatexts.json,149,metatext,PLY_ALT_PUMPKIN,,Orange,橙红色,machine,Argos en_zh 1.9; requires review
-english_metatexts:PLY_NAM_SLIME,english_metatexts.json,150,metatext,PLY_NAM_SLIME,,Doug,道格 道格 道格 道格 道格 道格,machine,Argos en_zh 1.9; requires review
-english_metatexts:PLY_ALT_SLIME,english_metatexts.json,151,metatext,PLY_ALT_SLIME,,Turquoise,绿宝石,machine,Argos en_zh 1.9; requires review
-english_metatexts:PLY_NAM_CUSTOMNAME,english_metatexts.json,152,metatext,PLY_NAM_CUSTOMNAME,,[Custom Name],[Custom Name],machine,Argos en_zh 1.9; requires review
-english_metatexts:STK_ADD,english_metatexts.json,155,metatext,STK_ADD,,Add Sticker,添加标签,machine,Argos en_zh 1.9; requires review
-english_metatexts:STK_DONE,english_metatexts.json,156,metatext,STK_DONE,,Done!,结束了!,machine,Argos en_zh 1.9; requires review
-english_metatexts:STK_SEL_BCK,english_metatexts.json,157,metatext,STK_SEL_BCK,,Select background,选择背景,machine,Argos en_zh 1.9; requires review
-english_metatexts:STK_MIN_TTL,english_metatexts.json,158,metatext,STK_MIN_TTL,,Sticker Studio,贴纸工坊,reviewed,human override
-english_metatexts:STK_MAI_CRE,english_metatexts.json,159,metatext,STK_MAI_CRE,,Let's[n]create,开始吧[n]创建,machine,Argos en_zh 1.9; requires review
-english_metatexts:STK_MAI_VIE,english_metatexts.json,160,metatext,STK_MAI_VIE,,View your[n]designs,浏览您的[n]设计,machine,Argos en_zh 1.9; requires review
-english_metatexts:STK_MYD_TTL,english_metatexts.json,161,metatext,STK_MYD_TTL,,My designs,我的设计,machine,Argos en_zh 1.9; requires review
-english_metatexts:STK_TOO_MOVE,english_metatexts.json,162,metatext,STK_TOO_MOVE,,Move,移动,machine,Argos en_zh 1.9; requires review
-english_metatexts:STK_TOO_ROTATE,english_metatexts.json,163,metatext,STK_TOO_ROTATE,,Rotate,旋转,machine,Argos en_zh 1.9; requires review
-english_metatexts:STK_TOO_SCALE,english_metatexts.json,164,metatext,STK_TOO_SCALE,,Scale,缩放,machine,Argos en_zh 1.9; requires review
-english_metatexts:STK_TOO_BRINGFRONT,english_metatexts.json,165,metatext,STK_TOO_BRINGFRONT,,Front,前线,machine,Argos en_zh 1.9; requires review
-english_metatexts:STK_TOO_BRINGBACK,english_metatexts.json,166,metatext,STK_TOO_BRINGBACK,,Back,返回,reviewed,human override
-english_metatexts:STK_TOO_DELETE,english_metatexts.json,167,metatext,STK_TOO_DELETE,,Delete,删除,machine,Argos en_zh 1.9; requires review
-english_metatexts:STK_TOO_MIRROR,english_metatexts.json,168,metatext,STK_TOO_MIRROR,,Mirror,镜像,machine,Argos en_zh 1.9; requires review
-english_metatexts:STK_TLB_PRVNXT,english_metatexts.json,169,metatext,STK_TLB_PRVNXT,,Previous/Next Sticker,上个/下个标签,machine,Argos en_zh 1.9; requires review
-english_metatexts:STK_TLB_SLWFST,english_metatexts.json,170,metatext,STK_TLB_SLWFST,,(Hold) Slower/Faster Edit,慢/快编辑( Hold),machine,Argos en_zh 1.9; requires review
-english_metatexts:STK_TLB_CLS,english_metatexts.json,171,metatext,STK_TLB_CLS,,Close Toolbar,关闭工具栏,machine,Argos en_zh 1.9; requires review
-english_metatexts:STK_TLB_CSL,english_metatexts.json,172,metatext,STK_TLB_CSL,,Confirm Selection,确认选择,machine,Argos en_zh 1.9; requires review
-english_metatexts:STK_TLB_CNCEDIT,english_metatexts.json,173,metatext,STK_TLB_CNCEDIT,,Cancel Edit,取消编辑,machine,Argos en_zh 1.9; requires review
-english_metatexts:STK_TLB_CNFEDIT,english_metatexts.json,174,metatext,STK_TLB_CNFEDIT,,Confirm Edit,确认编辑,machine,Argos en_zh 1.9; requires review
-english_metatexts:STK_ALBUMNOTE,english_metatexts.json,175,metatext,STK_ALBUMNOTE,,You can check your creations in the console's media gallery,您可以在控制台的媒体画廊中检查您的创作,machine,Argos en_zh 1.9; requires review
-english_metatexts:STK_ALBUMNOTE_PLAYSTATION4,english_metatexts.json,176,metatext,STK_ALBUMNOTE_PLAYSTATION4,,You can check your creations in the PlayStation®4 system's Capture Gallery,您可以在 PlayStation% 4 系统的 Capture 画廊中检查您的创作,machine,Argos en_zh 1.9; requires review
-english_metatexts:STK_ALBUMNOTE_PLAYSTATION5,english_metatexts.json,177,metatext,STK_ALBUMNOTE_PLAYSTATION5,,You can check your creations in the PlayStation®5 console's Media Gallery,您可以在 PlayStation% 5 控制台的媒体相册中检查您的创建,machine,Argos en_zh 1.9; requires review
-english_metatexts:STK_ALBUMNOTE_XBOX,english_metatexts.json,178,metatext,STK_ALBUMNOTE_XBOX,,You can check your creations in the Xbox console's Captures app,您可以在 Xbox 控制台的 Captains app 中检查您的创建,machine,Argos en_zh 1.9; requires review
-english_metatexts:STK_BCK_MSG,english_metatexts.json,179,metatext,STK_BCK_MSG,,Are you sure you want to go back and discard the current composition changes?,您确定要返回并丢弃当前构成的变化吗 ?,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_BCK_YES,english_metatexts.json,180,metatext,STT_BCK_YES,,Yes,对,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_BCK_NOO,english_metatexts.json,181,metatext,STT_BCK_NOO,,No,没有,machine,Argos en_zh 1.9; requires review
-english_metatexts:STK_DNE_MSG,english_metatexts.json,182,metatext,STK_DNE_MSG,,Are you sure you want to save the final composition and finish?,您确定要保存最终组成并完成吗 ?,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_DNE_YES,english_metatexts.json,183,metatext,STT_DNE_YES,,Yes,对,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_DNE_NOO,english_metatexts.json,184,metatext,STT_DNE_NOO,,No,没有,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_GRD_MSG,english_metatexts.json,185,metatext,STT_GRD_MSG,,Select a ratio for this gradient background:,为该梯度背景选择一个比率 :,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_GRD_ONE,english_metatexts.json,186,metatext,STT_GRD_ONE,,Square,平方边,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_GRD_TWO,english_metatexts.json,187,metatext,STT_GRD_TWO,,Wide,宽,machine,Argos en_zh 1.9; requires review
-english_metatexts:STT_GRD_THR,english_metatexts.json,188,metatext,STT_GRD_THR,,Tall,高点,machine,Argos en_zh 1.9; requires review
-english_metatexts:STK_LIM_REA,english_metatexts.json,189,metatext,STK_LIM_REA,,Sticker limit reached,达到粘贴限制,machine,Argos en_zh 1.9; requires review
-english_metatexts:STK_SCRSVD,english_metatexts.json,190,metatext,STK_SCRSVD,,Screenshot saved!,屏幕截图已保存 。,machine,Argos en_zh 1.9; requires review
-english_metatexts:STK_SCRERR,english_metatexts.json,191,metatext,STK_SCRERR,,Error saving screenshot.,保存截图出错 。,machine,Argos en_zh 1.9; requires review
-english_metatexts:STK_TAB_GRA,english_metatexts.json,192,metatext,STK_TAB_GRA,,Gradient,渐变,machine,Argos en_zh 1.9; requires review
-english_metatexts:STK_TAB_SCE,english_metatexts.json,193,metatext,STK_TAB_SCE,,Scenic,风景,machine,Argos en_zh 1.9; requires review
-english_metatexts:STK_TAB_WID,english_metatexts.json,194,metatext,STK_TAB_WID,,Special: Wide,特别:宽度,machine,Argos en_zh 1.9; requires review
-english_metatexts:STK_TAB_REG,english_metatexts.json,195,metatext,STK_TAB_REG,,Special: Square,特别:平方,machine,Argos en_zh 1.9; requires review
-english_metatexts:STK_TAB_LOC,english_metatexts.json,196,metatext,STK_TAB_LOC,,Location,地点,machine,Argos en_zh 1.9; requires review
-english_metatexts:STK_TAB_MAP,english_metatexts.json,197,metatext,STK_TAB_MAP,,Map,地图,machine,Argos en_zh 1.9; requires review
+english_metatexts:TIT_BTN_PLY,english_metatexts.json,4,metatext,TIT_BTN_PLY,,Play,开始游戏,reviewed,polish pass 004: KEEP
+english_metatexts:TIT_BTN_PLY_LOC,english_metatexts.json,5,metatext,TIT_BTN_PLY_LOC,,Local,本地游戏,reviewed,polish pass 004: KEEP
+english_metatexts:TIT_BTN_PLY_ONL,english_metatexts.json,6,metatext,TIT_BTN_PLY_ONL,,Online,在线游戏,reviewed,polish pass 004: KEEP
+english_metatexts:TIT_BTN_SET,english_metatexts.json,7,metatext,TIT_BTN_SET,,Settings,设置,reviewed,polish pass 004: KEEP
+english_metatexts:TIT_BTN_SET_SYS,english_metatexts.json,8,metatext,TIT_BTN_SET_SYS,,System,系统,reviewed,polish pass 004: KEEP
+english_metatexts:TIT_BTN_SET_CUS,english_metatexts.json,9,metatext,TIT_BTN_SET_CUS,,Customize,自定义,reviewed,polish pass 004: KEEP
+english_metatexts:TIT_BTN_GAL,english_metatexts.json,10,metatext,TIT_BTN_GAL,,Gallery,画廊,reviewed,polish pass 004: KEEP
+english_metatexts:TIT_BTN_GAL_ART,english_metatexts.json,11,metatext,TIT_BTN_GAL_ART,,Art Gallery,艺术画廊,reviewed,polish pass 004: KEEP
+english_metatexts:TIT_BTN_GAL_ACH,english_metatexts.json,12,metatext,TIT_BTN_GAL_ACH,,Achievements,成就,reviewed,polish pass 004: KEEP
+english_metatexts:TIT_BTN_GAL_ACH_PLAYSTATION,english_metatexts.json,13,metatext,TIT_BTN_GAL_ACH_PLAYSTATION,,Trophies,奖杯,reviewed,polish pass 004: FIX
+english_metatexts:TIT_BTN_MET,english_metatexts.json,14,metatext,TIT_BTN_MET,,Meta-Shop,元商店,reviewed,polish pass 004: KEEP
+english_metatexts:TIT_BTN_STI,english_metatexts.json,15,metatext,TIT_BTN_STI,,Sticker Studio,贴纸工坊,reviewed,polish pass 004: KEEP
+english_metatexts:TIT_BTN_MOD,english_metatexts.json,16,metatext,TIT_BTN_MOD,,Fan Translation Modtool,玩家汉化工具,reviewed,polish pass 004: FIX
+english_metatexts:TIT_BTN_QUT,english_metatexts.json,17,metatext,TIT_BTN_QUT,,Quit,退出游戏,reviewed,polish pass 004: KEEP
+english_metatexts:STT_VCE_CNF,english_metatexts.json,18,metatext,STT_VCE_CNF,,Do you want to hear awesome voice effects or would you rather make them up as you go?,想听听精彩的角色语音，还是边玩边自己配音？,reviewed,polish pass 004: FIX
+english_metatexts:STT_VCE_CNF_YES,english_metatexts.json,19,metatext,STT_VCE_CNF_YES,,"VOICES, YAAAY!",要语音，好耶！,reviewed,polish pass 004: FIX
+english_metatexts:STT_VCE_CNF_NOO,english_metatexts.json,20,metatext,STT_VCE_CNF_NOO,,Make your own voices,自己配音,reviewed,polish pass 004: FIX
+english_metatexts:LOA_CHK_MSG,english_metatexts.json,21,metatext,LOA_CHK_MSG,,This game saves checkpoints automatically!,这个游戏会自动保存检查点!,reviewed,polish pass 004: KEEP
+english_metatexts:STT_EOTR_CNF,english_metatexts.json,22,metatext,STT_EOTR_CNF,,WARNING: You've reached the end of the End of the Road. Would you like to deactivate this destination for your next road trip?,提醒：你已完成“道路尽头”的最终内容。下次公路旅行，要关闭这个目的地吗？,reviewed,polish pass 004: FIX
+english_metatexts:STT_EOTR_STREAMERS_POPUP,english_metatexts.json,23,metatext,STT_EOTR_STREAMERS_POPUP,,"You are about to play the Streamer version of Monster Roadtrip with End of the Road enabled. Your run will start on Week 8, and Game Over will be disabled.",你即将游玩启用了“道路尽头”的《怪物公路旅行》主播版本。本局会从第 8 周开始，并禁用失败结局。,reviewed,polish pass 004: FIX
+english_metatexts:RSM_BTN_ASK_RSM,english_metatexts.json,24,metatext,RSM_BTN_ASK_RSM,,You have an ongoing game. Do you want to continue where you left off or start a new game?[n][n](Starting a new game will delete your current checkpoint.),你有一局尚未结束的游戏。要继续上次的进度，还是开始新游戏？[n][n]（开始新游戏会删除当前的阶段存档。）,reviewed,polish pass 004: POLISH
+english_metatexts:RSM_BTN_CON,english_metatexts.json,25,metatext,RSM_BTN_CON,,Continue,继续,reviewed,polish pass 004: KEEP
+english_metatexts:RSM_BTN_DEL,english_metatexts.json,26,metatext,RSM_BTN_DEL,,New game,新游戏,reviewed,polish pass 004: KEEP
+english_metatexts:RSM_BTN_BCK,english_metatexts.json,27,metatext,RSM_BTN_BCK,,Cancel,取消,reviewed,polish pass 004: FIX
+english_metatexts:RSM_BTN_ASK_DLT,english_metatexts.json,28,metatext,RSM_BTN_ASK_DLT,,You have an ongoing game. In order to join another match you will have to discard it.[n][n]Proceed and delete your current checkpoint?,你有一局尚未结束的游戏。加入其他对局前，必须放弃当前进度。[n][n]是否继续并删除当前的阶段存档？,reviewed,polish pass 004: POLISH
+english_metatexts:RSM_BTN_DLT_YES,english_metatexts.json,29,metatext,RSM_BTN_DLT_YES,,"Yes, delete",是，删除,reviewed,polish pass 004: FIX
+english_metatexts:RSM_BTN_DLT_NOO,english_metatexts.json,30,metatext,RSM_BTN_DLT_NOO,,No,否,reviewed,polish pass 004: FIX
+english_metatexts:RSM_BTN_ASK_DLT2,english_metatexts.json,31,metatext,RSM_BTN_ASK_DLT2,,You have an ongoing single player game. In order to create another match you will have to discard it.[n][n]Proceed and delete your current checkpoint?,你有一局尚未结束的单人游戏。创建新对局前，必须放弃当前进度。[n][n]是否继续并删除当前的阶段存档？,reviewed,polish pass 004: POLISH
+english_metatexts:RSM_BTN_DLT2_YES,english_metatexts.json,32,metatext,RSM_BTN_DLT2_YES,,"Yes, delete",是，删除,reviewed,polish pass 004: FIX
+english_metatexts:RSM_BTN_DLT2_NOO,english_metatexts.json,33,metatext,RSM_BTN_DLT2_NOO,,No,否,reviewed,polish pass 004: FIX
+english_metatexts:RSM_BTN_EOR_WRN_ENA,english_metatexts.json,34,metatext,RSM_BTN_EOR_WRN_ENA,,[n][n][n]The match you are about to resume has[n]  [c][FF2310]End of the Road[-][/c] enabled.,[n][n][n]即将继续的对局[n]已启用 [c][FF2310]道路尽头[-][/c]。,reviewed,polish pass 004: FIX
+english_metatexts:RSM_BTN_EOR_WRN_DIS,english_metatexts.json,35,metatext,RSM_BTN_EOR_WRN_DIS,,[n][n][n]The match you are about to resume has[n] [c][FF2310]End of the Road[-][/c] disabled.,[n][n][n]即将继续的对局[n]已禁用 [c][FF2310]道路尽头[-][/c]。,reviewed,polish pass 004: FIX
+english_metatexts:STT_MSC,english_metatexts.json,36,metatext,STT_MSC,,Music,音乐,reviewed,polish pass 004: KEEP
+english_metatexts:STT_SFX,english_metatexts.json,37,metatext,STT_SFX,,Sound effects,音效,reviewed,polish pass 004: KEEP
+english_metatexts:STT_VCE,english_metatexts.json,38,metatext,STT_VCE,,Voice,语音,reviewed,polish pass 004: KEEP
+english_metatexts:STT_WND,english_metatexts.json,39,metatext,STT_WND,,Window mode,窗口模式,reviewed,polish pass 004: KEEP
+english_metatexts:STT_DSP,english_metatexts.json,40,metatext,STT_DSP,,Display,显示器,reviewed,polish pass 004: KEEP
+english_metatexts:STT_LNG,english_metatexts.json,41,metatext,STT_LNG,,Language,语言,reviewed,polish pass 004: KEEP
+english_metatexts:STT_STR,english_metatexts.json,42,metatext,STT_STR,,Streamer mode,主播模式,reviewed,polish pass 004: FIX
+english_metatexts:STT_ACC,english_metatexts.json,43,metatext,STT_ACC,,Use accessible font,使用易读字体,reviewed,polish pass 004: FIX
+english_metatexts:STT_DYS,english_metatexts.json,44,metatext,STT_DYS,,Use dyslexia friendly font,使用阅读障碍友好字体,reviewed,polish pass 004: FIX
+english_metatexts:STT_INF,english_metatexts.json,45,metatext,STT_INF,,Check info manual,查看说明手册,reviewed,polish pass 004: FIX
+english_metatexts:STT_PRG,english_metatexts.json,46,metatext,STT_PRG,,Delete progress,删除进度,reviewed,polish pass 004: KEEP
+english_metatexts:STT_CRE,english_metatexts.json,47,metatext,STT_CRE,,View full credits,查看完整制作人员名单,reviewed,polish pass 004: FIX
+english_metatexts:STT_BCK,english_metatexts.json,48,metatext,STT_BCK,,Back,返回,reviewed,polish pass 004: KEEP
+english_metatexts:STT_ONN,english_metatexts.json,49,metatext,STT_ONN,,On,开启,reviewed,polish pass 004: KEEP
+english_metatexts:STT_OFF,english_metatexts.json,50,metatext,STT_OFF,,Off,关闭,reviewed,polish pass 004: KEEP
+english_metatexts:STT_WND_FLL,english_metatexts.json,51,metatext,STT_WND_FLL,,Fullscreen,全屏,reviewed,polish pass 004: KEEP
+english_metatexts:STT_WND_WND,english_metatexts.json,52,metatext,STT_WND_WND,,Windowed,窗口化,reviewed,polish pass 004: KEEP
+english_metatexts:STT_LNG_ENG,english_metatexts.json,53,metatext,STT_LNG_ENG,,English,英语,reviewed,polish pass 004: KEEP
+english_metatexts:STT_LNG_CHN,english_metatexts.json,54,metatext,STT_LNG_CHN,,Chinese,简体中文,reviewed,polish pass 004: KEEP
+english_metatexts:STT_LNG_SPA,english_metatexts.json,55,metatext,STT_LNG_SPA,,Spanish,西班牙语,reviewed,polish pass 004: KEEP
+english_metatexts:STT_LNG_ENGLISH,english_metatexts.json,56,metatext,STT_LNG_ENGLISH,,English,英语,reviewed,polish pass 004: KEEP
+english_metatexts:STT_LNG_SCHINESE,english_metatexts.json,57,metatext,STT_LNG_SCHINESE,,Chinese,简体中文,reviewed,polish pass 004: KEEP
+english_metatexts:STT_LNG_SPANISH,english_metatexts.json,58,metatext,STT_LNG_SPANISH,,Spanish,西班牙语,reviewed,polish pass 004: KEEP
+english_metatexts:STT_PGR_CNF,english_metatexts.json,59,metatext,STT_PGR_CNF,,ARE YOU SURE YOU WANT TO FLUSH EVERYTHING DOWN THE TOILET?,确定要把所有进度都冲进马桶吗？,reviewed,polish pass 004: FIX
+english_metatexts:STT_PGR_CNF_YES,english_metatexts.json,60,metatext,STT_PGR_CNF_YES,,FUCK YEAH,他妈的，当然！,reviewed,polish pass 004: FIX
+english_metatexts:STT_PGR_CNF_NOO,english_metatexts.json,61,metatext,STT_PGR_CNF_NOO,,"WAIT, NO!",等等，不要！,reviewed,polish pass 004: FIX
+english_metatexts:STT_PGR_CNF_CNF,english_metatexts.json,62,metatext,STT_PGR_CNF_CNF,,"BUT LIKE, REALLY FUCKIN' SURE? I MEAN... REALLY?!",可你真的、他妈的确定吗？我是说……真的？！,reviewed,polish pass 004: POLISH
+english_metatexts:STT_PGR_CNF_CNF_YES,english_metatexts.json,63,metatext,STT_PGR_CNF_CNF_YES,,YEAH!,对!,reviewed,polish pass 004: KEEP
+english_metatexts:STT_PGR_CNF_CNF_NOO,english_metatexts.json,64,metatext,STT_PGR_CNF_CNF_NOO,,NO!!!,不要！！！,reviewed,polish pass 004: FIX
+english_metatexts:STT_RST,english_metatexts.json,65,metatext,STT_RST,,Restart the game to apply changes!,重新启动游戏以应用更改 !,reviewed,polish pass 004: KEEP
+english_metatexts:STT_STR_NOTE,english_metatexts.json,66,metatext,STT_STR_NOTE,,Streamer mode will replace the credits song with a safe-to-stream song,主播模式会把片尾曲换成适合直播播放的歌曲。,reviewed,polish pass 004: FIX
+english_metatexts:STT_ACC_NOTE,english_metatexts.json,67,metatext,STT_ACC_NOTE,,"Accessible fonts are only available for Latin alphabetic languages. If you're using a Fan Translation Mod, it's possible the default font will be used.",易读字体仅适用于使用拉丁字母的语言。如果使用玩家汉化 Mod，游戏可能仍采用默认字体。,reviewed,polish pass 004: POLISH
+english_metatexts:STT_TWN_TTL,english_metatexts.json,68,metatext,STT_TWN_TTL,,Trigger warnings,内容预警,reviewed,polish pass 004: FIX
+english_metatexts:STT_TWS_BLK,english_metatexts.json,69,metatext,STT_TWS_BLK,,Warning,显示预警,reviewed,polish pass 004: FIX
+english_metatexts:STT_TWS_ALW,english_metatexts.json,70,metatext,STT_TWS_ALW,,No Warning,不显示预警,reviewed,polish pass 004: FIX
+english_metatexts:STT_TWN_DRU,english_metatexts.json,71,metatext,STT_TWN_DRU,,Drugs,毒品,reviewed,polish pass 004: FIX
+english_metatexts:STT_TWD_DRU,english_metatexts.json,72,metatext,STT_TWD_DRU,,Flags content including the use of drugs.,对包含吸毒情节的内容显示预警。,reviewed,polish pass 004: FIX
+english_metatexts:STT_TWN_SCA,english_metatexts.json,73,metatext,STT_TWN_SCA,,Toilet humor,厕所幽默,reviewed,polish pass 004: KEEP
+english_metatexts:STT_TWD_SCA,english_metatexts.json,74,metatext,STT_TWD_SCA,,Flags content that use scatological humor that some may find too explicit.,对包含排泄物相关笑话的内容显示预警；部分玩家可能觉得这些描写过于露骨。,reviewed,polish pass 004: FIX
+english_metatexts:STT_TWN_SEX,english_metatexts.json,75,metatext,STT_TWN_SEX,,Highly sexual,露骨性描写,reviewed,polish pass 004: FIX
+english_metatexts:STT_TWD_SEX,english_metatexts.json,76,metatext,STT_TWD_SEX,,Flags content with written depictions of sex that some may find too explicit.,对包含性爱文字描写的内容显示预警；部分玩家可能觉得这些描写过于露骨。,reviewed,polish pass 004: FIX
+english_metatexts:STT_TWN_VIO,english_metatexts.json,77,metatext,STT_TWN_VIO,,Highly violent,极度暴力,reviewed,polish pass 004: KEEP
+english_metatexts:STT_TWD_VIO,english_metatexts.json,78,metatext,STT_TWD_VIO,,Flags content with written depictions of violence that some may find too explicit.,对包含暴力文字描写的内容显示预警；部分玩家可能觉得这些描写过于露骨。,reviewed,polish pass 004: FIX
+english_metatexts:STT_TWN_XPL,english_metatexts.json,79,metatext,STT_TWN_XPL,,"Please keep in mind that due to the nature of the game, stuff like violence and sex are common grounds. The Trigger Warnings will warn you of the most intense cases that might trigger even someone accustomed to the franchise's usual tone.",请注意，本游戏本就常有暴力和性相关内容。内容预警针对其中最强烈的情节，即使熟悉系列一贯的风格，也可能感到不适。,reviewed,polish pass 004: POLISH
+english_metatexts:STT_TWN_CRE,english_metatexts.json,80,metatext,STT_TWN_CRE,,Horrible people,恶劣人物,reviewed,polish pass 004: FIX
+english_metatexts:STT_TWD_CRE,english_metatexts.json,81,metatext,STT_TWD_CRE,,"Filters events with people who may behave in ways that are especially despicable (hateful or with no boundaries). [These stances are always with characters clearly depicted as villains, or the player is depicted as clearly acting wrongly in a failure outcome]",筛除人物行为特别恶劣的事件，例如仇恨言行或毫无边界感。（这些立场总是属于明确描写为反派的角色，或出现在明确表现玩家行为有错的失败结果中。）,reviewed,polish pass 004: FIX
+english_metatexts:STT_TWN_REF,english_metatexts.json,82,metatext,STT_TWN_REF,,"""Monster Prom"" references",《怪物舞会》相关梗,reviewed,polish pass 004: FIX
+english_metatexts:STT_TWD_REF,english_metatexts.json,83,metatext,STT_TWD_REF,,Filters events that have heavy Monster Prom references. For people who didn't play the first game.,筛除大量引用《怪物舞会》的事件，适合没玩过系列首作的玩家。,reviewed,polish pass 004: FIX
+english_metatexts:STT_JMP_TTL,english_metatexts.json,84,metatext,STT_JMP_TTL,,Jump Scare,突发惊吓,reviewed,polish pass 004: FIX
+english_metatexts:STT_LBL_OTH,english_metatexts.json,85,metatext,STT_LBL_OTH,,Other,其它,reviewed,polish pass 004: KEEP
+english_metatexts:STT_OTH_ASL,english_metatexts.json,86,metatext,STT_OTH_ASL,,Allow Self-Love,允许自爱,reviewed,polish pass 004: KEEP
+english_metatexts:STT_OTH_ALL,english_metatexts.json,87,metatext,STT_OTH_ALL,,Allows hitchhiker to be chosen even if a player selected them to play the game.,即使某个角色已被玩家选为可玩角色，仍允许其作为搭车客出现。,reviewed,polish pass 004: FIX
+english_metatexts:STT_SHH_TTL,english_metatexts.json,88,metatext,STT_SHH_TTL,,Special Hitchhiker,特殊搭车客,reviewed,polish pass 001: FIX
+english_metatexts:STT_EOTR_TTL,english_metatexts.json,89,metatext,STT_EOTR_TTL,,End of the Road,道路尽头,reviewed,polish pass 004: KEEP
+english_metatexts:STT_OTH_END,english_metatexts.json,90,metatext,STT_OTH_END,,"Be aware this content can at times feel much darker and heavier than the game's usual tone, dealing with themes such as existential dread. Also, due to potentially off-putting visual and audio content, this might not be suitable for people with photosensitive epilepsy or claustrophobia.",请注意，这部分内容有时比游戏通常的风格更阴暗、沉重，涉及对存在本身的恐惧等主题。某些画面和声音可能令人不适，患有光敏性癫痫或幽闭恐惧症的玩家可能不适合游玩。,reviewed,polish pass 004: FIX
+english_metatexts:STT_DOP_PCP,english_metatexts.json,91,metatext,STT_DOP_PCP,,Available character packs,可用角色包,reviewed,polish pass 004: FIX
+english_metatexts:STT_DCP_BASE,english_metatexts.json,92,metatext,STT_DCP_BASE,,Base characters,基础角色,reviewed,polish pass 004: FIX
+english_metatexts:STT_DOP_NOD,english_metatexts.json,93,metatext,STT_DOP_NOD,,Get more DLCs,获取更多 DLC,reviewed,polish pass 004: KEEP
+english_metatexts:STT_DOP_NOD_SWITCH,english_metatexts.json,94,metatext,STT_DOP_NOD_SWITCH,,Check downloadable content,查看可下载内容,reviewed,polish pass 004: FIX
+english_metatexts:MNL_BCK,english_metatexts.json,95,metatext,MNL_BCK,,Back,返回,reviewed,polish pass 004: KEEP
+english_metatexts:PRL_STT_PLN,english_metatexts.json,98,metatext,PRL_STT_PLN,,How many of you are there?,你们有多少人?,reviewed,polish pass 004: KEEP
+english_metatexts:PRL_STT_LCK,english_metatexts.json,99,metatext,PRL_STT_LCK,,Locked,已锁定,reviewed,polish pass 004: KEEP
+english_metatexts:PRL_STT_LCK2,english_metatexts.json,100,metatext,PRL_STT_LCK2,,Keep playing to unlock!,继续玩来解锁!,reviewed,polish pass 004: KEEP
+english_metatexts:PRL_FRH_DSC,english_metatexts.json,101,metatext,PRL_FRH_DSC,,Play with your friends without anyone ending up with a Failure or an MVP ending. No pressure!,和朋友一起轻松玩，谁都不会拿到失败结局或 MVP 结局。毫无压力！,reviewed,polish pass 004: FIX
+english_metatexts:PRL_RDT_DSC,english_metatexts.json,102,metatext,PRL_RDT_DSC,,"The true survival co-op experience, including a player performance ranking at the end!",真正的合作生存体验，结局时还会按玩家表现排名！,reviewed,polish pass 004: FIX
+english_metatexts:PRL_PRM_DSC,english_metatexts.json,103,metatext,PRL_PRM_DSC,,Add some cutthroat mechanics to decide who's the MVP! (Beautiful Glitch declines responsibility for broken relationships.),加入竞争激烈的玩法机制，决出最佳队员！ （Beautiful Glitch 对友谊破裂概不负责。）,reviewed,polish pass 004: FIX
+english_metatexts:PRL_EAS_DSC,english_metatexts.json,104,metatext,PRL_EAS_DSC,,Focus on the narrative & take the scenic route[n]- Higher initial Resources[n]- Deep Conversations are impossible to fail,专心看剧情，悠闲赏风景[n]- 初始资源更多[n]- 深入对话不会失败,reviewed,polish pass 004: FIX
+english_metatexts:PRL_NRM_DSC,english_metatexts.json,105,metatext,PRL_NRM_DSC,,Your standard road trip experience:[n]- Standard initial Resources[n]- Extra attempt at Deep Conversations,标准公路旅行体验：[n]- 标准初始资源[n]- 深入对话有一次额外尝试机会,reviewed,polish pass 004: FIX
+english_metatexts:PRL_HAR_DSC,english_metatexts.json,106,metatext,PRL_HAR_DSC,,Face a ruthless survival challenge: [n]- Lower initial Resources[n]- Higher Destination requirements[n]- Resource changes are tougher[n]- No extra attempts at Deep Conversations,迎接残酷的生存挑战：[n]- 初始资源更少[n]- 目的地要求更高[n]- 资源增减更严苛[n]- 深入对话没有额外尝试机会,reviewed,polish pass 004: FIX
+english_metatexts:PRL_GODMODE,english_metatexts.json,107,metatext,PRL_GODMODE,,God mode:,上帝模式：,reviewed,polish pass 004: FIX
+english_metatexts:PRL_GOD_ACH,english_metatexts.json,108,metatext,PRL_GOD_ACH,,Note: You won't unlock any achievements while God Mode is on.,注意：开启上帝模式后，无法解锁成就。,reviewed,polish pass 004: POLISH
+english_metatexts:PRL_GMD_COOP,english_metatexts.json,109,metatext,PRL_GMD_COOP,,Friend Hugger,好友拥抱者,reviewed,polish pass 001: FIX
+english_metatexts:PRL_GMD_REGULAR,english_metatexts.json,110,metatext,PRL_GMD_REGULAR,,Road Tripper,公路旅人,reviewed,polish pass 001: FIX
+english_metatexts:PRL_GMD_MISSIONS,english_metatexts.json,111,metatext,PRL_GMD_MISSIONS,,Prank Master,恶作剧大师,reviewed,polish pass 001: KEEP
+english_metatexts:PRL_DIF_EASY,english_metatexts.json,112,metatext,PRL_DIF_EASY,,Easy,简单,reviewed,polish pass 004: FIX
+english_metatexts:PRL_DIF_NORMAL,english_metatexts.json,113,metatext,PRL_DIF_NORMAL,,Normal,常规,reviewed,polish pass 004: KEEP
+english_metatexts:PRL_DIF_HARD,english_metatexts.json,114,metatext,PRL_DIF_HARD,,Hard,困难,reviewed,polish pass 004: FIX
+english_metatexts:PRL_STT_DRT,english_metatexts.json,115,metatext,PRL_STT_DRT,,How long do you want to play?,你想玩多长时间?,reviewed,polish pass 004: KEEP
+english_metatexts:PRL_STT_DRV,english_metatexts.json,116,metatext,PRL_STT_DRV,,Around [00] minutes,约 [00] 分钟,reviewed,polish pass 004: FIX
+english_metatexts:PRL_SKP,english_metatexts.json,117,metatext,PRL_SKP,,Skip,跳过,reviewed,polish pass 004: KEEP
+english_metatexts:PRL_STT_PLS,english_metatexts.json,118,metatext,PRL_STT_PLS,,Who are you?,你是谁?,reviewed,polish pass 004: KEEP
+english_metatexts:PRL_PLS_CHP,english_metatexts.json,119,metatext,PRL_PLS_CHP,,Choose player [0],选择玩家 [0],reviewed,polish pass 004: KEEP
+english_metatexts:PRL_PLS_CHP_SNG,english_metatexts.json,120,metatext,PRL_PLS_CHP_SNG,,Choose player,选择玩家,reviewed,polish pass 004: KEEP
+english_metatexts:PLY_WHO_TTL,english_metatexts.json,121,metatext,PLY_WHO_TTL,,"Who are you, really?",你究竟是谁？,reviewed,polish pass 004: POLISH
+english_metatexts:PLY_WHO_NAM,english_metatexts.json,122,metatext,PLY_WHO_NAM,,Name,名称,reviewed,polish pass 004: KEEP
+english_metatexts:PLY_WHO_PRN,english_metatexts.json,123,metatext,PLY_WHO_PRN,,Pronoun,人称代词,reviewed,polish pass 004: POLISH
+english_metatexts:PLY_WHO_OK,english_metatexts.json,124,metatext,PLY_WHO_OK,,OK,确定,reviewed,polish pass 004: FIX
+english_metatexts:PLY_PRN_HEE,english_metatexts.json,125,metatext,PLY_PRN_HEE,,He,他,reviewed,polish pass 004: FIX
+english_metatexts:PLY_PRN_SHE,english_metatexts.json,126,metatext,PLY_PRN_SHE,,She,她,reviewed,polish pass 004: KEEP
+english_metatexts:PLY_PRN_THY,english_metatexts.json,127,metatext,PLY_PRN_THY,,They,TA,reviewed,polish pass 004: FIX
+english_metatexts:PLY_KYB_WAT,english_metatexts.json,128,metatext,PLY_KYB_WAT,,The other player is typing...,另一名玩家在打字...,reviewed,polish pass 004: KEEP
+english_metatexts:PLY_KYB_VRF,english_metatexts.json,129,metatext,PLY_KYB_VRF,,Verifying player name...,正在验证玩家名称...,reviewed,polish pass 004: KEEP
+english_metatexts:PLY_KYB_INV,english_metatexts.json,130,metatext,PLY_KYB_INV,,Invalid Player Name,无效的玩家名称,reviewed,polish pass 004: KEEP
+english_metatexts:PLY_KYB_INV_DSC,english_metatexts.json,131,metatext,PLY_KYB_INV_DSC,,"The entered name is not valid, please use a different one.","输入的名称无效, 请使用不同的名称 。",reviewed,polish pass 004: KEEP
+english_metatexts:PLY_NAM_BLUE,english_metatexts.json,132,metatext,PLY_NAM_BLUE,,Vicky,维姬,reviewed,polish pass 004: KEEP
+english_metatexts:PLY_ALT_BLUE,english_metatexts.json,133,metatext,PLY_ALT_BLUE,,Blue,蓝色,reviewed,polish pass 004: KEEP
+english_metatexts:PLY_NAM_GREEN,english_metatexts.json,134,metatext,PLY_NAM_GREEN,,Brian,布莱恩,reviewed,polish pass 004: KEEP
+english_metatexts:PLY_ALT_GREEN,english_metatexts.json,135,metatext,PLY_ALT_GREEN,,Green,绿色,reviewed,polish pass 004: KEEP
+english_metatexts:PLY_NAM_RED,english_metatexts.json,136,metatext,PLY_NAM_RED,,Amira,阿米拉,reviewed,polish pass 004: KEEP
+english_metatexts:PLY_ALT_RED,english_metatexts.json,137,metatext,PLY_ALT_RED,,Red,红色,reviewed,polish pass 004: KEEP
+english_metatexts:PLY_NAM_YELLOW,english_metatexts.json,138,metatext,PLY_NAM_YELLOW,,Oz,奥兹,reviewed,polish pass 004: KEEP
+english_metatexts:PLY_ALT_YELLOW,english_metatexts.json,139,metatext,PLY_ALT_YELLOW,,Yellow,黄色,reviewed,polish pass 004: KEEP
+english_metatexts:PLY_NAM_CINNAMON,english_metatexts.json,140,metatext,PLY_NAM_CINNAMON,,Hazel,海泽尔,reviewed,polish pass 004: KEEP
+english_metatexts:PLY_ALT_CINNAMON,english_metatexts.json,141,metatext,PLY_ALT_CINNAMON,,Cinnamon,肉桂色,reviewed,polish pass 004: FIX
+english_metatexts:PLY_NAM_GLITCH,english_metatexts.json,142,metatext,PLY_NAM_GLITCH,,Glitch,Glitch,reviewed,polish pass 004: FIX
+english_metatexts:PLY_ALT_GLITCH,english_metatexts.json,143,metatext,PLY_ALT_GLITCH,,ERROR,错误,reviewed,polish pass 004: KEEP
+english_metatexts:PLY_NAM_JUAN,english_metatexts.json,144,metatext,PLY_NAM_JUAN,,Juan,胡安,reviewed,polish pass 004: KEEP
+english_metatexts:PLY_ALT_JUAN,english_metatexts.json,145,metatext,PLY_ALT_JUAN,,Chicle,齐克勒,reviewed,polish pass 004: KEEP
+english_metatexts:PLY_NAM_ZOE,english_metatexts.json,146,metatext,PLY_NAM_ZOE,,Zoe,佐伊,reviewed,polish pass 004: KEEP
+english_metatexts:PLY_ALT_ZOE,english_metatexts.json,147,metatext,PLY_ALT_ZOE,,Purple,紫色,reviewed,polish pass 004: FIX
+english_metatexts:PLY_NAM_PUMPKIN,english_metatexts.json,148,metatext,PLY_NAM_PUMPKIN,,Jacqueline,杰奎琳,reviewed,polish pass 004: FIX
+english_metatexts:PLY_ALT_PUMPKIN,english_metatexts.json,149,metatext,PLY_ALT_PUMPKIN,,Orange,橙色,reviewed,polish pass 004: FIX
+english_metatexts:PLY_NAM_SLIME,english_metatexts.json,150,metatext,PLY_NAM_SLIME,,Doug,道格,reviewed,polish pass 004: FIX
+english_metatexts:PLY_ALT_SLIME,english_metatexts.json,151,metatext,PLY_ALT_SLIME,,Turquoise,绿松石色,reviewed,polish pass 004: FIX
+english_metatexts:PLY_NAM_CUSTOMNAME,english_metatexts.json,152,metatext,PLY_NAM_CUSTOMNAME,,[Custom Name],[Custom Name],reviewed,polish pass 004: KEEP
+english_metatexts:STK_ADD,english_metatexts.json,155,metatext,STK_ADD,,Add Sticker,添加贴纸,reviewed,polish pass 004: FIX
+english_metatexts:STK_DONE,english_metatexts.json,156,metatext,STK_DONE,,Done!,完成！,reviewed,polish pass 004: FIX
+english_metatexts:STK_SEL_BCK,english_metatexts.json,157,metatext,STK_SEL_BCK,,Select background,选择背景,reviewed,polish pass 004: KEEP
+english_metatexts:STK_MIN_TTL,english_metatexts.json,158,metatext,STK_MIN_TTL,,Sticker Studio,贴纸工坊,reviewed,polish pass 004: KEEP
+english_metatexts:STK_MAI_CRE,english_metatexts.json,159,metatext,STK_MAI_CRE,,Let's[n]create,开始[n]创作,reviewed,polish pass 004: FIX
+english_metatexts:STK_MAI_VIE,english_metatexts.json,160,metatext,STK_MAI_VIE,,View your[n]designs,浏览您的[n]设计,reviewed,polish pass 004: KEEP
+english_metatexts:STK_MYD_TTL,english_metatexts.json,161,metatext,STK_MYD_TTL,,My designs,我的设计,reviewed,polish pass 004: KEEP
+english_metatexts:STK_TOO_MOVE,english_metatexts.json,162,metatext,STK_TOO_MOVE,,Move,移动,reviewed,polish pass 004: KEEP
+english_metatexts:STK_TOO_ROTATE,english_metatexts.json,163,metatext,STK_TOO_ROTATE,,Rotate,旋转,reviewed,polish pass 004: KEEP
+english_metatexts:STK_TOO_SCALE,english_metatexts.json,164,metatext,STK_TOO_SCALE,,Scale,缩放,reviewed,polish pass 004: KEEP
+english_metatexts:STK_TOO_BRINGFRONT,english_metatexts.json,165,metatext,STK_TOO_BRINGFRONT,,Front,置顶,reviewed,polish pass 004: FIX
+english_metatexts:STK_TOO_BRINGBACK,english_metatexts.json,166,metatext,STK_TOO_BRINGBACK,,Back,置底,reviewed,polish pass 004: FIX
+english_metatexts:STK_TOO_DELETE,english_metatexts.json,167,metatext,STK_TOO_DELETE,,Delete,删除,reviewed,polish pass 004: KEEP
+english_metatexts:STK_TOO_MIRROR,english_metatexts.json,168,metatext,STK_TOO_MIRROR,,Mirror,镜像,reviewed,polish pass 004: KEEP
+english_metatexts:STK_TLB_PRVNXT,english_metatexts.json,169,metatext,STK_TLB_PRVNXT,,Previous/Next Sticker,上一张／下一张贴纸,reviewed,polish pass 004: FIX
+english_metatexts:STK_TLB_SLWFST,english_metatexts.json,170,metatext,STK_TLB_SLWFST,,(Hold) Slower/Faster Edit,（按住）减慢／加快编辑,reviewed,polish pass 004: FIX
+english_metatexts:STK_TLB_CLS,english_metatexts.json,171,metatext,STK_TLB_CLS,,Close Toolbar,关闭工具栏,reviewed,polish pass 004: KEEP
+english_metatexts:STK_TLB_CSL,english_metatexts.json,172,metatext,STK_TLB_CSL,,Confirm Selection,确认选择,reviewed,polish pass 004: KEEP
+english_metatexts:STK_TLB_CNCEDIT,english_metatexts.json,173,metatext,STK_TLB_CNCEDIT,,Cancel Edit,取消编辑,reviewed,polish pass 004: KEEP
+english_metatexts:STK_TLB_CNFEDIT,english_metatexts.json,174,metatext,STK_TLB_CNFEDIT,,Confirm Edit,确认编辑,reviewed,polish pass 004: KEEP
+english_metatexts:STK_ALBUMNOTE,english_metatexts.json,175,metatext,STK_ALBUMNOTE,,You can check your creations in the console's media gallery,可以在主机的媒体库中查看你的作品。,reviewed,polish pass 004: FIX
+english_metatexts:STK_ALBUMNOTE_PLAYSTATION4,english_metatexts.json,176,metatext,STK_ALBUMNOTE_PLAYSTATION4,,You can check your creations in the PlayStation®4 system's Capture Gallery,可以在 PlayStation®4 系统的截取画面相簿中查看你的作品。,reviewed,polish pass 004: FIX
+english_metatexts:STK_ALBUMNOTE_PLAYSTATION5,english_metatexts.json,177,metatext,STK_ALBUMNOTE_PLAYSTATION5,,You can check your creations in the PlayStation®5 console's Media Gallery,可以在 PlayStation®5 主机的媒体库中查看你的作品。,reviewed,polish pass 004: FIX
+english_metatexts:STK_ALBUMNOTE_XBOX,english_metatexts.json,178,metatext,STK_ALBUMNOTE_XBOX,,You can check your creations in the Xbox console's Captures app,可以在 Xbox 主机的截取应用中查看你的作品。,reviewed,polish pass 004: FIX
+english_metatexts:STK_BCK_MSG,english_metatexts.json,179,metatext,STK_BCK_MSG,,Are you sure you want to go back and discard the current composition changes?,确定要返回，并放弃当前作品的修改吗？,reviewed,polish pass 004: POLISH
+english_metatexts:STT_BCK_YES,english_metatexts.json,180,metatext,STT_BCK_YES,,Yes,是,reviewed,polish pass 004: FIX
+english_metatexts:STT_BCK_NOO,english_metatexts.json,181,metatext,STT_BCK_NOO,,No,否,reviewed,polish pass 004: FIX
+english_metatexts:STK_DNE_MSG,english_metatexts.json,182,metatext,STK_DNE_MSG,,Are you sure you want to save the final composition and finish?,确定要保存最终作品并完成编辑吗？,reviewed,polish pass 004: POLISH
+english_metatexts:STT_DNE_YES,english_metatexts.json,183,metatext,STT_DNE_YES,,Yes,是,reviewed,polish pass 004: FIX
+english_metatexts:STT_DNE_NOO,english_metatexts.json,184,metatext,STT_DNE_NOO,,No,否,reviewed,polish pass 004: FIX
+english_metatexts:STT_GRD_MSG,english_metatexts.json,185,metatext,STT_GRD_MSG,,Select a ratio for this gradient background:,选择渐变背景的宽高比：,reviewed,polish pass 004: FIX
+english_metatexts:STT_GRD_ONE,english_metatexts.json,186,metatext,STT_GRD_ONE,,Square,正方形,reviewed,polish pass 004: FIX
+english_metatexts:STT_GRD_TWO,english_metatexts.json,187,metatext,STT_GRD_TWO,,Wide,横向,reviewed,polish pass 004: FIX
+english_metatexts:STT_GRD_THR,english_metatexts.json,188,metatext,STT_GRD_THR,,Tall,竖向,reviewed,polish pass 004: FIX
+english_metatexts:STK_LIM_REA,english_metatexts.json,189,metatext,STK_LIM_REA,,Sticker limit reached,已达到贴纸数量上限,reviewed,polish pass 004: FIX
+english_metatexts:STK_SCRSVD,english_metatexts.json,190,metatext,STK_SCRSVD,,Screenshot saved!,屏幕截图已保存 。,reviewed,polish pass 004: KEEP
+english_metatexts:STK_SCRERR,english_metatexts.json,191,metatext,STK_SCRERR,,Error saving screenshot.,保存截图出错 。,reviewed,polish pass 004: KEEP
+english_metatexts:STK_TAB_GRA,english_metatexts.json,192,metatext,STK_TAB_GRA,,Gradient,渐变,reviewed,polish pass 004: KEEP
+english_metatexts:STK_TAB_SCE,english_metatexts.json,193,metatext,STK_TAB_SCE,,Scenic,风景,reviewed,polish pass 004: KEEP
+english_metatexts:STK_TAB_WID,english_metatexts.json,194,metatext,STK_TAB_WID,,Special: Wide,特殊：横向,reviewed,polish pass 004: FIX
+english_metatexts:STK_TAB_REG,english_metatexts.json,195,metatext,STK_TAB_REG,,Special: Square,特殊：正方形,reviewed,polish pass 004: FIX
+english_metatexts:STK_TAB_LOC,english_metatexts.json,196,metatext,STK_TAB_LOC,,Location,地点,reviewed,polish pass 004: KEEP
+english_metatexts:STK_TAB_MAP,english_metatexts.json,197,metatext,STK_TAB_MAP,,Map,地图,reviewed,polish pass 004: KEEP
 english_metatexts:STK_TAB_CHP,english_metatexts.json,198,metatext,STK_TAB_CHP,,Chibi PC,奇比电脑,machine,Argos en_zh 1.9; requires review
 english_metatexts:STK_TAB_CHA,english_metatexts.json,199,metatext,STK_TAB_CHA,,Chibi alt,奇比阿尔特,machine,Argos en_zh 1.9; requires review
 english_metatexts:STK_TAB_CHG,english_metatexts.json,200,metatext,STK_TAB_CHG,,Chibi gacha,奇比・加查,machine,Argos en_zh 1.9; requires review
@@ -215,7 +215,7 @@ english_metatexts:LBB_PL1,english_metatexts.json,222,metatext,LBB_PL1,,Player 1,
 english_metatexts:LBB_PL2,english_metatexts.json,223,metatext,LBB_PL2,,Player 2,玩家 2,machine,Argos en_zh 1.9; requires review
 english_metatexts:LBB_PL3,english_metatexts.json,224,metatext,LBB_PL3,,Player 3,玩家 3,machine,Argos en_zh 1.9; requires review
 english_metatexts:LBB_PL4,english_metatexts.json,225,metatext,LBB_PL4,,Player 4,玩家 4,machine,Argos en_zh 1.9; requires review
-english_metatexts:LBB_ADD,english_metatexts.json,226,metatext,LBB_ADD,,ADD LOCAL PLAYER,阿德·洛卡尔扮演者,machine,Argos en_zh 1.9; requires review
+english_metatexts:LBB_ADD,english_metatexts.json,226,metatext,LBB_ADD,,ADD LOCAL PLAYER,添加本地玩家,reviewed,polish pass 001: FIX
 english_metatexts:LBB_LCL,english_metatexts.json,227,metatext,LBB_LCL,,LOCAL,当地,machine,Argos en_zh 1.9; requires review
 english_metatexts:LBB_KCK,english_metatexts.json,228,metatext,LBB_KCK,,KICK,捷克语,machine,Argos en_zh 1.9; requires review
 english_metatexts:LBB_RMV,english_metatexts.json,229,metatext,LBB_RMV,,REMOVE,递增,machine,Argos en_zh 1.9; requires review
@@ -232,7 +232,7 @@ english_metatexts:LBB_RHS,english_metatexts.json,239,metatext,LBB_RHS,,HIGHEST S
 english_metatexts:LBB_RLS,english_metatexts.json,240,metatext,LBB_RLS,,LOWEST STAT,低地统计法,machine,Argos en_zh 1.9; requires review
 english_metatexts:LBB_RAS,english_metatexts.json,241,metatext,LBB_RAS,,ASSIGN,阿富汗,machine,Argos en_zh 1.9; requires review
 english_metatexts:LBB_RUN,english_metatexts.json,242,metatext,LBB_RUN,,UNASSIGN,导弹,machine,Argos en_zh 1.9; requires review
-english_metatexts:LBB_INV,english_metatexts.json,243,metatext,LBB_INV,,INVITE PLAYERS,内幕表演者,machine,Argos en_zh 1.9; requires review
+english_metatexts:LBB_INV,english_metatexts.json,243,metatext,LBB_INV,,INVITE PLAYERS,邀请玩家,reviewed,polish pass 001: FIX
 english_metatexts:LBB_OGI_TTL,english_metatexts.json,244,metatext,LBB_OGI_TTL,,ONLINE GAME INVITE,网上游戏,machine,Argos en_zh 1.9; requires review
 english_metatexts:LBB_OGI_PRC,english_metatexts.json,245,metatext,LBB_OGI_PRC,,Processing game invite...,正在处理游戏邀请...,machine,Argos en_zh 1.9; requires review
 english_metatexts:LBB_OGI_RLN_XBOX,english_metatexts.json,246,metatext,LBB_OGI_RLN_XBOX,,Processing game invite. Relaunching game with new default user...,处理游戏邀请. 正在以新的默认用户重启游戏...,machine,Argos en_zh 1.9; requires review
@@ -256,7 +256,7 @@ english_metatexts:MRN,english_metatexts.json,265,metatext,MRN,,Morning,早 间,m
 english_metatexts:NON,english_metatexts.json,266,metatext,NON,,Noon,午间,machine,Argos en_zh 1.9; requires review
 english_metatexts:EVN,english_metatexts.json,267,metatext,EVN,,Evening,晚间,machine,Argos en_zh 1.9; requires review
 english_metatexts:NGH,english_metatexts.json,268,metatext,NGH,,Night,夜 间,machine,Argos en_zh 1.9; requires review
-english_metatexts:PLA_TUR_SIM,english_metatexts.json,269,metatext,PLA_TUR_SIM,,[PLAYER]'s turn,[PLAYER]轮到,machine,Argos en_zh 1.9; requires review
+english_metatexts:PLA_TUR_SIM,english_metatexts.json,269,metatext,PLA_TUR_SIM,,[PLAYER]'s turn,轮到 [PLAYER],reviewed,polish pass 001: FIX
 english_metatexts:ANN_MSS_SLC,english_metatexts.json,270,metatext,ANN_MSS_SLC,,Time for new dares!,是时候开始新的冒险了!,machine,Argos en_zh 1.9; requires review
 english_metatexts:ANN_MSS_RSL,english_metatexts.json,271,metatext,ANN_MSS_RSL,,Dare updates!,大胆的更新!,machine,Argos en_zh 1.9; requires review
 english_metatexts:ANN_QGL,english_metatexts.json,272,metatext,ANN_QGL,,Later that night...,那晚晚些时候...,machine,Argos en_zh 1.9; requires review
@@ -276,56 +276,56 @@ english_metatexts:BTN_YES_EX,english_metatexts.json,285,metatext,BTN_YES_EX,,Yes
 english_metatexts:BTN_NO_EX,english_metatexts.json,286,metatext,BTN_NO_EX,,No!,没有!,machine,Argos en_zh 1.9; requires review
 english_metatexts:INF_HID,english_metatexts.json,287,metatext,INF_HID,,Hide,隐藏,machine,Argos en_zh 1.9; requires review
 english_metatexts:GOD_GMC,english_metatexts.json,288,metatext,GOD_GMC,,Game Over count:,游戏数 :,machine,Argos en_zh 1.9; requires review
-english_metatexts:MSS_TTL_NOS,english_metatexts.json,289,metatext,MSS_TTL_NOS,,[PC]'s dares,[PC]敢说,machine,Argos en_zh 1.9; requires review
-english_metatexts:MSS_TTL_WTS,english_metatexts.json,290,metatext,MSS_TTL_WTS,,[PC]' dares,[PC]大胆,machine,Argos en_zh 1.9; requires review
-english_metatexts:MSS_TTL_DST,english_metatexts.json,291,metatext,MSS_TTL_DST,,Destinations,目标,machine,Argos en_zh 1.9; requires review
-english_metatexts:PIT_BID_KIC,english_metatexts.json,292,metatext,PIT_BID_KIC,,Bid [0] Prank Dollarz to kick [1]?,投标 [0] 恶作剧美元来踢 [1]?,machine,Argos en_zh 1.9; requires review
-english_metatexts:PIT_BID_NOT,english_metatexts.json,293,metatext,PIT_BID_NOT,,You can't kick [1]. You would need [0] Prank Dollarz to do it.,你踢不开的 [1]. 你会需要 [0] 恶作剧Dollarz做到这一点。,machine,Argos en_zh 1.9; requires review
+english_metatexts:MSS_TTL_NOS,english_metatexts.json,289,metatext,MSS_TTL_NOS,,[PC]'s dares,[PC]的挑战,reviewed,polish pass 001: FIX
+english_metatexts:MSS_TTL_WTS,english_metatexts.json,290,metatext,MSS_TTL_WTS,,[PC]' dares,[PC]的挑战,reviewed,polish pass 001: FIX
+english_metatexts:MSS_TTL_DST,english_metatexts.json,291,metatext,MSS_TTL_DST,,Destinations,目的地,reviewed,polish pass 001: FIX
+english_metatexts:PIT_BID_KIC,english_metatexts.json,292,metatext,PIT_BID_KIC,,Bid [0] Prank Dollarz to kick [1]?,出价 [0] 枚恶作剧币，把 [1] 挤走？,reviewed,polish pass 001: FIX
+english_metatexts:PIT_BID_NOT,english_metatexts.json,293,metatext,PIT_BID_NOT,,You can't kick [1]. You would need [0] Prank Dollarz to do it.,暂时无法挤走 [1]。需要 [0] 枚恶作剧币。,reviewed,polish pass 001: FIX
 english_metatexts:HTC_TTL_SEL,english_metatexts.json,294,metatext,HTC_TTL_SEL,,Who do you want to pick up?,你想接谁?,machine,Argos en_zh 1.9; requires review
 english_metatexts:SCP_TTL_SEL,english_metatexts.json,295,metatext,SCP_TTL_SEL,,Who do you want to talk to?,你想跟谁说话?,machine,Argos en_zh 1.9; requires review
 english_metatexts:HTC_TLK,english_metatexts.json,296,metatext,HTC_TLK,,Talk to [NPC],说话 [NPC],machine,Argos en_zh 1.9; requires review
 english_metatexts:HTC_TTL_TLK,english_metatexts.json,297,metatext,HTC_TTL_TLK,,Talk about...,说说...,machine,Argos en_zh 1.9; requires review
 english_metatexts:HTC_TTL_TLK_DEE,english_metatexts.json,298,metatext,HTC_TTL_TLK_DEE,,Let's get real!,让我们得到真实的!,machine,Argos en_zh 1.9; requires review
 english_metatexts:HTC_TTL_MAN,english_metatexts.json,299,metatext,HTC_TTL_MAN,,What do you want to do?,你想怎样?,machine,Argos en_zh 1.9; requires review
-english_metatexts:HTC_MAN_TLK,english_metatexts.json,300,metatext,HTC_MAN_TLK,,Talk to hitchhiker,跟搭便车的人说话,machine,Argos en_zh 1.9; requires review
-english_metatexts:HTC_MAN_CHG,english_metatexts.json,301,metatext,HTC_MAN_CHG,,Change hitchhiker,更换搭便车者,machine,Argos en_zh 1.9; requires review
+english_metatexts:HTC_MAN_TLK,english_metatexts.json,300,metatext,HTC_MAN_TLK,,Talk to hitchhiker,与搭车客聊天,reviewed,polish pass 001: FIX
+english_metatexts:HTC_MAN_CHG,english_metatexts.json,301,metatext,HTC_MAN_CHG,,Change hitchhiker,更换搭车客,reviewed,polish pass 001: FIX
 english_metatexts:BTN_OK_PSN,english_metatexts.json,302,metatext,BTN_OK_PSN,,Ok!,好！,reviewed,human override
-english_metatexts:PIT_CON_DAT,english_metatexts.json,303,metatext,PIT_CON_DAT,,Is [0]... more than a friend?,已经是 [0]... 不只是朋友吗?,machine,Argos en_zh 1.9; requires review
-english_metatexts:PIT_DAT_WRN,english_metatexts.json,304,metatext,PIT_DAT_WRN,,"Warning: some date endings depict you ""going to town"". If that's not to your liking, consider passing on this one","警告:一些日期的结尾 描绘你""去镇上""。 如果这不合你意 考虑把这个交给你",machine,Argos en_zh 1.9; requires review
-english_metatexts:PIT_CAR_TTL,english_metatexts.json,305,metatext,PIT_CAR_TTL,,What's your road trip style?,你的出行风格是什么?,machine,Argos en_zh 1.9; requires review
-english_metatexts:PIT_INF_CHOOSE,english_metatexts.json,306,metatext,PIT_INF_CHOOSE,,What do you want to do?,你想怎样?,machine,Argos en_zh 1.9; requires review
-english_metatexts:PIT_INF_TTL,english_metatexts.json,307,metatext,PIT_INF_TTL,,Plan your route!,计划你的路线!,machine,Argos en_zh 1.9; requires review
-english_metatexts:PIT_INF_HH_TTL,english_metatexts.json,308,metatext,PIT_INF_HH_TTL,,Who you gonna call?,你要给谁打电话?,machine,Argos en_zh 1.9; requires review
-english_metatexts:PIT_INF_HH_TOO_PLT,english_metatexts.json,309,metatext,PIT_INF_HH_TOO_PLT,,Locked by plotline,以图示锁定,machine,Argos en_zh 1.9; requires review
-english_metatexts:PIT_INF_HH_TOO_DLC,english_metatexts.json,310,metatext,PIT_INF_HH_TOO_DLC,,DLC character,DLC 字符,machine,Argos en_zh 1.9; requires review
-english_metatexts:PIT_INF_HH_TOO_SLF,english_metatexts.json,311,metatext,PIT_INF_HH_TOO_SLF,,Self-Love is turned off,自相相残杀,machine,Argos en_zh 1.9; requires review
-english_metatexts:DST_PRO_TTL,english_metatexts.json,312,metatext,DST_PRO_TTL,,Destinations progress,目标进展,machine,Argos en_zh 1.9; requires review
-english_metatexts:DST_RES_TTL,english_metatexts.json,313,metatext,DST_RES_TTL,,Destination fulfilled!,目标完成!,machine,Argos en_zh 1.9; requires review
-english_metatexts:MSS_SLC_TTL,english_metatexts.json,314,metatext,MSS_SLC_TTL,,Choose a new dare,选择新冒险,machine,Argos en_zh 1.9; requires review
+english_metatexts:PIT_CON_DAT,english_metatexts.json,303,metatext,PIT_CON_DAT,,Is [0]... more than a friend?,你和 [0]……不只是朋友吗？,reviewed,polish pass 001: FIX
+english_metatexts:PIT_DAT_WRN,english_metatexts.json,304,metatext,PIT_DAT_WRN,,"Warning: some date endings depict you ""going to town"". If that's not to your liking, consider passing on this one",提醒：部分约会结局包含你们上床的情节。如果不喜欢，可以考虑放弃这次约会。,reviewed,polish pass 001: FIX
+english_metatexts:PIT_CAR_TTL,english_metatexts.json,305,metatext,PIT_CAR_TTL,,What's your road trip style?,你的公路旅行风格是什么？,reviewed,polish pass 001: FIX
+english_metatexts:PIT_INF_CHOOSE,english_metatexts.json,306,metatext,PIT_INF_CHOOSE,,What do you want to do?,你想做什么？,reviewed,polish pass 001: FIX
+english_metatexts:PIT_INF_TTL,english_metatexts.json,307,metatext,PIT_INF_TTL,,Plan your route!,计划你的路线!,reviewed,polish pass 001: KEEP
+english_metatexts:PIT_INF_HH_TTL,english_metatexts.json,308,metatext,PIT_INF_HH_TTL,,Who you gonna call?,你要给谁打电话?,reviewed,polish pass 001: KEEP
+english_metatexts:PIT_INF_HH_TOO_PLT,english_metatexts.json,309,metatext,PIT_INF_HH_TOO_PLT,,Locked by plotline,受剧情线限制,reviewed,polish pass 001: FIX
+english_metatexts:PIT_INF_HH_TOO_DLC,english_metatexts.json,310,metatext,PIT_INF_HH_TOO_DLC,,DLC character,DLC 角色,reviewed,polish pass 001: FIX
+english_metatexts:PIT_INF_HH_TOO_SLF,english_metatexts.json,311,metatext,PIT_INF_HH_TOO_SLF,,Self-Love is turned off,“自爱”选项已关闭,reviewed,polish pass 001: FIX
+english_metatexts:DST_PRO_TTL,english_metatexts.json,312,metatext,DST_PRO_TTL,,Destinations progress,目的地进度,reviewed,polish pass 001: FIX
+english_metatexts:DST_RES_TTL,english_metatexts.json,313,metatext,DST_RES_TTL,,Destination fulfilled!,目的地条件已达成！,reviewed,polish pass 001: FIX
+english_metatexts:MSS_SLC_TTL,english_metatexts.json,314,metatext,MSS_SLC_TTL,,Choose a new dare,选择新挑战,reviewed,polish pass 001: FIX
 english_metatexts:ORD_TTL,english_metatexts.json,315,metatext,ORD_TTL,,Get ready to take on the road!,准备上路!,machine,Argos en_zh 1.9; requires review
-english_metatexts:RES_TTL,english_metatexts.json,316,metatext,RES_TTL,,RESULTS,成果,machine,Argos en_zh 1.9; requires review
-english_metatexts:RES_TTL_THR,english_metatexts.json,317,metatext,RES_TTL_THR,,This Run,此运行,machine,Argos en_zh 1.9; requires review
-english_metatexts:RES_NEW_SCR,english_metatexts.json,318,metatext,RES_NEW_SCR,,New[n]secret[n]endings,新设[n]隐藏[n]结束,machine,Argos en_zh 1.9; requires review
-english_metatexts:RES_NEW_VNT,english_metatexts.json,319,metatext,RES_NEW_VNT,,New[n]events,新设[n]事件,machine,Argos en_zh 1.9; requires review
-english_metatexts:RES_NEW_TCM,english_metatexts.json,320,metatext,RES_NEW_TCM,,New[n]outcomes,新设[n]结果,machine,Argos en_zh 1.9; requires review
-english_metatexts:RES_NEW_SPC,english_metatexts.json,321,metatext,RES_NEW_SPC,,New[n]special[n]stuff,新设[n]特别[n]东西,machine,Argos en_zh 1.9; requires review
-english_metatexts:RES_NEW_DST,english_metatexts.json,322,metatext,RES_NEW_DST,,New[n]destination[n]layers,新设[n]目标[n]分层,machine,Argos en_zh 1.9; requires review
-english_metatexts:RES_NEW_NDV,english_metatexts.json,323,metatext,RES_NEW_NDV,,New[n]good[n]endings,新设[n]不错[n]结束,machine,Argos en_zh 1.9; requires review
-english_metatexts:RES_NEW_LOC,english_metatexts.json,324,metatext,RES_NEW_LOC,,New[n]locations,新设[n]地点,machine,Argos en_zh 1.9; requires review
-english_metatexts:RES_TTL_TTL,english_metatexts.json,325,metatext,RES_TTL_TTL,,Total Runs,运行总数,machine,Argos en_zh 1.9; requires review
-english_metatexts:RES_TTL_SCR,english_metatexts.json,326,metatext,RES_TTL_SCR,,Secret endings,秘密结局,machine,Argos en_zh 1.9; requires review
-english_metatexts:RES_TTL_VNT,english_metatexts.json,327,metatext,RES_TTL_VNT,,Events,活动,machine,Argos en_zh 1.9; requires review
-english_metatexts:RES_TTL_TCM,english_metatexts.json,328,metatext,RES_TTL_TCM,,Outcomes,结果,machine,Argos en_zh 1.9; requires review
-english_metatexts:RES_TTL_SPC,english_metatexts.json,329,metatext,RES_TTL_SPC,,Special stuff,特别的东西,machine,Argos en_zh 1.9; requires review
-english_metatexts:RES_TTL_DST,english_metatexts.json,330,metatext,RES_TTL_DST,,Destinations,目标,machine,Argos en_zh 1.9; requires review
-english_metatexts:RES_TTL_NDV,english_metatexts.json,331,metatext,RES_TTL_NDV,,Good endings,结局不错,machine,Argos en_zh 1.9; requires review
-english_metatexts:RES_TTL_LOC,english_metatexts.json,332,metatext,RES_TTL_LOC,,Locations,地点,machine,Argos en_zh 1.9; requires review
-english_metatexts:RES_NUM_NUM,english_metatexts.json,333,metatext,RES_NUM_NUM,,[0] of [1],[0] 联 合 国 [1],machine,Argos en_zh 1.9; requires review
-english_metatexts:RES_MEM_THR,english_metatexts.json,334,metatext,RES_MEM_THR,,This run,这个跑,machine,Argos en_zh 1.9; requires review
-english_metatexts:RES_MEM_TTL,english_metatexts.json,335,metatext,RES_MEM_TTL,,Total,共计,machine,Argos en_zh 1.9; requires review
-english_metatexts:RES_STA_DST,english_metatexts.json,336,metatext,RES_STA_DST,,Destination stat,目标统计,machine,Argos en_zh 1.9; requires review
-english_metatexts:RES_STA_GOV,english_metatexts.json,337,metatext,RES_STA_GOV,,Game over stat,游戏结束 Stat,machine,Argos en_zh 1.9; requires review
-english_metatexts:RES_MPO,english_metatexts.json,338,metatext,RES_MPO,,Prank Dollarz,恶作剧美元z,machine,Argos en_zh 1.9; requires review
+english_metatexts:RES_TTL,english_metatexts.json,316,metatext,RES_TTL,,RESULTS,游戏结果,reviewed,polish pass 001: FIX
+english_metatexts:RES_TTL_THR,english_metatexts.json,317,metatext,RES_TTL_THR,,This Run,本局,reviewed,polish pass 001: FIX
+english_metatexts:RES_NEW_SCR,english_metatexts.json,318,metatext,RES_NEW_SCR,,New[n]secret[n]endings,新增[n]隐藏[n]结局,reviewed,polish pass 001: FIX
+english_metatexts:RES_NEW_VNT,english_metatexts.json,319,metatext,RES_NEW_VNT,,New[n]events,新增[n]事件,reviewed,polish pass 001: FIX
+english_metatexts:RES_NEW_TCM,english_metatexts.json,320,metatext,RES_NEW_TCM,,New[n]outcomes,新增[n]结果,reviewed,polish pass 001: FIX
+english_metatexts:RES_NEW_SPC,english_metatexts.json,321,metatext,RES_NEW_SPC,,New[n]special[n]stuff,新增[n]特殊[n]内容,reviewed,polish pass 001: FIX
+english_metatexts:RES_NEW_DST,english_metatexts.json,322,metatext,RES_NEW_DST,,New[n]destination[n]layers,新增[n]目的地[n]扩展内容,reviewed,polish pass 001: FIX
+english_metatexts:RES_NEW_NDV,english_metatexts.json,323,metatext,RES_NEW_NDV,,New[n]good[n]endings,新增[n]好[n]结局,reviewed,polish pass 001: FIX
+english_metatexts:RES_NEW_LOC,english_metatexts.json,324,metatext,RES_NEW_LOC,,New[n]locations,新增[n]地点,reviewed,polish pass 001: FIX
+english_metatexts:RES_TTL_TTL,english_metatexts.json,325,metatext,RES_TTL_TTL,,Total Runs,总局数,reviewed,polish pass 001: FIX
+english_metatexts:RES_TTL_SCR,english_metatexts.json,326,metatext,RES_TTL_SCR,,Secret endings,秘密结局,reviewed,polish pass 001: KEEP
+english_metatexts:RES_TTL_VNT,english_metatexts.json,327,metatext,RES_TTL_VNT,,Events,事件,reviewed,polish pass 001: FIX
+english_metatexts:RES_TTL_TCM,english_metatexts.json,328,metatext,RES_TTL_TCM,,Outcomes,结果,reviewed,polish pass 001: KEEP
+english_metatexts:RES_TTL_SPC,english_metatexts.json,329,metatext,RES_TTL_SPC,,Special stuff,特殊内容,reviewed,polish pass 001: FIX
+english_metatexts:RES_TTL_DST,english_metatexts.json,330,metatext,RES_TTL_DST,,Destinations,目的地,reviewed,polish pass 001: FIX
+english_metatexts:RES_TTL_NDV,english_metatexts.json,331,metatext,RES_TTL_NDV,,Good endings,好结局,reviewed,polish pass 001: FIX
+english_metatexts:RES_TTL_LOC,english_metatexts.json,332,metatext,RES_TTL_LOC,,Locations,地点,reviewed,polish pass 001: KEEP
+english_metatexts:RES_NUM_NUM,english_metatexts.json,333,metatext,RES_NUM_NUM,,[0] of [1],[0] / [1],reviewed,polish pass 001: FIX
+english_metatexts:RES_MEM_THR,english_metatexts.json,334,metatext,RES_MEM_THR,,This run,本局,reviewed,polish pass 001: FIX
+english_metatexts:RES_MEM_TTL,english_metatexts.json,335,metatext,RES_MEM_TTL,,Total,共计,reviewed,polish pass 001: KEEP
+english_metatexts:RES_STA_DST,english_metatexts.json,336,metatext,RES_STA_DST,,Destination stat,目的地对应资源,reviewed,polish pass 001: FIX
+english_metatexts:RES_STA_GOV,english_metatexts.json,337,metatext,RES_STA_GOV,,Game over stat,耗尽的资源,reviewed,polish pass 001: FIX
+english_metatexts:RES_MPO,english_metatexts.json,338,metatext,RES_MPO,,Prank Dollarz,恶作剧币,reviewed,polish pass 001: FIX
 english_metatexts:CHR_AARAVI,english_metatexts.json,339,metatext,CHR_AARAVI,,Aaravi,阿拉薇,machine,Argos en_zh 1.9; requires review
 english_metatexts:CHR_CALCULESTER,english_metatexts.json,340,metatext,CHR_CALCULESTER,,Calculester,卡库莱斯特,machine,Argos en_zh 1.9; requires review
 english_metatexts:CHR_DAHLIA,english_metatexts.json,341,metatext,CHR_DAHLIA,,Dahlia,达莉娅,machine,Argos en_zh 1.9; requires review
@@ -352,7 +352,7 @@ english_metatexts:CHR_DAHLIAAPPLIANCE,english_metatexts.json,361,metatext,CHR_DA
 english_metatexts:CHR_LAMB,english_metatexts.json,362,metatext,CHR_LAMB,,The Lamb,羔羊队,machine,Argos en_zh 1.9; requires review
 english_metatexts:CHR_NONE,english_metatexts.json,363,metatext,CHR_NONE,,someone,某个人,machine,Argos en_zh 1.9; requires review
 english_metatexts:UNL_TTL,english_metatexts.json,364,metatext,UNL_TTL,,Unlocked!,解锁!,machine,Argos en_zh 1.9; requires review
-english_metatexts:UNLOCK_MISSIONS_MODE,english_metatexts.json,365,metatext,UNLOCK_MISSIONS_MODE,,"You can now play ""Prank Master"" mode!","你现在可以玩""恶作剧""模式了!",machine,Argos en_zh 1.9; requires review
+english_metatexts:UNLOCK_MISSIONS_MODE,english_metatexts.json,365,metatext,UNLOCK_MISSIONS_MODE,,"You can now play ""Prank Master"" mode!",现在可以玩“恶作剧大师”模式了！,reviewed,polish pass 001: FIX
 english_metatexts:UNLOCK_EXTRA_MISSIONS,english_metatexts.json,366,metatext,UNLOCK_EXTRA_MISSIONS,,Destinations have more to offer now... go check the Destinations guide!,目的地现在有更多东西可以提供... 去检查目标指南!,machine,Argos en_zh 1.9; requires review
 english_metatexts:UNLOCK_LOCATION_METACABIN,english_metatexts.json,367,metatext,UNLOCK_LOCATION_METACABIN,,"You've unlocked the Meta-Cabin, a place full of mysteries to unearth. Are you ready to go meta?","你解锁了Meta -Cabin, 一个充满了谜题的地方 揭开。 你准备好去元?",machine,Argos en_zh 1.9; requires review
 english_metatexts:UNLOCK_ENDOFTHEROAD,english_metatexts.json,368,metatext,UNLOCK_ENDOFTHEROAD,,"Something awaits you at the end of the road...[n][n]This content must be enabled in the Customize menu, and it's tied to a series of Trigger Warnings. We advice checking them before enabling it.","有东西在路上等着你...[n][n]此内容必须在自定义菜单中被启用,并绑定在一系列触发警告上. 我们建议在启动前先检查一下他们",machine,Argos en_zh 1.9; requires review
@@ -385,7 +385,7 @@ english_metatexts:TOO_PSN_MIRANDA,english_metatexts.json,394,metatext,TOO_PSN_MI
 english_metatexts:TOO_PSN_MOTHMAN,english_metatexts.json,395,metatext,TOO_PSN_MOTHMAN,,Every TURN you'll gain a +RANDOM RESOURCE and you'll lose another -RANDOM RESOURCE.,"每个回合你都会得到+RANDOM资源, 你会失去另一个 -RANDOM资源。",machine,Argos en_zh 1.9; requires review
 english_metatexts:TOO_PSN_VALERIE,english_metatexts.json,396,metatext,TOO_PSN_VALERIE,,Next time you barter with NOODLES you'll get +1 extra RESOURCE GAIN.,"下次你和NOODELES交换时,你会得到+1 额外的资源GAIN。",machine,Argos en_zh 1.9; requires review
 english_metatexts:TOO_PSN_VERA,english_metatexts.json,397,metatext,TOO_PSN_VERA,,Every turn you'll gain +MONEY and lose -SOUL.,"每转一圈,你就会得到 + 钱和输 -SOUL。",machine,Argos en_zh 1.9; requires review
-english_metatexts:TOO_PSN_ZOE,english_metatexts.json,398,metatext,TOO_PSN_ZOE,,Two RANDOM RESOURCES will swap with each other.,两个RANDOM资源将互换.,machine,Argos en_zh 1.9; requires review
+english_metatexts:TOO_PSN_ZOE,english_metatexts.json,398,metatext,TOO_PSN_ZOE,,Two RANDOM RESOURCES will swap with each other.,随机交换两种资源的数值。,reviewed,polish pass 001: FIX
 english_metatexts:TOO_PSN_AARAVI,english_metatexts.json,399,metatext,TOO_PSN_AARAVI,,Every turn you'll gain +MAGIC and lose -MONEY.,"每转一转,你就会得到+MAGIC 输了 - 钱。",machine,Argos en_zh 1.9; requires review
 english_metatexts:TOO_PSN_STU,english_metatexts.json,400,metatext,TOO_PSN_STU,,All RESOURCE gains and losses from location events are reduced by 1.,地点活动的所有资源损益减少1个。,machine,Argos en_zh 1.9; requires review
 english_metatexts:TOO_PSN_ADRIEN,english_metatexts.json,401,metatext,TOO_PSN_ADRIEN,,Gain a lot of your +LOWEST RESOURCE and lose -EVERY OTHER RESOURCE,获得你最慢的资源 失去其他的资源,machine,Argos en_zh 1.9; requires review
@@ -395,7 +395,7 @@ english_metatexts:TOO_PSN_HOPE,english_metatexts.json,404,metatext,TOO_PSN_HOPE,
 english_metatexts:TOO_PSN_BLUE,english_metatexts.json,405,metatext,TOO_PSN_BLUE,,"All RESOURCE gains and losses from location events start lower than usual, but they increase every TURN.","地点活动带来的所有资源损益的起步均低于平时,但每增加一个TURN.",machine,Argos en_zh 1.9; requires review
 english_metatexts:TOO_PSN_GREEN,english_metatexts.json,406,metatext,TOO_PSN_GREEN,,You get to listen to The Brian Song. Enjoy.,你们可以听The 布莱恩 颂曰. 请慢用。,machine,Argos en_zh 1.9; requires review
 english_metatexts:TOO_PSN_FINN,english_metatexts.json,407,metatext,TOO_PSN_FINN,,You get a RESOURCE gain and loss copying the ones from your last LOCATION turn.,你得到一个资源收益和损失 复制那些从你上次定位转弯。,machine,Argos en_zh 1.9; requires review
-english_metatexts:TOO_PSN_DAHLIAAPPLIANCE,english_metatexts.json,408,metatext,TOO_PSN_DAHLIAAPPLIANCE,,ALL YOUR RESOURCES will swap with each other RANDOMLY.,所有的资源都会互相交换,machine,Argos en_zh 1.9; requires review
+english_metatexts:TOO_PSN_DAHLIAAPPLIANCE,english_metatexts.json,408,metatext,TOO_PSN_DAHLIAAPPLIANCE,,ALL YOUR RESOURCES will swap with each other RANDOMLY.,随机打乱所有资源的数值。,reviewed,polish pass 001: FIX
 english_metatexts:TOO_PSN_LAMB,english_metatexts.json,409,metatext,TOO_PSN_LAMB,,Lose your -TWO LOWEST RESOURCES in order to gain that amount of your +HIGHEST RESOURCE,"失去你的 -TWO LOWEST 资源,以获得你的 +Highest 资源",machine,Argos en_zh 1.9; requires review
 english_metatexts:TOO_PSN_BS_SCOTT,english_metatexts.json,410,metatext,TOO_PSN_BS_SCOTT,,"For one week, all RESOURCE gains and losses from location events are increased by 1.","在一周内,地点活动的所有资源损益都增加了1个。",machine,Argos en_zh 1.9; requires review
 english_metatexts:TOO_PSN_BS_POLLY,english_metatexts.json,411,metatext,TOO_PSN_BS_POLLY,,"For one week, all RESOURCE gains and losses from location events are increased by 1.","在一周内,地点活动的所有资源损益都增加了1个。",machine,Argos en_zh 1.9; requires review
@@ -408,7 +408,7 @@ english_metatexts:TOO_PSN_BS_MIRANDA,english_metatexts.json,417,metatext,TOO_PSN
 english_metatexts:TOO_PSN_BS_MOTHMAN,english_metatexts.json,418,metatext,TOO_PSN_BS_MOTHMAN,,"For one week, every turn you'll gain a +RANDOM RESOURCE and lose another -RANDOM RESOURCE.","一周内,每转一圈,你就会得到+RANDOM资源 失去另一个 -RANDOM资源。",machine,Argos en_zh 1.9; requires review
 english_metatexts:TOO_PSN_BS_VALERIE,english_metatexts.json,419,metatext,TOO_PSN_BS_VALERIE,,Next time you barter with NOODLES you'll get +1 extra RESOURCE GAIN.,"下次你和NOODELES交换时,你会得到+1 额外的资源GAIN。",machine,Argos en_zh 1.9; requires review
 english_metatexts:TOO_PSN_BS_VERA,english_metatexts.json,420,metatext,TOO_PSN_BS_VERA,,"For one week, every turn you'll gain +MONEY and lose -SOUL.","一周内,每转一圈,你就会得到+MONEY,输了-SOUL.",machine,Argos en_zh 1.9; requires review
-english_metatexts:TOO_PSN_BS_ZOE,english_metatexts.json,421,metatext,TOO_PSN_BS_ZOE,,Two RANDOM RESOURCES swap with each other.,两个RANDOM资源互换.,machine,Argos en_zh 1.9; requires review
+english_metatexts:TOO_PSN_BS_ZOE,english_metatexts.json,421,metatext,TOO_PSN_BS_ZOE,,Two RANDOM RESOURCES swap with each other.,随机交换两种资源的数值。,reviewed,polish pass 001: FIX
 english_metatexts:TOO_PSN_BS_AARAVI,english_metatexts.json,422,metatext,TOO_PSN_BS_AARAVI,,"For one week, every turn you'll gain +MAGIC and lose -MONEY.","一周内,每转一圈,你就会得到+MAGIC,然后输了 -MONEY.",machine,Argos en_zh 1.9; requires review
 english_metatexts:TOO_PSN_BS_STU,english_metatexts.json,423,metatext,TOO_PSN_BS_STU,,"For one week, all RESOURCE gains and losses from location events are reduced by 1.","在一周内,地点活动的所有资源损益将减少1个。",machine,Argos en_zh 1.9; requires review
 english_metatexts:TOO_PSN_BS_ADRIEN,english_metatexts.json,424,metatext,TOO_PSN_BS_ADRIEN,,Gain a lot of your +LOWEST RESOURCE and lose -EVERY OTHER RESOURCE,获得你最慢的资源 失去其他的资源,machine,Argos en_zh 1.9; requires review
@@ -418,10 +418,10 @@ english_metatexts:TOO_PSN_BS_HOPE,english_metatexts.json,427,metatext,TOO_PSN_BS
 english_metatexts:TOO_PSN_BS_BLUE,english_metatexts.json,428,metatext,TOO_PSN_BS_BLUE,,"For one week, all RESOURCE gains and losses from location events start lower than usual, but they increase every turn.","一周来,地点活动的所有资源损益都比平时低,但每转一圈都增加。",machine,Argos en_zh 1.9; requires review
 english_metatexts:TOO_PSN_BS_GREEN,english_metatexts.json,429,metatext,TOO_PSN_BS_GREEN,,You get to listen to a very special song. Enjoy!,你听一首非常特别的歌 玩得开心点!,machine,Argos en_zh 1.9; requires review
 english_metatexts:TOO_PSN_BS_FINN,english_metatexts.json,430,metatext,TOO_PSN_BS_FINN,,You get a RESOURCE gain and loss copying the ones from your last LOCATION turn.,你得到一个资源收益和损失 复制那些从你上次定位转弯。,machine,Argos en_zh 1.9; requires review
-english_metatexts:TOO_PSN_BS_DAHLIAAPPLIANCE,english_metatexts.json,431,metatext,TOO_PSN_BS_DAHLIAAPPLIANCE,,ALL YOUR RESOURCES swap with each other RANDOMLY.,所有你的资源 互换对方 兰通利。,machine,Argos en_zh 1.9; requires review
+english_metatexts:TOO_PSN_BS_DAHLIAAPPLIANCE,english_metatexts.json,431,metatext,TOO_PSN_BS_DAHLIAAPPLIANCE,,ALL YOUR RESOURCES swap with each other RANDOMLY.,随机打乱所有资源的数值。,reviewed,polish pass 001: FIX
 english_metatexts:TOO_PSN_BS_LAMB,english_metatexts.json,432,metatext,TOO_PSN_BS_LAMB,,Lose your -TWO LOWEST RESOURCES in order to gain that amount of your +HIGHEST RESOURCE,"失去你的 -TWO LOWEST 资源,以获得你的 +Highest 资源",machine,Argos en_zh 1.9; requires review
 english_metatexts:TOO_PSN_CHG,english_metatexts.json,433,metatext,TOO_PSN_CHG,,This will kick [NPC] off your team!,这会踢出球的 [NPC] 离开你的队伍!,machine,Argos en_zh 1.9; requires review
-english_metatexts:PSN_EFF_TTL_SCOTTPOLLY,english_metatexts.json,434,metatext,PSN_EFF_TTL_SCOTTPOLLY,,CHAOTIC ENERGY,化学能源,machine,Argos en_zh 1.9; requires review
+english_metatexts:PSN_EFF_TTL_SCOTTPOLLY,english_metatexts.json,434,metatext,PSN_EFF_TTL_SCOTTPOLLY,,CHAOTIC ENERGY,混沌能量,reviewed,polish pass 001: FIX
 english_metatexts:PSN_EFF_TTL_AARAVI,english_metatexts.json,435,metatext,PSN_EFF_TTL_AARAVI,,INVENTORY HOARDER,入室服务员,machine,Argos en_zh 1.9; requires review
 english_metatexts:PSN_EFF_TTL_CALCULESTER,english_metatexts.json,436,metatext,PSN_EFF_TTL_CALCULESTER,,SAFETY MEASURES,安全措施,machine,Argos en_zh 1.9; requires review
 english_metatexts:PSN_EFF_TTL_DAMIEN,english_metatexts.json,437,metatext,PSN_EFF_TTL_DAMIEN,,SO METAL!,如此的金属!,machine,Argos en_zh 1.9; requires review
@@ -776,7 +776,7 @@ english_metatexts:ITM_TTL_HOLYWATER,english_metatexts.json,787,metatext,ITM_TTL_
 english_metatexts:ITM_TTL_HORSECOSTUME,english_metatexts.json,788,metatext,ITM_TTL_HORSECOSTUME,,Horse Costume (Butt Only),马服( 仅巴特),machine,Argos en_zh 1.9; requires review
 english_metatexts:ITM_TTL_HORSEPOWER,english_metatexts.json,789,metatext,ITM_TTL_HORSEPOWER,,Pure Horsepower,纯马力,machine,Argos en_zh 1.9; requires review
 english_metatexts:ITM_TTL_INFLATABLEBOYFRIEND,english_metatexts.json,790,metatext,ITM_TTL_INFLATABLEBOYFRIEND,,Inflatable Boyfriend,充气的男朋友,machine,Argos en_zh 1.9; requires review
-english_metatexts:ITM_TTL_INSTANTNOODLES,english_metatexts.json,791,metatext,ITM_TTL_INSTANTNOODLES,,Instant Noodles,即时面条,machine,Argos en_zh 1.9; requires review
+english_metatexts:ITM_TTL_INSTANTNOODLES,english_metatexts.json,791,metatext,ITM_TTL_INSTANTNOODLES,,Instant Noodles,方便面,reviewed,polish pass 001: FIX
 english_metatexts:ITM_TTL_KARMAPOINTS,english_metatexts.json,792,metatext,ITM_TTL_KARMAPOINTS,,"""+50 Karma Points"" Voucher",“ +50 Karma 点数” 券,machine,Argos en_zh 1.9; requires review
 english_metatexts:ITM_TTL_MACARONIART,english_metatexts.json,793,metatext,ITM_TTL_MACARONIART,,Macaroni Art,马加罗尼艺术,machine,Argos en_zh 1.9; requires review
 english_metatexts:ITM_TTL_MAGICTSHIRT,english_metatexts.json,794,metatext,ITM_TTL_MAGICTSHIRT,,"""I <3 Mh'athra"" T-shirt","""我<3Mh'athra""T恤",machine,Argos en_zh 1.9; requires review
@@ -805,35 +805,35 @@ english_metatexts:ITM_TTL_THOUGHTSANDPRAYERS,english_metatexts.json,816,metatext
 english_metatexts:ITM_TTL_TREASUREMAP,english_metatexts.json,817,metatext,ITM_TTL_TREASUREMAP,,Treasure Map,财宝地图,machine,Argos en_zh 1.9; requires review
 english_metatexts:ITM_TTL_WONDERWALLGUITAR,english_metatexts.json,818,metatext,ITM_TTL_WONDERWALLGUITAR,,Enchanted Guitar that Can Only Play Wonderwall,"魔法吉他,只能玩神奇墙",machine,Argos en_zh 1.9; requires review
 english_metatexts:ITM_TTL_WEIRDTRINKET,english_metatexts.json,819,metatext,ITM_TTL_WEIRDTRINKET,,That Thingie,那个小东西,machine,Argos en_zh 1.9; requires review
-english_metatexts:MSS_STATINPOSITION,english_metatexts.json,822,metatext,MSS_STATINPOSITION,,[0] is in [1] position,[0] 已经进入 [1] 职位,machine,Argos en_zh 1.9; requires review
-english_metatexts:MSS_STATINFIRSTPOSITION,english_metatexts.json,823,metatext,MSS_STATINFIRSTPOSITION,,[0] is the highest resource,[0] 是最高的资源,machine,Argos en_zh 1.9; requires review
-english_metatexts:MSS_STATINLASTPOSITION,english_metatexts.json,824,metatext,MSS_STATINLASTPOSITION,,[0] is the lowest resource,[0] 属于最低资源,machine,Argos en_zh 1.9; requires review
-english_metatexts:MSS_DIFFBETWEENFIRSTANDLASTHIGHER,english_metatexts.json,825,metatext,MSS_DIFFBETWEENFIRSTANDLASTHIGHER,,Difference between first and last resources is higher than [0],第一资源与最后资源之间的差异高于 [0],machine,Argos en_zh 1.9; requires review
-english_metatexts:MSS_DIFFBETWEENFIRSTANDLASTLOWER,english_metatexts.json,826,metatext,MSS_DIFFBETWEENFIRSTANDLASTLOWER,,Difference between first and last resources is lower than [0],第一资源与最后资源之间的差异小于 [0],machine,Argos en_zh 1.9; requires review
-english_metatexts:MSS_DIFFBETWEEN2FIRSTHIGHER,english_metatexts.json,827,metatext,MSS_DIFFBETWEEN2FIRSTHIGHER,,Difference between first 2 resources is more than [0],前2项资源之间的差异大于 [0],machine,Argos en_zh 1.9; requires review
-english_metatexts:MSS_DIFFBETWEEN2FIRSTLOWER,english_metatexts.json,828,metatext,MSS_DIFFBETWEEN2FIRSTLOWER,,Difference between first 2 resources is less than [0],前2个资源之间的差额小于 [0],machine,Argos en_zh 1.9; requires review
-english_metatexts:MSS_DIFFBETWEEN2LASTHIGHER,english_metatexts.json,829,metatext,MSS_DIFFBETWEEN2LASTHIGHER,,Difference between last 2 resources is more than [0],最后2项资源之间的差额大于 [0],machine,Argos en_zh 1.9; requires review
-english_metatexts:MSS_DIFFBETWEEN2LASTLOWER,english_metatexts.json,830,metatext,MSS_DIFFBETWEEN2LASTLOWER,,Difference between last 2 resources is less than [0],最后2项资源之间的差额小于 [0],machine,Argos en_zh 1.9; requires review
-english_metatexts:MSS_NOSTATBELOWTHRESHOLD,english_metatexts.json,831,metatext,MSS_NOSTATBELOWTHRESHOLD,,No resource is below [0],下方没有资源 [0],machine,Argos en_zh 1.9; requires review
-english_metatexts:MSS_ONLYONESTATABOVETHRESHOLD,english_metatexts.json,832,metatext,MSS_ONLYONESTATABOVETHRESHOLD,,Only one resource is above [0],只有一个资源在以上 [0],machine,Argos en_zh 1.9; requires review
-english_metatexts:MSS_NUMBEROFSTATSSAMEVALUE,english_metatexts.json,833,metatext,MSS_NUMBEROFSTATSSAMEVALUE,,[0] resources have the same value,[0] 资源具有同等价值,machine,Argos en_zh 1.9; requires review
-english_metatexts:MSS_TALKEDTOSCOTT,english_metatexts.json,834,metatext,MSS_TALKEDTOSCOTT,,Talk to SCOTT at the rest stop,在休息站和SCOTT谈谈,machine,Argos en_zh 1.9; requires review
-english_metatexts:MSS_TALKEDTOPOLLY,english_metatexts.json,835,metatext,MSS_TALKEDTOPOLLY,,Talk to POLLY at the rest stop,在休息站和POLLY谈谈,machine,Argos en_zh 1.9; requires review
-english_metatexts:MSS_TALKEDTOSCOTTANDPOLLY,english_metatexts.json,836,metatext,MSS_TALKEDTOSCOTTANDPOLLY,,Talk to POLLY and SCOTT at the rest stop,在休息站跟POLLY和SCOTT谈谈,machine,Argos en_zh 1.9; requires review
-english_metatexts:MSS_CHOOSELOCATIONWITHOUTKNOWNSTATS,english_metatexts.json,837,metatext,MSS_CHOOSELOCATIONWITHOUTKNOWNSTATS,,Choose a LOCATION with no KNOWN RESOURCES,选择一个没有知识资源的地方,machine,Argos en_zh 1.9; requires review
-english_metatexts:MSS_CHOOSELOCATIONACTIONWITHOUTKNOWNSTAT,english_metatexts.json,838,metatext,MSS_CHOOSELOCATIONACTIONWITHOUTKNOWNSTAT,,Choose an ACTION without a KNOWN RESOURCE,选择一个没有已知资源的行动,machine,Argos en_zh 1.9; requires review
-english_metatexts:MSS_CHOOSETHIRDCHOICEINQUANTITIESEVENT,english_metatexts.json,839,metatext,MSS_CHOOSETHIRDCHOICEINQUANTITIESEVENT,,Choose the riskiest option in a QUANTITIES EVENT,在 QUANTITIES 活动中选择最危险的选项,machine,Argos en_zh 1.9; requires review
-english_metatexts:MSS_ANYSTATBELOWTHRESHOLD,english_metatexts.json,840,metatext,MSS_ANYSTATBELOWTHRESHOLD,,Any resource is below [0],任何资源均在以下 [0],machine,Argos en_zh 1.9; requires review
-english_metatexts:MSS_CHOOSEPITSTOPINFOBOARDACTION,english_metatexts.json,841,metatext,MSS_CHOOSEPITSTOPINFOBOARDACTION,,Choose a planned LOCATION at the rest stop Info Board [0],在休息站选择一个规划中的位置信息委员会 [0],machine,Argos en_zh 1.9; requires review
-english_metatexts:MSS_NUMBEROFHITCHHIKERSJOINED,english_metatexts.json,842,metatext,MSS_NUMBEROFHITCHHIKERSJOINED,,"During the trip, meet at least [0] Hitchhikers","在旅途中,至少见面 [0] 跳雪车",machine,Argos en_zh 1.9; requires review
-english_metatexts:MSS_CHOOSEPITSTOPCARACTION_CAUTIOUS,english_metatexts.json,843,metatext,MSS_CHOOSEPITSTOPCARACTION_CAUTIOUS,,Choose to be a CAUTIOUS PLANNER at the rest stop car [0],选择在休息站的汽车上做一个CAUTIOUSERPANER [0],machine,Argos en_zh 1.9; requires review
-english_metatexts:MSS_CHOOSEPITSTOPCARACTION_RISKY,english_metatexts.json,844,metatext,MSS_CHOOSEPITSTOPCARACTION_RISKY,,Choose to be a RISKY TRAVELLER at the rest stop car [0],选择在休息站的汽车上做个危险旅行者 [0],machine,Argos en_zh 1.9; requires review
-english_metatexts:MSS_NUMBEROFHITCHHIKERSEFFECTSACTIVATED,english_metatexts.json,845,metatext,MSS_NUMBEROFHITCHHIKERSEFFECTSACTIVATED,,Activate a HITCHHIKER EFFECT [0],启动HITHIKER效应 [0],machine,Argos en_zh 1.9; requires review
-english_metatexts:MSS_CHOOSEBARTERSHOPITEM_SHOP,english_metatexts.json,846,metatext,MSS_CHOOSEBARTERSHOPITEM_SHOP,,Acquire a TRINKET that gives you [0],得到一个TRINKET 给你 [0],machine,Argos en_zh 1.9; requires review
-english_metatexts:MSS_CHOOSEBARTERSHOPITEM_TEAM,english_metatexts.json,847,metatext,MSS_CHOOSEBARTERSHOPITEM_TEAM,,Forfeit a TRINKET that gives you [0],没收一个TRINKET 给你 [0],machine,Argos en_zh 1.9; requires review
-english_metatexts:MSS_OUTBIDANOTHERPLAYERINPITSTOP,english_metatexts.json,848,metatext,MSS_OUTBIDANOTHERPLAYERINPITSTOP,,Outbid another player in the pitstop [0],超越另一个玩家在坑口 [0],machine,Argos en_zh 1.9; requires review
-english_metatexts:MSS_ONESHOT_SUFFIX,english_metatexts.json,849,metatext,MSS_ONESHOT_SUFFIX,,(expires in one WEEK),(在一周内结束),machine,Argos en_zh 1.9; requires review
-english_metatexts:MSS_ENDOFGAME_SUFFIX,english_metatexts.json,850,metatext,MSS_ENDOFGAME_SUFFIX,,(when you reach your final DESTINATION),(当你到达你的 最终的状态),machine,Argos en_zh 1.9; requires review
+english_metatexts:MSS_STATINPOSITION,english_metatexts.json,822,metatext,MSS_STATINPOSITION,,[0] is in [1] position,[0] 的数值排第 [1],reviewed,polish pass 001: FIX
+english_metatexts:MSS_STATINFIRSTPOSITION,english_metatexts.json,823,metatext,MSS_STATINFIRSTPOSITION,,[0] is the highest resource,[0] 是最高的资源,reviewed,polish pass 001: KEEP
+english_metatexts:MSS_STATINLASTPOSITION,english_metatexts.json,824,metatext,MSS_STATINLASTPOSITION,,[0] is the lowest resource,[0] 是数值最低的资源,reviewed,polish pass 001: FIX
+english_metatexts:MSS_DIFFBETWEENFIRSTANDLASTHIGHER,english_metatexts.json,825,metatext,MSS_DIFFBETWEENFIRSTANDLASTHIGHER,,Difference between first and last resources is higher than [0],最高与最低资源的差值大于 [0],reviewed,polish pass 001: FIX
+english_metatexts:MSS_DIFFBETWEENFIRSTANDLASTLOWER,english_metatexts.json,826,metatext,MSS_DIFFBETWEENFIRSTANDLASTLOWER,,Difference between first and last resources is lower than [0],最高与最低资源的差值小于 [0],reviewed,polish pass 001: FIX
+english_metatexts:MSS_DIFFBETWEEN2FIRSTHIGHER,english_metatexts.json,827,metatext,MSS_DIFFBETWEEN2FIRSTHIGHER,,Difference between first 2 resources is more than [0],数值最高的两种资源相差大于 [0],reviewed,polish pass 001: FIX
+english_metatexts:MSS_DIFFBETWEEN2FIRSTLOWER,english_metatexts.json,828,metatext,MSS_DIFFBETWEEN2FIRSTLOWER,,Difference between first 2 resources is less than [0],数值最高的两种资源相差小于 [0],reviewed,polish pass 001: FIX
+english_metatexts:MSS_DIFFBETWEEN2LASTHIGHER,english_metatexts.json,829,metatext,MSS_DIFFBETWEEN2LASTHIGHER,,Difference between last 2 resources is more than [0],数值最低的两种资源相差大于 [0],reviewed,polish pass 001: FIX
+english_metatexts:MSS_DIFFBETWEEN2LASTLOWER,english_metatexts.json,830,metatext,MSS_DIFFBETWEEN2LASTLOWER,,Difference between last 2 resources is less than [0],数值最低的两种资源相差小于 [0],reviewed,polish pass 001: FIX
+english_metatexts:MSS_NOSTATBELOWTHRESHOLD,english_metatexts.json,831,metatext,MSS_NOSTATBELOWTHRESHOLD,,No resource is below [0],所有资源均不低于 [0],reviewed,polish pass 001: FIX
+english_metatexts:MSS_ONLYONESTATABOVETHRESHOLD,english_metatexts.json,832,metatext,MSS_ONLYONESTATABOVETHRESHOLD,,Only one resource is above [0],仅有一种资源高于 [0],reviewed,polish pass 001: FIX
+english_metatexts:MSS_NUMBEROFSTATSSAMEVALUE,english_metatexts.json,833,metatext,MSS_NUMBEROFSTATSSAMEVALUE,,[0] resources have the same value,有 [0] 种资源数值相同,reviewed,polish pass 001: FIX
+english_metatexts:MSS_TALKEDTOSCOTT,english_metatexts.json,834,metatext,MSS_TALKEDTOSCOTT,,Talk to SCOTT at the rest stop,在休息站与斯科特聊天,reviewed,polish pass 001: FIX
+english_metatexts:MSS_TALKEDTOPOLLY,english_metatexts.json,835,metatext,MSS_TALKEDTOPOLLY,,Talk to POLLY at the rest stop,在休息站与波莉聊天,reviewed,polish pass 001: FIX
+english_metatexts:MSS_TALKEDTOSCOTTANDPOLLY,english_metatexts.json,836,metatext,MSS_TALKEDTOSCOTTANDPOLLY,,Talk to POLLY and SCOTT at the rest stop,在休息站与波莉和斯科特聊天,reviewed,polish pass 001: FIX
+english_metatexts:MSS_CHOOSELOCATIONWITHOUTKNOWNSTATS,english_metatexts.json,837,metatext,MSS_CHOOSELOCATIONWITHOUTKNOWNSTATS,,Choose a LOCATION with no KNOWN RESOURCES,选择没有已知资源提示的地点,reviewed,polish pass 001: FIX
+english_metatexts:MSS_CHOOSELOCATIONACTIONWITHOUTKNOWNSTAT,english_metatexts.json,838,metatext,MSS_CHOOSELOCATIONACTIONWITHOUTKNOWNSTAT,,Choose an ACTION without a KNOWN RESOURCE,选择没有已知资源提示的行动,reviewed,polish pass 001: FIX
+english_metatexts:MSS_CHOOSETHIRDCHOICEINQUANTITIESEVENT,english_metatexts.json,839,metatext,MSS_CHOOSETHIRDCHOICEINQUANTITIESEVENT,,Choose the riskiest option in a QUANTITIES EVENT,在资源数量事件中选择风险最高的选项,reviewed,polish pass 001: FIX
+english_metatexts:MSS_ANYSTATBELOWTHRESHOLD,english_metatexts.json,840,metatext,MSS_ANYSTATBELOWTHRESHOLD,,Any resource is below [0],至少一种资源低于 [0],reviewed,polish pass 001: FIX
+english_metatexts:MSS_CHOOSEPITSTOPINFOBOARDACTION,english_metatexts.json,841,metatext,MSS_CHOOSEPITSTOPINFOBOARDACTION,,Choose a planned LOCATION at the rest stop Info Board [0],在休息站信息板上规划一个地点 [0],reviewed,polish pass 001: FIX
+english_metatexts:MSS_NUMBEROFHITCHHIKERSJOINED,english_metatexts.json,842,metatext,MSS_NUMBEROFHITCHHIKERSJOINED,,"During the trip, meet at least [0] Hitchhikers",旅途中至少遇到 [0] 位搭车客,reviewed,polish pass 001: FIX
+english_metatexts:MSS_CHOOSEPITSTOPCARACTION_CAUTIOUS,english_metatexts.json,843,metatext,MSS_CHOOSEPITSTOPCARACTION_CAUTIOUS,,Choose to be a CAUTIOUS PLANNER at the rest stop car [0],在休息站汽车处选择“谨慎规划者” [0],reviewed,polish pass 001: FIX
+english_metatexts:MSS_CHOOSEPITSTOPCARACTION_RISKY,english_metatexts.json,844,metatext,MSS_CHOOSEPITSTOPCARACTION_RISKY,,Choose to be a RISKY TRAVELLER at the rest stop car [0],在休息站汽车处选择“冒险旅行者” [0],reviewed,polish pass 001: FIX
+english_metatexts:MSS_NUMBEROFHITCHHIKERSEFFECTSACTIVATED,english_metatexts.json,845,metatext,MSS_NUMBEROFHITCHHIKERSEFFECTSACTIVATED,,Activate a HITCHHIKER EFFECT [0],触发搭车客的被动效果 [0],reviewed,polish pass 001: FIX
+english_metatexts:MSS_CHOOSEBARTERSHOPITEM_SHOP,english_metatexts.json,846,metatext,MSS_CHOOSEBARTERSHOPITEM_SHOP,,Acquire a TRINKET that gives you [0],换入能获得 [0] 的小物件,reviewed,polish pass 001: FIX
+english_metatexts:MSS_CHOOSEBARTERSHOPITEM_TEAM,english_metatexts.json,847,metatext,MSS_CHOOSEBARTERSHOPITEM_TEAM,,Forfeit a TRINKET that gives you [0],送出对应 [0] 的小物件,reviewed,polish pass 001: FIX
+english_metatexts:MSS_OUTBIDANOTHERPLAYERINPITSTOP,english_metatexts.json,848,metatext,MSS_OUTBIDANOTHERPLAYERINPITSTOP,,Outbid another player in the pitstop [0],在休息站出价超过另一位玩家 [0],reviewed,polish pass 001: FIX
+english_metatexts:MSS_ONESHOT_SUFFIX,english_metatexts.json,849,metatext,MSS_ONESHOT_SUFFIX,,(expires in one WEEK),（一周后到期）,reviewed,polish pass 001: FIX
+english_metatexts:MSS_ENDOFGAME_SUFFIX,english_metatexts.json,850,metatext,MSS_ENDOFGAME_SUFFIX,,(when you reach your final DESTINATION),（抵达最终目的地时）,reviewed,polish pass 001: FIX
 english_metatexts:DTT_CRYPTID_CONVENTION,english_metatexts.json,853,metatext,DTT_CRYPTID_CONVENTION,,Cryptid Prom,密码,machine,Argos en_zh 1.9; requires review
 english_metatexts:DTT_MAGICAL_LAND,english_metatexts.json,854,metatext,DTT_MAGICAL_LAND,,Dreamed Dominions,梦想的统治者,machine,Argos en_zh 1.9; requires review
 english_metatexts:DTT_MERKINGDOM,english_metatexts.json,855,metatext,DTT_MERKINGDOM,,The Merkingdom,默金多姆,machine,Argos en_zh 1.9; requires review
@@ -866,7 +866,7 @@ english_metatexts:DM2_VICE_CITY_UNLOCKED,english_metatexts.json,881,metatext,DM2
 english_metatexts:DM3_VICE_CITY_UNLOCKED,english_metatexts.json,882,metatext,DM3_VICE_CITY_UNLOCKED,,Bend the law to your will and trust your luck,顺从你的意志 相信自己的运气,machine,Argos en_zh 1.9; requires review
 english_metatexts:SHP_BCK,english_metatexts.json,885,metatext,SHP_BCK,,Back,返回,reviewed,human override
 english_metatexts:SHP_NTH,english_metatexts.json,886,metatext,SHP_NTH,,Nothing[n]left[n]to buy!,没什么[n]左边[n]买!,machine,Argos en_zh 1.9; requires review
-english_metatexts:SHP_MMR,english_metatexts.json,887,metatext,SHP_MMR,,Prank Tokens,恶作剧托肯斯,machine,Argos en_zh 1.9; requires review
+english_metatexts:SHP_MMR,english_metatexts.json,887,metatext,SHP_MMR,,Prank Tokens,恶作剧代币,reviewed,polish pass 001: FIX
 english_metatexts:SHP_INS,english_metatexts.json,888,metatext,SHP_INS,,Insert[n]Coin,插入[n]铜,machine,Argos en_zh 1.9; requires review
 english_metatexts:SHP_ICN,english_metatexts.json,889,metatext,SHP_ICN,,Insert %MULTIGACHA% Coins,插入 %MULTIGACHA% 硬币,machine,Argos en_zh 1.9; requires review
 english_metatexts:SHP_CNF_TTL,english_metatexts.json,890,metatext,SHP_CNF_TTL,,Are you sure you want to purchase [ITEM] for [PRICE] Memories?,你确定要买吗? [ITEM] (单位:千美元) [PRICE] 回忆?,machine,Argos en_zh 1.9; requires review
@@ -1488,7 +1488,7 @@ english_metatexts:GLR_TTL_SKETCHES,english_metatexts.json,1511,metatext,GLR_TTL_
 english_metatexts:GLR_TTL_FANARTS,english_metatexts.json,1512,metatext,GLR_TTL_FANARTS,,Guest art,来宾艺术,machine,Argos en_zh 1.9; requires review
 english_metatexts:GLR_TTL_SPECIALSTUFF,english_metatexts.json,1513,metatext,GLR_TTL_SPECIALSTUFF,,Special stuff,特别的东西,machine,Argos en_zh 1.9; requires review
 english_metatexts:GLR_TTL_STATS,english_metatexts.json,1514,metatext,GLR_TTL_STATS,,Stats,点数,machine,Argos en_zh 1.9; requires review
-english_metatexts:GLR_TTL_BENCHES,english_metatexts.json,1515,metatext,GLR_TTL_BENCHES,,Benches,法官席数,machine,Argos en_zh 1.9; requires review
+english_metatexts:GLR_TTL_BENCHES,english_metatexts.json,1515,metatext,GLR_TTL_BENCHES,,Benches,长椅区,reviewed,polish pass 001: FIX
 english_metatexts:GLR_TTL_BACKGROUNDSWIDE,english_metatexts.json,1516,metatext,GLR_TTL_BACKGROUNDSWIDE,,Wide,宽,machine,Argos en_zh 1.9; requires review
 english_metatexts:GLR_TTL_BACKGROUNDSNOFRAME,english_metatexts.json,1517,metatext,GLR_TTL_BACKGROUNDSNOFRAME,,No Frame,无框架,machine,Argos en_zh 1.9; requires review
 english_metatexts:GLR_TTL_BACKGROUNDSEVENTLOCATION,english_metatexts.json,1518,metatext,GLR_TTL_BACKGROUNDSEVENTLOCATION,,Scenic,风景,machine,Argos en_zh 1.9; requires review
@@ -1529,8 +1529,8 @@ english_metatexts:GLR_GLR_CHV,english_metatexts.json,1552,metatext,GLR_GLR_CHV,,
 english_metatexts:GLR_GLR_CHI,english_metatexts.json,1553,metatext,GLR_GLR_CHI,,Character icons:,字符图标 :,machine,Argos en_zh 1.9; requires review
 english_metatexts:GLR_GST_RNW,english_metatexts.json,1554,metatext,GLR_GST_RNW,,Runs won:,运行胜出 :,machine,Argos en_zh 1.9; requires review
 english_metatexts:GLR_GST_RNL,english_metatexts.json,1555,metatext,GLR_GST_RNL,,Runs lost:,丢失的运行 :,machine,Argos en_zh 1.9; requires review
-english_metatexts:GLR_GST_DST,english_metatexts.json,1556,metatext,GLR_GST_DST,,Destinations:,目标 :,machine,Argos en_zh 1.9; requires review
-english_metatexts:GLR_GST_DSL,english_metatexts.json,1557,metatext,GLR_GST_DSL,,Destination layers:,目标层 :,machine,Argos en_zh 1.9; requires review
+english_metatexts:GLR_GST_DST,english_metatexts.json,1556,metatext,GLR_GST_DST,,Destinations:,目的地：,reviewed,polish pass 001: FIX
+english_metatexts:GLR_GST_DSL,english_metatexts.json,1557,metatext,GLR_GST_DSL,,Destination layers:,目的地扩展内容：,reviewed,polish pass 001: FIX
 english_metatexts:GLR_GST_MVE,english_metatexts.json,1558,metatext,GLR_GST_MVE,,MVP endings:,MVP结局 :,machine,Argos en_zh 1.9; requires review
 english_metatexts:GLR_GST_DTE,english_metatexts.json,1559,metatext,GLR_GST_DTE,,Date endings:,日期结束 :,machine,Argos en_zh 1.9; requires review
 english_metatexts:GLR_GST_LOC,english_metatexts.json,1560,metatext,GLR_GST_LOC,,Locations:,地点 :,machine,Argos en_zh 1.9; requires review
@@ -1541,7 +1541,7 @@ english_metatexts:GLR_GST_BEP,english_metatexts.json,1564,metatext,GLR_GST_BEP,,
 english_metatexts:GLR_GST_FPC,english_metatexts.json,1565,metatext,GLR_GST_FPC,,Fav playable character:,fav 可播放字符 :,machine,Argos en_zh 1.9; requires review
 english_metatexts:GLR_GST_MGO,english_metatexts.json,1566,metatext,GLR_GST_MGO,,Weak spot:,弱点:,machine,Argos en_zh 1.9; requires review
 english_metatexts:GLR_NONE,english_metatexts.json,1567,metatext,GLR_NONE,,None,无,machine,Argos en_zh 1.9; requires review
-english_metatexts:RES_NEX,english_metatexts.json,1568,metatext,RES_NEX,,[0] of [1],[0] 联 合 国 [1],machine,Argos en_zh 1.9; requires review
+english_metatexts:RES_NEX,english_metatexts.json,1568,metatext,RES_NEX,,[0] of [1],[0] / [1],reviewed,polish pass 001: FIX
 english_metatexts:GLR_CHR_AARAVI,english_metatexts.json,1569,metatext,GLR_CHR_AARAVI,,Aaravi Mishra,阿拉薇 米什拉语Name,machine,Argos en_zh 1.9; requires review
 english_metatexts:GLR_CHR_ABDU,english_metatexts.json,1570,metatext,GLR_CHR_ABDU,,Abdu,阿卜杜语,machine,Argos en_zh 1.9; requires review
 english_metatexts:GLR_CHR_ADRIEL,english_metatexts.json,1571,metatext,GLR_CHR_ADRIEL,,Adriel,阿德里尔,machine,Argos en_zh 1.9; requires review
@@ -2740,7 +2740,7 @@ english_metatexts:POP_GIC,english_metatexts.json,2767,metatext,POP_GIC,,Error jo
 english_metatexts:POP_LMI,english_metatexts.json,2768,metatext,POP_LMI,,Language mismatch. Please ensure both you and host are using the same game language. Host language: '[0]'.,语言不匹配. 请确保您和主机使用相同的游戏语言. 主机语言: '[0]'.,machine,Argos en_zh 1.9; requires review
 english_metatexts:POP_MRE,english_metatexts.json,2769,metatext,POP_MRE,,Match not found. The region was not valid. Match ID: '[0]'.,匹配没有找到 。 该地区无效。 匹配 ID : '[0]'.,machine,Argos en_zh 1.9; requires review
 english_metatexts:POP_VMI,english_metatexts.json,2770,metatext,POP_VMI,,Version mismatch. Please ensure both you and host are using the same game version. Host version: '[0]'.,版本不匹配 。 请确保您和主机使用相同的游戏版本 。 主机版本: '[0]'.,machine,Argos en_zh 1.9; requires review
-english_metatexts:CNN_ERR_REMOTEPLAYERDISCONNECT,english_metatexts.json,2771,metatext,CNN_ERR_REMOTEPLAYERDISCONNECT,,Connection error:[n]remote player disconnected.,连接出错 :[n]远程播放器已断开 。,machine,Argos en_zh 1.9; requires review
+english_metatexts:CNN_ERR_REMOTEPLAYERDISCONNECT,english_metatexts.json,2771,metatext,CNN_ERR_REMOTEPLAYERDISCONNECT,,Connection error:[n]remote player disconnected.,连接错误：[n]远程玩家已断开连接。,reviewed,polish pass 001: FIX
 english_metatexts:CNN_ERR_EXCEPTIONONCONNECT,english_metatexts.json,2772,metatext,CNN_ERR_EXCEPTIONONCONNECT,,Connection error:[n]exception on connect.,连接出错 :[n]连接时有例外。,machine,Argos en_zh 1.9; requires review
 english_metatexts:CNN_ERR_EXCEPTION,english_metatexts.json,2773,metatext,CNN_ERR_EXCEPTION,,Connection error:[n]unknown exception.,连接出错 :[n]未知的例外 。,machine,Argos en_zh 1.9; requires review
 english_metatexts:CNN_ERR_SERVERTIMEOUT,english_metatexts.json,2774,metatext,CNN_ERR_SERVERTIMEOUT,,Connection error:[n]server timeout.,连接出错 :[n]服务器超时 。,machine,Argos en_zh 1.9; requires review

@@ -1,0 +1,33 @@
+{
+  "total_entries": 30255,
+  "human_reviewed_entries": 1204,
+  "pending_entries": 29050,
+  "pass_001": {
+    "FIX": 427,
+    "POLISH": 20,
+    "KEEP": 33
+  },
+  "review_log": "docs/review/pass-001.csv",
+  "completion": "in_progress",
+  "pass_002": {
+    "FIX": 198,
+    "POLISH": 35,
+    "KEEP": 55,
+    "REVIEW": 1
+  },
+  "flagged_entries": [
+    "english_events_standard:L495"
+  ],
+  "pass_003": {
+    "POLISH": 38,
+    "FIX": 153,
+    "KEEP": 59
+  },
+  "human_inspected_entries": 1205,
+  "remaining_to_finalize_entries": 29051,
+  "pass_004": {
+    "KEEP": 90,
+    "FIX": 85,
+    "POLISH": 11
+  }
+}

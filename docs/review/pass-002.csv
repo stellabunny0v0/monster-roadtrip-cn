@@ -1,0 +1,290 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_gachashop:L7,gachashop_tutorial,FIX,"Hey, player! It's me, the Narrat... I mean, the Meta-Shopkeeper!","嘿,球员! 是我,纳拉特... 我的意思是,Meta -Shop管理员!",嘿，玩家！是我，旁白……我是说，元商店店主！
+english_events_gachashop:L8,gachashop_tutorial,POLISH,"This is your first time in my little shop, huh? Don't worry, I'll explain how this works.","这是你第一次在我的小店里,是吧? 别担心,我会解释这是怎么回事。",第一次来我这小店吧？别担心，我来讲讲怎么玩。
+english_events_gachashop:L9,gachashop_tutorial,FIX,You can test your luck here with the Great Glorious Gacha!,你可以在这里测试你的运气 伟大的光荣加查!,在这台伟大又光荣的扭蛋机前，你可以试试手气！
+english_events_gachashop:L10,gachashop_tutorial,FIX,But this is a unique gacha machine that doesn't accept money... only PRANK TOKENS!,"但这是一台独特的Gacha机器,它不接受钱... 只有普兰克・托肯斯!",不过这台扭蛋机很特别，不收钱……只收恶作剧代币！
+english_events_gachashop:L11,gachashop_tutorial,FIX,"You'll earn PRANK TOKENS by playing Monster Roadtrip, and you get even more if you encounter new content you'd never seen before.","你会得到PRANK TOKENS 通过演奏 怪物公路旅行如果你遇到以前从未见过的新内容,你就会得到更多。",游玩《怪物公路旅行》就能赚到恶作剧代币。遇到以前没见过的新内容，还能赚更多。
+english_events_gachashop:L12,gachashop_tutorial,FIX,The Great Glorious Gacha will shower you with lots of cool gallery content.,伟大的光荣加查会给你淋浴 有很多很酷的画廊内容。,伟大又光荣的扭蛋机会送你一大堆超酷的画廊内容。
+english_events_gachashop:L13,gachashop_tutorial,FIX,"Ah, isn't it fun when gacha machines don't ask you to spend actual money?",加查机器不让你花钱 是不是很有趣?,啊，不用花真钱的扭蛋机，是不是特别好玩？
+english_events_gachashop:L14,gachashop_tutorial,FIX,"Oh, on top of that, if you've already played Monster Roadtrip before, you'll get some PRANK TOKENS retroactively for what you've already achieved!","哦,除此之外,如果你已经玩过 怪物公路旅行 之前,你会得到一些PRANK TKENS 追溯你已经取得的成就!",哦，如果你以前已经玩过《怪物公路旅行》，系统还会按已有的游玩成果，补发一些恶作剧代币！
+english_events_gachashop:L15,gachashop_tutorial,FIX,"So, what are you waiting for? Let's get that gacha rollin'!",你还在等什么? 让我们的加查滚'!,还等什么？让扭蛋机转起来吧！
+english_events_gachashop:L23,gachashop_intro1,FIX,"Greetings, player! Welcome back to the Meta-Shop.","你好,球员! 欢迎回到Meta -Shop。",你好，玩家！欢迎回到元商店。
+english_events_gachashop:L24,gachashop_intro1,FIX,"Have fun with the Great Glorious Gacha. Or don't. I'm not real, so I don't really care what you do.","与大光荣迦叶相好相好. 或无所取. 我不是真实的,所以我真的不在乎你做什么。",祝你在伟大又光荣的扭蛋机这儿玩得开心。不开心也行。我又不是真的，才不在乎你做什么。
+english_events_gachashop:L32,gachashop_intro2,FIX,"Hello again, player! Feelin' lucky today?","又来了,玩家! 感觉今天很幸运吗?",又见面了，玩家！今天手气怎么样？
+english_events_gachashop:L33,gachashop_intro2,FIX,Go feed the Great Glorious Gacha!,去喂养伟大的光荣的加查!,去喂喂伟大又光荣的扭蛋机吧！
+english_events_gachashop:L41,gachashop_intro3,FIX,"Good to see you, player! Welcome back to the Meta-Shop.","很高兴见到你,玩家! 欢迎回到Meta -Shop。",很高兴见到你，玩家！欢迎回到元商店。
+english_events_gachashop:L42,gachashop_intro3,FIX,Do you have some PRANK TOKENS burning in your pockets? Go ahead and spend them!,你有PRANK TOKENS 在你的口袋燃烧? 继续花吧!,口袋里的恶作剧代币是不是快留不住了？去花掉吧！
+english_events_gachashop:L50,gachashop_intro4,FIX,"Oh! Uh, hello player! I didn't know you were coming by again so soon... ah, shit, I completely forgot my lines.","哦 呃,你好,球员! 我不知道你这么快又来了... 啊,该死,我完全忘了我的台词。",哦！呃，你好，玩家！没想到你这么快又来了……靠，我把台词忘得一干二净了。
+english_events_gachashop:L51,gachashop_intro4,FIX,"Umm, something something welcome to the Meta-Shop, you can look around or whatever while I get caught up, yeah?","嗯,有些东西欢迎来Meta -Shop, 你可以看看周围什么的 当我被赶上,是吗?",嗯，欢迎来到元商店，什么什么的……我找找词，你先随便逛逛，行吧？
+english_events_gachashop:L58,insufficient_memories1,FIX,"Ah, I see... No PRANK TOKENS; no Great Glorious Gacha for you.",原来如此... 没有PRANK TOKENS; 没有伟大的GACHA为你。,啊，原来如此……没有恶作剧代币，就玩不了伟大又光荣的扭蛋机。
+english_events_gachashop:L65,no_items_left1,POLISH,"Sorry, player: the Great Glorious Gacha has nothing for you at this time.","对不起,玩家:伟大的光荣加查此时没有你需要的东西.",抱歉，玩家，伟大又光荣的扭蛋机暂时没有东西可以给你了。
+english_events_gachashop:L66,no_items_left1,KEEP,Maybe come back later.,等会再来吧,等会再来吧
+english_events_gachashop:L74,gachashop_purchase1,FIX,May the Great Glorious Gacha bring you many riches!,愿伟大的光荣加查给你带来许多财富!,愿伟大又光荣的扭蛋机给你带来满满收获！
+english_events_gachashop:L82,gachashop_purchase2,POLISH,"Mmm, I bet you'll have fun with that one.","嗯,我敢打赌,你会玩得开心的。",嗯，我猜你会喜欢这个。
+english_events_gachashop:L90,gachashop_purchase3,KEEP,"Remember, no refunds!","记住,不退钱!","记住,不退钱!"
+english_events_gachashop:L98,gachashop_purchase4,POLISH,"Ooh, that's a good one!","哦,这是一个不错的!",哦，这个不错！
+english_events_gachashop:L106,gachashop_purchase5,KEEP,You can hang that one in your bedroom wall!,你可以挂在卧室墙上!,你可以挂在卧室墙上!
+english_events_gachashop:L114,gachashop_exit1,KEEP,See you next time!,下次见!,下次见!
+english_events_gachashop:L122,gachashop_exit2,KEEP,Have fun on the road!,路上玩得开心点!,路上玩得开心点!
+english_events_gachashop:L130,gachashop_exit3,POLISH,Come back anytime.,随时回来,随时再来。
+english_events_gachashop:L138,gachashop_exit4,KEEP,Be careful out there!,外面小心点!,外面小心点!
+english_events_gachashop:L146,gachashop_exit5,KEEP,"Farewell, player!","再见,玩家!","再见,玩家!"
+english_events_standard:L4,standard_gas_hitech,FIX,"You pull into what you THINK is a gas station, but honestly, this could be a space station for all you know.","你进入你认为是一个加油站, 但说实话,这可能是一个空间站,你知道的。",你把车开进一个看起来像加油站的地方。不过说真的，就算这是个空间站，你也认不出来。
+english_events_standard:L6,standard_gas_hitech,FIX,"Seriously, this place is hi-tech as hell. Do they even service regular vehicles?","说真的,这个地方是高科技的地狱。 他们甚至为普通车辆服务吗?",真的，这地方高科技得离谱。他们还接待普通汽车吗？
+english_events_standard:L7,standard_gas_hitech,FIX,"Well, only one way to find out. What do you do?","嗯,只有一个方法可以发现。 你们是做什么的?",试试就知道了。你打算做什么？
+english_events_standard:L12,standard_diner_doom,FIX,"You read about this diner in a listicle of the ""Top 10 Most Cursed Restaurants You Should Never Ever Visit.""","你在""最受诅咒的十大餐饮店""的邮箱里读到这家餐厅",你在一篇《千万别去！十大最受诅咒餐厅》的盘点文章里，看到过这家店。
+english_events_standard:L14,standard_diner_doom,KEEP,"Obviously, you took that as a challenge.","显然,你认为这是个挑战。","显然,你认为这是个挑战。"
+english_events_standard:L15,standard_diner_doom,FIX,"Seriously, after all the dark magic you've messed with over the years, you think you can handle a diner.","说真的,经过这么多年的黑暗魔法后,你觉得你可以处理一个餐馆。",说真的，这些年你都折腾过那么多黑魔法了，一家小餐馆还应付不了？
+english_events_standard:L16,standard_diner_doom,FIX,"So, now that you're here, what do you do?","所以,现在你在这里,你做什么?",既然来了，你打算做什么？
+english_events_standard:L21,standard_motel_regular,FIX,"After a long, exhausting day of sitting in a car, you're ready to turn in for the night.","久而疲倦地坐在一辆车上一天后,准备自首去过夜.",在车里坐了一整天，累得够呛，你准备找个地方睡一晚。
+english_events_standard:L23,standard_motel_regular,FIX,Time to choose which mundane activity to do before going to sleep. Surely Polly and Scott will find a way to make it weird...,是时候在睡觉前 选择什么是普通活动了 当然 波莉 财务报告和审定财务报表 斯科特 将会找到一个方法使它变得奇怪... ...,睡前先挑点平常的活动做做吧。当然，有波莉和斯科特在，再平常也能给你整出花来……
+english_events_standard:L28,standard_picnic_spot,FIX,"The sun is shining, the birds are singing, and the ants are eagerly anticipating eating your scraps.",太阳发光了 鸟儿们在唱歌 蚂蚁们急切地期待着吃你的碎片,阳光灿烂，鸟儿歌唱，蚂蚁们则翘首以待，准备吃你的剩饭。
+english_events_standard:L30,standard_picnic_spot,FIX,What a perfect day for a picnic!,今天是野餐的完美节日!,真是野餐的好天气！
+english_events_standard:L31,standard_picnic_spot,FIX,You've got your picnic basket and your checkered blanket -- all that remains is deciding what to do now that you're here.,你已经得到了你的野餐篮子和被子被子—— 剩下的只是决定你现在在这里做什么。,野餐篮带了，格子毯也带了——现在，就差决定做点什么了。
+english_events_standard:L36,standard_biker_bar,FIX,"Breaking bottles, clinking shot glasses, revving motors, the crash of a window some dude just got thrown out of...",撞出一扇窗户... ...有人被扔出... ...,酒瓶碎裂声、烈酒杯碰撞声、引擎轰鸣声，还有某个倒霉蛋被扔出去时撞碎窗户的声音……
+english_events_standard:L38,standard_biker_bar,FIX,Such are the dulcet melodies of a bona fide biker bar.,这是真正的自行车手酒吧的旋律。,这些悦耳的旋律，正是一家正宗机车酒吧该有的。
+english_events_standard:L39,standard_biker_bar,FIX,This is your chance to embrace your inner badass. What do you do?,这是你的机会 拥抱你的内在坏蛋。 你们是做什么的?,释放内心狠角色的机会来了。你打算做什么？
+english_events_standard:L44,standard_graveyard,FIX,"Graveyards are solemn, quiet places made for reflection and paying respect to the dead...","墓地是庄严的,安静的地方 用来进行反省 并尊重死者...",墓地是庄严、安静的地方，适合反思人生、缅怀逝者……
+english_events_standard:L46,standard_graveyard,FIX,"...if you're a snooze-fest. But you're with Polly and Scott, which means a graveyard is the perfect place to play a prank!",...如果你是一个snooze-fest。 不过你和我们在一起 波莉 财务报告和审定财务报表 斯科特也就是说墓地是恶作剧的绝佳场所!,……前提是你是个闷葫芦。但你身边可是波莉和斯科特，那墓地自然就是恶作剧的绝佳场所！
+english_events_standard:L47,standard_graveyard,FIX,"The only question is, what's the best prank to pull?","唯一的问题是,什么是 最好的恶作剧拉?",唯一的问题是：搞什么恶作剧最合适？
+english_events_standard:L52,standard_village_west,FIX,"Welcome to the land of six-shooters, outlaws, wild stallions, and ten-gallon hats.",欢迎来到六枪手、歹徒、野马和十加仑帽子的地盘,欢迎来到左轮手枪、亡命之徒、野马和大檐牛仔帽的地盘。
+english_events_standard:L54,standard_village_west,KEEP,"You've always wanted to be a real cowboy (or at least the kind of cowboy they show on TV), and now's your chance!","你一直想成为真正的牛仔(或至少是在电视上展现的那种牛仔),现在是你的机会了!","你一直想成为真正的牛仔(或至少是在电视上展现的那种牛仔),现在是你的机会了!"
+english_events_standard:L55,standard_village_west,FIX,"So, what are you gonna do... pardner?","那么,你打算怎么办... 帕德纳?",那么，搭档……你打算干点什么？
+english_events_standard:L60,standard_art_exhibition,FIX,"Art is beautiful. Art is emotional. Art is a raw, unfiltered exploration of the monster condition.",艺术是美丽的。 艺术是情感的。 艺术是对怪物状况的原始而未过滤的探索.,艺术是美，艺术是情感，艺术是对怪物生存处境最原始、毫无修饰的探索。
+english_events_standard:L62,standard_art_exhibition,FIX,"Art is, apparently, painting a white stripe on a blue canvas and charging 40 million dollars for it.","艺术显然在蓝色画布上画出一条白条纹,为此收取了4000万美元.",显然，艺术也可以是在蓝色画布上画一道白线，再标价 4000 万美元。
+english_events_standard:L63,standard_art_exhibition,FIX,It's time to get cultured. What do you do at the art exhibition?,时取入入道. 你在艺术展上做什么的?,该提升一下艺术修养了。你想在展览上做什么？
+english_events_standard:L68,standard_lake,FIX,"On a hot, sunny day like this, a lake visit is the perfect way to beat the heat.",在一个炎热而阳光灿烂的天气中 湖上探险是击败热量的绝佳方法,这么热、太阳这么大的日子，去湖边避暑再合适不过了。
+english_events_standard:L70,standard_lake,FIX,It's also the perfect excuse to see your hot friends in swimsuits!,这也是看到你那些穿泳衣的热门朋友的完美借口!,还可以名正言顺地欣赏性感朋友们穿泳装的样子！
+english_events_standard:L71,standard_lake,FIX,"Not that you were fantasizing about that this whole time... nope, definitely not, *cough cough*.","不是说你一直幻想着那个... 没有,绝对没有,咳嗽。",当然，你才没有一路都在幻想这个……没有，绝对没有，*咳咳*。
+english_events_standard:L72,standard_lake,FIX,"Anyway, what do you do now that you're here?","总之,你现在在这里做什么?",总之，既然来了，你打算做什么？
+english_events_standard:L77,standard_diner_pancake,FIX,"Breakfast is the most important meal of the day, and the best breakfast is a fluffy stack of carbs smothered in syrup.","早餐是一天中最重要的一顿饭,最好的一顿早餐是一叠被糖浆闷住的活生生的碳水化合物.",早餐是一天中最重要的一餐。最棒的早餐，当然是一大叠松软的碳水化合物，浇满糖浆。
+english_events_standard:L79,standard_diner_pancake,FIX,You see that this diner has some absolutely enormous menu options. I hope you're hungry!,"你看,这个餐馆有一些 绝对巨大的菜单选择。 我希望你饿了!",这家餐馆的菜单上，有些东西分量大得惊人。希望你肚子够饿！
+english_events_standard:L80,standard_diner_pancake,FIX,"So many pancakes to eat, so little time! What sort of meal do you want to order?","这么多的煎饼吃, 这么少的时间! 你想吃什么饭?",煎饼这么多，时间这么少！你想点什么来吃？
+english_events_standard:L85,standard_diner_dinest,FIX,The Dinest is a classy locale made for the road-tripper with discerning tastes.,Dinest是一个为有分辨口味的路人所制作的一流地方.,The Dinest 是一家格调十足的餐馆，专为口味挑剔的公路旅人而开。
+english_events_standard:L87,standard_diner_dinest,FIX,"Sadly, it looks like everyone and their mother is a road-tripper with discerning tastes. This place is PACKED.","可悲的是,看起来每个人 和他们的妈妈都是路人,有分辨的口味。 这个地方是PackEd。",可惜，看起来谁都自认口味讲究。这里挤得满满当当。
+english_events_standard:L88,standard_diner_dinest,FIX,The only way you're gonna get seated anytime soon is if you sit with someone else.,你任何时间要坐下来的唯一办法 就是和别人坐在一起,想尽快坐下，就只能找人拼桌了。
+english_events_standard:L89,standard_diner_dinest,POLISH,This is a great opportunity to smash conventional manners and make new friends! Who do you sit with?,这是打破传统礼仪和交新朋友的好机会! 你和谁坐在一起?,打破常规礼仪、结交新朋友的好机会！你想跟谁坐？
+english_events_standard:L94,standard_gas_trolls,POLISH,This gas station looks like it was lifted straight out of a children's storybook.,这个加油站看起来像是被从儿童故事书上直接取出.,这个加油站像是直接从儿童故事书里搬出来的。
+english_events_standard:L95,standard_gas_trolls,FIX,"A children's storybook where the fantasy heroes drive cars, I guess, but nonetheless!","儿童故事书 幻想英雄驾车,但无论如何!",当然，得是奇幻英雄也开汽车的那种故事书。不过意思就是这么个意思！
+english_events_standard:L97,standard_gas_trolls,FIX,"Despite all the weird and whimsical elements, it looks like this gas station still has all the normal functions. What do you do?","尽管这些怪异和怪异的元素,看起来这个加油站仍然拥有所有正常的功能. 你们是做什么的?",虽然怪诞又异想天开，但这加油站的正常功能似乎一样不缺。你打算做什么？
+english_events_standard:L102,standard_gas_basic,KEEP,"Gas stations are overpriced, full of pollutants, and their dirty bathrooms seem to invent new diseases every day.","加油站价格过高,充满了污染物,其肮脏的卫生间似乎每天都在发明出新的疾病.","加油站价格过高,充满了污染物,其肮脏的卫生间似乎每天都在发明出新的疾病."
+english_events_standard:L104,standard_gas_basic,FIX,But they're a necessary evil if you wanna make your car move. Welcome to the road trip life!,"但是如果你想让自己的车开动的话,它们就是必然的邪恶. 欢迎来到道路旅行生活!",可要让车跑起来，这罪就非受不可。欢迎体验公路旅行生活！
+english_events_standard:L105,standard_gas_basic,FIX,"So, what do you do?","那么,你是做什么的? 做什麽的?",那么，你打算做什么？
+english_events_standard:L110,standard_motel_cheap,POLISH,"There's no shame in sticking to a budget, but honestly, you might've been better off sleeping in the car.","坚持预算是没有羞耻的, 但说实话,你睡在车里可能更好。",省钱没什么丢人的。不过说真的，你可能还不如睡车里。
+english_events_standard:L112,standard_motel_cheap,FIX,"But hey, sometimes you just gotta rough it for a night. It'll build character!","但是,嘿,有时你只需要 粗糙的它一晚。 它会建立性格!",嗐，偶尔将就一晚嘛。还能磨炼意志！
+english_events_standard:L113,standard_motel_cheap,FIX,"At least, that's what you tell yourself while you're browsing the abysmal room options available to you...","至少,这是你告诉自己 当你浏览 极差的房间选择给你...",至少，看着这些糟糕透顶的房型时，你就是这么安慰自己的……
+english_events_standard:L114,standard_motel_cheap,FIX,"Too late to back down now, though. Which room will you rent for the night?","来不及退后了,虽然。 你今晚要租哪个房间?",现在反悔也晚了。今晚租哪间房？
+english_events_standard:L119,standard_motel_fancy,FIX,"Where do you stay when you're too cheap for a real hotel but too fussy for a regular motel? Here, apparently!","你住哪里,当你太便宜 对于一个真正的酒店,但太挑剔 对于一个普通的汽车旅馆? 这里,显然!",舍不得住正经酒店，又嫌普通汽车旅馆太差，该住哪儿？看来就是这里！
+english_events_standard:L121,standard_motel_fancy,FIX,"This place is full of class, charm, and poise -- three things you've always lacked.","这个地方充满了阶级,魅力,和出类拔萃——三件你一直缺少的东西.",这里满是品位、魅力和优雅——这三样，你向来一样都没有。
+english_events_standard:L122,standard_motel_fancy,FIX,"Which means tonight is the perfect night to cosplay as a rich, fancy person! What do you do?",也就是说今晚是作为富人 花花公子的完美夜晚! 你们是做什么的?,也就是说，今晚正适合扮一回讲究的有钱人！你打算做什么？
+english_events_standard:L127,standard_lab,FIX,"Are you a government conspiracy theorist? Well, you're about to be.","你是政府阴谋论者吗? 好吧,你即将是。",你信政府阴谋论吗？好吧，马上就信了。
+english_events_standard:L129,standard_lab,FIX,"Welcome to the secret government laboratory, where all your favorite politicians order their scientists to play God.",欢迎来到政府的秘密实验室 你们最爱的政客们 命令他们的科学家扮演上帝,欢迎来到政府秘密实验室。你最爱的那些政客，就在这里命令科学家扮演上帝。
+english_events_standard:L130,standard_lab,FIX,"There are grisly experiments, mutated creatures, and crimes against monstrosity galore.","有一些丑陋的实验,变异的生物, 和对monstrosity galore的犯罪。",骇人的实验、变异生物，还有数不清的反怪物罪行，应有尽有。
+english_events_standard:L131,standard_lab,KEEP,What catches your interest?,什么让你感兴趣?,什么让你感兴趣?
+english_events_standard:L136,standard_shady_property,KEEP,This place seems like exactly the sort of place you shouldn't visit...,这地方似乎正是你不该去的地方...,这地方似乎正是你不该去的地方...
+english_events_standard:L138,standard_shady_property,FIX,"Which, naturally, is exactly why you have to visit it. Horror movie logic for the win!",这自然也是你必须去看它的原因 恐怖电影逻辑取胜!,这当然正是你非去不可的原因。恐怖片逻辑，万岁！
+english_events_standard:L139,standard_shady_property,FIX,The big question now is how you'd like to enter the premises. What's it gonna be?,"现在的大问题是,你希望怎样进入这里。 它会是什么?",现在最关键的是怎么进去。你选哪种方式？
+english_events_standard:L144,standard_space_station,KEEP,"Like most people, you wanted to go to space when you were a kid.","和大多数人一样,你小时候想去太空.","和大多数人一样,你小时候想去太空."
+english_events_standard:L145,standard_space_station,FIX,Then you heard about how much math was involved and decided that shit wasn't for you.,之后你听说了多少数学 并且决定那狗屎不是你的。,后来听说上太空得学一大堆数学，你就决定：这破事还是算了。
+english_events_standard:L147,standard_space_station,FIX,But now's your chance to indulge your inner space cadet! What do you do?,但你现在有机会放纵你的内地学员了! 你们是做什么的?,现在，满足你内心小宇航员的机会来了！你打算做什么？
+english_events_standard:L152,standard_landmark_foot,FIX,The Desert's Foot is a peculiar landmark. It's a natural rock formation that looks exactly like a foot.,"沙漠的脚是一个独特的地标。 它是一个天然的岩层,外观完全像一脚.",“沙漠之足”是个奇特的地标：一块天然岩石，长得跟脚一模一样。
+english_events_standard:L153,standard_landmark_foot,FIX,You're not sure if that justifies all the guided tours and gift shops and tourist trap stuff surrounding it...,你不确定这是否证明所有导游和礼品店 以及周围的旅游圈套...,你不太明白，就这块石头，有必要搞那么多导览、礼品店和宰游客的生意吗……
+english_events_standard:L155,standard_landmark_foot,POLISH,"But hey, you chose to come here, so you might as well enjoy yourself. What do you do?","但是,嘿,你选择来这里, 所以你可能更好享受自己。 你们是做什么的?",不过，来都来了，还是好好玩吧。你打算做什么？
+english_events_standard:L160,standard_landmark_potato,FIX,"Behold, the world's biggest potato! So large, so starchy, so rustic!","看,世界上最大的马铃薯! 这么大,那么闷,那么生锈!",看，世界上最大的土豆！硕大、淀粉十足，还透着浓浓的乡土气息！
+english_events_standard:L162,standard_landmark_potato,FIX,So ripe for the creation of the world's largest plate of French fries!,创造出世界上最大的一盘炸薯条的时机已经成熟了!,拿它做世界上最大的一盘薯条，简直正合适！
+english_events_standard:L163,standard_landmark_potato,FIX,There's plenty to do besides stare at this agricultural marvel. What do you do?,除了盯着这个农业奇迹 还有很多事要做 你们是做什么的?,除了盯着这项农业奇迹，还有不少事可做。你打算做什么？
+english_events_standard:L168,standard_landmark_hole,FIX,"A hole in a desert... man, they'll turn anything into a tourist trap, huh?","一个沙漠的洞... ... 男人,他们会把任何东西变成 旅游陷阱,是吧?",沙漠里一个洞……天啊，他们真是什么都能拿来宰游客，是吧？
+english_events_standard:L170,standard_landmark_hole,FIX,"Some say the hole is bottomless, but that can't really be true... can it?","有人说这个洞是无底的,但那不是真的... 可以吗?",有人说这洞深不见底，但总不可能是真的吧……对吧？
+english_events_standard:L171,standard_landmark_hole,KEEP,"Well, since you're here, what do you want to do?","既然你来了,你想干什么?","既然你来了,你想干什么?"
+english_events_standard:L176,standard_village_charming,FIX,"This idyllic little village is filled with flowers, maypoles, and celebration galore.","这个有诗意的小村庄充满了花朵,梅花和庆典花朵.",这个田园诗般的小村庄，到处是鲜花、五月柱和热闹的庆典。
+english_events_standard:L177,standard_village_charming,KEEP,"...Which means there's gotta be something weird going on here, right? Nobody's this happy ALL the time.","这说明这里一定有怪事发生,对吧? 没人总是这么开心","这说明这里一定有怪事发生,对吧? 没人总是这么开心"
+english_events_standard:L179,standard_village_charming,FIX,"Eh, maybe you're just being paranoid. This is a chance to have fun! What do you do first?","呃,也许你只是偏执。 这是玩乐的机会! 汝先作甚么. 师曰.",呃，也许是你疑神疑鬼。现在该好好玩了！你想先做什么？
+english_events_standard:L184,standard_village_kaiju,FIX,"Burning buildings, screaming people, and eardrum-shattering roars...","烧了建筑物,尖叫着人们, 和震耳欲聋地咆哮...",燃烧的楼房、尖叫的人群，还有快震破耳膜的咆哮声……
+english_events_standard:L186,standard_village_kaiju,FIX,There's no question about it: a kaiju is attacking this city.,"无所疑:一个""开国""正在攻克这座城市.",毫无疑问，一头巨兽正在袭击这座城市。
+english_events_standard:L187,standard_village_kaiju,POLISH,I'm not sure why you decided to visit a city obviously experiencing a deadly event...,我不知道为什么你决定去一个明显经历致命事件的城市...,我不太明白，你为什么要来一座明显正在发生致命灾难的城市……
+english_events_standard:L188,standard_village_kaiju,FIX,"But then again, I don't know why I even expect logic from you anymore.","但再说一遍,我不知道为什么我甚至期待 从你的逻辑了。",不过话说回来，我怎么还指望你讲逻辑呢？
+english_events_standard:L189,standard_village_kaiju,FIX,"Nevertheless, you now need to protect yourself from death by giant reptile. What do you do?","尽管如此,你现在需要保护自己 避免被巨型爬行动物杀死。 你们是做什么的?",总之，先别让巨型爬行动物弄死你。你打算怎么办？
+english_events_standard:L194,standard_reptile_show,FIX,Welcome to the Reptile Variety Show! Meet the cold-blooded critters with a passion for the stage!,"欢迎光临""变相表演""! 以对舞台的热情来迎接冷血的野兽!",欢迎来到爬行动物综艺秀！这些冷血小家伙，可是满腔舞台热情！
+english_events_standard:L196,standard_reptile_show,KEEP,There are a few performances scheduled for the day. Which show do you want to see?,当天还安排了几场演出. 你想看哪个节目?,当天还安排了几场演出. 你想看哪个节目?
+english_events_standard:L201,standard_biz_summit,FIX,"This is a hotshot business summit, where capitalism's finest gather to figure out how to get even richer.","这是一个热门的商业峰会, 资本主义最优秀的聚集 找出如何更富有。",这是一场大咖云集的商业峰会，资本主义的精英们正聚在一起，琢磨怎么更有钱。
+english_events_standard:L203,standard_biz_summit,POLISH,"You feel a bit out of place in this crowd, but like any business mogul will teach you, you just gotta fake it 'til you make it!","在人群中你感觉有点不对劲, 但是就像任何生意的恶棍会教你一样, 你只需要假装它'直到你成功!",你在人群中有点格格不入。但随便哪个商界大亨都会教你：先装，装着装着就成了！
+english_events_standard:L204,standard_biz_summit,KEEP,"So, what do you want to do?","那么,你想怎么办?","那么,你想怎么办?"
+english_events_standard:L209,standard_movie_set,KEEP,"Everyone, at some point, wonders what it's like to be a movie star.","每个人,在某些时候,都想知道当电影明星是什么感觉.","每个人,在某些时候,都想知道当电影明星是什么感觉."
+english_events_standard:L211,standard_movie_set,FIX,You still don't know what that's like -- you're just a humble road-tripper trespassing on a movie set.,你仍然不知道那是什么样子—— 你只是一个谦卑的路三进式侵入电影片场。,你还是不知道那是什么感觉——毕竟，你只是个擅闯片场的小小公路旅人。
+english_events_standard:L212,standard_movie_set,FIX,"But this might be the closest you ever get to Hollywood, so make the most of it now! What do you do?","但这可能是你最接近好莱坞, 所以现在尽量利用它! 你们是做什么的?",可这说不定是你离好莱坞最近的一次了，抓住机会吧！你打算做什么？
+english_events_standard:L217,standard_wedding,FIX,"Ah, weddings! The union of two (or more) soul mates, pledging life and love to each other for the rest of their days...","啊,婚礼! 两个(或两个以上)灵魂伴侣的结合,保证生命和相爱的余生...",啊，婚礼！两位——或更多位——灵魂伴侣结合，许下相守相爱一生的誓言……
+english_events_standard:L218,standard_wedding,FIX,"If you believe in that ""true love"" stuff. If not, at least weddings are a fun place to dress fancy and get drunk.","如果你相信""真爱""的话 如果不是,至少婚礼 是一个有趣的地方 穿花花公子和喝醉。",当然，前提是你信“真爱”那套。不信也没关系，至少婚礼是穿得漂漂亮亮、喝个烂醉的好地方。
+english_events_standard:L220,standard_wedding,FIX,They're also fun to crash! Which is what you're doing now. Shhh!,坠机也很有趣! 这就是你现在在做什么。 嘘!,不请自来也很好玩！而你现在就是来蹭婚礼的。嘘！
+english_events_standard:L221,standard_wedding,KEEP,"So, what do you wanna do?","那么,你想怎么办?","那么,你想怎么办?"
+english_events_standard:L226,standard_road_warriors,FIX,The cars are dangerously suped-up. The desert is a wasteland of hub caps and bullet shells.,"车是危险的 上吊。 沙漠是一座荒地,由枢纽盖和弹壳组成.",汽车改装到了危险的程度。沙漠成了遍地轮毂盖和弹壳的荒原。
+english_events_standard:L227,standard_road_warriors,FIX,"Everybody's wearing leather, scrap metal armor, gas masks, and a LOT of black eyeshadow.","每个人都穿着皮革,废金属盔甲,防毒面具,还有一副多发的黑色眼罩.",人人穿着皮衣、废金属盔甲，戴着防毒面具，还涂了厚厚一圈黑眼影。
+english_events_standard:L229,standard_road_warriors,FIX,"Welcome to the Post-Apocalyptic Settlement, where the only law to abide is the NEED FOR SPEED!","欢迎来到""末日解决方案"",其中唯一需要遵守的法律是SPEED的需求!.",欢迎来到末日聚落。在这里，唯一的法则就是：速度至上！
+english_events_standard:L230,standard_road_warriors,FIX,There are plenty of dangerous dieselpunk activities to fill your time. What do you do?,有很多危险的柴油机活动 来填补你的时间。 你们是做什么的?,危险的柴油朋克活动多得很，足够你打发时间。你打算做什么？
+english_events_standard:L235,standard_merkingdom_outpost,FIX,"In what appears to be a former aquarium, you see the Merkingdom flag flying from the rooftops.","在前水族馆里,你可以看到从屋顶上飞起的默金多姆旗帜。",一栋像是旧水族馆的建筑，屋顶上飘着人鱼王国的旗帜。
+english_events_standard:L237,standard_merkingdom_outpost,KEEP,It seems the underwater monarchs have been expanding their territories!,看来水下君主正在扩张他们的领地!,看来水下君主正在扩张他们的领地!
+english_events_standard:L238,standard_merkingdom_outpost,KEEP,"Well, no reason not to visit the tyrannical ocean overlords. What do you want to do?",没有理由不拜访暴虐的海洋霸主 你想怎样?,没有理由不拜访暴虐的海洋霸主 你想怎样?
+english_events_standard:L243,standard_con,FIX,"Yay, a con! It's the perfect place to be your authentic nerdy self without fear of judgment.","耶,一个骗子! 这是完美的地方 成为你真正的书呆子 自己而不害怕判断。",好耶，是漫展！在这里，你可以尽情做个宅，不用担心别人指指点点。
+english_events_standard:L245,standard_con,FIX,"There are cosplayers, merch vendors, panels, gaming tournaments, overpriced food...","有Cosplayers,Merch卖家,面板,游戏锦标赛,高价食品......",Cosplay、周边摊、嘉宾座谈、游戏比赛，还有贵得离谱的吃的……
+english_events_standard:L246,standard_con,POLISH,"So much to do, so little time! What activity do you want to try out?","这么多事情要做,那么少的时间! 你想尝试什么活动?",活动这么多，时间这么少！你想试试哪个？
+english_events_standard:L251,standard_spa,POLISH,"You know, for a vacation, this road trip has been surprisingly stressful.","你知道,为了度假, 这趟出乎意料的旅程 压力很大。",说真的，本来是来度假的，这趟公路旅行的压力却大得出奇。
+english_events_standard:L253,standard_spa,KEEP,A spa sounds like the perfect thing to help you relax before you get to your final destination.,温泉疗养院听起来很适合 让你在到达目的地前放松一下,温泉疗养院听起来很适合 让你在到达目的地前放松一下
+english_events_standard:L254,standard_spa,FIX,The question is... how do you want to chill out?,问题是... 你想怎么冷静下来?,问题是……你想怎么放松？
+english_events_standard:L259,standard_ufo_sightseeing,KEEP,You came here today to answer the age-old question: do aliens exist?,你今天来这是为了回答一个古老的问题:外星人是否存在?,你今天来这是为了回答一个古老的问题:外星人是否存在?
+english_events_standard:L261,standard_ufo_sightseeing,FIX,"Who knows if you'll see any today, but at least it'll be fun to hang out with the other UFO spotters!","谁知道今天你会看到什么, 但至少它会很有趣 挂出其他UFO的观察者!",今天能不能看到外星人，谁知道呢？至少能跟其他 UFO 爱好者一起玩！
+english_events_standard:L262,standard_ufo_sightseeing,FIX,"So, besides watch the stars and swap extraterrestrial conspiracy theories, what do you wanna do?","所以,除了看星星 和交换外星阴谋论, 你想做什么?",除了看星星、交流外星人阴谋论，你还想做什么？
+english_events_standard:L267,standard_farm,KEEP,"Ah, farm life. Sometimes it's nice to get away from the hustle and bustle of the city.",农场生活 有时能摆脱城市的繁忙和混乱是件好事。,农场生活 有时能摆脱城市的繁忙和混乱是件好事。
+english_events_standard:L268,standard_farm,KEEP,"Farmers enjoy clean air, homegrown food, and simple living.",农民享受清洁空气、自给食品和简单生活。,农民享受清洁空气、自给食品和简单生活。
+english_events_standard:L270,standard_farm,FIX,"Sure, it comes at the price of doing lots of hard labor and usually only having livestock for company...","当然,它的代价是 做很多苦力 而且通常只有牲畜为公司...",当然，代价是干一大堆苦力，而且通常只有牲畜陪你……
+english_events_standard:L271,standard_farm,FIX,"But fuck it, today you're all about that cottagecore life! What part of the farm do you want to see first?","但他妈的,今天你都是关于 家庭生活! 你想先看看农场的哪个地方?",管它呢，今天你就想过过田园生活！先去农场哪儿看看？
+english_events_standard:L276,standard_fortune_teller,FIX,"Is fortune-telling real, or is it all bogus? Only one way to find out...",算算算算算算算算算算算算算算算算算算算算算假算算算算算算算算算? 只有一种方法能发现...,算命真能算准，还是全是唬人的？试试就知道了……
+english_events_standard:L278,standard_fortune_teller,KEEP,The psychic who runs this caravan has a sign posted outside with the different services she offers.,经营这辆大篷车的灵媒 在外面贴了个招牌 上面有她提供的不同服务,经营这辆大篷车的灵媒 在外面贴了个招牌 上面有她提供的不同服务
+english_events_standard:L279,standard_fortune_teller,KEEP,There are so many different ways to glimpse the future! What do you want to do?,有这么多不同的方式 来窥视未来! 你想怎样?,有这么多不同的方式 来窥视未来! 你想怎样?
+english_events_standard:L284,standard_rodeo,FIX,Rodeos are an exciting celebration of all the best parts of cowboy culture:,Rodeos是牛仔文化中最精彩的一面:,牛仔竞技大会很刺激，把牛仔文化最精彩的部分全凑在了一起：
+english_events_standard:L286,standard_rodeo,FIX,"Horseback riding, calf-tying, steer wrestling, and eating obscene amounts of pulled pork.",骑马骑马 做牛排 摔跤 吃下流的猪肉,骑马、套小牛、摔公牛，还有吃下多到吓人的手撕猪肉。
+english_events_standard:L287,standard_rodeo,KEEP,There are lots of events and exhibitions happening today! Which do you want to see?,今天有许多活动和展览! 你想看哪个?,今天有许多活动和展览! 你想看哪个?
+english_events_standard:L292,standard_village_abandoned,FIX,"Wow, there is NOBODY here. You've been wandering this village for a bit and haven't met another living soul.","哇,这里没有人。 你在这村子里游荡了一会儿 却没遇到另一个活生生的灵魂",哇，这里一个人都没有。你在村子里转了半天，连个活物都没碰到。
+english_events_standard:L294,standard_village_abandoned,FIX,What could've happened to all the inhabitants? All their stuff is still here. Hmmm...,所有居民都会发生什么? 他们的东西还在这里。 那个...,居民都出了什么事？东西明明全还在。嗯……
+english_events_standard:L295,standard_village_abandoned,POLISH,"Well, you suppose the first order of business is to...","好吧,你认为第一件事是...",好吧，你觉得首先应该……
+english_events_standard:L300,standard_landmark_wigs,FIX,"Wigs of every color, shape, and style -- from afro to updo -- are on display here.",各种颜色、形状和风格的维格 -- -- 从芳香到上 -- -- 都在这里展出。,各色各样的假发在这里展出——从爆炸头到高高盘起的发髻，什么款式都有。
+english_events_standard:L302,standard_landmark_wigs,FIX,You never knew there was such a rich history to artificial hair!,你从不知道有这么丰富的历史 人工发型!,你还真不知道，假发竟有这么丰富的历史！
+english_events_standard:L303,standard_landmark_wigs,POLISH,There are plenty of things to check out at the museum. You decide to...,博物馆里有很多东西要查 你决定...,博物馆里有不少东西值得看看。你决定……
+english_events_standard:L308,standard_gift_shop,FIX,"What sort of ""gift shop"" even is this? Just a pop-up stand in the middle of the desert?","这算什么""礼品店""? 在沙漠中间的弹出台?",这算哪门子“礼品店”？不就是沙漠正中间临时摆的摊吗？
+english_events_standard:L310,standard_gift_shop,FIX,And what are these products for sale? What are they for? What are they even MADE of?,这些产品要卖什么? 他们是为了什么? 他们到底做了什么?,卖的这些又是什么？拿来干什么？到底是用什么做的？
+english_events_standard:L311,standard_gift_shop,FIX,"Well, this is definitely weird, but you might as well...","好吧,这绝对是怪异的, 但你可能也...",好吧，这地方确实怪。不过，来都来了……
+english_events_standard:L316,standard_national_park,KEEP,"Preserving nature is important, and no one does it better than national parks.","保护自然是重要的,没有人比国家公园做得更好。","保护自然是重要的,没有人比国家公园做得更好。"
+english_events_standard:L317,standard_national_park,FIX,"Here, you can relax, breathe that clean mountain air, and truly appreciate the great outdoors.","在这里,你可以放松,呼吸 干净的山上空气, 并真正欣赏伟大的户外。",在这里，你可以放松身心，呼吸清新的山间空气，好好领略户外风光。
+english_events_standard:L319,standard_national_park,FIX,"...Or you can fuck around and be chaotic. Yeah, that's way more likely.","...或者你可以乱搞和混乱。 是啊,这是更可能。",……当然，也可以到处胡闹、制造混乱。对，这个可能性大多了。
+english_events_standard:L320,standard_national_park,POLISH,"In any event, what are you going to do at the park?","无论如何,你要去公园做什么?",总之，你打算在公园里做什么？
+english_events_standard:L325,standard_monster_truck,FIX,"Nothing says ""fun"" like two huge trucks on huge wheels wrecking the shit out of each other.","没有任何东西说""好玩"" 就像两辆巨大的卡车 在巨大的车轮上 破坏彼此的狗屎。",两辆装着巨型轮胎的大卡车互相撞个稀巴烂，还有什么比这更“好玩”？
+english_events_standard:L327,standard_monster_truck,FIX,"The stands are filled with cheering, hooting fans ready to see some vehicular carnage.","观众席上充满了欢呼和欢呼的歌迷们,他们准备看到一些车辆被屠杀。",看台上挤满了欢呼、起哄的观众，等着看汽车大屠杀。
+english_events_standard:L328,standard_monster_truck,POLISH,"As for you and your friends, you're ready to...","至于你和你的朋友, 你准备...",至于你和朋友们，你们准备……
+english_events_standard:L333,standard_larp,FIX,"Wow, this LARP is crawling with humans. Real, actual humans. That's weird.","哇,这个LARP 爬上人类。 真实的,真实的人类。 这很奇怪。",哇，这场实景角色扮演里全是人类。真真正正的人类。怪了。
+english_events_standard:L334,standard_larp,FIX,This must be one of those areas where the dimensional fabric between the human and monster realms is starting to tear.,这一定是人类和怪物之间的 维面结构开始撕裂的地区之一。,这里大概是人类世界和怪物世界之间的维度屏障开始破裂的地区之一。
+english_events_standard:L335,standard_larp,FIX,"Strangely, the humans aren't screaming or grabbing pitchforks, which goes against all you know about their thoughts on monsters.","奇怪的是,人类并没有尖叫或抢走干草叉, 这与你所知道的关于他们对怪物的想法是背道而驰的。",奇怪的是，人类既没尖叫，也没抄起草叉。这可跟你知道的人类对怪物的态度完全不一样。
+english_events_standard:L337,standard_larp,FIX,"They must think you're fellow humans, dressed up for the LARP. Fine by you; their ignorance is your bliss!","他们一定认为你们是人类同胞,为LARP着装. 赞颂你超绝万物,他们的愚昧是你们的恩典。",他们一定把你们当成了穿着戏服的人类玩家。挺好，他们无知，你们省心！
+english_events_standard:L338,standard_larp,FIX,"Since you're here, what LARP activity are you interested in trying?",既然你来了 你对LARP有什么兴趣?,既然来了，你想试试哪种实景角色扮演活动？
+english_events_standard:L343,standard_shopping_mall,FIX,"The shopping mall: it's a place where you can sort of shop online, but like... offline.","购物中心:这是一个你可以在网上购物的地方,但是... 离线",购物中心：一个让你像网购一样购物的地方，只不过……是线下的。
+english_events_standard:L345,standard_shopping_mall,FIX,You can feel young again by reviving good ol' ways of having fun at the mall:,在商场里玩乐的好方法 能让大家再次感到年轻:,重温那些逛商场的老派乐趣，你又能感觉自己年轻了：
+english_events_standard:L350,standard_cult_place,KEEP,Are you really going to join a cult?,你真的要加入邪教吗?,你真的要加入邪教吗?
+english_events_standard:L352,standard_cult_place,FIX,"I suppose they've got teambuilding, all the dead goats you could ever want, maybe fun ritual orgies...",我想他们有团队建设 所有你可能想要的死山羊 也许好玩的仪式狂欢...,我想他们有团建，有你想要多少就有多少的死山羊，说不定还有好玩的群交仪式……
+english_events_standard:L353,standard_cult_place,KEEP,"If you can ignore all the murder and brainwash practices, it honestly sounds like fun! Where do you wanna start?","如果你能忽略所有谋杀和洗脑的做法, 这听起来真有趣! 你想从哪里开始?","如果你能忽略所有谋杀和洗脑的做法, 这听起来真有趣! 你想从哪里开始?"
+english_events_standard:L358,standard_ranch,FIX,"Sunshine, open fields of rolling wheat, and pounding hooves... this truly is a horse's paradise.","阳光,开阔的田地 滚出小麦,并打出蹄子... 这真的是马的天堂",阳光、麦浪起伏的开阔田野，还有哒哒马蹄声……这真是马儿的天堂。
+english_events_standard:L360,standard_ranch,FIX,"Science has proven there are three key activities to do with horsies. Question is, which one are you doing today?","科学已经证明,有三项关键活动与Horsies有关。 问题是,你今天在做哪一个?",科学已经证明，跟马儿一起有三件重要的事可做。问题是，你今天想做哪件？
+english_events_standard:L365,standard_weird_factory,FIX,"Factories are ruled by long hours, hard physical labor, and the crushing weight of capitalism on everyone's shoulders.","工厂的统治方式是长时间的劳动,艰苦的体力劳动,以及资本主义在每个人肩上所承受的被压抑的重负.",工厂里，漫长工时、繁重体力劳动，还有资本主义压在每个人肩上的重担，统治着一切。
+english_events_standard:L367,standard_weird_factory,POLISH,It's obviously the perfect place for you to have fun and cause a little chaos!,"这显然是一个完美的地方 让你有乐趣, 并引起一点点混乱!",显然，这正是你来找乐子、制造点混乱的绝佳场所！
+english_events_standard:L368,standard_weird_factory,FIX,There are rows upon rows of conveyor belts staffed by workers assembling... something. How do you participate?,有排在一行的传送带 配备工人组装... 东西。 你怎么参与的?,一排又一排传送带旁，工人们正在组装……某种东西。你想怎么参与？
+english_events_standard:L373,standard_rave,FIX,"In the middle of the desert, ravers and party-goers have gathered to dance their cares away.","在沙漠的中间,狂走者和去聚会的人聚集在一起去跳舞,他们不再关心了.",沙漠中央，锐舞爱好者和派对客聚在一起，跳着舞把烦恼甩开。
+english_events_standard:L374,standard_rave,FIX,You're drawn to some blurry figures in the crowd... ethereal beings who look like they were made out of party.,你被人群中一些模糊的数字吸引了... 看起来像是靠派对而生的生物,人群里几个朦胧的身影吸引了你……那是些飘忽的存在，仿佛由派对本身凝聚而成。
+english_events_standard:L376,standard_rave,FIX,"As you behold them, you wonder... how should you milk the vibes of this rave?","当你看到他们时,你想知道... 你该如何挤出这场狂欢的氛围?",看着他们，你不禁想……该怎么把这场锐舞的快乐榨个够呢？
+english_events_standard:L381,standard_mirage,FIX,Whoa. What sort of place is this? Is it even real?,呜呼. 这算什么地方? 是真的吗?,哇。这是什么地方？真有这地方吗？
+english_events_standard:L383,standard_mirage,FIX,"A location this nonsensical could easily just be the product of a dehydrated, overheated brain...",这种不敏感的地方 很容易就变成一个 脱水过热的大脑的产物...,这么不合常理的地方，很可能只是脱水、过热的大脑制造的幻觉……
+english_events_standard:L384,standard_mirage,FIX,But half of the weird shit you do and see on the daily could fall into that category too. So who's to say?,"但是,一半的奇怪狗屎 你做和看到在日报上 可能也属于这个类别。 那谁说呢?",不过，你每天见到和干出的怪事，有一半也能归进这个类别。谁说得准呢？
+english_events_standard:L385,standard_mirage,POLISH,One thing's for sure: you're going to explore this strange place. Where do you go?,有一点是肯定的:你会探索这个陌生的地方. 汝往何处去.,有一点倒是肯定的：你要探索这个怪地方。去哪儿？
+english_events_standard:L390,standard_carnival,FIX,"What's more fun than a carnival? There are games, rides, people in costume, and all the junk food you could ever want!","比嘉年华更好玩的是什么? 有游戏,骑车, 穿服装的人, 和所有垃圾食品 你可能永远想要!",还有什么比嘉年华更好玩？游戏、游乐设施、穿着表演服的人，还有吃不完的垃圾食品！
+english_events_standard:L392,standard_carnival,FIX,"The first order of business is, obviously, consuming a pile of cotton candy bigger than your head.","第一个交易顺序是,显然, 消耗一堆棉花糖 比你的头大。",首先当然是吃掉一团比你脑袋还大的棉花糖。
+english_events_standard:L393,standard_carnival,FIX,"Then, while you ride the resulting sugar-rush, what do you do next?","然后,当你骑 糖刷,你接下来做什么?",然后，趁糖分让你兴奋上头，你打算再做什么？
+english_events_standard:L398,standard_dungeon,POLISH,"Normally a dungeon would be a dark, scary place for people to be locked up and punished...","通常一个地牢会是一个黑暗,可怕的地方 人们被关起来惩罚...",通常，地牢是阴暗可怕的地方，用来关人、惩罚人……
+english_events_standard:L400,standard_dungeon,POLISH,"But in the world of video game logic, everyone knows dungeons are just challenging labyrinths waiting to be explored!","但在电子游戏逻辑的世界中,大家都知道地牢只是挑战等待被探索的迷宫!",但按电子游戏的逻辑，谁都知道：地牢就是充满挑战、等着被探索的迷宫！
+english_events_standard:L401,standard_dungeon,POLISH,There are plenty of ways to plunder a dungeon. What's your preferred method?,有很多方法可以掠夺地牢。 什么是你的首选方法?,搜刮地牢的办法很多，你最喜欢哪种？
+english_events_standard:L406,standard_manor_rich,POLISH,"Wow, this is one fancy house. These people must be RICH rich.","哇,这是一所豪华的房子。 这些人一定很有钱",哇，好豪华的房子。这家人肯定是有钱人里的有钱人。
+english_events_standard:L407,standard_manor_rich,KEEP,There's a sorta unsettling vibe to this place... but that's probably just what being rich feels like!,这个地方有一种令人不安的氛围... 但也许这就是富人的感觉!,这个地方有一种令人不安的氛围... 但也许这就是富人的感觉!
+english_events_standard:L409,standard_manor_rich,FIX,And now's your chance to barge in and see what billionaire living is like for yourself! What interests you most?,现在你有机会闯进来看看 生活着的亿万富翁是怎样的! 你最感兴趣的是什么?,闯进去，亲眼看看亿万富翁怎么过日子的机会来了！你对什么最感兴趣？
+english_events_standard:L414,standard_tech_company,KEEP,"Wow, you've never seen technology this advanced before.","哇,你从未见过这么先进的技术","哇,你从未见过这么先进的技术"
+english_events_standard:L416,standard_tech_company,FIX,"Finally, you can answer questions like: what's the future of virtual reality? Is crypto really the currency of tomorrow?","最后,你可以回答诸如:虚拟现实的未来是什么? 密码真的就是明天的货币吗?",终于能找到这些问题的答案了：虚拟现实的未来是什么？加密货币真是未来的货币吗？
+english_events_standard:L417,standard_tech_company,KEEP,And what the FUCK are NFTs anyway?,他妈的NFT是什么?,他妈的NFT是什么?
+english_events_standard:L418,standard_tech_company,FIX,"There's so much to see, but only so much time. You want to check out...","有这么多的看, 但只有这么多的时间。 你想检查一下...",想看的东西很多，时间却有限。你打算看看……
+english_events_standard:L423,standard_animal_sanctuary,FIX,"Welcome to the animal sanctuary. It even has a petting zoo! There are dogs, cats, goats, bunnies, alpacas, ducklings...","欢迎来到动物保护区。 它甚至有一个宠物动物园! 有狗,猫,山羊,兔子,美洲狮,鸭子...",欢迎来到动物保护区。这里还有能摸小动物的亲近区！狗、猫、山羊、兔子、羊驼、小鸭子……
+english_events_standard:L425,standard_animal_sanctuary,KEEP,It warms your heart to see so many animals being loved and cared for.,"看到这么多的动物受到爱护和照顾,这让你的心变得温暖.","看到这么多的动物受到爱护和照顾,这让你的心变得温暖."
+english_events_standard:L426,standard_animal_sanctuary,FIX,"Surrounded by all this wholesomeness and fur, what do you want to do?","周围都是这些舒适和毛皮, 你想做什么?",被这么多温馨和毛茸茸包围着，你想做什么？
+english_events_standard:L431,standard_casino,FIX,"Flashing lights, rolling dice, people sobbing as their life's fortunes are gambled away...","闪耀的灯光,滚骰子, 人们抽泣,因为他们的生活财富 赌取了...",闪烁的灯光、滚动的骰子，还有把一辈子积蓄输光后哭哭啼啼的人们……
+english_events_standard:L433,standard_casino,KEEP,No doubt about it: you're at a casino!,"毫无疑问,你在赌场!","毫无疑问,你在赌场!"
+english_events_standard:L434,standard_casino,FIX,"Gambling is risky and reckless -- but so is going on a road trip with Polly and Scott, so whatever.",赌博是冒险的 鲁莽的 但和我们一起上路 波莉 财务报告和审定财务报表 斯科特随你怎么说,赌博危险又鲁莽——不过跟波莉、斯科特一起公路旅行也一样，管它呢。
+english_events_standard:L435,standard_casino,FIX,"The question is, now that you're here, what will you play?","问题是,既然你来了,你会弹什么?",问题是，既然来了，你想赌什么？
+english_events_standard:L440,standard_planetarium,FIX,"Ahh, stars! Monsterkind has been fascinated by them for as long as society has been alive.","啊,明星们! 只要社会还活着 怪物就迷上他们了",啊，星星！怪物文明诞生以来，就一直为它们着迷。
+english_events_standard:L442,standard_planetarium,FIX,"There's nothing like staring at the night sky and realizing that space is massive and timeless, and you're just one speck in an uncaring universe!","没有什么比盯着夜空 并意识到空间是巨大的和无时无刻的, 而你只是一个斑点 在一个无光的宇宙中!",凝望夜空，你会发现宇宙浩瀚而永恒，而自己只是这冷漠宇宙中的一粒尘埃——这种感觉，无可替代！
+english_events_standard:L443,standard_planetarium,FIX,"If that gives you ennui, don't worry: there's plenty to do at the planetarium besides contemplate your own insignificance.","如果这让你安努伊,别担心,除了考虑你自己的徽章之外,天文馆还有许多事情要做。",如果这让你感到虚无，别担心：天文馆里除了感慨自己的渺小，还有很多事可做。
+english_events_standard:L444,standard_planetarium,KEEP,"For example, you could...","比如说,你可以...","比如说,你可以..."
+english_events_standard:L449,standard_battleroyale,FIX,"Welcome to the Battle Royale, where there are only two rules: KILL OR BE KILLED.",欢迎来到皇家战役 只有两条规则: KILL或被KILLED所杀.,欢迎来到大逃杀。这里只有两条规则：杀人，或者被杀。
+english_events_standard:L451,standard_battleroyale,FIX,Stopping to visit the place where everyone's murdering each other was a sort of questionable decision on your part...,"停止访问 这个地方,每个人都 互相谋杀 是某种令人怀疑的决定 你方面...",专门停车来逛一个人人都在互相残杀的地方……你这决定有点可疑。
+english_events_standard:L452,standard_battleroyale,KEEP,"But it's too late to leave now! So, how will you survive?","但是现在走太迟了! 那么,你将如何生存?","但是现在走太迟了! 那么,你将如何生存?"
+english_events_standard:L457,standard_city_90s,FIX,"This is a city ravaged by heists, villains, government corruption, and tough guys doing ANYTHING to rescue their daughters.","这是一个城市被抢劫,恶棍,政府腐败所破坏, 和硬汉做任何事情来拯救他们的女儿。",劫案、恶棍、腐败政府，还有不惜一切拯救女儿的硬汉，正在蹂躏这座城市。
+english_events_standard:L459,standard_city_90s,FIX,"A city like this needs a hero. Someone brave, bold, and badass, preferably with a gun and some washboard abs.",这样的城市需要英雄 勇敢、大胆和坏蛋的人 最好有枪和一些洗板腹肌,这样的城市需要英雄：勇敢、大胆、够狠，最好再配一把枪和一身搓衣板腹肌。
+english_events_standard:L460,standard_city_90s,FIX,"You're definitely not the hero that this city needs OR deserves, but you're here now, so fuck it!","你绝对不是这个城市需要的英雄 但你现在在这里,所以他妈的它!",你绝对不是这座城市需要或应得的英雄。但来都来了，管它呢！
+english_events_standard:L461,standard_city_90s,KEEP,What do you want to do in this 90s-style action-fest?,你想在这90年代的动作盛会里做什么?,你想在这90年代的动作盛会里做什么?
+english_events_standard:L466,standard_prison,KEEP,You're faced with a very strange prison.,你面临一个非常奇怪的监狱。,你面临一个非常奇怪的监狱。
+english_events_standard:L467,standard_prison,POLISH,I have no clue why you'd want to break INTO a prison as a fun road trip activity...,我不知道为什么你会想闯进监狱 作为好玩的出行活动...,我真不懂，你为什么把闯进监狱当成好玩的旅行活动……
+english_events_standard:L469,standard_prison,FIX,But it's safe to say that this place isn't your typical penitentiary. Maybe the morbid curiosity is getting to you?,但可以说这里不是你的典型监狱 或许你对病态好奇心很强?,不过，这肯定不是一般的监狱。也许是你那病态的好奇心又发作了？
+english_events_standard:L470,standard_prison,KEEP,"In any case, what are you hoping to find inside this prison?","无论如何,你想在这个监狱里找到什么?","无论如何,你想在这个监狱里找到什么?"
+english_events_standard:L475,standard_border,FIX,"Whoa, you had no idea there was another country out here in the middle of the desert.","哇,你不知道 这里有另一个国家 在沙漠的中部。",哇，你完全没想到，沙漠中间居然还有另一个国家。
+english_events_standard:L476,standard_border,KEEP,"Of course, geography was never your strong suit. Or maybe this civilization is new?","当然,地理从来不是你的强项。 或者这个文明是新的?","当然,地理从来不是你的强项。 或者这个文明是新的?"
+english_events_standard:L478,standard_border,FIX,"Whatever the case, you're hella curious to check out this place. What do you do when you cross the border?","不管发生什么,你都很好奇地检查这个地方。 出出界时作么生.",不管怎样，你对这地方好奇得要命。越过边境后，你打算做什么？
+english_events_standard:L483,standard_village_secluded,FIX,"This entire city is protected by a giant, impenetrable wall. Strange!","这整座城市被一堵巨大的,坚不可摧的墙所保护. 奇怪! 简直是太奇怪了!",整座城都被一堵巨大的、无法穿透的高墙保护着。真奇怪！
+english_events_standard:L485,standard_village_secluded,FIX,The guards at the gate seem just as surprised to see you as you are to see them.,门上的守卫看到你和你看到的一样惊讶,门口的守卫看见你们，似乎跟你们看见他们一样吃惊。
+english_events_standard:L486,standard_village_secluded,FIX,"""We've never had visitors before!"" they say. ""How did you escape the jaws of the ravenous Giants?""","""我们从来没有访客!"" 他们说。 ""你怎么逃出贪婪的巨人的下巴?""",“我们从来没来过客人！”他们说，“你们是怎么逃出饥饿巨人的血盆大口的？”
+english_events_standard:L487,standard_village_secluded,FIX,You don't really know what they are talking about. You get the impression these villagers don't get out much.,你根本不知道他们在说什么 你得到的印象是这些村民 很少出来。,你完全不知道他们在说什么。看起来，这里的村民不怎么出门。
+english_events_standard:L488,standard_village_secluded,POLISH,Some further investigation of this place is warranted. What do you want to check out?,有必要对这个地方进行进一步调查。 你想检查什么?,得再调查调查这地方。你想去哪儿看看？
+english_events_standard:L493,standard_manor_gothic,FIX,You're driving along when the road is flooded by a sudden thunderstorm. You have no choice but to pull over and look for shelter.,"当道路被突然雷暴所淹没时,你正在开车。 你别无他择,只好靠边停车找藏身之所.",开着开着，突如其来的雷暴淹了路。你们只好靠边停车，寻找避雨的地方。
+english_events_standard:L495,standard_manor_gothic,REVIEW,"But... in the velvet darkness of the blackest night, burning bright, there's a guiding star, no matter what or who you are...","不过... 在最黑的夜晚的天鹅绒黑暗中,燃烧出明亮的光芒,有一颗指向星,无论你是什么人或是谁......",不过……最漆黑的夜里，天鹅绒般的黑暗中，仍有一颗明亮的引路星，不论你是谁、是什么……
+english_events_standard:L496,standard_manor_gothic,KEEP,You know how the lyrics go.,你知道歌词怎么唱的,你知道歌词怎么唱的
+english_events_standard:L497,standard_manor_gothic,POLISH,"With wet newspapers over your heads, you arrive at an ominous gothic manor, knock on the door, and are invited in. Once inside, where do you go?","有湿报纸在你的头上, 你来到一个不祥的哥特式庄园, 敲门,并被邀请进来。 进去后,你去哪儿?",你们顶着湿报纸，来到一座阴森的哥特式庄园，敲了敲门，被请进屋。进去后，去哪儿？
+english_events_standard:L502,standard_circus,FIX,"You, Polly, and Scott grab some popcorn and head to your seats to watch the circus. On your way there, the ringleader runs up to you!","你,你是谁? 波莉,以及 斯科特 去拿些爆米花 回到座位上看马戏团 在你的路上, 头领跑到你了!",你、波莉和斯科特拿着爆米花，准备入座看马戏。半路上，马戏团长突然跑过来！
+english_events_standard:L503,standard_circus,FIX,"""Hey,"" he whispers, ""I suddenly lost some of my performers to a soup-related accident, and I desperately need an act to cover them.""","""嘿"",他低语道:""我突然把一些表演者丢在了一场与汤有关的事故上,我迫切需要一个表演来掩护他们"".",“嘿，”他低声说，“我刚有几个演员出了点跟汤有关的意外，现在急缺节目顶上。”
+english_events_standard:L504,standard_circus,FIX,"""Then I thought to myself, 'If I randomly checked with the audience, I may bump into actual trained performers willing to join us!'""","""然后,我对自己想,""如果我随机地与观众检查,我可能会遇到真正训练有素的表演者愿意加入我们!""",“我就想，随便问问观众，说不定能碰到受过训练、愿意加入我们的演员呢！”
+english_events_standard:L506,standard_circus,POLISH,"The rationale of this man is quite questionable; but you were born to embrace nonsense, so you tell him you are circus performers.","这个男人的理由很可疑,但是你天生就喜欢胡说八道, 所以你告诉他你是马戏团的表演者。",这人的逻辑实在可疑。不过你天生就爱胡闹，于是告诉他：你们就是马戏演员。
+english_events_standard:L507,standard_circus,FIX,"""Fantastic! What sort of act can you do?""","""赞! 什么样的行为,你能做什么?""",“太棒了！你们会表演什么？”
+english_events_standard:L512,standard_car_dealership,FIX,"You're lured to the dealership, mesmerized by the inflatable air dancers and bombastic signs full of exclamation points, such as ""BUY TODAY!!!!!""","你被诱骗到经销商,被充气的空中舞者所迷惑并被弹出充满了感叹点的标志,例如""BUY TODAY!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!。",充气跳舞人偶，还有“今天就买!!!!!”这种堆满感叹号的夸张招牌，把你迷得晕头转向，勾进了汽车销售店。
+english_events_standard:L513,standard_car_dealership,FIX,You don't even know why you're here. You don't need a new car... but such is the power of eye-catching marketing.,"你甚至不知道你为什么在这里。 你不需要一辆新车... 但是,这就是 捕眼营销的力量。",你甚至不知道自己来干吗。又不需要新车……可这就是吸睛营销的威力。
+english_events_standard:L515,standard_car_dealership,FIX,"Eh, since you're here, you could go and do your usual weird shenanigans... why not?","嗯,既然你在这里, 你可以去 做你常见的怪异的外行... 为什么不呢?",嗐，既然来了，照常搞点怪事也行……有什么不可以？
+english_events_standard:L516,standard_car_dealership,FIX,"So, what's it gonna be, %CURRENTPLAYERNAME%?","那么,它会是什么,%CURRENTPLAYERNAME%?",那么，%CURRENTPLAYERNAME%，你打算干什么？
+english_events_standard:L521,standard_caves,FIX,"What could be inside this dank, dark cave?",这个黑暗的洞穴里有什么?,这个潮湿阴暗的洞穴里，会有什么呢？
+english_events_standard:L523,standard_caves,FIX,Gold and jewels? An abandoned mineshaft? Dinosaur bones? An ancient civilization that's yet to be uncovered?,黄金和珠宝? 废弃的矿山? 恐龙骨? 古代文明尚未被揭穿?,金银珠宝？废弃矿井？恐龙骨头？尚未被发现的古代文明？
+english_events_standard:L524,standard_caves,FIX,"I mean, all those things are hella unlikely. It's almost definitely just a bunch of bats and rocks in there.","我的意思是,所有这些事情 地狱不可能。 它几乎肯定只是 一堆蝙蝠和岩石在那里。",我是说，这些可能性都小得要命。里面十有八九只有一堆蝙蝠和石头。
+english_events_standard:L525,standard_caves,POLISH,But you won't know that for sure until you explore the cave! What are you going to do here?,但你在探索洞穴之前是不会肯定的! 你在这里做什么?,不过，不进去探索一下，谁知道呢！你打算在这里做什么？
+english_events_standard:L530,standard_pet_contest,FIX,"You're surrounded by pets of the highest pedigree, here to prove that they're the best of the domesticated animal kingdom.",你们周围是高年级的宠物 来证明他们是最好的驯化动物王国,四周都是血统纯正的名贵宠物，准备证明自己才是家养动物界最优秀的那个。
+english_events_standard:L532,standard_pet_contest,FIX,But you've got a pretty impressive good boi of your own who's ready to compete!,但你有一个相当令人印象深刻的好家伙 你自己的谁准备竞争!,不过，你也带了一位相当厉害的乖狗狗，已经准备好参赛了！
+english_events_standard:L533,standard_pet_contest,FIX,"Scott could win this thing, easy-peasy. It might be his first and only chance to actually outsmart his competition!","斯科特 可以赢得这个东西, 容易的豆腐。 这也许是他第一次 也是唯一一次 超越他竞争对手的机会",斯科特赢这个，轻轻松松。这也许是他第一次——也是唯一一次——有机会在智力上碾压对手！
+english_events_standard:L534,standard_pet_contest,POLISH,The only question that remains is what category you want to enter him in...,唯一剩下的问题是你想让他进入什么类别...,现在，就剩一个问题：给他报哪个项目……
+english_events_standard:L539,standard_simon_soups,FIX,This run-down soup restaurant seems to be years past its prime...,这家破烂的汤餐厅 似乎已经过了几年了...,这家破败的汤馆，似乎早就过了风光的时候……
+english_events_standard:L540,standard_simon_soups,FIX,"Still, you're hungry, and a bowl of soup would really hit the spot right now.","不过,你饿了,一碗汤会真的 击中现在的位置。",可你肚子饿了，现在来碗汤肯定特别舒服。
+english_events_standard:L541,standard_simon_soups,KEEP,What's the worst that could happen? Some kind of murderous robot pops out of the shadows to kill you?,可能发生的最糟糕的事情是什么? 某种凶残的机器人从阴影中冒出来杀你?,可能发生的最糟糕的事情是什么? 某种凶残的机器人从阴影中冒出来杀你?
+english_events_standard:L543,standard_simon_soups,FIX,"Nah, that's WAY too unlikely and weirdly specific to happen.","不,这是太 不太可能和怪异的具体发生。",不会啦，这种事太离谱，还具体得莫名其妙，怎么可能发生。
+english_events_standard:L544,standard_simon_soups,FIX,"So, what do you want to do at Simon Soups?","那么,你想在西蒙·苏普斯做什么?",那么，你想在 Simon Soups 做什么？
+english_events_standard:L549,standard_villain_summit,FIX,"Wow, the evil energy here is PALPABLE. Every villain who's any villain must be here.","哇,这里的邪恶能量是活泼的。 每一个坏人,谁都是坏人,一定在这里。",哇，这里的邪恶气息浓得都能摸着了。凡是叫得上号的反派，肯定都来了。
+english_events_standard:L551,standard_villain_summit,FIX,"You don't know if you consider yourself to be truly villainous... but then again, your life's philosophy IS ""be your worst self.""","你不知道你是否认为自己是真正的恶棍... 再说一遍,你人生的哲学是""做你最糟糕的自己"".",你不确定自己算不算真正的反派……不过，你的人生信条确实是“坏到极致”。
+english_events_standard:L552,standard_villain_summit,FIX,"Which is close enough, apparently, because they give you an entry pass at the door. Sweet!","这已经够近了,很明显, 因为他们给了你一个入口门口的通行证。 可爱!",看来这也够格了，因为门口直接给了你通行证。爽！
+english_events_standard:L553,standard_villain_summit,KEEP,There are plenty of events being hosted. Which one interests you most?,主办的活动很多。 哪个你最感兴趣?,主办的活动很多。 哪个你最感兴趣?
+english_events_standard:L558,standard_kite_tournament,FIX,This tournament is SERIOUS BUSINESS. Competitors from all walks of life have trained hard for this.,这场比赛是严肃的生意 各行各业的竞争者为此进行了艰苦的训练.,这场比赛可不是闹着玩的。各路选手都为此苦练过。
+english_events_standard:L560,standard_kite_tournament,FIX,"You've got prodigies from kite-flying clans, kite-flying gurus, athletes of ancient kite-flying techniques...",你们有风筝飞族的花花公子 风筝飞出古老的风筝飞出技巧的运动员...,风筝世家的天才、放风筝大师、练习古老放风筝技法的运动员……全都来了。
+english_events_standard:L561,standard_kite_tournament,FIX,"And then there's you, who's pretty much just here for the drama. What do you do?","还有你,他就是来演戏的 你们是做什么的?",还有你，基本就是来看热闹的。你打算做什么？
+english_events_standard:L566,standard_village_animals,KEEP,"Wow, what a cute little village! All the inhabitants are adorable animals!","哇,多么可爱的小村庄! 所有居民都是可爱的动物!","哇,多么可爱的小村庄! 所有居民都是可爱的动物!"
+english_events_standard:L568,standard_village_animals,FIX,"There's Bartholomew the classy giraffe, Boston the buff bluebird, Bernard the shy capybara, and... the other one.","有巴塞洛缪 优等长颈鹿,波士顿 泡泡蓝鸟,伯纳德 害羞的卡比巴拉,和... 另一个。",有优雅的长颈鹿巴塞洛缪、肌肉发达的蓝知更鸟波士顿、害羞的水豚伯纳德，还有……另一个。
+english_events_standard:L569,standard_village_animals,KEEP,You can't wait to meet them all! What will you do?,你迫不及待想见他们所有人! 你会怎么做?,你迫不及待想见他们所有人! 你会怎么做?
+english_events_standard:L574,standard_metacabin,FIX,"You know, of all the weird, wacky, wonderful places you could've stopped at on the road...","你知道,在所有奇怪, 怪异, 美妙的地方 你本可以停下来 在路上...",要知道，路上有那么多古怪、离谱又奇妙的地方可以停……
+english_events_standard:L576,standard_metacabin,FIX,...I never expected you to pull up to MY cabin.,我从没想过你会到我的船舱去,……我唯独没想到，你会停在我的小木屋前。
+english_events_standard:L577,standard_metacabin,KEEP,Sorry for the mess. I've been renovating. I'm still in the process of removing that fourth wall...,抱歉弄得一团糟 我一直在翻新。 我还在拆除第四道墙...,抱歉弄得一团糟 我一直在翻新。 我还在拆除第四道墙...
+english_events_standard:L578,standard_metacabin,POLISH,"Well, as long as you're here, what do you want to do?","好吧,只要你在这里, 你想做什么?",不过，既然来了，你想做什么？
+english_events_standard:L583,standard_motel_regular_eotr,KEEP,This road trip has gotten really exhausting... maybe it's time to turn in for the night.,这趟出行真是累死了... 也许是时候睡觉了,这趟出行真是累死了... 也许是时候睡觉了
+english_events_standard:L584,standard_motel_regular_eotr,FIX,"Still, you suppose you have to do SOMETHING before you go to sleep. It's almost like you don't have any choice...","不过,你认为你必须做一些事情 在你睡觉之前。 这几乎就像你没有任何选择...",不过，你觉得睡前总得做点什么。就好像……根本没得选。
+english_events_standard:L589,standard_diner_dinest_eotr,FIX,The Dinest is as classy and packed as you expected it to be.,迪内斯特号和你预期的一样优雅 收拾好东西,The Dinest 果然还是那么有格调，也还是那么挤。
+english_events_standard:L590,standard_diner_dinest_eotr,POLISH,It's gonna be impossible for you all to find a place to sit by yourselves...,你们都不可能自己找个地方坐...,你们想找一张单独的桌子，根本不可能……
+english_events_standard:L591,standard_diner_dinest_eotr,KEEP,"...but for some reason, you feel like you already knew that would happen.","...但出于某种原因,你觉得自己已经知道会发生这种事","...但出于某种原因,你觉得自己已经知道会发生这种事"
+english_events_standard:L592,standard_diner_dinest_eotr,POLISH,You suppose this is the part where you choose someone to sit with...,你猜这是你选人陪坐的地方...,看来，接下来该选个人拼桌了……
+english_events_standard:L597,standard_caves_eotr,FIX,"What could be inside this dank, dark cave?",这个黑暗的洞穴里有什么?,这个潮湿阴暗的洞穴里，会有什么呢？
+english_events_standard:L598,standard_caves_eotr,FIX,"As you approach the entrance, you've got a feeling that something is wrong with this place... maybe you should turn back?","当你接近入口时,你有一种感觉 这个地方有问题... 或许你应该回过头去?",接近洞口时，你觉得这里有点不对劲……要不回去？
+english_events_standard:L599,standard_caves_eotr,FIX,"Nah, you don't want to... it's almost like... you can't...","不,你不会想... 这几乎就像... 你别...",不，你不想……就好像……你不能……
+english_events_standard:L600,standard_caves_eotr,KEEP,"Whether you like it or not, your only choice is to...",不管你喜不喜欢 你唯一的选择就是...,不管你喜不喜欢 你唯一的选择就是...
+english_events_standard:L605,standard_graveyard_eotr,FIX,"You've stopped at a LOT of graveyards on this trip. Is this, like, your thing now?",你在这趟旅行中停了好多墓地 这是你的事吗?,这趟旅行你已经逛过好多墓地了。你现在就好这口了吗？
+english_events_standard:L606,standard_graveyard_eotr,FIX,"Now that you think about it, this graveyard seems familiar... you sorta remember reading some of these gravestones before...","现在想想这个,这个墓地似乎很熟悉... 你还记得以前读过这些墓碑吗?",仔细想想，这墓地似乎很眼熟……有些墓碑，你好像以前就读过……
+english_events_standard:L607,standard_graveyard_eotr,FIX,"Actually, no, don't think about that. It's road trip time! It's PRANKIN' time!","其实,不,不要考虑。 路程时间到了! 普兰金时间到了!",不，算了，别想那些。现在是公路旅行时间！是恶作剧时间！
+english_events_standard:L608,standard_graveyard_eotr,FIX,Ignore that gut feeling that something is deeply wrong and pull a prank already!,"忘了你的直觉吧,有些事情很不对劲, 开始恶作剧吧!",别管那股“一切都不对劲”的直觉了，快去搞恶作剧！
+english_events_standard:L613,standard_motel_regular_eotr2,FIX,"It's a motel. It looks familiar. But everything has lately, hasn't it?","这是一个汽车旅馆。 看起来很眼熟 但最近一切都有,不是吗?",一间汽车旅馆。看着很眼熟。不过，最近什么都很眼熟，不是吗？
+english_events_standard:L614,standard_motel_regular_eotr2,KEEP,"TV or pizza, pizza or TV... When does it end?","电视或者比萨,比萨或者电视... 什么时候结束?","电视或者比萨,比萨或者电视... 什么时候结束?"
+english_events_standard:L619,standard_motel_regular_eotr3,POLISH,You are at the motel. You have always been at the motel.,你在汽车旅馆。 你总是在汽车旅馆。,你在汽车旅馆里。你一直都在汽车旅馆里。
+english_events_standard:L620,standard_motel_regular_eotr3,POLISH,The time for choices is over.,选择的时间结束了。,做选择的时间已经结束了。
+english_events_standard:L625,standard_spooky_academy,KEEP,"Ah, Spooky Academy... the place where it all began.","啊,幽灵学院... 这一切开始的地方。","啊,幽灵学院... 这一切开始的地方。"
+english_events_standard:L626,standard_spooky_academy,FIX,Do you ever miss it? The chaos? The laughter? Being young and unafraid?,你错过过吗? 混乱? 笑声? 年轻又不害怕?,你会怀念吗？那些混乱、那些笑声，还有年轻而无所畏惧的自己？
+english_events_standard:L627,standard_spooky_academy,FIX,"But the most important question is: what is the school doing here, in the middle of nowhere?","但最重要的问题是:学校在这里做什么,在荒郊野外?",可最重要的问题是：学校怎么会出现在这片荒郊野外？
+english_events_standard:L628,standard_spooky_academy,KEEP,Something's off...,有点不对劲...,有点不对劲...
+english_events_standard:L633,standard_sanctuary,KEEP,You should never have come here.,你不应该来这里的,你不应该来这里的
+english_events_standard:L634,standard_sanctuary,POLISH,This place is not for you. It's for her.,这地方不适合你 这是给她的。,这里不属于你，而是属于她。
+english_events_standard:L635,standard_sanctuary,FIX,"And if it's answers she seeks... well, I hope she can handle them.","如果这是她想要的答案... 好吧,我希望她能处理他们。",如果她来这里是为了寻找答案……好吧，希望她承受得住。

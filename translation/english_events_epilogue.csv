@@ -1,9 +1,9 @@
 ﻿row_id,source_file,source_line,event_id,speaker_or_key,mood,source,target,status,notes
-english_events_epilogue:L6,english_events_epilogue.txt,6,epilogue,narrator,,"And just like that, the road trip came to an end.","就这样, 公路旅行结束了。",machine,Argos en_zh 1.9; requires review
-english_events_epilogue:L7,english_events_epilogue.txt,7,epilogue,narrator,,"It was full to the brim with danger, fun, and utter nonsense.",充满了危险、乐趣和胡言乱语,machine,Argos en_zh 1.9; requires review
-english_events_epilogue:L8,english_events_epilogue.txt,8,epilogue,narrator,,It was everything we could have expected from a trip with Polly and Scott... and then some.,我们从旅行中可以预料到的一切 波莉 财务报告和审定财务报表 斯科特... 接着是一些。,machine,Argos en_zh 1.9; requires review
-english_events_epilogue:L9,english_events_epilogue.txt,9,epilogue,narrator,,"We not only survived the whole thing, but we conquered it and came out different people.","我们不仅幸存下来,而且征服了它,并出现了不同的人。",machine,Argos en_zh 1.9; requires review
-english_events_epilogue:L10,english_events_epilogue.txt,10,epilogue,narrator,,It all turned out to be a pilgrimage into self-discovery; a rite of passage; a quest for growth...,"这一切都变成了朝圣,变成自我发现;通过仪式;追求增长......",machine,Argos en_zh 1.9; requires review
-english_events_epilogue:L11,english_events_epilogue.txt,11,epilogue,narrator,,"...that is to say, a fuckin' good road trip.",也就是说 一路顺风,machine,Argos en_zh 1.9; requires review
-english_events_epilogue:L12,english_events_epilogue.txt,12,epilogue,narrator,,"As we were heading back home, I thought about how all of this was just one of the first stops...","当我们正要回家时,我想到 这一切是如何只是第一站之一...",machine,Argos en_zh 1.9; requires review
-english_events_epilogue:L13,english_events_epilogue.txt,13,epilogue,narrator,,...in a much bigger journey that was only just beginning.,...在更广阔的旅程中... ...那只是刚刚开始,machine,Argos en_zh 1.9; requires review
+english_events_epilogue:L6,english_events_epilogue.txt,6,epilogue,narrator,,"And just like that, the road trip came to an end.","就这样, 公路旅行结束了。",reviewed,polish pass 001: KEEP
+english_events_epilogue:L7,english_events_epilogue.txt,7,epilogue,narrator,,"It was full to the brim with danger, fun, and utter nonsense.",一路上，危险、乐趣和莫名其妙的破事塞得满满当当。,reviewed,polish pass 001: FIX
+english_events_epilogue:L8,english_events_epilogue.txt,8,epilogue,narrator,,It was everything we could have expected from a trip with Polly and Scott... and then some.,和波莉、斯科特一起出门，能想到的事全发生了……想不到的也没少发生。,reviewed,polish pass 001: FIX
+english_events_epilogue:L9,english_events_epilogue.txt,9,epilogue,narrator,,"We not only survived the whole thing, but we conquered it and came out different people.",我们不光活了下来，还征服了这趟旅程，变成了不一样的人。,reviewed,polish pass 001: FIX
+english_events_epilogue:L10,english_events_epilogue.txt,10,epilogue,narrator,,It all turned out to be a pilgrimage into self-discovery; a rite of passage; a quest for growth...,原来，这是一场寻找自我的朝圣，一次成长的洗礼，一段追求蜕变的冒险……,reviewed,polish pass 001: FIX
+english_events_epilogue:L11,english_events_epilogue.txt,11,epilogue,narrator,,"...that is to say, a fuckin' good road trip.",……也就是说，一趟他妈的超棒的公路旅行。,reviewed,polish pass 001: FIX
+english_events_epilogue:L12,english_events_epilogue.txt,12,epilogue,narrator,,"As we were heading back home, I thought about how all of this was just one of the first stops...",返程时，我想，这一切不过是最初的几站……,reviewed,polish pass 001: POLISH
+english_events_epilogue:L13,english_events_epilogue.txt,13,epilogue,narrator,,...in a much bigger journey that was only just beginning.,……更漫长的旅程，才刚刚开始。,reviewed,polish pass 001: POLISH

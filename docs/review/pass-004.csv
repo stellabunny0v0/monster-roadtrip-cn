@@ -1,0 +1,187 @@
+﻿row_id,event_id,decision,source,before,after
+english_metatexts:TIT_BTN_PLY,metatext,KEEP,Play,开始游戏,开始游戏
+english_metatexts:TIT_BTN_PLY_LOC,metatext,KEEP,Local,本地游戏,本地游戏
+english_metatexts:TIT_BTN_PLY_ONL,metatext,KEEP,Online,在线游戏,在线游戏
+english_metatexts:TIT_BTN_SET,metatext,KEEP,Settings,设置,设置
+english_metatexts:TIT_BTN_SET_SYS,metatext,KEEP,System,系统,系统
+english_metatexts:TIT_BTN_SET_CUS,metatext,KEEP,Customize,自定义,自定义
+english_metatexts:TIT_BTN_GAL,metatext,KEEP,Gallery,画廊,画廊
+english_metatexts:TIT_BTN_GAL_ART,metatext,KEEP,Art Gallery,艺术画廊,艺术画廊
+english_metatexts:TIT_BTN_GAL_ACH,metatext,KEEP,Achievements,成就,成就
+english_metatexts:TIT_BTN_GAL_ACH_PLAYSTATION,metatext,FIX,Trophies,特罗菲斯,奖杯
+english_metatexts:TIT_BTN_MET,metatext,KEEP,Meta-Shop,元商店,元商店
+english_metatexts:TIT_BTN_STI,metatext,KEEP,Sticker Studio,贴纸工坊,贴纸工坊
+english_metatexts:TIT_BTN_MOD,metatext,FIX,Fan Translation Modtool,Fan 翻译工具,玩家汉化工具
+english_metatexts:TIT_BTN_QUT,metatext,KEEP,Quit,退出游戏,退出游戏
+english_metatexts:STT_VCE_CNF,metatext,FIX,Do you want to hear awesome voice effects or would you rather make them up as you go?,你想听美妙的声音效果 还是你宁愿去补补?,想听听精彩的角色语音，还是边玩边自己配音？
+english_metatexts:STT_VCE_CNF_YES,metatext,FIX,"VOICES, YAAAY!","声音,耶!",要语音，好耶！
+english_metatexts:STT_VCE_CNF_NOO,metatext,FIX,Make your own voices,发出自己的声音,自己配音
+english_metatexts:LOA_CHK_MSG,metatext,KEEP,This game saves checkpoints automatically!,这个游戏会自动保存检查点!,这个游戏会自动保存检查点!
+english_metatexts:STT_EOTR_CNF,metatext,FIX,WARNING: You've reached the end of the End of the Road. Would you like to deactivate this destination for your next road trip?,警告:你们已经到达了道路尽头。 你想在下次出行时 关闭这个目的地吗?,提醒：你已完成“道路尽头”的最终内容。下次公路旅行，要关闭这个目的地吗？
+english_metatexts:STT_EOTR_STREAMERS_POPUP,metatext,FIX,"You are about to play the Streamer version of Monster Roadtrip with End of the Road enabled. Your run will start on Week 8, and Game Over will be disabled.","您即将播放 Streamer 版本 怪物公路旅行 并启用了 "" 路尾 "" 。 你的跑步会从第8周开始 游戏结束会被禁用",你即将游玩启用了“道路尽头”的《怪物公路旅行》主播版本。本局会从第 8 周开始，并禁用失败结局。
+english_metatexts:RSM_BTN_ASK_RSM,metatext,POLISH,You have an ongoing game. Do you want to continue where you left off or start a new game?[n][n](Starting a new game will delete your current checkpoint.),你的游戏还在进行中 您要继续你离开的地方还是开始新的游戏 ?[n][n](开始新游戏会删除您的当前检查点 。),你有一局尚未结束的游戏。要继续上次的进度，还是开始新游戏？[n][n]（开始新游戏会删除当前的阶段存档。）
+english_metatexts:RSM_BTN_CON,metatext,KEEP,Continue,继续,继续
+english_metatexts:RSM_BTN_DEL,metatext,KEEP,New game,新游戏,新游戏
+english_metatexts:RSM_BTN_BCK,metatext,FIX,Cancel,取消( E),取消
+english_metatexts:RSM_BTN_ASK_DLT,metatext,POLISH,You have an ongoing game. In order to join another match you will have to discard it.[n][n]Proceed and delete your current checkpoint?,"你的游戏还在进行中 为了加入另一个比赛,你必须放弃它。[n][n]继续删除您的当前检查站吗 ?",你有一局尚未结束的游戏。加入其他对局前，必须放弃当前进度。[n][n]是否继续并删除当前的阶段存档？
+english_metatexts:RSM_BTN_DLT_YES,metatext,FIX,"Yes, delete","是,删除",是，删除
+english_metatexts:RSM_BTN_DLT_NOO,metatext,FIX,No,没有,否
+english_metatexts:RSM_BTN_ASK_DLT2,metatext,POLISH,You have an ongoing single player game. In order to create another match you will have to discard it.[n][n]Proceed and delete your current checkpoint?,"你有一个持续的单玩家游戏。 为了创造出另一个匹配, 您必须放弃它 。[n][n]继续删除您的当前检查站吗 ?",你有一局尚未结束的单人游戏。创建新对局前，必须放弃当前进度。[n][n]是否继续并删除当前的阶段存档？
+english_metatexts:RSM_BTN_DLT2_YES,metatext,FIX,"Yes, delete","是,删除",是，删除
+english_metatexts:RSM_BTN_DLT2_NOO,metatext,FIX,No,没有,否
+english_metatexts:RSM_BTN_EOR_WRN_ENA,metatext,FIX,[n][n][n]The match you are about to resume has[n]  [c][FF2310]End of the Road[-][/c] enabled.,[n][n][n]你将要恢复的比赛有[n]    [c][FF2310]道路尽头[-][/c] 已启用 。,[n][n][n]即将继续的对局[n]已启用 [c][FF2310]道路尽头[-][/c]。
+english_metatexts:RSM_BTN_EOR_WRN_DIS,metatext,FIX,[n][n][n]The match you are about to resume has[n] [c][FF2310]End of the Road[-][/c] disabled.,[n][n][n]你将要恢复的比赛有[n]  [c][FF2310]道路尽头[-][/c] 已禁用。,[n][n][n]即将继续的对局[n]已禁用 [c][FF2310]道路尽头[-][/c]。
+english_metatexts:STT_MSC,metatext,KEEP,Music,音乐,音乐
+english_metatexts:STT_SFX,metatext,KEEP,Sound effects,音效,音效
+english_metatexts:STT_VCE,metatext,KEEP,Voice,语音,语音
+english_metatexts:STT_WND,metatext,KEEP,Window mode,窗口模式,窗口模式
+english_metatexts:STT_DSP,metatext,KEEP,Display,显示器,显示器
+english_metatexts:STT_LNG,metatext,KEEP,Language,语言,语言
+english_metatexts:STT_STR,metatext,FIX,Streamer mode,流线模式,主播模式
+english_metatexts:STT_ACC,metatext,FIX,Use accessible font,使用可访问字体,使用易读字体
+english_metatexts:STT_DYS,metatext,FIX,Use dyslexia friendly font,使用 dyslexia 友好字体,使用阅读障碍友好字体
+english_metatexts:STT_INF,metatext,FIX,Check info manual,检查信息手册,查看说明手册
+english_metatexts:STT_PRG,metatext,KEEP,Delete progress,删除进度,删除进度
+english_metatexts:STT_CRE,metatext,FIX,View full credits,查看全部贷方,查看完整制作人员名单
+english_metatexts:STT_BCK,metatext,KEEP,Back,返回,返回
+english_metatexts:STT_ONN,metatext,KEEP,On,开启,开启
+english_metatexts:STT_OFF,metatext,KEEP,Off,关闭,关闭
+english_metatexts:STT_WND_FLL,metatext,KEEP,Fullscreen,全屏,全屏
+english_metatexts:STT_WND_WND,metatext,KEEP,Windowed,窗口化,窗口化
+english_metatexts:STT_LNG_ENG,metatext,KEEP,English,英语,英语
+english_metatexts:STT_LNG_CHN,metatext,KEEP,Chinese,简体中文,简体中文
+english_metatexts:STT_LNG_SPA,metatext,KEEP,Spanish,西班牙语,西班牙语
+english_metatexts:STT_LNG_ENGLISH,metatext,KEEP,English,英语,英语
+english_metatexts:STT_LNG_SCHINESE,metatext,KEEP,Chinese,简体中文,简体中文
+english_metatexts:STT_LNG_SPANISH,metatext,KEEP,Spanish,西班牙语,西班牙语
+english_metatexts:STT_PGR_CNF,metatext,FIX,ARE YOU SURE YOU WANT TO FLUSH EVERYTHING DOWN THE TOILET?,你确定你想 FLUSH 所有的东西在地上?,确定要把所有进度都冲进马桶吗？
+english_metatexts:STT_PGR_CNF_YES,metatext,FIX,FUCK YEAH,他妈的是的,他妈的，当然！
+english_metatexts:STT_PGR_CNF_NOO,metatext,FIX,"WAIT, NO!","等待,没有!",等等，不要！
+english_metatexts:STT_PGR_CNF_CNF,metatext,POLISH,"BUT LIKE, REALLY FUCKIN' SURE? I MEAN... REALLY?!","但是,像,真的他妈的确定吗? 我是说... 真的吗?",可你真的、他妈的确定吗？我是说……真的？！
+english_metatexts:STT_PGR_CNF_CNF_YES,metatext,KEEP,YEAH!,对!,对!
+english_metatexts:STT_PGR_CNF_CNF_NOO,metatext,FIX,NO!!!,不对!,不要！！！
+english_metatexts:STT_RST,metatext,KEEP,Restart the game to apply changes!,重新启动游戏以应用更改 !,重新启动游戏以应用更改 !
+english_metatexts:STT_STR_NOTE,metatext,FIX,Streamer mode will replace the credits song with a safe-to-stream song,Streamer 模式将用一首从安全到流的歌曲来取代积分歌曲,主播模式会把片尾曲换成适合直播播放的歌曲。
+english_metatexts:STT_ACC_NOTE,metatext,POLISH,"Accessible fonts are only available for Latin alphabetic languages. If you're using a Fan Translation Mod, it's possible the default font will be used.","无障碍字体仅供拉丁字母语言使用. 如果使用Fan翻译 Mod,则有可能使用默认字体.",易读字体仅适用于使用拉丁字母的语言。如果使用玩家汉化 Mod，游戏可能仍采用默认字体。
+english_metatexts:STT_TWN_TTL,metatext,FIX,Trigger warnings,触发警告,内容预警
+english_metatexts:STT_TWS_BLK,metatext,FIX,Warning,3⁄4 ̄ ̧漯B,显示预警
+english_metatexts:STT_TWS_ALW,metatext,FIX,No Warning,无警告,不显示预警
+english_metatexts:STT_TWN_DRU,metatext,FIX,Drugs,药物,毒品
+english_metatexts:STT_TWD_DRU,metatext,FIX,Flags content including the use of drugs.,包括吸毒在内的旗帜内容。,对包含吸毒情节的内容显示预警。
+english_metatexts:STT_TWN_SCA,metatext,KEEP,Toilet humor,厕所幽默,厕所幽默
+english_metatexts:STT_TWD_SCA,metatext,FIX,Flags content that use scatological humor that some may find too explicit.,"旗子的内容,使用有的会发现过于清晰的花花公子幽默.",对包含排泄物相关笑话的内容显示预警；部分玩家可能觉得这些描写过于露骨。
+english_metatexts:STT_TWN_SEX,metatext,FIX,Highly sexual,性很强,露骨性描写
+english_metatexts:STT_TWD_SEX,metatext,FIX,Flags content with written depictions of sex that some may find too explicit.,"旗帜内容中写有性描写,有些人可能觉得过于明确。",对包含性爱文字描写的内容显示预警；部分玩家可能觉得这些描写过于露骨。
+english_metatexts:STT_TWN_VIO,metatext,KEEP,Highly violent,极度暴力,极度暴力
+english_metatexts:STT_TWD_VIO,metatext,FIX,Flags content with written depictions of violence that some may find too explicit.,"旗帜内容中写有对暴力的描写,有些人可能认为这种描写过于明确。",对包含暴力文字描写的内容显示预警；部分玩家可能觉得这些描写过于露骨。
+english_metatexts:STT_TWN_XPL,metatext,POLISH,"Please keep in mind that due to the nature of the game, stuff like violence and sex are common grounds. The Trigger Warnings will warn you of the most intense cases that might trigger even someone accustomed to the franchise's usual tone.","请记住,由于游戏的性质,诸如暴力和性等东西是常见的. 触发警告会警告你 最激烈的案件 甚至会触发一个熟悉 特许经营的语气的人",请注意，本游戏本就常有暴力和性相关内容。内容预警针对其中最强烈的情节，即使熟悉系列一贯的风格，也可能感到不适。
+english_metatexts:STT_TWN_CRE,metatext,FIX,Horrible people,令人发指的人,恶劣人物
+english_metatexts:STT_TWD_CRE,metatext,FIX,"Filters events with people who may behave in ways that are especially despicable (hateful or with no boundaries). [These stances are always with characters clearly depicted as villains, or the player is depicted as clearly acting wrongly in a failure outcome]","过滤与行为方式特别可鄙(仇恨或没有边界)的人的事件。 这些姿势总是有人物被清晰地描绘为反派,或者玩家被描绘成在失败结果中明显做出错误的行为.",筛除人物行为特别恶劣的事件，例如仇恨言行或毫无边界感。（这些立场总是属于明确描写为反派的角色，或出现在明确表现玩家行为有错的失败结果中。）
+english_metatexts:STT_TWN_REF,metatext,FIX,"""Monster Prom"" references","""怪物舞会"" 参考文献",《怪物舞会》相关梗
+english_metatexts:STT_TWD_REF,metatext,FIX,Filters events that have heavy Monster Prom references. For people who didn't play the first game.,过滤重度事件 怪物舞会 参考文献。 对于没有进行第一场比赛的人来说.,筛除大量引用《怪物舞会》的事件，适合没玩过系列首作的玩家。
+english_metatexts:STT_JMP_TTL,metatext,FIX,Jump Scare,跳跃恐惧,突发惊吓
+english_metatexts:STT_LBL_OTH,metatext,KEEP,Other,其它,其它
+english_metatexts:STT_OTH_ASL,metatext,KEEP,Allow Self-Love,允许自爱,允许自爱
+english_metatexts:STT_OTH_ALL,metatext,FIX,Allows hitchhiker to be chosen even if a player selected them to play the game.,"即使有玩家选择他们来玩游戏,也允许搭便车者被选中.",即使某个角色已被玩家选为可玩角色，仍允许其作为搭车客出现。
+english_metatexts:STT_EOTR_TTL,metatext,KEEP,End of the Road,道路尽头,道路尽头
+english_metatexts:STT_OTH_END,metatext,FIX,"Be aware this content can at times feel much darker and heavier than the game's usual tone, dealing with themes such as existential dread. Also, due to potentially off-putting visual and audio content, this might not be suitable for people with photosensitive epilepsy or claustrophobia.","注意这些内容有时会感觉比游戏通常的语气更黑暗更重,处理活生生的恐惧等主题. 另外,由于潜在的不切实际的视觉和音频内容,这可能不适合有发光敏感的癫痫或幽闭恐惧症的人。",请注意，这部分内容有时比游戏通常的风格更阴暗、沉重，涉及对存在本身的恐惧等主题。某些画面和声音可能令人不适，患有光敏性癫痫或幽闭恐惧症的玩家可能不适合游玩。
+english_metatexts:STT_DOP_PCP,metatext,FIX,Available character packs,可用的字符包,可用角色包
+english_metatexts:STT_DCP_BASE,metatext,FIX,Base characters,基本字符,基础角色
+english_metatexts:STT_DOP_NOD,metatext,KEEP,Get more DLCs,获取更多 DLC,获取更多 DLC
+english_metatexts:STT_DOP_NOD_SWITCH,metatext,FIX,Check downloadable content,检查可下载内容,查看可下载内容
+english_metatexts:MNL_BCK,metatext,KEEP,Back,返回,返回
+english_metatexts:PRL_STT_PLN,metatext,KEEP,How many of you are there?,你们有多少人?,你们有多少人?
+english_metatexts:PRL_STT_LCK,metatext,KEEP,Locked,已锁定,已锁定
+english_metatexts:PRL_STT_LCK2,metatext,KEEP,Keep playing to unlock!,继续玩来解锁!,继续玩来解锁!
+english_metatexts:PRL_FRH_DSC,metatext,FIX,Play with your friends without anyone ending up with a Failure or an MVP ending. No pressure!,"和你的朋友一起玩,没有任何人 最终以失败或MVP结束。 没有压力!",和朋友一起轻松玩，谁都不会拿到失败结局或 MVP 结局。毫无压力！
+english_metatexts:PRL_RDT_DSC,metatext,FIX,"The true survival co-op experience, including a player performance ranking at the end!","真实的生存合作体验,包括玩家在结尾的表演排名!",真正的合作生存体验，结局时还会按玩家表现排名！
+english_metatexts:PRL_PRM_DSC,metatext,FIX,Add some cutthroat mechanics to decide who's the MVP! (Beautiful Glitch declines responsibility for broken relationships.),加入一些切口力学来决定谁是MVP!. (美丽的Glitch 放弃对断开关系的责任。 ),加入竞争激烈的玩法机制，决出最佳队员！ （Beautiful Glitch 对友谊破裂概不负责。）
+english_metatexts:PRL_EAS_DSC,metatext,FIX,Focus on the narrative & take the scenic route[n]- Higher initial Resources[n]- Deep Conversations are impossible to fail,关注叙事和走风景路线( G)[n]- 较高的初始资源[n]-深层对话是不可能失败的,专心看剧情，悠闲赏风景[n]- 初始资源更多[n]- 深入对话不会失败
+english_metatexts:PRL_NRM_DSC,metatext,FIX,Your standard road trip experience:[n]- Standard initial Resources[n]- Extra attempt at Deep Conversations,你的标准公路旅行经验:[n]- 标准初始资源[n]- 深层对话的额外尝试,标准公路旅行体验：[n]- 标准初始资源[n]- 深入对话有一次额外尝试机会
+english_metatexts:PRL_HAR_DSC,metatext,FIX,Face a ruthless survival challenge: [n]- Lower initial Resources[n]- Higher Destination requirements[n]- Resource changes are tougher[n]- No extra attempts at Deep Conversations,面对无情的生存挑战: [n]- 初始资源较低[n]- 更高的目标要求[n]- 资源变化更艰难[n]- 不再尝试深层对话,迎接残酷的生存挑战：[n]- 初始资源更少[n]- 目的地要求更高[n]- 资源增减更严苛[n]- 深入对话没有额外尝试机会
+english_metatexts:PRL_GODMODE,metatext,FIX,God mode:,神会模式 :,上帝模式：
+english_metatexts:PRL_GOD_ACH,metatext,POLISH,Note: You won't unlock any achievements while God Mode is on.,"注意:在""上帝模式""开机期间,你不会解锁任何成就.",注意：开启上帝模式后，无法解锁成就。
+english_metatexts:PRL_DIF_EASY,metatext,FIX,Easy,轻点,简单
+english_metatexts:PRL_DIF_NORMAL,metatext,KEEP,Normal,常规,常规
+english_metatexts:PRL_DIF_HARD,metatext,FIX,Hard,难,困难
+english_metatexts:PRL_STT_DRT,metatext,KEEP,How long do you want to play?,你想玩多长时间?,你想玩多长时间?
+english_metatexts:PRL_STT_DRV,metatext,FIX,Around [00] minutes,周围 [00] 分钟,约 [00] 分钟
+english_metatexts:PRL_SKP,metatext,KEEP,Skip,跳过,跳过
+english_metatexts:PRL_STT_PLS,metatext,KEEP,Who are you?,你是谁?,你是谁?
+english_metatexts:PRL_PLS_CHP,metatext,KEEP,Choose player [0],选择玩家 [0],选择玩家 [0]
+english_metatexts:PRL_PLS_CHP_SNG,metatext,KEEP,Choose player,选择玩家,选择玩家
+english_metatexts:PLY_WHO_TTL,metatext,POLISH,"Who are you, really?","你是谁,真的?",你究竟是谁？
+english_metatexts:PLY_WHO_NAM,metatext,KEEP,Name,名称,名称
+english_metatexts:PLY_WHO_PRN,metatext,POLISH,Pronoun,代名词,人称代词
+english_metatexts:PLY_WHO_OK,metatext,FIX,OK,罢,确定
+english_metatexts:PLY_PRN_HEE,metatext,FIX,He,他的电话,他
+english_metatexts:PLY_PRN_SHE,metatext,KEEP,She,她,她
+english_metatexts:PLY_PRN_THY,metatext,FIX,They,他们,TA
+english_metatexts:PLY_KYB_WAT,metatext,KEEP,The other player is typing...,另一名玩家在打字...,另一名玩家在打字...
+english_metatexts:PLY_KYB_VRF,metatext,KEEP,Verifying player name...,正在验证玩家名称...,正在验证玩家名称...
+english_metatexts:PLY_KYB_INV,metatext,KEEP,Invalid Player Name,无效的玩家名称,无效的玩家名称
+english_metatexts:PLY_KYB_INV_DSC,metatext,KEEP,"The entered name is not valid, please use a different one.","输入的名称无效, 请使用不同的名称 。","输入的名称无效, 请使用不同的名称 。"
+english_metatexts:PLY_NAM_BLUE,metatext,KEEP,Vicky,维姬,维姬
+english_metatexts:PLY_ALT_BLUE,metatext,KEEP,Blue,蓝色,蓝色
+english_metatexts:PLY_NAM_GREEN,metatext,KEEP,Brian,布莱恩,布莱恩
+english_metatexts:PLY_ALT_GREEN,metatext,KEEP,Green,绿色,绿色
+english_metatexts:PLY_NAM_RED,metatext,KEEP,Amira,阿米拉,阿米拉
+english_metatexts:PLY_ALT_RED,metatext,KEEP,Red,红色,红色
+english_metatexts:PLY_NAM_YELLOW,metatext,KEEP,Oz,奥兹,奥兹
+english_metatexts:PLY_ALT_YELLOW,metatext,KEEP,Yellow,黄色,黄色
+english_metatexts:PLY_NAM_CINNAMON,metatext,KEEP,Hazel,海泽尔,海泽尔
+english_metatexts:PLY_ALT_CINNAMON,metatext,FIX,Cinnamon,肉桂(变种),肉桂色
+english_metatexts:PLY_NAM_GLITCH,metatext,FIX,Glitch,滑动,Glitch
+english_metatexts:PLY_ALT_GLITCH,metatext,KEEP,ERROR,错误,错误
+english_metatexts:PLY_NAM_JUAN,metatext,KEEP,Juan,胡安,胡安
+english_metatexts:PLY_ALT_JUAN,metatext,KEEP,Chicle,齐克勒,齐克勒
+english_metatexts:PLY_NAM_ZOE,metatext,KEEP,Zoe,佐伊,佐伊
+english_metatexts:PLY_ALT_ZOE,metatext,FIX,Purple,紫色( 紫色),紫色
+english_metatexts:PLY_NAM_PUMPKIN,metatext,FIX,Jacqueline,杰奎琳 贾奎琳,杰奎琳
+english_metatexts:PLY_ALT_PUMPKIN,metatext,FIX,Orange,橙红色,橙色
+english_metatexts:PLY_NAM_SLIME,metatext,FIX,Doug,道格 道格 道格 道格 道格 道格,道格
+english_metatexts:PLY_ALT_SLIME,metatext,FIX,Turquoise,绿宝石,绿松石色
+english_metatexts:PLY_NAM_CUSTOMNAME,metatext,KEEP,[Custom Name],[Custom Name],[Custom Name]
+english_metatexts:STK_ADD,metatext,FIX,Add Sticker,添加标签,添加贴纸
+english_metatexts:STK_DONE,metatext,FIX,Done!,结束了!,完成！
+english_metatexts:STK_SEL_BCK,metatext,KEEP,Select background,选择背景,选择背景
+english_metatexts:STK_MIN_TTL,metatext,KEEP,Sticker Studio,贴纸工坊,贴纸工坊
+english_metatexts:STK_MAI_CRE,metatext,FIX,Let's[n]create,开始吧[n]创建,开始[n]创作
+english_metatexts:STK_MAI_VIE,metatext,KEEP,View your[n]designs,浏览您的[n]设计,浏览您的[n]设计
+english_metatexts:STK_MYD_TTL,metatext,KEEP,My designs,我的设计,我的设计
+english_metatexts:STK_TOO_MOVE,metatext,KEEP,Move,移动,移动
+english_metatexts:STK_TOO_ROTATE,metatext,KEEP,Rotate,旋转,旋转
+english_metatexts:STK_TOO_SCALE,metatext,KEEP,Scale,缩放,缩放
+english_metatexts:STK_TOO_BRINGFRONT,metatext,FIX,Front,前线,置顶
+english_metatexts:STK_TOO_BRINGBACK,metatext,FIX,Back,返回,置底
+english_metatexts:STK_TOO_DELETE,metatext,KEEP,Delete,删除,删除
+english_metatexts:STK_TOO_MIRROR,metatext,KEEP,Mirror,镜像,镜像
+english_metatexts:STK_TLB_PRVNXT,metatext,FIX,Previous/Next Sticker,上个/下个标签,上一张／下一张贴纸
+english_metatexts:STK_TLB_SLWFST,metatext,FIX,(Hold) Slower/Faster Edit,慢/快编辑( Hold),（按住）减慢／加快编辑
+english_metatexts:STK_TLB_CLS,metatext,KEEP,Close Toolbar,关闭工具栏,关闭工具栏
+english_metatexts:STK_TLB_CSL,metatext,KEEP,Confirm Selection,确认选择,确认选择
+english_metatexts:STK_TLB_CNCEDIT,metatext,KEEP,Cancel Edit,取消编辑,取消编辑
+english_metatexts:STK_TLB_CNFEDIT,metatext,KEEP,Confirm Edit,确认编辑,确认编辑
+english_metatexts:STK_ALBUMNOTE,metatext,FIX,You can check your creations in the console's media gallery,您可以在控制台的媒体画廊中检查您的创作,可以在主机的媒体库中查看你的作品。
+english_metatexts:STK_ALBUMNOTE_PLAYSTATION4,metatext,FIX,You can check your creations in the PlayStation®4 system's Capture Gallery,您可以在 PlayStation% 4 系统的 Capture 画廊中检查您的创作,可以在 PlayStation®4 系统的截取画面相簿中查看你的作品。
+english_metatexts:STK_ALBUMNOTE_PLAYSTATION5,metatext,FIX,You can check your creations in the PlayStation®5 console's Media Gallery,您可以在 PlayStation% 5 控制台的媒体相册中检查您的创建,可以在 PlayStation®5 主机的媒体库中查看你的作品。
+english_metatexts:STK_ALBUMNOTE_XBOX,metatext,FIX,You can check your creations in the Xbox console's Captures app,您可以在 Xbox 控制台的 Captains app 中检查您的创建,可以在 Xbox 主机的截取应用中查看你的作品。
+english_metatexts:STK_BCK_MSG,metatext,POLISH,Are you sure you want to go back and discard the current composition changes?,您确定要返回并丢弃当前构成的变化吗 ?,确定要返回，并放弃当前作品的修改吗？
+english_metatexts:STT_BCK_YES,metatext,FIX,Yes,对,是
+english_metatexts:STT_BCK_NOO,metatext,FIX,No,没有,否
+english_metatexts:STK_DNE_MSG,metatext,POLISH,Are you sure you want to save the final composition and finish?,您确定要保存最终组成并完成吗 ?,确定要保存最终作品并完成编辑吗？
+english_metatexts:STT_DNE_YES,metatext,FIX,Yes,对,是
+english_metatexts:STT_DNE_NOO,metatext,FIX,No,没有,否
+english_metatexts:STT_GRD_MSG,metatext,FIX,Select a ratio for this gradient background:,为该梯度背景选择一个比率 :,选择渐变背景的宽高比：
+english_metatexts:STT_GRD_ONE,metatext,FIX,Square,平方边,正方形
+english_metatexts:STT_GRD_TWO,metatext,FIX,Wide,宽,横向
+english_metatexts:STT_GRD_THR,metatext,FIX,Tall,高点,竖向
+english_metatexts:STK_LIM_REA,metatext,FIX,Sticker limit reached,达到粘贴限制,已达到贴纸数量上限
+english_metatexts:STK_SCRSVD,metatext,KEEP,Screenshot saved!,屏幕截图已保存 。,屏幕截图已保存 。
+english_metatexts:STK_SCRERR,metatext,KEEP,Error saving screenshot.,保存截图出错 。,保存截图出错 。
+english_metatexts:STK_TAB_GRA,metatext,KEEP,Gradient,渐变,渐变
+english_metatexts:STK_TAB_SCE,metatext,KEEP,Scenic,风景,风景
+english_metatexts:STK_TAB_WID,metatext,FIX,Special: Wide,特别:宽度,特殊：横向
+english_metatexts:STK_TAB_REG,metatext,FIX,Special: Square,特别:平方,特殊：正方形
+english_metatexts:STK_TAB_LOC,metatext,KEEP,Location,地点,地点
+english_metatexts:STK_TAB_MAP,metatext,KEEP,Map,地图,地图
