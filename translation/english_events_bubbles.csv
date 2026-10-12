@@ -1,0 +1,919 @@
+﻿row_id,source_file,source_line,event_id,speaker_or_key,mood,source,target,status,notes
+english_events_bubbles:L4,english_events_bubbles.txt,4,bubble_c1,polly,,"Guys, I'm pretty sure we've seen that cactus before...","伙计们,我敢肯定,我们见过仙人掌之前...",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L5,english_events_bubbles.txt,5,bubble_c1,scott,,Is it... like... a celebrity cactus?,这是... 喜欢... 名人仙人掌吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L10,english_events_bubbles.txt,10,bubble_c10,scott,,"Look, that cloud looks like a plane!","你看,那个云看起来像飞机!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L11,english_events_bubbles.txt,11,bubble_c10,polly,,"Scott, that IS a plane.",斯科特那是飞机,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L16,english_events_bubbles.txt,16,bubble_c11,scott,,If you think about it... roads are like... streets for cars...,如果你考虑一下... 道路就像... 汽车的街道...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L17,english_events_bubbles.txt,17,bubble_c11,polly,,"Whoa, Scott... deep.",哗! 斯科特... 深相会.,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L22,english_events_bubbles.txt,22,bubble_c12,scott,,Do you think our car is secretly a battle robot?,你觉得我们的车是秘密的战斗机器人吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L23,english_events_bubbles.txt,23,bubble_c12,polly,,Maybe.,也许吧,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L28,english_events_bubbles.txt,28,bubble_c13,polly,,Are we there yet?,我们到了吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L33,english_events_bubbles.txt,33,bubble_c2,polly,,Remember to check the speed limit!,记得检查限速!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L34,english_events_bubbles.txt,34,bubble_c2,scott,,I think it's four speeds per car.,我觉得是每辆车4个速度,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L39,english_events_bubbles.txt,39,bubble_c20,scott,,"Polly, I learned a new trick: no hands!",波莉我学到了一个新把戏:没有手!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L40,english_events_bubbles.txt,40,bubble_c20,polly,,"Scott, not while you're driving!",斯科特你开车的时候不行!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L45,english_events_bubbles.txt,45,bubble_c21,scott,,"Polly, can I stick my head out of the car?",波莉我能把头从车里伸出来吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L46,english_events_bubbles.txt,46,bubble_c21,polly,,"Scott, this is a convertible. Your head is always out of the car.",斯科特这是辆敞篷车 你的头总是出车。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L47,english_events_bubbles.txt,47,bubble_c21,scott,,WHOA!,呜哇!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L52,english_events_bubbles.txt,52,bubble_c22,scott,,The wind on my face makes me feel so alive!,我脸上的风让我感觉如此活泼!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L53,english_events_bubbles.txt,53,bubble_c22,polly,,"Dude, rude!","伙计,粗鲁!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L58,english_events_bubbles.txt,58,bubble_c23,scott,,I think I swallowed a mosquito!,我想我吞了个蚊子!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L59,english_events_bubbles.txt,59,bubble_c23,polly,,"Remember to supress your gag reflex, Scott.",记住要抑制你的口袋反射 斯科特.,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L64,english_events_bubbles.txt,64,bubble_c25,scott,,I've always enjoyed chasing cars...,我一直喜欢追车...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L65,english_events_bubbles.txt,65,bubble_c25,scott,,...but it's so much easier when you're inside one!,"...但是当你进入其中的时候, 事情就容易多了!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L70,english_events_bubbles.txt,70,bubble_c27,polly,,All this car's missing is a good woofer...,这车的缺失 是一个很好的呜呼...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L71,english_events_bubbles.txt,71,bubble_c27,scott,,I can help! WOOF WOOF!,"我可以帮忙! 哇,哇,哇,哇,哇,哇!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L76,english_events_bubbles.txt,76,bubble_c28,scott,,...And that's why I can never go back to that bakery.,这就是为什么我永远不能回到面包店。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L77,english_events_bubbles.txt,77,bubble_c28,polly,,"Whoa, no wonder!","哇,难怪!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L82,english_events_bubbles.txt,82,bubble_c3,scott,,This car makes weird noises!,这车发出怪异的声音!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L83,english_events_bubbles.txt,83,bubble_c3,polly,,Pretty sure it's just %CURRENTPLAYERNAME%'s stomach.,"非常肯定,这只是 %CURRENTPLAYERNAME%'""胃经"".",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L88,english_events_bubbles.txt,88,bubble_c30,scott,,...69 bottles of beer on the waaaaall...,...69瓶啤酒在华尔岛...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L89,english_events_bubbles.txt,89,bubble_c30,polly,,...And I'm gonna drink 'em aaaaall!,...我要喝'时间!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L94,english_events_bubbles.txt,94,bubble_c31,scott,,...69 bottles of beer on the waaaaall...,...69瓶啤酒在华尔岛...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L95,english_events_bubbles.txt,95,bubble_c31,polly,,"Haha, nice!","哈哈,不错!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L100,english_events_bubbles.txt,100,bubble_c5,scott,,I love looking at the road we leave behind!,我喜欢看我们留下的路!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L101,english_events_bubbles.txt,101,bubble_c5,polly,,"Okay, but not while you're driving!","好吧,但不要 当你开车!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L106,english_events_bubbles.txt,106,bubble_c7,scott,,"Do you ever wonder whose car this is, Polly?",你有没有想过这是谁的车? 波莉?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L107,english_events_bubbles.txt,107,bubble_c7,polly,,"I thought... I thought YOU knew, Scott.",我以为... 我以为你知道 斯科特.,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L112,english_events_bubbles.txt,112,bubble_c8,scott,,...and that's why Cars 3 is the best one in the trilogy.,...这就是为什么3号车是三部曲中最好的一部.,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L113,english_events_bubbles.txt,113,bubble_c8,polly,,I never saw it that way!,我从来没这么认为过!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L118,english_events_bubbles.txt,118,bubble_c9,scott,,"If I drank gas, would I become a car?","如果我喝煤气,我会变成一辆车吗?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L119,english_events_bubbles.txt,119,bubble_c9,polly,,Why do you want to become a car anyway?,为什么你想成为一辆汽车呢?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L125,english_events_bubbles.txt,125,bubble_going_motel1,polly,,Finally! I could use some rest.,终于来了! 我可以休息一会,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L126,english_events_bubbles.txt,126,bubble_going_motel1,scott,,Do ghosts rest?,鬼魂休息吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L127,english_events_bubbles.txt,127,bubble_going_motel1,polly,,Not really.,不见得,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L133,english_events_bubbles.txt,133,bubble_going_motel2,polly,,Finally! I could use some rest.,终于来了! 我可以休息一会,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L134,english_events_bubbles.txt,134,bubble_going_motel2,scott,,Do ghosts rest?,鬼魂休息吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L135,english_events_bubbles.txt,135,bubble_going_motel2,polly,,Not really.,不见得,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L141,english_events_bubbles.txt,141,bubble_going_motel3,polly,,Finally! I could use some rest.,终于来了! 我可以休息一会,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L142,english_events_bubbles.txt,142,bubble_going_motel3,scott,,Do ghosts rest?,鬼魂休息吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L143,english_events_bubbles.txt,143,bubble_going_motel3,polly,,Not really.,不见得,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L149,english_events_bubbles.txt,149,bubble_going_gas_hitech,scott,,Whoa... is that a gas station?,珃... 那是加油站吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L150,english_events_bubbles.txt,150,bubble_going_gas_hitech,polly,,I think...  it's the future.,我觉得...  这是未来。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L156,english_events_bubbles.txt,156,bubble_going_diner_doom,polly,,Cool! I could eat some fries!,凉爽! 我可以吃一些薯条!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L157,english_events_bubbles.txt,157,bubble_going_diner_doom,polly,,"Well, by ""eat"" I mean ""drink"", and by ""fries"" I mean ""vodka"".","嗯,""吃""是指""喝"",""炸""是指""vodka"".",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L163,english_events_bubbles.txt,163,bubble_going_landmark_potato,polly,,"I guess when it comes to potatoes, size does matter!","说到马铃薯,尺寸就重要了!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L169,english_events_bubbles.txt,169,bubble_going_landmark_potato2,polly,,"Ooh, this one sure is the STARCH of the show, huh?","哦,这个肯定是 节目的STARCH,是吧?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L170,english_events_bubbles.txt,170,bubble_going_landmark_potato2,scott,,I don't get it.,岂能通取.,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L176,english_events_bubbles.txt,176,bubble_going_landmark_wigs,scott,,The guide says they have over 400 wigs!,导游说他们有400多个假发!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L177,english_events_bubbles.txt,177,bubble_going_landmark_wigs,polly,,And we're gonna try 'em all!,我们要尝试'时间全部!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L183,english_events_bubbles.txt,183,bubble_going_shopping_mall,scott,,Polly... why is there a shopping mall in the middle of the desert?,波莉... 为什么沙漠中间有购物中心?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L184,english_events_bubbles.txt,184,bubble_going_shopping_mall,polly,,"Only God knows, Scott.",只有上帝才会知道 斯科特.,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L190,english_events_bubbles.txt,190,bubble_going_ranch,scott,,"Ooh, horsies!","哦,蜂窝!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L191,english_events_bubbles.txt,191,bubble_going_ranch,polly,,"Horsies indeed, Scott... horsies indeed.","恐怖的确是恐怖的, 斯科特... 热身的确如此。",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L197,english_events_bubbles.txt,197,bubble_going_ranch2,scott,,Do you think they'll have horsies?,你觉得他们会有狂犬病吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L198,english_events_bubbles.txt,198,bubble_going_ranch2,polly,,Eh... I guess?,额... 是吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L204,english_events_bubbles.txt,204,bubble_going_rave,polly,,THANKS. FOR. CHOOSING. THIS.,谢谢。 对于。 HO. 这个。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L210,english_events_bubbles.txt,210,bubble_going_rave2,scott,,"Whoa, is there an earthquake?!","哇,有地震吗?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L211,english_events_bubbles.txt,211,bubble_going_rave2,polly,,SCOTT. THAT. IS. THE. FUCKIN'. BASS.,斯科特。那。才。叫。他妈的。低音。,reviewed,human override
+english_events_bubbles:L217,english_events_bubbles.txt,217,bubble_going_dinest,scott,,"Whoa, look at that line of people!","哇,看看这排人!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L218,english_events_bubbles.txt,218,bubble_going_dinest,polly,,Fuck... you can't even see the diner from here...,他妈的... 你甚至看不到餐厅 从这里...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L224,english_events_bubbles.txt,224,bubble_going_motel_fancy,polly,,Ooh la la! Someone's feeling too fancy to sleep in the car.,呜啦啦! 有人觉得在车里睡觉太花心了,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L230,english_events_bubbles.txt,230,bubble_going_car_dealership,polly,,...Why? We already have a car.,为什么? 我们已经有车了,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L231,english_events_bubbles.txt,231,bubble_going_car_dealership,scott,,"When you're on a road trip, you can never have enough cars!","当你在路上旅行的时候, 你永远不能有足够的车!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L232,english_events_bubbles.txt,232,bubble_going_car_dealership,polly,,"Actually, one is more than enough, Scott.","事实上,一个已经足够了, 斯科特.",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L238,english_events_bubbles.txt,238,bubble_going_shady_property,scott,,"Smart choice, %CURRENTPLAYERNAME%!","明智的选择, %CURRENTPLAYERNAME%!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L239,english_events_bubbles.txt,239,bubble_going_shady_property,scott,,"After all this sun, we can use some shade!","这么多太阳之后,我们可以使用一些遮阳!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L240,english_events_bubbles.txt,240,bubble_going_shady_property,polly,,...What?,什麽?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L246,english_events_bubbles.txt,246,bubble_going_art_exhibition,scott,,"Ooh, art! Do you think they'll have anything in blue?","哦,艺术! 你觉得他们会有蓝色的东西吗?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L247,english_events_bubbles.txt,247,bubble_going_art_exhibition,scott,,I like blue!,我喜欢蓝色!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L253,english_events_bubbles.txt,253,bubble_going_con,polly,,"Ah, yes... cosplay in the streets...","啊,对了... 街上戏弄...",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L254,english_events_bubbles.txt,254,bubble_going_con,polly,,...roleplay in the sheets...,...在床单上扮演角色...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L260,english_events_bubbles.txt,260,bubble_going_manor_gothic,polly,,"Ah, yes, the gothic manor...","对,哥特式庄园...",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L261,english_events_bubbles.txt,261,bubble_going_manor_gothic,polly,,...sister building to the lesser-known emo manor.,姊妹会建到不太出名的埃莫庄园,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L267,english_events_bubbles.txt,267,bubble_going_circus,polly,,Yeah! All the world's a stage!,对! 所有的世界都是个舞台!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L268,english_events_bubbles.txt,268,bubble_going_circus,scott,,"Really? I thought it was more like a ball, but okay!","真的吗? 我以为它更像一个球,但好吧!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L274,english_events_bubbles.txt,274,bubble_going_gas_basic,scott,,"Polly, Polly, listen:","波莉, 波莉,听着:",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L275,english_events_bubbles.txt,275,bubble_going_gas_basic,scott,,"Wouldn't it be funny if they called it ""Fart Station""?","他们叫它""快车站""是不是很有趣?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L276,english_events_bubbles.txt,276,bubble_going_gas_basic,polly,,...Yes.,对,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L282,english_events_bubbles.txt,282,bubble_going_landmark_hole,scott,,I love digging holes! But this one seems next-level.,我喜欢挖洞! 但是这个看起来是下一个层次的。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L283,english_events_bubbles.txt,283,bubble_going_landmark_hole,scott,,Respect.,尊重众生.,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L289,english_events_bubbles.txt,289,bubble_going_landmark_wedding,scott,,"Polly, are we on the bride's side or the groom's side?",波莉我们是站在新娘那边 还是站在新郎那边?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L290,english_events_bubbles.txt,290,bubble_going_landmark_wedding,polly,,"We shouldn't take sides, Scott.","我们不应该站在一边, 斯科特.",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L296,english_events_bubbles.txt,296,bubble_going_landmark_wedding2,scott,,"Polly, are we on the bride's side or the groom's side?",波莉我们是站在新娘那边 还是站在新郎那边?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L297,english_events_bubbles.txt,297,bubble_going_landmark_wedding2,polly,,"We're on chaos' side, Scott.","我们是混沌的一方, 斯科特.",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L303,english_events_bubbles.txt,303,bubble_going_biker_bar,scott,,"But Polly, we can't go there! We're in a car, not a bike.","不过 波莉我们不能去那儿! 我们在车上,不是自行车。",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L304,english_events_bubbles.txt,304,bubble_going_biker_bar,scott,,It'd be rude...,那样太粗鲁了...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L310,english_events_bubbles.txt,310,bubble_going_graveyard,scott,,Do you think they'll have bones?,你觉得他们会有骨头吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L311,english_events_bubbles.txt,311,bubble_going_graveyard,scott,,I like bones!,我喜欢骨头!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L317,english_events_bubbles.txt,317,bubble_going_village_west,polly,,"Nice choice, %CURRENTPLAYERNAME%.",不错的选择 %CURRENTPLAYERNAME%.,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L318,english_events_bubbles.txt,318,bubble_going_village_west,polly,,"Or should I say... ""pardner.""","或者我应该说... ""帕德纳"".",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L324,english_events_bubbles.txt,324,bubble_going_lake,scott,,"Woohoo, let's swim!","呜呼,我们游泳吧!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L325,english_events_bubbles.txt,325,bubble_going_lake,scott,,"...Polly, how do you swim again?",...波莉你怎么又会游泳?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L331,english_events_bubbles.txt,331,bubble_going_diner_pancake,polly,,"How many pancakes are you gonna eat, Scott?",你要吃多少个煎饼? 斯科特?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L332,english_events_bubbles.txt,332,bubble_going_diner_pancake,scott,,All of them!,全部都给我!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L338,english_events_bubbles.txt,338,bubble_going_diner_pancake2,scott,,There's a WHOLE DINER just for BREAKFAST?!,有一个全天候的DINER 只为BREAKFAST!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L339,english_events_bubbles.txt,339,bubble_going_diner_pancake2,polly,,Yes.,对,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L340,english_events_bubbles.txt,340,bubble_going_diner_pancake2,scott,,The future is amazing!,未来是惊人的!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L346,english_events_bubbles.txt,346,bubble_going_gas_trolls,scott,,But aren't trolls... mean?,但是不是巨怪吗? 是吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L347,english_events_bubbles.txt,347,bubble_going_gas_trolls,polly,,"Only on the internet, Scott.","只有在网上, 斯科特.",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L353,english_events_bubbles.txt,353,bubble_going_space_station,scott,,WOOHOO! ROCKETS!,呜呼! 车!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L354,english_events_bubbles.txt,354,bubble_going_space_station,polly,,"Don't ""rocket"" 'til you try it, amirite?","不要""火箭"",直到你尝试它,埃米尔?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L355,english_events_bubbles.txt,355,bubble_going_space_station,scott,,...I don't get it.,...我不明白这一点。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L361,english_events_bubbles.txt,361,bubble_going_village_charming,polly,,What could possibly go wrong?,什么可能出错?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L367,english_events_bubbles.txt,367,bubble_going_reptile_show,scott,,"What are the reptiles showing, Polly?",爬行动物显示的是什么? 波莉?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L368,english_events_bubbles.txt,368,bubble_going_reptile_show,polly,,"They're showing off, most likely.",他们很可能在炫耀,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L374,english_events_bubbles.txt,374,bubble_going_biz_summit,polly,,THE PRANK MASTERZ ARE OPEN FOR BUSINESS!,普兰克·马斯特兹为生意打开了门!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L375,english_events_bubbles.txt,375,bubble_going_biz_summit,scott,,Hooray!,万岁!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L381,english_events_bubbles.txt,381,bubble_going_village_kaiju,scott,,"Dang, this city's a fixer-upper...","糟了,这座城市是个修复者...",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L387,english_events_bubbles.txt,387,bubble_going_spa,polly,,"Finally, we can relax...",终于可以放松了...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L388,english_events_bubbles.txt,388,bubble_going_spa,polly,,"No offense, but I could use a vacation from this vacation.","恕我直言,但我可以请个假",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L394,english_events_bubbles.txt,394,bubble_going_spa2,polly,,"Finally, we can relax...",终于可以放松了...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L395,english_events_bubbles.txt,395,bubble_going_spa2,scott,,Who knew vacation could be so stressful?,谁知道假期会这么紧张?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L401,english_events_bubbles.txt,401,bubble_going_ufo_sightseeing,scott,,WOW! A UFO!,呜! 一个UFO!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L402,english_events_bubbles.txt,402,bubble_going_ufo_sightseeing,polly,,"Scott, that's a Frisbee.","斯科特那是个""弗里斯比""",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L403,english_events_bubbles.txt,403,bubble_going_ufo_sightseeing,scott,,WOW! A FRISBEE!,呜! 一个FRISBEE!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L409,english_events_bubbles.txt,409,bubble_going_merkingdom_outpost,polly,,Whoa...,珃...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L410,english_events_bubbles.txt,410,bubble_going_merkingdom_outpost,polly,,The Vanderbilts have been busy.,万德自来已来多事.,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L416,english_events_bubbles.txt,416,bubble_going_farm,scott,,Cows!,牛头!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L417,english_events_bubbles.txt,417,bubble_going_farm,polly,,"They sure are, Scott.","他们肯定, 斯科特.",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L423,english_events_bubbles.txt,423,bubble_going_farm2,scott,,I hope they have sheep!,我希望他们有羊!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L424,english_events_bubbles.txt,424,bubble_going_farm2,scott,,I want some sheep's clothing!,我要羊的衣服! 来!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L430,english_events_bubbles.txt,430,bubble_going_fortune_teller,polly,,Thirty bucks for a séance?!,30块钱的圣舞?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L431,english_events_bubbles.txt,431,bubble_going_fortune_teller,polly,,"And here I am, talking to people for free!","我在这里,免费与人交谈!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L437,english_events_bubbles.txt,437,bubble_going_rodeo,scott,,I wanna ride a horsie!,我想骑一匹马!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L438,english_events_bubbles.txt,438,bubble_going_rodeo,polly,,Cool. I'll ride a cowboy.,酷毙了 我会骑牛仔。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L444,english_events_bubbles.txt,444,bubble_going_village_abandoned,polly,,Where did everybody go?,大家都去哪了? 他们都去哪了?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L445,english_events_bubbles.txt,445,bubble_going_village_abandoned,scott,,Maybe they're all in the bathroom?,也许他们都在浴室里?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L451,english_events_bubbles.txt,451,bubble_going_gift_shop,scott,,Polly... what is this place?,波莉... 这是什么地方?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L452,english_events_bubbles.txt,452,bubble_going_gift_shop,polly,,I don't really know...,我其实不知道...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L458,english_events_bubbles.txt,458,bubble_going_national_park,scott,,GOTTA CHASE THAT SQUIRREL!,得查查那个小混混!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L459,english_events_bubbles.txt,459,bubble_going_national_park,polly,,"NOT WHILE YOU'RE DRIVING, SCOTT!","不是当你开车,斯科特!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L465,english_events_bubbles.txt,465,bubble_going_monster_truck,scott,,I LOVE MONSTER TRUCKS!,我爱怪兽卡车!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L466,english_events_bubbles.txt,466,bubble_going_monster_truck,scott,,"They're like trucks, but BIG!","他们就像卡车,但大!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L472,english_events_bubbles.txt,472,bubble_going_larp2,scott,,I'm gonna dress as a tree!,我要穿成一棵树!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L473,english_events_bubbles.txt,473,bubble_going_larp2,polly,,Really? In a fantasy medieval setting?,真的吗? 在幻想的中世纪环境里?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L474,english_events_bubbles.txt,474,bubble_going_larp2,scott,,I'll be a fantasy medieval tree!,我会成为一棵幻想中世纪之树!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L480,english_events_bubbles.txt,480,bubble_going_cult_place,scott,,"What does this cult worship, Polly?",这个邪教崇拜什么? 波莉?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L481,english_events_bubbles.txt,481,bubble_going_cult_place,polly,,"Soon, they'll be worshipping THIS BOOTY!","很快,他们就会崇拜这个家伙了!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L487,english_events_bubbles.txt,487,bubble_going_mirage,scott,,What is that place...?,这是什么地方... ?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L488,english_events_bubbles.txt,488,bubble_going_mirage,polly,,"Wait, you see it too...?","等等,你也看见了?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L494,english_events_bubbles.txt,494,bubble_going_carnival,scott,,I'm gonna win all the games!,我会赢得所有的比赛!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L495,english_events_bubbles.txt,495,bubble_going_carnival,polly,,And I'm gonna drink all the beers.,我要喝掉所有的啤酒。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L501,english_events_bubbles.txt,501,bubble_going_dungeon,polly,,Ready to gain some experience?,准备好获得一些经验吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L502,english_events_bubbles.txt,502,bubble_going_dungeon,scott,,This road trip has already been the best experience!,这趟公路旅行已经是最好的经验了!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L503,english_events_bubbles.txt,503,bubble_going_dungeon,polly,,Aww!,呜!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L509,english_events_bubbles.txt,509,bubble_going_dungeon2,polly,,THE PRANK MASTERZ ARE DUNGEON-CRAWLING!,普兰克马斯特兹是 邓肯狂欢!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L510,english_events_bubbles.txt,510,bubble_going_dungeon2,scott,,Hooray!,万岁!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L516,english_events_bubbles.txt,516,bubble_going_manor_rich,polly,,How much money do these people have?,这些人有多少钱?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L517,english_events_bubbles.txt,517,bubble_going_manor_rich,scott,,"Like, a hundred bucks at least!","像,至少一百块钱!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L523,english_events_bubbles.txt,523,bubble_going_tech_company,scott,,"How does technology work, Polly?","技术是如何工作的, 波莉?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L524,english_events_bubbles.txt,524,bubble_going_tech_company,polly,,There's a tiny wizard in every computer.,每台电脑里都有个小巫师,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L525,english_events_bubbles.txt,525,bubble_going_tech_company,scott,,Whoa...,珃...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L531,english_events_bubbles.txt,531,bubble_going_casino,polly,,YAAASSS! LET'S ROLL THE DICE!,亚亚西斯! 让我们摇动地盘!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L537,english_events_bubbles.txt,537,bubble_going_casino2,polly,,Lady Luck will be on our side!,幸运夫人会站在我们这边的!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L538,english_events_bubbles.txt,538,bubble_going_casino2,polly,,...I hope.,...我希望这样。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L544,english_events_bubbles.txt,544,bubble_going_planetarium,scott,,I can't believe they found a way to bring space to us!,真不敢相信他们找到办法给我们带来空间了!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L550,english_events_bubbles.txt,550,bubble_going_planetarium2,scott,,Hooray! Stars!,万岁! 星星们!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L551,english_events_bubbles.txt,551,bubble_going_planetarium2,scott,,I'm gonna watch 'em all!,我会看着他们所有人!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L557,english_events_bubbles.txt,557,bubble_going_battle_royale,polly,,We're so dead...,我们死定了...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L558,english_events_bubbles.txt,558,bubble_going_battle_royale,polly,,"Well, you guys are, anyway.","嗯,你们是,反正。",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L564,english_events_bubbles.txt,564,bubble_going_battle_royale2,polly,,"Sure, why not?","当然,为什么不呢?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L565,english_events_bubbles.txt,565,bubble_going_battle_royale2,polly,,I'm already dead anyway.,反正我已经死了,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L571,english_events_bubbles.txt,571,bubble_going_city_90s,polly,,"This place feels... nostalgic, somehow.",这个地方感觉... 有点怀旧,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L577,english_events_bubbles.txt,577,bubble_going_city_90s2,polly,,WATCH OUT FOR THAT EXPLOSION!,看着那场爆炸!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L583,english_events_bubbles.txt,583,bubble_going_prison,scott,,Why are we going to prison?,我们为什么要进监狱?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L584,english_events_bubbles.txt,584,bubble_going_prison,scott,,Are we in trouble...?,我们有麻烦了吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L590,english_events_bubbles.txt,590,bubble_going_prison2,polly,,THE PRANK MASTERZ ARE GOING TO PRISON!,普拉克・马斯特兹要进监狱了!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L591,english_events_bubbles.txt,591,bubble_going_prison2,scott,,Hooray...?,万岁...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L597,english_events_bubbles.txt,597,bubble_going_border,scott,,"Wait, we're crossing a border?","等等,我们要越过边境?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L598,english_events_bubbles.txt,598,bubble_going_border,scott,,But I don't have my passport!,但我没有护照!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L604,english_events_bubbles.txt,604,bubble_going_border2,polly,,THE PRANK MASTERZ ARE GOING INTERNATIONAL!,普兰克·马斯特兹正走向国际!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L605,english_events_bubbles.txt,605,bubble_going_border2,scott,,Hooray!,万岁!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L611,english_events_bubbles.txt,611,bubble_going_village_secluded,scott,,That's a big wall...,那是一堵大墙...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L612,english_events_bubbles.txt,612,bubble_going_village_secluded,polly,,I hope we don't have to pay to get past it.,希望我们不用付钱才能渡过难关,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L618,english_events_bubbles.txt,618,bubble_going_caves,polly,,"Time to penetrate a dark, deep hole!",是时候穿透一个黑暗而深的洞了!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L619,english_events_bubbles.txt,619,bubble_going_caves,scott,,Woohoo! I love holes!,呜呼! 我喜欢洞!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L625,english_events_bubbles.txt,625,bubble_going_gas_trolls2,scott,,I'm not sure I want to deal with trolls...,我不确定我是不是想对付巨怪...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L626,english_events_bubbles.txt,626,bubble_going_gas_trolls2,scott,,They're so mean online...,他们在网上太卑鄙了...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L632,english_events_bubbles.txt,632,bubble_going_motel_fancy2,scott,,So many rooms!,这么多房间!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L633,english_events_bubbles.txt,633,bubble_going_motel_fancy2,polly,,And every room is a potential prank!,每个房间都是个潜在的恶作剧!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L639,english_events_bubbles.txt,639,bubble_going_landmark_foot,scott,,The guide says it draws thousands of visitors every year!,导游说每年吸引上千名游客!.,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L640,english_events_bubbles.txt,640,bubble_going_landmark_foot,polly,,Didn't know foot fetishes were so common!,没想到脚迷恋这么普遍!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L646,english_events_bubbles.txt,646,bubble_going_landmark_hole2,polly,,"They say if you stare at it, it stares back at you!","他们说,如果你盯着它, 它一直盯着你!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L647,english_events_bubbles.txt,647,bubble_going_landmark_hole2,scott,,I'm gonna challenge it to a blinking contest then!,我会挑战它 眨眼比赛然后!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L653,english_events_bubbles.txt,653,bubble_going_diner_pancake3,scott,,Do you think they'll have pancakes?,你觉得他们会吃煎饼吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L654,english_events_bubbles.txt,654,bubble_going_diner_pancake3,polly,,Who's to say?,谁说?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L660,english_events_bubbles.txt,660,bubble_going_biker_bar2,scott,,Will they let us in? We're driving a car...,他们会让我们进去吗? 我们在开一辆车...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L661,english_events_bubbles.txt,661,bubble_going_biker_bar2,polly,,Isn't a car just a bike with a couple more wheels?,车是不是只有一辆车 还有几把车轮?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L667,english_events_bubbles.txt,667,bubble_going_biker_bar3,polly,,"Now Scott, you've gotta look tough when we get in there.","现在 斯科特等我们进去了,你必须坚强起来",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L668,english_events_bubbles.txt,668,bubble_going_biker_bar3,scott,,Rolling up my sleeves already!,卷起我的袖子来了!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L674,english_events_bubbles.txt,674,bubble_going_biker_bar4,scott,,But we're not riding motorbikes!,但我们不是骑摩托车的!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L675,english_events_bubbles.txt,675,bubble_going_biker_bar4,polly,,"Whatever, a car is like two bikes stitched together!","不管怎么样,一辆车就像两辆自行车 缝合在一起!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L681,english_events_bubbles.txt,681,bubble_going_simon_soups,scott,,I can already hear children laughing!,我已经听到孩子们在笑了!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L682,english_events_bubbles.txt,682,bubble_going_simon_soups,polly,,That sounds more like screaming to me...,听起来更像是在尖叫...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L688,english_events_bubbles.txt,688,bubble_going_village_west2,scott,,"Polly, why did they call it the Wild West?","波莉他们为什么把它叫做""狂野西部""?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L689,english_events_bubbles.txt,689,bubble_going_village_west2,polly,,I guess the Mild West didn't have the same ring to it.,我猜穆德西部没有同样的戒指,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L695,english_events_bubbles.txt,695,bubble_going_village_west3,scott,,"Whoa, cars were really different back then!","哇,当时的车真的不一样了!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L696,english_events_bubbles.txt,696,bubble_going_village_west3,polly,,"That's a horse, Scott.","这是一匹马, 斯科特.",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L702,english_events_bubbles.txt,702,bubble_going_village_charming2,polly,,"Scott, don't you think this village looks a little TOO nice?",斯科特你不觉得这个村子看起来太漂亮了吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L703,english_events_bubbles.txt,703,bubble_going_village_charming2,scott,,"You can never be too nice, Polly!","你永远不能太好, 波莉!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L709,english_events_bubbles.txt,709,bubble_going_village_charming3,polly,,"Man, this village reminds me of a horror movie...",这村子让我想起恐怖电影...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L710,english_events_bubbles.txt,710,bubble_going_village_charming3,scott,,Must have been a feel-good horror movie!,一定是一部感觉不错的恐怖电影!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L716,english_events_bubbles.txt,716,bubble_going_village_abandoned2,scott,,"But if WE are there, is it still an abandoned village?","但是,如果我们在那里,它还是一个被抛弃的村庄吗?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L717,english_events_bubbles.txt,717,bubble_going_village_abandoned2,polly,,"I think this road trip is giving you a bad case of deep thoughts, Scott.",我觉得这趟出行会给你带来 深思熟虑的坏案例 斯科特.,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L723,english_events_bubbles.txt,723,bubble_going_fortune_teller2,scott,,Can't wait to have my paw read!,等不及让我的爪子读了!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L729,english_events_bubbles.txt,729,bubble_going_fortune_teller3,scott,,Do you think psychics can really talk to the dead?,你觉得灵媒真的能和死人说话吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L730,english_events_bubbles.txt,730,bubble_going_fortune_teller3,polly,,It's not that hard. You're doing it right now.,亦无所难. 汝今当作是事.,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L736,english_events_bubbles.txt,736,bubble_going_animal_shelter,scott,,Are you a cat person or a dog person?,你是猫人还是狗人?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L737,english_events_bubbles.txt,737,bubble_going_animal_shelter,polly,,"I'm a Scott person! C'mere, good boi!","我是一个 斯科特 来人啊! 帅呆了,好家伙!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L743,english_events_bubbles.txt,743,bubble_going_farm3,scott,,"Ooh, a farm! Maybe it's the one my grandpa got sent to!","哦,一个农场! 也许是我爷爷送去的!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L744,english_events_bubbles.txt,744,bubble_going_farm3,polly,,"Scott, there's something I need to tell you...",斯科特我有件事要告诉你...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L750,english_events_bubbles.txt,750,bubble_going_ranch3,scott,,"Ooh, a ranch!","哦,牧场!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L751,english_events_bubbles.txt,751,bubble_going_ranch3,scott,,Is this where they make the salad dressing?,这就是他们做沙拉酱的地方吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L757,english_events_bubbles.txt,757,bubble_going_rodeo2,scott,,"Will we get to see the ""reverse cowgirl"" you told me about?","我们能看看你说的""逆向牛仔女郎""吗?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L758,english_events_bubbles.txt,758,bubble_going_rodeo2,polly,,Now THAT's a rodeo I'd be into!,"现在,这是一个牛仔赛,我会喜欢的!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L759,english_events_bubbles.txt,759,bubble_going_rodeo2,scott,,Really? Why?,真的吗? 为什么?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L765,english_events_bubbles.txt,765,bubble_going_national_park2,polly,,"Ahh, the great outdoors!","啊,伟大的户外!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L766,english_events_bubbles.txt,766,bubble_going_national_park2,scott,,National parks have doors?,国家公园有门吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L772,english_events_bubbles.txt,772,bubble_going_caves2,scott,,Do you think we'll get to see cave paintings?,你觉得我们会看到洞穴画吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L773,english_events_bubbles.txt,773,bubble_going_caves2,polly,,"If we don't find them, we can make them.","如果我们不找到他们, 我们可以让他们。",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L774,english_events_bubbles.txt,774,bubble_going_caves2,polly,,Every painting's a cave painting if you paint in a cave!,每幅画都是洞穴画 如果你在洞穴里画的话!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L780,english_events_bubbles.txt,780,bubble_going_lake2,scott,,"Wait, what's the difference between a lake and a lagoon?","等等,湖和泻湖有什么区别?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L781,english_events_bubbles.txt,781,bubble_going_lake2,polly,,I think lagoons are just spooky-sounding lakes.,我认为环礁湖只是吓人的声音湖。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L787,english_events_bubbles.txt,787,bubble_going_lake3,scott,,"Wait, how do we know it's a lake and not a lagoon?","等等,我们怎么知道这是个湖 不是环礁湖?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L788,english_events_bubbles.txt,788,bubble_going_lake3,polly,,They'd better not try to fool us with one of those fake lakes!,他们最好别用假湖骗我们!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L794,english_events_bubbles.txt,794,bubble_going_picnic_spot,polly,,Did you bring the picnic basket?,你带了野餐篮吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L795,english_events_bubbles.txt,795,bubble_going_picnic_spot,scott,,Yup! And the picnic basketball too!,没错! 还有野餐篮球!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L801,english_events_bubbles.txt,801,bubble_going_graveyard2,scott,,Are you sure we won't disturb the dead?,你确定我们不会打扰死者吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L802,english_events_bubbles.txt,802,bubble_going_graveyard2,polly,,"Dead people love pranks, trust me!",死人喜欢恶作剧 相信我!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L808,english_events_bubbles.txt,808,bubble_going_planetarium3,scott,,Can't wait to see more planets!,等不及要看到更多的行星了!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L809,english_events_bubbles.txt,809,bubble_going_planetarium3,polly,,"Yeah, after a while, Earth just gets too... earthy.","是啊,过了一段时间,地球也... 土生土长.",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L815,english_events_bubbles.txt,815,bubble_going_monster_truck2,scott,,Finally some monster trucks!,终于有怪兽卡车了!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L816,english_events_bubbles.txt,816,bubble_going_monster_truck2,polly,,"Wouldn't they just be ""trucks"" in the Monster Realm...?","难道他们不是怪物王国里的""卡车""?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L822,english_events_bubbles.txt,822,bubble_going_casino3,scott,,"Now, Polly, let's be careful with our money.",现在 波莉让我们小心我们的钱。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L823,english_events_bubbles.txt,823,bubble_going_casino3,polly,,I'll bet you anything that I'm more careful than you!,"我敢打赌,我比你更小心!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L829,english_events_bubbles.txt,829,bubble_going_casino4,polly,,"Woohoo, time for some roulette!","呜呼,该轮盘了!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L830,english_events_bubbles.txt,830,bubble_going_casino4,scott,,I prefer blackjack; I know at least a few numbers below 21!,"我更喜欢21分,我知道至少21分以下的几个数字!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L836,english_events_bubbles.txt,836,bubble_going_larp,polly,,"Not my favorite kind of roleplay, but sure!","不是我喜欢的角色扮演,但肯定的!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L842,english_events_bubbles.txt,842,bubble_going_movieset,polly,,We might meet a movie star!,我们可能会遇到一个电影明星!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L843,english_events_bubbles.txt,843,bubble_going_movieset,scott,,"Whoa, I'd love to meet Old Yeller!","哇,我很想见见""老叶勒""!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L849,english_events_bubbles.txt,849,bubble_going_space_station2,polly,,"Finally, a chance to get LITERALLY high!","最后,一个机会 得到利特利高!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L855,english_events_bubbles.txt,855,bubble_going_space_station3,scott,,"A space station? Like a gas station, but for space?","空间站? 像加油站,但为了空间?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L856,english_events_bubbles.txt,856,bubble_going_space_station3,scott,,Does our car need more space? Is our car shrinking?!,我们的车需要更多的空间吗? 我们的车在缩小吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L857,english_events_bubbles.txt,857,bubble_going_space_station3,polly,,"Scott, that's not what... never mind.",斯科特这不是什么... 没关系。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L863,english_events_bubbles.txt,863,bubble_going_lab,scott,,"But if it's a secret lab, how do we know where it is?",但是如果这是个秘密实验室 我们怎么知道它在哪里?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L869,english_events_bubbles.txt,869,bubble_going_lab2,scott,,A secret lab? It's a lab that makes... secrets?!,"秘密实验室? 这是一个实验室,它使... 秘密吗?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L875,english_events_bubbles.txt,875,bubble_going_weird_factory,scott,,"Polly, if factories make stuff, where do they make factories?","波莉如果工厂制造的东西, 他们在哪里制造的工厂?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L876,english_events_bubbles.txt,876,bubble_going_weird_factory,polly,,"That's a pretty good question, Scott.",问得好 斯科特.,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L882,english_events_bubbles.txt,882,bubble_going_wedding,scott,,I didn't know you liked weddings!,我不知道你喜欢婚礼!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L883,english_events_bubbles.txt,883,bubble_going_wedding,polly,,"It's not the wedding, Scott: it's the wedding PARTY!","这不是婚礼, 斯科特这是婚礼派对!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L889,english_events_bubbles.txt,889,bubble_going_road_warriors,scott,,"What does ""post-alpacalyptic"" mean?","""催眠后""是什么意思?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L895,english_events_bubbles.txt,895,bubble_going_road_warriors2,scott,,A post-apocalyptic settlement?,危机后和解?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L896,english_events_bubbles.txt,896,bubble_going_road_warriors2,scott,,"Dang, I must have been napping for a long time!","糟了,我一定睡了很久了!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L902,english_events_bubbles.txt,902,bubble_going_biz_summit2,scott,,"Whoa, a business summit!","哇,一个商业峰会!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L903,english_events_bubbles.txt,903,bubble_going_biz_summit2,polly,,"We can finally get some funding for Prank Masterz, Inc.!",我们终于能为恶作剧马斯特兹公司争取到一些资金了!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L909,english_events_bubbles.txt,909,bubble_going_con2,polly,,"I hope you like hanging around fans, Scott!",我希望你喜欢在粉丝身边闲逛 斯科特!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L910,english_events_bubbles.txt,910,bubble_going_con2,scott,,Sure! I love fresh air!,当然! 我喜欢新鲜空气!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L916,english_events_bubbles.txt,916,bubble_going_battle_royale3,scott,,Is battle royale a sport?,皇家战场是运动吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L917,english_events_bubbles.txt,917,bubble_going_battle_royale3,polly,,"Well, it's a bit like dodgeball, but there's bullets instead of balls.","嗯,这有点像躲避球, 但有子弹而不是球。",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L918,english_events_bubbles.txt,918,bubble_going_battle_royale3,scott,,Aw... I like balls...,哦... 我喜欢球...,machine,Argos en_zh 1.9; requires review; sanitized
+english_events_bubbles:L924,english_events_bubbles.txt,924,bubble_going_city_90s3,polly,,"Ahh, back to the olden days before the XXIst century!","啊,回到二十一世纪前的旧时代!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L925,english_events_bubbles.txt,925,bubble_going_city_90s3,scott,,When computers were huge and explosions were... also huge!,当电脑大而爆炸时... 还有大块头!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L931,english_events_bubbles.txt,931,bubble_going_prison3,scott,,Oh no! Did we do something wrong?,"哦,不,不,不,不,不,不。 我们做错什么了吗?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L932,english_events_bubbles.txt,932,bubble_going_prison3,polly,,"Don't worry Scott, we're just visiting.",别担心 斯科特我们只是来拜访一下,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L938,english_events_bubbles.txt,938,bubble_going_dungeon3,polly,,"Oooh, kinky!","哦,恶心!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L944,english_events_bubbles.txt,944,bubble_going_cult_place2,polly,,Be careful Scott: they will do anything to recruit you.,小心点 斯科特他们会不择手段地招募你,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L945,english_events_bubbles.txt,945,bubble_going_cult_place2,scott,,"Don't worry, I'll always be loyal to my team!","别担心,我永远忠于我的团队!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L951,english_events_bubbles.txt,951,bubble_going_gift_shop2,scott,,"Oooh, I can finally buy you guys gifts!","哦,我终于可以给你们买礼物了!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L952,english_events_bubbles.txt,952,bubble_going_gift_shop2,polly,,"Uhhhh, not sure if THIS gift shop is the best place for that...","呃,不知道这家礼品店是不是最好的...",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L958,english_events_bubbles.txt,958,bubble_going_mirage2,polly,,"Does everyone else see what I see, or am I tripping?","其他人看到我看到什么, 还是我在绊倒?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L959,english_events_bubbles.txt,959,bubble_going_mirage2,scott,,Both?,两者?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L960,english_events_bubbles.txt,960,bubble_going_mirage2,polly,,"Yeah, that makes sense.","是啊,这是有道理的。",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L966,english_events_bubbles.txt,966,bubble_leaving_motel1,polly,,"Ugh, my mattress was so lumpy...","呃,我的床垫太肿了...",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L967,english_events_bubbles.txt,967,bubble_leaving_motel1,scott,,"Wait, you guys got mattresses?","等等,你们有床垫吗?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L973,english_events_bubbles.txt,973,bubble_leaving_motel2,polly,,Did you remember to tip the doorman?,你记得给门卫小费吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L974,english_events_bubbles.txt,974,bubble_leaving_motel2,scott,,"Yeah, I gave him a tip:","是的,我给了他一个小费:",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L975,english_events_bubbles.txt,975,bubble_leaving_motel2,scott,,"""Be the best doorman you can be!""","""做你最好的门卫!""",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L981,english_events_bubbles.txt,981,bubble_leaving_motel3,polly,,"Scott, I can't believe you clogged the drain.",斯科特我不敢相信你把排水沟堵了,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L982,english_events_bubbles.txt,982,bubble_leaving_motel3,scott,,Sorry... shedding season...,对不起... 谢丁季节...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L988,english_events_bubbles.txt,988,bubble_leaving_gas_hitech,scott,,That was some hi-tech fuel...,那是一些高科技燃料...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L989,english_events_bubbles.txt,989,bubble_leaving_gas_hitech,scott,,I wonder if it'll turn our car into technology!,不知道它会不会把我们的车变成技术!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L990,english_events_bubbles.txt,990,bubble_leaving_gas_hitech,polly,,Our car is already... never mind.,我们的车已经... 没关系。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L996,english_events_bubbles.txt,996,bubble_leaving_diner_doom,polly,,"The real ""curse"" of that diner was the nasty restroom.","那家餐厅真正的""诅咒""就是下流的洗手间",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L997,english_events_bubbles.txt,997,bubble_leaving_diner_doom,polly,,Yuck.,恶心。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1003,english_events_bubbles.txt,1003,bubble_leaving_landmark_potato,scott,,They wouldn't let me take a bite of the potato...,他们不让我吃一口土豆...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1004,english_events_bubbles.txt,1004,bubble_leaving_landmark_potato,polly,,"Maybe next time, buddy.","也许下一次,伙计。",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1010,english_events_bubbles.txt,1010,bubble_leaving_ranch2,scott,,There were so many horsies!,有这么多的蜂巢!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1011,english_events_bubbles.txt,1011,bubble_leaving_ranch2,polly,,Indeed. There were a LOT of horsies.,确实如此 有一大堆的热心。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1017,english_events_bubbles.txt,1017,bubble_leaving_rave,polly,,THAT. WAS. SO. FUN.,那个。 曾经是。 所以说。 乐趣。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1018,english_events_bubbles.txt,1018,bubble_leaving_rave,scott,,I! CAN'T! HEAR! YOU!,我来了! 不能这样! 听见了! 你个!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1024,english_events_bubbles.txt,1024,bubble_leaving_motel_fancy,scott,,That place sure was fancy!,那个地方真的很棒!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1025,english_events_bubbles.txt,1025,bubble_leaving_motel_fancy,scott,,The bathrooms even had free candy!,洗手间甚至有免费糖果!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1026,english_events_bubbles.txt,1026,bubble_leaving_motel_fancy,polly,,Those were decorative soaps...,这些是装饰性的肥皂...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1032,english_events_bubbles.txt,1032,bubble_leaving_shady_property,scott,,That Jerry guy sure seemed nice!,那个Jerry看起来不错!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1033,english_events_bubbles.txt,1033,bubble_leaving_shady_property,scott,,And he knew SO MUCH about chainsaws!,他对铁锯很了解!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1039,english_events_bubbles.txt,1039,bubble_leaving_art_exhibition,scott,,Polly... I don't think I get art.,波莉... 我不认为我得到艺术。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1040,english_events_bubbles.txt,1040,bubble_leaving_art_exhibition,polly,,It's okay. Nobody does.,没关系。 没有人知道。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1046,english_events_bubbles.txt,1046,bubble_leaving_circus,scott,,"How much did the ringmaster pay us, Polly?",掌门人给了我们多少钱? 波莉?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1047,english_events_bubbles.txt,1047,bubble_leaving_circus,polly,,Not enough.,不够。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1053,english_events_bubbles.txt,1053,bubble_leaving_circus2,scott,,That was fun!,这很有趣!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1054,english_events_bubbles.txt,1054,bubble_leaving_circus2,scott,,"We should clown together more often, bros!","我们应该经常一起玩玩,兄弟们!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1060,english_events_bubbles.txt,1060,bubble_leaving_gas_basic,polly,,"Why do monster cars run on magic, anyway?","怪兽车为什么跑 魔法,反正?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1061,english_events_bubbles.txt,1061,bubble_leaving_gas_basic,scott,,A wizard did it.,一个巫师做到了。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1062,english_events_bubbles.txt,1062,bubble_leaving_gas_basic,polly,,Ah.,啊。,reviewed,human override
+english_events_bubbles:L1068,english_events_bubbles.txt,1068,bubble_leaving_landmark_hole,scott,,Byyyye hole!,拜伊耶洞 拜伊耶洞 拜伊耶洞 拜伊耶洞,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1069,english_events_bubbles.txt,1069,bubble_leaving_landmark_hole,scott,,I wish I could've gone inside you!,我真希望我能进你体内去!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1075,english_events_bubbles.txt,1075,bubble_leaving_landmark_wedding,scott,,Love is so beautiful...,爱是如此美丽...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1076,english_events_bubbles.txt,1076,bubble_leaving_landmark_wedding,polly,,And so is chaos!,混乱也一样!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1082,english_events_bubbles.txt,1082,bubble_leaving_biker_bar,scott,,I liked everyone's leather jackets!,我喜欢每个人的皮夹克!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1083,english_events_bubbles.txt,1083,bubble_leaving_biker_bar,scott,,"Can we get matching jackets, bros?","我们可以得到匹配的夹克,兄弟们?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1089,english_events_bubbles.txt,1089,bubble_leaving_graveyard,polly,,That was a nice graveyard.,这是一个不错的墓地。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1090,english_events_bubbles.txt,1090,bubble_leaving_graveyard,polly,,Almost made me homesick.,差点让我想家了,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1096,english_events_bubbles.txt,1096,bubble_leaving_village_west,polly,,That town wasn't big enough for all of us.,"那个镇子不够大,对我们所有人来说。",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1102,english_events_bubbles.txt,1102,bubble_leaving_space_station,scott,,That was so cool!,这太酷了!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1103,english_events_bubbles.txt,1103,bubble_leaving_space_station,scott,,"Can we go to space, Polly?",我们可以去太空吗? 波莉?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1104,english_events_bubbles.txt,1104,bubble_leaving_space_station,polly,,Maybe next road trip.,也许下一次的公路旅行。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1110,english_events_bubbles.txt,1110,bubble_leaving_landmark_foot,scott,,That was fun!,这很有趣!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1111,english_events_bubbles.txt,1111,bubble_leaving_landmark_foot,scott,,I hope we see more desert body parts.,我希望我们能看到更多的沙漠身体部位。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1117,english_events_bubbles.txt,1117,bubble_leaving_village_charming,scott,,That village was so nice.,那个村子太美了,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1118,english_events_bubbles.txt,1118,bubble_leaving_village_charming,scott,,"Let's get a house there, Polly!",我们在那里买个房子 波莉!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1119,english_events_bubbles.txt,1119,bubble_leaving_village_charming,polly,,Eh... pass.,额... 过.,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1125,english_events_bubbles.txt,1125,bubble_leaving_village_kaiju,polly,,Kaiju? More like BYE-ju!,开州? 更像是拜珠! 拜珠! 拜珠!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1126,english_events_bubbles.txt,1126,bubble_leaving_village_kaiju,scott,,Haha! I get it!,哈哈! 哈哈! 哈哈! 哈哈! 我懂了! 说吧! I get it!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1132,english_events_bubbles.txt,1132,bubble_leaving_movie_set,scott,,"What was that movie even about, Polly?",那部电影到底是为了什么? 波莉?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1133,english_events_bubbles.txt,1133,bubble_leaving_movie_set,polly,,Who knows?,谁知道呢?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1139,english_events_bubbles.txt,1139,bubble_leaving_spa,polly,,That was so relaxing...,这太放松了...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1140,english_events_bubbles.txt,1140,bubble_leaving_spa,polly,,I'm refreshed and ready for CHAOS!,我准备好了CHAOS!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1146,english_events_bubbles.txt,1146,bubble_leaving_merkingdom_outpost,scott,,That was fun!,这很有趣!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1147,english_events_bubbles.txt,1147,bubble_leaving_merkingdom_outpost,scott,,"Can we live in the Merkingdom, Polly?",我们能住在默金多姆吗? 波莉?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1148,english_events_bubbles.txt,1148,bubble_leaving_merkingdom_outpost,polly,,Absolutely not.,绝对不是。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1154,english_events_bubbles.txt,1154,bubble_leaving_farm,scott,,Byyyye cows!,拜伊耶奶牛! 拜伊耶奶牛!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1160,english_events_bubbles.txt,1160,bubble_leaving_village_abandoned,scott,,I hope that village finds its people soon.,我希望那个村庄能很快找到它的人民。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1161,english_events_bubbles.txt,1161,bubble_leaving_village_abandoned,scott,,It must be lonely...,一定很孤独...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1167,english_events_bubbles.txt,1167,bubble_leaving_gift_shop,scott,,Look what I bought!,看我买了什么!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1168,english_events_bubbles.txt,1168,bubble_leaving_gift_shop,polly,,Nice! What is it?,不错! 这是什么?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1169,english_events_bubbles.txt,1169,bubble_leaving_gift_shop,scott,,Uh... I was hoping you'd know...,额... 我希望你会知道...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1175,english_events_bubbles.txt,1175,bubble_leaving_national_park,polly,,"Ugh, I got dirt on my shoes.","呃,我的鞋子上沾了脏东西。",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1176,english_events_bubbles.txt,1176,bubble_leaving_national_park,polly,,This is why I prefer floating.,所以我更喜欢漂浮,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1182,english_events_bubbles.txt,1182,bubble_leaving_monster_truck,scott,,"Can we get a monster truck, Polly?",我们能买辆怪兽卡车吗? 波莉?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1183,english_events_bubbles.txt,1183,bubble_leaving_monster_truck,polly,,Nah. They get terrible gas mileage.,没有。 他们得到可怕的汽油里程。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1189,english_events_bubbles.txt,1189,bubble_leaving_cult_place,polly,,What a lame cult...,多么无聊的邪教...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1190,english_events_bubbles.txt,1190,bubble_leaving_cult_place,polly,,Definitely subpar ritual orgies.,绝对是次于仪式的狂欢,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1196,english_events_bubbles.txt,1196,bubble_leaving_weird_factory,scott,,"Can we build a factory, Polly?",我们可以建个工厂吗? 波莉?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1197,english_events_bubbles.txt,1197,bubble_leaving_weird_factory,polly,,What would we make?,我们能赚多少?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1198,english_events_bubbles.txt,1198,bubble_leaving_weird_factory,scott,,Hmmm... I'm good at making friends!,那个... 我擅长交朋友!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1204,english_events_bubbles.txt,1204,bubble_leaving_mirage,scott,,Was that place even real?,那地方是真的吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1205,english_events_bubbles.txt,1205,bubble_leaving_mirage,polly,,Probably not.,可能不会。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1206,english_events_bubbles.txt,1206,bubble_leaving_mirage,scott,,...Cool!,凉爽!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1212,english_events_bubbles.txt,1212,bubble_leaving_dungeon,polly,,"Dungeon? More like FUN-geon, amirite?","敦煌(? 更像FUN -GEON,闪电?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1213,english_events_bubbles.txt,1213,bubble_leaving_dungeon,scott,,...I don't get it.,...我不明白这一点。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1219,english_events_bubbles.txt,1219,bubble_leaving_battle_royale,scott,,I can't believe we made it out of there!,真不敢相信我们逃出来了!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1220,english_events_bubbles.txt,1220,bubble_leaving_battle_royale,scott,,It's good to be alive.,活活活的不错.,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1221,english_events_bubbles.txt,1221,bubble_leaving_battle_royale,polly,,RUDE!,鲁德!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1227,english_events_bubbles.txt,1227,bubble_leaving_city_90s,polly,,At least it wasn't a 60s city.,至少它不是一个60多岁的城市。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1228,english_events_bubbles.txt,1228,bubble_leaving_city_90s,polly,,Too much asbestos...,太多的石棉...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1234,english_events_bubbles.txt,1234,bubble_leaving_prison,polly,,YAAASSS! PRISON BREAK!,亚亚西斯! 监狱的裂缝!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1240,english_events_bubbles.txt,1240,bubble_leaving_border,scott,,I can't believe we went to Europe!,真不敢相信我们去了欧洲!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1241,english_events_bubbles.txt,1241,bubble_leaving_border,scott,,I'm so well-traveled now!,我现在好舒服啊!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1247,english_events_bubbles.txt,1247,bubble_liam1,liam,,Should I recite some poetry to raise morale?,我应该背诵一些诗歌来提高士气吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1248,english_events_bubbles.txt,1248,bubble_liam1,polly,,No.,没有。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1254,english_events_bubbles.txt,1254,bubble_liam2,liam,,Look at the sunset! It's beautiful!,看看夕阳! 美极了! 美极了! 美极了 美极了!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1255,english_events_bubbles.txt,1255,bubble_liam2,liam,,Can we pull over so I can paint an oil of it?,我们能靠边停车让我画出油吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1256,english_events_bubbles.txt,1256,bubble_liam2,polly,,No.,没有。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1262,english_events_bubbles.txt,1262,bubble_liam3,liam,,I've been thinking... should I go blonde?,我一直在考虑... 我应该去金发?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1263,english_events_bubbles.txt,1263,bubble_liam3,polly,,No.,没有。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1269,english_events_bubbles.txt,1269,bubble_liam4,liam,,This trip would be better if we all learned to play the flute.,"如果我们都学会吹笛子,这次旅行会更好。",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1270,english_events_bubbles.txt,1270,bubble_liam4,polly,,No.,没有。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1276,english_events_bubbles.txt,1276,bubble_damien1,polly,,"Damien, stop trying to set the car on fire.",达米恩别再放火烧了,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1277,english_events_bubbles.txt,1277,bubble_damien1,damien,,"Polly, stop being a BUZZKILL.",波莉停止作为一个BUZZKIL。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1283,english_events_bubbles.txt,1283,bubble_damien2,polly,,"Damien, stop stabbing the car.",达米恩停止刺伤汽车。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1284,english_events_bubbles.txt,1284,bubble_damien2,damien,,What is this? A dictatorship on wheels?,这是什么? 轮子上的独裁统治?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1290,english_events_bubbles.txt,1290,bubble_damien3,polly,,Damien... what did you just throw out of the car?,达米恩... 你刚从车里扔出什么了?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1291,english_events_bubbles.txt,1291,bubble_damien3,damien,,...Nothing.,...没什么,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1297,english_events_bubbles.txt,1297,bubble_damien4,scott,,"Oof, the sun is hitting hard today, isn't it, bros?","哦,太阳今天很重,不是吗,兄弟们?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1298,english_events_bubbles.txt,1298,bubble_damien4,damien,,"Yeah, fuckin' sun... someone should hit it back.","是啊,他妈的'太阳... 应该有人回击它。",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1304,english_events_bubbles.txt,1304,bubble_damien5,scott,,Do you hear something in the trunk?,你在后备箱里听到什么了吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1305,english_events_bubbles.txt,1305,bubble_damien5,damien,,Don't worry about it.,何等为相.,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1311,english_events_bubbles.txt,1311,bubble_vera1,vera,,"Scott, stop feeding my snakes.",斯科特别再喂我的蛇了,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1312,english_events_bubbles.txt,1312,bubble_vera1,vera,,They shouldn't snack between meals.,他们不应该在吃饭之间吃零食。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1318,english_events_bubbles.txt,1318,bubble_vera2,vera,,How did you guys afford this car?,你们怎么买得起这辆车的?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1319,english_events_bubbles.txt,1319,bubble_vera2,polly,,Who knows?,谁知道呢?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1325,english_events_bubbles.txt,1325,bubble_vera3,vera,,How did you guys afford this car?,你们怎么买得起这辆车的?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1326,english_events_bubbles.txt,1326,bubble_vera3,polly,,Prank budget.,恶作剧的预算。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1327,english_events_bubbles.txt,1327,bubble_vera3,vera,,...What?,什麽?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1333,english_events_bubbles.txt,1333,bubble_vera4,vera,,Can we put the top up? It's hot in here.,我们能把顶上吗? 这里很热。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1334,english_events_bubbles.txt,1334,bubble_vera4,polly,,Are you sure it's not just me? Wink!,你确定不只是我一个人吗? 温克!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1340,english_events_bubbles.txt,1340,bubble_vera5,vera,,...and that's my dream apartment. What about you guys?,...这是我的梦想公寓。 你们呢?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1341,english_events_bubbles.txt,1341,bubble_vera5,scott,,I'm thinking about moving into this car!,我想搬进这辆车!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1342,english_events_bubbles.txt,1342,bubble_vera5,polly,,Ooooh... wanna be roommates?,"哦,呜... 想做室友吗?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1348,english_events_bubbles.txt,1348,bubble_miranda1,miranda,,"Look, Scott! I made up a new silly dance!","听着, 斯科特! 我编了个愚蠢的新舞!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1349,english_events_bubbles.txt,1349,bubble_miranda1,polly,,"Scott is driving, Miri!","斯科特 开车了,米莉!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1355,english_events_bubbles.txt,1355,bubble_miranda2,miranda,,Look! Look! I drew a picture of all of us!,听着! 听着! 我画了一张我们所有人的照片!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1356,english_events_bubbles.txt,1356,bubble_miranda2,polly,,"Don't put the drawing in front of the driver, goddammit!","别把画放在司机面前,该死!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1362,english_events_bubbles.txt,1362,bubble_miranda3,miranda,,"...and thus, the real reason we don't speak of the fifth Vanderbilt sister is:","...因此,我们不谈论第五名范德比尔特妹妹的真正原因是:",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1363,english_events_bubbles.txt,1363,bubble_miranda3,polly,,"Miri, don't distract the driver.","米莉,别分散司机的注意力",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1369,english_events_bubbles.txt,1369,bubble_miranda4,miranda,,"Scott, can you comb my hair, pretty please?",斯科特你能帮我梳一梳头发吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1370,english_events_bubbles.txt,1370,bubble_miranda4,polly,,"Scott is driving, Miri...","斯科特 开车了,米莉...",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1371,english_events_bubbles.txt,1371,bubble_miranda4,miranda,,...So?,怎么样?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1377,english_events_bubbles.txt,1377,bubble_miranda5,miranda,,Where is the car's toilet?,车的厕所呢?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1378,english_events_bubbles.txt,1378,bubble_miranda5,polly,,...It doesn't have one?,它没有吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1384,english_events_bubbles.txt,1384,bubble_miranda6,miranda,,I HAVE AN EMERGENCY!,我有一个紧急情况!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1385,english_events_bubbles.txt,1385,bubble_miranda6,polly,,WHAT?!,什麽?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1386,english_events_bubbles.txt,1386,bubble_miranda6,miranda,,Nobody has complimented me today!,今天没人恭维我!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1392,english_events_bubbles.txt,1392,bubble_miranda7,miranda,,...and that's every type of oyster spoon!,...这是所有种类的牡蛎汤匙!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1393,english_events_bubbles.txt,1393,bubble_miranda7,scott,,"You just blew my mind, bro.","你让我心碎了,兄弟。",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1399,english_events_bubbles.txt,1399,bubble_miranda8,miranda,,"What's your favorite eating utensil, Scott?",你最喜欢吃什么餐具? 斯科特?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1400,english_events_bubbles.txt,1400,bubble_miranda8,scott,,My mouth!,我的嘴! 我的嘴! 我的嘴! 我的嘴! 我的嘴! 我的嘴!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1406,english_events_bubbles.txt,1406,bubble_aaravi1,aaravi,,Are we there yet?,我们到了吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1407,english_events_bubbles.txt,1407,bubble_aaravi1,aaravi,,...I knew I should've fast-traveled.,我知道我应该快速旅行。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1413,english_events_bubbles.txt,1413,bubble_aaravi2,polly,,"I like your nail polish, Aaravi.",我喜欢你的指甲油 阿拉薇.,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1414,english_events_bubbles.txt,1414,bubble_aaravi2,aaravi,,Thanks! It's cockatrice blood.,谢谢! 这是公鸡出血。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1415,english_events_bubbles.txt,1415,bubble_aaravi2,polly,,Chic!,齐克!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1421,english_events_bubbles.txt,1421,bubble_aaravi3,aaravi,,When do we get to the final boss?,我们什么时候才能找到最后的老板?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1422,english_events_bubbles.txt,1422,bubble_aaravi3,polly,,You mean... the destination?,你是说... 目的地吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1428,english_events_bubbles.txt,1428,bubble_aaravi4,aaravi,,We've been grinding this road for forever...,这条路已经磨了很久了,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1429,english_events_bubbles.txt,1429,bubble_aaravi4,polly,,"...Normal people call that ""driving"", Aaravi.","普通人称之为""驾车"", 阿拉薇.",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1435,english_events_bubbles.txt,1435,bubble_aaravi5,scott,,"Aaravi, where's Hex?",阿拉薇海克丝呢?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1436,english_events_bubbles.txt,1436,bubble_aaravi5,aaravi,,Being somebody else's problem.,成为别人的问题。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1442,english_events_bubbles.txt,1442,bubble_joy2,scott,,"What's this potion do, Joy?","这药是做什么的,乔伊?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1443,english_events_bubbles.txt,1443,bubble_joy2,joy,,Don't drink it!,别喝!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1444,english_events_bubbles.txt,1444,bubble_joy2,polly,,Ha! Too late!,太迟了!,machine,Argos en_zh 1.9; requires review; sanitized
+english_events_bubbles:L1450,english_events_bubbles.txt,1450,bubble_joy3,polly,,"Joy, will you teach me magic?","乔伊,你会教我魔法吗?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1451,english_events_bubbles.txt,1451,bubble_joy3,joy,,Absolutely not.,绝对不是。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1452,english_events_bubbles.txt,1452,bubble_joy3,polly,,Meh.,唉哟!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1458,english_events_bubbles.txt,1458,bubble_joy4,scott,,"What magic language are you reading, Joy?","你在读什么魔法语言,乔伊?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1459,english_events_bubbles.txt,1459,bubble_joy4,joy,,...This is Japanese.,这是日本人,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1465,english_events_bubbles.txt,1465,bubble_joy5,scott,,"What song are you listening to, Joy?","你在听什么歌,乔伊?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1466,english_events_bubbles.txt,1466,bubble_joy5,joy,,Ancient Gregorian chanting.,古老的格里高利语口号。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1467,english_events_bubbles.txt,1467,bubble_joy5,scott,,Cool!,凉爽!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1473,english_events_bubbles.txt,1473,bubble_calculester1,calculester,,"<IN 500 FEET, TURN RIGHT>","<IN 500 FEET, TURN RIGHT>",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1474,english_events_bubbles.txt,1474,bubble_calculester1,calculester,,...Why did I say that?,我为什么这么说?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1480,english_events_bubbles.txt,1480,bubble_calculester2,calculester,,"Friend Polly, may I charge my battery?",朋友们 波莉我可以充电吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1481,english_events_bubbles.txt,1481,bubble_calculester2,polly,,But my phone's at 13%!,但我的电话是13%!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1482,english_events_bubbles.txt,1482,bubble_calculester2,calculester,,Okay...,"好吧,我说...",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1488,english_events_bubbles.txt,1488,bubble_calculester3,calculester,,"Friend Scott, what does ""sleep"" feel like?","朋友们 斯科特""睡觉""是什么感觉?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1489,english_events_bubbles.txt,1489,bubble_calculester3,scott,,Zzz...,兹兹...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1490,english_events_bubbles.txt,1490,bubble_calculester3,calculester,,Fascinating.,异相相取见.,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1496,english_events_bubbles.txt,1496,bubble_calculester4,calculester,,Look! That is my favorite cactus!,听着! 这是我最喜欢的仙人掌!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1497,english_events_bubbles.txt,1497,bubble_calculester4,polly,,You say that about every cactus.,你说的每个仙人掌。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1498,english_events_bubbles.txt,1498,bubble_calculester4,calculester,,Can they not all be my favorite?,难道他们不都是我最喜欢的吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1504,english_events_bubbles.txt,1504,bubble_calculester5,calculester,,May I please have the aux?,能给我那台Aux吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1505,english_events_bubbles.txt,1505,bubble_calculester5,calculester,,"I would like to listen to ""human music.""","我想听""人类音乐""",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1511,english_events_bubbles.txt,1511,bubble_calculester6,scott,,"Can you tell me a funny story, Cal?","你能告诉我一个有趣的故事吗,卡尔?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1512,english_events_bubbles.txt,1512,bubble_calculester6,calculester,,I can try...,我可以试试...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1513,english_events_bubbles.txt,1513,bubble_calculester6,calculester,,<RETRIEVING AI_GENERATED_FUNNY_STORY_01001000_01000001>...,<RETRIEVING AI_GENERATED_FUNNY_STORY_01001000_01000001>...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1519,english_events_bubbles.txt,1519,bubble_milo1,milo,,"Take a selfie with me, Scott!",跟我来个自拍 斯科特!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1520,english_events_bubbles.txt,1520,bubble_milo1,polly,,Not while he's driving!,在他开车的时候不行!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1526,english_events_bubbles.txt,1526,bubble_milo2,scott,,What a pretty sunset!,多么美丽的日出!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1527,english_events_bubbles.txt,1527,bubble_milo2,milo,,"If you think about it, sunsets are just the influencers of the sky.","如果考虑一下,日出只是天上的影响.",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1528,english_events_bubbles.txt,1528,bubble_milo2,scott,,Whoa... deep.,珃... 深相会.,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1534,english_events_bubbles.txt,1534,bubble_milo3,scott,,Oh no! I almost hit that possum!,"哦,不,不,不,不,不,不。 我差点撞到负鼠!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1535,english_events_bubbles.txt,1535,bubble_milo3,milo,,"Don't worry, it wasn't its time.","别担心,现在不是时间。",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1541,english_events_bubbles.txt,1541,bubble_milo4,milo,,"Remember, darlings: always keep moving forward!","记住,亲爱的,永远向前走!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1542,english_events_bubbles.txt,1542,bubble_milo4,scott,,But... I have to turn here...,不过... 我必须在这里转弯... ...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1548,english_events_bubbles.txt,1548,bubble_mothman1,mothman,,You'll never believe what I heard about that cactus...,你绝对不会相信我听说的仙人掌的事...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1554,english_events_bubbles.txt,1554,bubble_mothman2,scott,,"Look, horses!","看,马!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1555,english_events_bubbles.txt,1555,bubble_mothman2,mothman,,You'll never believe what I heard about those horses...,你永远不会相信 我听到的关于这些马...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1561,english_events_bubbles.txt,1561,bubble_mothman3,mothman,,I'M IN LOVE WITH THAT STREET LIGHT.,我爱上了 与街上光线。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1562,english_events_bubbles.txt,1562,bubble_mothman3,polly,,You say that about every street light.,你说的每道路灯。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1563,english_events_bubbles.txt,1563,bubble_mothman3,mothman,,Don't judge me.,别评判我,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1569,english_events_bubbles.txt,1569,bubble_mothman4,scott,,"Tell me a spooky story, Moss!","告诉我一个恐怖的故事,莫斯!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1570,english_events_bubbles.txt,1570,bubble_mothman4,mothman,,"Okay, this one's called...","好吧,这个叫...",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1571,english_events_bubbles.txt,1571,bubble_mothman4,mothman,,MAN DOOR HAND HOOK CAR DOOR.,男人的门韩霍克车门。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1577,english_events_bubbles.txt,1577,bubble_mothman5,mothman,,...BUT WHO WAS PHONE?!,...谁在电话里?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1578,english_events_bubbles.txt,1578,bubble_mothman5,scott,,"Whoa, Moss... that story sure was creepy...","哇,摩斯... 那个故事很恐怖...",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1584,english_events_bubbles.txt,1584,bubble_stu1,stu,,"Polly, wanna ""puff puff pass?""","波莉想要""泡泡传""吗?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1585,english_events_bubbles.txt,1585,bubble_stu1,scott,,Is that a football move?,那是橄榄球运动吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1586,english_events_bubbles.txt,1586,bubble_stu1,stu,,...Nah.,...没有。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1592,english_events_bubbles.txt,1592,bubble_stu2,stu,,Can we pick up some Mary Jane?,我们可以拿一些玛丽简?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1593,english_events_bubbles.txt,1593,bubble_stu2,scott,,Is she a friend of yours?,她是你的朋友吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1594,english_events_bubbles.txt,1594,bubble_stu2,stu,,Heh... you could say that.,哦... 你可以这么说。,machine,Argos en_zh 1.9; requires review; sanitized
+english_events_bubbles:L1600,english_events_bubbles.txt,1600,bubble_stu3,stu,,Shit... I'm late for my lifeguard shift.,妈的... 救生员轮班要迟到了,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1606,english_events_bubbles.txt,1606,bubble_stu4,scott,,"Whoa, look at that pretty cathedral!","哇,看看那个漂亮的大教堂!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1607,english_events_bubbles.txt,1607,bubble_stu4,stu,,My gramps used to work at one like that.,我的外公曾经在这样的一个工作。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1613,english_events_bubbles.txt,1613,bubble_stu5,stu,,Shit... I'm late for my shift at the laundromat again.,妈的... 我又在洗衣店上班迟到了,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1614,english_events_bubbles.txt,1614,bubble_stu5,polly,,How do you still have a job?,你怎么还有工作?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1615,english_events_bubbles.txt,1615,bubble_stu5,stu,,Beats me.,难怪我,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1621,english_events_bubbles.txt,1621,bubble_valerie1,scott,,"Can I touch this thingie, Valerie?","我能摸摸这个东西吗,瓦莱丽?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1622,english_events_bubbles.txt,1622,bubble_valerie1,valerie,,"You break it, you buy it.","你打破它,你买它。",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1628,english_events_bubbles.txt,1628,bubble_valerie2,scott,,"What's this thing, Valerie?","这是什么,瓦莱丽?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1629,english_events_bubbles.txt,1629,bubble_valerie2,valerie,,It costs five bucks to touch that.,碰那个要花五块钱,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1635,english_events_bubbles.txt,1635,bubble_valerie3,polly,,"You're a smart business owner, Val...","你是个聪明的老板,瓦尔...",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1636,english_events_bubbles.txt,1636,bubble_valerie3,polly,,"Wanna invest in Prank Masterz, Inc.?",想投资恶作剧马斯特兹股份有限公司吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1637,english_events_bubbles.txt,1637,bubble_valerie3,valerie,,Nah.,没有。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1643,english_events_bubbles.txt,1643,bubble_valerie4,scott,,Oops! I spilled my water...,哎哟! 我洒了个水...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1644,english_events_bubbles.txt,1644,bubble_valerie4,valerie,,HISS!,他的枪!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1650,english_events_bubbles.txt,1650,bubble_valerie5,scott,,"Want a PB&J sandwich, Valerie?","想要一个PB&J三明治吗,瓦莱丽?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1651,english_events_bubbles.txt,1651,bubble_valerie5,valerie,,Eh... got any tuna?,额... 有金枪鱼吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1657,english_events_bubbles.txt,1657,bubble_valerie6,polly,,"Ugh, who keeps shedding in the car?","唉,谁在车里不停地打草惊蛇?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1658,english_events_bubbles.txt,1658,bubble_valerie6,valerie,,Sorry...,对不起...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1659,english_events_bubbles.txt,1659,bubble_valerie6,scott,,Sorry...,对不起...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1665,english_events_bubbles.txt,1665,bubble_valerie7,valerie,,"Scott, quit using my shedding comb.",斯科特别再用我的梳子了,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1666,english_events_bubbles.txt,1666,bubble_valerie7,scott,,But it makes me feel so silky!,但它让我感觉如此丝绸!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1672,english_events_bubbles.txt,1672,bubble_zoe1,zoe,,Wanna rank all the Evangelion characters with me?,想把我所有福音人物排在一边吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1673,english_events_bubbles.txt,1673,bubble_zoe1,polly,,Nah.,没有。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1679,english_events_bubbles.txt,1679,bubble_zoe2,zoe,,Wanna rank every Same Direction fanfic on WhatPad with me?,要不要把每台同一方向的粉丝 都排到我身上?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1680,english_events_bubbles.txt,1680,bubble_zoe2,polly,,Nah.,没有。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1686,english_events_bubbles.txt,1686,bubble_zoe3,zoe,,Wanna rank every sex scene in Dragon Heat with me?,要不要把龙热的性爱场面都排好?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1687,english_events_bubbles.txt,1687,bubble_zoe3,polly,,...Yes.,对,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1693,english_events_bubbles.txt,1693,bubble_zoe4,scott,,"Zoe, wanna help me name all my muscles?",佐伊想帮我把肌肉都取名吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1694,english_events_bubbles.txt,1694,bubble_zoe4,zoe,,IT WOULD BE MY HONOR.,这将是我的荣誉。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1700,english_events_bubbles.txt,1700,bubble_zoe5,polly,,I love this song!,我喜欢这首歌!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1701,english_events_bubbles.txt,1701,bubble_zoe5,polly,,It's a cult classic.,邪教经典.,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1702,english_events_bubbles.txt,1702,bubble_zoe5,zoe,,OMG! Same!,欧玛! 一样!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1708,english_events_bubbles.txt,1708,bubble_zoe6,polly,,"Ha, look at this meme.","哈,看看这个meme。",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1709,english_events_bubbles.txt,1709,bubble_zoe6,zoe,,ASDFGHJKL;FSK;:',ASDFGHJKL;FSK;:',reviewed,human override
+english_events_bubbles:L1710,english_events_bubbles.txt,1710,bubble_zoe6,polly,,...Did you just keysmash aloud?,你刚才是高声按键吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1716,english_events_bubbles.txt,1716,bubble_zoe7,polly,,"Ha, look at this meme.","哈,看看这个meme。",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1717,english_events_bubbles.txt,1717,bubble_zoe7,zoe,,xD,备注:,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1718,english_events_bubbles.txt,1718,bubble_zoe7,polly,,...How did you vocalize an emoji?,...你是如何表达情感的?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1724,english_events_bubbles.txt,1724,bubble_yellow1,scott,,"Oz, can your little shadow-bros drive?",奥兹你的影子兄弟能开车吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1725,english_events_bubbles.txt,1725,bubble_yellow1,yellow,,Nah. They can't reach the pedals.,没有。 他们不能到达踏板。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1731,english_events_bubbles.txt,1731,bubble_yellow2,yellow,,Whoa! Am I speeding?!,呜呼! 我超速吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1732,english_events_bubbles.txt,1732,bubble_yellow2,polly,,"Oz, if you were driving any slower...",奥兹如果你开得慢的话...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1733,english_events_bubbles.txt,1733,bubble_yellow2,polly,,...the car would be technically parked.,...这辆车在技术上是停着的,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1739,english_events_bubbles.txt,1739,bubble_yellow3,polly,,"Oz, are you good?",奥兹没事吧?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1740,english_events_bubbles.txt,1740,bubble_yellow3,yellow,,Haha! Totally!,哈哈! 哈哈! 哈哈! 哈哈! 绝对!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1741,english_events_bubbles.txt,1741,bubble_yellow3,yellow,,I always sweat this much when I'm having fun...,我总是这么出汗 当我玩得开心的时候...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1747,english_events_bubbles.txt,1747,bubble_yellow4,yellow,,"Oh no, I missed my turn!","哦,不,我错过了我的轮到!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1748,english_events_bubbles.txt,1748,bubble_yellow4,yellow,,I hope the GPS isn't mad at me...,我希望GPS没有生我的气...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1754,english_events_bubbles.txt,1754,bubble_yellow5,yellow,,I love being a hitchhiker...,我喜欢搭便车...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1755,english_events_bubbles.txt,1755,bubble_yellow5,yellow,,...so much less pressure!,压力要小得多!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1761,english_events_bubbles.txt,1761,bubble_yellow6,yellow,,I think we're going over the speed limit!,我想我们要突破速度限制了!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1762,english_events_bubbles.txt,1762,bubble_yellow6,scott,,I'm pretty sure we're not.,"我敢肯定,我们不是。",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1763,english_events_bubbles.txt,1763,bubble_yellow6,yellow,,I meant MY speed limit...,"我的意思是,我的速度限制...",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1769,english_events_bubbles.txt,1769,bubble_yellow7,yellow,,I sometimes wonder if the car ever gets tired...,我有时会想这车会不会累了...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1770,english_events_bubbles.txt,1770,bubble_yellow7,yellow,,...like from all the driving and such.,...就像从所有驱动器之类的。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1771,english_events_bubbles.txt,1771,bubble_yellow7,polly,,"Oh, Ozzie boy...!",哦哦 奥兹帅哥...,machine,Argos en_zh 1.9; requires review; sanitized; sanitized
+english_events_bubbles:L1777,english_events_bubbles.txt,1777,bubble_yellow8,scott,,"Oz, you look strange... are you okay, bro?","奥兹你看起来很奇怪... 你没事吧,兄弟?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1778,english_events_bubbles.txt,1778,bubble_yellow8,yellow,,"Oh, Scott... I am never okay.",哦哦 斯科特... 我永远不会好起来的。,machine,Argos en_zh 1.9; requires review; sanitized; sanitized
+english_events_bubbles:L1779,english_events_bubbles.txt,1779,bubble_yellow8,yellow,,But... it's okay.,不过... 没关系。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1785,english_events_bubbles.txt,1785,bubble_yellow9,scott,,"You're really quiet, Oz! What are you thinking about?","你真的安静, 奥兹! 你在想什麽?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1786,english_events_bubbles.txt,1786,bubble_yellow9,yellow,,I'm owning my awkward silence.,我拥有我的尴尬的沉默。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1792,english_events_bubbles.txt,1792,bubble_red1,red,,This mixtape is FIRE!,这个混音带是FIRE!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1798,english_events_bubbles.txt,1798,bubble_red2,red,,Can this thing do a wheelie?!,这东西能做个轮子吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1799,english_events_bubbles.txt,1799,bubble_red2,polly,,No.,没有。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1800,english_events_bubbles.txt,1800,bubble_red2,red,,LET'S CHECK!,让我们检查一下!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1806,english_events_bubbles.txt,1806,bubble_red3,red,,So... are we winning or what?,所以说... 我们赢了还是什么?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1812,english_events_bubbles.txt,1812,bubble_red4,scott,,"Oof, I ate too many Scott Snacks...","哦,我吃太多东西了 斯科特 草纸...",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1813,english_events_bubbles.txt,1813,bubble_red4,red,,I BET I CAN EAT EVEN MORE!,"我敢打赌,我可以吃甚至更多!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1819,english_events_bubbles.txt,1819,bubble_red5,scott,,"Wow, what a pretty mountain!","哇,多漂亮的山头!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1820,english_events_bubbles.txt,1820,bubble_red5,red,,Wanna smash that or what?,想打烂它还是什么?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1821,english_events_bubbles.txt,1821,bubble_red5,red,,I can be your wingwoman.,我可以当你的女伴。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1827,english_events_bubbles.txt,1827,bubble_red6,scott,,Look at that cow!,看那头牛!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1828,english_events_bubbles.txt,1828,bubble_red6,red,,"No, look at that other cow!","不,看看那头牛!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1829,english_events_bubbles.txt,1829,bubble_red6,red,,"Sorry, Scott, but my cow is way better than your cow.",对不起 斯科特但我的牛比你的牛还好,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1835,english_events_bubbles.txt,1835,bubble_red7,red,,"Guys, we're so good at this!","伙计们,我们很擅长这个!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1836,english_events_bubbles.txt,1836,bubble_red7,red,,I wonder if there's a competitive road-tripping scene...,我想知道是否有竞争的 道路拖车场景...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1842,english_events_bubbles.txt,1842,bubble_red8,polly,,"Amira, girl, we're too close to the speed limit...","阿米拉女孩,我们离速度限制太近了...",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1843,english_events_bubbles.txt,1843,bubble_red8,red,,"WHEN AMIRA DRIVES, SPEED KNOWS NO LIMITS!","当Amira开车, 规定知道没有限制!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1849,english_events_bubbles.txt,1849,bubble_adrien1,adrien,,Do you mind if I polish my sword?,你介意我擦擦我的剑吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1850,english_events_bubbles.txt,1850,bubble_adrien1,polly,,Naughty!,恶作剧!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1851,english_events_bubbles.txt,1851,bubble_adrien1,adrien,,...What?,什麽?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1857,english_events_bubbles.txt,1857,bubble_adrien2,adrien,,"Run, our valiant metallic steed!","跑啊,我们勇敢的金属马!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1863,english_events_bubbles.txt,1863,bubble_adrien3,scott,,"So, Adrien, you must feel like a fish out of water...","阿德里安,你一定觉得像一条出水的鱼...",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1864,english_events_bubbles.txt,1864,bubble_adrien3,adrien,,"I am that, quite literally.","我是,相当的字面意思。",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1865,english_events_bubbles.txt,1865,bubble_adrien3,scott,,"Polly, my smartest jokes don't work on him!",波莉我最聪明的笑话对他没用!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1871,english_events_bubbles.txt,1871,bubble_adrien4,scott,,"Want some water, Adrien?","要喝点水吗,阿德里安?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1872,english_events_bubbles.txt,1872,bubble_adrien4,adrien,,Yes... it reminds me of home.,对... 它让我想起了家,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1878,english_events_bubbles.txt,1878,bubble_adrien5,adrien,,What is the end goal of this road trip quest?,这次出行旅行的最终目标是什么?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1879,english_events_bubbles.txt,1879,bubble_adrien5,scott,,The only goal is to have fun!,唯一的目标就是玩得开心!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1880,english_events_bubbles.txt,1880,bubble_adrien5,adrien,,...I don't understand.,...我还不明白。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1886,english_events_bubbles.txt,1886,bubble_adrien6,scott,,So do you guys only eat seafood?,你们只吃海鲜吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1887,english_events_bubbles.txt,1887,bubble_adrien6,adrien,,...We just call it food.,...我们称之为食物。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1893,english_events_bubbles.txt,1893,bubble_adrien7,adrien,,...and that's why The Little Mermaid is unrealistic.,"...这就是为什么""小美人鱼""是不现实的",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1894,english_events_bubbles.txt,1894,bubble_adrien7,scott,,Fascinating!,帅呆了!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1900,english_events_bubbles.txt,1900,bubble_adrien8,scott,,So... is Miranda like your country's boss?,所以说... 实值 米兰达 像你的国家的老板一样?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1901,english_events_bubbles.txt,1901,bubble_adrien8,adrien,,Eh...,额...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1902,english_events_bubbles.txt,1902,bubble_adrien8,polly,,Awkward!,尴尬!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1908,english_events_bubbles.txt,1908,bubble_adrien9,adrien,,"...because ""mer"" is French for ""sea"".","...因为""mer""是法语的""sea"".",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1909,english_events_bubbles.txt,1909,bubble_adrien9,scott,,"Oh, okay... What about ""kingdom""?","哦,还好... 那""金鸡""呢?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1915,english_events_bubbles.txt,1915,bubble_before_sphinxcursedartifact,scott,,Look! A cursed flash sale!,听着! 被诅咒的快卖!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1921,english_events_bubbles.txt,1921,bubble_before_hidefood,polly,,SHIT! IT'S THE FUZZ!,妈的! 这是FUZZ!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1927,english_events_bubbles.txt,1927,bubble_before_hidemagicartifact,polly,,SHIT! IT'S THE FUZZ!,妈的! 这是FUZZ!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1933,english_events_bubbles.txt,1933,bubble_before_theinformant,polly,,SHIT! IT'S THE FUZZ!,妈的! 这是FUZZ!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1939,english_events_bubbles.txt,1939,bubble_before_fauxpollyscottrobbers,polly,,SHIT! IT'S THE FUZZ!,妈的! 这是FUZZ!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1945,english_events_bubbles.txt,1945,bubble_before_impossiblealcoholtest,polly,,SHIT! IT'S THE FUZZ!,妈的! 这是FUZZ!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1951,english_events_bubbles.txt,1951,bubble_before_finaldestination2,scott,,The cars aren't moving... are we in a parking lot?,车不动了... 我们在停车场吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1957,english_events_bubbles.txt,1957,bubble_before_scottshepherd,scott,,Look! Sheep!,听着! 羊头!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1963,english_events_bubbles.txt,1963,bubble_before_codroute,polly,,Can't you hear the bass? PULL OVER!,你听不到低音吗? 用力拉过去!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1969,english_events_bubbles.txt,1969,bubble_before_carsolomon1,polly,,Look at those guys yelling at each other.,看看那些家伙对彼此大吼大叫,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1975,english_events_bubbles.txt,1975,bubble_before_roadeventany1,polly,,I'm bored! I want something to happen NOW!,我无聊了! 我想现在发生点什么!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1981,english_events_bubbles.txt,1981,bubble_before_roadeventany2,scott,,"Wooo, we're getting there! Let's hope nothing weird happens!","哇,我们到了! 希望没有什么怪事发生!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1987,english_events_bubbles.txt,1987,bubble_before_roadeventany3,polly,,"Man, it'd be great if something random happened RIGHT NOW!","伙计,如果现在发生随机事件,那就太好了!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1993,english_events_bubbles.txt,1993,bubble_before_roadeventany4,scott,,Isn't it cool how nothing ever happens on the road?,"路上什么都没有发生,是不是很酷?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L1999,english_events_bubbles.txt,1999,bubble_before_roadeventany5,polly,,"Finally, some respite from wacky stuff...","最后,从疯狂的东西中缓缓一下...",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2005,english_events_bubbles.txt,2005,bubble_before_roadeventany6,scott,,Best thing about the road: nothing happens!,路上最好的事:什么都没有发生!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2011,english_events_bubbles.txt,2011,bubble_before_roadeventany7,polly,,"Uuuuugh, why is the road so UNEVENTFUL?",Uuuuugh 为什么这条路这么不通?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2017,english_events_bubbles.txt,2017,bubble_before_roadeventany8,scott,,"Doo-be-doo, driving carelessly, knowing nothing will happen!","杜比杜,不小心开车,知道什么也不会发生!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2023,english_events_bubbles.txt,2023,bubble_after_diner_pancake,scott,,PANCAKE PANCAKE PANCAKE PANCAKE!,松饼 松饼 松饼!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2024,english_events_bubbles.txt,2024,bubble_after_diner_pancake,polly,,"You don't really HAVE to sing along, Scott!",你不一定要一起唱吗? 斯科特!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2030,english_events_bubbles.txt,2030,bubble_after_diner_pancake2,polly,,This song is getting on my nerves...,这首歌让我很不安...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2031,english_events_bubbles.txt,2031,bubble_after_diner_pancake2,scott,,"What song? Oh, right! PANCAKE PANCAKE PANCAKE PANCAKE!","什么歌吗? 哦,对了! 松饼 松饼 松饼!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2037,english_events_bubbles.txt,2037,bubble_after_diner_pancake3,scott,,"Polly, I don't like this song anymore...",波莉我不再喜欢这首歌了,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2038,english_events_bubbles.txt,2038,bubble_after_diner_pancake3,polly,,"You know we can always change the music, right?","你知道我们总能改变音乐,对吧?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2044,english_events_bubbles.txt,2044,bubble_after_diner_pancake4,scott,,PANCAKE PANCAKE PANCAKE PANCAKE!,松饼 松饼 松饼!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2045,english_events_bubbles.txt,2045,bubble_after_diner_pancake4,polly,,"Aw, screw it! PANCAKE PANCAKE PANCAKE PANCAKE!","哦,他妈的! 松饼 松饼 松饼!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2051,english_events_bubbles.txt,2051,bubble_low_money1,scott,,"Bros, I think we're running out of MONEY...","兄弟们,我想我们快没钱了...",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2052,english_events_bubbles.txt,2052,bubble_low_money1,polly,,Don't look at me! %CURRENTPLAYERNAME% is the big spender here!,别看着我!  %CURRENTPLAYERNAME% 是这里的大花人!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2058,english_events_bubbles.txt,2058,bubble_low_money2,scott,,"Bros, why do I feel so poor?","兄弟们,我为什么觉得这么穷?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2059,english_events_bubbles.txt,2059,bubble_low_money2,polly,,That tends to happen when you're running short on MONEY.,这往往发生在你缺钱的时候。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2065,english_events_bubbles.txt,2065,bubble_low_money3,scott,,"Hmmm, does anybody have some extra MONEY?","嗯,有人有额外的钱吗?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2066,english_events_bubbles.txt,2066,bubble_low_money3,polly,,Don't look at me. %CURRENTPLAYERNAME%'s the road trip accountant!,别看着我  %CURRENTPLAYERNAME%路程会计!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2072,english_events_bubbles.txt,2072,bubble_low_magic1,polly,,The car sounds like it's choking...,车听起来像在窒息...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2073,english_events_bubbles.txt,2073,bubble_low_magic1,scott,,"Yeah, I think it's running low on MAGIC...","是的,我觉得它运行 低的MAGIC...",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2079,english_events_bubbles.txt,2079,bubble_low_magic2,scott,,"Polly, what does it mean when the needle is in the red?",波莉针在红地里是什么意思?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2080,english_events_bubbles.txt,2080,bubble_low_magic2,polly,,It means we need more MAGIC right away!,这意味着我们需要更多的MAGIC马上!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2086,english_events_bubbles.txt,2086,bubble_low_magic3,scott,,"Bros, this road trip is a magical experience...","兄弟们,这次公路旅行是一次神奇的经历...",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2087,english_events_bubbles.txt,2087,bubble_low_magic3,scott,,...so maybe we should get some MAGIC to keep it going?,所以也许我们应该让一些MAGIC保持下去?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2093,english_events_bubbles.txt,2093,bubble_low_magic4,polly,,"Scott, our car's about to crap out on us!",斯科特我们的车要撞了!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2094,english_events_bubbles.txt,2094,bubble_low_magic4,scott,,"Yeah, we need someone's MAGIC touch!","是啊,我们需要某人的 MAGIC的触摸!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2100,english_events_bubbles.txt,2100,bubble_low_mind1,scott,,"Bros, I feel like... not smart at all...","兄弟们,我觉得... 一点都不聪明...",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2101,english_events_bubbles.txt,2101,bubble_low_mind1,polly,,"Yeah, looks like %CURRENTPLAYERNAME%'s been using up our MIND...","是啊,看起来%CURRENTPLAYERNAME% 已经用光了我们的想法...",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2107,english_events_bubbles.txt,2107,bubble_low_mind2,polly,,I think we've been thinking too much lately...,我想我们最近想太多...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2108,english_events_bubbles.txt,2108,bubble_low_mind2,scott,,"Yeah, it'd be good to get some peace of MIND...","是啊,这将是很好的 得到一些平静的MIND...",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2114,english_events_bubbles.txt,2114,bubble_low_mind3,polly,,"Scott, are you okay?",斯科特没事吧?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2115,english_events_bubbles.txt,2115,bubble_low_mind3,scott,,Need... MIND... to think... good...,需要吗? 注意点... 想着... 不错...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2121,english_events_bubbles.txt,2121,bubble_low_stamina1,scott,,I'm not used to running this low on STAMINA...,我不习惯在STAMINA跑这么低...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2122,english_events_bubbles.txt,2122,bubble_low_stamina1,polly,,"Yeah, even I'm hungry!","是啊,连我都饿了!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2128,english_events_bubbles.txt,2128,bubble_low_stamina2,scott,,"I'm starving, bros...","我饿了,兄弟们...",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2129,english_events_bubbles.txt,2129,bubble_low_stamina2,scott,,"I'm running out of Scott Snacks, and I need STAMINA right now!","我快没钱了 斯科特 斯纳克,我现在就需要斯塔米娜!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2135,english_events_bubbles.txt,2135,bubble_low_hype1,scott,,Umm... Polly... I'm kinda bored.,额...  波莉... 我有点无聊。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2136,english_events_bubbles.txt,2136,bubble_low_hype1,polly,,"Yeah, this road trip isn't living up to the HYPE.","是啊,这次公路旅行不能满足HYPE。",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2142,english_events_bubbles.txt,2142,bubble_low_hype2,scott,,"Polly, I don't feel as pumped as I normally do...",波莉感觉不像平时那么兴奋...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2143,english_events_bubbles.txt,2143,bubble_low_hype2,polly,,I think %CURRENTPLAYERNAME%'s bringing our HYPE down!,我觉得 %CURRENTPLAYERNAME%我们的HYPE下来了!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2149,english_events_bubbles.txt,2149,bubble_low_hype3,polly,,"Guys, aren't we being too reasonable on this road trip?","伙计们,我们不是太理智了吗?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2150,english_events_bubbles.txt,2150,bubble_low_hype3,polly,,I need something to HYPE me up!,我需要一些东西来伤害我!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2156,english_events_bubbles.txt,2156,bubble_low_soul1,scott,,"Polly, are we bad people?",波莉我们是坏人吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2157,english_events_bubbles.txt,2157,bubble_low_soul1,scott,,My SOUL feels empty...,我的SOUL感觉空虚...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2163,english_events_bubbles.txt,2163,bubble_low_soul2,polly,,I love pranking as much as anybody...,我和别人一样喜欢排队...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2164,english_events_bubbles.txt,2164,bubble_low_soul2,polly,,"But I don't like being completely SOUL-less, you know?","但我不喜欢 完全无声无息,你知道吗?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2170,english_events_bubbles.txt,2170,bubble_high_money1,scott,,"Wooo, we're in the MONEY!","呜,我们在钱!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2171,english_events_bubbles.txt,2171,bubble_high_money1,polly,,Who'd have thought a road trip would make you richer?,谁会想到路途旅行会让你更富有呢?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2177,english_events_bubbles.txt,2177,bubble_high_money2,polly,,"They say ""the rich also cry""...","他们说""有钱人也哭""...",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2178,english_events_bubbles.txt,2178,bubble_high_money2,polly,,...but I'm super pumped to have this much MONEY!,"...但是我有这么多钱,我太兴奋了!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2184,english_events_bubbles.txt,2184,bubble_high_money4,scott,,"Guys, we've got way more MONEY than we started out with!","伙计们,我们得到了更多的钱 比我们开始的!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2185,english_events_bubbles.txt,2185,bubble_high_money4,polly,,I can finally try rich-people drugs!,我终于可以尝试富人毒品了!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2191,english_events_bubbles.txt,2191,bubble_high_magic1,scott,,"I don't know how to explain it, but this car looks really happy!","我不知道该怎么解释,但这辆车看起来真的很开心!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2192,english_events_bubbles.txt,2192,bubble_high_magic1,polly,,It's 'cause we pumped it full of MAGIC!,因为我们抽了满满了MAGIC!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2198,english_events_bubbles.txt,2198,bubble_high_magic2,polly,,"Guys, I think the car's needle just smiled at me!","伙计们,我想车的针 刚刚笑我!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2199,english_events_bubbles.txt,2199,bubble_high_magic2,polly,,Either I'm high again or it's full of MAGIC!,要么我又高了 要么它充满了MAGIC!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2205,english_events_bubbles.txt,2205,bubble_high_magic3,polly,,We really gave this road trip the MAGIC touch!,我们真的让这个公路旅行 MAGIC触摸!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2211,english_events_bubbles.txt,2211,bubble_high_mind1,scott,,"Polly, is the square of the hypotenuse equal to the sum of the squares of the legs?","波莉,下垂平面的平面是否等于腿部平面的平面之和?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2212,english_events_bubbles.txt,2212,bubble_high_mind1,polly,,"Whoa, Scott, it is! How'd you know?",哗! 斯科特就是这样! 你怎么会知道?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2213,english_events_bubbles.txt,2213,bubble_high_mind1,scott,,I'm fairly certain this road trip is nourishing my MIND!,"我敢肯定,这次公路旅行 正在滋养我的心智!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2219,english_events_bubbles.txt,2219,bubble_high_mind2,polly,,This road trip is giving me such peace of MIND...,这趟出行让我很安心...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2220,english_events_bubbles.txt,2220,bubble_high_mind2,scott,,"Yeah, we're doing really well in that department!","是啊,我们在那个部门干得很好!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2226,english_events_bubbles.txt,2226,bubble_high_mind3,scott,,...and that's why the Flat Earth theory can be easily disproven.,这就是为什么平地理论很容易被否定。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2227,english_events_bubbles.txt,2227,bubble_high_mind3,polly,,"Wow, Scott, when'd you get so smart?",哗! 斯科特你什么时候变得这么聪明的?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2228,english_events_bubbles.txt,2228,bubble_high_mind3,scott,,This road trip has been very stimulating for my MIND!,这趟公路旅行对我的智商非常刺激!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2234,english_events_bubbles.txt,2234,bubble_high_mind4,polly,,"I have so much on my MIND, I wouldn't MIND losing some! Get it?","我脑子里有太多东西,我不会失去一些的! 明白吗?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2235,english_events_bubbles.txt,2235,bubble_high_mind4,scott,,"Hey, I do get it! This road trip is making me smarter!","嘿,我确实明白了! 这趟出行让我变聪明了!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2241,english_events_bubbles.txt,2241,bubble_high_stamina1,scott,,My STAMINA levels are through the roof!,我的STAMINA水平是穿过屋顶的!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2242,english_events_bubbles.txt,2242,bubble_high_stamina1,scott,,I can finally try the Infinite Pushup Challenge!,我终于可以尝试无限的推进挑战了!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2248,english_events_bubbles.txt,2248,bubble_high_stamina2,scott,,"Polly, feel how strong my muscles are!",波莉感觉我的肌肉有多强壮!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2249,english_events_bubbles.txt,2249,bubble_high_stamina2,polly,,Wow! Now you feel MY muscles!,哗! 现在你感觉到我的肌肉了!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2250,english_events_bubbles.txt,2250,bubble_high_stamina2,polly,,"Whoa, this STAMINA-rich diet is working wonders for us!","哇,这个STAMINA丰富的饮食 对我们来说是奇迹!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2256,english_events_bubbles.txt,2256,bubble_high_stamina3,polly,,Doesn't %CURRENTPLAYERNAME% look more swole than usual?,没有 %CURRENTPLAYERNAME% 长得比平常还多吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2257,english_events_bubbles.txt,2257,bubble_high_stamina3,scott,,"Yeah! You've been getting a lot of STAMINA, haven't you?","对! 你得到了很多 斯塔米娜,不是吗?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2263,english_events_bubbles.txt,2263,bubble_high_hype1,scott,,WOOOOO! ROAD TRIP! YEAAAAAAH!,"呜呜! 路德・特里普! 耶,亚雅哈!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2264,english_events_bubbles.txt,2264,bubble_high_hype1,polly,,"Man, Scott's HYPE is off the charts!","哥们 斯科特""HYPE是离谱的!""",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2270,english_events_bubbles.txt,2270,bubble_high_hype2,scott,,"...GIMME A P, GIMME AN E!","...GIMME一个P,GIMME一个E!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2271,english_events_bubbles.txt,2271,bubble_high_hype2,polly,,H-Y-P-E!,"-Y -P -E! -嘿,别闹了!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2277,english_events_bubbles.txt,2277,bubble_high_hype3,polly,,BEST ROAD TRIP EVEEEEEEEEER!,最好的公路旅行 爱维耶尔!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2278,english_events_bubbles.txt,2278,bubble_high_hype3,scott,,Yeaaaah! This road trip totally lives up to the HYPE!,"耶,耶,耶,耶,耶,耶,耶 这趟公路旅行完全靠HYPE为生!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2284,english_events_bubbles.txt,2284,bubble_high_hype4,polly,,Scott! Scott! Let's HYPE up %CURRENTPLAYERNAME%!,斯科特!  斯科特! 我们起来吧 %CURRENTPLAYERNAME%!,machine,Argos en_zh 1.9; requires review; sanitized
+english_events_bubbles:L2285,english_events_bubbles.txt,2285,bubble_high_hype4,scott,,%CURRENTPLAYERNAME%! %CURRENTPLAYERNAME%! %CURRENTPLAYERNAME%!,%CURRENTPLAYERNAME%!  %CURRENTPLAYERNAME%!  %CURRENTPLAYERNAME%!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2291,english_events_bubbles.txt,2291,bubble_high_soul1,polly,,"My SOUL feels so good, I feel like I could go to heaven!","我的SOUL感觉好极了, 我觉得我可以去天堂!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2292,english_events_bubbles.txt,2292,bubble_high_soul1,polly,,"Not that I'm interested, but still!","不是说我有兴趣,但还是!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2298,english_events_bubbles.txt,2298,bubble_high_soul2,scott,,"Polly, am I a good boi?",波莉我是个好人吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2299,english_events_bubbles.txt,2299,bubble_high_soul2,polly,,"If our SOUL levels aren't mistaken, we're ALL good bois!","如果我们的SOUL水平没有错,我们都是好波斯!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2305,english_events_bubbles.txt,2305,bubble_high_soul3,scott,,"Whoa, guys, look at our SOULs...","哇,伙计们,看看我们的SOUL...",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2306,english_events_bubbles.txt,2306,bubble_high_soul3,polly,,They're glowing...,他们在发光...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2312,english_events_bubbles.txt,2312,bubble_high_soul4,scott,,I can't believe we've been such good bois!,真不敢相信我们这么好!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2313,english_events_bubbles.txt,2313,bubble_high_soul4,polly,,"Yeah, we've got SOUL to spare!","是的,我们还有SOUL的!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2319,english_events_bubbles.txt,2319,bubble_hope1,hope,,Don't take that route.,别走这条路,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2320,english_events_bubbles.txt,2320,bubble_hope1,hope,,My oracle cards say there'll be traffic.,我的神谕卡上写着会有人堵车,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2326,english_events_bubbles.txt,2326,bubble_hope2,hope,,Has anyone seen my crystal ball?,有没有人看到我的水晶球?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2327,english_events_bubbles.txt,2327,bubble_hope2,scott,,BALL?! BALL?! WHERE?!?!,球吗? 球吗? 哪里? 哪里? 哪里? 哪里? 哪里? 哪里?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2333,english_events_bubbles.txt,2333,bubble_hope3,hope,,"Polly, stop spelling dirty words on my Ouija board.",波莉别再在我的Ouija板上拼脏字了,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2334,english_events_bubbles.txt,2334,bubble_hope3,polly,,"Ugh, you're no fun.","唉,你一点都不好玩。",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2340,english_events_bubbles.txt,2340,bubble_hope4,scott,,"Hope, in the future, will I still be a good boy?",希望将来我还能是个好孩子吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2341,english_events_bubbles.txt,2341,bubble_hope4,hope,,No... you'll be an even BETTER boy.,没有... 你会是一个甚至更好的男孩。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2342,english_events_bubbles.txt,2342,bubble_hope4,scott,,HOORAY!,万岁!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2348,english_events_bubbles.txt,2348,bubble_hope5,scott,,I HAVE UNO!,我有一个UNO!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2349,english_events_bubbles.txt,2349,bubble_hope5,hope,,"Those are tarot cards, Scott...","这些是塔罗牌, 斯科特...",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2350,english_events_bubbles.txt,2350,bubble_hope5,scott,,...So am I winning?,我赢了吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2356,english_events_bubbles.txt,2356,bubble_hope6,polly,,"Hope, can you gamble with tarot cards?","希望,你能赌取塔罗牌吗?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2357,english_events_bubbles.txt,2357,bubble_hope6,hope,,Only with the future.,唯与未来相.,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2358,english_events_bubbles.txt,2358,bubble_hope6,polly,,"Ooh, so high-stakes!","哦,这么高的票!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2364,english_events_bubbles.txt,2364,bubble_hope7,hope,,"You know, I could use my psychic powers to tell you what RESOURCES you'll gain and lose...","你知道,我可以用我的通灵能力 告诉你什么资源 你会获得和失去...",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2365,english_events_bubbles.txt,2365,bubble_hope7,scott,,But not knowing is half the fun!,但不知道是一半的乐趣!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2371,english_events_bubbles.txt,2371,bubble_hope8,polly,,"Hope, you're psychic: what DESTINATION will we reach?","希望,你是灵媒:我们能达到什么程度?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2372,english_events_bubbles.txt,2372,bubble_hope8,hope,,I dunno exactly; the future is always in flux.,我完全不知道;未来总是在变化。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2373,english_events_bubbles.txt,2373,bubble_hope8,polly,,Pfft. What a cop-out.,P. 真是个警察。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2379,english_events_bubbles.txt,2379,bubble_hope9,scott,,"Hope, are there psychics who can see the past?","希望,有灵媒能看见过去吗?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2380,english_events_bubbles.txt,2380,bubble_hope9,hope,,"...That's called ""having memories.""","这叫""有记忆""",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2381,english_events_bubbles.txt,2381,bubble_hope9,scott,,Whoa...,珃...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2387,english_events_bubbles.txt,2387,bubble_hope10,polly,,"Wanna play a car game, Hope?","想玩一款车游戏吗,希望?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2388,english_events_bubbles.txt,2388,bubble_hope10,hope,,Sure. How about I Spy with my All-Seeing Eye?,当然可以。 我和全能眼间谍怎么样?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2394,english_events_bubbles.txt,2394,bubble_hope11,scott,,"Can I play cards with you, Hope?","我能跟你玩牌吗,希望?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2395,english_events_bubbles.txt,2395,bubble_hope11,hope,,"Sure, right after I finish this round of Tarot Solitaire.","当然,在我完成这轮塔罗索利泰之后",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2401,english_events_bubbles.txt,2401,bubble_hope12,hope,,"Want me to read your palm, Scott?",想让我读一下你的手掌 斯科特?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2402,english_events_bubbles.txt,2402,bubble_hope12,scott,,Sure! Just don't tell my other palm! I don't want it to get jealous.,当然! 别告诉我另一只手! 岂想取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取.,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2408,english_events_bubbles.txt,2408,bubble_hope13,scott,,Hope...,辨...,machine,Argos en_zh 1.9; requires review; sanitized
+english_events_bubbles:L2409,english_events_bubbles.txt,2409,bubble_hope13,scott,,...does palm reading work on both hands?,掌上阅读两只手的工作吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2415,english_events_bubbles.txt,2415,bubble_hope14,scott,,"Hey Hope, guess what I'm thinking!","嘿,希望,猜猜我在想什麽!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2416,english_events_bubbles.txt,2416,bubble_hope14,hope,,"I've already guessed: ""Woof Woof"".","我已经猜到了:""呜呜""。",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2417,english_events_bubbles.txt,2417,bubble_hope14,scott,,"Wow, you're good!","哇,你真厉害!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2423,english_events_bubbles.txt,2423,bubble_hope15,hope,,I'm sensing something in the future...,我感觉到未来有些事...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2424,english_events_bubbles.txt,2424,bubble_hope15,polly,,"If there are drinks, I'm in!","如果有饮料,我加入!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2430,english_events_bubbles.txt,2430,bubble_hope16,hope,,I have a vision...,我有一个幻象...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2431,english_events_bubbles.txt,2431,bubble_hope16,scott,,"Hey, that's what Coach always says before a match!","嘿,教练在比赛前总是这么说的!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2437,english_events_bubbles.txt,2437,bubble_blue1,scott,,Can this car turn into a battle robot?,这辆车能变成战斗机器人吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2438,english_events_bubbles.txt,2438,bubble_blue1,blue,,No... but we can change that!,没有... 但我们可以改变这一点!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2444,english_events_bubbles.txt,2444,bubble_blue2,scott,,"What's your favorite tool, Vicky?",你最喜欢的工具是什么? 维姬?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2445,english_events_bubbles.txt,2445,bubble_blue2,blue,,The best tool is always a curious mind!,最好的工具总是一个好奇的心灵!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2446,english_events_bubbles.txt,2446,bubble_blue2,blue,,...Also duct tape.,还有胶带,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2452,english_events_bubbles.txt,2452,bubble_blue3,blue,,"Phew, I need to recharge...","呼,我需要充电...",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2453,english_events_bubbles.txt,2453,bubble_blue3,blue,,Can I borrow the car battery?,我能借用一下汽车电池吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2459,english_events_bubbles.txt,2459,bubble_blue4,scott,,Is Vicky still napping?,已经是 维姬 还在睡觉吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2460,english_events_bubbles.txt,2460,bubble_blue4,blue,,"Nope, I'm awake.","没有,我醒了。",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2461,english_events_bubbles.txt,2461,bubble_blue4,polly,,IT'S ALIVE!!!,它还活着!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2467,english_events_bubbles.txt,2467,bubble_blue5,blue,,...and that's why Frankenstein WAS the real monster.,所以弗兰肯斯坦才是真正的怪物,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2468,english_events_bubbles.txt,2468,bubble_blue5,polly,,Whoa... deep.,珃... 深相会.,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2474,english_events_bubbles.txt,2474,bubble_blue6,scott,,AHHH! There's a severed hand in my seat!,摆! 我的座位被割断了手!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2475,english_events_bubbles.txt,2475,bubble_blue6,blue,,"Oh, thanks, I've been looking for that!","哦,谢谢,我一直在寻找这个!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2481,english_events_bubbles.txt,2481,bubble_blue7,blue,,Ow... I think it's time to replace these feet.,欧... 我想是时候替换这些脚了。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2482,english_events_bubbles.txt,2482,bubble_blue7,scott,,Don't you mean shoes?,你不是说鞋子吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2483,english_events_bubbles.txt,2483,bubble_blue7,blue,,No.,没有。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2489,english_events_bubbles.txt,2489,bubble_blue8,polly,,"Huh, this car is running more smoothly now...",这辆车跑得比较快...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2490,english_events_bubbles.txt,2490,bubble_blue8,blue,,I messed with the circuitry while you weren't watching!,我搞乱了电路 而你却不看!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2496,english_events_bubbles.txt,2496,bubble_blue9,scott,,"Hmm, the engine is doing something weird.","嗯,引擎在做一些奇怪的事情。",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2497,english_events_bubbles.txt,2497,bubble_blue9,blue,,Hold on! I'll get my tools!,坚持住! 我来拿工具!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2503,english_events_bubbles.txt,2503,bubble_blue10,polly,,"Do you like road-tripping, Vicky?",你喜欢修路吗? 维姬?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2504,english_events_bubbles.txt,2504,bubble_blue10,blue,,Sure! I live afterlife in the fast lane!,当然! 我活在快道上过活!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2510,english_events_bubbles.txt,2510,bubble_blue11,scott,,Look Vicky! There's a bird! And another bird!,听着 维姬! 有只鸟! 还有另一只鸟!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2511,english_events_bubbles.txt,2511,bubble_blue11,blue,,"That's nice Scott, but birdwatching is a little more specific than that!",不错啊 斯科特但观鸟比这更具体!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2517,english_events_bubbles.txt,2517,bubble_blue12,blue,,Look! A blue-headed quail-dove!,听着! 蓝头 qua鸽!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2518,english_events_bubbles.txt,2518,bubble_blue12,scott,,Really? I thought it was a bird!,真的吗? 我以为是只鸟!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2524,english_events_bubbles.txt,2524,bubble_blue13,polly,,"Where do you want to go, Vicky?",你们想去哪儿? 维姬?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2525,english_events_bubbles.txt,2525,bubble_blue13,blue,,Everywhere! I'm a road trip completionist!,到处都是! 我是公路旅行的完成者!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2531,english_events_bubbles.txt,2531,bubble_blue14,scott,,"Oops, the car battery's running out.","哎呀,汽车电池没电了。",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2532,english_events_bubbles.txt,2532,bubble_blue14,blue,,"Hook it up to me, I have energy to spare!","钩住它,我还有精力!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2538,english_events_bubbles.txt,2538,bubble_blue15,blue,,"...and before that, I studied some engineering.","...在那之前,我研究了一些工程学",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2539,english_events_bubbles.txt,2539,bubble_blue15,scott,,"Woah, so you know how to spell ""engneereng""!?","哇,你知道怎么拼出""英能""吗?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2545,english_events_bubbles.txt,2545,bubble_green1,green,,HOOOONK...,万岁...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2546,english_events_bubbles.txt,2546,bubble_green1,scott,,SHOOOOO...,嘘...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2547,english_events_bubbles.txt,2547,bubble_green1,polly,,"Wow, synchronized snoring!","哇,同步打呼噜!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2553,english_events_bubbles.txt,2553,bubble_green2,scott,,"Brian, you're a champ at napping!",布莱恩你是打瞌睡的冠军!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2554,english_events_bubbles.txt,2554,bubble_green2,green,,Zzz...,兹兹...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2555,english_events_bubbles.txt,2555,bubble_green2,polly,,"Look at him, always in the zone!","看看他,总是在区里!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2561,english_events_bubbles.txt,2561,bubble_green3,green,,"Man, I'm tired...","哥们,我累了...",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2562,english_events_bubbles.txt,2562,bubble_green3,green,,I feel dead on my feet.,我感觉自己脚上死了。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2568,english_events_bubbles.txt,2568,bubble_green4,green,,Need me to take the wheel for a bit?,需要我开一下车吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2569,english_events_bubbles.txt,2569,bubble_green4,polly,,Ooooh! The Driving Dead!,呜! 驾驶死亡!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2575,english_events_bubbles.txt,2575,bubble_green5,green,,"Man, I'm tired...","哥们,我累了...",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2576,english_events_bubbles.txt,2576,bubble_green5,scott,,But you just woke up from a nap.,但你刚从午睡中醒来,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2577,english_events_bubbles.txt,2577,bubble_green5,green,,What's your point?,你想说什么?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2583,english_events_bubbles.txt,2583,bubble_green6,scott,,"Are you gonna eat my brain, Brian?",你要吃我的脑袋吗? 布莱恩?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2584,english_events_bubbles.txt,2584,bubble_green6,green,,Eh... I'd prefer French fries.,额... 我更喜欢炸薯条,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2590,english_events_bubbles.txt,2590,bubble_green7,scott,,I think the car battery's running low.,我觉得汽车电池没电了,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2591,english_events_bubbles.txt,2591,bubble_green7,green,,Boy do I know what that feels like...,"孩子,我知道那种感觉...",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2597,english_events_bubbles.txt,2597,bubble_green8,scott,,"It's a beautiful landscape, isn't it, Brian?","这是一个美丽的地貌,不是吗, 布莱恩?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2598,english_events_bubbles.txt,2598,bubble_green8,green,,Zzzzz...,兹兹...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2604,english_events_bubbles.txt,2604,bubble_green9,scott,,"Polly, I think Brian's asleep again.",波莉我觉得 布莱恩又睡着了,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2605,english_events_bubbles.txt,2605,bubble_green9,polly,,Let's eat his fries.,让我们吃他的薯条。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2606,english_events_bubbles.txt,2606,bubble_green9,green,,I'm up! I'm up!,我起来了! 我起来了!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2612,english_events_bubbles.txt,2612,bubble_green10,green,,Can we stop for a snack? I'm hungry.,我们可以停下来吃点零食吗? 我饿了。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2613,english_events_bubbles.txt,2613,bubble_green10,polly,,You're snacking right now!,你现在在吃零食!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2619,english_events_bubbles.txt,2619,bubble_green11,scott,,"Hey Brian, want some Scott Snacks?","顿 布莱恩,想要一点 斯科特 零食吗?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2620,english_events_bubbles.txt,2620,bubble_green11,green,,I'll take anybody's snacks.,我要吃任何人的点心。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2626,english_events_bubbles.txt,2626,bubble_green12,polly,,"What did you pack in your bag, Brian?",你包里装了些什么? 布莱恩?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2627,english_events_bubbles.txt,2627,bubble_green12,green,,"Oh, just the essentials: fries and a pillow.","哦,只是必需品:薯条和枕头。",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2633,english_events_bubbles.txt,2633,bubble_green13,polly,,"Is there anywhere you wanna go, Brian?",你想去的地方吗? 布莱恩?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2634,english_events_bubbles.txt,2634,bubble_green13,green,,"Oh, I'm fine in the car, thanks.","哦,我没事在车里,谢谢。",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2640,english_events_bubbles.txt,2640,bubble_finn1,finn,,Are we still on schedule?,我们还在按计划进行吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2641,english_events_bubbles.txt,2641,bubble_finn1,scott,,What schedule?,什么计划?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2642,english_events_bubbles.txt,2642,bubble_finn1,finn,,...How do you live like this?!,你怎么过这样的生活?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2648,english_events_bubbles.txt,2648,bubble_finn2,scott,,"Nice biceps! Do you lift, Finn?","不错的二头蛇! 你抬起吗,芬恩?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2649,english_events_bubbles.txt,2649,bubble_finn2,finn,,Yeah. I can lift a 140-pound chair...,对 我可以抬起一个140磅重的椅子...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2650,english_events_bubbles.txt,2650,bubble_finn2,finn,,...and a 39-pound terrible boss.,...还有个39磅重的坏老板,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2656,english_events_bubbles.txt,2656,bubble_finn3,finn,,"Is there any possibility I might be promoted to ""passenger""?","有没有可能我晋升为""乘客""?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2662,english_events_bubbles.txt,2662,bubble_finn4,finn,,How do I contact the Monster Resources department?,我怎么联系怪兽资源部?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2663,english_events_bubbles.txt,2663,bubble_finn4,polly,,"All complaints, whines, and bitchiness go to %CURRENTPLAYERNAME%.","所有抱怨,抱怨,和放荡 都到%CURRENTPLAYERNAME%。",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2669,english_events_bubbles.txt,2669,bubble_finn5,finn,,Is there a hitchhikers' union?,有没有搭便车的工会?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2675,english_events_bubbles.txt,2675,bubble_finn6,finn,,Should I make us business cards?,我应该做我们的名片吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2676,english_events_bubbles.txt,2676,bubble_finn6,polly,,"Ooh, could you make me a fake ID?!","哦,你能给我做个假身份证吗?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2682,english_events_bubbles.txt,2682,bubble_finn7,finn,,"Thanks for taking me, guys.","谢谢你带我去,伙计们。",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2683,english_events_bubbles.txt,2683,bubble_finn7,finn,,It feels nice to be a passenger instead of a vehicle!,做个乘客而不是车辆感觉不错!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2689,english_events_bubbles.txt,2689,bubble_finn8,scott,,"...there you go, I reclined your seat.","...你去那里,我靠在你的座位上。",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2690,english_events_bubbles.txt,2690,bubble_finn8,finn,,I HAVE NEVER EXPERIENCED THIS MUCH PLEASURE.,我从来没有经验 这一点。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2696,english_events_bubbles.txt,2696,bubble_finn9,polly,,"What are you doing on your phone, Finn?","你在你的电话里做什么,芬恩?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2697,english_events_bubbles.txt,2697,bubble_finn9,finn,,Trying to teach Mr. Pappas how to make breakfast cereal.,试着教他 帕帕斯如何做早餐麦片。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2703,english_events_bubbles.txt,2703,bubble_finn10,scott,,"Woah, Finn, you're good at arm wrestling!","哇,芬恩,你擅长手臂摔跤!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2704,english_events_bubbles.txt,2704,bubble_finn10,finn,,Carrying Mr. Pappas around takes some muscle.,载着Mr. 帕帕斯周围需要一些肌肉。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2710,english_events_bubbles.txt,2710,bubble_finn11,finn,,"Ooh, this seat is comfy!","哦,这个座位是舒适的!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2711,english_events_bubbles.txt,2711,bubble_finn11,finn,,My fishbone was killing me!,我的鱼骨快把我弄死了!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2717,english_events_bubbles.txt,2717,bubble_dahliaappliance1,dahliaappliance,,RINSE CYCLE TIME! LET'S GOOOOO!,环球时空! 让我们去!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2723,english_events_bubbles.txt,2723,bubble_dahliaappliance2,polly,,"Whoa, why's the car shaking?","哇,为什么车在发抖?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2724,english_events_bubbles.txt,2724,bubble_dahliaappliance2,dahliaappliance,,I AM VIBRATING INTENSELY IN THE BACKSEAT.,我强烈地在后面。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2725,english_events_bubbles.txt,2725,bubble_dahliaappliance2,polly,,...Hot.,...热。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2731,english_events_bubbles.txt,2731,bubble_dahliaappliance3,dahliaappliance,,"YOU CANNOT DEFEAT ME, SOY SAUCE STAIN!","你不能骗我, 如此神圣的!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2732,english_events_bubbles.txt,2732,bubble_dahliaappliance3,dahliaappliance,,HELL HATH NO FURY LIKE A WASHING MACHINE SCORNED!!!,"地狱,没有像 洗磁铁的喷发!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2738,english_events_bubbles.txt,2738,bubble_dahliaappliance4,dahliaappliance,,"Scott, can I try that energy drink?",斯科特我能试试能量饮料吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2739,english_events_bubbles.txt,2739,bubble_dahliaappliance4,dahliaappliance,,Just pour it into my detergent tray!,把它倒进我的洗涤器里!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2745,english_events_bubbles.txt,2745,bubble_dahliaappliance5,scott,,"Dahlia, what's your favorite stain to wash out?",达莉娅你最喜欢的污点是什么?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2746,english_events_bubbles.txt,2746,bubble_dahliaappliance5,dahliaappliance,,THE BLOOD OF MY ENEMIES.,血液中的我 的内脏。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2752,english_events_bubbles.txt,2752,bubble_dahliaappliance6,scott,,"Wait, Dahlia... Don't you have any luggage?",单单 达莉娅... 你没有行李吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2753,english_events_bubbles.txt,2753,bubble_dahliaappliance6,dahliaappliance,,I have all the clothes I need in here!,我这里有我需要的所有衣服!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2759,english_events_bubbles.txt,2759,bubble_dahliaappliance7,scott,,"Dahlia, what happens if I press this button?",达莉娅如果我按下这个按钮会怎样?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2760,english_events_bubbles.txt,2760,bubble_dahliaappliance7,dahliaappliance,,All my buttons serve one purpose: stain-murder.,我所有的按钮都有一个目的: 污渍谋杀.,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2766,english_events_bubbles.txt,2766,bubble_dahliaappliance8,polly,,So what do you think about washer-dryers?,你对洗衣机有什么看法?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2767,english_events_bubbles.txt,2767,bubble_dahliaappliance8,dahliaappliance,,Too wishy-washy.,太许愿了,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2773,english_events_bubbles.txt,2773,bubble_dahliaappliance9,dahliaappliance,,Whirrr... Whirrr...,呜呼... 呜呼...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2774,english_events_bubbles.txt,2774,bubble_dahliaappliance9,scott,,"Polly, Dahlia's doing something...","波莉, 达莉娅正在做点什么...",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2775,english_events_bubbles.txt,2775,bubble_dahliaappliance9,polly,,"Shhh, I think she's snoring!","嘘,我想她在打呼噜!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2781,english_events_bubbles.txt,2781,bubble_dahliaappliance10,dahliaappliance,,Can we stop somewhere? I need to dump my load.,我们可以停一下吗? 我要丢掉我的东西,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2782,english_events_bubbles.txt,2782,bubble_dahliaappliance10,scott,,Hehehe...,热...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2788,english_events_bubbles.txt,2788,bubble_dahliaappliance11,dahliaappliance,,"Come on, give me ANYTHING to wash! Just one shirt!","来吧,给我任何东西洗! 就一件衬衫!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2789,english_events_bubbles.txt,2789,bubble_dahliaappliance11,polly,,"No snacking between meals, Dahlia.",吃饭之间不要吃零食 达莉娅.,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2795,english_events_bubbles.txt,2795,bubble_lamb1,lamb,,Can we stop? I saw a tree I need to chop down!,我们能停下来吗? 我看见一棵树我要砍倒!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2796,english_events_bubbles.txt,2796,bubble_lamb1,polly,,Again?,又来了?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2802,english_events_bubbles.txt,2802,bubble_lamb4,lamb,,...and then we ate his remains!,然后我们把他的遗骨吃了!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2803,english_events_bubbles.txt,2803,bubble_lamb4,scott,,"...Polly, I don't think I'm hungry anymore.",...波莉我不觉得饿了。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2809,english_events_bubbles.txt,2809,bubble_lamb5,lamb,,"So, Polly, I heard you like partying!",这么说吧 波莉我听说你喜欢狂欢!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2810,english_events_bubbles.txt,2810,bubble_lamb5,lamb,,"Which do you prefer, a bonfire ritual or a sacrifice of the flesh?","你更喜欢哪一种, 一个篝火仪式 或肉的牺牲?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2816,english_events_bubbles.txt,2816,bubble_lamb6,lamb,,...and they tripped for three days straight!,...他们绊倒了三天!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2817,english_events_bubbles.txt,2817,bubble_lamb6,polly,,I gotta get me some of those mushrooms!,我要拿些蘑菇来!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2823,english_events_bubbles.txt,2823,bubble_lamb7,lamb,,...and that's how you play Knucklebones!,...这就是你如何玩克扣骨!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2824,english_events_bubbles.txt,2824,bubble_lamb7,scott,,Cool! I didn't understand a thing!,凉爽! 我什么都没听懂!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2830,english_events_bubbles.txt,2830,bubble_lamb8,lamb,,"Look, there's people on the side of the road!","看,路边有人!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2831,english_events_bubbles.txt,2831,bubble_lamb8,lamb,,HEY! YOU GUYS WANNA JOIN A CULT?!,哎哟! 你们想加入一个家伙!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2837,english_events_bubbles.txt,2837,bubble_lamb12,lamb,,...and that's how you brainwash people!,你就是这样洗脑的!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2838,english_events_bubbles.txt,2838,bubble_lamb12,scott,,Weird. I thought there'd be more soap involved.,怪怪的。 怪怪的。 我想还有更多的肥皂。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2844,english_events_bubbles.txt,2844,bubble_lamb14,polly,,"Oh my God, look at that!","哦,我的上帝,看看那个!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2845,english_events_bubbles.txt,2845,bubble_lamb14,lamb,,"Okay, I'll look! But you can just call me ""the Lamb"", you know.","好吧,我会看! 但你可以叫我""羔羊"" 你知道吗?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2851,english_events_bubbles.txt,2851,bubble_lamb15,lamb,,"Anyone have a minute to talk about our lord and savior, Me?","有人有时间谈谈我们的主人和救世主吗,我?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2857,english_events_bubbles.txt,2857,bubble_lamb11,polly,,"Do you take many vacations, Lamb?","你经常度假吗,羔羊?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2858,english_events_bubbles.txt,2858,bubble_lamb11,lamb,,"No, but I go on trips sometimes.",没有 但我有时会去旅行,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2859,english_events_bubbles.txt,2859,bubble_lamb11,lamb,,Usually to kill my enemies!,通常是为了杀死我的敌人!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2865,english_events_bubbles.txt,2865,bubble_lamb13,lamb,,...and that was my fourth wedding!,那是我的第四次婚礼!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2866,english_events_bubbles.txt,2866,bubble_lamb13,lamb,,But my fifth was even crazier...,但我的第五个更疯狂...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2867,english_events_bubbles.txt,2867,bubble_lamb13,polly,,"Damn, this lamb gets around!","可恶,这只羊到处跑!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2873,english_events_bubbles.txt,2873,bubble_lamb2,lamb,,I like this car!,我喜欢这辆车!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2874,english_events_bubbles.txt,2874,bubble_lamb2,lamb,,"It's faster to teleport through a demonic circle, but this is fun!","通过恶魔圆圈传送的速度更快,但这很有趣!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2880,english_events_bubbles.txt,2880,bubble_going_motel_regular_eotr_1,scott,,Haven't we been here before?,我们以前没来过吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2881,english_events_bubbles.txt,2881,bubble_going_motel_regular_eotr_1,polly,,I guess all motels look similar.,我想所有的汽车旅馆都类似,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2887,english_events_bubbles.txt,2887,bubble_going_motel_regular_eotr_2,scott,,Whoa... did we drive in a circle?,珃... 我们开过圆圈吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2888,english_events_bubbles.txt,2888,bubble_going_motel_regular_eotr_2,polly,,I don't think so...,我不这么认为...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2894,english_events_bubbles.txt,2894,bubble_going_motel_regular_eotr_3,scott,,What? This motel again?,什麽? 又是这家汽车旅馆?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2895,english_events_bubbles.txt,2895,bubble_going_motel_regular_eotr_3,polly,,"Whatever, let's just get some rest.","随便啦,我们休息一下吧",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2901,english_events_bubbles.txt,2901,bubble_going_motel_regular_eotr_4,scott,,Finally! I could use some rest.,终于来了! 我可以休息一会,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2902,english_events_bubbles.txt,2902,bubble_going_motel_regular_eotr_4,polly,,Where have I heard that before...?,我从哪听说的... ?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2908,english_events_bubbles.txt,2908,bubble_going_diner_dinest_eotr_1,scott,,This diner smells familiar...,这餐厅闻起来很熟悉...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2909,english_events_bubbles.txt,2909,bubble_going_diner_dinest_eotr_1,scott,,Have I peed here before?,我以前在这里撒过尿吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2915,english_events_bubbles.txt,2915,bubble_going_diner_dinest_eotr_2,scott,,The Dinest! Can we stop and take a bite?,迪内斯特号! 我们可以停下来吃一顿吗?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2916,english_events_bubbles.txt,2916,bubble_going_diner_dinest_eotr_2,polly,,"Sure. Are they like a chain restaurant, or...?","当然可以。 他们像连锁餐厅,还是... ?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2922,english_events_bubbles.txt,2922,bubble_going_caves_eotr_1,scott,,"Ooh, a cave! I've always wanted to visit one!","哦,一个洞穴! 我一直想拜访一个!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2923,english_events_bubbles.txt,2923,bubble_going_caves_eotr_1,polly,,"Yeah, I feel like something is pulling me in...","是的,我觉得有东西 把我拉进来...",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2929,english_events_bubbles.txt,2929,bubble_going_caves_eotr_2,scott,,"Woo, a cave!","呜,一个洞穴!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2930,english_events_bubbles.txt,2930,bubble_going_caves_eotr_2,scott,,I've NEVER EVER been in a cave before!,我从来没有去过一个洞!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2936,english_events_bubbles.txt,2936,bubble_going_graveyard_eotr_1,scott,,That graveyard looks a little familiar...,墓地看起来有点熟悉...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2937,english_events_bubbles.txt,2937,bubble_going_graveyard_eotr_1,polly,,All piles of bones look the same!,所有堆起的骨头都一样!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2943,english_events_bubbles.txt,2943,bubble_going_graveyard_eotr_2,scott,,Cool! Another graveyard!,凉爽! 又一个墓地!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2944,english_events_bubbles.txt,2944,bubble_going_graveyard_eotr_2,polly,,How many graveyards are around here?,这里有多少墓地?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2950,english_events_bubbles.txt,2950,bubble_going_graveyard_eotr_3,scott,,"Ooh, another graveyard!","哦,又一个墓地!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2951,english_events_bubbles.txt,2951,bubble_going_graveyard_eotr_3,polly,,Yet another chance for a prank!,又是个恶作剧的机会!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2957,english_events_bubbles.txt,2957,bubble_leaving_motel_regular_eotr_1,polly,,"That was OK, but...","没关系,但是...",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2958,english_events_bubbles.txt,2958,bubble_leaving_motel_regular_eotr_1,polly,,"...why did the doorman say ""Nice to see you AGAIN""?","为什么门卫说""很高兴再次见到你""?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2964,english_events_bubbles.txt,2964,bubble_leaving_motel_regular_eotr_2,scott,,I don't feel very rested after that...,之后我不觉得很安心...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2965,english_events_bubbles.txt,2965,bubble_leaving_motel_regular_eotr_2,polly,,Me neither.,我也一样。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2971,english_events_bubbles.txt,2971,bubble_leaving_motel_regular_eotr_3,polly,,"Well, that was... something.","嗯,这是... 东西。",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2977,english_events_bubbles.txt,2977,bubble_leaving_motel_regular_eotr_4,scott,,"Polly, I didn't really enjoy our stay.",波莉我不太喜欢我们待在这里,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2978,english_events_bubbles.txt,2978,bubble_leaving_motel_regular_eotr_4,polly,,"Me neither, Scott.",我也一样 斯科特.,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2984,english_events_bubbles.txt,2984,bubble_leaving_diner_dinest_eotr_1,scott,,"Polly, that diner was weird...",波莉那家餐厅很奇怪...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2985,english_events_bubbles.txt,2985,bubble_leaving_diner_dinest_eotr_1,polly,,It totally was...,这完全是...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2991,english_events_bubbles.txt,2991,bubble_leaving_diner_dinest_eotr_2,scott,,I'm not feeling okay...,我感觉不舒服...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2992,english_events_bubbles.txt,2992,bubble_leaving_diner_dinest_eotr_2,scott,,...and I don't think it was the food.,...我不认为这是食物。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L2998,english_events_bubbles.txt,2998,bubble_leaving_caves_eotr_1,polly,,Let's never visit a cave again.,我们再也不去洞穴了,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L3004,english_events_bubbles.txt,3004,bubble_leaving_caves_eotr_2,polly,,Caves are overrated anyway...,反正洞穴被高估了...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L3005,english_events_bubbles.txt,3005,bubble_leaving_caves_eotr_2,scott,,Yeah...,对...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L3011,english_events_bubbles.txt,3011,bubble_leaving_caves_eotr_3,scott,,Byyyye cave!,拜伊耶山洞 拜伊耶山洞 拜伊耶山洞,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L3012,english_events_bubbles.txt,3012,bubble_leaving_caves_eotr_3,polly,,"(Bye forever, I hope.)",(愿永别.,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L3018,english_events_bubbles.txt,3018,bubble_leaving_graveyard_eotr_1,scott,,That wasn't fun...,这不好玩...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L3019,english_events_bubbles.txt,3019,bubble_leaving_graveyard_eotr_1,scott,,Who knew graveyards could be so sad?,谁知道墓地会这么悲哀?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L3025,english_events_bubbles.txt,3025,bubble_going_motel_regular_eotr2,scott,,"Wait, isn't this the same...?","等等,这不也是吗?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L3026,english_events_bubbles.txt,3026,bubble_going_motel_regular_eotr2,polly,,"Who cares, I need some rest.","谁管,我需要休息。",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L3032,english_events_bubbles.txt,3032,bubble_going_motel_regular_eotr3_1,scott,,"Look, another motel!","你看,另一个汽车旅馆!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L3033,english_events_bubbles.txt,3033,bubble_going_motel_regular_eotr3_1,polly,,"No... no, it can't be...","没有... 不,这不可能...",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L3039,english_events_bubbles.txt,3039,bubble_going_motel_regular_eotr3_2,polly,,What the...?,这... ?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L3040,english_events_bubbles.txt,3040,bubble_going_motel_regular_eotr3_2,scott,,"Look, Polly, a motel!","听着, 波莉汽车旅馆!",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L3046,english_events_bubbles.txt,3046,bubble_going_spookyacademy_1,scott,,Wait... is that...?,单单... 这是... ?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L3047,english_events_bubbles.txt,3047,bubble_going_spookyacademy_1,polly,,We better pull over.,我们最好靠边停车。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L3053,english_events_bubbles.txt,3053,bubble_going_spookyacademy_2,scott,,"Wait, is that...?","等等,这是... ?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L3054,english_events_bubbles.txt,3054,bubble_going_spookyacademy_2,polly,,"...Nah, it can't be.","不,这不可能。",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L3060,english_events_bubbles.txt,3060,bubble_going_spookyacademy_3,scott,,That place...,那个地方...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L3061,english_events_bubbles.txt,3061,bubble_going_spookyacademy_3,polly,,No way... let's get closer.,不会吧... 让我们更接近。,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L3067,english_events_bubbles.txt,3067,bubble_going_sanctuary_1,polly,,What the fuck IS that place?,什么他妈的是那个地方?,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L3068,english_events_bubbles.txt,3068,bubble_going_sanctuary_1,oldscott3,,sfdskfdjsgklshgolgh,sfdskfdjsgklshgolgh,machine,Argos en_zh 1.9; requires review; sanitized
+english_events_bubbles:L3074,english_events_bubbles.txt,3074,bubble_leaving_motel_regular_eotr2,polly,,I hope we never see that place again.,希望我们再也见不到那个地方了,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L3075,english_events_bubbles.txt,3075,bubble_leaving_motel_regular_eotr2,polly,,Wait...,单单...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L3076,english_events_bubbles.txt,3076,bubble_leaving_motel_regular_eotr2,polly,,Fuck my life...,去他妈的我的生活...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L3082,english_events_bubbles.txt,3082,bubble_leaving_motel_regular_eotr3,scott,,I don't feel right...,我觉得不对劲...,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L3088,english_events_bubbles.txt,3088,bubble_leaving_spookyacademy,oldscott3,,sdfsdfsdrfasefsdfsdf,Sdfsdfs Drfasefsdf,machine,Argos en_zh 1.9; requires review; sanitized
+english_events_bubbles:L3089,english_events_bubbles.txt,3089,bubble_leaving_spookyacademy,polly,,"Hang in there, buddy...","坚持住,伙计...",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L3095,english_events_bubbles.txt,3095,bubble_leaving_sanctuary,polly,,"God, when will this nightmare end?","上帝,这噩梦什么时候结束?",machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L3096,english_events_bubbles.txt,3096,bubble_leaving_sanctuary,scott,,[Something dumb and naively positive]!,[Something dumb and naively positive]!,machine,Argos en_zh 1.9; requires review
+english_events_bubbles:L3097,english_events_bubbles.txt,3097,bubble_leaving_sanctuary,polly,,...,...,machine,Argos en_zh 1.9; requires review
