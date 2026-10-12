@@ -1,8 +1,22 @@
-# Monster Roadtrip 简体中文 Mod
+# Monster Prom 3 - Monster Roadtrip 简体中文 Mod
 
-适用于 Steam Windows 版 **Monster Prom 3: Monster Roadtrip** 的简体中文 Mod。
+适用于 Steam Windows 版 **Monster Prom 3 - Monster Roadtrip** 的简体中文 Mod。
 
 当前版本：**v0.3.2**。本版本已经修复设置界面返回时的报错、UI 消失和部分事件文本解析问题，并加入启动前自动备份存档。现有译文以机器翻译初稿为基础，系统文本及 Polly 的部分夜间对话已经人工润色，其他内容仍会继续校对。
+
+## 汉化效果
+
+### 主菜单
+
+![Monster Prom 3 - Monster Roadtrip 汉化后的主菜单](docs/images/preview-main-menu.jpg)
+
+### 剧情对话
+
+![Monster Prom 3 - Monster Roadtrip 汉化后的剧情对话](docs/images/preview-dialogue.jpg)
+
+### 事件选项
+
+![Monster Prom 3 - Monster Roadtrip 汉化后的事件选项](docs/images/preview-choice.jpg)
 
 ## 安装
 
