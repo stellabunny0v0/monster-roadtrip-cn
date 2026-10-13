@@ -1,0 +1,197 @@
+﻿row_id,event_id,decision,source,before,after
+english_metatexts:GLR_ACH_DSC_ACTIVATEEFFECTAVOIDGAMEOVER,metatext,FIX,"You looked death in the eye and said... ""UwU""","你看着死神的眼睛说... ""乌乌""",你直视死神的眼睛，说了句……“UwU”
+english_metatexts:GLR_ACH_DSC_ALLDATEENDINGS,metatext,FIX,You got all the DATE ENDINGS... you're a true Casanova!,你得到了所有的约会结束... 你是真正的卡萨诺瓦!,你解锁了所有约会结局……真是个卡萨诺瓦！
+english_metatexts:GLR_ACH_DSC_ALLDESTINATIONSHARDDIFFICULTY,metatext,FIX,No DESTINATION could resist you... not even in HARD mode.,没有人能抗拒你... 甚至没有HARD模式。,没有你征服不了的目的地……连困难模式也一样。
+english_metatexts:GLR_ACH_DSC_ALLDESTINATIONSMVPS,metatext,FIX,You've been the MVP at every DESTINATION.,你曾经是每场比赛的MVP,你在每个目的地都当过 MVP。
+english_metatexts:GLR_ACH_DSC_ALLDESTINATIONSWITHOPPOSITEHITCHHIKER,metatext,FIX,You reached all the DESTINATIONS while traveling with their inconvenient HITCHHIKERS. You surely love a challenge!,"你和他们不方便的HITCHIKERS一起旅行的时候, 到达了所有的地盘。 你当然喜欢挑战!",你带着会妨碍相应目标的搭车客，抵达了所有目的地。你可真爱挑战！
+english_metatexts:GLR_ACH_DSC_ALLEVENT,metatext,FIX,You've seen all the EVENTS. Did... did you like them?,你见过所有的事件。 已经... 你喜欢他们吗?,你见过所有事件了。你……你喜欢吗？
+english_metatexts:GLR_ACH_DSC_ALLGOODENDINGS,metatext,POLISH,You got all GOOD ENDINGS. Don't you ever get tired of winning?,你得到了所有的好结局。 你赢过吗?,你解锁了所有好结局。赢这么多次，你都不腻吗？
+english_metatexts:GLR_ACH_DSC_ALLHITCHHIKERS,metatext,FIX,You've picked up all the HITCHHIKERS. There's always room in your car!,你捡起所有的HITCHIKERS。 你车上总有地方!,你载过所有搭车客了。你的车总能再挤一个！
+english_metatexts:GLR_ACH_DSC_ALLHORSESONAS,metatext,FIX,Neeeeeeeeeeeeeigh!,"不,不,不,不,不,不,不,不,不,不!",咴————！
+english_metatexts:GLR_ACH_DSC_ALLLOCATION,metatext,KEEP,You've visited all the LOCATIONS. Get some rest!,你参观了所有的地方。 休息一会!,你参观了所有的地方。 休息一会!
+english_metatexts:GLR_ACH_DSC_ALLMUSICVARIATIONS,metatext,FIX,You're an eclectic music aficionado,你是一个精通音乐的神通,你是个什么风格都爱的音乐迷
+english_metatexts:GLR_ACH_DSC_ALLOUTCOME,metatext,KEEP,You've seen all the OUTCOMES. Consider putting that on your resumé.,你看过所有的结果。 考虑把这个放在你的简历上。,你看过所有的结果。 考虑把这个放在你的简历上。
+english_metatexts:GLR_ACH_DSC_ALLSOUPSONAS,metatext,FIX,Sooooooooooooooup!,苏oo!,汤————！
+english_metatexts:GLR_ACH_DSC_ALLSPECIALMUSICVARIATIONS,metatext,FIX,You listened to all 4 secret songs. What a melomaniac!,你听了这四首秘密歌曲 真是个疯子!,你听过了全部 4 首隐藏歌曲。真是个狂热音乐迷！
+english_metatexts:GLR_ACH_DSC_ALLTRINKETS,metatext,FIX,You've collected all the TRINKETS. Which one was your favorite?,你已经收集了所有的TRINKETS。 哪个是你最喜欢的?,你收集齐了所有小物件。最喜欢哪一个？
+english_metatexts:GLR_ACH_DSC_BARTERGAMEOVER,metatext,FIX,Bartering with Noodles made you lose. Barter responsibly!,与面条交易让你输了。 易货是负责任的!,跟面条交换东西，居然把自己换输了。交换也要有点分寸！
+english_metatexts:GLR_ACH_DSC_CASINOLOSE5,metatext,KEEP,Remember: cool kidz don't gamble.,记住 酷小子别赌了,记住 酷小子别赌了
+english_metatexts:GLR_ACH_DSC_CASINOWIN5,metatext,KEEP,Lady Luck is on your side.,幸运夫人是站在你这边的,幸运夫人是站在你这边的
+english_metatexts:GLR_ACH_DSC_CASINOWINPOKER,metatext,FIX,You don't need to know how to play POKER 2 to win at POKER 2!,你不需要知道如何玩POKER 2在POKER 2取胜!,不懂怎么玩《扑克 2》，照样能赢《扑克 2》！
+english_metatexts:GLR_ACH_DSC_END_OF_THE_ROAD_FINISHED,metatext,FIX,"When you're out there, carry me with you.","当你在那里, 背我与你。",在外面的时候，也带上我吧。
+english_metatexts:GLR_ACH_DSC_END_OF_THE_ROAD_FINISHED_HARD,metatext,POLISH,"Good memories and all that, right?","美好的回忆和这一切,对不对?",美好的回忆什么的，对吧？
+english_metatexts:GLR_ACH_DSC_EV_3TAXILICENSES,metatext,KEEP,All problems can be solved with a taxi license.,所有问题都可以凭出租车执照解决.,所有问题都可以凭出租车执照解决.
+english_metatexts:GLR_ACH_DSC_EV_ALLMIRRORS,metatext,FIX,Know thyself.,知己相识.,认识你自己。
+english_metatexts:GLR_ACH_DSC_EV_ALLMONKEYWISHES,metatext,KEEP,"When you have a monkey's paw, everything looks like... something you can solve with a monkey's paw!","当你有一个猴子的爪子, 一切都看起来像... 用猴子的爪子就能解决的!","当你有一个猴子的爪子, 一切都看起来像... 用猴子的爪子就能解决的!"
+english_metatexts:GLR_ACH_DSC_EV_ALLPRANKS,metatext,POLISH,"Everything can be solved with a good, well-timed prank!",恶作剧可以解决一切问题,来个恰到好处的恶作剧，什么问题都能解决！
+english_metatexts:GLR_ACH_DSC_EV_CATCOFFEES,metatext,FIX,Meow!,嘘!,喵！
+english_metatexts:GLR_ACH_DSC_EV_FUNNYFACES,metatext,FIX,Narrator: they did try something funny.,旁白:他们确实尝试了些有趣的事。,旁白：他们还是搞怪了。
+english_metatexts:GLR_ACH_DSC_EV_MIRAGETOWN,metatext,KEEP,"Mirage Town, population: you.","幻影镇,人口:你.","幻影镇,人口:你."
+english_metatexts:GLR_ACH_DSC_EV_NOTHINGHAPPENS,metatext,POLISH,Chillin' at the spa with the homies!,和好友们一起在温泉疗养院凉快!,跟好朋友一起泡温泉，放松一下！
+english_metatexts:GLR_ACH_DSC_EV_POLLYSCOTTCLAY,metatext,FIX,2D is so last season!,2D是这么上一季!,2D 早就过时啦！
+english_metatexts:GLR_ACH_DSC_EV_POLLYSCOTTOUTFITS,metatext,FIX,You've seen all of Polly and Scott's outfits. These two surely packed a lot of clothes!,你都看过了 波莉 财务报告和审定财务报表 斯科特装束。 这两个人肯定收拾了好多衣服!,你见过波莉和斯科特的所有服装了。这俩人可真没少带衣服！
+english_metatexts:GLR_ACH_DSC_EV_PRANKCOACH,metatext,POLISH,"Ah, sweet, gullible Coach!","啊,亲爱的,容易骗取的教练!",啊，亲切又好骗的教练！
+english_metatexts:GLR_ACH_DSC_EV_SEDUCEKAIJU,metatext,FIX,It turns out size DOES matter.,"结果,大小DOS很重要。",原来尺寸还真很重要。
+english_metatexts:GLR_ACH_DSC_EV_SNOWBOARDING,metatext,FIX,You solved all your problems with the power of SNOWBOARDING!,你用SNOWBOARDING的力量解决了所有的问题!,你靠单板滑雪的力量解决了所有问题！
+english_metatexts:GLR_ACH_DSC_EV_SWITCHPOLLYANDSCOTT,metatext,FIX,You don't truly get to know your friends until you switch bodies.,在你转身之前你不会真正了解你的朋友,不互换身体，你就没法真正了解朋友。
+english_metatexts:GLR_ACH_DSC_FAIL3DEEPCONVOS,metatext,KEEP,Your intuition is... not great.,你的直觉是... 一点都不好。,你的直觉是... 一点都不好。
+english_metatexts:GLR_ACH_DSC_FAILDEEPCONVO,metatext,KEEP,"Nope, it was the other one.","不,是另一个","不,是另一个"
+english_metatexts:GLR_ACH_DSC_FINALCHOICEDEEPCONVOEASY,metatext,KEEP,"Let's pretend that was your first option, shall we?","让我们假装这是你的第一个选择,好吗?","让我们假装这是你的第一个选择,好吗?"
+english_metatexts:GLR_ACH_DSC_FIRSTDATEENDING,metatext,FIX,Your first DATE ENDING! It must be love!,你的第一个约会结束! 一定是爱!,你的第一个约会结局！一定是爱情！
+english_metatexts:GLR_ACH_DSC_FIRSTDESTINATIONHARDDIFFICULTY,metatext,FIX,You won at road-tripping... THE HARD WAY.,你赢得了道路拖车... 艰难的方式。,你赢下了公路旅行……用的是困难模式。
+english_metatexts:GLR_ACH_DSC_FIRSTDESTINATIONWITHOPPOSITEHITCHHIKER,metatext,FIX,"You reached a DESTINATION while traveling with an inconvenient HITCHHIKER, because you don't care.",你和一个不方便的HITCHIKER一起旅行的时候 碰到了个插座 因为你不在乎,带着会妨碍你的搭车客，你照样抵达了目的地。你根本不在乎。
+english_metatexts:GLR_ACH_DSC_GIVEALLINITIALTRINKETS,metatext,FIX,You've gotten rid of all your initial TRINKETS. Don't hold on to the past!,你已经摆脱了所有的初始TRINKETS。 别执着于过去!,你送走了所有初始小物件。别执着于过去！
+english_metatexts:GLR_ACH_DSC_GIVEANONINITIALTRINKET,metatext,FIX,"You asked for a refund, apparently.","你要求退款,显然。",看来你要求退款了。
+english_metatexts:GLR_ACH_DSC_HALFDATEENDING,metatext,FIX,You got half of the DATE ENDINGS. What an adventurous love life!,你得到了一半 约会结束。 多么冒险的爱情生活!,你解锁了一半的约会结局。你的情路可真刺激！
+english_metatexts:GLR_ACH_DSC_HALFEVENT,metatext,FIX,You've seen half of the EVENTS. What an eventful life!,你见过一半的盛会。 多么多变的人生啊!,你见过一半的事件了。这人生可真够精彩！
+english_metatexts:GLR_ACH_DSC_HALFLOCATION,metatext,KEEP,You've visited half of the LOCATIONS. Did you bring some postcards?,你已经参观了一半的地方。 你带明信片了吗?,你已经参观了一半的地方。 你带明信片了吗?
+english_metatexts:GLR_ACH_DSC_HALFOUTCOME,metatext,KEEP,You've seen half of the OUTCOMES. Keep going!,你已经看到一半的结果。 继续走!,你已经看到一半的结果。 继续走!
+english_metatexts:GLR_ACH_DSC_KICK3HITCHHIKERS,metatext,POLISH,You grow tired of people quite fast. Maybe... work on that?,你越来越厌倦了人 很快。 也许... 工作吗?,你很快就会厌倦别人。也许……该改改？
+english_metatexts:GLR_ACH_DSC_MAKE20MONKEYWISHES,metatext,KEEP,"This monkey isn't short on fingers, baby!","这只猴子不缺手指,宝贝!","这只猴子不缺手指,宝贝!"
+english_metatexts:GLR_ACH_DSC_PANCAKESONGUNTILDESTINATION,metatext,KEEP,"Pancake, pancake, pancake, pancake, pancake, pancake, pancake song!","煎饼,煎饼,煎饼,煎饼,煎饼,煎饼,煎饼的歌!","煎饼,煎饼,煎饼,煎饼,煎饼,煎饼,煎饼的歌!"
+english_metatexts:GLR_ACH_DSC_PLOTLINEMONEY,metatext,KEEP,You fought Heaven in order to attend a fancy banquet.,你为了参加盛会而与天堂抗争,你为了参加盛会而与天堂抗争
+english_metatexts:GLR_ACH_DSC_QUANTITIESBIGGAMEOVER,metatext,KEEP,You'd rather die than be boring.,你宁可死也不愿无聊,你宁可死也不愿无聊
+english_metatexts:GLR_ACH_DSC_QUANTITIESSMALLGAMEOVER,metatext,KEEP,You didn't take any risks... and you still died. Incredible!,你没有冒险... 你还是死了。 不可思议!,你没有冒险... 你还是死了。 不可思议!
+english_metatexts:GLR_ACH_DSC_SAMESTATTRINKETS,metatext,FIX,"4 of your TRINKETS were tied to the same RESOURCE. You sure liked that RESOURCE, huh?","4个你的TRINKETS被绑在同一资源。 你真的喜欢这个资源,是吧?",你的 4 件小物件对应同一种资源。你可真喜欢这种资源啊？
+english_metatexts:GLR_ACH_DSC_SECRETGAMEOVER,metatext,KEEP,Worst financial decision ever.,有史以来最糟糕的财务决定。,有史以来最糟糕的财务决定。
+english_metatexts:GLR_ACH_DSC_SINGLEPLAYERFAILUREINDIVIDUALENDING,metatext,FIX,Who knew you could play by yourself and still lose? A feat in and of itself!,谁知道你可以一个人玩 还输了呢? 自我的壮举!,谁能想到，一个人玩也能输呢？这本身就算个壮举！
+english_metatexts:GLR_ACH_DSC_SINGLEPLAYERSUCCESSINDIVIDUALENDING,metatext,FIX,Being the MVP of a party of 1 is still being an MVP!,作为1号派对的MVP仍然是MVP!.,队伍只有一个人，那 MVP 也是 MVP！
+english_metatexts:GLR_ACH_DSC_SKIPINFOBOARDLOCATION,metatext,FIX,You chose a LOCATION on the MAP INFO BOARD and you didn't visit it. Having second thoughts?,"你选择了MAP Info董事会的定位,你没有访问它。 有第二个想法吗?",你在地图信息板上选了一个地点，却没去。又改主意了？
+english_metatexts:GLR_ACH_DSC_SPEND200INPITSTOPBID,metatext,FIX,NO ONE STEALS YOUR FAVORITE SPOT.,没有人会踩你最爱的口水。,谁也别想抢你最喜欢的位置。
+english_metatexts:GLR_ACH_DSC_USEINFOBOARD3TIMES,metatext,FIX,You've chosen a LOCATION on the MAP INFO BOARD thrice. You clearly like to have everything under control.,你已经选择了一个位置 在MAP Info Board 三次。 你显然喜欢控制一切,你在地图信息板上选过三次地点。看来你喜欢把一切安排得明明白白。
+english_metatexts:GLR_ACH_DSC_WEEK1GAMEOVER,metatext,KEEP,"If you're going to lose, at least lose fast... right?",如果你要输 至少快输... 对不对?,如果你要输 至少快输... 对不对?
+english_metatexts:GLR_ACH_DSC_WINWITH4QUANTITIESBIG,metatext,FIX,You ONLY take risks.,你只能冒险。,你就是只选冒险的玩法。
+english_metatexts:GLR_ACH_DSC_WINWITH5MISSIONSDONE,metatext,FIX,You completed 5 PRANK DARES before reaching a DESTINATION. You never shy while facing a dare!,"你完成了5PRANK DARES 在到达一个定点前。 面对一个胆子,你从不害羞!",你在抵达目的地前完成了 5 项恶作剧挑战。面对挑战，你从不退缩！
+english_metatexts:GLR_ACH_DSC_WINWITHOUTKNOWNRESOURCES,metatext,KEEP,You won without ever choosing an ACTION with a KNOWN RESOURCE... So bold of you!,你没有选择有已知资源的行动就赢了... 你胆子真大,你没有选择有已知资源的行动就赢了... 你胆子真大
+english_metatexts:GLR_ACH_TTL_ACTIVATEEFFECTAVOIDGAMEOVER,metatext,FIX,Not Today,"不是今天,不是今天,是今天,不是今天,是今天,不是今天,不是今天,不是今天,不是今天,不是今天,不是今天,不是今天,不是今天,不是今天,不是今天,不是今天",今天可不行
+english_metatexts:GLR_ACH_TTL_ALLDATEENDINGS,metatext,FIX,Road Harem,哈雷姆公路,公路后宫
+english_metatexts:GLR_ACH_TTL_ALLDESTINATIONSHARDDIFFICULTY,metatext,FIX,Road Masterz,公路总经理z,公路大师
+english_metatexts:GLR_ACH_TTL_ALLDESTINATIONSMVPS,metatext,KEEP,G.O.A.T.,G.O.A.T.,G.O.A.T.
+english_metatexts:GLR_ACH_TTL_ALLDESTINATIONSWITHOPPOSITEHITCHHIKER,metatext,FIX,Come Hell or High Water,来地狱或高水,天塌下来也要去
+english_metatexts:GLR_ACH_TTL_ALLEVENT,metatext,FIX,Globetrotter,环球旅行器,环球旅行家
+english_metatexts:GLR_ACH_TTL_ALLGOODENDINGS,metatext,FIX,All's Well that Ends Well,万事如意 万事如意,结局好，一切都好
+english_metatexts:GLR_ACH_TTL_ALLHITCHHIKERS,metatext,KEEP,Road Kindness,公路仁爱,公路仁爱
+english_metatexts:GLR_ACH_TTL_ALLHORSESONAS,metatext,KEEP,There's a Horse Inside of You,有匹马在你体内,有匹马在你体内
+english_metatexts:GLR_ACH_TTL_ALLLOCATION,metatext,KEEP,Tourist,旅游者,旅游者
+english_metatexts:GLR_ACH_TTL_ALLMUSICVARIATIONS,metatext,FIX,Mixtaped!,混杂了!,混音带！
+english_metatexts:GLR_ACH_TTL_ALLOUTCOME,metatext,FIX,Nomad,游牧民族,游牧者
+english_metatexts:GLR_ACH_TTL_ALLSOUPSONAS,metatext,FIX,SOUPSONAS!,苏菲索纳斯!,汤版人设！
+english_metatexts:GLR_ACH_TTL_ALLSPECIALMUSICVARIATIONS,metatext,KEEP,The Secret Tapes,秘密录音带,秘密录音带
+english_metatexts:GLR_ACH_TTL_ALLTRINKETS,metatext,FIX,Merchant,商贸,商人
+english_metatexts:GLR_ACH_TTL_BARTERGAMEOVER,metatext,FIX,Bad Barterer,坏易货,交换苦手
+english_metatexts:GLR_ACH_TTL_CASINOLOSE5,metatext,KEEP,Bad Gambler,坏赌徒,坏赌徒
+english_metatexts:GLR_ACH_TTL_CASINOWIN5,metatext,KEEP,Lucky Bastard,幸运的混蛋,幸运的混蛋
+english_metatexts:GLR_ACH_TTL_CASINOWINPOKER,metatext,FIX,"Poker, the Sequel","扑克,赛克号",扑克续作
+english_metatexts:GLR_ACH_TTL_END_OF_THE_ROAD_FINISHED,metatext,KEEP,End of the Road,道路尽头,道路尽头
+english_metatexts:GLR_ACH_TTL_END_OF_THE_ROAD_FINISHED_HARD,metatext,FIX,The Very End,绝境,路的最尽头
+english_metatexts:GLR_ACH_TTL_EV_3TAXILICENSES,metatext,FIX,YOU GET A TAXI!,你得到一个TAXI!,你也有出租车了！
+english_metatexts:GLR_ACH_TTL_EV_ALLMIRRORS,metatext,FIX,Self-Reflection,自译自译,自我映照
+english_metatexts:GLR_ACH_TTL_EV_ALLMONKEYWISHES,metatext,KEEP,The 3 Wishes of the Monkey's Paw,猴爪的3个愿望,猴爪的3个愿望
+english_metatexts:GLR_ACH_TTL_EV_ALLPRANKS,metatext,FIX,Prank Masterz 4 Lyfe!,恶作剧大师 4 Life!,一辈子的恶作剧大师！
+english_metatexts:GLR_ACH_TTL_EV_CATCOFFEES,metatext,FIX,Cat Coffee Three Ways,猫咖啡 三道道,猫咪咖啡的三种做法
+english_metatexts:GLR_ACH_TTL_EV_FUNNYFACES,metatext,FIX,Don't Try Anything Funny!,不要尝试任何有趣的东西!,别搞怪！
+english_metatexts:GLR_ACH_TTL_EV_MIRAGETOWN,metatext,FIX,Mirage Citizen,幻影公民组织,幻影镇居民
+english_metatexts:GLR_ACH_TTL_EV_NOTHINGHAPPENS,metatext,FIX,Just Chill,冷静点,放松就好
+english_metatexts:GLR_ACH_TTL_EV_POLLYSCOTTCLAY,metatext,FIX,Monster Roadtrip: Now in 3D,怪物公路旅行: 现在在 3D,怪物公路旅行：现已推出 3D 版
+english_metatexts:GLR_ACH_TTL_EV_POLLYSCOTTOUTFITS,metatext,FIX,Fashionista,时尚主义,时尚达人
+english_metatexts:GLR_ACH_TTL_EV_PRANKCOACH,metatext,FIX,Pranked!,恶作剧!,被整了！
+english_metatexts:GLR_ACH_TTL_EV_SEDUCEKAIJU,metatext,FIX,Kaiju Affair,开州事件,巨兽情缘
+english_metatexts:GLR_ACH_TTL_EV_SNOWBOARDING,metatext,FIX,SNOWBOARDING!,闪闪发光!,单板滑雪！
+english_metatexts:GLR_ACH_TTL_EV_SWITCHPOLLYANDSCOTT,metatext,FIX,Happy Freaky Friday!,怪胎周五快乐!,疯狂星期五快乐！
+english_metatexts:GLR_ACH_TTL_FAIL3DEEPCONVOS,metatext,FIX,Very Bad Date,非常糟糕的日期,糟透了的约会
+english_metatexts:GLR_ACH_TTL_FAILDEEPCONVO,metatext,FIX,Bad Date,错误的日期,糟糕的约会
+english_metatexts:GLR_ACH_TTL_FINALCHOICEDEEPCONVOEASY,metatext,FIX,Bad Listener,不良收听器,不擅长倾听
+english_metatexts:GLR_ACH_TTL_FIRSTDATEENDING,metatext,FIX,Road Fling,道路飘飘,公路艳遇
+english_metatexts:GLR_ACH_TTL_FIRSTDESTINATIONHARDDIFFICULTY,metatext,FIX,The Roadtrip Less Traveled,路途减速,少有人走的旅途
+english_metatexts:GLR_ACH_TTL_FIRSTDESTINATIONWITHOPPOSITEHITCHHIKER,metatext,FIX,Against all Odds,对抗所有奇数,排除万难
+english_metatexts:GLR_ACH_TTL_GIVEALLINITIALTRINKETS,metatext,FIX,Clean Slate,清理板块,重新开始
+english_metatexts:GLR_ACH_TTL_GIVEANONINITIALTRINKET,metatext,KEEP,I Didn't Like It!,我不喜欢这样!,我不喜欢这样!
+english_metatexts:GLR_ACH_TTL_HALFDATEENDING,metatext,KEEP,Road Love,道路之爱,道路之爱
+english_metatexts:GLR_ACH_TTL_HALFEVENT,metatext,KEEP,Journeyer,旅行者,旅行者
+english_metatexts:GLR_ACH_TTL_HALFLOCATION,metatext,KEEP,Excursionist,旅游者,旅游者
+english_metatexts:GLR_ACH_TTL_HALFOUTCOME,metatext,KEEP,Wanderer,流浪汉,流浪汉
+english_metatexts:GLR_ACH_TTL_KICK3HITCHHIKERS,metatext,FIX,Picky Picker-upper,挑挑拣选手( C),挑剔的搭车司机
+english_metatexts:GLR_ACH_TTL_MAKE20MONKEYWISHES,metatext,KEEP,The 20 Wishes of the Monkey's Paw,猴爪的20个愿望,猴爪的20个愿望
+english_metatexts:GLR_ACH_TTL_PANCAKESONGUNTILDESTINATION,metatext,FIX,You Will Have to Sing Along!,你将不得不歌唱在一起!,你也得跟着唱！
+english_metatexts:GLR_ACH_TTL_PLOTLINEMONEY,metatext,KEEP,Peacemaker,调解人,调解人
+english_metatexts:GLR_ACH_TTL_QUANTITIESBIGGAMEOVER,metatext,FIX,Go Big and Go Home,"大块头,回家去",玩把大的，然后回家
+english_metatexts:GLR_ACH_TTL_QUANTITIESSMALLGAMEOVER,metatext,FIX,Cautious Idiot,聪明的白痴,谨慎的笨蛋
+english_metatexts:GLR_ACH_TTL_SAMESTATTRINKETS,metatext,FIX,Minmaxer,闪光器,极限配点玩家
+english_metatexts:GLR_ACH_TTL_SECRETGAMEOVER,metatext,FIX,One-Star Review,独星评论,一星差评
+english_metatexts:GLR_ACH_TTL_SINGLEPLAYERFAILUREINDIVIDUALENDING,metatext,FIX,Least Valued Player,最低值玩家,最无价值玩家
+english_metatexts:GLR_ACH_TTL_SINGLEPLAYERSUCCESSINDIVIDUALENDING,metatext,FIX,You Have No Rival!,你没有Rival!,你没有对手！
+english_metatexts:GLR_ACH_TTL_SKIPINFOBOARDLOCATION,metatext,FIX,Map Waster,地图废件员,地图白用了
+english_metatexts:GLR_ACH_TTL_SPEND200INPITSTOPBID,metatext,FIX,High Bidder,高标牌,出价大户
+english_metatexts:GLR_ACH_TTL_USEINFOBOARD3TIMES,metatext,FIX,Travel Agent,旅行社,旅行代理人
+english_metatexts:GLR_ACH_TTL_WEEK1GAMEOVER,metatext,FIX,Homesick,思乡会,想家了
+english_metatexts:GLR_ACH_TTL_WINWITH4QUANTITIESBIG,metatext,FIX,Go Big or Go Home,大号还是回家去,要玩就玩大的，不然就回家
+english_metatexts:GLR_ACH_TTL_WINWITH5MISSIONSDONE,metatext,FIX,Prank Daredevil,"恶作剧""恶作剧""",恶作剧挑战狂人
+english_metatexts:GLR_ACH_TTL_WINWITHOUTKNOWNRESOURCES,metatext,KEEP,Into the Unknown,进入未知,进入未知
+english_metatexts:GLR_BCK,metatext,KEEP,Back,返回,返回
+english_metatexts:GLR_CHR_AARAVI,metatext,FIX,Aaravi Mishra,阿拉薇 米什拉语Name,阿拉薇·米什拉
+english_metatexts:GLR_CHR_ABDU,metatext,FIX,Abdu,阿卜杜语,阿卜杜
+english_metatexts:GLR_CHR_ADRIEL,metatext,KEEP,Adriel,阿德里尔,阿德里尔
+english_metatexts:GLR_CHR_ADRIEN,metatext,FIX,Adrien,阿德里安 亚德里安 Adrien,阿德里安
+english_metatexts:GLR_CHR_ANGEL1,metatext,KEEP,Angel 1,天使1号,天使1号
+english_metatexts:GLR_CHR_ANGEL2,metatext,KEEP,Angel 2,天使2号,天使2号
+english_metatexts:GLR_CHR_ANIMATRONICS,metatext,FIX,"Simon Soups Animatronics (Carrot, Leek and Onion)","西蒙·索普斯·阿尼马特龙(Carrot, Leek和洋葱)",Simon Soups 机械人偶（胡萝卜、韭葱和洋葱）
+english_metatexts:GLR_CHR_CLS,metatext,KEEP,Close,关闭,关闭
+english_metatexts:GLR_CHR_FLL,metatext,KEEP,Fullscreen,全屏,全屏
+english_metatexts:GLR_EVT_FL,metatext,KEEP,Failure,失败,失败
+english_metatexts:GLR_EVT_OUT,metatext,KEEP,Outcome,结果,结果
+english_metatexts:GLR_EVT_SC,metatext,FIX,Success,成绩,成功
+english_metatexts:GLR_EVT_TTL,metatext,KEEP,Event completion checklist,事件完成清单,事件完成清单
+english_metatexts:GLR_GLR_BGP,metatext,KEEP,Background pictures:,背景图片 :,背景图片 :
+english_metatexts:GLR_GLR_CHI,metatext,FIX,Character icons:,字符图标 :,角色头像：
+english_metatexts:GLR_GLR_CHM,metatext,FIX,Character models:,字符模型 :,角色模型：
+english_metatexts:GLR_GLR_CHV,metatext,FIX,Character variations:,字符变化 :,角色变体：
+english_metatexts:GLR_GLR_ENP,metatext,FIX,Ending pictures:,结束图片 :,结局图片：
+english_metatexts:GLR_GLR_ENV,metatext,FIX,Ending variations:,结束变量 :,结局变体：
+english_metatexts:GLR_GLR_LLV,metatext,FIX,Love log variations:,爱的日志变化 :,恋爱记录变体：
+english_metatexts:GLR_GLR_TTL,metatext,FIX,Gallery stats,图片库统计,画廊统计
+english_metatexts:GLR_GST_BEP,metatext,FIX,Bench pictures:,相机图片 :,长椅图片：
+english_metatexts:GLR_GST_DTE,metatext,FIX,Date endings:,日期结束 :,约会结局：
+english_metatexts:GLR_GST_EVT,metatext,FIX,Events:,活动 :,事件：
+english_metatexts:GLR_GST_FPC,metatext,FIX,Fav playable character:,fav 可播放字符 :,最常玩的角色：
+english_metatexts:GLR_GST_ITM,metatext,FIX,Trinkets acquired:,已获取 Trinkets :,获得的小物件：
+english_metatexts:GLR_GST_LOC,metatext,KEEP,Locations:,地点 :,地点 :
+english_metatexts:GLR_GST_LOV,metatext,FIX,Location variations:,位置变化 :,地点变体：
+english_metatexts:GLR_GST_MGO,metatext,KEEP,Weak spot:,弱点:,弱点:
+english_metatexts:GLR_GST_MVE,metatext,KEEP,MVP endings:,MVP结局 :,MVP结局 :
+english_metatexts:GLR_GST_OUT,metatext,KEEP,Outcomes:,结果:,结果:
+english_metatexts:GLR_GST_RNL,metatext,FIX,Runs lost:,丢失的运行 :,失败的周目：
+english_metatexts:GLR_GST_RNS,metatext,FIX,Runs completed:,运行已完成 :,完成的周目：
+english_metatexts:GLR_GST_RNW,metatext,FIX,Runs won:,运行胜出 :,获胜的周目：
+english_metatexts:GLR_GST_SCC,metatext,KEEP,Success endings:,成功结局 :,成功结局 :
+english_metatexts:GLR_GST_SCR,metatext,KEEP,Secret endings:,秘密结局 :,秘密结局 :
+english_metatexts:GLR_GST_SKP,metatext,FIX,Sketch pictures:,绘制图片 :,草图图片：
+english_metatexts:GLR_GST_SPC,metatext,KEEP,Special stuff:,特殊的东西 :,特殊的东西 :
+english_metatexts:GLR_GST_STC,metatext,KEEP,Stickers:,贴纸 :,贴纸 :
+english_metatexts:GLR_GST_TTL,metatext,KEEP,Game stats,游戏数据,游戏数据
+english_metatexts:GLR_NONE,metatext,KEEP,None,无,无
+english_metatexts:GLR_SPC_TTL,metatext,KEEP,Special stuff,特别的东西,特别的东西
+english_metatexts:GLR_TTL_BACKGROUNDS,metatext,FIX,Regular,经常,普通
+english_metatexts:GLR_TTL_BACKGROUNDSEVENTLOCATION,metatext,KEEP,Scenic,风景,风景
+english_metatexts:GLR_TTL_BACKGROUNDSNOFRAME,metatext,POLISH,No Frame,无框架,无边框
+english_metatexts:GLR_TTL_BACKGROUNDSWIDE,metatext,FIX,Wide,宽,宽屏
+english_metatexts:GLR_TTL_CHARACTERICONS,metatext,FIX,Character Icons,字符图标,角色头像
+english_metatexts:GLR_TTL_CHARACTERS,metatext,FIX,Characters,字符,角色
+english_metatexts:GLR_TTL_CREDITS,metatext,FIX,Credits,贷项,制作人员
+english_metatexts:GLR_TTL_ENDINGS,metatext,KEEP,Individual Endings,个人结局,个人结局
+english_metatexts:GLR_TTL_EVENTCHECKLIST,metatext,KEEP,Event checklist,事件核对表,事件核对表
+english_metatexts:GLR_TTL_FANARTS,metatext,FIX,Guest art,来宾艺术,特邀画作
+english_metatexts:GLR_TTL_ITEMS,metatext,FIX,Trinkets,倾角,小物件
+english_metatexts:GLR_TTL_LOCATIONS,metatext,KEEP,Locations,地点,地点
+english_metatexts:GLR_TTL_ROADENDINGS,metatext,FIX,Roadtrip endings,路由结束,公路旅行结局
+english_metatexts:GLR_TTL_SKETCHES,metatext,KEEP,Concept art,概念艺术,概念艺术
+english_metatexts:GLR_TTL_SPECIALSTUFF,metatext,KEEP,Special stuff,特别的东西,特别的东西
+english_metatexts:GLR_TTL_STATS,metatext,FIX,Stats,点数,统计
+english_metatexts:GLR_VC1,metatext,FIX,Outfit,外观,服装
+english_metatexts:GLR_VC2,metatext,FIX,Expression,表达式,表情
+english_metatexts:GLR_VC3,metatext,FIX,Expression 2,表达式2,表情 2
+english_metatexts:GLR_VC4,metatext,FIX,Expression 3,表达式 3,表情 3
+english_metatexts:GLR_VC_PC,metatext,FIX,Playable Character,可播放字符,可玩角色
+english_metatexts:GLR_VG1,metatext,FIX,Variation,变化,变体
+english_metatexts:GLR_VG2,metatext,FIX,Variation,变化,变体
+english_metatexts:GLR_VG3,metatext,FIX,Variation,变化,变体
+english_metatexts:GLR_VG4,metatext,FIX,Variation,变化,变体

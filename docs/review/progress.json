@@ -1,7 +1,7 @@
 {
   "total_entries": 30255,
-  "human_reviewed_entries": 1204,
-  "pending_entries": 29050,
+  "human_reviewed_entries": 4124,
+  "pending_entries": 26106,
   "pass_001": {
     "FIX": 427,
     "POLISH": 20,
@@ -16,18 +16,113 @@
     "REVIEW": 1
   },
   "flagged_entries": [
-    "english_events_standard:L495"
+    "english_events_standard:L495",
+    "english_metatexts:ITM_TTL_BLADEBLADE",
+    "english_metatexts:ITM_TTL_MOUTHSTUFF",
+    "english_metatexts:ITM_TTL_STRONGSTUFF",
+    "english_metatexts:RMD_CAVES",
+    "english_metatexts:RMD_LANDMARK_HOLE",
+    "english_metatexts:STK_TAB_CHS",
+    "english_metatexts:GLR_ECK_WARBOARDPIECE",
+    "english_metatexts:GLR_ACH_TTL_FIRSTFULLDESTINATION",
+    "english_metatexts:GLR_ECK_CODROUTE",
+    "english_metatexts:GLR_CHR_BATNISS",
+    "english_metatexts:GLR_CHR_HYPPERION",
+    "english_metatexts:GLR_CHR_OLDPOLLY",
+    "english_metatexts:GLR_CHR_OLDSCOTT",
+    "english_metatexts:GLR_CHR_OLDSCOTT2",
+    "english_metatexts:GLR_CHR_OLDSCOTT3",
+    "english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_Q",
+    "english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_M",
+    "english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_M1",
+    "english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_M2",
+    "english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_M3",
+    "english_metatexts:GLR_VAR_ENDING_MVP_SLIME_CRYPTID_CONVENTION",
+    "english_metatexts:GLR_VAR_IMAGE_BACKGROUND_LOCATION_DINER_DOOM_SPECIALCHAR_FAITH",
+    "english_metatexts:GLR_VAR_IMAGE_PC_PUMPKIN_KITE_TOURNAMENT",
+    "english_metatexts:GLR_VAR_IMAGE_PC_PUMPKIN_VILLAGE_ANIMALS"
   ],
   "pass_003": {
     "POLISH": 38,
     "FIX": 153,
     "KEEP": 59
   },
-  "human_inspected_entries": 1205,
-  "remaining_to_finalize_entries": 29051,
+  "human_inspected_entries": 4149,
+  "remaining_to_finalize_entries": 26131,
   "pass_004": {
     "KEEP": 90,
     "FIX": 85,
     "POLISH": 11
+  },
+  "pending_by_source_file": {
+    "english_events_bubbles.txt": 918,
+    "english_events_endings.txt": 1799,
+    "english_events_maingame.txt": 17989,
+    "english_events_pitstop.txt": 5400
+  },
+  "pass_005": {
+    "KEEP": 267,
+    "FIX": 261,
+    "POLISH": 24,
+    "REVIEW": 6
+  },
+  "decisions_total": {
+    "FIX": 2867,
+    "POLISH": 253,
+    "KEEP": 1004,
+    "REVIEW": 25
+  },
+  "pass_006": {
+    "FIX": 158,
+    "POLISH": 16,
+    "KEEP": 95,
+    "REVIEW": 1
+  },
+  "pass_007": {
+    "KEEP": 21,
+    "FIX": 102,
+    "POLISH": 39
+  },
+  "pass_008": {
+    "KEEP": 53,
+    "POLISH": 37,
+    "FIX": 98
+  },
+  "pass_009": {
+    "KEEP": 46,
+    "FIX": 194,
+    "POLISH": 8,
+    "REVIEW": 2
+  },
+  "pass_010": {
+    "FIX": 125,
+    "POLISH": 7,
+    "KEEP": 64
+  },
+  "pass_011": {
+    "KEEP": 130,
+    "FIX": 125,
+    "REVIEW": 6,
+    "POLISH": 9
+  },
+  "pass_012": {
+    "KEEP": 20,
+    "FIX": 275,
+    "REVIEW": 5
+  },
+  "pass_013": {
+    "FIX": 294,
+    "KEEP": 5,
+    "REVIEW": 1
+  },
+  "pass_014": {
+    "FIX": 280,
+    "REVIEW": 3,
+    "KEEP": 17
+  },
+  "pass_015": {
+    "FIX": 92,
+    "KEEP": 49,
+    "POLISH": 9
   }
 }

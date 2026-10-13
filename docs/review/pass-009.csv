@@ -1,0 +1,251 @@
+﻿row_id,event_id,decision,source,before,after
+english_metatexts:ACH_UNL_TTL,metatext,KEEP,Achievement Unlocked!,成就解锁!,成就解锁!
+english_metatexts:ACH_UNL_TTL_PLAYSTATION,metatext,FIX,Trophy Earned!,荣耀!,获得奖杯！
+english_metatexts:GLR_ACH_DSC_ALLDESTINATIONS,metatext,FIX,You visited the 6 base DESTINATIONS. What a champ!,你参观了6个基地。 好厉害的冠军!,你游遍了 6 个基础目的地。真厉害！
+english_metatexts:GLR_ACH_DSC_ALLFULLDESTINATIONS,metatext,FIX,6 DESTINATIONS with all their LAYERS?! You win at road-tripping.,6位选手和他们的领队在一起? 你赢得了道路拖车。,6 个目的地的所有扩展内容都体验过了？！这公路旅行算是让你玩透了。
+english_metatexts:GLR_ACH_DSC_ALLGAMEOVERS,metatext,POLISH,Fail more! Fail better!,再失败一次! 失败的更好!,再失败！失败得更漂亮！
+english_metatexts:GLR_ACH_DSC_FIRSTDESTINATION,metatext,POLISH,You reached your first destination. You're road-tripping the right way!,你到达了你的第一个目的地。 你走对路了!,你到达了第一个目的地。这公路旅行算是玩明白了！
+english_metatexts:GLR_ACH_DSC_FIRSTFULLDESTINATION,metatext,FIX,You're a true Nicolas Cage.,你是一个真正的尼古拉·凯奇。,你是真正的尼古拉斯·凯奇。
+english_metatexts:GLR_ACH_DSC_FIRSTGAMEOVER,metatext,FIX,Your first failure! Congratz!,你第一次失败! 康格拉兹!,第一次失败！恭喜啊！
+english_metatexts:GLR_ACH_DSC_HIDDENACHIEVEMENT,metatext,KEEP,,,
+english_metatexts:GLR_ACH_DSC_PLOTLINEHYPE,metatext,KEEP,You are officially the worst job applicant ever! Hooray?,你正式成为有史以来最差的求职者! 万岁?,你正式成为有史以来最差的求职者! 万岁?
+english_metatexts:GLR_ACH_DSC_PLOTLINEMAGIC,metatext,FIX,You were the true protagonist of the Coven's latest episode.,你是《科文》最新剧集的主角,你才是女巫团最新一集的真正主角。
+english_metatexts:GLR_ACH_DSC_PLOTLINEMIND,metatext,FIX,Monster Prom wasn't enough for you... Welcome to Cryptid Prom!,怪物舞会 对你来说还不够... 欢迎来到密码舞会!,怪物舞会已经满足不了你……欢迎来到神秘生物舞会！
+english_metatexts:GLR_ACH_DSC_PLOTLINESOUL,metatext,FIX,NANI?! YOU COULD BE THE NEW COMPETITIVE TAROT CHAMPION!!!,纳尼! 你可以成为新的竞争对手 塔罗特香槟!,纳尼？！你可以成为下一位竞技塔罗冠军！！！
+english_metatexts:GLR_ACH_DSC_PLOTLINESTAMINA,metatext,FIX,You got the goods. Noice.,货都交给你了 噪声。,你搞到货了。不错嘛。
+english_metatexts:GLR_ACH_TTL_ALLDESTINATIONS,metatext,KEEP,Passport Champion,护照冠军,护照冠军
+english_metatexts:GLR_ACH_TTL_ALLFULLDESTINATIONS,metatext,KEEP,Destroyer of Passports,护照破坏者,护照破坏者
+english_metatexts:GLR_ACH_TTL_ALLGAMEOVERS,metatext,KEEP,Roadmurder,道路谋杀,道路谋杀
+english_metatexts:GLR_ACH_TTL_FIRSTDESTINATION,metatext,KEEP,"It's Not the Journey, It's the Destination","这不是旅行,是目的地","这不是旅行,是目的地"
+english_metatexts:GLR_ACH_TTL_FIRSTFULLDESTINATION,metatext,REVIEW,Desti-national Treasure,Desti- 国宝,目的地宝藏
+english_metatexts:GLR_ACH_TTL_FIRSTGAMEOVER,metatext,FIX,Roadkill,道路杀人案,公路横死
+english_metatexts:GLR_ACH_TTL_HIDDENACHIEVEMENT,metatext,KEEP,Hidden achievement,隐藏成就,隐藏成就
+english_metatexts:GLR_ACH_TTL_HIDDENACHIEVEMENT_PLAYSTATION,metatext,KEEP,Hidden trophy,隐藏奖杯,隐藏奖杯
+english_metatexts:GLR_ACH_TTL_PLOTLINEHYPE,metatext,FIX,Hired!,开工了!,录用了！
+english_metatexts:GLR_ACH_TTL_PLOTLINEMAGIC,metatext,FIX,Season Finale,季后赛,本季大结局
+english_metatexts:GLR_ACH_TTL_PLOTLINEMIND,metatext,FIX,Cryptids Just Wanna Have Fun,密码只想玩玩,神秘生物也想玩个痛快
+english_metatexts:GLR_ACH_TTL_PLOTLINESOUL,metatext,FIX,Tarot Master,塔罗特大师,塔罗大师
+english_metatexts:GLR_ACH_TTL_PLOTLINESTAMINA,metatext,KEEP,Deal!,说定了!,说定了!
+english_metatexts:GLR_ECK_ADVENTUREWANDERER,metatext,KEEP,Wanderer in the Mist,迷雾中的漫游者,迷雾中的漫游者
+english_metatexts:GLR_ECK_AMANDASANCTUARY,metatext,KEEP,Secret Sacred Sanctuary,秘密圣所,秘密圣所
+english_metatexts:GLR_ECK_ANNOYINGHITCHHIKERS,metatext,FIX,Annoying Hitchhikers,讨厌的希契克人,烦人的搭车客
+english_metatexts:GLR_ECK_ANTIGAMBLING,metatext,POLISH,Cool Kidz don't Gamble,酷Kidz不会赌博,酷孩子不赌博
+english_metatexts:GLR_ECK_BATHORACLE,metatext,FIX,Bath Oracle,沐浴甲骨文,浴池神谕
+english_metatexts:GLR_ECK_BELLANDASIEGE,metatext,FIX,Waterpark Siege,水park 围棋,水上乐园围城战
+english_metatexts:GLR_ECK_BLINDDATE_EOTR,metatext,FIX,Blind Date: Mindy,盲日期:明蒂,相亲：明蒂
+english_metatexts:GLR_ECK_BROKENCAR,metatext,KEEP,Broken Car,破车,破车
+english_metatexts:GLR_ECK_BUMPINGKINGS,metatext,FIX,Bumping Uglies,弹出乌鸦,肉体碰撞
+english_metatexts:GLR_ECK_CAARAVICURSED,metatext,FIX,Talking to Aaravi: Being cursed,说话 阿拉薇: 被诅咒,和阿拉薇聊聊：诅咒
+english_metatexts:GLR_ECK_CAARAVIFOODTRUCK,metatext,FIX,Talking to Aaravi: Food truck,说话 阿拉薇: 食品卡车,和阿拉薇聊聊：餐车
+english_metatexts:GLR_ECK_CAARAVIINVENTORY,metatext,FIX,Talking to Aaravi: Inventory,说话 阿拉薇: 库存,和阿拉薇聊聊：物品栏
+english_metatexts:GLR_ECK_CAARAVISLAYER,metatext,FIX,Talking to Aaravi: Slayers,说话 阿拉薇编号: 屠夫,和阿拉薇聊聊：猎魔人
+english_metatexts:GLR_ECK_CADRIENENEMIES,metatext,KEEP,Talking to Adrien: The Crown's Enemies,与阿德里安交谈:王室的敌人,与阿德里安交谈:王室的敌人
+english_metatexts:GLR_ECK_CADRIENMERKINGDOM,metatext,FIX,Talking to Adrien: The Merkingdom,与阿德里安交谈:默金多姆,与阿德里安交谈：人鱼王国
+english_metatexts:GLR_ECK_CADRIENSQUIRE,metatext,FIX,Talking to Adrien: Being a Merknight,与阿德里安交谈:做个默克之夜,与阿德里安交谈：当人鱼骑士
+english_metatexts:GLR_ECK_CARFIGHT,metatext,FIX,Car Fight,汽车搏斗,汽车大战
+english_metatexts:GLR_ECK_CARSOLOMON1,metatext,FIX,Car Solomon 1,所罗门一号车,汽车所罗门 1
+english_metatexts:GLR_ECK_CARSOLOMON2,metatext,FIX,Car Solomon 2,所罗门2号车,汽车所罗门 2
+english_metatexts:GLR_ECK_CBRIANAMBITIONS,metatext,FIX,Talking to Brian: His Ambitions,说话 布莱恩:他的野心,和布莱恩聊聊：志向
+english_metatexts:GLR_ECK_CBRIANDAYDREAMING,metatext,FIX,Talking to Brian: Daydreaming,说话 布莱恩: 作白日梦,和布莱恩聊聊：白日梦
+english_metatexts:GLR_ECK_CBRIANFAMILY,metatext,FIX,Talking to Brian: His Family,说话 布莱恩:他的家属,和布莱恩聊聊：家人
+english_metatexts:GLR_ECK_CBRIANSCHOOL,metatext,FIX,Talking to Brian: Life at Spooky High,说话 布莱恩: 在Spooky高中的生活,和布莱恩聊聊：惊悚高中的生活
+english_metatexts:GLR_ECK_CCALCOMMONSENSE,metatext,KEEP,Talking to Cal: Common Sense,与卡尔交谈:常识,与卡尔交谈:常识
+english_metatexts:GLR_ECK_CCALDRIVING,metatext,FIX,Talking to Cal: Learning to Drive,与卡尔交谈:学习驱动,与卡尔交谈：学开车
+english_metatexts:GLR_ECK_CCALFEARS,metatext,KEEP,Talking to Cal: His Fears,与卡尔交谈:他的恐惧,与卡尔交谈:他的恐惧
+english_metatexts:GLR_ECK_CCALINFINITECHESS,metatext,KEEP,Talking to Cal: Infinite Chess,与卡尔交谈:无限国际象棋,与卡尔交谈:无限国际象棋
+english_metatexts:GLR_ECK_CDAARAVIMOUNT,metatext,FIX,Aaravi's Deep Conversation: New Mount,阿拉薇'深层对话:新山',阿拉薇的深入对话：新坐骑
+english_metatexts:GLR_ECK_CDADRIENCHANGE,metatext,FIX,Adrien's Deep Conversation: Changing the Merkingdom,阿德里安的深层对话:改变默金多姆,阿德里安的深入对话：改变人鱼王国
+english_metatexts:GLR_ECK_CDAMIENBIGOTE,metatext,FIX,Talking to Damien: Growing a Mustache,说话 达米恩: 长出胡子,和达米恩聊聊：留胡子
+english_metatexts:GLR_ECK_CDAMIENHELL,metatext,FIX,Talking to Damien: Hell,说话 达米恩地狱,和达米恩聊聊：地狱
+english_metatexts:GLR_ECK_CDAMIENSCARS,metatext,FIX,Talking to Damien: Scars,说话 达米恩: 伤疤,和达米恩聊聊：伤疤
+english_metatexts:GLR_ECK_CDAMIENTATTOO,metatext,FIX,Talking to Damien: Tattoos,说话 达米恩: 纹身,和达米恩聊聊：纹身
+english_metatexts:GLR_ECK_CDBRIANFUTURE,metatext,FIX,Brian's Deep Conversation: His Future,布莱恩深层对话:他的未来,布莱恩的深入对话：未来
+english_metatexts:GLR_ECK_CDCALCULESTERFATHERHOOD,metatext,FIX,Calculester's Deep Conversation: Fatherhood,"卡库莱斯特""深谈:父道""",卡库莱斯特的深入对话：当爸爸
+english_metatexts:GLR_ECK_CDDAMIENRESUME,metatext,FIX,Damien's Deep Conversation: Resume,达米恩深层对话:重现,达米恩的深入对话：简历
+english_metatexts:GLR_ECK_CDFINNPAPPAS,metatext,FIX,Finn's Deep Conversation: Pranking Pappas,芬恩深谈:平分派帕斯,芬恩的深入对话：整蛊帕帕斯
+english_metatexts:GLR_ECK_CDHOPEV,metatext,FIX,Hope's Deep Conversation: Preparing for the Future,希望的深层对话:迎接未来,霍普的深入对话：为未来做准备
+english_metatexts:GLR_ECK_CDJOYSIDEKICK,metatext,FIX,Joy's Deep Conversation: Sidekick,乔伊的深层对话:侧翼,乔伊的深入对话：搭档
+english_metatexts:GLR_ECK_CDLAMBROLE,metatext,FIX,The Lamb's Deep Conversation: Applying for the Cult,羔羊的深层对话:申请邪教,羔羊的深入对话：申请加入邪教
+english_metatexts:GLR_ECK_CDLIAMNEXTLIFE,metatext,FIX,Liam's Deep Conversation: His Future,利亚姆深层对话:他的未来,利亚姆的深入对话：未来
+english_metatexts:GLR_ECK_CDMILOCOLLAB,metatext,FIX,Milo's Deep Conversation: New Collab,迈洛'深层对话:新组合',迈洛的深入对话：新合作
+english_metatexts:GLR_ECK_CDMIRANDAMYVILLAGE,metatext,FIX,Miranda's Deep Conversation: Ruling her Village,米兰达深层对话:摧毁她的村庄,米兰达的深入对话：治理村庄
+english_metatexts:GLR_ECK_CDMOSSRESEARCH,metatext,FIX,Moss's Deep Conversation: Research,"Moss的""深度对话:研究""",莫斯的深入对话：研究
+english_metatexts:GLR_ECK_CDPOLLYKINKS,metatext,FIX,Polly's Deep Conversation: Kinks,"波莉""深层对话:金克""",波莉的深入对话：性癖
+english_metatexts:GLR_ECK_CDPOLLYNOVEL,metatext,FIX,Polly's Deep Conversation: Novel,"波莉'""深谈:小说""",波莉的深入对话：小说
+english_metatexts:GLR_ECK_CDREDCHALLENGE,metatext,FIX,Amira's Deep Conversation: Her Goals,"阿米拉""深谈:她的目标""",阿米拉的深入对话：目标
+english_metatexts:GLR_ECK_CDSCOTTNEWSPORT,metatext,FIX,Scott's Deep Conversation: New Sport,斯科特深层对话:新运动,斯科特的深入对话：新运动
+english_metatexts:GLR_ECK_CDSCOTTWORKOUT,metatext,FIX,Scott's Deep Conversation: New Workout,斯科特深谈:新工作,斯科特的深入对话：新锻炼方式
+english_metatexts:GLR_ECK_CDSTUDOCUMENTARIES,metatext,FIX,Stu's Deep Conversation: Documentaries,斯图深谈:纪录片,斯图的深入对话：纪录片
+english_metatexts:GLR_ECK_CDVALERIEFUTURE,metatext,FIX,Valerie's Deep Conversation: Her Future,瓦莱丽的深层对话:她的未来,瓦莱丽的深入对话：未来
+english_metatexts:GLR_ECK_CDVERASPREADSHEETS,metatext,FIX,Vera's Deep Conversation: Spreadsheets,维拉深层对话:电子表格,维拉的深入对话：电子表格
+english_metatexts:GLR_ECK_CDVICKYINTERESTS,metatext,FIX,Vicky's Deep Conversation: Her Interests,"维姬""深层对话:她的利益""",维姬的深入对话：兴趣
+english_metatexts:GLR_ECK_CDYELLOWCOOLER,metatext,FIX,Oz's Deep Conversation: His Projects for the Future,奥兹深入对话:他对未来的项目,奥兹的深入对话：未来计划
+english_metatexts:GLR_ECK_CDZOEAUS,metatext,FIX,Zoe's Deep Conversation: AUs,佐伊深层对话: AU,佐伊的深入对话：平行世界设定
+english_metatexts:GLR_ECK_CFINNCAREER,metatext,KEEP,Talking to Finn: His Job,跟芬恩说话:他的工作,跟芬恩说话:他的工作
+english_metatexts:GLR_ECK_CFINNHOBBIES,metatext,KEEP,Talking to Finn: His Hobbies,跟芬恩说话:他的爱好,跟芬恩说话:他的爱好
+english_metatexts:GLR_ECK_CFINNMERKINGDOM,metatext,FIX,Talking to Finn: The Merkingdom,与芬恩交谈:默金多姆,与芬恩交谈：人鱼王国
+english_metatexts:GLR_ECK_CFINNOFFICE,metatext,FIX,Talking to Finn: Office Life,与芬兰人交谈:办公室生活,与芬恩交谈：办公室生活
+english_metatexts:GLR_ECK_CHOPECOVEN,metatext,FIX,Talking to Hope: The Coven,与希望交谈:巫师,与霍普交谈：女巫团
+english_metatexts:GLR_ECK_CHOPEDAMIEN,metatext,FIX,Talking to Hope: The whole Damien Thing,与希望交谈:整个 达米恩 东西,与霍普交谈：达米恩那件事
+english_metatexts:GLR_ECK_CHOPEMAGIC,metatext,FIX,Talking to Hope: Magic,与希望交谈:魔法,与霍普交谈：魔法
+english_metatexts:GLR_ECK_CHOPETAROT,metatext,FIX,Talking to Hope: Competitive Tarot,与希望交谈:有竞争力的塔罗牌,与霍普交谈：竞技塔罗
+english_metatexts:GLR_ECK_CJOYCOVENORIGINS,metatext,FIX,Talking to Joy: The Coven,和乔伊说话: 巫师,和乔伊聊聊：女巫团
+english_metatexts:GLR_ECK_CJOYGRACE,metatext,KEEP,Talking to Joy: Grace,和乔伊说话: 格蕾丝,和乔伊说话: 格蕾丝
+english_metatexts:GLR_ECK_CJOYMAGIC,metatext,FIX,Talking to Joy: Magic,与欢乐交谈:魔法,与乔伊交谈：魔法
+english_metatexts:GLR_ECK_CJOYREALMS,metatext,FIX,Talking to Joy: Realms,与乔伊说话:王国,与乔伊交谈：异界
+english_metatexts:GLR_ECK_CLAMB1,metatext,KEEP,Talking to The Lamb: How to Run a Cult,"与""羔羊""交谈:如何去搞邪教","与""羔羊""交谈:如何去搞邪教"
+english_metatexts:GLR_ECK_CLAMB2,metatext,FIX,Talking to The Lamb: Cult Rituals,"与""羔羊""对话:""邪教礼仪""",与羔羊交谈：邪教仪式
+english_metatexts:GLR_ECK_CLAMB3,metatext,KEEP,Talking to The Lamb: Building the Cult HQ,"与""羔羊""对话:建立""邪教""总部","与""羔羊""对话:建立""邪教""总部"
+english_metatexts:GLR_ECK_CLAMB4,metatext,FIX,Talking to The Lamb: Doctrine,"与""羔羊""对话:理论",与羔羊交谈：教义
+english_metatexts:GLR_ECK_CLAMB5,metatext,KEEP,Talking to The Lamb: Death,"与""羔羊""对话:死亡","与""羔羊""对话:死亡"
+english_metatexts:GLR_ECK_CLIAMART,metatext,FIX,Talking to Liam: Art,说话 利亚姆: 艺术,和利亚姆聊聊：艺术
+english_metatexts:GLR_ECK_CLIAMCOVEN,metatext,FIX,Talking to Liam: The Coven,说话 利亚姆: 巫师,和利亚姆聊聊：女巫团
+english_metatexts:GLR_ECK_CLIAMDARKLORD,metatext,FIX,Talking to Liam: The Dark Side,说话 利亚姆: 暗边,和利亚姆聊聊：黑暗面
+english_metatexts:GLR_ECK_CLIAMYAOI,metatext,FIX,Talking to Liam: Yaoi,说话 利亚姆: 项一.,和利亚姆聊聊：耽美
+english_metatexts:GLR_ECK_CMERPERKNIGHTACADEMY,metatext,FIX,Talking to Adrien: Where he studied,与阿德里安交谈:他在哪里学习,与阿德里安交谈：求学经历
+english_metatexts:GLR_ECK_CMILOBRAND,metatext,FIX,Talking to Milo: Personal Brand,说话 迈洛: 个人品牌,和迈洛聊聊：个人品牌
+english_metatexts:GLR_ECK_CMILOFAMEDOWNSIDES,metatext,FIX,Talking to Milo: The Downsides of Fame,说话 迈洛:名声的下行,和迈洛聊聊：出名的坏处
+english_metatexts:GLR_ECK_CMILOFAMEUPSIDES,metatext,FIX,Talking to Milo: The Upsides of Fame,说话 迈洛:名声的起伏,和迈洛聊聊：出名的好处
+english_metatexts:GLR_ECK_CMILOREAPER,metatext,FIX,Talking to Milo: Being a Reaper,说话 迈洛: 当死神,和迈洛聊聊：当死神
+english_metatexts:GLR_ECK_CMIRANDAAIRPEOPLE,metatext,FIX,Talking to Miranda: Airpeople,说话 米兰达: 空中人员,和米兰达聊聊：羽族
+english_metatexts:GLR_ECK_CMIRANDAAMANDA,metatext,FIX,Talking to Miranda: Amanda,说话 米兰达: 阿曼达,和米兰达聊聊：阿曼达
+english_metatexts:GLR_ECK_CMIRANDABELLANDA,metatext,FIX,Talking to Miranda: Bellanda,说话 米兰达: 贝兰达,和米兰达聊聊：贝兰达
+english_metatexts:GLR_ECK_CMIRANDALAUDANDA,metatext,FIX,Talking to Miranda: Laudanda,说话 米兰达: 劳丹达.,和米兰达聊聊：劳丹达
+english_metatexts:GLR_ECK_CMOSSCRYPTIDACADEMY,metatext,FIX,Talking to Moss: Cryptid Academy,与莫斯交谈:密码学院,与莫斯交谈：神秘生物学院
+english_metatexts:GLR_ECK_CMOSSCRYPTIDS,metatext,FIX,Talking to Moss: Cryptids,与摩斯交谈:密码,与莫斯交谈：神秘生物
+english_metatexts:GLR_ECK_CMOSSGOSSIP,metatext,FIX,Talking to Moss: Gossip,与莫斯交谈:八卦天后,与莫斯交谈：八卦
+english_metatexts:GLR_ECK_CMOSSPHD,metatext,KEEP,Talking to Moss: PhD,与莫斯交谈:博士,与莫斯交谈:博士
+english_metatexts:GLR_ECK_CODROUTE,metatext,REVIEW,La Ruta del Bakalao,巴卡拉奥拉鲁塔德尔,La Ruta del Bakalao
+english_metatexts:GLR_ECK_CONVERSATION1_EOTR,metatext,FIX,"Polly and the Figure, pt. 1","波莉 和图,pt. 1",波莉与神秘人影，第 1 部分
+english_metatexts:GLR_ECK_CONVERSATION2_EOTR,metatext,FIX,"Polly and the Figure, pt. 2","波莉 和图,pt. 2",波莉与神秘人影，第 2 部分
+english_metatexts:GLR_ECK_CORPSEREMOVAL,metatext,FIX,Digging your own Grave,挖出自己的坟墓,自掘坟墓
+english_metatexts:GLR_ECK_COUPLESCOUNSELING_EOTR,metatext,KEEP,Couples Counseling: Iterations,夫妻咨询:迭代,夫妻咨询:迭代
+english_metatexts:GLR_ECK_COVERTMISSION,metatext,KEEP,Covert Mission,秘密任务,秘密任务
+english_metatexts:GLR_ECK_CPOLLYAFTERPARTY,metatext,FIX,Talking to Polly: Afterparties,说话 波莉: 后缔约方,和波莉聊聊：续摊派对
+english_metatexts:GLR_ECK_CPOLLYAPT,metatext,FIX,Talking to Polly: New apartment,说话 波莉: 新建公寓,和波莉聊聊：新公寓
+english_metatexts:GLR_ECK_CPOLLYCHESS,metatext,FIX,Talking to Polly: Chess,说话 波莉: 国际象棋,和波莉聊聊：国际象棋
+english_metatexts:GLR_ECK_CPOLLYCOOKING,metatext,FIX,Talking to Polly: Cooking,说话 波莉: 烹饪,和波莉聊聊：烹饪
+english_metatexts:GLR_ECK_CPOLLYGHOSTS,metatext,FIX,Talking to Polly: Ghosts,说话 波莉: 幽灵,和波莉聊聊：幽灵
+english_metatexts:GLR_ECK_CPOLLYLITERATURE,metatext,FIX,Talking to Polly: Literature,说话 波莉: 文学,和波莉聊聊：文学
+english_metatexts:GLR_ECK_CPOLLYPARTYETIQUETTE,metatext,FIX,Talking to Polly: Party Etiquette,说话 波莉: 缔约方,和波莉聊聊：派对礼仪
+english_metatexts:GLR_ECK_CPOLLYTOILETWINE,metatext,FIX,Talking to Polly: Toilet Wine,说话 波莉: 厕所酒,和波莉聊聊：马桶酒
+english_metatexts:GLR_ECK_CREDDARES,metatext,FIX,Talking to Amira: Dares,说话 阿米拉: 达斯,和阿米拉聊聊：挑战
+english_metatexts:GLR_ECK_CREDHOBBIES,metatext,FIX,Talking to Amira: Her Hobbies,说话 阿米拉她的爱好,和阿米拉聊聊：爱好
+english_metatexts:GLR_ECK_CREDSCHOOL,metatext,FIX,Talking to Amira: School Adventures,说话 阿米拉: 学校冒险,和阿米拉聊聊：校园冒险
+english_metatexts:GLR_ECK_CREDVIDEOGAMES,metatext,FIX,Talking to Amira: Video Games,说话 阿米拉: 电子游戏,和阿米拉聊聊：电子游戏
+english_metatexts:GLR_ECK_CRYINGSAINT,metatext,FIX,The Crying Saint,哭泣的圣徒们,哭泣的圣徒
+english_metatexts:GLR_ECK_CRYPTIDCORRUPTEDFILE,metatext,FIX,Glitchhiking,闪闪发光,故障搭车
+english_metatexts:GLR_ECK_CRYPTIDPHOTO,metatext,FIX,Blurry Betty,布鲁利·贝蒂,模糊的贝蒂
+english_metatexts:GLR_ECK_CRYPTIDWTF_STAGE1,metatext,FIX,a. WTF Foundation: Test,(单位:千美元) WTF基金会:测试,a. WTF 基金会：测试
+english_metatexts:GLR_ECK_CRYPTIDWTF_STAGE2,metatext,FIX,b. WTF Foundation: Fight,(b) 减少或减少员额数目; WTF基金会:战斗,b. WTF 基金会：战斗
+english_metatexts:GLR_ECK_CRYPTIDWTF_STAGE3,metatext,FIX,c. WTF Foundation: Escape!,C. 结 论 WTF基金会:出逃!,c. WTF 基金会：逃出去！
+english_metatexts:GLR_ECK_CSCOTTAPT,metatext,FIX,Talking to Scott: New apartment,说话 斯科特: 新建公寓,和斯科特聊聊：新公寓
+english_metatexts:GLR_ECK_CSCOTTASTRONOMY,metatext,FIX,Talking to Scott: Astronomy,说话 斯科特: 天文学,和斯科特聊聊：天文学
+english_metatexts:GLR_ECK_CSCOTTCHASINGCARS,metatext,FIX,Talking to Scott: Chasing Cars,说话 斯科特: 追车,和斯科特聊聊：追车
+english_metatexts:GLR_ECK_CSCOTTCHEERETHICS,metatext,FIX,Talking to Scott: Cheering Ethics,说话 斯科特:为道德操守而欢呼,和斯科特聊聊：加油助威的道德问题
+english_metatexts:GLR_ECK_CSCOTTGRANDMA,metatext,FIX,Talking to Scott: Grandma,说话 斯科特电话: 外婆,和斯科特聊聊：外婆
+english_metatexts:GLR_ECK_CSCOTTJOGGING,metatext,FIX,Talking to Scott: Jogging,说话 斯科特: 慢跑,和斯科特聊聊：慢跑
+english_metatexts:GLR_ECK_CSCOTTMUSCLES,metatext,FIX,Talking to Scott: Muscles,说话 斯科特: 肌肉,和斯科特聊聊：肌肉
+english_metatexts:GLR_ECK_CSCOTTSNACKS,metatext,FIX,Talking to Scott: Scott Snacks,说话 斯科特: 斯科特 点心,和斯科特聊聊：斯科特零食
+english_metatexts:GLR_ECK_CSCOTTTEAM,metatext,FIX,Talking to Scott: The Team,说话 斯科特: 小组,和斯科特聊聊：团队
+english_metatexts:GLR_ECK_CSTUCHILLHILL,metatext,FIX,Talking to Stu: Chill Hill,和斯图说话:寒山,和斯图聊聊：悠闲山丘
+english_metatexts:GLR_ECK_CSTULAUNDROMAT,metatext,KEEP,Talking to Stu: The laundromat,跟斯图说话:洗衣店,跟斯图说话:洗衣店
+english_metatexts:GLR_ECK_CSTUSNACKBLOG,metatext,KEEP,Talking to Stu: Snack blog,与斯图交谈:小吃博客,与斯图交谈:小吃博客
+english_metatexts:GLR_ECK_CSTUWRESTLING,metatext,KEEP,Talking to Stu: Wrestling,和斯图说话:摔跤,和斯图说话:摔跤
+english_metatexts:GLR_ECK_CULTEMERGENCY,metatext,KEEP,Cult Emergency,邪教紧急情况,邪教紧急情况
+english_metatexts:GLR_ECK_CURVATWIST,metatext,FIX,The Vanishing Hitchhiker,"""消失的希契克"" ""消失的希契克""",消失的搭车客
+english_metatexts:GLR_ECK_CVALERIEITEMORIGINS,metatext,FIX,Talking to Valerie: Where she gets her items,和瓦莱丽说话:她从哪里得到她的物品的,和瓦莱丽聊聊：进货渠道
+english_metatexts:GLR_ECK_CVALERIEITEMS,metatext,FIX,Talking to Valerie: Items,与瓦莱丽交谈:项目,与瓦莱丽交谈：物品
+english_metatexts:GLR_ECK_CVALERIENONSHOP,metatext,KEEP,Talking to Valerie: Life outside the shop,与瓦莱丽交谈:店外的生活,与瓦莱丽交谈:店外的生活
+english_metatexts:GLR_ECK_CVALERIESHOP,metatext,KEEP,Talking to Valerie: Shop,和瓦莱丽说话:商店,和瓦莱丽说话:商店
+english_metatexts:GLR_ECK_CVERACRIMES,metatext,FIX,Talking to Vera: Life of crime,说话 维拉犯罪寿命,和维拉聊聊：犯罪生涯
+english_metatexts:GLR_ECK_CVERADREAMHOUSE,metatext,FIX,Talking to Vera: Dream House,说话 维拉: 梦之所.,和维拉聊聊：梦想中的房子
+english_metatexts:GLR_ECK_CVERASNAKES,metatext,FIX,Talking to Vera: Snakes,说话 维拉:蛇.,和维拉聊聊：蛇
+english_metatexts:GLR_ECK_CVERATRUCE,metatext,FIX,Talking to Vera: Stress,说话 维拉: 压力,和维拉聊聊：压力
+english_metatexts:GLR_ECK_CVICKYAFTERLIFE,metatext,FIX,Talking to Vicky: The Afterlife,说话 维姬: 后生论,和维姬聊聊：来世
+english_metatexts:GLR_ECK_CVICKYENGINEERING,metatext,FIX,Talking to Vicky: Engineering,说话 维姬(单位:千美元),和维姬聊聊：工程学
+english_metatexts:GLR_ECK_CVICKYSCHOOL,metatext,FIX,Talking to Vicky: Life at Spooky High,说话 维姬: 在Spooky高中的生活,和维姬聊聊：惊悚高中的生活
+english_metatexts:GLR_ECK_CVICKYWHOSVICKY,metatext,FIX,Talking to Vicky: Who is Vicky Schmidt?,说话 维姬: 谁是 维姬 施密特吗?,和维姬聊聊：谁是维姬·施密特？
+english_metatexts:GLR_ECK_CYELLOWANXIETY,metatext,FIX,Talking to Oz: Surviving School,说话 奥兹: 生存学校,和奥兹聊聊：校园求生
+english_metatexts:GLR_ECK_CYELLOWDATING,metatext,FIX,Talking to Oz: Dating,说话 奥兹: 约会,和奥兹聊聊：约会
+english_metatexts:GLR_ECK_CYELLOWPHOBIAS,metatext,FIX,Talking to Oz: His Phobias,说话 奥兹: 他的Phobias,和奥兹聊聊：恐惧症
+english_metatexts:GLR_ECK_CYELLOWSCHOOL,metatext,FIX,Talking to Oz: School Adventures,说话 奥兹: 学校冒险,和奥兹聊聊：校园冒险
+english_metatexts:GLR_ECK_CZOEFANDOM,metatext,FIX,Talking to Zoe: Fandoms,说话 佐伊: 虚构,和佐伊聊聊：同人圈
+english_metatexts:GLR_ECK_CZOEMORTALITY,metatext,FIX,Talking to Zoe: Mortality,说话 佐伊页:1,和佐伊聊聊：终有一死
+english_metatexts:GLR_ECK_CZOEOCS,metatext,FIX,Talking to Zoe: OCs,说话 佐伊(单位:千美元),和佐伊聊聊：原创角色
+english_metatexts:GLR_ECK_CZOEOLDDEITIES,metatext,FIX,Talking to Zoe: Old deities,说话 佐伊: 旧神,和佐伊聊聊：旧神
+english_metatexts:GLR_ECK_DEERLASTWILL,metatext,KEEP,A Deer's Life,一只鹿的一生,一只鹿的一生
+english_metatexts:GLR_ECK_ETGAMES,metatext,FIX,Buried Videogames,隐藏的视频游戏,被埋起来的电子游戏
+english_metatexts:GLR_ECK_EULOGY_EOTR,metatext,FIX,Familiar Eulogy,常识优等生,熟悉的悼词
+english_metatexts:GLR_ECK_FAKEGHOSTS_EOTR,metatext,KEEP,Fake (?) Ghosts,假(?)鬼来相会.,假(?)鬼来相会.
+english_metatexts:GLR_ECK_FAUXPOLLYSCOTTROBBERS,metatext,FIX,Criminal Lookalikes,罪犯的外观,长得一模一样的罪犯
+english_metatexts:GLR_ECK_FINALDESTINATION2,metatext,FIX,Final Destination,最终目标,死神来了
+english_metatexts:GLR_ECK_FLIPNOTFLIP,metatext,FIX,To Flip or Not To Flip,翻转或不翻转,翻还是不翻？
+english_metatexts:GLR_ECK_GARBAGETV_EOTR,metatext,FIX,Dark Channel-Hopping,暗道寻呼,黑暗中的频道切换
+english_metatexts:GLR_ECK_GARBAGETV_EOTR2,metatext,FIX,STOP Channel-Hopping,停止频道拨号,停止换台
+english_metatexts:GLR_ECK_GLITCHMOTEL_EOTR3,metatext,FIX,Motel Encounter,汽车旅馆对接,汽车旅馆相遇
+english_metatexts:GLR_ECK_GLITCHPOLLYSANCTUARY,metatext,KEEP,Polly's Sanctuary,波莉圣洁之地,波莉圣洁之地
+english_metatexts:GLR_ECK_GLITCHSPOOKYACADEMY,metatext,FIX,Return to Spooky Academy,回到幽灵学院,重返惊悚学院
+english_metatexts:GLR_ECK_GPS,metatext,FIX,Alternative GPS,替代全球定位系统,另类 GPS
+english_metatexts:GLR_ECK_GRANDPAASHES,metatext,POLISH,Grandpa's Farewell,爷爷再见了,告别爷爷
+english_metatexts:GLR_ECK_GROCERYLIST_STAGE1,metatext,FIX,a. Getting the Goods: Cracking the Code,(单位:千美元) 获取货物:破解代码,a. 搞到货：破解暗号
+english_metatexts:GLR_ECK_GROCERYLIST_STAGE2,metatext,FIX,b. Getting the Goods: A Meeting Place,(b) 减少或减少员额数目; 获取货物:会议地点,b. 搞到货：碰头地点
+english_metatexts:GLR_ECK_GROCERYLIST_STAGE3,metatext,FIX,c. Getting the Goods: Are You a Cop?,C. 结 论 你是警察吗?,c. 搞到货：你是警察吗？
+english_metatexts:GLR_ECK_HEALTHINSPECTOR,metatext,POLISH,Food Truck Health Inspector,食品卡车卫生检查员,餐车卫生检查员
+english_metatexts:GLR_ECK_HIDEDRUGS,metatext,KEEP,Hide the Drugs,隐藏毒品,隐藏毒品
+english_metatexts:GLR_ECK_HIDEFOOD,metatext,FIX,Hide the Pie,隐藏派,藏好馅饼
+english_metatexts:GLR_ECK_HIDEMAGICARTIFACT,metatext,FIX,Hide the Magic Artifact,隐藏魔法艺术,藏好魔法神器
+english_metatexts:GLR_ECK_HITCHHIKERCOMPETITION,metatext,FIX,The Coolest Hitchhiker,最酷的飞车,最酷的搭车客
+english_metatexts:GLR_ECK_HOTONES,metatext,FIX,Having the Hots,拥有热点,火辣辣
+english_metatexts:GLR_ECK_HOWDEEP_EOTR_STAGE8,metatext,KEEP,How Deep Can You Go?,你还能走多深?,你还能走多深?
+english_metatexts:GLR_ECK_IMPOSSIBLEALCOHOLTEST,metatext,FIX,Updated Alcohol Test,最新的酒精测试,升级版酒精测试
+english_metatexts:GLR_ECK_INTERNATIONALWATERS,metatext,KEEP,International Waters,国际水域,国际水域
+english_metatexts:GLR_ECK_JOURNEYORDESTINATION,metatext,FIX,Vera Needs to Chill the Fuck Out,维拉 需要冷静的他妈的出去,维拉，你他妈冷静点
+english_metatexts:GLR_ECK_LAUDANDADIPLOMACY_STAGE1,metatext,FIX,a. An Alliance in Hell: Trade Treaties,(单位:千美元) 地狱联盟:贸易条约,a. 地狱结盟：贸易条约
+english_metatexts:GLR_ECK_LAUDANDADIPLOMACY_STAGE2,metatext,FIX,b. An Alliance in Hell: Assurances,(b) 减少或减少员额数目; 地狱中的联盟:保证,b. 地狱结盟：保证
+english_metatexts:GLR_ECK_LAUDANDADIPLOMACY_STAGE3,metatext,FIX,c. An Alliance in Hell: Good Heavens!,C. 结 论 地狱中的联盟:好天堂!,c. 地狱结盟：天哪！
+english_metatexts:GLR_ECK_MAGICSCHOOLBUS,metatext,FIX,Magic School Bus,魔法学校巴士,神奇校车
+english_metatexts:GLR_ECK_MAYONNAISESHORTAGE,metatext,KEEP,Mayonnaise Shortage,蛋黄酱短缺,蛋黄酱短缺
+english_metatexts:GLR_ECK_MILOONTHEROAD,metatext,FIX,Milo on the Road,迈洛 上路时,迈洛在路上
+english_metatexts:GLR_ECK_MIRACLE,metatext,POLISH,It's a Miracle!,这是一个奇迹!,奇迹啊！
+english_metatexts:GLR_ECK_MIRANDAWORSTSHOTGUN,metatext,FIX,Worst Shotgun Ever,最烂的猎枪,史上最烂副驾
+english_metatexts:GLR_ECK_MYORE_EOTR,metatext,FIX,"Ore Trading, Again","欧尔贸易,再次",又来交易矿石
+english_metatexts:GLR_ECK_NOTCHEESE,metatext,FIX,I Can't Believe It's Not Cheese,我不敢相信这不是起司,我不敢相信这不是奶酪
+english_metatexts:GLR_ECK_PARKWORKERS_STAGE1,metatext,FIX,a. Knife Land Job Interview: Stage 1,(单位:千美元) 刀地工作面试:第一阶段,a. 刀子乐园求职面试：第一阶段
+english_metatexts:GLR_ECK_PARKWORKERS_STAGE2,metatext,FIX,b. Knife Land Job Interview: Stage 2,(b) 减少或减少员额数目; 刀地工作面试:第二阶段,b. 刀子乐园求职面试：第二阶段
+english_metatexts:GLR_ECK_PARKWORKERS_STAGE3,metatext,FIX,c. Knife Land Job Interview: Stage 3,C. 结 论 刀地工作面试:第3阶段,c. 刀子乐园求职面试：第三阶段
+english_metatexts:GLR_ECK_PITSTOP3_EOTR,metatext,FIX,Empty Rest Stop,空闲休息停止,空荡荡的休息站
+english_metatexts:GLR_ECK_POTIONDRINKS,metatext,FIX,Potion Drinks,口水饮料,魔药饮品
+english_metatexts:GLR_ECK_PRANKSPREE,metatext,FIX,Throwing the Cops Off the Scent,把警察扔出深渊,甩掉追踪的警察
+english_metatexts:GLR_ECK_QUICKASPHALT,metatext,FIX,Quick Asphalt,快速 Asphart 软件,流沙沥青
+english_metatexts:GLR_ECK_RADIOAPOCALYPSE,metatext,FIX,Radio Apocalypse,启示录电台,末日电台
+english_metatexts:GLR_ECK_RANSOMDELIVERY_EOTR,metatext,FIX,Ransom Delivery: Overlap,Ransom 交付: 重叠,赎金交付：重叠
+english_metatexts:GLR_ECK_REALMADVENTURE,metatext,POLISH,Preparations,筹备,准备工作
+english_metatexts:GLR_ECK_REALMANALYSIS,metatext,FIX,Rules Rules Rules,规则,规则、规则、规则
+english_metatexts:GLR_ECK_REALMORIGINS_STAGE1,metatext,FIX,a. The Coven S8E11: Spilling the Beans,(单位:千美元) 巫统S8E11:打倒豆子,a. 女巫团 S8E11：抖出秘密
+english_metatexts:GLR_ECK_REALMORIGINS_STAGE2,metatext,FIX,b. The Coven S8E12: Gerard's Heel-Face Turn,(b) 减少或减少员额数目; 科文S8E12:杰拉德的后跟-花相转,b. 女巫团 S8E12：杰拉德改邪归正
+english_metatexts:GLR_ECK_REALMORIGINS_STAGE3,metatext,FIX,c. The Coven S8E13: The Final Showdown,C. 结 论 巫统S8E13:最终出道.,c. 女巫团 S8E13：最终决战
+english_metatexts:GLR_ECK_ROADART,metatext,KEEP,Road Art,道路艺术,道路艺术
+english_metatexts:GLR_ECK_ROADBANDITS,metatext,KEEP,Road Bandits,公路匪徒,公路匪徒
+english_metatexts:GLR_ECK_SCOTTSHEPHERD,metatext,POLISH,Scott the Shepherd,斯科特 牧羊人,牧羊人斯科特
+english_metatexts:GLR_ECK_SPHINXAFTERLIFE,metatext,FIX,Afterlife Baggage,后生行李,来世的行李
+english_metatexts:GLR_ECK_SPHINXCURSEDARTIFACT,metatext,FIX,Cursed Artifacts,被诅咒的艺术,诅咒文物
+english_metatexts:GLR_ECK_SPHINXPYRAMIDSCHEME,metatext,FIX,Scheme Shapes,方案形状,骗局的形状
+english_metatexts:GLR_ECK_SPHINXRIDDLE,metatext,FIX,Riddle of the Sphinx,"""狮身人面像""",斯芬克斯之谜
+english_metatexts:GLR_ECK_SPHINXSNAKEOIL,metatext,KEEP,Snake Oil Investments,蛇油投资,蛇油投资
+english_metatexts:GLR_ECK_SURVIVALKIT,metatext,FIX,Festival Survival Kit,节日生存工具箱,音乐节生存包
+english_metatexts:GLR_ECK_SURVIVOR127,metatext,KEEP,127 hours,127小时,127小时
+english_metatexts:GLR_ECK_SYNCSWIMMING,metatext,FIX,Sync Swimming,同步游泳,花样游泳
+english_metatexts:GLR_ECK_TAROTTOURNAMENT_STAGE1,metatext,FIX,a. Competitive Tarot: Planets,(单位:千美元) 竞争性塔罗牌:行星,a. 竞技塔罗：行星
+english_metatexts:GLR_ECK_TAROTTOURNAMENT_STAGE2,metatext,FIX,b. Competitive Tarot: Champions,(b) 减少或减少员额数目; 竞争塔罗牌:冠军,b. 竞技塔罗：冠军
+english_metatexts:GLR_ECK_TAROTTOURNAMENT_STAGE3,metatext,FIX,c. Competitive Tarot: Predictions,C. 结 论 竞争性塔罗牌:预测,c. 竞技塔罗：预测
+english_metatexts:GLR_ECK_THEINFORMANT,metatext,FIX,Polly and Scott. Police Informants,波莉 财务报告和审定财务报表 斯科特. 警察线人,波莉与斯科特：警方线人
+english_metatexts:GLR_ECK_TRUEQUE,metatext,FIX,Trading Mementos,贸易纪念品,交换纪念品
+english_metatexts:GLR_ECK_UNIQUEMOMENTS,metatext,KEEP,Unique Moments,独一无二的时刻,独一无二的时刻
+english_metatexts:GLR_ECK_WELCOMEZOMBIE_EOTR,metatext,FIX,Raising the Dead,养活死者,唤醒死者
+english_metatexts:GLR_ECK_WHATTOJETTISON,metatext,FIX,What to Jettison,洁蒂森怎么办?,扔掉什么？
+english_metatexts:GLR_ECK_WORMSACRIFICE,metatext,FIX,Desert Worm Sacrifice,沙漠蠕虫牺牲,向沙漠巨虫献祭
+english_metatexts:GLR_ECK_WRONGPIZZA_EOTR,metatext,KEEP,Pizza Time?,披萨时间?,披萨时间?
+english_metatexts:GLR_ECK_WRONGPIZZA_EOTR2,metatext,FIX,PIZZA TIME!,皮扎时间!,披萨时间！
+english_metatexts:GLR_TTL_ACHIEVEMENTS,metatext,KEEP,Achievements,成就,成就
+english_metatexts:GLR_TTL_ACHIEVEMENTS_PLAYSTATION,metatext,FIX,Trophies,特罗菲斯,奖杯

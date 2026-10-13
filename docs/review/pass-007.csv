@@ -1,0 +1,163 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_pitstop:L2190,cpollycooking,KEEP,Her interest in cooking,她对烹饪的兴趣,她对烹饪的兴趣
+english_events_pitstop:L2192,cpollycooking,FIX,"Yeah, I've been lookin' into cookin'!","是啊,我一直在寻找' 烹饪!",是啊，最近一直在研究做饭！
+english_events_pitstop:L2193,cpollycooking,FIX,Tasty!,味道不错!,听着就好吃！
+english_events_pitstop:L2194,cpollycooking,FIX,"It meshes two of my favorite things: chemistry -- which rocks -- and little, momentous joys.","它代表了我最喜欢的两个东西: 化学 -- 岩石 -- 和微小的,巨大的快乐。",它把我最爱的两件事凑在一起了：化学——超酷的——还有那些短暂却重要的小快乐。
+english_events_pitstop:L2195,cpollycooking,FIX,"Like, how dumb is it to spend hours making something that's gone in a blink and a couple mouthfuls?","像,它是多么愚蠢 花几个小时 做的东西 消失在一眨眼 和几口?",想想看，花几个小时做出来的东西，眨眼工夫，吃几口就没了，是不是很傻？
+english_events_pitstop:L2196,cpollycooking,POLISH,It's so incredibly inefficient that it becomes simply beautiful.,这太低效了 简直太美了,效率低得这么离谱，反而美得不得了。
+english_events_pitstop:L2197,cpollycooking,KEEP,That's a nice thought.,这想法不错。,这想法不错。
+english_events_pitstop:L2198,cpollycooking,POLISH,"And now that I don't even really need to eat, my hobby has reached new heights of stupidity -- and of beauty, too.","现在我甚至不需要吃东西了, 我的爱好达到了愚蠢的新地步, 也达到了美丽的地步。",现在我其实连饭都不用吃了，这爱好也就傻出了新高度——当然，也更美了。
+english_events_pitstop:L2199,cpollycooking,FIX,So I started taking some cooking classes! Vera takes them too.,我开始上烹饪课了!  维拉 把他们也带走。,所以我开始上烹饪课啦！维拉也在上。
+english_events_pitstop:L2200,cpollycooking,FIX,"I love that wonderful bitch, but she could use an education on beautiful inefficiency.","我喜欢那个漂亮的婊子, 但她需要教育 美丽的低效率。",我爱死那个可爱的贱人了，不过她真该学学：低效率也能很美。
+english_events_pitstop:L2201,cpollycooking,KEEP,Indeed!,没错!,没错!
+english_events_pitstop:L2203,cpollycooking,POLISH,"I think it's healthy for her, even if the classes stress her out most of the time.",我觉得这对她很健康 即使大部分时间班级都让她紧张,我觉得这对她挺好，虽然上课时她经常压力山大。
+english_events_pitstop:L2204,cpollycooking,FIX,"We sit there, we learn, and we experiment. That's what I love about chemistry and cooking: it's transformative.","我们坐在那里,我们学习, 我们做实验。 这就是我喜欢的化学和烹饪:它具有变革性.",我们坐下来，学习，再做实验。化学和烹饪最让我着迷的地方，就是它们能带来变化。
+english_events_pitstop:L2205,cpollycooking,FIX,"But, like, literally! It's all about transformation. You transform things into other things. Like how you can transform eggs, flour, butter, and some other stuff into a cake.","但是,像,从字面上说! 皆是转相. 你把事情变成其他事情。 比如你如何把鸡蛋,面粉,黄油, 以及其他的东西变成蛋糕。",我是说，真的改变形态！把一样东西变成另一样。比如鸡蛋、面粉、黄油，再加点别的，就能变成蛋糕。
+english_events_pitstop:L2206,cpollycooking,FIX,"Or how flesh, blood, bones, and some other stuff transformed into... me!",或者血肉 骨骼和其他东西 是如何变成... 来啊!,又比如，血肉、骨头，再加点别的，最后变成了……我！
+english_events_pitstop:L2207,cpollycooking,FIX,"So, yeah, I think the afterlife gives you some new cool perspectives. And I also think cooking rules.","所以,是的,我认为 来生给你一些新的 很酷的视角。 我也认为烹饪规则。",所以啊，死后的生活，让我看事情多了些很酷的新角度。还有，做饭真的超棒。
+english_events_pitstop:L2208,cpollycooking,POLISH,"Maybe one day I can cook something for you, if you dare!",也许有一天我可以为你做点什么 如果你敢的话!,哪天我给你做点吃的吧，前提是你敢吃！
+english_events_pitstop:L2209,cpollycooking,KEEP,I'd love that.,我很乐意,我很乐意
+english_events_pitstop:L2218,cpollyghosts,KEEP,Being a ghost,当个鬼,当个鬼
+english_events_pitstop:L2220,cpollyghosts,FIX,Being a ghost is dope!,做个鬼就是毒品!,当幽灵可爽了！
+english_events_pitstop:L2221,cpollyghosts,FIX,"Not only can you go through your afterlife with way less limitations, but it also makes you think.","不仅你能通过你的来世 少得多的限制, 也让你思考。",死后过日子，限制少了好多，也会让你开始想一些问题。
+english_events_pitstop:L2222,cpollyghosts,FIX,Like... life? Afterlife? How does it even work?!,喜欢... 生活吗? 后世吗? 怎么会这样?,比如……生前？死后？这些到底怎么回事？！
+english_events_pitstop:L2223,cpollyghosts,FIX,"Some people are born ghosts, and other people like me are dead ghosts...","有些人是天生的鬼, 其他人像我是死鬼...",有些人生来就是幽灵，有些则像我一样，死了以后才变成幽灵……
+english_events_pitstop:L2224,cpollyghosts,POLISH,We surely don't abide by the same rules as corporeal creatures... but there are rules nonetheless.,我们肯定没有遵守 同样的规则 与物质生物... 但还是有规矩的,我们肯定不受实体生物那套规则约束……但也还是有规矩的。
+english_events_pitstop:L2225,cpollyghosts,FIX,"Ooh, weird ghost rules!","哦,奇怪的鬼规则!",哦，奇怪的幽灵规则！
+english_events_pitstop:L2226,cpollyghosts,FIX,"Yes! We're not exactly mortal, but as I've learned, we're not immortal either.","没错! 我们不是完全凡人,但正如我所学到的,我们也不是不朽的.",对！我们不像凡人那样会死，可据我所知，也不是永远不会消失。
+english_events_pitstop:L2227,cpollyghosts,POLISH,How that works is still a mystery to me.,这对我来说仍然是个谜,具体怎么回事，对我来说还是个谜。
+english_events_pitstop:L2228,cpollyghosts,KEEP,Same here!,也一样!,也一样!
+english_events_pitstop:L2229,cpollyghosts,FIX,"Like, some ghosts age, some don't, some do but at different paces... it's weird.","有些是鬼时代,有些是鬼时代,有些是鬼时代,有些是鬼时代,有些是鬼时代,但速度不同... 这很奇怪。",比如，有些幽灵会变老，有些不会，还有些也会老，只是速度不同……很奇怪。
+english_events_pitstop:L2230,cpollyghosts,FIX,And some ghosts definitely cease to be.,有些鬼魂绝对不再存在了,而有些幽灵，确实会不复存在。
+english_events_pitstop:L2231,cpollyghosts,FIX,But that's far from the end of it.,但此相去相去甚远.,不过，这还远远不是终点。
+english_events_pitstop:L2232,cpollyghosts,FIX,How so?,怎么会这样?,怎么说？
+english_events_pitstop:L2233,cpollyghosts,FIX,"We keep transforming and transitioning in very different ways, again and again.","我们不断以非常不同的方式,一次又一次地转变和转变。",我们会一遍又一遍地变化，以各种完全不同的方式，过渡到新的存在。
+english_events_pitstop:L2234,cpollyghosts,POLISH,So who knows? Tomorrow I might not be here anymore.,谁知道呢? 明天我可能不再在这里了。,所以谁知道呢？也许明天，我就不在这里了。
+english_events_pitstop:L2235,cpollyghosts,POLISH,But maybe I will become something else... something new.,但也许我会变成别的东西... 新的东西。,可也许，我会变成别的什么……某种新的东西。
+english_events_pitstop:L2236,cpollyghosts,POLISH,"I may be stardust... I may be flesh, once again... I may be a warm, distant memory... I may be a line in a song...","我可能是星尘... ... 我可能会是肉体,再次... ... 我可能是一个温暖,遥远的记忆... 我也许是一首歌中的一行...",也许是星尘……也许重新拥有血肉之躯……也许是一段温暖而遥远的回忆……也许是一句歌词……
+english_events_pitstop:L2237,cpollyghosts,FIX,"She sits in silence, looking at the stars, as she grabs your hand -- maybe a bit in awe, maybe a bit in fear.","她静静地坐着,看着星星, 当她抓住你的手—— 也许有点害怕,也许有些害怕。",她静静地望着星空，握住你的手——也许有些惊叹，也许有些害怕。
+english_events_pitstop:L2246,cpollyapt,FIX,Her search for an apartment,她正在寻找一个公寓,她找公寓的经历
+english_events_pitstop:L2248,cpollyapt,FIX,"Yeah, I've been lookin' for an apartment with Scott.","是啊,我一直在寻找一个公寓 与 斯科特.",是啊，我最近一直跟斯科特一起找公寓。
+english_events_pitstop:L2249,cpollyapt,FIX,"Damien might join us, who knows? But for now it's just me and the good boi!",达米恩 可能会加入我们 谁知道呢? 但现在只有我和好人了!,达米恩说不定也会加入，谁知道呢？不过目前就我和那只乖狗狗！
+english_events_pitstop:L2250,cpollyapt,FIX,But wow... looking for an apartment has been a trip... even weirder than this one.,不过哇... 寻找一个公寓已经是一个旅行... 比这个更怪异,可天啊……找公寓这趟历险，比咱们这趟还离谱。
+english_events_pitstop:L2251,cpollyapt,FIX,"Really? We're setting a high bar, so it must be REALLY weird then.","真的吗? 我们正在设置一个高的酒吧, 所以它肯定真的很奇怪,那么。",真的？咱们都够离谱了，那得怪成什么样啊。
+english_events_pitstop:L2252,cpollyapt,KEEP,ABSOLUTELY!,绝对的!,绝对的!
+english_events_pitstop:L2253,cpollyapt,FIX,The prices! The conditions! The people!,价钱! 条件! 人民们!,那房价！那些条件！还有那些人！
+english_events_pitstop:L2254,cpollyapt,FIX,"Okay, listen to this:","好吧,听着这个:",来，听听这个：
+english_events_pitstop:L2255,cpollyapt,POLISH,There was this one apartment where the owner required us to join his reggae band to rent from him.,屋主要求我们加入他的雷鬼乐队 向他租房,有套公寓，房东说想租就得加入他的雷鬼乐队。
+english_events_pitstop:L2256,cpollyapt,POLISH,And another one who strictly forbade us from consuming ketchup while renting.,又一个严格禁止我们在租房时吃番茄酱的人,还有一个，严禁我们租房期间吃番茄酱。
+english_events_pitstop:L2257,cpollyapt,KEEP,Ketchup? But... why?,番茄酱? 不过... 为什么?,番茄酱? 不过... 为什么?
+english_events_pitstop:L2258,cpollyapt,POLISH,"It was a matter of principle, she said. Still no idea what the fuck that meant.","她说,这是一个原则问题。 还不知道这他妈是什么意思",她说这是原则问题。到现在我也没懂，这他妈算哪门子原则。
+english_events_pitstop:L2259,cpollyapt,FIX,"There was also the one without a bathroom that offered to sell us a ""shit bucket"" separately.","还有一个没有洗手间的人提出要单独卖出一桶""狗屎"".",还有套没厕所的房子，说可以另外卖我们一个“拉屎桶”。
+english_events_pitstop:L2260,cpollyapt,FIX,A... shit bucket?,一个... 狗屎桶吗?,一个……拉屎桶？
+english_events_pitstop:L2261,cpollyapt,FIX,"Yeah... and still better than a basement we found that was being rented out. Let me tell you: that basement was either used for sexual reasons, criminal reasons, or both.","对... 还比我们发现的 被租出去的地下室要好 让我告诉你,那个地下室不是因为性原因、犯罪原因,就是两者兼而有之。",对……可这都比我们看过的某间出租地下室强。跟你说，那地下室以前不是用来搞性的，就是用来搞犯罪的，或者两个一起搞。
+english_events_pitstop:L2262,cpollyapt,FIX,"Dang, girl... this is truly a whole parade of yikes after yikes.","该死的,女孩... 这真是一连串的游行",靠，姑娘……真是一个比一个吓人。
+english_events_pitstop:L2263,cpollyapt,FIX,Wow... I needed to share that. Good ol' venting.,哗... 我需要分享这一点。 通风良好。,呼……可算说出来了。还是吐槽舒服。
+english_events_pitstop:L2264,cpollyapt,POLISH,Long story short: finding a good apartment for us to rent is taking some time.,长话短说:找到一个好公寓让我们租 需要一些时间。,总之，想找到一套适合我们租的好公寓，还得花点时间。
+english_events_pitstop:L2265,cpollyapt,POLISH,"But hey, it makes the journey more entertaining. And I'm sure we will find the right place eventually.","但是,嘿,它使 旅程更娱乐。 我相信我们最终会找到合适的地方",不过，这也让找房的过程更有意思了。我相信，最后总会找到合适的地方。
+english_events_pitstop:L2266,cpollyapt,FIX,Yeah! You got this.,对! 你得到这个。,没错！你们肯定行。
+english_events_pitstop:L2275,cpollychess,FIX,Her mad skills at chess,她的疯狂的下棋技巧,她超强的国际象棋棋艺
+english_events_pitstop:L2277,cpollychess,FIX,What can I tell you about good ol' chess?,我该怎么跟你说好棋?,关于国际象棋，我能跟你说些什么呢？
+english_events_pitstop:L2278,cpollychess,FIX,Castle early... control the center... create a favorable pawn structure...,卡塞尔早点... 控制中心... 创建一个有利的当子结构...,尽早王车易位……控制中心……建立有利的兵形……
+english_events_pitstop:L2279,cpollychess,KEEP,I'm taking notes!,我在做笔记!,我在做笔记!
+english_events_pitstop:L2280,cpollychess,POLISH,"Look. The best thing you can do is read theory, and then play. Play, play, and then play some more.","听着 你所能做的最好的事情是读理论,然后玩. 玩,玩,然后再玩一些。",听着，最好的办法就是先学理论，再下棋。下，下，再多下几盘。
+english_events_pitstop:L2281,cpollychess,FIX,"You need to exercise your ""chess muscle"" until the patterns and concepts transcend from reason to intuition.","你需要锻炼你的""切斯肌肉"",直到规律和概念从理性到直觉超越.",要把你的“下棋肌肉”练出来，让那些局面和概念不再只是靠分析，而是成为直觉。
+english_events_pitstop:L2282,cpollychess,FIX,"That's my trick, really: I've been playing chess with my mom since forever, and she happens to be a grandmaster.","这就是我的把戏,真的:我从小就和我妈一起下棋,她恰好是个外婆.",我的秘诀其实就是这个：从小到大，我一直跟妈妈下棋，而她恰好是国际象棋特级大师。
+english_events_pitstop:L2283,cpollychess,FIX,"She and I are so different! She's such a calm, collected woman. I love her.","她和我都不一样了! 她是如此的冷静,收集的女人。 我爱她。",我俩可不一样了！她特别冷静、沉稳。我很爱她。
+english_events_pitstop:L2284,cpollychess,POLISH,"And with our personalities being written in completely different languages, chess has become our common denominator... our shared space.","随着我们的个性被用完全不同的语言书写,国际象棋成为了我们的共同点...... 我们共享的空间。",我们的性格简直像用两种语言写出来的，而国际象棋就成了共同语言……一个属于我们的空间。
+english_events_pitstop:L2285,cpollychess,FIX,We find each other in chess. I... I think we get to understand each other through chess.,我们在下棋时互相发现对方. 我…… 我想我们可以通过下棋来了解对方。,我们在棋盘上找到彼此。我……我想，我们就是这样慢慢理解对方的。
+english_events_pitstop:L2286,cpollychess,FIX,So yeah... being raised by a chess grandmaster definitely helps.,所以说... 被一个围棋大师养大的肯定有帮助。,所以啊……由一位国际象棋特级大师带大，确实很有帮助。
+english_events_pitstop:L2287,cpollychess,FIX,I'll say!,我会说!,那可不是！
+english_events_pitstop:L2289,cpollychess,POLISH,"Nowadays, I only seek out challenging high-stakes matches, or it can get very boring very quickly.","现在,我只寻求挑战 高额的比赛, 或者它会变得非常无聊 非常快。",如今我只找有挑战、赌注又高的比赛，不然很快就会无聊。
+english_events_pitstop:L2290,cpollychess,FIX,"I've developed a trick, though -- to combat boredom, that is. I build stories and personalities for my pieces, and then I play accordingly.","我开发了一个技巧,但是-- 对抗无聊,那就是说。 我为自己的作品创造故事和个性,然后我相应演奏.",不过，我还有个对付无聊的小办法：给棋子编故事、设定性格，再按这些故事下棋。
+english_events_pitstop:L2291,cpollychess,POLISH,My B1 knight is secretly in love with my F1 bishop. I must move the knight close to its lover and be ready to sacrifice it to save the bishop.,"我的B1骑士暗恋我的F1主教. 我必须让骑士靠近它的爱人,并准备牺牲它来拯救主教.",比如，我 B1 的马偷偷爱着 F1 的象。我得让它靠近爱人，还得准备好，牺牲它来救那只象。
+english_events_pitstop:L2292,cpollychess,POLISH,So I focus on all these little stories and whatnot. That way I don't get bored by an otherwise too-easy match.,所以我把注意力集中在这些小故事上。 这样我就不会觉得无聊 否则太轻松的比赛。,我就专心想这些小故事之类的。这样，下太简单的对局也不会无聊。
+english_events_pitstop:L2293,cpollychess,FIX,"Don't tell Liam. I ALWAYS need to do this when I'm playing against him, and I suspect he thinks he's putting up a fight based on how focused I seem. It's cute.","别告诉 利亚姆. 我总是需要这样做 当我玩弄他, 我怀疑他 提出一场斗争 基于我看起来的焦点。 可爱.",别告诉利亚姆。跟他下棋时，我每次都得这样做。看我那么专注，他大概还觉得自己很能打呢。挺可爱的。
+english_events_pitstop:L2294,cpollychess,FIX,Silly Liam!,蠢货 利亚姆!,傻傻的利亚姆！
+english_events_pitstop:L2295,cpollychess,FIX,"Yes, silly Liam.","对,傻子 利亚姆.",对，傻傻的利亚姆。
+english_events_pitstop:L2296,cpollychess,KEEP,"Anyway... yeah, I do love chess.","总之... 是的,我确实喜欢下棋。","总之... 是的,我确实喜欢下棋。"
+english_events_pitstop:L2305,cpollytoiletwine,FIX,Her Toilet Wine,她的厕所酒,她的马桶酒
+english_events_pitstop:L2307,cpollytoiletwine,POLISH,"Ah, yes, my precious toilet wine.","啊,是的,我珍贵的厕所酒。",啊，没错，我宝贝的马桶酒。
+english_events_pitstop:L2308,cpollytoiletwine,POLISH,I remember when I first saw a video online on how to brew toilet wine.,我记得我第一次在网上看到 有关如何酿造马桶酒的视频时,我还记得第一次在网上看到教人酿马桶酒的视频。
+english_events_pitstop:L2309,cpollytoiletwine,FIX,"I was all like, ""YOU CAN MAKE YOUR OWN BOOZE?!""","我当时都想, ""你可以做你自己的BOOZE?""",当时我就想：“酒居然可以自己酿？！”
+english_events_pitstop:L2310,cpollytoiletwine,FIX,I was game!,我是在玩游戏!,那必须试啊！
+english_events_pitstop:L2311,cpollytoiletwine,FIX,I've worked on my recipe for a long time now!,我做了我的食谱 很长时间了!,这个配方，我已经研究好久了！
+english_events_pitstop:L2312,cpollytoiletwine,FIX,It combines all the things I like: understanding chemistry... (sort of) cooking... gettin' drunk...,它融合了我喜欢的一切: 理解化学...... 烹饪... 喝得烂醉...,它把我喜欢的事都凑齐了：研究化学……做饭，算是吧……还有喝个烂醉……
+english_events_pitstop:L2313,cpollytoiletwine,KEEP,Wine-making does sound like a good match for you.,酿酒听起来挺适合你的,酿酒听起来挺适合你的
+english_events_pitstop:L2314,cpollytoiletwine,FIX,"I've iterated so much on my recipe. According to my clientele, the product has gone through great evolutions.","食谱上写了很多 据我的客户说,这个产品经历了巨大的进化.",配方改过好多轮了。照顾客的话说，这酒的进步可大了。
+english_events_pitstop:L2315,cpollytoiletwine,FIX,"From ""non-edible,"" to ""hideous,"" then to ""terrible.""","从""不可食""到""有""到""有"",再到""有""到""有"".",从“根本不能喝”，到“恶心透了”，再到“很难喝”。
+english_events_pitstop:L2316,cpollytoiletwine,POLISH,"I still remember the day I started to get comments like, ""This is fuckin' weird-tasting.""","我仍然记得那天 我开始得到的评论 像,""这是他妈的怪异的味道。""",我还记得第一次有人评价：“这味道他妈的真怪。”
+english_events_pitstop:L2317,cpollytoiletwine,FIX,"Nice! Definitely better than ""non-edible,"" ""hideous,"" or ""terrible.""","不错! 绝对胜过""不可食用"",""隐蔽"",或""恐怖"".",不错啊！总比“根本不能喝”“恶心透了”和“很难喝”强。
+english_events_pitstop:L2319,cpollytoiletwine,FIX,"YASSSS! Today I sit proudly over an average of, ""Ugh... I don't know... I guess it could be worse.""","你个混蛋! 今天,我骄傲地坐在平均,""啊... 我不知道... 我不知道... 我不知道,这是什么? 我想这可能会更糟"".",没错——！如今，我骄傲的平均口碑已经是：“呃……怎么说呢……反正还能更难喝。”
+english_events_pitstop:L2320,cpollytoiletwine,FIX,"The sky is the limit, baby!",天空是极限 宝贝!,宝贝，前途无限啊！
+english_events_pitstop:L2321,cpollytoiletwine,FIX,"I will get there. One day, you'll see Polly's Toilet Wine paired with delicacies, served by expert sommeliers in the highest-end restaurants all over the world.",我会赶到那里。 有一天你会明白的 波莉'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''',我会做到的。总有一天，全世界最高档的餐厅都会有专业侍酒师，把波莉的马桶酒搭配珍馐美味端上桌。
+english_events_pitstop:L2322,cpollytoiletwine,FIX,I'll toast to that!,我敬这杯!,那我可得敬你一杯！
+english_events_pitstop:L2323,cpollytoiletwine,POLISH,"Wanna know a secret? These days, I don't even make my wine in the toilet anymore.","想知道一个秘密吗? 现在,我甚至不 做我的酒在厕所了。",想听个秘密吗？最近，我已经不在马桶里酿酒了。
+english_events_pitstop:L2324,cpollytoiletwine,POLISH,"I started making it in the bath. It makes more sense, really: the wine ends up tasting better than when brewed in the toilet.","我开始在浴缸里做 这更有意义,真的:酒最后比在厕所中酿酒时的味道要好.",我改用浴缸了。想想也挺合理：比起马桶里酿的，味道确实好多了。
+english_events_pitstop:L2325,cpollytoiletwine,POLISH,At first I wondered if I wasn't betraying the essence of the brand...,起初我怀疑我是不是背叛了品牌的精髓...,起初我还想，这是不是背叛了品牌的灵魂……
+english_events_pitstop:L2326,cpollytoiletwine,FIX,But this way I can even take baths in the wine myself! It's fuckin' relaxing.,但这样我就可以自己去洗个澡了! 这是他妈的放松。,可这样一来，我还能亲自泡在酒里洗澡！他妈的太放松了。
+english_events_pitstop:L2327,cpollytoiletwine,KEEP,I just hope people don't mind...,我只是希望人们不要介意...,我只是希望人们不要介意...
+english_events_pitstop:L2328,cpollytoiletwine,FIX,"Yeah, I'm pretty sure people will be cool about it.","是啊,我敢肯定,人们会很酷的。",嗯，我相信大家肯定不会介意的。
+english_events_pitstop:L2330,cpollytoiletwine,FIX,Fingers crossed!,手指交叉了! 手指交叉了!,但愿吧！
+english_events_pitstop:L2331,cpollytoiletwine,FIX,"In any case, thanks for listening, boo. Lemme treat you to a glass of my delicious toilet wine sometime.","无论如何,谢谢你的倾听,嘘。 让我给你一杯我美味的马桶酒",总之，谢谢你听我说这些，宝。哪天请你喝一杯我美味的马桶酒。
+english_events_pitstop:L2332,cpollytoiletwine,FIX,"You may pick up some notes of ""Polly's booty"" while savoring it.","你可以拿一些笔记 ""波莉""战利品"" 却喜欢它。",细细品尝时，也许能尝出一点“波莉翘臀”的余味。
+english_events_pitstop:L2333,cpollytoiletwine,KEEP,I wouldn't mind.,我不会介意的。,我不会介意的。
+english_events_pitstop:L2342,cpollyliterature,KEEP,Her favorite books,她最喜欢的书,她最喜欢的书
+english_events_pitstop:L2344,cpollyliterature,FIX,"Yassss, what a great question!","Yasss,一个伟大的问题!",好——！这个问题问得太棒了！
+english_events_pitstop:L2345,cpollyliterature,POLISH,"But gosh, it'd be so hard to boil down what I love about literature in just a few lines...",但上帝啊 很难用几行话 来解释我对文学的热爱,不过天啊，想用几句话说清我为什么爱文学，还真不容易……
+english_events_pitstop:L2346,cpollyliterature,FIX,"I like stuff that's intense, erratic, and raw.",我喜欢激烈的 不稳定的 原始的,我喜欢强烈、难以捉摸，又毫无遮掩的作品。
+english_events_pitstop:L2347,cpollyliterature,POLISH,"Take ""The Magus"", for instance: a young graduate goes to a Greek island and falls right into the cryptic, psychological games of an eccentric old man who lives there.","以""马古斯""为例:一个年轻的毕业生去一个希腊岛, 掉入一个古怪的老人的神秘心理游戏中。",比如《The Magus》：一个刚毕业的年轻人去了希腊小岛，卷入一位古怪老人的神秘心理游戏。
+english_events_pitstop:L2348,cpollyliterature,FIX,"The little charades seem amusing to both the character and the reader at first, but they slowly and increasingly become darker and more powerful.","小戏曲对于角色和读者来说,一开始都显得很有趣,但慢慢地并变得越来越黑暗和强大.",那些小把戏，一开始不管角色还是读者都觉得有趣，可慢慢地，它们越来越阴暗，越来越有压迫感。
+english_events_pitstop:L2349,cpollyliterature,FIX,"You end up moving through the book as if you were immersed in a dense substance, or a sort of fever dream.",你最终在书里走来走去 就像你被浸入了浓稠的物质里 或者是某种发烧的梦,读下去，你仿佛陷在某种黏稠的东西里，又像做了一场发烧时的怪梦。
+english_events_pitstop:L2350,cpollyliterature,FIX,Whoa... sounds interesting!,珃... 听起来很有趣!,哇……听着很有意思！
+english_events_pitstop:L2351,cpollyliterature,FIX,"And, of course, there's also a place in my heart for the motherland.","当然,我心中也有一个地方适合祖国.",当然，故乡的文学在我心里也有一席之地。
+english_events_pitstop:L2352,cpollyliterature,FIX,"I mean, the Russians basically defined modern Western literature. Like... take Dostoyevski.","我的意思是,俄罗斯人基本上定义了现代西方文学. 喜欢... 带上多斯多耶夫斯基",我是说，俄罗斯作家基本定义了现代西方文学。比如……陀思妥耶夫斯基。
+english_events_pitstop:L2353,cpollyliterature,FIX,"His greatest novels shaped the literary canon; but he also has amazing lighter things... like ""The Gambler"".","他最伟大的小说塑造了""文学之犬"";但他也有惊人的轻活. . 像""赌徒""",他最伟大的小说奠定了文学经典，但也写过一些轻巧又精彩的作品……比如《赌徒》。
+english_events_pitstop:L2354,cpollyliterature,KEEP,That novel is where I got my name from!,那本小说是我名字的来源!,那本小说是我名字的来源!
+english_events_pitstop:L2355,cpollyliterature,KEEP,"And he's also got lesser-known comedic short stories! Like, the dude wrote a satire in which a public servant is eaten by a crocodile.",而且他也有不太出名的喜剧短篇小说! 他写了一篇讽刺文章 说公务员被鳄鱼吃,而且他也有不太出名的喜剧短篇小说! 他写了一篇讽刺文章 说公务员被鳄鱼吃
+english_events_pitstop:L2356,cpollyliterature,FIX,"When the owner refuses to cut the crocodile open, the servant resigns himself to resuming his mundane life from inside the croc as best as he can.","当主人拒绝把鳄鱼切开时,仆人辞去职务,尽可能地从鳄鱼体内恢复他平凡的生活.",主人不肯剖开鳄鱼，他就只好认命，在鳄鱼肚子里尽量照常过自己的平凡日子。
+english_events_pitstop:L2357,cpollyliterature,FIX,Obviously!,很明显!,那当然了！
+english_events_pitstop:L2359,cpollyliterature,POLISH,"Sorry! Anyone brings the topic of literature, and before I realize I'm already rambling big time!","对不起! 任何人带来文学的话题, 在我意识到我已经大吵大闹之前!",抱歉！只要有人提起文学，我就会不知不觉说个没完！
+english_events_pitstop:L2360,cpollyliterature,KEEP,"No, it's okay. I really like seeing you this passionate.","不,没关系。 我真的很喜欢看到你这么热情。","不,没关系。 我真的很喜欢看到你这么热情。"
+english_events_pitstop:L2361,cpollyliterature,FIX,"Cool! I can text you some book recommendations later, if you want.","凉爽! 如果你愿意,我晚点再给你发一些书推荐信",太好了！你想的话，晚点我可以发消息，推荐几本书给你。
+english_events_pitstop:L2362,cpollyliterature,KEEP,I'd love that.,我很乐意,我很乐意
+english_events_pitstop:L2363,cpollyliterature,FIX,You two spend the rest of the night looking at the night sky.,你们俩整晚都在看夜空,你们一起望着夜空，度过了这个夜晚剩下的时光。
+english_events_pitstop:L2372,cpollyafterparty,FIX,Her afterparty adventures,她的派对后历险记,她的续摊经历
+english_events_pitstop:L2374,cpollyafterparty,FIX,YASSSSSSS! Afterparties kick serious ass!,滚开! 狂欢狂欢!,没错——！续摊派对爽翻了！
+english_events_pitstop:L2375,cpollyafterparty,FIX,"The sun starts rising, and then all of us creatures of the night start lookin' for a haven.","太阳开始升起,然后我们所有的生物 夜晚开始寻找""一个避难所。",太阳开始升起，我们这些夜行动物就开始找地方躲了。
+english_events_pitstop:L2376,cpollyafterparty,FIX,"You're super drunk, or high, or neither, or both... wandering directionlessly in search of an afterparty.","你喝得烂醉,或者喝得烂醉,或者喝得烂醉,或者喝得烂醉,或者喝得烂醉 无所事事地徘徊 寻找一个晚会。",你可能喝大了，也可能嗑嗨了，可能都没有，也可能两样都有……漫无目的地晃着，找下一场续摊派对。
+english_events_pitstop:L2377,cpollyafterparty,FIX,"How do you find one, though?","你怎么找到一个,虽然?",可要怎么找到呢？
+english_events_pitstop:L2378,cpollyafterparty,FIX,"There's no trick to it! You either know someone who has a place, or you just go with the flow.",没有诡计! 你要么认识一个有地方的人 要么就随心所欲,没什么诀窍！要么认识有地方开趴的人，要么就顺着人流走。
+english_events_pitstop:L2379,cpollyafterparty,FIX,"Like, literally. Once I was walking after leaving a nightclub. It was like 6 a.m. and I was quite drunk, not paying much attention to anything but what I had in front of me.","喜欢,字面上。 有一次我离开夜总会后走路 这就像早上6点。 我喝得醉了,除了我面前的东西, 什么都不注意。",是真的顺着走哦。有次我刚从夜店出来，大概早上 6 点，喝得挺醉，除了眼前的东西，什么都没留意。
+english_events_pitstop:L2380,cpollyafterparty,FIX,"SUDDENLY A RANDOM DOOR OPENED. Nothing that strange, just some people that were in front of me entering their house. And so I did too.","突然间,一个兰德姆门打开。 没什么怪事,只是有人在我面前 进入他们的房子。 所以我也这么做了。",突然，有扇门开了！也没什么奇怪的，就是走在我前面的几个人回家了。于是我也跟着进去了。
+english_events_pitstop:L2381,cpollyafterparty,POLISH,"I had no plan; I just saw a door open and assumed I was going there too, not realizing I didn't know any of these people!","我没有计划;我只是看到一扇门打开了,以为我也要去,没有意识到我不认识这些人!",没计划，看到门开了，就默认我也要进去。压根没意识到，那些人我一个都不认识！
+english_events_pitstop:L2382,cpollyafterparty,POLISH,It happened to be an afterparty. When they realized I was a sort of party stowaway... they just welcomed me!,"恰好是一场""后会"". 当他们意识到我是 某种派对偷渡者... 他们只是欢迎我!",结果那里还真在开续摊派对。他们发现我像个偷渡进来的派对客……居然直接欢迎我加入了！
+english_events_pitstop:L2383,cpollyafterparty,KEEP,Imagine that!,试想一下!,试想一下!
+english_events_pitstop:L2384,cpollyafterparty,FIX,"Of course, what I did was dumb AF... entering random houses should always be a no-no.","当然,我所做的是愚蠢的AF... 进入任意房屋应该永远是拒绝的。",当然，我那样做蠢得要命……随便进别人家，肯定是不行的。
+english_events_pitstop:L2385,cpollyafterparty,POLISH,But I guess sometimes you get lucky and strangers end up being... actually nice?,但我猜有时你会走运 陌生人最后会... 真的不错吗?,不过，有时运气好，遇到的陌生人……还真挺友善？
+english_events_pitstop:L2386,cpollyafterparty,FIX,"We partied 'til noon and forged an actual nice, lasting friendship... and those strangers ended up being my good party buds Summer, Macarena, and Cheese.","直到中午,我们结成了真正的友好,持久的友谊 和那些陌生人 最终是我的好聚会芽 夏季,玛卡丽娜,和起司。",我们玩到中午，还成了真正长久的朋友。那些陌生人，就是现在经常一起开趴的 Summer、Macarena 和 Cheese。
+english_events_pitstop:L2387,cpollyafterparty,FIX,WHOA! FRIENDSHIP ORIGIN STORY!,呜哇! 朋友的原创故事!,哇！原来友谊是这么开始的！
+english_events_pitstop:L2388,cpollyafterparty,KEEP,Right? Wild party nights can truly be full of wonders...,对吧? 狂野派对的夜晚会充满奇迹...,对吧? 狂野派对的夜晚会充满奇迹...
+english_events_pitstop:L2389,cpollyafterparty,KEEP,Join me sometime and I will show you.,"有空跟我来,我带你去看","有空跟我来,我带你去看"
+english_events_pitstop:L2390,cpollyafterparty,FIX,Sounds like a plan!,听起来像一个计划!,就这么说定了！
+english_events_pitstop:L2391,cpollyafterparty,FIX,Polly spends the rest of the night sharing cool afterparty anecdotes with you. She's surely lived afterlife to the fullest!,波莉 晚上剩下的时间 跟你分享很棒的派对后传闻 她已经活了一辈子了!,波莉又给你讲了一晚上的续摊趣事。她死后的日子，可真过得够精彩！
+english_events_pitstop:L2400,cpollypartyetiquette,FIX,Party Etiquette,党 爱 乐,派对礼仪
+english_events_pitstop:L2402,cpollypartyetiquette,POLISH,"Ah, yes, parties... they seem so random and carefree, yet they're full of unwritten rules...","啊,是的,派对... 他们看起来如此随机和无忧无虑, 但他们充满了不成文的规则...",啊，派对……看着随性又无拘无束，其实里面不成文的规矩可多了……
+english_events_pitstop:L2403,cpollypartyetiquette,FIX,There's too many to list in one go... but I'd say most of them basically boil down to applying some common sense.,"单列的太多了... 但我会说,大部分 基本上可以应用一些常识。",一次说不完……但我觉得，大部分就是用用常识。
+english_events_pitstop:L2404,cpollypartyetiquette,POLISH,"And they could be really important, especially if you happen to be a ""special guest"".","它们可能很重要 特别是如果你碰巧是""特别嘉宾""的话",这些规矩可能很重要，尤其当你是个“特别来宾”的时候。
+english_events_pitstop:L2405,cpollypartyetiquette,FIX,Huh?,是吗?,嗯？
+english_events_pitstop:L2406,cpollypartyetiquette,POLISH,"""Special guests"" are party people and creatures of the night. No one knows how they got to the party...","""特邀嘉宾""是派对上的人和夜晚的生物. 没人知道他们是怎么去参加派对的...",“特别来宾”就是那些派对客、夜行动物。谁也不知道他们是怎么来的……
+english_events_pitstop:L2407,cpollypartyetiquette,POLISH,Maybe they're a friend of a friend of a friend... or someone who heard about the party from someone who's not even there.,也许他们是朋友的朋友... 或者有人从一个甚至不在那里的人那里听说派对的事,也许是朋友的朋友的朋友……也许是听一个压根不在场的人说这里有派对。
+english_events_pitstop:L2408,cpollypartyetiquette,FIX,"Sometimes, a ""special guest"" could be a total stranger who just sort of joined you while they were getting to an afterparty.","有时候,一个""特别客人""可能是一个完全陌生的人,他只是有点加入你,而他们正在参加一个会后聚会。",有时，一个完全不认识的人，在去续摊的路上跟上你们，就成了“特别来宾”。
+english_events_pitstop:L2409,cpollypartyetiquette,FIX,"It's random people you choose to open your doors to, basically.","基本上,你选择的人是随机的 打开你的门。",说白了，就是你愿意开门接待的陌生人。
+english_events_pitstop:L2410,cpollypartyetiquette,FIX,"If one night, you find yourself being a""special guest"" in someone's party, PLEASE BEHAVE.","如果有一天晚上,你会发现自己是一个""特别的客人"" 在某人的派对,请BEHAVE。",如果哪天你成了别人派对上的“特别来宾”，拜托，守点规矩。
+english_events_pitstop:L2411,cpollypartyetiquette,FIX,"Some ""special guests"" end up being lifelong friends, some end up being one-night friendships... and some end up being a general nuisance.","一些""特邀嘉宾""最终成为了终身好友,有些最终成为了一夜情的好友. . 一些人最后成了一个普通的麻烦。",有的“特别来宾”会变成一辈子的朋友，有的只做一晚朋友……还有的，纯粹是来添堵的。
+english_events_pitstop:L2412,cpollypartyetiquette,POLISH,"One time at an afterparty, we had someone I've never seen before asking if he could lick my feet. He was polite about it at least... but still creepy.",有一次在晚会后 我们有一个我从未见过的人 问他能不能舔我的脚 他对此至少很礼貌... 但仍然令人毛骨悚然。,有次续摊，一个从没见过的家伙问能不能舔我的脚。至少他问得挺礼貌……但还是很诡异。
+english_events_pitstop:L2413,cpollypartyetiquette,POLISH,At some point he threw his underwear off the balcony. To this day I have no idea what the plan was there...,"有时候他把内衣从阳台上扔了出来。 直到今天,我还不知道当时有什么计划...",后来他还把内裤从阳台扔了出去。直到今天，我也不知道他当时到底有什么计划……
+english_events_pitstop:L2414,cpollypartyetiquette,FIX,"Maybe a bold ""now there's no going back"" in his nakedness? Dunno.","也许一个大胆的""现在没有回头路"" 在他的裸体? 不知道,你觉得呢?",也许是想大胆宣告：现在脱光了，没退路了？不知道。
+english_events_pitstop:L2415,cpollypartyetiquette,FIX,Big yikes...,大个子...,这也太吓人了……
+english_events_pitstop:L2416,cpollypartyetiquette,FIX,Yeah! And it should be so easy: if a stranger invites you into their home for an afterparty... maybe don't be a dick?,对! 如果一个陌生人邀请你来他们家参加晚会... 也许不要是一个家伙?,是啊！道理这么简单：陌生人请你去家里续摊……就别当个混蛋，行吗？
+english_events_pitstop:L2417,cpollypartyetiquette,FIX,"If you can do that, chances are you're already following party etiquette, dang.","如果你能做到这一点,你可能已经 遵循党的礼仪,伙计。",能做到这一点，基本就算懂派对礼仪了，真是的。
+english_events_pitstop:L2418,cpollypartyetiquette,POLISH,"Anyway, don't you worry. You and me can go partying soon, and afterwards I can properly introduce you to afterparty culture, yes?","总之,你不用担心。 你和我可以去聚会很快, 之后我可以正确地介绍你 党后文化,是吗?",总之，别担心。咱们很快可以一起开趴，散场后我再好好带你见识续摊文化，怎么样？
+english_events_pitstop:L2419,cpollypartyetiquette,POLISH,It's a date!,这是约会!,那就约好了！
+english_events_pitstop:L2420,cpollypartyetiquette,FIX,"Polly spends the rest listing some of her favorite party rules. Some are pretty obvious and some are quite surprising! Surely, good you know them now!","波莉 剩下的花在列出她最喜欢的党规上。 有些很明显,有些很出人意料! 当然,你现在认识他们了!",波莉又说起几条她最喜欢的派对规矩。有些显而易见，有些却让你意想不到。幸好现在知道了！

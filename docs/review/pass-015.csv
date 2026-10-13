@@ -1,0 +1,151 @@
+﻿row_id,event_id,decision,source,before,after
+english_metatexts:CNN_ERR_AGE,metatext,FIX,Can't use newtork features due to age restrictions.,"由于年龄限制,不能使用新人特征.",由于年龄限制，无法使用联网功能。
+english_metatexts:CNN_ERR_AUTHENTICATIONTICKETEXPIRED,metatext,FIX,Connection error:[n]expired authentication.,连接出错 :[n]过期认证 。,连接错误：[n]身份验证已过期。
+english_metatexts:CNN_ERR_CLIENTTIMEOUT,metatext,KEEP,Connection error:[n]client timeout.,连接出错 :[n]客户端超时 。,连接出错 :[n]客户端超时 。
+english_metatexts:CNN_ERR_CUSTOMAUTHENTICATIONFAILED,metatext,KEEP,Connection error:[n]custom authentication failed.,连接出错 :[n]自定义认证失败 。,连接出错 :[n]自定义认证失败 。
+english_metatexts:CNN_ERR_DEFAULT,metatext,KEEP,Connection error.,连接出错 。,连接出错 。
+english_metatexts:CNN_ERR_DISCONNECTBYSERVERLOGIC,metatext,FIX,Connection error:[n]disconnect by server.,连接出错 :[n]由服务器断开 。,连接错误：[n]服务器断开了连接。
+english_metatexts:CNN_ERR_DISCONNECTBYSERVERREASONUNKNOWN,metatext,FIX,Connection error:[n]unknown disconnect by server.,连接出错 :[n]服务器未知断开 。,连接错误：[n]服务器断开了连接，原因未知。
+english_metatexts:CNN_ERR_EXCEPTION,metatext,FIX,Connection error:[n]unknown exception.,连接出错 :[n]未知的例外 。,连接错误：[n]发生未知异常。
+english_metatexts:CNN_ERR_EXCEPTIONONCONNECT,metatext,FIX,Connection error:[n]exception on connect.,连接出错 :[n]连接时有例外。,连接错误：[n]连接过程中发生异常。
+english_metatexts:CNN_ERR_INVALIDAUTHENTICATION,metatext,KEEP,Connection error:[n]authentication failed.,连接出错 :[n]认证失败 。,连接出错 :[n]认证失败 。
+english_metatexts:CNN_ERR_INVALIDREGION,metatext,KEEP,Connection error:[n]invalid region.,连接出错 :[n]无效的区域 。,连接出错 :[n]无效的区域 。
+english_metatexts:CNN_ERR_MAXCCUREACHED,metatext,KEEP,Connection error:[n]max users reached.,连接出错 :[n]达到最大用户数 。,连接出错 :[n]达到最大用户数 。
+english_metatexts:CNN_ERR_NONE,metatext,KEEP,Connection error:[n]unknown cause.,连接出错 :[n]未知原因 。,连接出错 :[n]未知原因 。
+english_metatexts:CNN_ERR_OPERATIONNOTALLOWEDINCURRENTSTATE,metatext,KEEP,Connection error:[n]operation not allowed in current state.,连接出错 :[n]当前状态下不允许操作 。,连接出错 :[n]当前状态下不允许操作 。
+english_metatexts:CNN_ERR_SERVERTIMEOUT,metatext,KEEP,Connection error:[n]server timeout.,连接出错 :[n]服务器超时 。,连接出错 :[n]服务器超时 。
+english_metatexts:CNN_ERR_SIGNEDOUT,metatext,FIX,Connection error:[n]not signed in.,连接出错 :[n]未签名 。,连接错误：[n]尚未登录。
+english_metatexts:MOD_BTN_GET,metatext,FIX,Get Mods,获取模式,获取 Mod
+english_metatexts:MOD_BTN_LOA,metatext,FIX,Load Mods,装入模式,加载 Mod
+english_metatexts:MOD_BTN_MNL,metatext,FIX,Manual,手动,使用说明
+english_metatexts:MOD_BTN_NEW,metatext,FIX,New Mod,新建模式,新建 Mod
+english_metatexts:MOD_BUTTON_EDIT,metatext,KEEP,EDIT,编辑,编辑
+english_metatexts:MOD_CANT_ACTIVATE_DOWNLOADING,metatext,FIX,This mod cannot be enabled. Please wait until Steam finishes downloading its contents.,此模式无法启用 。 请等待 Steam 完成下载内容 。,无法启用这个 Mod。请等待 Steam 完成内容下载。
+english_metatexts:MOD_CANT_ACTIVATE_GENERIC,metatext,FIX,This mod cannot be enabled.,此模式无法启用 。,无法启用这个 Mod。
+english_metatexts:MOD_CANT_ACTIVATE_INSTALLING,metatext,FIX,This mod cannot be enabled. Please wait until Steam finishes installing its contents.,此模式无法启用 。 请等待Steam完成安装其内容.,无法启用这个 Mod。请等待 Steam 完成内容安装。
+english_metatexts:MOD_COMPLETED_CREATE,metatext,FIX,A new mod has been created.,已经创建了一个新的模式。,已创建新 Mod。
+english_metatexts:MOD_COMPLETED_DELETE,metatext,FIX,Mod successfully deleted.[n](Only local files were deleted. You can delete published mods by viting your Workshop Items page in Steam.),Mod 成功删除 。[n](只有本地文件被删除. 您可以通过在 Steam 中查看您的工作坊项目页面来删除已出版的 Mods 。 ),Mod 已成功删除。[n]（仅删除了本地文件。若要删除已发布的 Mod，请前往 Steam 的“你的创意工坊物品”页面。）
+english_metatexts:MOD_CONFIRM_DELETE,metatext,FIX,Are you sure you want to delete this mod?[n](This will only delete your local files. You can delete published mods by visiting your Workshop Items page in Steam.),您确定要删除此模式吗 ?[n](这将只删除您的本地文件 。) 您可以通过访问您在Steam的车间项目页面来删除已出版的 Mods 。 ),确定要删除这个 Mod 吗？[n]（此操作仅删除本地文件。若要删除已发布的 Mod，请前往 Steam 的“你的创意工坊物品”页面。）
+english_metatexts:MOD_CONTAINS_ERRORS,metatext,FIX,The mod contains errors.[n]Do you want to publish it anyways?,该模式含有错误 。[n]你还是想出版它吗?,这个 Mod 存在错误。[n]仍要发布吗？
+english_metatexts:MOD_CPY_CLP_ADDRESS,metatext,POLISH,Mod address copied to clipboard.,复制到剪贴板的 Mod 地址 。,Mod 地址已复制到剪贴板。
+english_metatexts:MOD_CPY_CLP_ID,metatext,POLISH,Translation ID copied to clipboard.,翻译 ID 复制到剪贴板 。,翻译 ID 已复制到剪贴板。
+english_metatexts:MOD_CTV_MANAGE,metatext,FIX,MANAGE MODS,管理方式,管理 Mod
+english_metatexts:MOD_CTV_RETRIEVING,metatext,KEEP,Retrieving mod data...,正在获取 Mod 数据...,正在获取 Mod 数据...
+english_metatexts:MOD_CURR_MOD,metatext,FIX,ACTIVE FAN TRANSLATION MOD:,实际 FAN 转换模式:,当前启用的玩家汉化 Mod：
+english_metatexts:MOD_DISABLED,metatext,FIX,DISABLED,失能者,已禁用
+english_metatexts:MOD_ENABLED,metatext,FIX,ENABLED,可用数据d,已启用
+english_metatexts:MOD_LASTPUBLISH,metatext,FIX,LAST PUBLISH TIME:,最后一个时间:,上次发布时间：
+english_metatexts:MOD_LOADING,metatext,KEEP,LOADING...,加载中……,加载中……
+english_metatexts:MOD_LOADING_MODS,metatext,KEEP,Loading mods...,正在装入 Mods...,正在装入 Mods...
+english_metatexts:MOD_LOADING_MOD_DATA,metatext,KEEP,Loading mod data...,正在装入 Mod 数据...,正在装入 Mod 数据...
+english_metatexts:MOD_LOC_FILE_NOT_FOUND,metatext,KEEP,Mod's localization file not found.,找不到 Mod 的本地化文件 。,找不到 Mod 的本地化文件 。
+english_metatexts:MOD_MAX_NUM_REACHED,metatext,POLISH,You have reached the maximum number of mods possible. Please delete a mod to create a new one.,您已经达到了 mods 的最大数量 。 请删除一个创建新模式的模式 。,Mod 数量已达到上限。请先删除一个 Mod，再创建新的。
+english_metatexts:MOD_MESSAGE_OK,metatext,FIX,OK,罢,确定
+english_metatexts:MOD_MISSING_TRANSLATION_DICTIONARY,metatext,FIX,This mod cannot be enabled because it is missing a translation dictionary.,"此模式无法启用, 因为它缺少了翻译词典 。",这个 Mod 缺少翻译词典，无法启用。
+english_metatexts:MOD_NAME_TOOLTIP,metatext,KEEP,Mod codename...,Mod 代号...,Mod 代号...
+english_metatexts:MOD_NOT_AVL,metatext,FIX,No mods available.[n]Please create a new one.,没有可用的 Mods 。[n]请造一新相.,没有可用的 Mod。[n]请创建一个新 Mod。
+english_metatexts:MOD_NOT_AVL_LOAD,metatext,FIX,No mods available.[n][n]You can get them from Steamworks[n]and activate them in this menu.,没有可用的 Mods 。[n][n]你可以从Steamworks得到它们[n]并在菜单中激活它们。,没有可用的 Mod。[n][n]你可以通过 Steamworks 获取 Mod，[n]然后在此菜单中启用。
+english_metatexts:MOD_NO_FILE_FOUND,metatext,KEEP,"No mod file attached, can not publish mod","没有附带的 mod 文件, 无法发布 mod","没有附带的 mod 文件, 无法发布 mod"
+english_metatexts:MOD_NO_SUBSCRIPTION,metatext,FIX,No subscribed mods.[n]There's no mods available to import from. Please subscribe to new mods through the Steam Workshop.,没有订阅的 Mods 。[n]没有任何Mods可供从中导入. 请通过Steam工作坊订阅新款.,没有已订阅的 Mod。[n]没有可供导入的 Mod。请通过 Steam 创意工坊订阅新的 Mod。
+english_metatexts:MOD_OUTDATED,metatext,FIX,OUTDATED,外报,版本过旧
+english_metatexts:MOD_PBL_ATTACH_FILE,metatext,KEEP,Attach file,附加文件,附加文件
+english_metatexts:MOD_PBL_CHN_NOT,metatext,POLISH,Change Notes,更改注释,更新说明
+english_metatexts:MOD_PBL_CHN_NOT_TLT,metatext,FIX,Enter the mod change notes... [OPTIONAL],输入 mod 更改注释...  [OPTIONAL],输入 Mod 更新说明……[OPTIONAL]
+english_metatexts:MOD_PBL_CRD,metatext,FIX,Credits,贷项,贡献者
+english_metatexts:MOD_PBL_CRD_TLT,metatext,KEEP,Enter the contributor names... [OPTIONAL],输入贡献者名称...  [OPTIONAL],输入贡献者名称...  [OPTIONAL]
+english_metatexts:MOD_PBL_DSC,metatext,KEEP,Description,说明,说明
+english_metatexts:MOD_PBL_DSC_TLT,metatext,FIX,Enter the mod description...,输入模式描述...,输入 Mod 说明……
+english_metatexts:MOD_PBL_FONT_SET,metatext,KEEP,Font set,字体设定,字体设定
+english_metatexts:MOD_PBL_SEE_MOD,metatext,FIX,See my mod,看见我的摩德了,查看我的 Mod
+english_metatexts:MOD_PBL_TTL,metatext,KEEP,Title,标题,标题
+english_metatexts:MOD_PBL_TTL_TLT,metatext,FIX,Enter the mod title...,输入模式标题...,输入 Mod 标题……
+english_metatexts:MOD_PBL_VSB,metatext,FIX,Visibility,可见度,可见性
+english_metatexts:MOD_PUBLISH,metatext,FIX,PUBLISH MOD,玻利维亚 摩德,发布 Mod
+english_metatexts:MOD_SLC_CREATE,metatext,FIX,Create a new mod,创建新模式,创建新 Mod
+english_metatexts:MOD_SLC_GET_TPL,metatext,FIX,TEMPLATE FILE,临时文件,模板文件
+english_metatexts:MOD_SLC_SELECT,metatext,FIX,SELECT MOD,自动移动器,选择 Mod
+english_metatexts:MOD_UNLOADING_MOD_DATA,metatext,FIX,Unloading mod data...,正在卸载 Mod 数据...,正在卸载 Mod 数据……
+english_metatexts:MOD_UPDATE,metatext,FIX,UPDATE MOD,最新模式,更新 Mod
+english_metatexts:MOD_UPLOAD_FAIL,metatext,POLISH,The mod failed to upload.,mod 上传失败 。,Mod 上传失败。
+english_metatexts:MOD_UPLOAD_FILE_NOT_FOUND,metatext,KEEP,"Failed to get the Workshop info for the item, failed to read the preview file, or the provided content folder is not valid.","获取此项目的工作坊信息失败, 无法读取预览文件, 或提供的内容文件夹无效 。","获取此项目的工作坊信息失败, 无法读取预览文件, 或提供的内容文件夹无效 。"
+english_metatexts:MOD_UPLOAD_INFOMISSING,metatext,FIX,INFO MISSING[n][n]lease input a mod title and description in order to upload the mod.,"信息失踪[n][n]租赁输入一个 Mod 标题和描述,以便上传 mod 。",缺少信息[n][n]请填写 Mod 标题和说明，才能上传 Mod。
+english_metatexts:MOD_UPLOAD_INVALID_PARAM,metatext,KEEP,The preview file is smaller than 16 bytes.,预览文件小于16字节.,预览文件小于16字节.
+english_metatexts:MOD_UPLOAD_LIMIT_EXCEEDED,metatext,KEEP,"The preview image is too large, it must be less than 1 Megabyte; or there is not enough space available on the user's Steam Cloud.","预览图像太大了,必须小于1兆字节;或者用户的Steam Cloud上没有足够的空间.","预览图像太大了,必须小于1兆字节;或者用户的Steam Cloud上没有足够的空间."
+english_metatexts:MOD_UPLOAD_OK,metatext,KEEP,The mod was successfully uploaded.,mod已成功上传 。,mod已成功上传 。
+english_metatexts:MOD_UPLOAD_STEAMDISABLED,metatext,KEEP,OPERATION FAILED[n]Could not connect to Steam.,行动失败[n]无法连接到 Steam 。,行动失败[n]无法连接到 Steam 。
+english_metatexts:MOD_UPLOAD_UGC_LOCKED,metatext,KEEP,Failed to acquire UGC Lock.,获取 UGC 锁定失败 。,获取 UGC 锁定失败 。
+english_metatexts:MOD_VAL_DTL_CHR_INVALID,metatext,FIX,Character: [0] (decimal value: [1]),字符 : [0] (小数值: [1]),字符：[0]（十进制值：[1]）
+english_metatexts:MOD_VAL_DTL_DUPLICATEDKEY,metatext,FIX,Duplicated key,复制的密钥,重复的键
+english_metatexts:MOD_VAL_DTL_IDNOTALLOWED,metatext,FIX,Id not allowed,我不允许,不允许的 ID
+english_metatexts:MOD_VAL_DTL_INCOHERENTSTATMODIFICATION,metatext,FIX,Incoherent stat mofification,不稳定的静态摩菲化,资源数值变化不一致
+english_metatexts:MOD_VAL_DTL_MISSINGKEY,metatext,FIX,Missing key,缺少密钥,缺少键
+english_metatexts:MOD_VAL_DTL_MISSINGTRANSLATION,metatext,KEEP,Missing translation,缺少翻译,缺少翻译
+english_metatexts:MOD_VAL_DTL_STAT_MISSMATCH,metatext,FIX,Unmatching source stat: [0] with translation stat: [1],无法匹配源数据 : [0] 带有翻译 stat 的 : [1],原文资源标记 [0] 与译文资源标记 [1] 不一致。
+english_metatexts:MOD_VAL_DTL_STAT_SOURCE_MISSING,metatext,FIX,Source stat [0] not found in translation.,来源统计 [0] 未在翻译中找到 。,译文中找不到原文的资源标记 [0]。
+english_metatexts:MOD_VAL_DTL_STAT_TRANSLATION_MISSING,metatext,FIX,Translation stat [0] not found in source.,翻译 stat [0] 未在源代码中找到 。,原文中找不到译文的资源标记 [0]。
+english_metatexts:MOD_VAL_DTL_UNREPRESENTABLECHARS,metatext,FIX,Unrepresentable character,无法代表的字符,无法显示的字符
+english_metatexts:MOD_VAL_FORBIDDEN_CODENAME,metatext,POLISH,This codename is reserved.[n]Please input a different codename.,此代码被保留 。[n]请输入不同的代号 。,这是保留代号。[n]请输入其他代号。
+english_metatexts:MOD_VAL_HDR_DUPLICATEDKEY_1,metatext,FIX,The following translation ID is duplicated:,以下译名ID被复制:,以下翻译 ID 重复：
+english_metatexts:MOD_VAL_HDR_DUPLICATEDKEY_N,metatext,FIX,The following translation IDs are duplicated:,现将以下译名ID复制: 1.,以下翻译 ID 重复：
+english_metatexts:MOD_VAL_HDR_IDNOTALLOWED_1,metatext,FIX,The following translation ID is not recognized:,下列译名ID不予识别: 1.,无法识别以下翻译 ID：
+english_metatexts:MOD_VAL_HDR_IDNOTALLOWED_N,metatext,FIX,The following translation IDs are not recognized:,下列译名ID不予识别: 1.,无法识别以下翻译 ID：
+english_metatexts:MOD_VAL_HDR_INCOHERENTSTATMODIFICATION_1,metatext,FIX,The following stat modification does not match the source stat modification:,以下 stat 修改与源 stat 修改不匹配 :,以下资源数值变化与原文不符：
+english_metatexts:MOD_VAL_HDR_INCOHERENTSTATMODIFICATION_N,metatext,FIX,The following stat modifications do not match the source stat modifications:,以下Stat修改与源 stat修改不相匹配: 1.,以下资源数值变化与原文不符：
+english_metatexts:MOD_VAL_HDR_MISSINGKEY_1,metatext,FIX,The following translation ID is missing:,缺少以下翻译身份:,缺少以下翻译 ID：
+english_metatexts:MOD_VAL_HDR_MISSINGKEY_N,metatext,FIX,The following translation IDs are missing:,缺少以下翻译身份证明: 1.,缺少以下翻译 ID：
+english_metatexts:MOD_VAL_HDR_MISSINGTRANSLATION_1,metatext,KEEP,The following translation is missing:,以下译名缺失:,以下译名缺失:
+english_metatexts:MOD_VAL_HDR_MISSINGTRANSLATION_N,metatext,KEEP,The following translations are missing:,缺少下列翻译:,缺少下列翻译:
+english_metatexts:MOD_VAL_HDR_UNREPRESENTABLECHARS_1,metatext,POLISH,The following translation contains a character that can not be represented by the font and will not display in the game. Remember you can change the Font Set setting for this mod.,以下翻译包含一个无法由字体代表且不会在游戏中显示的字符. 记住您可以更改此模式的字体设置 。,以下译文包含当前字体无法显示的字符，因此不会在游戏中显示。你可以更改这个 Mod 的“字体设定”。
+english_metatexts:MOD_VAL_HDR_UNREPRESENTABLECHARS_N,metatext,POLISH,The following translations contain a character that can not be represented by the font and will not display in the game. Remember you can change the Font Set setting for this mod.,以下翻译包含一个无法由字体代表且不会在游戏中显示的字符. 记住您可以更改此模式的字体设置 。,以下译文包含当前字体无法显示的字符，因此不会在游戏中显示。你可以更改这个 Mod 的“字体设定”。
+english_metatexts:MOD_VAL_IMG_BDY,metatext,KEEP,Mod preview images must be:,Mod 预览图像必须是 :,Mod 预览图像必须是 :
+english_metatexts:MOD_VAL_IMG_FLT,metatext,KEEP,- File type:,- 文件类型 :,- 文件类型 :
+english_metatexts:MOD_VAL_IMG_MNS,metatext,FIX,- File min size:,- 文件分钟大小 :,- 文件最小大小：
+english_metatexts:MOD_VAL_IMG_MXS,metatext,KEEP,- File max size:,- 文件最大大小 :,- 文件最大大小 :
+english_metatexts:MOD_VAL_IMG_TTL,metatext,KEEP,WRONG FILE FORMAT,错误的文件格式,错误的文件格式
+english_metatexts:MOD_VAL_NAME_EMPTY,metatext,KEEP,Please input a codename for the mod.,请输入该mod的代号 。,请输入该mod的代号 。
+english_metatexts:MOD_VAL_NAME_REPEATED,metatext,FIX,This codename is already in use.[n]Please choose another mod codename.,此代码已经使用 。[n]请选择另一个 Mod 代号 。,这个代号已被使用。[n]请为 Mod 换一个代号。
+english_metatexts:MOD_VAL_NUMERIC_CODENAME,metatext,POLISH,This codename contains only numbers.[n]Please input at least one letter/symbol.,此代号只包含数字 。[n]请输入至少一个字母/符号 。,这个代号只有数字。[n]请至少添加一个字母或符号。
+english_metatexts:MOD_VAL_OK,metatext,FIX,"[c][22dd22]VALIDATION OKAY[-][/c][n]The mod is properly configured, congrats!","[c][22dd22]评估好[-][/c][n]模型配置得当,恭喜!",[c][22dd22]校验通过[-][/c][n]Mod 配置正确，恭喜！
+english_metatexts:MOD_VAL_SMR_DUPLICATEDKEY_1,metatext,FIX,[0] translation ID is duplicated.,[0] 翻译 ID 复制。,[0] 个翻译 ID 重复。
+english_metatexts:MOD_VAL_SMR_DUPLICATEDKEY_N,metatext,FIX,[0] translation IDs are duplicated.,[0] 翻译的ID是重复的。,[0] 个翻译 ID 重复。
+english_metatexts:MOD_VAL_SMR_IDNOTALLOWED_1,metatext,FIX,[0] translation ID is not recognized.,[0] 无法识别 。,[0] 个翻译 ID 无法识别。
+english_metatexts:MOD_VAL_SMR_IDNOTALLOWED_N,metatext,FIX,[0] translation IDs are not recognized.,[0] 翻译身份识别不识别。,[0] 个翻译 ID 无法识别。
+english_metatexts:MOD_VAL_SMR_INCOHERENTSTATMODIFICATION_1,metatext,FIX,[0] stat modification does not match the source.,[0] stat 修改与源不匹配 。,[0] 处资源数值变化与原文不符。
+english_metatexts:MOD_VAL_SMR_INCOHERENTSTATMODIFICATION_N,metatext,FIX,[0] stat modifications do not match the source.,[0] stat 修改与源不符 。,[0] 处资源数值变化与原文不符。
+english_metatexts:MOD_VAL_SMR_MISSINGKEY_1,metatext,FIX,[0] translation ID is missing.,[0] 翻译身份识别缺失 。,缺少 [0] 个翻译 ID。
+english_metatexts:MOD_VAL_SMR_MISSINGKEY_N,metatext,FIX,[0] translation IDs are missing.,[0] 翻译身份文件缺失。,缺少 [0] 个翻译 ID。
+english_metatexts:MOD_VAL_SMR_MISSINGTRANSLATION_1,metatext,KEEP,[0] translation is missing.,[0] 翻译缺失。,[0] 翻译缺失。
+english_metatexts:MOD_VAL_SMR_MISSINGTRANSLATION_N,metatext,KEEP,[0] translations are missing.,[0] 翻译缺失 。,[0] 翻译缺失 。
+english_metatexts:MOD_VAL_SMR_MISSINGTRANSLATION_STATS_FOOTER,metatext,FIX,Make sure to fill them as all other validations are skipped when these are missing.,"在缺少其他验证时会跳过时,请务必填充这些验证。",请先补全这些译文；只要它们缺失，就会跳过所有其他校验。
+english_metatexts:MOD_VAL_SMR_MISSINGTRANSLATION_STATS_HEADER,metatext,FIX,The following translations for stats names are missing:,缺少统计名称的下列译名:,缺少以下资源名称的译文：
+english_metatexts:MOD_VAL_SMR_UNREPRESENTABLECHARS_1,metatext,FIX,[0] unrepresentable characters.,[0] 无法形容的字符 。,[0] 个字符无法显示。
+english_metatexts:MOD_VAL_SMR_UNREPRESENTABLECHARS_N,metatext,FIX,[0] unrepresentable characters.,[0] 无法形容的字符 。,[0] 个字符无法显示。
+english_metatexts:MOD_VKY_CANCEL,metatext,FIX,Cancel,取消( E),取消
+english_metatexts:MOD_VKY_CODENAME,metatext,FIX,Codename,代码,代号
+english_metatexts:MOD_VKY_CONFIRM,metatext,KEEP,Confirm,确认,确认
+english_metatexts:MPD_PBL_UPLOADING,metatext,KEEP,Uploading mod data...,正在上传 Mod 数据...,正在上传 Mod 数据...
+english_metatexts:MPD_PBL_UPLOADING_PERCENT,metatext,KEEP,Uploading mod data... ([0]%),正在上传 Mod 数据... ([0]%),正在上传 Mod 数据... ([0]%)
+english_metatexts:POP_APE,metatext,KEEP,Error adding player.,添加玩家出错 。,添加玩家出错 。
+english_metatexts:POP_CM2,metatext,FIX,Error trying to create match.,试图创建匹配时出错 。,尝试创建对局时出错。
+english_metatexts:POP_CME,metatext,FIX,Error creating match.,创建匹配出错 。,创建对局出错。
+english_metatexts:POP_CNC,metatext,KEEP,Error trying to connect.,试图连接出错 。,试图连接出错 。
+english_metatexts:POP_CNT_DSC,metatext,FIX,Controller has disconnected!,主计长已经断线了!,手柄已断开连接！
+english_metatexts:POP_GIC,metatext,FIX,Error joining match. Match is closed. Match ID: '[0]'.,加入匹配时出错 。 火柴已关闭 。 匹配 ID : '[0]'.,加入对局出错：房间已关闭。房间编号：‘[0]’。
+english_metatexts:POP_IMC,metatext,FIX,Invalid match ID. Match ID: '[0]'.,无效的匹配ID 。 匹配 ID : '[0]'.,房间编号无效。房间编号：‘[0]’。
+english_metatexts:POP_IMC_EMPTY,metatext,FIX,Invalid match ID. Match ID was empty.,无效的匹配ID 。 匹配的ID是空的 。,房间编号无效：编号为空。
+english_metatexts:POP_JME,metatext,FIX,Error joining match. Match ID: '[0]'.,加入匹配时出错 。 匹配 ID : '[0]'.,加入对局出错。房间编号：‘[0]’。
+english_metatexts:POP_KIK,metatext,FIX,Kicked from match.,被踢出对决.,已被踢出对局。
+english_metatexts:POP_LMI,metatext,FIX,Language mismatch. Please ensure both you and host are using the same game language. Host language: '[0]'.,语言不匹配. 请确保您和主机使用相同的游戏语言. 主机语言: '[0]'.,游戏语言不一致。请确保你与房主使用相同的游戏语言。房主语言：‘[0]’。
+english_metatexts:POP_MCO,metatext,FIX,Conflicting matches. Match ID: '[0]'.,相冲突相. 匹配 ID : '[0]'.,对局冲突。房间编号：‘[0]’。
+english_metatexts:POP_MNF,metatext,FIX,Match not found. Match ID: '[0]'.,匹配没有找到 。 匹配 ID : '[0]'.,找不到对局。房间编号：‘[0]’。
+english_metatexts:POP_MRE,metatext,FIX,Match not found. The region was not valid. Match ID: '[0]'.,匹配没有找到 。 该地区无效。 匹配 ID : '[0]'.,找不到对局：区域无效。房间编号：‘[0]’。
+english_metatexts:POP_NSF,metatext,FIX,Could not create save file. Your progress won't be saved.[n](Do you have write permission in the game folder?),无法创建保存文件 。 你的进步是无法挽救的。[n](您在游戏文件夹中是否有写权限 ?),无法创建存档文件，你的进度将无法保存。[n]（你有游戏文件夹的写入权限吗？）
+english_metatexts:POP_SFU,metatext,FIX,"Saved game was corrupted, but the security file was recovered. You may have lost some of your progress.","被保存的游戏被腐蚀了,但安全文件被找回. 你可能已经失去了你的一些进步。",存档已损坏，但安全文件已恢复。你可能损失了部分进度。
+english_metatexts:POP_SVC,metatext,FIX,Saved game was corrupted. Game could not be loaded!,保存的游戏被腐蚀了. 游戏无法被装入 !,存档已损坏，无法读取游戏！
+english_metatexts:POP_VMI,metatext,FIX,Version mismatch. Please ensure both you and host are using the same game version. Host version: '[0]'.,版本不匹配 。 请确保您和主机使用相同的游戏版本 。 主机版本: '[0]'.,游戏版本不一致。请确保你与房主使用相同的游戏版本。房主版本：‘[0]’。
+english_metatexts:POP_WCM,metatext,KEEP,Waiting for remote players to configure controller mode...,正在等待远程玩家配置控制器模式...,正在等待远程玩家配置控制器模式...
+english_metatexts:POP_WPJ,metatext,KEEP,Waiting for other players to join...,等待其他玩家加入...,等待其他玩家加入...
+english_metatexts:PSE_RAD_METALPURSUIT,metatext,KEEP,Metal Pursuit,金属追逐,金属追逐
+english_metatexts:PSE_RAD_PANCAKESONG,metatext,KEEP,Pancake Song,煎饼之歌,煎饼之歌
+english_metatexts:PSE_RAD_RADIONOISE,metatext,KEEP,???,???,???
+english_metatexts:PSE_SHW_TOO,metatext,KEEP,Show Tooltips,显示工具提示,显示工具提示

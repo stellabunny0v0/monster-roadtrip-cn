@@ -1,0 +1,559 @@
+﻿row_id,event_id,decision,source,before,after
+english_metatexts:ANN_DST,metatext,KEEP,The road trip comes to an end...,公路旅行结束...,公路旅行结束...
+english_metatexts:ANN_DST_AVA,metatext,FIX,Wait! There's something else...,单单! 还有件事...,等等！还有别的……
+english_metatexts:ANN_DST_IND,metatext,KEEP,And that wasn't all!,而这还不是全部!,而这还不是全部!
+english_metatexts:ANN_GMO,metatext,KEEP,Something's wrong...,有点不对劲...,有点不对劲...
+english_metatexts:ANN_MSS_RSL,metatext,FIX,Dare updates!,大胆的更新!,挑战进度更新！
+english_metatexts:ANN_MSS_SLC,metatext,FIX,Time for new dares!,是时候开始新的冒险了!,该选新挑战了！
+english_metatexts:ANN_PIT,metatext,KEEP,Time to stop and get some rest.,是时候停下来休息了,是时候停下来休息了
+english_metatexts:ANN_PIT_EOTR1,metatext,FIX,It's time to stop.,时已而止.,该停下了。
+english_metatexts:ANN_PIT_EOTR2,metatext,KEEP,We'll make you stop.,我们会让你停下来的,我们会让你停下来的
+english_metatexts:ANN_QGL,metatext,KEEP,Later that night...,那晚晚些时候...,那晚晚些时候...
+english_metatexts:ANN_RDE,metatext,KEEP,What?! Why has the car stopped?,你说什么? 车怎么停了?,你说什么? 车怎么停了?
+english_metatexts:BTN_NO,metatext,FIX,No,没有,否
+english_metatexts:BTN_NO_EX,metatext,FIX,No!,没有!,不！
+english_metatexts:BTN_OK,metatext,FIX,Ok,罢,确定
+english_metatexts:BTN_OK_EX,metatext,KEEP,Ok!,好！,好！
+english_metatexts:BTN_OK_PSN,metatext,KEEP,Ok!,好！,好！
+english_metatexts:BTN_YES,metatext,KEEP,Yes,对,对
+english_metatexts:BTN_YES_EX,metatext,KEEP,Yes!,没错!,没错!
+english_metatexts:CHR_AARAVI,metatext,KEEP,Aaravi,阿拉薇,阿拉薇
+english_metatexts:CHR_ADRIEN,metatext,FIX,Adrien,阿德里安 亚德里安 Adrien,阿德里安
+english_metatexts:CHR_BLUE,metatext,KEEP,Vicky,维姬,维姬
+english_metatexts:CHR_CALCULESTER,metatext,KEEP,Calculester,卡库莱斯特,卡库莱斯特
+english_metatexts:CHR_DAHLIA,metatext,KEEP,Dahlia,达莉娅,达莉娅
+english_metatexts:CHR_DAHLIAAPPLIANCE,metatext,FIX,Washing Machine Dahlia,冲洗机 达莉娅,洗衣机达莉娅
+english_metatexts:CHR_DAMIEN,metatext,KEEP,Damien,达米恩,达米恩
+english_metatexts:CHR_FINN,metatext,FIX,Finn,芬语,芬恩
+english_metatexts:CHR_GREEN,metatext,KEEP,Brian,布莱恩,布莱恩
+english_metatexts:CHR_HOPE,metatext,FIX,Hope,希望,霍普
+english_metatexts:CHR_JOY,metatext,FIX,Joy,欢乐,乔伊
+english_metatexts:CHR_LAMB,metatext,FIX,The Lamb,羔羊队,羔羊
+english_metatexts:CHR_LIAM,metatext,KEEP,Liam,利亚姆,利亚姆
+english_metatexts:CHR_MILO,metatext,KEEP,Milo,迈洛,迈洛
+english_metatexts:CHR_MIRANDA,metatext,KEEP,Miranda,米兰达,米兰达
+english_metatexts:CHR_MOTHMAN,metatext,FIX,Moss,摩斯语Name,莫斯
+english_metatexts:CHR_NONE,metatext,KEEP,someone,某个人,某个人
+english_metatexts:CHR_POLLY,metatext,KEEP,Polly,波莉,波莉
+english_metatexts:CHR_RED,metatext,KEEP,Amira,阿米拉,阿米拉
+english_metatexts:CHR_SCOTT,metatext,KEEP,Scott,斯科特,斯科特
+english_metatexts:CHR_STU,metatext,KEEP,Stu,斯图,斯图
+english_metatexts:CHR_VALERIE,metatext,KEEP,Valerie,瓦莱丽,瓦莱丽
+english_metatexts:CHR_VERA,metatext,KEEP,Vera,维拉,维拉
+english_metatexts:CHR_YELLOW,metatext,KEEP,Oz,奥兹,奥兹
+english_metatexts:CHR_ZOE,metatext,KEEP,Zoe,佐伊,佐伊
+english_metatexts:DAY,metatext,FIX,Day [0],日数 [0],第 [0] 天
+english_metatexts:EVN,metatext,KEEP,Evening,晚间,晚间
+english_metatexts:GOD_GMC,metatext,FIX,Game Over count:,游戏数 :,失败次数：
+english_metatexts:HTC_TLK,metatext,POLISH,Talk to [NPC],说话 [NPC],与 [NPC] 聊天
+english_metatexts:HTC_TTL_MAN,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:HTC_TTL_SEL,metatext,KEEP,Who do you want to pick up?,你想接谁?,你想接谁?
+english_metatexts:HTC_TTL_TLK,metatext,KEEP,Talk about...,说说...,说说...
+english_metatexts:HTC_TTL_TLK_DEE,metatext,FIX,Let's get real!,让我们得到真实的!,来聊点真心话！
+english_metatexts:INF_HID,metatext,KEEP,Hide,隐藏,隐藏
+english_metatexts:ITM_TTL_ASHES,metatext,FIX,Ashes of a Man Whose Dying Wish Was to be Given to a Random Road-Tripper,一个死神的骨灰 将会被赠予一个随机行走的流浪者,某人的骨灰，遗愿是送给随机路过的公路旅人
+english_metatexts:ITM_TTL_BLADEBLADE,metatext,REVIEW,The Dangerous Blade-Blade,危险的刀锋-布莱德,危险的刀锋-布莱德
+english_metatexts:ITM_TTL_BODYPILLOW,metatext,POLISH,Emergency Body Pillow for Lonely Nights,孤独之夜的紧急身体枕头,孤单夜晚专用应急抱枕
+english_metatexts:ITM_TTL_BOUNTYHUNTER,metatext,FIX,Bounty Hunter Contract,猎金合同,赏金猎人合同
+english_metatexts:ITM_TTL_CEOACTIONFIGURE,metatext,FIX,CEO Action Figure with Real Business Advice,实际业务咨询的首席执行官,附赠真实商业建议的 CEO 可动人偶
+english_metatexts:ITM_TTL_COIN,metatext,KEEP,Coin From a Different Dimension,来自不同维度的硬币,来自不同维度的硬币
+english_metatexts:ITM_TTL_CULTRING,metatext,POLISH,An Exclusive Cult Membership Ring,独有教派成员戒,专属邪教会员戒指
+english_metatexts:ITM_TTL_DELICIOUSSALAD,metatext,KEEP,An Incredibly Delicious Salad,难以置信的美味沙拉,难以置信的美味沙拉
+english_metatexts:ITM_TTL_EDIBLEPOTATO,metatext,KEEP,Edible Potato,食用马铃薯,食用马铃薯
+english_metatexts:ITM_TTL_ENLIGHTENMENTBULB,metatext,FIX,Enlightenment Bulb,启蒙散装,顿悟灯泡
+english_metatexts:ITM_TTL_EROTICFAMILYGAME,metatext,FIX,The Erotic Version of a Classic Family Game,经典家庭游戏的 Erotic 版本,经典家庭游戏的色情版
+english_metatexts:ITM_TTL_EVILGUMMYBEARS,metatext,FIX,Evil Gummy Bears,邪恶的小熊,邪恶小熊软糖
+english_metatexts:ITM_TTL_FOSSILIZEDFAIRY,metatext,FIX,Fossilized Fairy,有化石的仙人,妖精化石
+english_metatexts:ITM_TTL_FRUITCONDOMS,metatext,FIX,Forbidden Fruit Condoms,被禁水果保险套,禁果安全套
+english_metatexts:ITM_TTL_GOATBLOOD,metatext,FIX,Emergency Goat Blood,紧急山羊出血,应急山羊血
+english_metatexts:ITM_TTL_HEAVENTSHIRT,metatext,POLISH,"""I Went to Heaven and All I Got Was This Dumb T-shirt"" T-shirt","""我去了天堂,我得到的就是这件蠢T恤""T恤",“我去了一趟天堂，结果只拿到这件蠢 T 恤”T 恤
+english_metatexts:ITM_TTL_HOLYWATER,metatext,FIX,A Flask of Holy Water,圣水的火焰,一壶圣水
+english_metatexts:ITM_TTL_HORSECOSTUME,metatext,FIX,Horse Costume (Butt Only),马服( 仅巴特),马儿服装（只有屁股那半边）
+english_metatexts:ITM_TTL_HORSEPOWER,metatext,KEEP,Pure Horsepower,纯马力,纯马力
+english_metatexts:ITM_TTL_INFLATABLEBOYFRIEND,metatext,KEEP,Inflatable Boyfriend,充气的男朋友,充气的男朋友
+english_metatexts:ITM_TTL_INITIAL_HYPE,metatext,FIX,The Sequel to an Erotic Fanfic About Dragons,"关于""龙""的迷幻片",龙族色情同人小说续集
+english_metatexts:ITM_TTL_INITIAL_MAGIC,metatext,FIX,Gas Canister,煤气罐头,汽油桶
+english_metatexts:ITM_TTL_INITIAL_MIND,metatext,FIX,"""How to Roadtrip"" the Book","""如何去路"" 书",《公路旅行指南》
+english_metatexts:ITM_TTL_INITIAL_MONEY,metatext,KEEP,Someone Else's Credit Card,别人的信用卡,别人的信用卡
+english_metatexts:ITM_TTL_INITIAL_SOUL,metatext,KEEP,Postcard From Your Mom,你妈妈寄的明信片,你妈妈寄的明信片
+english_metatexts:ITM_TTL_INITIAL_STAMINA,metatext,FIX,Scott Snacks,斯科特 点心,斯科特零食
+english_metatexts:ITM_TTL_KARMAPOINTS,metatext,FIX,"""+50 Karma Points"" Voucher",“ +50 Karma 点数” 券,“+50 业力点数”兑换券
+english_metatexts:ITM_TTL_MACARONIART,metatext,POLISH,Macaroni Art,马加罗尼艺术,通心粉艺术作品
+english_metatexts:ITM_TTL_MAGICTSHIRT,metatext,KEEP,"""I <3 Mh'athra"" T-shirt","""我<3Mh'athra""T恤","""我<3Mh'athra""T恤"
+english_metatexts:ITM_TTL_MCGRIFFINCD,metatext,FIX,MC Griffin's Album Full of Sick Beats,"MC Griffin的专辑""病打""全集",MC Griffin 的劲爆节拍专辑
+english_metatexts:ITM_TTL_MINDCONTROL,metatext,FIX,Mind Control Lessons,心理控制经验教训,精神控制课程
+english_metatexts:ITM_TTL_MOUTHSTUFF,metatext,REVIEW,Mouth Stuff,口袋东西,口袋东西
+english_metatexts:ITM_TTL_MULTIPLICATIONTABLE,metatext,POLISH,The New and Improved Multiplication Table,新的和改进的乘法表,全新升级版乘法表
+english_metatexts:ITM_TTL_NECRONOMICA,metatext,FIX,Encyclopedia Necronomica,百科全书 Necroomica,《死灵百科全书》
+english_metatexts:ITM_TTL_NOBILITYTITLE,metatext,KEEP,A Nobility Title,贵族头衔,贵族头衔
+english_metatexts:ITM_TTL_NOODLESCHARITY,metatext,FIX,Donation to Noodles' Charity for Impoverished Noodles,向面条贫困面条慈善捐款,捐给面条的“贫困面条慈善会”
+english_metatexts:ITM_TTL_NUCLEARCODES,metatext,KEEP,Nuclear Launch Codes,核发射密码,核发射密码
+english_metatexts:ITM_TTL_OFFBRANDSCOTTSNACKS,metatext,FIX,Off-Brand Scott Snacks,外红外 斯科特 点心,山寨斯科特零食
+english_metatexts:ITM_TTL_PENGUINGUACMARBLES,metatext,FIX,"Marbles, Guac, and a Penguin Mask",大理石、瓜克和一顶企鹅面具,弹珠、鳄梨酱和企鹅面具
+english_metatexts:ITM_TTL_PRIMORDIALSOUP,metatext,FIX,Primordial Soup,初级汤,原始汤
+english_metatexts:ITM_TTL_RADTATTOO,metatext,FIX,A Rad Tattoo,弧度纹身,酷炫纹身
+english_metatexts:ITM_TTL_REARVIEWMIRROR,metatext,FIX,Haunted Rearview Mirror,恐惧的后视镜,闹鬼的后视镜
+english_metatexts:ITM_TTL_SATANISTKIT,metatext,FIX,Baby's First Satanist Kit,宝宝的第一撒旦主义者克特,撒旦崇拜入门套装
+english_metatexts:ITM_TTL_SMARTTOILET,metatext,FIX,A Possibly-Too-Smart Toilet,一个可能太高的厕所,可能聪明过头的马桶
+english_metatexts:ITM_TTL_SNOWBALLDEITY,metatext,FIX,An Evil Deity Trapped in a Snowglobe,邪恶之神被雪地所困,困在雪花球里的邪神
+english_metatexts:ITM_TTL_SPAREKIDNEY,metatext,KEEP,Spare Kidney,备用肾,备用肾
+english_metatexts:ITM_TTL_STONKS,metatext,FIX,Stonks,沉积,Stonks
+english_metatexts:ITM_TTL_STRONGSTUFF,metatext,REVIEW,The Strong Stuff,强壮的东西,强壮的东西
+english_metatexts:LBB_BCK,metatext,FIX,BACK,回来,返回
+english_metatexts:LBB_CNC,metatext,FIX,CANCEL,比利时,取消
+english_metatexts:LBB_CNG,metatext,FIX,CONNECTING,连接,正在连接
+english_metatexts:LBB_CRG,metatext,FIX,CREATING,撕裂声,正在创建
+english_metatexts:LBB_CRT,metatext,FIX,CREATE,剧情,创建
+english_metatexts:LBB_DSG,metatext,FIX,DISCONNECTING,脱口而出,正在断开连接
+english_metatexts:LBB_HSG,metatext,FIX,HOSTING,拥抱,正在主持对局
+english_metatexts:LBB_ITJ,metatext,FIX,ID TO JOIN:,身份证加入:,要加入的房间编号：
+english_metatexts:LBB_JNG,metatext,FIX,JOINING,职业,正在加入
+english_metatexts:LBB_JON,metatext,FIX,JOIN,联合,加入
+english_metatexts:LBB_KCK,metatext,FIX,KICK,捷克语,踢出
+english_metatexts:LBB_LCL,metatext,FIX,LOCAL,当地,本地
+english_metatexts:LBB_LVG,metatext,KEEP,LEAVING,离开,离开
+english_metatexts:LBB_MID,metatext,FIX,Match ID:,匹配编号 :,房间编号：
+english_metatexts:LBB_NOO,metatext,FIX,NO,无,否
+english_metatexts:LBB_OGI_ERR,metatext,POLISH,"Unknown error, cannot join game invite.","未知错误, 无法加入游戏邀请 。",发生未知错误，无法通过邀请加入对局。
+english_metatexts:LBB_OGI_PRC,metatext,KEEP,Processing game invite...,正在处理游戏邀请...,正在处理游戏邀请...
+english_metatexts:LBB_OGI_RLN_XBOX,metatext,KEEP,Processing game invite. Relaunching game with new default user...,处理游戏邀请. 正在以新的默认用户重启游戏...,处理游戏邀请. 正在以新的默认用户重启游戏...
+english_metatexts:LBB_OGI_TTL,metatext,FIX,ONLINE GAME INVITE,网上游戏,联机游戏邀请
+english_metatexts:LBB_OKK,metatext,FIX,OK,罢,确定
+english_metatexts:LBB_ONL,metatext,KEEP,ONLINE,在线,在线
+english_metatexts:LBB_ONL_INF_EULA,metatext,KEEP,You can read our online User Agreement on the Monster Prom website.,你可以在《怪物舞会》网站上阅读我们的在线用户协议。,你可以在《怪物舞会》网站上阅读我们的在线用户协议。
+english_metatexts:LBB_ONL_INF_EULA_PLAYSTATION,metatext,KEEP,Please follow the PlayStation Network[n]Code of Conduct when playing online.[n][n]You can read our User Agreement on[n]the Monster Prom website:[n][n]https://beautifulglitch.pizza/monsterroadtrip/eula-ps,在线游玩时，请遵守 PlayStation Network[n]行为准则。[n][n]你可以在《怪物舞会》网站上[n]阅读我们的用户协议：[n][n]https://beautifulglitch.pizza/monsterroadtrip/eula-ps,在线游玩时，请遵守 PlayStation Network[n]行为准则。[n][n]你可以在《怪物舞会》网站上[n]阅读我们的用户协议：[n][n]https://beautifulglitch.pizza/monsterroadtrip/eula-ps
+english_metatexts:LBB_ONL_INF_EULA_XBOX,metatext,KEEP,Please follow the Xbox Community Standards[n]when playing online.[n][n]You can read our User Agreement on[n]the Monster Prom website:[n][n]https://beautifulglitch.pizza/monsterroadtrip/eula-xbox,请遵守 Xbox 社区标准[n]进行在线游戏。[n][n]你可以在《怪物舞会》网站上[n]阅读我们的用户协议：[n][n]https://beautifulglitch.pizza/monsterroadtrip/eula-xbox,请遵守 Xbox 社区标准[n]进行在线游戏。[n][n]你可以在《怪物舞会》网站上[n]阅读我们的用户协议：[n][n]https://beautifulglitch.pizza/monsterroadtrip/eula-xbox
+english_metatexts:LBB_ONL_INF_TTL,metatext,FIX,ONLINE ACTIVITY INFO,网上活动资料,联机活动说明
+english_metatexts:LBB_PL1,metatext,KEEP,Player 1,玩家 1,玩家 1
+english_metatexts:LBB_PL2,metatext,KEEP,Player 2,玩家 2,玩家 2
+english_metatexts:LBB_PL3,metatext,KEEP,Player 3,玩家 3,玩家 3
+english_metatexts:LBB_PL4,metatext,KEEP,Player 4,玩家 4,玩家 4
+english_metatexts:LBB_PLY,metatext,KEEP,PLAYERS:,玩家们:,玩家们:
+english_metatexts:LBB_RAS,metatext,FIX,ASSIGN,阿富汗,分配
+english_metatexts:LBB_RDY,metatext,KEEP,READY?,准备好了吗?,准备好了吗?
+english_metatexts:LBB_RGI,metatext,FIX,GAME INFO,GAME INFO 游戏信息,对局信息
+english_metatexts:LBB_RHS,metatext,FIX,HIGHEST STAT,高级统计学,数值最高的资源
+english_metatexts:LBB_RLS,metatext,FIX,LOWEST STAT,低地统计法,数值最低的资源
+english_metatexts:LBB_RMV,metatext,FIX,REMOVE,递增,移除
+english_metatexts:LBB_RUN,metatext,FIX,UNASSIGN,导弹,取消分配
+english_metatexts:LBB_STM,metatext,FIX,STARTING MATCH...,秨  ...,正在开始对局……
+english_metatexts:LBB_UGC,metatext,KEEP,Custom names not shared,自定义名称未共享,自定义名称未共享
+english_metatexts:LBB_VCE_NTE,metatext,POLISH,Remember to use external voice chat for a top-notch experience!,记住要用外部语音聊天来体验顶尖的体验!,想玩得更尽兴，记得使用外部语音聊天！
+english_metatexts:LBB_YES,metatext,KEEP,YES,对,对
+english_metatexts:MRN,metatext,KEEP,Morning,早 间,早 间
+english_metatexts:NGH,metatext,KEEP,Night,夜 间,夜 间
+english_metatexts:NON,metatext,KEEP,Noon,午间,午间
+english_metatexts:ORD_TTL,metatext,KEEP,Get ready to take on the road!,准备上路!,准备上路!
+english_metatexts:PRN_BOY_HEE,metatext,KEEP,boy,男孩,男孩
+english_metatexts:PRN_BOY_SHE,metatext,KEEP,girl,女孩,女孩
+english_metatexts:PRN_BOY_THY,metatext,KEEP,kid,孩子,孩子
+english_metatexts:PRN_BRO_HEE,metatext,KEEP,brother,兄弟,兄弟
+english_metatexts:PRN_BRO_SHE,metatext,KEEP,sister,姐妹,姐妹
+english_metatexts:PRN_BRO_THY,metatext,KEEP,sibling,手足,手足
+english_metatexts:PRN_BSE_HEE,metatext,KEEP,he,他,他
+english_metatexts:PRN_BSE_SHE,metatext,KEEP,she,她,她
+english_metatexts:PRN_BSE_THY,metatext,KEEP,they,TA,TA
+english_metatexts:PRN_FAT_HEE,metatext,KEEP,father,父亲,父亲
+english_metatexts:PRN_FAT_SHE,metatext,KEEP,mother,母亲,母亲
+english_metatexts:PRN_FAT_THY,metatext,KEEP,parent,家长,家长
+english_metatexts:PRN_GOD_HEE,metatext,KEEP,god,男神,男神
+english_metatexts:PRN_GOD_SHE,metatext,KEEP,goddess,女神,女神
+english_metatexts:PRN_GOD_THY,metatext,KEEP,god,神明,神明
+english_metatexts:PRN_HIM_HEE,metatext,KEEP,him,他,他
+english_metatexts:PRN_HIM_SHE,metatext,KEEP,her,她,她
+english_metatexts:PRN_HIM_THY,metatext,KEEP,them,TA,TA
+english_metatexts:PRN_HIS_HEE,metatext,KEEP,his,他的,他的
+english_metatexts:PRN_HIS_SHE,metatext,KEEP,her,她的,她的
+english_metatexts:PRN_HIS_THY,metatext,KEEP,their,TA的,TA的
+english_metatexts:PRN_HSF_HEE,metatext,KEEP,himself,他自己,他自己
+english_metatexts:PRN_HSF_SHE,metatext,KEEP,herself,她自己,她自己
+english_metatexts:PRN_HSF_THY,metatext,KEEP,themselves,TA自己,TA自己
+english_metatexts:PRN_HSS_HEE,metatext,KEEP,his,他的,他的
+english_metatexts:PRN_HSS_SHE,metatext,KEEP,hers,她的,她的
+english_metatexts:PRN_HSS_THY,metatext,KEEP,theirs,TA的,TA的
+english_metatexts:PRN_KIN_HEE,metatext,KEEP,king,国王,国王
+english_metatexts:PRN_KIN_SHE,metatext,KEEP,queen,女王,女王
+english_metatexts:PRN_KIN_THY,metatext,KEEP,monarch,君主,君主
+english_metatexts:PRN_KNI_HEE,metatext,KEEP,knight,骑士,骑士
+english_metatexts:PRN_KNI_SHE,metatext,KEEP,knightess,女骑士,女骑士
+english_metatexts:PRN_KNI_THY,metatext,KEEP,knight,骑士,骑士
+english_metatexts:PRN_MAN_HEE,metatext,KEEP,man,男人,男人
+english_metatexts:PRN_MAN_SHE,metatext,KEEP,woman,女人,女人
+english_metatexts:PRN_MAN_THY,metatext,KEEP,person,人,人
+english_metatexts:PRN_MMR_HEE,metatext,KEEP,Mr.,先生,先生
+english_metatexts:PRN_MMR_SHE,metatext,KEEP,Miss,小姐,小姐
+english_metatexts:PRN_MMR_THY,metatext,KEEP,Mx.,Mx.,Mx.
+english_metatexts:PRN_MRM_HEE,metatext,KEEP,Mr.,先生,先生
+english_metatexts:PRN_MRM_SHE,metatext,KEEP,Mrs.,女士,女士
+english_metatexts:PRN_MRM_THY,metatext,KEEP,Mx.,Mx.,Mx.
+english_metatexts:PRN_PRI_HEE,metatext,KEEP,prince,王子,王子
+english_metatexts:PRN_PRI_SHE,metatext,KEEP,princess,公主,公主
+english_metatexts:PRN_PRI_THY,metatext,KEEP,royalty,王族,王族
+english_metatexts:PRN_SIR_HEE,metatext,KEEP,sir,先生,先生
+english_metatexts:PRN_SIR_SHE,metatext,KEEP,ma'am,女士,女士
+english_metatexts:PRN_SIR_THY,metatext,KEEP,mx.,Mx.,Mx.
+english_metatexts:PRN_SON_HEE,metatext,KEEP,son,儿子,儿子
+english_metatexts:PRN_SON_SHE,metatext,KEEP,daughter,女儿,女儿
+english_metatexts:PRN_SON_THY,metatext,KEEP,child,孩子,孩子
+english_metatexts:PSN_EFF_DSC_AARAVI,metatext,FIX,"You gotta be ready for adventure! Aaravi keeps buying all sorts of magical artifacts... with your money.[n][n]Next week, every turn you'll gain +MAGIC and lose -MONEY.","你必须准备好冒险!  阿拉薇 不断购买各种神奇的文物... 用你的钱。[n][n]下周,每转一圈,你就会得到+MAGIC 和损失 - 货币。",冒险得准备齐全！阿拉薇不停买各种魔法神器……花的是你的钱。[n][n]下周，每回合增加魔力、减少金钱。
+english_metatexts:PSN_EFF_DSC_ADRIEN,metatext,FIX,Adrien always fights to defend the weak and those in need![n][n]You'll gain a lot of your +LOWEST RESOURCE while losing -EVERY OTHER RESOURCE.,阿德里安总是为保卫弱者和有需要的人而斗争![n][n]你会得到很多的 +lowest资源 同时失去 - 所有其他资源。,阿德里安始终为保护弱者和有需要的人而战！[n][n]大量增加数值最低的资源，同时减少其他所有资源。
+english_metatexts:PSN_EFF_DSC_BLUE,metatext,FIX,"Vicky needs some time to charge... but she can get quite electrifying![n][n]Next week, all RESOURCE gains and losses from location events will start lower than usual, but they increase after every TURN.","维姬 需要一些时间来充电... 但是她会很电动的![n][n]下星期,地点活动的所有资源损益都将比平时低起,但在每个TURN之后会增加。",维姬需要点时间充电……但充好了可真够带电的！[n][n]下周，地点事件中所有资源的增减幅度起初低于通常数值，但每回合后都会增加。
+english_metatexts:PSN_EFF_DSC_CALCULESTER,metatext,FIX,"Calculester has optimized a road trip algorithm to reduce risks.[n][n]Next week, every turn you'll gain +1 of your LOWEST STAT and lose -1 of your HIGHEST STAT.","卡库莱斯特 优化了道路行走算法,以减少风险。[n][n]下周,每转一圈,你都会得到你的LOWEST STAT的+1,并失去你的高STAT的-1.",卡库莱斯特优化了公路旅行算法，帮你降低风险。[n][n]下周，每回合数值最低的资源 +1，数值最高的资源 -1。
+english_metatexts:PSN_EFF_DSC_DAHLIAAPPLIANCE,metatext,FIX,Washing Machine Dahlia is here to cause a ruckus! ALL YOUR RESOURCES swap with each other RANDOMLY. Is this actually helpful? WHO CARES!,冲洗机 达莉娅 是来闹事的! 所有你的资源 互换对方 兰通利。 这真的有用吗? 谁在乎!,洗衣机达莉娅来闹事了！所有资源的数值都会随机打乱。真能帮上忙吗？谁在乎！
+english_metatexts:PSN_EFF_DSC_DAMIEN,metatext,FIX,"Damien is pure fire. Spending time with him is like chugging five energy drinks.[n][n]Next week, every turn you'll gain +HYPE and lose -STAMINA. Exciting! But exhausting...","达米恩 是纯粹的火。 和他共度时光就像喝上五杯能量饮料一样[n][n]下周,每转一圈,你就会得到 +HYPE 和输-STAMINA。 令人兴奋! 不过累死了...",达米恩就是一团火。跟他待在一起，堪比一口气灌下五杯能量饮料。[n][n]下周，每回合增加热度、减少体力。刺激！也累得要命……
+english_metatexts:PSN_EFF_DSC_FINN,metatext,FIX,Finn is the master of the office space; an authority in preparing coffee; an expert at making photocopies.[n][n]You will get a RESOURCE gain and loss copying the ones you got on your last LOCATION turn.,Finn是办公室的主人;是咖啡的制备机构;是复印专家。[n][n]你会得到一个资源收益和损失 复制那些你得到的 在你的最后一个定位回合。,芬恩是办公室之王，泡咖啡的权威，复印的专家。[n][n]你会再次获得上一个地点回合所带来的资源增加和减少。
+english_metatexts:PSN_EFF_DSC_GREEN,metatext,FIX,"Brian is a very charming zombie man. We made a theme song for him, and now you get to enjoy it. You want more? Nah, that's not Brian's style. Just sit back, chill out, and vibe with... The Brian Song!","布莱恩 是个非常迷人的僵尸 我们为他做了一首主题曲 现在你可以享受了 还要吗? 不,这不是 布莱恩风度。 坐下来 冷静下来 和... 密码 布莱恩 颂!",布莱恩是个很有魅力的僵尸男士。我们给他写了首主题曲，现在你也能欣赏了。还想要更多？不了，那可不是布莱恩的风格。坐下来，放松点，跟着……《布莱恩之歌》找找感觉！
+english_metatexts:PSN_EFF_DSC_HOPE,metatext,FIX,"Magic can do many things, but for Hope it's mainly three: doing business; having revealing visions; and making things explode![n][n]Next week, every turn you'll lose -MAGIC and randomly gain either +MONEY, +MIND, or +HYPE.","魔法可以做很多事情,但对于希望来说,它主要有三个:做生意;有揭示的视觉;以及使事物爆炸![n][n]下周,每转一转,你就会失去 -MAGIC 和随机获得 + 钱,+ MIND,或+ HYPE。",魔法能做很多事，对霍普来说，主要是三件：做生意、看见启示，还有把东西炸飞！[n][n]下周，每回合减少魔力，并随机增加金钱、头脑或热度中的一种。
+english_metatexts:PSN_EFF_DSC_JOY,metatext,FIX,"Joy never rests from fighting evil. Expect tons of plot twists and magical fights![n][n]Next week, every turn you'll gain +SOUL and lose -MAGIC.","欢乐从不因与邪恶作对而停歇. 期待数以吨计的情节曲折和神奇的战斗![n][n]下周,每转一圈,你就会得到 +SOUL 和失去 -MAGIC。",乔伊打击邪恶从不休息。准备迎接一连串剧情反转和魔法大战吧！[n][n]下周，每回合增加灵魂、减少魔力。
+english_metatexts:PSN_EFF_DSC_LAMB,metatext,FIX,The Lamb knows very well that the flock must make sacrifices for their leader.[n][n]You forfeit your -TWO LOWEST RESOURCES in order to give that amount to your +HIGHEST RESOURCE,羔羊非常清楚羊群必须为他们的领袖做出牺牲.[n][n]你放弃了你的 -TWO LOWEST资源 以便给予你的+HIGEST资源,羔羊很清楚，羊群必须为领袖做出牺牲。[n][n]减少数值最低的两种资源，再将减少的总量加到数值最高的资源上。
+english_metatexts:PSN_EFF_DSC_LIAM,metatext,FIX,"Liam is always eager to explain all the ""interesting"" stuff he knows and you don't.[n][n]Next week, every turn you'll gain +MIND and lose -HYPE. So enriching! So ""fun""!","利亚姆 总是急于解释他所知道的 和你所不知道的""有趣""的东西[n][n]下周,每转一圈,你就会得到 +MID和输 -HYPE。 如此的丰富! 所以,""乐趣""!",利亚姆总迫不及待地给你讲解，那些他知道而你不知道的“有趣”知识。[n][n]下周，每回合增加头脑、减少热度。真长见识！真“好玩”！
+english_metatexts:PSN_EFF_DSC_MILO,metatext,FIX,"Milo can pull some strings so the end is not THE END. What a good friend![n][n]Next week, the first time a RESOURCE hits ZERO, Milo will bring it up to ONE.","迈洛 可以拉一些字符串,所以结尾不是结束。 好一个好朋友![n][n]下周,一个资源 第一次点击ZERO, 迈洛 将它升为一。",迈洛可以走走关系，让结束不至于成为真正的终结。多好的朋友！[n][n]下周，首次有资源降到零时，迈洛会把它恢复到 1。
+english_metatexts:PSN_EFF_DSC_MIRANDA,metatext,FIX,"Miranda has brought lots of snacks as she's learning to eat by herself. She has also brought... lots of questions on how everything works.[n][n]Next week, every turn you'll gain +STAMINA and lose -MIND.","米兰达 带了很多小吃,因为她正在学习 自己吃。 她也带来了... 有很多关于一切如何运作的问题。[n][n]下周,每转一圈,你就会得到+STAMINA 并失去 -MIND。",米兰达正在学着自己吃饭，所以带了一大堆零食。她还带了一大堆……关于万事万物怎么运作的问题。[n][n]下周，每回合增加体力、减少头脑。
+english_metatexts:PSN_EFF_DSC_MOTHMAN,metatext,FIX,"Cryptids are all about inexplicable mysteries...[n]such as why, starting next week, every TURN you'll gain a +RANDOM RESOURCE and you'll lose another -RANDOM RESOURCE. Weird!","密码都是关于无法解释的奥秘...[n]比如,为什么从下周开始,每一个回合你都会得到一个+RANDOM资源,你就会失去另一个 -RANDOM资源。 怪怪的! 怪怪的! 怪怪的!",神秘生物身边总是谜团不断……[n]比如，为什么从下周开始，每回合都会随机增加一种资源、减少另一种资源。真怪！
+english_metatexts:PSN_EFF_DSC_RED,metatext,FIX,"Amira is a natural-born risk-taker, baby![n][n]Next week, you'll gain your +HIGHEST STAT and lose your -LOWEST STAT every turn.","阿米拉 是个天生的风险赌手,宝贝![n][n]下周,你会得到你的 +HIGHEST STAT 并失去你的 -LOWEST STAT 每转。",宝贝，阿米拉就是天生爱冒险！[n][n]下周，每回合增加数值最高的资源、减少数值最低的资源。
+english_metatexts:PSN_EFF_DSC_SCOTTPOLLY,metatext,FIX,"Wherever the Prank Masterz go, hijinks ensue. Can you handle the consequences of their mess?[n][n]Next week all RESOURCE gains and losses from events are increased by 1.","恶作剧马斯特兹去的地方, hijinks随之而来。 你能应付他们乱七八糟的后果吗?[n][n]下周,所有资源增减都增加了1个。",恶作剧大师到哪儿，哪儿就有胡闹。你扛得住他们惹出的乱子吗？[n][n]下周，事件中所有资源的增减幅度均增加 1。
+english_metatexts:PSN_EFF_DSC_STU,metatext,FIX,"What if this road trip were... y'know... more chill? Embrace the slow life![n][n]Next week, all RESOURCE gains and losses are reduced by 1.","如果这趟公路旅行... 你知道吗... 更冷吗? 拥抱慢活吧![n][n]下周,所有资源损益减少一分.",要是这趟公路旅行……你懂的……能更轻松点呢？拥抱慢生活！[n][n]下周，所有资源的增减幅度均减少 1。
+english_metatexts:PSN_EFF_DSC_VALERIE,metatext,FIX,Valerie knows a thing or two about bartering and good deals.[n][n]Next time you barter with NOODLES you'll gain +1 extra RESOURCE GAIN.,瓦莱丽知道一两件事 关于易货和好交易。[n][n]下次你再用NOODLES换钱 你就会得到+1额外的资源GAIN。,瓦莱丽很懂以物易物，也很会谈好价钱。[n][n]下次与面条交换物品时，获得的资源额外 +1。
+english_metatexts:PSN_EFF_DSC_VERA,metatext,FIX,"Vera always has some schemes going on. She brings some extra dough for the trip... but better not ask too many questions.[n][n]Next week, every turn you'll gain +MONEY and lose -SOUL.","维拉 总是有一些计划在进行。 她带来了一些额外的钱 旅行... 但最好不要问太多问题。[n][n]下周,每转一圈,你就会得到+MONEY和输了 -SOUL。",维拉总在盘算些什么。她给旅行添了点额外资金……但你最好别问太多。[n][n]下周，每回合增加金钱、减少灵魂。
+english_metatexts:PSN_EFF_DSC_YELLOW,metatext,FIX,Oz tends to get so nervous that he sometimes becomes a clumsy mess![n][n]You will gain +THREE RANDOM RESOURCES and lose -THREE OTHER RANDOM RESOURCES.,奥兹 他总是紧张到有时候会变成笨手笨脚的一团糟![n][n]你会得到+THE RANDOM资源 失去-THE其他RANDOM资源。,奥兹常常紧张过头，有时会变得手忙脚乱！[n][n]随机增加三种资源，减少另外三种资源。
+english_metatexts:PSN_EFF_DSC_ZOE,metatext,FIX,Bringing an eldritch deity on the road trip might disrupt the fabric of reality.[n]See how randomly two of your RESOURCES swap with each other.,带个神灵去旅行 可能会破坏现实的结构[n]看看你的两种资源如何随机互换,带一位古老邪神出门，可能会扰乱现实的结构。[n]看吧，两种资源的数值随机互换了。
+english_metatexts:PSN_EFF_TTL_AARAVI,metatext,FIX,INVENTORY HOARDER,入室服务员,背包囤货狂
+english_metatexts:PSN_EFF_TTL_ADRIEN,metatext,KEEP,PROTECTOR OF THE WEAK,保护弱者,保护弱者
+english_metatexts:PSN_EFF_TTL_BLUE,metatext,FIX,OVERCHARGE!,过火了!,超额充电！
+english_metatexts:PSN_EFF_TTL_CALCULESTER,metatext,KEEP,SAFETY MEASURES,安全措施,安全措施
+english_metatexts:PSN_EFF_TTL_DAHLIAAPPLIANCE,metatext,FIX,CENTRIFUGAL FORCE,中央部队,离心力
+english_metatexts:PSN_EFF_TTL_DAMIEN,metatext,FIX,SO METAL!,如此的金属!,够重金属！
+english_metatexts:PSN_EFF_TTL_FINN,metatext,FIX,PHENOMENAL PHOTOCOPIER,热量摄影机,神奇复印机
+english_metatexts:PSN_EFF_TTL_GREEN,metatext,FIX,THE BRIAN SONG,布莱恩·宋,布莱恩之歌
+english_metatexts:PSN_EFF_TTL_HOPE,metatext,FIX,THE WITCHING WEEK,疯狂的一周,女巫之周
+english_metatexts:PSN_EFF_TTL_JOY,metatext,FIX,COVEN ADVENTURES,共同保护,女巫团冒险
+english_metatexts:PSN_EFF_TTL_LAMB,metatext,FIX,FOLLOW THE LEADER,之后的联络员,跟随领袖
+english_metatexts:PSN_EFF_TTL_LIAM,metatext,FIX,"""FUN"" FACTS","""乐趣""的花样",“趣味”知识
+english_metatexts:PSN_EFF_TTL_MILO,metatext,FIX,REAPER'S FREE PASS,REAPER的自由纸,死神免死牌
+english_metatexts:PSN_EFF_TTL_MIRANDA,metatext,KEEP,A WHOLE NEW WORLD,一个全新的世界,一个全新的世界
+english_metatexts:PSN_EFF_TTL_MOTHMAN,metatext,FIX,CRYPTID VIBES,克里斯蒂·维贝斯,神秘生物气场
+english_metatexts:PSN_EFF_TTL_RED,metatext,FIX,RISKY BUSINESS,危险业务,冒险买卖
+english_metatexts:PSN_EFF_TTL_STU,metatext,FIX,CHILL DUDE,奇尔・杜德,淡定老兄
+english_metatexts:PSN_EFF_TTL_VALERIE,metatext,FIX,BARGAIN QUEEN,阿根廷 女王,砍价女王
+english_metatexts:PSN_EFF_TTL_VERA,metatext,FIX,SHADY BUSINESS,莎士比亚,黑心生意
+english_metatexts:PSN_EFF_TTL_YELLOW,metatext,FIX,NERVOUS WRECK,紧张的手腕,紧张到崩溃
+english_metatexts:PSN_EFF_TTL_ZOE,metatext,FIX,TWISTING REALITY,交织真实性,扭曲现实
+english_metatexts:RMA_ANIMAL_SHELTER,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_ART_EXHIBITION,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_BATTLE_ROYALE,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_BIKER_BAR,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_BIZ_SUMMIT,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_BORDER,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_CARNIVAL,metatext,FIX,What do you want to check out?,你想检查什么?,你想看什么？
+english_metatexts:RMA_CAR_DEALERSHIP,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_CASINO,metatext,FIX,What do you want to play?,你想弹什么?,你想玩什么？
+english_metatexts:RMA_CAVES,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_CAVES_EOTR,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_CIRCUS,metatext,KEEP,What do you want to become?,你想变成什么?,你想变成什么?
+english_metatexts:RMA_CITY_90S,metatext,KEEP,What do you want to try?,你想试试什么?,你想试试什么?
+english_metatexts:RMA_CON,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_CULT_PLACE,metatext,KEEP,What do you want to participate in?,你想参与什么?,你想参与什么?
+english_metatexts:RMA_DINER_DINEST,metatext,KEEP,Who do you want to sit with?,你想和谁坐在一起?,你想和谁坐在一起?
+english_metatexts:RMA_DINER_DINEST_EOTR,metatext,KEEP,Who do you want to sit with?,你想和谁坐在一起?,你想和谁坐在一起?
+english_metatexts:RMA_DINER_DOOM,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_DINER_PANCAKE,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_DUNGEON,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_FARM,metatext,FIX,What do you want to check out?,你想检查什么?,你想去哪儿看看？
+english_metatexts:RMA_FORTUNE_TELLER,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_GAS_BASIC,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_GAS_HITECH,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_GAS_TROLLS,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_GIFT_SHOP,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_GRAVEYARD,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_GRAVEYARD_EOTR,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_KITE_TOURNAMENT,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_LAB,metatext,FIX,What do you want to check out?,你想检查什么?,你想看看什么？
+english_metatexts:RMA_LAKE,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_LANDMARK_FOOT,metatext,FIX,What do you want to check out?,你想检查什么?,你想去哪儿看看？
+english_metatexts:RMA_LANDMARK_HOLE,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_LANDMARK_POTATO,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_LANDMARK_WIGS,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_LARP,metatext,KEEP,What do you want to try?,你想试试什么?,你想试试什么?
+english_metatexts:RMA_MANOR_GOTHIC,metatext,FIX,What do you want to check out?,你想检查什么?,你想去哪儿看看？
+english_metatexts:RMA_MANOR_RICH,metatext,KEEP,What do you want to try?,你想试试什么?,你想试试什么?
+english_metatexts:RMA_MERKINGDOM_OUTPOST,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_METACABIN,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_MIRAGE,metatext,FIX,What do you want to check out?,你想检查什么?,你想去哪儿看看？
+english_metatexts:RMA_MONSTER_TRUCK,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_MOTEL_CHEAP,metatext,KEEP,Which room do you want to stay in?,你想住哪间房?,你想住哪间房?
+english_metatexts:RMA_MOTEL_FANCY,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_MOTEL_REGULAR,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_MOTEL_REGULAR_EOTR,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_MOTEL_REGULAR_EOTR2,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_MOTEL_REGULAR_EOTR3,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_MOVIE_SET,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_NATIONAL_PARK,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_PET_CONTEST,metatext,KEEP,Which category do you choose?,你选哪个类别?,你选哪个类别?
+english_metatexts:RMA_PICNIC_SPOT,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_PLANETARIUM,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_PRISON,metatext,POLISH,What do you want to explore?,你想探险什么?,你想探索哪里？
+english_metatexts:RMA_RANCH,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_RAVE,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_REPTILE_SHOW,metatext,FIX,What do you want to check out?,你想检查什么?,你想看什么？
+english_metatexts:RMA_ROAD_WARRIORS,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_RODEO,metatext,FIX,What do you want to check out?,你想检查什么?,你想看什么？
+english_metatexts:RMA_SHADY_PROPERTY,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_SHOPPING_MALL,metatext,FIX,How do you want to have fun?,如何想取乐.,你想怎么玩？
+english_metatexts:RMA_SIMON_SOUPS,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_SPA,metatext,KEEP,How do you want to relax?,你想怎样放松?,你想怎样放松?
+english_metatexts:RMA_SPACE_STATION,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_SPOOKY_ACADEMY,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_TECH_COMPANY,metatext,FIX,What do you want to check out?,你想检查什么?,你想看看什么？
+english_metatexts:RMA_UFO_SIGHTSEEING,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_VILLAGE_ABANDONED,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_VILLAGE_ANIMALS,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_VILLAGE_CHARMING,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_VILLAGE_KAIJU,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_VILLAGE_SECLUDED,metatext,FIX,What do you want to check out?,你想检查什么?,你想去哪儿看看？
+english_metatexts:RMA_VILLAGE_WEST,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_VILLAIN_SUMMIT,metatext,KEEP,What do you want to attend?,你想参加什么?,你想参加什么?
+english_metatexts:RMA_WEDDING,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMA_WEIRD_FACTORY,metatext,KEEP,What do you want to do?,你想怎样?,你想怎样?
+english_metatexts:RMD_ANIMAL_SHELTER,metatext,KEEP,A safe haven for all things furry!,毛茸茸的避风港,毛茸茸的避风港
+english_metatexts:RMD_ART_EXHIBITION,metatext,POLISH,"Is it a paint splatter, or a clever critique of consumerism? You decide!","是涂料溅出,还是消费者主义的聪明批评? 你决定吧!",是泼上去的颜料，还是对消费主义的巧妙批判？你说了算！
+english_metatexts:RMD_BATTLE_ROYALE,metatext,POLISH,The odds are NOT in your favor,机会对你不利,胜算可不站在你这边
+english_metatexts:RMD_BIKER_BAR,metatext,FIX,Full throttle in a bottle!,装满了油门!,一瓶下肚，油门到底！
+english_metatexts:RMD_BIZ_SUMMIT,metatext,KEEP,Join capitalism's finest!,加入资本主义的精英!,加入资本主义的精英!
+english_metatexts:RMD_BORDER,metatext,FIX,This road trip's going international!,这趟公路旅行要国际化了!,这趟公路旅行要出国啦！
+english_metatexts:RMD_CARNIVAL,metatext,FIX,Witness marvels unspeakable!,目击者真不可思议!,见证不可言说的奇观！
+english_metatexts:RMD_CAR_DEALERSHIP,metatext,KEEP,Miles of smiles!,数英里的笑容!,数英里的笑容!
+english_metatexts:RMD_CASINO,metatext,KEEP,Chances are... you're gonna have a fun time!,机会是... 你会玩得开心的!,机会是... 你会玩得开心的!
+english_metatexts:RMD_CAVES,metatext,REVIEW,Someone said spelunking? Be sure to bring your speluncrown!,有人说要弹口琴吗? 一定要带上你的咒语!,要去探洞？别忘了戴上你的“洞王”皇冠！
+english_metatexts:RMD_CAVES_EOTR,metatext,FIX,Get in.,上车,进去。
+english_metatexts:RMD_CIRCUS,metatext,FIX,"Finally, you can be a clown without people noticing","最后,你可以成为一个小丑 不让人们注意到",终于，你可以当小丑，还不被人看出来了
+english_metatexts:RMD_CITY_90S,metatext,FIX,"Hasta la vista, baby!","万岁,宝贝!",回头见，宝贝！
+english_metatexts:RMD_CON,metatext,FIX,Nerds unite!,神经病联合起来!,宅友们，团结起来！
+english_metatexts:RMD_CULT_PLACE,metatext,KEEP,Got goats?,有山羊吗?,有山羊吗?
+english_metatexts:RMD_DINER_DINEST,metatext,KEEP,Do you have a reservation?,你有订位吗?,你有订位吗?
+english_metatexts:RMD_DINER_DINEST_EOTR,metatext,KEEP,You'll love it.,你会喜欢的。,你会喜欢的。
+english_metatexts:RMD_DINER_DOOM,metatext,FIX,Order something... IF YOU DARE.,点点什么... 狦 D,点点什么吧……有胆你就点。
+english_metatexts:RMD_DINER_PANCAKE,metatext,KEEP,How much pancake can you pan-take?,你能吃多少煎饼?,你能吃多少煎饼?
+english_metatexts:RMD_DUNGEON,metatext,FIX,"Slay, loot, repeat!","杀人,抢劫,重复!",打怪，搜刮，再来一遍！
+english_metatexts:RMD_FARM,metatext,KEEP,"It ain't much, but it's honest work","不算多,但这是诚实的工作","不算多,但这是诚实的工作"
+english_metatexts:RMD_FORTUNE_TELLER,metatext,FIX,I foresee... this location in your future!,我预见到... 这个位置在你的未来!,我预见了……你未来会到这里！
+english_metatexts:RMD_GAS_BASIC,metatext,FIX,The backbone of any road trip experience!,任何公路旅行经验的骨干!,公路旅行的顶梁柱！
+english_metatexts:RMD_GAS_HITECH,metatext,FIX,"The transportation of the future, today!","未来的运输,今天!",未来的交通，今天就体验！
+english_metatexts:RMD_GAS_TROLLS,metatext,POLISH,Come all ye weary travellers and fill up your gas tank!,你们这些疲惫的旅行者过来 填满你们的油箱!,疲惫的旅人们，来加满油吧！
+english_metatexts:RMD_GIFT_SHOP,metatext,KEEP,Existence is pain!,存在就是痛苦!,存在就是痛苦!
+english_metatexts:RMD_GRAVEYARD,metatext,POLISH,Pay your respects... or don't,致以敬意... 或别,来缅怀一下……不缅怀也行
+english_metatexts:RMD_GRAVEYARD_EOTR,metatext,POLISH,Pay your respects.,礼毕.,向逝者致敬。
+english_metatexts:RMD_KITE_TOURNAMENT,metatext,POLISH,Fly with the strength of a thousand kites!,以出千风筝之力而飞去!,以千只风筝之力，飞吧！
+english_metatexts:RMD_LAB,metatext,FIX,So secret you can find it on a road trip,这样的秘密你可以在旅途中找到它,机密到随便公路旅行都能找到
+english_metatexts:RMD_LAKE,metatext,FIX,Let's get wet!,湿了!,一起湿身吧！
+english_metatexts:RMD_LANDMARK_FOOT,metatext,FIX,"The heart and ""sole"" of the desert!","沙漠的心和""独""!",沙漠的心脏，兼脚掌！
+english_metatexts:RMD_LANDMARK_HOLE,metatext,REVIEW,"It's got a ""hole"" lotta heart!","它有""洞""的乐透心!",一个洞，满满的心意！
+english_metatexts:RMD_LANDMARK_POTATO,metatext,FIX,"You say potato, I say POTAAAAAATO","你说土豆,我说POTAAAATO",你说土豆，我说土——豆——！
+english_metatexts:RMD_LANDMARK_WIGS,metatext,FIX,A museum full of capilar wonders!,一个充满奇观的博物馆!,满馆奇观，尽在发间！
+english_metatexts:RMD_LARP,metatext,FIX,Why be chaotic good when you can be chaotic GREAT?,为什么要混乱的好 当你可以混乱的大?,何必只做混乱善良？来做混乱超棒！
+english_metatexts:RMD_MANOR_GOTHIC,metatext,FIX,"This manor isn't just going through a phase, Mom!","这庄园不仅仅是一个阶段,妈妈!",妈！这庄园的哥特风可不是一时叛逆！
+english_metatexts:RMD_MANOR_RICH,metatext,KEEP,Who wants to be a millionaire?,谁想成为百万富翁?,谁想成为百万富翁?
+english_metatexts:RMD_MERKINGDOM_OUTPOST,metatext,FIX,All hail the Merking!,全体欢呼默金!,人鱼王万岁！
+english_metatexts:RMD_METACABIN,metatext,FIX,Not even sure if this place is canon...,甚至不确定这个地方是不是Canon...,连这地方算不算正史都不确定……
+english_metatexts:RMD_MIRAGE,metatext,FIX,You're just seeing things...,你只是看到一些东西...,你只是眼花了……
+english_metatexts:RMD_MONSTER_TRUCK,metatext,KEEP,"When you're a monster, every truck is a monster truck!","当你是怪物时,每辆卡车都是怪物卡车!","当你是怪物时,每辆卡车都是怪物卡车!"
+english_metatexts:RMD_MOTEL_CHEAP,metatext,KEEP,It's better than sleeping outside... right?,这比睡在外面好... 对不对?,这比睡在外面好... 对不对?
+english_metatexts:RMD_MOTEL_FANCY,metatext,POLISH,For the discerning overnight guest,给那些有洞察力的客人,献给讲究的过夜客人
+english_metatexts:RMD_MOTEL_REGULAR,metatext,FIX,The backbone of any road trip experience!,任何公路旅行经验的骨干!,公路旅行的顶梁柱！
+english_metatexts:RMD_MOTEL_REGULAR_EOTR,metatext,KEEP,Your room is always ready.,你的房间总是准备好了,你的房间总是准备好了
+english_metatexts:RMD_MOTEL_REGULAR_EOTR2,metatext,KEEP,We were waiting for you.,我们在等你呢,我们在等你呢
+english_metatexts:RMD_MOTEL_REGULAR_EOTR3,metatext,KEEP,You will stay here.,你会呆在这里。,你会呆在这里。
+english_metatexts:RMD_MOVIE_SET,metatext,FIX,Now with 30% more CGI!,现在还有30%的CGI!,现在 CGI 特效增加 30%！
+english_metatexts:RMD_NATIONAL_PARK,metatext,KEEP,"Go hug a tree, nature nerd","去拥抱一棵树,自然书呆子","去拥抱一棵树,自然书呆子"
+english_metatexts:RMD_PET_CONTEST,metatext,FIX,"Please, hold your ap-paws.",请按住你的AP -PAWs。,请先收起你们的爪声。
+english_metatexts:RMD_PICNIC_SPOT,metatext,KEEP,It's a beautiful day to eat outside!,外面吃东西真是美极了!,外面吃东西真是美极了!
+english_metatexts:RMD_PLANETARIUM,metatext,FIX,It's out of this world!,这是出这个世界了!,好玩到天外去！
+english_metatexts:RMD_PRISON,metatext,KEEP,"We've brought the fun back to prison, and we've thrown the key away!",我们把乐子带回了监狱 把钥匙扔掉了!,我们把乐子带回了监狱 把钥匙扔掉了!
+english_metatexts:RMD_RANCH,metatext,FIX,Ready to embrace your inner horse girl?,准备好拥抱你的内马女孩了吗?,准备释放内心那个爱马姑娘了吗？
+english_metatexts:RMD_RAVE,metatext,FIX,If the ravers party in the middle of the desert... does it make a sound?,如果沙漠中间的狂欢会... 它能发出声音吗?,如果有人在沙漠正中开派对……会发出声音吗？
+english_metatexts:RMD_REPTILE_SHOW,metatext,FIX,"You wouldn't be so cold-blooded you'd skip this show, would you?","你不会是那么冷血 你跳过这个节目,是吗?",你不会冷血到连这场表演都不看吧？
+english_metatexts:RMD_ROAD_WARRIORS,metatext,FIX,FUCKING METAL!,他妈的金属!,他妈的，够重金属！
+english_metatexts:RMD_RODEO,metatext,FIX,This isn't my first rodeo... what about you?,这不是我第一次骑马... 你怎么样?,牛仔竞技这场面，我可不是头一回见……你呢？
+english_metatexts:RMD_SANCTUARY,metatext,KEEP,"Welcome back, Polina.","欢迎回来,波琳娜。","欢迎回来,波琳娜。"
+english_metatexts:RMD_SHADY_PROPERTY,metatext,FIX,Maybe skip this one while trick-or-treating...,可能跳过这个 趁机或治疗...,玩“不给糖就捣蛋”时，最好跳过这一家……
+english_metatexts:RMD_SHOPPING_MALL,metatext,FIX,"Hanging in shopping malls! The 80s are back, baby!","挂在购物中心! 80年代回来了,宝贝!",逛商场找乐子！宝贝，80 年代回来了！
+english_metatexts:RMD_SIMON_SOUPS,metatext,FIX,It's a soup-er special place!,这是一个汤 -er特别的地方!,特别得有滋有汤！
+english_metatexts:RMD_SPA,metatext,FIX,"Ready, set, RELAX!","准备,准备,拉克斯!",各就各位，预备——放松！
+english_metatexts:RMD_SPACE_STATION,metatext,FIX,The final frontier,最终的边界,最后的边疆
+english_metatexts:RMD_SPOOKY_ACADEMY,metatext,FIX,The time for being young and unafraid is over.,年轻而无畏的时代已经到来.,年轻、无所畏惧的日子，已经结束了。
+english_metatexts:RMD_TECH_COMPANY,metatext,KEEP,Testing the limits of tech and ethics!,测试技术和道德的极限!,测试技术和道德的极限!
+english_metatexts:RMD_UFO_SIGHTSEEING,metatext,FIX,I want to believe!,我要相信你们!,我愿意相信！
+english_metatexts:RMD_VILLAGE_ABANDONED,metatext,KEEP,"Well, at least it won't be hard to find a parking spot",至少找到停车位并不难,至少找到停车位并不难
+english_metatexts:RMD_VILLAGE_ANIMALS,metatext,FIX,Let's turn over a new leaf!,让我们翻出一个新的叶子!,翻开新的一叶！
+english_metatexts:RMD_VILLAGE_CHARMING,metatext,POLISH,An idyllic little village where absolutely no atrocities ever take place,一个神话般的小村子 绝对没有暴行发生,田园诗般的小村庄，绝对从来没发生过任何暴行
+english_metatexts:RMD_VILLAGE_KAIJU,metatext,KEEP,You must be the only idiot driving INTO this city,你一定是唯一一个开进这个城市的白痴,你一定是唯一一个开进这个城市的白痴
+english_metatexts:RMD_VILLAGE_SECLUDED,metatext,FIX,Monsterkind's last bastion of hope (or so they think),魔兽金刚最后的希望之堡垒(或者他们这样想),怪物们最后的希望堡垒——至少他们自己这么想
+english_metatexts:RMD_VILLAGE_WEST,metatext,FIX,This town ain't big enough for the two of us...,这个镇子不够大 对我们两个来说...,这镇子，可容不下咱们俩……
+english_metatexts:RMD_VILLAIN_SUMMIT,metatext,KEEP,No heroes allowed!,不许有英雄!,不许有英雄!
+english_metatexts:RMD_WEDDING,metatext,FIX,I now pronounce you... wedding crashers!,我现在宣布你... 婚礼失事者!,我现在宣布，你们是……蹭婚礼的！
+english_metatexts:RMD_WEIRD_FACTORY,metatext,KEEP,"Workers, assemble!","工人,集合起来!","工人,集合起来!"
+english_metatexts:RML_ANIMAL_SHELTER,metatext,KEEP,Animal Sanctuary,动物保护区,动物保护区
+english_metatexts:RML_ART_EXHIBITION,metatext,KEEP,Art Exhibition,艺术展览,艺术展览
+english_metatexts:RML_BATTLE_ROYALE,metatext,FIX,Battle Royale,皇家战役,大逃杀
+english_metatexts:RML_BIKER_BAR,metatext,FIX,Biker Bar,自行车酒吧,机车酒吧
+english_metatexts:RML_BIZ_SUMMIT,metatext,KEEP,Business Summit,工商高峰会议,工商高峰会议
+english_metatexts:RML_BORDER,metatext,FIX,Border of a One-Person Country,一国的边界,一人国家边境
+english_metatexts:RML_CARNIVAL,metatext,KEEP,Carnival,嘉年华,嘉年华
+english_metatexts:RML_CAR_DEALERSHIP,metatext,POLISH,Used Car Dealership,旧汽车交易商,二手车销售店
+english_metatexts:RML_CASINO,metatext,KEEP,Casino,赌场,赌场
+english_metatexts:RML_CAVES,metatext,FIX,Caves,洞穴( 洞穴 ),洞穴
+english_metatexts:RML_CAVES_EOTR,metatext,FIX,Caves,洞穴( 洞穴 ),洞穴
+english_metatexts:RML_CIRCUS,metatext,KEEP,Circus,马戏团,马戏团
+english_metatexts:RML_CITY_90S,metatext,FIX,90s Action Movie City,90s 动作电影城,90 年代动作电影城
+english_metatexts:RML_CON,metatext,FIX,Con,密码,漫展
+english_metatexts:RML_CULT_PLACE,metatext,KEEP,Cult Headquarters,邪教总部,邪教总部
+english_metatexts:RML_DINER_DINEST,metatext,FIX,The Dinest,迪内斯特,The Dinest
+english_metatexts:RML_DINER_DINEST_EOTR,metatext,FIX,The Dinest,迪内斯特,The Dinest
+english_metatexts:RML_DINER_DOOM,metatext,KEEP,Doom's Diner,末日餐厅,末日餐厅
+english_metatexts:RML_DINER_PANCAKE,metatext,KEEP,Pancake Diner,煎饼餐厅,煎饼餐厅
+english_metatexts:RML_DUNGEON,metatext,FIX,Dungeon,敦煌语Name,地牢
+english_metatexts:RML_FARM,metatext,KEEP,Farm,农场,农场
+english_metatexts:RML_FORTUNE_TELLER,metatext,FIX,Fortune Teller,财富计费器,算命摊
+english_metatexts:RML_GAS_BASIC,metatext,KEEP,Regular Gas Station,常规加油站,常规加油站
+english_metatexts:RML_GAS_HITECH,metatext,KEEP,Futuristic Gas Station,未来加油站,未来加油站
+english_metatexts:RML_GAS_TROLLS,metatext,KEEP,Troll Gas Station,巨怪加油站,巨怪加油站
+english_metatexts:RML_GIFT_SHOP,metatext,FIX,"""Gift Shop""","""吉卜特商店"" ""吉卜特商店""",“礼品店”
+english_metatexts:RML_GRAVEYARD,metatext,KEEP,Graveyard,坟场,坟场
+english_metatexts:RML_GRAVEYARD_EOTR,metatext,KEEP,Graveyard,坟场,坟场
+english_metatexts:RML_KITE_TOURNAMENT,metatext,FIX,Kite Tournament,基特锦标赛,风筝大赛
+english_metatexts:RML_LAB,metatext,KEEP,Secret Government Lab,秘密政府实验室,秘密政府实验室
+english_metatexts:RML_LAKE,metatext,KEEP,Lake,湖边,湖边
+english_metatexts:RML_LANDMARK_FOOT,metatext,FIX,Desert Foot,沙漠脚,沙漠之足
+english_metatexts:RML_LANDMARK_HOLE,metatext,FIX,The Hole,洞穴区,大洞
+english_metatexts:RML_LANDMARK_POTATO,metatext,KEEP,World's Biggest Potato,世界最大的马铃薯,世界最大的马铃薯
+english_metatexts:RML_LANDMARK_WIGS,metatext,FIX,Roadside Wig Museum,路边维格博物馆,路边假发博物馆
+english_metatexts:RML_LARP,metatext,FIX,LARP,拉尔夫,实景角色扮演
+english_metatexts:RML_MANOR_GOTHIC,metatext,KEEP,Gothic Manor,哥特式庄园,哥特式庄园
+english_metatexts:RML_MANOR_RICH,metatext,KEEP,Wealthy Mansion,富豪大厦,富豪大厦
+english_metatexts:RML_MERKINGDOM_OUTPOST,metatext,FIX,Merkingdom Outpost,默克金多姆外站,人鱼王国前哨站
+english_metatexts:RML_METACABIN,metatext,FIX,Meta-cabin,梅塔卡宾,元小屋
+english_metatexts:RML_MIRAGE,metatext,FIX,Probably Just a Mirage,也许只是幻影片,多半只是海市蜃楼
+english_metatexts:RML_MONSTER_TRUCK,metatext,FIX,Monster Truck DeathMatch,怪兽卡车死亡战车,怪兽卡车死斗
+english_metatexts:RML_MOTEL_CHEAP,metatext,KEEP,Cheap Motel,廉价汽车旅馆,廉价汽车旅馆
+english_metatexts:RML_MOTEL_FANCY,metatext,FIX,Fancy Motel,花花公子旅馆,豪华汽车旅馆
+english_metatexts:RML_MOTEL_REGULAR,metatext,KEEP,Regular Motel,普通汽车旅馆,普通汽车旅馆
+english_metatexts:RML_MOTEL_REGULAR_EOTR,metatext,KEEP,Regular Motel,普通汽车旅馆,普通汽车旅馆
+english_metatexts:RML_MOTEL_REGULAR_EOTR2,metatext,KEEP,Regular Motel,普通汽车旅馆,普通汽车旅馆
+english_metatexts:RML_MOTEL_REGULAR_EOTR3,metatext,KEEP,Regular Motel,普通汽车旅馆,普通汽车旅馆
+english_metatexts:RML_MOVIE_SET,metatext,FIX,Movie Set,电影集,电影片场
+english_metatexts:RML_NATIONAL_PARK,metatext,KEEP,National Park,国家公园,国家公园
+english_metatexts:RML_PET_CONTEST,metatext,FIX,Pet Contest,竞技比赛,宠物比赛
+english_metatexts:RML_PICNIC_SPOT,metatext,FIX,Picnic Spot,圆柱点,野餐地点
+english_metatexts:RML_PLANETARIUM,metatext,KEEP,Planetarium,天文馆,天文馆
+english_metatexts:RML_PRISON,metatext,KEEP,Experimental Prison,实验监狱,实验监狱
+english_metatexts:RML_RANCH,metatext,KEEP,Ranch,牧场,牧场
+english_metatexts:RML_RAVE,metatext,KEEP,Rave in the Desert,在沙漠中狂欢,在沙漠中狂欢
+english_metatexts:RML_REPTILE_SHOW,metatext,FIX,Low-Budget Reptile Show,低预算缩放显示,低成本爬行动物秀
+english_metatexts:RML_ROAD_WARRIORS,metatext,FIX,Post-Apocalyptic Settlement,启示后定居,末日聚落
+english_metatexts:RML_RODEO,metatext,FIX,Rodeo,罗德奥,牛仔竞技大会
+english_metatexts:RML_SANCTUARY,metatext,KEEP,Polly's Sanctuary,波莉圣洁之地,波莉圣洁之地
+english_metatexts:RML_SHADY_PROPERTY,metatext,FIX,Shady Property,Shady 属性,可疑宅邸
+english_metatexts:RML_SHOPPING_MALL,metatext,KEEP,Shopping Mall,购物商场,购物商场
+english_metatexts:RML_SIMON_SOUPS,metatext,FIX,Simon Soups,西蒙汤,Simon Soups
+english_metatexts:RML_SPA,metatext,FIX,Spa,螺丝,水疗中心
+english_metatexts:RML_SPACE_STATION,metatext,KEEP,Space Station,空间站,空间站
+english_metatexts:RML_SPOOKY_ACADEMY,metatext,FIX,Spooky Academy,间谍学院,惊悚学院
+english_metatexts:RML_TECH_COMPANY,metatext,FIX,Cryptic Tech Company,密码技术公司,神秘科技公司
+english_metatexts:RML_UFO_SIGHTSEEING,metatext,FIX,UFO Sightseeing Spot,UFO 瞄准点,UFO 观测点
+english_metatexts:RML_VILLAGE_ABANDONED,metatext,KEEP,Abandoned Village,被遗弃的村庄,被遗弃的村庄
+english_metatexts:RML_VILLAGE_ANIMALS,metatext,KEEP,Adorable Village,可爱的村庄,可爱的村庄
+english_metatexts:RML_VILLAGE_CHARMING,metatext,KEEP,Charming Village,迷人的村庄,迷人的村庄
+english_metatexts:RML_VILLAGE_KAIJU,metatext,POLISH,City Under Attack,城市受到攻击,遇袭城市
+english_metatexts:RML_VILLAGE_SECLUDED,metatext,KEEP,Secluded Village,隐居村,隐居村
+english_metatexts:RML_VILLAGE_WEST,metatext,FIX,Wild West Town,狂野的西镇,狂野西部小镇
+english_metatexts:RML_VILLAIN_SUMMIT,metatext,FIX,End of the World Summit,世界首脑会议结束,世界末日峰会
+english_metatexts:RML_WEDDING,metatext,KEEP,Wedding,婚礼,婚礼
+english_metatexts:RML_WEIRD_FACTORY,metatext,KEEP,Factory,工厂,工厂
+english_metatexts:SCP_TTL_SEL,metatext,KEEP,Who do you want to talk to?,你想跟谁说话?,你想跟谁说话?
+english_metatexts:STA_HYPE,metatext,KEEP,Hype,Hype,Hype
+english_metatexts:STA_MAGIC,metatext,KEEP,Magic,Magic,Magic
+english_metatexts:STA_MIND,metatext,KEEP,Mind,Mind,Mind
+english_metatexts:STA_MONEY,metatext,KEEP,Money,Money,Money
+english_metatexts:STA_SOUL,metatext,KEEP,Soul,Soul,Soul
+english_metatexts:STA_STAMINA,metatext,KEEP,Stamina,Stamina,Stamina
+english_metatexts:STA_UNKNOWN,metatext,KEEP,Unknown,未知,未知
+english_metatexts:STK_SAV_BTN,metatext,POLISH,Save Copy,保存复制,保存副本
+english_metatexts:STK_SOCIALMEDIANOTE,metatext,POLISH,Remember to share your creation on social media![n]#monsterprom #monsterroadtrip,记得在社交媒体上分享你的创作![n]#monsterprom #monsterroadtrip # 梦幻之路(英语:,记得在社交媒体上分享你的作品！[n]#monsterprom #monsterroadtrip
+english_metatexts:STK_TAB_CHA,metatext,FIX,Chibi alt,奇比阿尔特,Q版替换角色
+english_metatexts:STK_TAB_CHG,metatext,FIX,Chibi gacha,奇比・加查,Q版扭蛋角色
+english_metatexts:STK_TAB_CHP,metatext,FIX,Chibi PC,奇比电脑,Q版玩家角色
+english_metatexts:STK_TAB_CHS,metatext,REVIEW,Chibi SP,齐比 SP,Q版 SP
+english_metatexts:STK_TAB_PSN,metatext,KEEP,Passenger,乘客,乘客
+english_metatexts:STK_TAB_STA,metatext,FIX,Stat,状态,资源
+english_metatexts:TAG_COC_REG,metatext,KEEP,cocaine,可卡因,可卡因
+english_metatexts:TAG_COC_SWI,metatext,FIX,nose candy,鼻口糖 鼻口糖 鼻口糖 鼻口糖,鼻子糖
+english_metatexts:TAG_SHR_REG,metatext,FIX,shrooms,洗手间,迷幻蘑菇
+english_metatexts:TAG_SHR_SWI,metatext,KEEP,roots,树根,树根
+english_metatexts:TOO_EVT_GUESSBOTH,metatext,KEEP,Guess which resource you'll gain and which you'll lose.,"猜猜你会得到什么样的资源,你会失去什么样的资源.","猜猜你会得到什么样的资源,你会失去什么样的资源."
+english_metatexts:TOO_EVT_GUESS_FORFEIT,metatext,KEEP,Guess which resource you'll lose.,猜猜你会失去什么样的资源。,猜猜你会失去什么样的资源。
+english_metatexts:TOO_EVT_GUESS_GAIN,metatext,KEEP,Guess which resource you'll gain.,猜猜你会得到什么资源,猜猜你会得到什么资源
+english_metatexts:TOO_EVT_GUESS_STAT_GAIN,metatext,FIX,You'll always gain.,你会永远得到好处的。,这种资源一定会增加。
+english_metatexts:TOO_EVT_GUESS_STAT_LOSE,metatext,FIX,You'll always lose.,你总是输的,这种资源一定会减少。
+english_metatexts:TOO_EVT_INCREMENTAL,metatext,FIX,Progress through 3 STAGES by always picking OPTIONS tied to a HIGH RESOURCE.,"通过选择与高资源挂钩的选项,通过3个支柱取得进展。",共有 3 个阶段，每次都选择对应资源数值更高的选项。
+english_metatexts:TOO_EVT_NONINTERACTIVE,metatext,POLISH,No stats will be affected. No pressure!,数据不会受到影响。 没有压力!,不会影响任何资源。毫无压力！
+english_metatexts:TOO_EVT_QUANTITIES,metatext,FIX,"Each of the 3 options will affect any resource either a bit, somewhat, or a lot.","3个选项中的每个选项都会影响任何资源,有的会影响,有的会影响很多.",3 个选项影响的资源数量分别为：一点、一些或很多。
+english_metatexts:TOO_EVT_RANDOMOUTCOME,metatext,POLISH,The stats which are affected are random!,受影响的数据是随机的!,受影响的资源由随机决定！
+english_metatexts:TOO_EVT_SPECIAL,metatext,KEEP,Who knows what you'll find here!,谁知道你会在这里找到什么!,谁知道你会在这里找到什么!
+english_metatexts:TOO_EVT_TUTORIAL,metatext,KEEP,Tutorial,教学,教学
+english_metatexts:TOO_PSN_AARAVI,metatext,FIX,Every turn you'll gain +MAGIC and lose -MONEY.,"每转一转,你就会得到+MAGIC 输了 - 钱。",每回合，魔力增加，金钱减少。
+english_metatexts:TOO_PSN_ADRIEN,metatext,FIX,Gain a lot of your +LOWEST RESOURCE and lose -EVERY OTHER RESOURCE,获得你最慢的资源 失去其他的资源,大量增加数值最低的资源，减少其他所有资源。
+english_metatexts:TOO_PSN_BLUE,metatext,FIX,"All RESOURCE gains and losses from location events start lower than usual, but they increase every TURN.","地点活动带来的所有资源损益的起步均低于平时,但每增加一个TURN.",地点事件中，所有资源的增减幅度起初低于通常数值，但会逐回合增加。
+english_metatexts:TOO_PSN_BS_AARAVI,metatext,FIX,"For one week, every turn you'll gain +MAGIC and lose -MONEY.","一周内,每转一圈,你就会得到+MAGIC,然后输了 -MONEY.",持续一周：每回合，魔力增加，金钱减少。
+english_metatexts:TOO_PSN_BS_ADRIEN,metatext,FIX,Gain a lot of your +LOWEST RESOURCE and lose -EVERY OTHER RESOURCE,获得你最慢的资源 失去其他的资源,大量增加数值最低的资源，减少其他所有资源。
+english_metatexts:TOO_PSN_BS_BLUE,metatext,FIX,"For one week, all RESOURCE gains and losses from location events start lower than usual, but they increase every turn.","一周来,地点活动的所有资源损益都比平时低,但每转一圈都增加。",持续一周：地点事件中，所有资源的增减幅度起初低于通常数值，但会逐回合增加。
+english_metatexts:TOO_PSN_BS_CALCULESTER,metatext,FIX,"For one week, every turn you'll gain +1 of your LOWEST STAT and lose -1 of your HIGHEST STAT.","一周内,每转一圈,你都会得到你的LOWEST STAT的+1,并失去你的高STAT的-1.",持续一周：每回合，数值最低的资源 +1，数值最高的资源 -1。
+english_metatexts:TOO_PSN_BS_DAMIEN,metatext,FIX,"For one week, every turn you'll gain +HYPE and lose -STAMINA.","一周内,每转一圈,你就会得到+HYPE,然后失去-STAMINA.",持续一周：每回合，热度增加，体力减少。
+english_metatexts:TOO_PSN_BS_FINN,metatext,FIX,You get a RESOURCE gain and loss copying the ones from your last LOCATION turn.,你得到一个资源收益和损失 复制那些从你上次定位转弯。,重复上一个地点回合所带来的资源增加和减少。
+english_metatexts:TOO_PSN_BS_GREEN,metatext,KEEP,You get to listen to a very special song. Enjoy!,你听一首非常特别的歌 玩得开心点!,你听一首非常特别的歌 玩得开心点!
+english_metatexts:TOO_PSN_BS_HOPE,metatext,FIX,"For one week, every turn you'll lose -MAGIC and randomly gain either +MONEY, +MIND, or +HYPE.","一周内,每转一圈,你就会失去 -MAGIC 和随机获得 +MONEY, +MIND, 或+HYPE。",持续一周：每回合减少魔力，并随机增加金钱、头脑或热度中的一种。
+english_metatexts:TOO_PSN_BS_JOY,metatext,FIX,"For one week, every turn you'll gain +SOUL and lose -MAGIC.","一周后,每转一圈都会得到+SOUL并失去-MAGIC.",持续一周：每回合，灵魂增加，魔力减少。
+english_metatexts:TOO_PSN_BS_LAMB,metatext,FIX,Lose your -TWO LOWEST RESOURCES in order to gain that amount of your +HIGHEST RESOURCE,"失去你的 -TWO LOWEST 资源,以获得你的 +Highest 资源",减少数值最低的两种资源，再将减少的总量加到数值最高的资源上。
+english_metatexts:TOO_PSN_BS_LIAM,metatext,FIX,"For one week, every turn you'll gain +MIND and lose -HYPE.","一周内,每转一圈,你就会得到+MID并失去-HYPE.",持续一周：每回合，头脑增加，热度减少。
+english_metatexts:TOO_PSN_BS_MILO,metatext,FIX,"For one week, the first time a RESOURCE hits ZERO, Milo will bring it up to ONE.","一周来,一个资源 第一次击中ZERO, 迈洛 将它升为一。",持续一周：首次有资源降到零时，迈洛会把它恢复到 1。
+english_metatexts:TOO_PSN_BS_MIRANDA,metatext,FIX,"For one week, every turn you'll gain +STAMINA and lose -MIND.","一周后,每转一圈,你就会得到+STAMINA并失去-MIND.",持续一周：每回合，体力增加，头脑减少。
+english_metatexts:TOO_PSN_BS_MOTHMAN,metatext,FIX,"For one week, every turn you'll gain a +RANDOM RESOURCE and lose another -RANDOM RESOURCE.","一周内,每转一圈,你就会得到+RANDOM资源 失去另一个 -RANDOM资源。",持续一周：每回合，随机增加一种资源，减少另一种资源。
+english_metatexts:TOO_PSN_BS_POLLY,metatext,FIX,"For one week, all RESOURCE gains and losses from location events are increased by 1.","在一周内,地点活动的所有资源损益都增加了1个。",持续一周：地点事件中，所有资源的增减幅度均增加 1。
+english_metatexts:TOO_PSN_BS_RED,metatext,FIX,"For one week, every turn you'll gain your +HIGHEST STAT and lose your -LOWEST STAT.","一周后,每转一圈都会得到你的+HIGHEST STAT并失去你的-LOWEST STAT.",持续一周：每回合，增加数值最高的资源，减少数值最低的资源。
+english_metatexts:TOO_PSN_BS_SCOTT,metatext,FIX,"For one week, all RESOURCE gains and losses from location events are increased by 1.","在一周内,地点活动的所有资源损益都增加了1个。",持续一周：地点事件中，所有资源的增减幅度均增加 1。
+english_metatexts:TOO_PSN_BS_STU,metatext,FIX,"For one week, all RESOURCE gains and losses from location events are reduced by 1.","在一周内,地点活动的所有资源损益将减少1个。",持续一周：地点事件中，所有资源的增减幅度均减少 1。
+english_metatexts:TOO_PSN_BS_VALERIE,metatext,FIX,Next time you barter with NOODLES you'll get +1 extra RESOURCE GAIN.,"下次你和NOODELES交换时,你会得到+1 额外的资源GAIN。",下次与面条交换物品时，获得的资源额外 +1。
+english_metatexts:TOO_PSN_BS_VERA,metatext,FIX,"For one week, every turn you'll gain +MONEY and lose -SOUL.","一周内,每转一圈,你就会得到+MONEY,输了-SOUL.",持续一周：每回合，金钱增加，灵魂减少。
+english_metatexts:TOO_PSN_BS_YELLOW,metatext,FIX,Gain +THREE RANDOM RESOURCES and lose -THREE OTHER RANDOM RESOURCES.,获取+THE RANDOM资源并失去 - 威胁其他RANDOM资源。,随机增加三种资源，减少另外三种资源。
+english_metatexts:TOO_PSN_CALCULESTER,metatext,FIX,Every TURN you'll gain +1 of your LOWEST STAT and lose -1 of your HIGHEST STAT.,"每一个TURN,你会得到你的LOWEST STAT的+1,并失去你的高STAT的-1.",每回合，数值最低的资源 +1，数值最高的资源 -1。
+english_metatexts:TOO_PSN_CHG,metatext,FIX,This will kick [NPC] off your team!,这会踢出球的 [NPC] 离开你的队伍!,这会让 [NPC] 离开你的队伍！
+english_metatexts:TOO_PSN_DAMIEN,metatext,FIX,Every TURN you'll gain +HYPE and lose -STAMINA.,"每一个TURN,你会得到 +HYPE 和损失 - StAMINA。",每回合，热度增加，体力减少。
+english_metatexts:TOO_PSN_FINN,metatext,FIX,You get a RESOURCE gain and loss copying the ones from your last LOCATION turn.,你得到一个资源收益和损失 复制那些从你上次定位转弯。,重复上一个地点回合所带来的资源增加和减少。
+english_metatexts:TOO_PSN_GREEN,metatext,FIX,You get to listen to The Brian Song. Enjoy.,你们可以听The 布莱恩 颂曰. 请慢用。,你可以欣赏《布莱恩之歌》。好好享受吧。
+english_metatexts:TOO_PSN_HOPE,metatext,FIX,"Every TURN you'll lose -MAGIC and randomly gain either +MONEY, +MIND, or +HYPE.","每一次你都会失去 -MAGIC 并随机获得 + 钱,+ MIND,或+ HYPE。",每回合减少魔力，并随机增加金钱、头脑或热度中的一种。
+english_metatexts:TOO_PSN_JOY,metatext,FIX,Every TURN you'll gain +SOUL and lose -MAGIC.,"每一个TURN,你会得到 +SOUL 和失去 -MAGIC。",每回合，灵魂增加，魔力减少。
+english_metatexts:TOO_PSN_LAMB,metatext,FIX,Lose your -TWO LOWEST RESOURCES in order to gain that amount of your +HIGHEST RESOURCE,"失去你的 -TWO LOWEST 资源,以获得你的 +Highest 资源",减少数值最低的两种资源，再将减少的总量加到数值最高的资源上。
+english_metatexts:TOO_PSN_LIAM,metatext,FIX,Every TURN you'll gain +MIND and lose -HYPE.,"每一个TURN,你会得到+MIND和损失 -HYPE。",每回合，头脑增加，热度减少。
+english_metatexts:TOO_PSN_MILO,metatext,FIX,"The next time a RESOURCE hits ZERO, Milo will bring it up to ONE.","下一次一个资源 击中ZERO, 迈洛 将它升为一。",下一次某种资源降到零时，迈洛会把它恢复到 1。
+english_metatexts:TOO_PSN_MIRANDA,metatext,FIX,Every TURN you'll gain +STAMINA and lose -MIND.,每个TURN你会得到+STAMINA 并失去 - 明德。,每回合，体力增加，头脑减少。
+english_metatexts:TOO_PSN_MOTHMAN,metatext,FIX,Every TURN you'll gain a +RANDOM RESOURCE and you'll lose another -RANDOM RESOURCE.,"每个回合你都会得到+RANDOM资源, 你会失去另一个 -RANDOM资源。",每回合，随机增加一种资源，减少另一种资源。
+english_metatexts:TOO_PSN_POLLY,metatext,FIX,All RESOURCE gains and losses from location events are increased by 1.,地点活动的所有资源损益增加1个。,地点事件中，所有资源的增减幅度均增加 1。
+english_metatexts:TOO_PSN_RED,metatext,FIX,Gain your +HIGHEST STAT and lose your -LOWEST STAT.,获取您的 +HIGHEST STAT 并丢失您的 -LOWEST STAT 。,增加数值最高的资源，减少数值最低的资源。
+english_metatexts:TOO_PSN_SCOTT,metatext,FIX,All RESOURCE gains and losses from location events are increased by 1.,地点活动的所有资源损益增加1个。,地点事件中，所有资源的增减幅度均增加 1。
+english_metatexts:TOO_PSN_SCOTTPOLLY,metatext,FIX,All RESOURCE gains and losses from location events are increased by 1.,地点活动的所有资源损益增加1个。,地点事件中，所有资源的增减幅度均增加 1。
+english_metatexts:TOO_PSN_STU,metatext,FIX,All RESOURCE gains and losses from location events are reduced by 1.,地点活动的所有资源损益减少1个。,地点事件中，所有资源的增减幅度均减少 1。
+english_metatexts:TOO_PSN_VALERIE,metatext,FIX,Next time you barter with NOODLES you'll get +1 extra RESOURCE GAIN.,"下次你和NOODELES交换时,你会得到+1 额外的资源GAIN。",下次与面条交换物品时，获得的资源额外 +1。
+english_metatexts:TOO_PSN_VERA,metatext,FIX,Every turn you'll gain +MONEY and lose -SOUL.,"每转一圈,你就会得到 + 钱和输 -SOUL。",每回合，金钱增加，灵魂减少。
+english_metatexts:TOO_PSN_YELLOW,metatext,FIX,Gain +THREE RANDOM RESOURCES and lose -THREE OTHER RANDOM RESOURCES.,获取+THE RANDOM资源并失去 - 威胁其他RANDOM资源。,随机增加三种资源，减少另外三种资源。
+english_metatexts:TOO_TWN_DRUGS,metatext,FIX,Drugs,药物,毒品
+english_metatexts:TOO_TWN_SCATOLOGICAL,metatext,KEEP,Toilet humor,厕所幽默,厕所幽默
+english_metatexts:TOO_TWN_SEXUAL,metatext,FIX,Highly sexual,性很强,露骨性描写
+english_metatexts:TOO_TWN_VIOLENCE,metatext,KEEP,Highly violent,极度暴力,极度暴力
+english_metatexts:TWS_NSH,metatext,FIX,Events flagged by Trigger Warning:,用触发警告标出的事件 :,需要内容预警的事件：
+english_metatexts:UNLOCK_ENDOFTHEROAD,metatext,FIX,"Something awaits you at the end of the road...[n][n]This content must be enabled in the Customize menu, and it's tied to a series of Trigger Warnings. We advice checking them before enabling it.","有东西在路上等着你...[n][n]此内容必须在自定义菜单中被启用,并绑定在一系列触发警告上. 我们建议在启动前先检查一下他们",道路尽头，有什么在等着你……[n][n]这部分内容需要在“自定义”菜单中开启，并带有一系列内容预警。建议开启前先查看这些预警。
+english_metatexts:UNLOCK_ENDOFTHEROAD_SPECIAL,metatext,FIX,Something awaits you at the end of the road...,有东西在路上等着你...,道路尽头，有什么在等着你……
+english_metatexts:UNLOCK_EXTRA_MISSIONS,metatext,POLISH,Destinations have more to offer now... go check the Destinations guide!,目的地现在有更多东西可以提供... 去检查目标指南!,目的地现在有更多内容了……快去看看目的地指南！
+english_metatexts:UNLOCK_GODMODE,metatext,FIX,You've unlocked GOD MODE! No more Game Overs for you![n][n]NOTE: This mode is not available in Online games.,"你解开了""上帝之道""! 别再玩游戏了[n][n]注:在线游戏中没有此模式。",你解锁了上帝模式！再也不用担心游戏失败了！[n][n]注意：此模式不适用于联机游戏。
+english_metatexts:UNLOCK_LOCATION_METACABIN,metatext,FIX,"You've unlocked the Meta-Cabin, a place full of mysteries to unearth. Are you ready to go meta?","你解锁了Meta -Cabin, 一个充满了谜题的地方 揭开。 你准备好去元?",你解锁了元小屋，这里有许多谜团等着揭开。准备好打破第四面墙了吗？
+english_metatexts:UNL_TTL,metatext,KEEP,Unlocked!,解锁!,解锁!
+english_metatexts:WEK,metatext,FIX,Week [0],周数 [0],第 [0] 周
+english_metatexts:WKS,metatext,KEEP,Week,周数,周数
+english_metatexts:WKS_PLR,metatext,KEEP,Weeks,周数,周数

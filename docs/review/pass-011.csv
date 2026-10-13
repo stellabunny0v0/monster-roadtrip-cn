@@ -1,0 +1,271 @@
+﻿row_id,event_id,decision,source,before,after
+english_metatexts:GLR_CHR_ACGLITCH,metatext,KEEP,[ERROR],[ERROR],[ERROR]
+english_metatexts:GLR_CHR_ANTIGAMBLING,metatext,FIX,"Tubular Eddy, the Antigambling Aardvark","土拨鼠 Eddy, 反加盟者 Aardvark",超酷艾迪，反赌土豚
+english_metatexts:GLR_CHR_ANTIGREEN,metatext,FIX,Byron Blast,拜伦爆炸案,拜伦·布拉斯特
+english_metatexts:GLR_CHR_ANTIPOLLY,metatext,FIX,Anti-Polly,反- 反波莉,反波莉
+english_metatexts:GLR_CHR_ANTISCOTT,metatext,FIX,Anti-Scott,反- 反斯科特,反斯科特
+english_metatexts:GLR_CHR_ASTROLOGIST,metatext,KEEP,Astrologist,占星学家,占星学家
+english_metatexts:GLR_CHR_ASTRONAUTGREEN,metatext,KEEP,Green Astronaut,绿色宇航员,绿色宇航员
+english_metatexts:GLR_CHR_ASTRONAUTYELLOW,metatext,FIX,Yellow Astronaut,黄宇航员,黄色宇航员
+english_metatexts:GLR_CHR_ASTRONOMER,metatext,KEEP,Astronomer,天文学家,天文学家
+english_metatexts:GLR_CHR_AXARAX,metatext,FIX,Axarax,轴( X),Axarax
+english_metatexts:GLR_CHR_BALL8,metatext,KEEP,8-ball,8号球,8号球
+english_metatexts:GLR_CHR_BAMBOOZLE,metatext,KEEP,Bamboozle,班博奥兹尔,班博奥兹尔
+english_metatexts:GLR_CHR_BANDIT1,metatext,KEEP,Bandit 1,土匪1号,土匪1号
+english_metatexts:GLR_CHR_BANDIT2,metatext,KEEP,Bandit 2,土匪2号,土匪2号
+english_metatexts:GLR_CHR_BANDIT3,metatext,FIX,Bandit 3,土匪组织3,土匪3号
+english_metatexts:GLR_CHR_BANDIT4,metatext,FIX,Bandit 4,土匪组织4,土匪4号
+english_metatexts:GLR_CHR_BARD,metatext,FIX,LARPer Bard,拉普尔·巴德(LARPER),实景角色扮演吟游诗人
+english_metatexts:GLR_CHR_BARNABY,metatext,KEEP,Barnaby,巴纳比,巴纳比
+english_metatexts:GLR_CHR_BARTHOLOMEW,metatext,KEEP,Bartholomew,巴塞洛缪,巴塞洛缪
+english_metatexts:GLR_CHR_BATNISS,metatext,REVIEW,Batniss,蝙蝠侠,Batniss
+english_metatexts:GLR_CHR_BEAR,metatext,FIX,Bear,"小熊,小熊,小熊,小熊,小熊,小熊,小熊,小熊,小熊,小熊,小熊",熊
+english_metatexts:GLR_CHR_BEE,metatext,KEEP,Beatrice,比阿特丽斯,比阿特丽斯
+english_metatexts:GLR_CHR_BELLANDA,metatext,KEEP,Bellanda Vanderbilt,贝兰达·范德比尔特,贝兰达·范德比尔特
+english_metatexts:GLR_CHR_BERNARD,metatext,KEEP,Bernard,伯纳德,伯纳德
+english_metatexts:GLR_CHR_BICYCLE,metatext,POLISH,Bicycle Guy,自行车盖,骑自行车的家伙
+english_metatexts:GLR_CHR_BLONDGUY,metatext,KEEP,Blond guy,金发男,金发男
+english_metatexts:GLR_CHR_BLUE,metatext,FIX,Vicky Schmidt,维姬 施密特 施密特 施密特 施密特 施密特 施密特,维姬·施密特
+english_metatexts:GLR_CHR_BLUELIAM,metatext,KEEP,Blue Liam,蓝色 利亚姆,蓝色 利亚姆
+english_metatexts:GLR_CHR_BOSTON,metatext,KEEP,Boston,波士顿,波士顿
+english_metatexts:GLR_CHR_BRADPHOMET,metatext,KEEP,Bradphomet,布莱德福美特,布莱德福美特
+english_metatexts:GLR_CHR_BRIDE,metatext,KEEP,Bride,新娘,新娘
+english_metatexts:GLR_CHR_BROODINGBASTARD,metatext,FIX,Brooding Bastard,混帐混蛋,阴郁的混蛋
+english_metatexts:GLR_CHR_BUSINESSIDEAS,metatext,FIX,Mr. Business Ideas,劳伦斯先生 商业思想,商业点子先生
+english_metatexts:GLR_CHR_CALCULESTER,metatext,FIX,Calculester Hewlett-Packard,卡库莱斯特 惠普软件,卡库莱斯特·惠普
+english_metatexts:GLR_CHR_CARROT,metatext,KEEP,Carrot,胡萝卜,胡萝卜
+english_metatexts:GLR_CHR_CHANCELLOR,metatext,KEEP,The Chancellor,总理,总理
+english_metatexts:GLR_CHR_CHANCELLOR_DADFIGURE,metatext,FIX,Chancellor Father Figure,父亲图,像父亲一样的总理
+english_metatexts:GLR_CHR_CHAZ,metatext,KEEP,Chaz,查兹,查兹
+english_metatexts:GLR_CHR_CHEESE,metatext,FIX,Cheese,奶酪( 奶酪),Cheese
+english_metatexts:GLR_CHR_CHESTERTON,metatext,FIX,"Charlie ""Cheesefingers"" Chesterton","查理·""厨师""·切斯特通",查理“奶酪手指”切斯特通
+english_metatexts:GLR_CHR_CHIYO,metatext,FIX,Chiyo,千代 千代 千代,千代
+english_metatexts:GLR_CHR_CINNAMON,metatext,KEEP,Hazel,海泽尔,海泽尔
+english_metatexts:GLR_CHR_CLOWNFISH,metatext,KEEP,Clown Fish,小丑鱼,小丑鱼
+english_metatexts:GLR_CHR_COACH,metatext,KEEP,Coach,教练,教练
+english_metatexts:GLR_CHR_COOLJOSH,metatext,KEEP,Cool Josh,酷乔希,酷乔希
+english_metatexts:GLR_CHR_COPANGEL,metatext,KEEP,Cop Angel,条子天使,条子天使
+english_metatexts:GLR_CHR_COPDEMON,metatext,KEEP,Cop Demon,警察恶魔,警察恶魔
+english_metatexts:GLR_CHR_COPS,metatext,KEEP,Cops,条子,条子
+english_metatexts:GLR_CHR_COSMETICS,metatext,KEEP,Cosmetics Guy,化妆师,化妆师
+english_metatexts:GLR_CHR_COTTONSCOTT,metatext,FIX,Cotton Scott,棉花 斯科特,棉花斯科特
+english_metatexts:GLR_CHR_CREATURE,metatext,FIX,Sexy Creature,性爱,性感生物
+english_metatexts:GLR_CHR_CREEPO,metatext,FIX,Creepo,克里波语Name,克里波
+english_metatexts:GLR_CHR_CROCODILE,metatext,KEEP,Crocodile,鳄鱼,鳄鱼
+english_metatexts:GLR_CHR_CUBESCOTT,metatext,FIX,Cube Scott,立方体 斯科特,方块斯科特
+english_metatexts:GLR_CHR_CULTBOSS,metatext,KEEP,Valefar,瓦莱法尔,瓦莱法尔
+english_metatexts:GLR_CHR_CULTFROG,metatext,FIX,Frog Follower,蛙类追随者,青蛙教徒
+english_metatexts:GLR_CHR_CULTHEDGEHOG,metatext,FIX,Hedgehog Follower,黑奇霍克跟踪者,刺猬教徒
+english_metatexts:GLR_CHR_CULTHORSE,metatext,FIX,Horse Follower,马跟随者,马教徒
+english_metatexts:GLR_CHR_CULTRABBIT,metatext,FIX,Rabbit Follower,兔子跟踪者,兔子教徒
+english_metatexts:GLR_CHR_CULTSECRETS,metatext,KEEP,Cult of Mh'athra,Mh'athra的邪教,Mh'athra的邪教
+english_metatexts:GLR_CHR_DAHLIA,metatext,FIX,Dahlia Aquino,达莉娅 阿基诺,达莉娅·阿基诺
+english_metatexts:GLR_CHR_DAHLIAAPPLIANCE,metatext,FIX,Washing Machine Dahlia,冲洗机 达莉娅,洗衣机达莉娅
+english_metatexts:GLR_CHR_DAHLIAPET,metatext,POLISH,Dahlia's Pet,达莉娅宠物,达莉娅的宠物
+english_metatexts:GLR_CHR_DAMIEN,metatext,FIX,Damien LaVey,达米恩 拉维,达米恩·拉维
+english_metatexts:GLR_CHR_DARKLORDLIAM,metatext,KEEP,Dark Lord Liam,黑暗之主 利亚姆,黑暗之主 利亚姆
+english_metatexts:GLR_CHR_DINOSAUR,metatext,KEEP,Dinosaur,恐龙,恐龙
+english_metatexts:GLR_CHR_DIRECTOR,metatext,KEEP,Miss Weaving,织布小姐,织布小姐
+english_metatexts:GLR_CHR_DMITRI,metatext,FIX,Dmitri,德米特里语Name,德米特里
+english_metatexts:GLR_CHR_DOMINAPHAEL,metatext,FIX,Dominaphel,县长,Dominaphel
+english_metatexts:GLR_CHR_DOOR,metatext,KEEP,Door,门,门
+english_metatexts:GLR_CHR_DRUGDEALER,metatext,KEEP,"Tommy, the Drug Dealer","汤米,毒贩子","汤米,毒贩子"
+english_metatexts:GLR_CHR_DUELIST,metatext,FIX,Duelist,排 定 名,决斗者
+english_metatexts:GLR_CHR_EFFIGY,metatext,FIX,Lamb Effigy,羊绒,羔羊雕像
+english_metatexts:GLR_CHR_ELIAS,metatext,FIX,Dev E,发展司 E,开发者 E
+english_metatexts:GLR_CHR_ERNIS,metatext,FIX,Ernis the Lich,利克的埃尔尼斯,巫妖埃尔尼斯
+english_metatexts:GLR_CHR_EVILCEO,metatext,FIX,Mr. Pappas,劳伦斯先生 帕帕斯语Name,帕帕斯先生
+english_metatexts:GLR_CHR_EVILFAITH,metatext,FIX,Evil Faith,邪恶的信仰,邪恶费斯
+english_metatexts:GLR_CHR_EVILJOY,metatext,FIX,Evil Joy,邪恶的欢乐,邪恶乔伊
+english_metatexts:GLR_CHR_EVILSCOTT,metatext,FIX,Evil Scott,邪恶 斯科特,邪恶斯科特
+english_metatexts:GLR_CHR_EYEINTHEWALL,metatext,FIX,Eye in the Stall,斯道尔的眼睛,隔间里的眼睛
+english_metatexts:GLR_CHR_FAITH,metatext,KEEP,Faith Fernandez,费斯·费尔南德斯,费斯·费尔南德斯
+english_metatexts:GLR_CHR_FAKEPOLLY,metatext,FIX,Fake Polly,假话 波莉,假波莉
+english_metatexts:GLR_CHR_FIGURE,metatext,FIX,Figure,图,神秘人影
+english_metatexts:GLR_CHR_FINN,metatext,FIX,Finn,芬语,芬恩
+english_metatexts:GLR_CHR_FISHKNIGHT,metatext,KEEP,Brigadier Beluga,贝卢加准将,贝卢加准将
+english_metatexts:GLR_CHR_FIZZLE,metatext,KEEP,Violet Fizzle,维奥莱特·菲兹尔,维奥莱特·菲兹尔
+english_metatexts:GLR_CHR_FJ,metatext,FIX,FJ,斐济,FJ
+english_metatexts:GLR_CHR_FLODGE,metatext,FIX,Counselor Flodge,律师 Flodge,辅导员弗洛奇
+english_metatexts:GLR_CHR_FLODGE_BUSHDISG,metatext,FIX,Counselor Flodge Bush Disguise,弗罗奇·布什律师,辅导员弗洛奇（灌木伪装）
+english_metatexts:GLR_CHR_FLODGE_KIDDISG,metatext,FIX,Counselor Flodge Kid Disguise,律师Flodge Kid 伪装,辅导员弗洛奇（小孩伪装）
+english_metatexts:GLR_CHR_FRANKENSTEIN,metatext,KEEP,Frankenstein,弗兰肯斯坦,弗兰肯斯坦
+english_metatexts:GLR_CHR_FURRY,metatext,KEEP,Rabbix CrimsonSoul,拉比克·克林森·苏尔(Rabbix Crimson Soul),拉比克·克林森·苏尔(Rabbix Crimson Soul)
+english_metatexts:GLR_CHR_FUTUREVERA,metatext,KEEP,Future Vera,未来 维拉,未来 维拉
+english_metatexts:GLR_CHR_GERARD,metatext,FIX,Gerard,热拉尔德,杰拉德
+english_metatexts:GLR_CHR_GLITCH,metatext,FIX,Glitch,滑动,故障
+english_metatexts:GLR_CHR_GLUTTONY,metatext,FIX,Gluttony,胶质,暴食
+english_metatexts:GLR_CHR_GOBBO,metatext,KEEP,Gobbo,Gobbo,Gobbo
+english_metatexts:GLR_CHR_GODVOICE,metatext,KEEP,God's Voice,神的声音,神的声音
+english_metatexts:GLR_CHR_GREEN,metatext,FIX,Brian Yu,布莱恩 项,布莱恩·余
+english_metatexts:GLR_CHR_GRUMPO,metatext,KEEP,Colonel Grumpo,格伦波上校,格伦波上校
+english_metatexts:GLR_CHR_HARRYMANAGER,metatext,POLISH,Harry the Middle Manager,中间经理哈里,中层经理哈里
+english_metatexts:GLR_CHR_HAUNTEDTV,metatext,FIX,Haunted TV,被恐吓的电视,闹鬼的电视
+english_metatexts:GLR_CHR_HELLCOMMANDER1,metatext,KEEP,Hell Commander 1,地狱指挥官1号,地狱指挥官1号
+english_metatexts:GLR_CHR_HELLCOMMANDER2,metatext,KEEP,Hell Commander 2,地狱指挥官2号,地狱指挥官2号
+english_metatexts:GLR_CHR_HEX,metatext,FIX,Hex,十六进制,Hex
+english_metatexts:GLR_CHR_HOPE,metatext,FIX,Hope Halko,希望哈尔科,霍普·哈尔科
+english_metatexts:GLR_CHR_HRREP,metatext,FIX,HR Rep,人权共和国,人力资源代表
+english_metatexts:GLR_CHR_HUMAN,metatext,KEEP,A Human,一个人类,一个人类
+english_metatexts:GLR_CHR_HUSBAND,metatext,KEEP,Husband,丈夫,丈夫
+english_metatexts:GLR_CHR_HYPPERION,metatext,REVIEW,Hypperion the Hungry Hungry Hippo of Hyper-Hope,Hypperion the Hyperry Hymppo of Hyper-Hope 饥饿的希波(超希望) 饥饿的希波(超希望),Hyper-Hope 的饿饿河马 Hypperion
+english_metatexts:GLR_CHR_IGUANA1,metatext,KEEP,Improv Iguana 1,即兴蜥蜴1号,即兴蜥蜴1号
+english_metatexts:GLR_CHR_IGUANA2,metatext,KEEP,Improv Iguana 2,即兴蜥蜴2,即兴蜥蜴2
+english_metatexts:GLR_CHR_IGUANA3,metatext,KEEP,Improv Iguana 3,即兴蜥蜴 3,即兴蜥蜴 3
+english_metatexts:GLR_CHR_IGUANAS,metatext,KEEP,Improv Iguanas,即兴蜥蜴,即兴蜥蜴
+english_metatexts:GLR_CHR_ITALIAN,metatext,FIX,Italian Guy,意大利盖伊,意大利人
+english_metatexts:GLR_CHR_JACQUELINE,metatext,POLISH,Jacqueline,杰奎琳 贾奎琳,杰奎琳
+english_metatexts:GLR_CHR_JERRY,metatext,KEEP,Jerry,贾利,贾利
+english_metatexts:GLR_CHR_JOY,metatext,KEEP,Joy Johnson-Johjima,乔伊·约翰逊-乔吉马,乔伊·约翰逊-乔吉马
+english_metatexts:GLR_CHR_JUAN,metatext,KEEP,Juan,胡安,胡安
+english_metatexts:GLR_CHR_JULIAN,metatext,FIX,Dev J,德夫·贾德(Dev J),开发者 J
+english_metatexts:GLR_CHR_KAIJU,metatext,FIX,Horny Kaiju,霍尼·开珠,发情的巨兽
+english_metatexts:GLR_CHR_KALE,metatext,KEEP,Kale,卡莱,卡莱
+english_metatexts:GLR_CHR_KIDNAPPED,metatext,FIX,Johnny the Kidnapped Guy,绑匪约翰尼,被绑架的约翰尼
+english_metatexts:GLR_CHR_KITEEMPEROR,metatext,FIX,Emperor of Kites,基特斯皇帝,风筝皇帝
+english_metatexts:GLR_CHR_KITEFRIEND,metatext,FIX,Kite Friend,基特朋友( Kite),风筝朋友
+english_metatexts:GLR_CHR_KITEKNIGHT,metatext,FIX,Kite Knight,基特骑士,风筝骑士
+english_metatexts:GLR_CHR_KITEKNIGHTMARE,metatext,FIX,Kite Knightmare,基特·克特马尔,风筝梦魇骑士
+english_metatexts:GLR_CHR_KITELOVER,metatext,FIX,Kite Lover,基特恋人,风筝爱好者
+english_metatexts:GLR_CHR_KITEMASTER,metatext,FIX,Kite Master,基特大师,风筝大师
+english_metatexts:GLR_CHR_KITEMOM,metatext,FIX,Kite Knight's Mom,基特骑士的妈妈,风筝骑士的妈妈
+english_metatexts:GLR_CHR_KITEPUPIL,metatext,FIX,Kite Pupil,基特学生,风筝学徒
+english_metatexts:GLR_CHR_LAMB,metatext,FIX,The Lamb,羔羊队,羔羊
+english_metatexts:GLR_CHR_LARPERBARD,metatext,FIX,LARPer Bard,拉普尔·巴德(LARPER),实景角色扮演吟游诗人
+english_metatexts:GLR_CHR_LARPERFIGHTER,metatext,FIX,LARPer Fighter,LARPER战斗机,实景角色扮演战士
+english_metatexts:GLR_CHR_LARPERS,metatext,FIX,LARPers,拉脱维亚人,实景角色扮演玩家
+english_metatexts:GLR_CHR_LARPERVAMPIRE,metatext,FIX,LARPer Vampire,拉普尔吸血鬼,实景角色扮演吸血鬼
+english_metatexts:GLR_CHR_LAUDANDA,metatext,KEEP,Laudanda Vanderbilt,劳丹达·范德比尔特,劳丹达·范德比尔特
+english_metatexts:GLR_CHR_LEEK,metatext,FIX,Leek,弹夹,韭葱
+english_metatexts:GLR_CHR_LEONARD,metatext,KEEP,Leonard,莱纳德,莱纳德
+english_metatexts:GLR_CHR_LIAM,metatext,FIX,Liam de Lioncourt,利亚姆 莱昂科特,利亚姆·德·莱昂科特
+english_metatexts:GLR_CHR_LIFEGUARDS,metatext,KEEP,Stu and Wanda,斯图和万达,斯图和万达
+english_metatexts:GLR_CHR_LIFEGUARDWANDA,metatext,KEEP,Wanda,万达,万达
+english_metatexts:GLR_CHR_LITTLECREATURE1,metatext,FIX,Herbert,赫伯特 赫伯特 赫伯特,赫伯特
+english_metatexts:GLR_CHR_LITTLECREATURE2,metatext,FIX,Oingboing,兴起,Oingboing
+english_metatexts:GLR_CHR_LITTLECREATURE3,metatext,FIX,Scrunkle,闪闪发光,Scrunkle
+english_metatexts:GLR_CHR_LITTLECREATURERECKLESS,metatext,FIX,Fast Floob Flop,快速浮点数,Fast Floob Flop
+english_metatexts:GLR_CHR_LITTLECREATURESALAMI,metatext,KEEP,Sammy Salami,萨米·萨拉米,萨米·萨拉米
+english_metatexts:GLR_CHR_LOCALS,metatext,FIX,Charming Village Locals,Charming 村庄当地人,迷人村庄的居民
+english_metatexts:GLR_CHR_LUCIEN,metatext,KEEP,Lucien,吕西安,吕西安
+english_metatexts:GLR_CHR_MACARENA,metatext,FIX,Macarena,玛卡丽娜,Macarena
+english_metatexts:GLR_CHR_MAIDSCOTT,metatext,FIX,Maid Scott,女佣 斯科特,女仆斯科特
+english_metatexts:GLR_CHR_MAMIMI,metatext,KEEP,Mamimi,马美美,马美美
+english_metatexts:GLR_CHR_MATTEO,metatext,POLISH,Matteo,马特奥( Matteo),马特奥
+english_metatexts:GLR_CHR_MAYOR,metatext,KEEP,Mayor,市长,市长
+english_metatexts:GLR_CHR_MERDIPLOMAT,metatext,FIX,Merdiplomat,默多普洛马特语Name,人鱼外交官
+english_metatexts:GLR_CHR_MERPLAYER,metatext,FIX,Mer-You,梅尔 - 你,人鱼版的你
+english_metatexts:GLR_CHR_MERPOLLY,metatext,FIX,Mer-Polly,梅尔...波莉,人鱼波莉
+english_metatexts:GLR_CHR_MERSCOTT,metatext,FIX,Mer-Scott,梅尔...斯科特,人鱼斯科特
+english_metatexts:GLR_CHR_MILO,metatext,FIX,Milo Belladonna,迈洛 贝拉多娜,迈洛·贝拉多娜
+english_metatexts:GLR_CHR_MIRANDA,metatext,FIX,Miranda Vanderbilt,米兰达 范德比尔特,米兰达·范德比尔特
+english_metatexts:GLR_CHR_MIRRORAMIRA1,metatext,KEEP,Mirror Amira,镜像 阿米拉,镜像 阿米拉
+english_metatexts:GLR_CHR_MIRRORAMIRA2,metatext,KEEP,Mirror Amira 2,镜像 阿米拉 2,镜像 阿米拉 2
+english_metatexts:GLR_CHR_MIRRORBRIAN,metatext,KEEP,Mirror Brian,镜像 布莱恩,镜像 布莱恩
+english_metatexts:GLR_CHR_MIRRORBRIANLEGS,metatext,FIX,Mirror Brian Legs,镜像 布莱恩 脚,镜中布莱恩的腿
+english_metatexts:GLR_CHR_MIRRORBRIANSHORT,metatext,FIX,Mirror Brian Short,镜像 布莱恩 短数,矮个镜中布莱恩
+english_metatexts:GLR_CHR_MIRRORCINNAMON,metatext,KEEP,Mirror Hazel,镜像海泽尔,镜像海泽尔
+english_metatexts:GLR_CHR_MIRRORGLITCH,metatext,FIX,Mirror Glitch,镜像滑块,镜中故障
+english_metatexts:GLR_CHR_MIRRORJUAN,metatext,KEEP,Mirror Juan,Juan镜像,Juan镜像
+english_metatexts:GLR_CHR_MIRRORJUANBUFF,metatext,FIX,Mirror Buff Juan,镜像 Buff Juan,壮硕的镜中胡安
+english_metatexts:GLR_CHR_MIRROROZ1,metatext,KEEP,Mirror Oz,镜像 奥兹,镜像 奥兹
+english_metatexts:GLR_CHR_MIRROROZ2,metatext,KEEP,Mirror Oz 2,镜像 奥兹 2,镜像 奥兹 2
+english_metatexts:GLR_CHR_MIRROROZFEAR,metatext,KEEP,Mirror Oz Fear,镜像 奥兹 恐惧,镜像 奥兹 恐惧
+english_metatexts:GLR_CHR_MIRRORPUMPKIN,metatext,KEEP,Mirror Jacqueline,镜像杰奎琳,镜像杰奎琳
+english_metatexts:GLR_CHR_MIRRORSLIME,metatext,KEEP,Mirror Doug,镜像道格,镜像道格
+english_metatexts:GLR_CHR_MIRRORVICKY,metatext,KEEP,Mirror Vicky,镜像 维姬,镜像 维姬
+english_metatexts:GLR_CHR_MIRRORZGORD,metatext,KEEP,Mirror Z'Gord,镜像 Z'Gord,镜像 Z'Gord
+english_metatexts:GLR_CHR_MIRRORZOE,metatext,KEEP,Mirror Zoe,镜像 佐伊,镜像 佐伊
+english_metatexts:GLR_CHR_MOBSTERS,metatext,FIX,Mobsters,软体动物,黑帮成员
+english_metatexts:GLR_CHR_MONKEYPAWSELLER,metatext,POLISH,Monkey's Paw Vendor,猴子的爪子卖家,猴爪商贩
+english_metatexts:GLR_CHR_MORTY,metatext,FIX,Morty,"莫蒂,莫蒂,莫蒂,莫蒂,莫蒂,莫蒂,莫蒂",莫蒂
+english_metatexts:GLR_CHR_MOTHMAN,metatext,POLISH,Moss Mann,莫斯·曼(英语:Moss Mann),莫斯·曼
+english_metatexts:GLR_CHR_MRSCRIBBLEHEAD,metatext,FIX,Mr. Scribblehead,劳伦斯先生 书写头,涂鸦头先生
+english_metatexts:GLR_CHR_MULTIDAMIEN,metatext,KEEP,Multi-Damien,多种类型达米恩,多种类型达米恩
+english_metatexts:GLR_CHR_NARRATOR,metatext,KEEP,The Narrator,叙述者,叙述者
+english_metatexts:GLR_CHR_NARRATORBODY,metatext,KEEP,The Narrator,叙述者,叙述者
+english_metatexts:GLR_CHR_NERVOUSCLIENT,metatext,FIX,Nervous Client,紧张的客户端,紧张的顾客
+english_metatexts:GLR_CHR_NIGHTCRAWLER,metatext,KEEP,Fresno Nightcrawler,弗雷斯诺夜行者,弗雷斯诺夜行者
+english_metatexts:GLR_CHR_NIGHTNIGHT,metatext,KEEP,Night-Night,夜梦,夜梦
+english_metatexts:GLR_CHR_NOODLES,metatext,KEEP,Noodles,面条,面条
+english_metatexts:GLR_CHR_NU,metatext,KEEP,Nu,努,努
+english_metatexts:GLR_CHR_OCCHIMERA,metatext,KEEP,Occhimera,奥西梅拉,奥西梅拉
+english_metatexts:GLR_CHR_OLDMAN1,metatext,KEEP,Old Man 1,老头子1号,老头子1号
+english_metatexts:GLR_CHR_OLDMAN2,metatext,KEEP,Old Man 2,老头子 二号,老头子 二号
+english_metatexts:GLR_CHR_OLDMAN3,metatext,KEEP,Old Man 3,老头子3,老头子3
+english_metatexts:GLR_CHR_OLDPOLLY,metatext,REVIEW,Old Polly,旧 波莉,旧版波莉
+english_metatexts:GLR_CHR_OLDSCOTT,metatext,REVIEW,Old Scott,旧 斯科特,旧版斯科特
+english_metatexts:GLR_CHR_OLDSCOTT2,metatext,REVIEW,Older Scott,老年人 斯科特,更旧版斯科特
+english_metatexts:GLR_CHR_OLDSCOTT3,metatext,REVIEW,Oldest Scott,最旧的 斯科特,最旧版斯科特
+english_metatexts:GLR_CHR_OLDSCOTT4,metatext,FIX,Sketch Scott,缩写 斯科特,草图斯科特
+english_metatexts:GLR_CHR_OLDSCOTT5,metatext,KEEP,Core Scott,核心 斯科特,核心 斯科特
+english_metatexts:GLR_CHR_ONFIRE,metatext,KEEP,Guy on Fire,着火的人,着火的人
+english_metatexts:GLR_CHR_ONION,metatext,KEEP,Onion,洋葱,洋葱
+english_metatexts:GLR_CHR_OPERAGUY,metatext,KEEP,Opera Guy,歌剧男,歌剧男
+english_metatexts:GLR_CHR_ORC,metatext,KEEP,Orc Girl,兽人女孩,兽人女孩
+english_metatexts:GLR_CHR_OREHOARDER,metatext,FIX,Ore Hoarder,奥雷·哈德,矿石囤积者
+english_metatexts:GLR_CHR_ORRIN,metatext,KEEP,Orrin,奥林,奥林
+english_metatexts:GLR_CHR_PARTYGHOSTS,metatext,FIX,"Ghosts of Parties Past (Summer, Macarena and Cheese)",过去聚会的鬼魂(夏季、马卡雷纳和起司),昔日派对之鬼（Summer、Macarena 和 Cheese）
+english_metatexts:GLR_CHR_PATRICIA,metatext,KEEP,Patricia,帕特里夏,帕特里夏
+english_metatexts:GLR_CHR_PHILIPPER,metatext,KEEP,Philipper,菲利普尔,菲利普尔
+english_metatexts:GLR_CHR_PILGRIM,metatext,KEEP,Pilgrim,朝圣者,朝圣者
+english_metatexts:GLR_CHR_PIZZAGIRL,metatext,KEEP,"Sadie, the Pizza Girl","萨迪,披萨女孩","萨迪,披萨女孩"
+english_metatexts:GLR_CHR_POLLY,metatext,FIX,Polly Geist,波莉 盖斯,波莉·盖斯
+english_metatexts:GLR_CHR_POLLY_CLAY,metatext,FIX,Clay Polly,克莱 波莉,黏土波莉
+english_metatexts:GLR_CHR_PREDATOR,metatext,FIX,Sexy Dad Bod Creature,性感的爸爸博德 生物,有老爸肚的性感生物
+english_metatexts:GLR_CHR_PRINCE,metatext,FIX,The Interdimensional Prince,相位相册王子,跨维度王子
+english_metatexts:GLR_CHR_PUMP,metatext,FIX,"PAL 9000, the Gas Pump AI","PAL 9000, 气泵AI",PAL 9000，加油机 AI
+english_metatexts:GLR_CHR_PUSSCILLA,metatext,KEEP,Pusscilla Bronte,普斯克利亚布朗特,普斯克利亚布朗特
+english_metatexts:GLR_CHR_RADIOHOST1,metatext,KEEP,Hunter McCarthy,亨特·麦卡锡,亨特·麦卡锡
+english_metatexts:GLR_CHR_RADIOHOST2,metatext,KEEP,Cormac S. Thompson,Cormac S. Thompson,Cormac S. Thompson
+english_metatexts:GLR_CHR_RED,metatext,KEEP,Amira Rashid,阿米拉 拉希德,阿米拉 拉希德
+english_metatexts:GLR_CHR_ROBOTCOMMANDER,metatext,FIX,CPUlysses,CPUlysses (简体中文),CPUlysses
+english_metatexts:GLR_CHR_ROSSINEAU,metatext,FIX,"Reginald ""The Very Bad Gambler"" Rossineau","雷金纳德""非常坏的赌徒""罗西诺",雷金纳德“赌技超烂”罗西诺
+english_metatexts:GLR_CHR_SALAD,metatext,FIX,A Salad,萨拉德,一份沙拉
+english_metatexts:GLR_CHR_SALESMAN,metatext,FIX,Scammy Salesman,斯卡米销售员,骗子推销员
+english_metatexts:GLR_CHR_SALOME,metatext,KEEP,Salome,沙乐美,沙乐美
+english_metatexts:GLR_CHR_SARTH,metatext,KEEP,Sarth,萨尔斯,萨尔斯
+english_metatexts:GLR_CHR_SASQUATCH,metatext,FIX,Sasquatch,萨斯克,大脚怪
+english_metatexts:GLR_CHR_SAWYER,metatext,KEEP,Sawyer,索伊尔,索伊尔
+english_metatexts:GLR_CHR_SCOTT,metatext,FIX,Scott Howl,斯科特 哈尔,斯科特·哈尔
+english_metatexts:GLR_CHR_SCOTTPOLLY,metatext,KEEP,Polly & Scott,波莉 & 斯科特,波莉 & 斯科特
+english_metatexts:GLR_CHR_SCOTT_CLAY,metatext,FIX,Clay Scott,克莱 斯科特,黏土斯科特
+english_metatexts:GLR_CHR_SEXYRAT,metatext,KEEP,Sexy Lab Rats,性感的实验室老鼠,性感的实验室老鼠
+english_metatexts:GLR_CHR_SGTRELAX,metatext,FIX,Sgt. Relax,军士. 放松点,放松中士
+english_metatexts:GLR_CHR_SHERPA,metatext,FIX,Sherpa,谢尔巴语Name,夏尔巴人
+english_metatexts:GLR_CHR_SHYDUDE,metatext,FIX,Shy Dude,帅哥,害羞的家伙
+english_metatexts:GLR_CHR_SKUNK,metatext,FIX,Punk Skunk,朋克斯昆克语Name,朋克臭鼬
+english_metatexts:GLR_CHR_SKYSCRAPER,metatext,FIX,Skyscraper,斯凯克( Skyscraper),摩天大楼
+english_metatexts:GLR_CHR_SNAKE1,metatext,KEEP,Snake Boyfriend 1,蛇的男朋友1号,蛇的男朋友1号
+english_metatexts:GLR_CHR_SNAKE2,metatext,KEEP,Snake Boyfriend 2,蛇的男朋友2号,蛇的男朋友2号
+english_metatexts:GLR_CHR_STAN,metatext,KEEP,Stan LaVey,斯坦·拉维,斯坦·拉维
+english_metatexts:GLR_CHR_STU,metatext,KEEP,Stu,斯图,斯图
+english_metatexts:GLR_CHR_SUMMER,metatext,FIX,Summer,夏季,Summer
+english_metatexts:GLR_CHR_SUSANNE,metatext,KEEP,Susanne,苏珊娜,苏珊娜
+english_metatexts:GLR_CHR_SWIMGIRL1,metatext,KEEP,Katherine the Swim Girl,凯瑟琳游泳女郎,凯瑟琳游泳女郎
+english_metatexts:GLR_CHR_SWIMGIRL2,metatext,KEEP,Alice the Swim Girl,游泳女爱丽丝,游泳女爱丽丝
+english_metatexts:GLR_CHR_SWIMGIRL3,metatext,KEEP,Emily the Swim Girl,游泳女爱蜜莉,游泳女爱蜜莉
+english_metatexts:GLR_CHR_SWIMGIRL4,metatext,KEEP,Chloe the Swim Girl,克洛伊 游泳女郎,克洛伊 游泳女郎
+english_metatexts:GLR_CHR_SWIMGIRLBUSDRIVER,metatext,FIX,Bus Driver Gertrude,客车司机 Gertrude,巴士司机格特鲁德
+english_metatexts:GLR_CHR_SYLVERIA,metatext,FIX,Sylveria Moonshard,希尔维里亚月亮硬体,希尔维里亚·月之碎片
+english_metatexts:GLR_CHR_TAXICLIENT1,metatext,KEEP,Taxi Client 1,出租车客户 1,出租车客户 1
+english_metatexts:GLR_CHR_TAXICLIENT2,metatext,KEEP,Taxi Client 2,出租车客户2,出租车客户2
+english_metatexts:GLR_CHR_TROY,metatext,POLISH,Troy,特洛伊 特洛伊 特洛伊 特洛伊 特洛伊 特洛伊,特洛伊
+english_metatexts:GLR_CHR_UNICORN,metatext,POLISH,Whiskey,威士忌( 威士忌),威士忌
+english_metatexts:GLR_CHR_VALERIE,metatext,KEEP,Valerie Oberlin,瓦莱丽·奥伯林,瓦莱丽·奥伯林
+english_metatexts:GLR_CHR_VAMPIRE,metatext,FIX,LARPer Vampire,拉普尔吸血鬼,实景角色扮演吸血鬼
+english_metatexts:GLR_CHR_VERA,metatext,FIX,Vera Oberlin,维拉 欧柏林,维拉·奥伯林
+english_metatexts:GLR_CHR_WANDA,metatext,KEEP,Wanda,万达,万达
+english_metatexts:GLR_CHR_WARMWALTER,metatext,KEEP,Warm Walter,温暖的华特,温暖的华特
+english_metatexts:GLR_CHR_WEIRDGRANDPA,metatext,KEEP,Weird Grandpa,奇怪爷爷,奇怪爷爷
+english_metatexts:GLR_CHR_WIFE,metatext,FIX,Wife,老婆 老婆 老婆 老婆 老婆 老婆 老婆 老婆 老婆 老婆,妻子
+english_metatexts:GLR_CHR_WIGHEIST,metatext,FIX,Heisty Wig Dude,威克帅哥,抢劫假发男
+english_metatexts:GLR_CHR_WIGNERD,metatext,FIX,Wig Nerd,维格纳德( Wig Nard),假发宅男
+english_metatexts:GLR_CHR_WOLFPACK,metatext,FIX,Wolfpack,沃尔夫包,狼群
+english_metatexts:GLR_CHR_WOLFSCOTT,metatext,FIX,Wolf Scott,狼头 斯科特,狼人斯科特
+english_metatexts:GLR_CHR_WOLVES,metatext,KEEP,Wolves,野狼们,野狼们
+english_metatexts:GLR_CHR_WORM,metatext,KEEP,Worm,虫子,虫子
+english_metatexts:GLR_CHR_WORMWIFE,metatext,KEEP,Worm Wife,虫子老婆,虫子老婆
+english_metatexts:GLR_CHR_WTFTV,metatext,KEEP,WTF TV,WTF 电视,WTF 电视
+english_metatexts:GLR_CHR_YELLOW,metatext,KEEP,Oz,奥兹,奥兹
+english_metatexts:GLR_CHR_ZOE,metatext,KEEP,Zoe,佐伊,佐伊

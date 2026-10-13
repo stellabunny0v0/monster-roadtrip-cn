@@ -1,0 +1,301 @@
+﻿row_id,event_id,decision,source,before,after
+english_metatexts:GLR_CHR_GRAVEYARDLADY,metatext,KEEP,Graveyard Lady,墓园女郎,墓园女郎
+english_metatexts:GLR_CHR_MELCHORTV,metatext,KEEP,Melchor TV,Melchor 电视,Melchor 电视
+english_metatexts:GLR_CHR_MINDY,metatext,FIX,Mindy,明蒂 明蒂 明蒂 明蒂 明蒂 明蒂 明蒂 明蒂,明蒂
+english_metatexts:GLR_CHR_NORAH,metatext,KEEP,Norah,诺拉,诺拉
+english_metatexts:GLR_CHR_NOTE,metatext,FIX,Dev notes,备注,开发者笔记
+english_metatexts:GLR_CHR_PUMPKIN,metatext,FIX,Jacqueline,杰奎琳 贾奎琳,杰奎琳
+english_metatexts:GLR_CHR_SLIME,metatext,FIX,Doug,道格 道格 道格 道格 道格 道格,道格
+english_metatexts:GLR_SK_GALLERY_SKETCH_BENCH_A,metatext,FIX,Bench Sketches - Juan,法官座椅- Juan,长椅草图 - 胡安
+english_metatexts:GLR_SK_GALLERY_SKETCH_BENCH_A1,metatext,FIX,Bench Sketches - Juan - 1,法官座椅 -- -- 胡安 -- 1,长椅草图 - 胡安 - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_BENCH_A2,metatext,FIX,Bench Sketches - Juan - 2,法官座椅 - Juan - 2,长椅草图 - 胡安 - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_BENCH_B,metatext,FIX,Bench Sketches - Polly,座椅垫- 波莉,长椅草图 - 波莉
+english_metatexts:GLR_SK_GALLERY_SKETCH_BENCH_C,metatext,FIX,Bench Sketches - Aaravi,座椅垫- 阿拉薇,长椅草图 - 阿拉薇
+english_metatexts:GLR_SK_GALLERY_SKETCH_BENCH_C1,metatext,FIX,Bench Sketches - Aaravi - 1,座椅垫- 阿拉薇 - 1,长椅草图 - 阿拉薇 - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_BENCH_C2,metatext,FIX,Bench Sketches - Aaravi - 2,座椅垫- 阿拉薇 - 2,长椅草图 - 阿拉薇 - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_BENCH_D,metatext,FIX,Bench Sketches - Miranda,座椅垫- 米兰达,长椅草图 - 米兰达
+english_metatexts:GLR_SK_GALLERY_SKETCH_BENCH_E,metatext,FIX,Bench Sketches - Zoe,座椅垫- 佐伊,长椅草图 - 佐伊
+english_metatexts:GLR_SK_GALLERY_SKETCH_BENCH_F,metatext,FIX,Bench Sketches Pose Exploration,法官座椅花鞋勘探,长椅姿势设计草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_BENCH_G,metatext,FIX,Bench Sketches Pose Exploration - Amira,法官座椅花鞋勘探 - 阿米拉,长椅姿势设计草图 - 阿米拉
+english_metatexts:GLR_SK_GALLERY_SKETCH_BENCH_H,metatext,FIX,Bench Sketches Pose Exploration - Zoe,法官座椅花鞋勘探 - 佐伊,长椅姿势设计草图 - 佐伊
+english_metatexts:GLR_SK_GALLERY_SKETCH_BENCH_I,metatext,FIX,Bench Concept Exploration,法官概念探索,长椅概念探索
+english_metatexts:GLR_SK_GALLERY_SKETCH_BENCH_J,metatext,FIX,Bench Final Concept,法官最后概念,长椅最终概念设计
+english_metatexts:GLR_SK_GALLERY_SKETCH_BENCH_K,metatext,FIX,Bench Concept Exploration - Panels,座席概念勘探-小组,长椅面板概念探索
+english_metatexts:GLR_SK_GALLERY_SKETCH_BENCH_K1,metatext,FIX,Bench Concept Exploration - Panels - 1,座席概念勘探 -- -- 小组 1,长椅面板概念探索 - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_BENCH_K2,metatext,FIX,Bench Concept Exploration - Panels - 2,组合概念勘探 -- -- 小组 2,长椅面板概念探索 - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_BENCH_L,metatext,FIX,Bench Concept Exploration - Panels (Shape),座席概念勘探 -- -- 小组(形状),长椅面板形状概念探索
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_A,metatext,FIX,Whiskey Iteration Sketches,威士忌重排键,威士忌设计迭代草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_A1,metatext,FIX,Whiskey Iteration Sketches - 1,威士忌重排键 - 1,威士忌设计迭代草图 - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_A2,metatext,FIX,Whiskey Iteration Sketches - 2,威士忌重排 Skets - 2,威士忌设计迭代草图 - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_A3,metatext,FIX,Whiskey Iteration Sketches - 3,威士忌重排键 - 3,威士忌设计迭代草图 - 3
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_A4,metatext,FIX,Whiskey Iteration Sketches - 4,威士忌重排 Sketches - 4,威士忌设计迭代草图 - 4
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_A5,metatext,FIX,Whiskey Iteration Sketches - 5,威士忌重排器- 5个,威士忌设计迭代草图 - 5
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_B,metatext,FIX,Bear Sketches,熊垫,熊草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_C,metatext,FIX,Bellanda Outfits,贝兰达外行,贝兰达服装
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_D,metatext,FIX,Mirror Brian Sketches,镜像 布莱恩 垫子,镜中布莱恩草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_E,metatext,FIX,Cops Sketch,条子夹克,警察草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_F,metatext,FIX,Damien Drag Outfit Sketch,达米恩 拖动外接线,达米恩变装服装草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_G,metatext,FIX,Demon Bride Exploration Sketch,恶魔新娘探索图案,恶魔新娘设计探索草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_H,metatext,FIX,Brigadier Beluga Exploration Sketch,贝卢加探险准将,贝卢加准将设计探索草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_I,metatext,FIX,Brigadier Beluga Color Exploration,贝卢加·克多克准将,贝卢加准将配色探索
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_J,metatext,FIX,Gas Pump AI Exploration Sketches,气泵 AI 勘探床,加油机 AI 设计探索草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_J1,metatext,FIX,Gas Pump AI Exploration Sketches - 1,气泵 AI 勘探床 - 1,加油机 AI 设计探索草图 - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_J2,metatext,FIX,Gas Pump AI Exploration Sketches - 2,气泵 AI 勘探床 - 2,加油机 AI 设计探索草图 - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_K,metatext,FIX,Party Ghosts Exploration Sketches,幽灵探险队,派对幽灵设计探索草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_K1,metatext,FIX,Party Ghosts Exploration Sketches - 1,探索幽灵党 - 1,派对幽灵设计探索草图 - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_K2,metatext,FIX,Party Ghosts Exploration Sketches - 2,探索幽灵党 - 2,派对幽灵设计探索草图 - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_K3,metatext,FIX,Party Ghosts Exploration Sketches - 3,幽灵党探索会 - 3,派对幽灵设计探索草图 - 3
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_K4,metatext,FIX,Party Ghosts Exploration Sketches - 4,幽灵探险队 - 4,派对幽灵设计探索草图 - 4
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_K5,metatext,FIX,Party Ghosts Exploration Sketches - 5,幽灵党探索会 - 5,派对幽灵设计探索草图 - 5
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_L,metatext,FIX,Improv Iguanas Outfit Sketches,即兴蜥蜴外接相机,即兴蜥蜴服装草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_M,metatext,KEEP,Jacqueline Concept Exploration,杰奎琳概念探索,杰奎琳概念探索
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_N,metatext,KEEP,Lab Rats Concept Exploration,实验鼠的概念探索,实验鼠的概念探索
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_N1,metatext,KEEP,Lab Rats Concept Exploration - 1,实验鼠概念探索 - 1,实验鼠概念探索 - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_N2,metatext,KEEP,Lab Rats Concept Exploration - 2,试验鼠概念探索 - 2,试验鼠概念探索 - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_N3,metatext,KEEP,Lab Rats Concept Exploration - 3,试验鼠概念探索-3,试验鼠概念探索-3
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_O,metatext,FIX,Larpers Concept Exloration Sketches,懒惰者概念,实景角色扮演玩家概念探索草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_O1,metatext,FIX,Larpers Concept Exloration Sketches - 1,轮船概念喷出物 - 1,实景角色扮演玩家概念探索草图 - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_O2,metatext,FIX,Larpers Concept Exloration Sketches - 2,懒惰者概念喷出物 - 2,实景角色扮演玩家概念探索草图 - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_P,metatext,FIX,Mamimi Playable Sketches,Maimimi 可玩游戏板,马美美可玩角色草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_Q,metatext,FIX,Mirage Town Characters Sketches,幻影镇人物,幻影镇角色草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_R,metatext,FIX,Glitch Exploration Sketches,Glitch 勘探块,故障设计探索草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_R1,metatext,FIX,Glitch Exploration Sketches - 1,Glitch 勘探床 - 1,故障设计探索草图 - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_R2,metatext,FIX,Glitch Exploration Sketches - 2,Glitch 勘探块 - 2,故障设计探索草图 - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_R3,metatext,FIX,Glitch Exploration Sketches - 3,Glitch 勘探程序表 - 3,故障设计探索草图 - 3
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_R4,metatext,FIX,Glitch Exploration Sketches - 4,Glitch 勘探程序表 - 4,故障设计探索草图 - 4
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_S,metatext,KEEP,Nu Color Exploration,Nu 颜色探索,Nu 颜色探索
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_T,metatext,FIX,Pizza Girl Outfits,披萨女郎出道,披萨女孩服装
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_T1,metatext,FIX,Pizza Girl Outfits - 1,披萨女孩外出 - 1名,披萨女孩服装 - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_T2,metatext,FIX,Pizza Girl Outfits - 2,披萨女孩外出 - 2,披萨女孩服装 - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_T3,metatext,FIX,Pizza Girl Outfits - 3,披萨女孩出道3次,披萨女孩服装 - 3
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_T4,metatext,FIX,Pizza Girl Outfits - 4,披萨女孩外出 - 4,披萨女孩服装 - 4
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_T5,metatext,FIX,Pizza Girl Outfits - 5,披萨女孩外出 - 5,披萨女孩服装 - 5
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_T6,metatext,FIX,Pizza Girl Outfits - 6,披萨女孩外出 - 6个,披萨女孩服装 - 6
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_T7,metatext,FIX,Pizza Girl Outfits - 7,披萨女孩外出 - 7,披萨女孩服装 - 7
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_T8,metatext,FIX,Pizza Girl Outfits - 8,披萨女孩外出 - 8个,披萨女孩服装 - 8
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_T9,metatext,FIX,Pizza Girl Outfits - 9,披萨女孩出道-9,披萨女孩服装 - 9
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_U,metatext,FIX,Pilgrim Exploration Sketches,朝圣者探索点,朝圣者设计探索草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_V,metatext,FIX,Hazel Concept Exploration,Hazel概念探索,海泽尔概念探索
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_V1,metatext,FIX,Hazel Concept Exploration - 1,Hazel概念探索 - 1,海泽尔概念探索 - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_V2,metatext,FIX,Hazel Concept Exploration - 2,Hazel概念探索 - 2,海泽尔概念探索 - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_W,metatext,FIX,Polly and Scott New Models,波莉 财务报告和审定财务报表 斯科特 新模式,波莉与斯科特新模型
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_X,metatext,FIX,Polly Fancy Outfit Exploration,波莉 奇异外形勘探,波莉华丽服装设计探索
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_Y,metatext,FIX,Polly and Scott Metaverse Eyebrows Exploration,波莉 财务报告和审定财务报表 斯科特 Metaverse 眉毛勘探,波莉与斯科特元宇宙眉毛设计探索
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_Z,metatext,KEEP,Scott Sexy Breakfast Lingerie Exploration,斯科特 性感早餐内衣探索,斯科特 性感早餐内衣探索
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_Z1,metatext,KEEP,Scott Sexy Breakfast Lingerie Exploration - 1,斯科特 性感早餐内衣探索 - 1,斯科特 性感早餐内衣探索 - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_Z2,metatext,KEEP,Scott Sexy Breakfast Lingerie Exploration - 2,斯科特 性感早餐内衣探索 - 2,斯科特 性感早餐内衣探索 - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_Z3,metatext,KEEP,Scott Sexy Breakfast Lingerie Exploration - 3,斯科特 性感早餐内衣探索 - 3,斯科特 性感早餐内衣探索 - 3
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_Z4,metatext,KEEP,Scott Sexy Breakfast Lingerie Exploration - 4,斯科特 性感早餐内衣探索 - 4,斯科特 性感早餐内衣探索 - 4
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHARACTERS_ZA,metatext,FIX,Splash Kaboom Model Sketch,喷出 Kaboom 模型缩写,Splash Kaboom 模型草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHAR_ICONS_A,metatext,FIX,Character Icon Sketches - Many Brians,字符图标Sketches - 众多 布莱恩s (中文(简体) ),角色头像草图 - 许多个布莱恩
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHAR_ICONS_B,metatext,FIX,Character Icon Sketches - Non-model NPCs,字符图标 Sketches - 非模型 NPC,角色头像草图 - 无模型 NPC
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHAR_ICONS_C,metatext,FIX,Character Icon Sketches - New Playables,字符图标 Sketches - 新可玩性,角色头像草图 - 新可玩角色
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_A,metatext,FIX,Location Chibis - Farm Sketches,Chibis - 农场商店,地点 Q版草图 - 农场
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_B,metatext,FIX,Location Chibis - Carnival Sketches,奇比斯- 嘉年华滑冰场,地点 Q版草图 - 嘉年华
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_C,metatext,FIX,Location Chibis - Casino Sketches,奇比斯 - 赌场,地点 Q版草图 - 赌场
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_D,metatext,FIX,Location Chibis - Circus Sketches,奇比斯- 马戏团,地点 Q版草图 - 马戏团
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_E,metatext,FIX,Location Chibis - Desert Rave Sketches,Chibis - 沙漠光滑轴,地点 Q版草图 - 沙漠狂欢
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_F,metatext,FIX,Location Chibis - Villain Summit Sketches,奇比斯 - 维拉因峰顶 Sketches,地点 Q版草图 - 反派峰会
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_G,metatext,FIX,Location Spa Sketches,地点 Spa 脚本,地点草图 - 温泉
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_H,metatext,FIX,Location Lake Sketches,地点 斯凯切斯湖,地点草图 - 湖泊
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_I,metatext,FIX,Location Motel Exploration Sketches,地点 Motel 勘探床,地点设计探索草图 - 汽车旅馆
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_I1,metatext,FIX,Location Motel Exploration Sketches - 1,汽车旅馆勘探站 - 1个,地点设计探索草图 - 汽车旅馆 - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_I2,metatext,FIX,Location Motel Exploration Sketches - 2,汽车旅馆勘探站 - 2,地点设计探索草图 - 汽车旅馆 - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_I3,metatext,FIX,Location Motel Exploration Sketches - 3,汽车旅馆勘探站-3,地点设计探索草图 - 汽车旅馆 - 3
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_I4,metatext,FIX,Location Motel Exploration Sketches - 4,汽车旅馆勘探站 - 4,地点设计探索草图 - 汽车旅馆 - 4
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_J,metatext,FIX,Location Chibis - Art Exhibit Sketches,Chibis 位置 - 艺术展览,地点 Q版草图 - 艺术展
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_K,metatext,FIX,Location Chibis - Exploration Sketches,Chibis - 勘探点,地点 Q版设计探索草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_L,metatext,FIX,Location UFO Sketches,位置 UFO 脚本,地点草图 - UFO
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_M,metatext,FIX,Polly & Scott Tech Company Chibis Sketch,波莉 & 斯科特 技术公司Chibis Sketch,波莉与斯科特科技公司 Q版草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_N,metatext,FIX,Desert Rave Chibis Exploration Sketch,沙漠狂野奇比斯探索之旅,沙漠狂欢 Q版设计探索草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_O,metatext,FIX,Location Chibis - Exploration Sketches 2,Chibis - 勘探床2号,地点 Q版设计探索草图 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_P,metatext,FIX,Polly & Scott Tech Company Chibis Sketch 2,波莉 & 斯科特 奇比斯Sketch 2技术公司,波莉与斯科特科技公司 Q版草图 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_Q,metatext,REVIEW,Location Chibis - Dessert Rave Sketch,位置 Chibis - 甜点Rave skitch,地点 Q版草图 - 甜点狂欢
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_R,metatext,FIX,Location Chibis - Zoe Sketches,地点 Chibis - 佐伊 垫子,地点 Q版草图 - 佐伊
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_R1,metatext,FIX,Location Chibis - Zoe Sketches - 1,地点 Chibis - 佐伊 垫子 - 1,地点 Q版草图 - 佐伊 - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_R2,metatext,FIX,Location Chibis - Zoe Sketches - 2,地点 Chibis - 佐伊 垫子 - 2,地点 Q版草图 - 佐伊 - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_R3,metatext,FIX,Location Chibis - Zoe Sketches - 3,地点 Chibis - 佐伊 垫子 - 3个,地点 Q版草图 - 佐伊 - 3
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_S,metatext,FIX,Location Chibis - Glitch Sketches,位置 Chibis - Gliitch 滑块,地点 Q版草图 - 故障
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_S1,metatext,FIX,Location Chibis - Glitch Sketches - 1,奇比斯 - Gliitch 滑板 - 1,地点 Q版草图 - 故障 - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_S2,metatext,FIX,Location Chibis - Glitch Sketches - 2,奇比斯 - Gliitch 滑板 - 2,地点 Q版草图 - 故障 - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_S3,metatext,FIX,Location Chibis - Glitch Sketches - 3,奇比斯 - 格利奇斯克特切斯 - 3,地点 Q版草图 - 故障 - 3
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_T,metatext,FIX,Location Chibis - Hazel Sketches,奇比斯位置 - Hazel Sketches,地点 Q版草图 - 海泽尔
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_T1,metatext,FIX,Location Chibis - Hazel Sketches - 1,奇比斯(Chibis) - Hazel Sketches (一) - 1,地点 Q版草图 - 海泽尔 - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_T2,metatext,FIX,Location Chibis - Hazel Sketches - 2,Chibis - Hazel Sketches - 2号地点,地点 Q版草图 - 海泽尔 - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_U,metatext,FIX,Location Chibis - Hazel Sketches 2,奇比斯 - 海泽尔斯克特斯 2号,地点 Q版草图 - 海泽尔 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_U1,metatext,FIX,Location Chibis - Hazel Sketches 2 - 1,奇比斯 - 海泽尔斯克特斯 2 - 1,地点 Q版草图 - 海泽尔 2 - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_U2,metatext,FIX,Location Chibis - Hazel Sketches 2 - 2,奇比斯 - 海泽尔斯克特斯 2 - 2,地点 Q版草图 - 海泽尔 2 - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_V,metatext,FIX,Location Chibis - Juan Sketches,奇比斯 - 胡安·斯凯切斯,地点 Q版草图 - 胡安
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_W,metatext,FIX,Location Chibis - Juan Sketches 2,奇比斯 - 胡安·斯克切斯 2号,地点 Q版草图 - 胡安 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_X,metatext,FIX,Location Chibis - Juan Sketches 3,奇比斯-胡安·斯克切斯 3,地点 Q版草图 - 胡安 3
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_Y,metatext,FIX,Location Chibis - Additional Chars Exploration,Chibis - 其他字符勘探,地点 Q版其他角色设计探索
+english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_Z,metatext,FIX,Location Chibis - Additional Chars Exploration 2,Chibis - 附加字符勘探 2,地点 Q版其他角色设计探索 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_DATE_A,metatext,FIX,Date Sketches - Pose Exploration,日期 Sketches - Pose 勘探,约会姿势设计草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_DATE_A1,metatext,FIX,Date Sketches - Pose Exploration - 1,日期 Sketches - Pose 勘探 - 1,约会姿势设计草图 - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_DATE_A2,metatext,FIX,Date Sketches - Pose Exploration - 2,日期 Sketches - Pose 勘探 - 2,约会姿势设计草图 - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_DATE_B,metatext,FIX,Date Sketches - Concept Exploration,日期 Sketches - 概念探索,约会概念探索草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_DATE_C,metatext,FIX,Date Sketches - Playable Characters,日期 Sketches - 可播放字符,约会草图 - 可玩角色
+english_metatexts:GLR_SK_GALLERY_SKETCH_DATE_D,metatext,FIX,Date Sketches - Polly & Scott,日期滑块 - 波莉 & 斯科特,约会草图 - 波莉与斯科特
+english_metatexts:GLR_SK_GALLERY_SKETCH_DESTINATIONS_A,metatext,FIX,Destination Sketches - Vice City,目的地滑板 - 副城市,目的地草图 - 罪恶之城
+english_metatexts:GLR_SK_GALLERY_SKETCH_DESTINATIONS_B,metatext,FIX,Destination Sketches - Dreamed Dominions (Concept),目标花样- 梦想的占地( 概念),目的地草图 - 梦境领地（概念）
+english_metatexts:GLR_SK_GALLERY_SKETCH_DESTINATIONS_B1,metatext,FIX,Destination Sketches - Dreamed Dominions (Concept) - 1,目标片 -- -- 梦想中的统治者(概念) -- -- 1,目的地草图 - 梦境领地（概念） - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_DESTINATIONS_B2,metatext,FIX,Destination Sketches - Dreamed Dominions (Concept) - 2,目标片 -- -- 梦想中的统治者(概念) -- -- 2,目的地草图 - 梦境领地（概念） - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_DESTINATIONS_B3,metatext,FIX,Destination Sketches - Dreamed Dominions (Concept) - 3,目标花样-梦想中的占地(概念)-3,目的地草图 - 梦境领地（概念） - 3
+english_metatexts:GLR_SK_GALLERY_SKETCH_DESTINATIONS_B4,metatext,FIX,Destination Sketches - Dreamed Dominions (Concept) - 4,目的地花样-梦幻之地(概念)-4,目的地草图 - 梦境领地（概念） - 4
+english_metatexts:GLR_SK_GALLERY_SKETCH_DESTINATIONS_C,metatext,FIX,Destination Sketches - Dreamed Dominions,目标 sketches - 有梦想的统治者,目的地草图 - 梦境领地
+english_metatexts:GLR_SK_GALLERY_SKETCH_DESTINATIONS_C1,metatext,FIX,Destination Sketches - Dreamed Dominions - 1,目的地 Sketches - 梦想中的统治者 - 1,目的地草图 - 梦境领地 - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_DESTINATIONS_C2,metatext,FIX,Destination Sketches - Dreamed Dominions - 2,目标滑块 - 梦想的统治者 - 2,目的地草图 - 梦境领地 - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_DESTINATIONS_C3,metatext,FIX,Destination Sketches - Dreamed Dominions - 3,目的地滑块 - 梦想的统治者 - 3,目的地草图 - 梦境领地 - 3
+english_metatexts:GLR_SK_GALLERY_SKETCH_DESTINATIONS_C4,metatext,FIX,Destination Sketches - Dreamed Dominions - 4,目标片 -- -- 梦想中的统治者 -- -- 4,目的地草图 - 梦境领地 - 4
+english_metatexts:GLR_SK_GALLERY_SKETCH_DESTINATIONS_C5,metatext,FIX,Destination Sketches - Dreamed Dominions - 5,目标片- 梦想的统治者 - 5,目的地草图 - 梦境领地 - 5
+english_metatexts:GLR_SK_GALLERY_SKETCH_DESTINATIONS_D,metatext,FIX,Destination Posters - Exploration,目的地海报 - 勘探,目的地海报设计探索
+english_metatexts:GLR_SK_GALLERY_SKETCH_DESTINATIONS_E,metatext,FIX,Destination Sketches - Cryptid Prom,目标 Sketches - Cryptid Prom,目的地草图 - 神秘生物舞会
+english_metatexts:GLR_SK_GALLERY_SKETCH_DESTINATIONS_E1,metatext,FIX,Destination Sketches - Cryptid Prom - 1,目标 Sketches - Cryptid Prom - 1,目的地草图 - 神秘生物舞会 - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_DESTINATIONS_E2,metatext,FIX,Destination Sketches - Cryptid Prom - 2,目的地 Sketches - 密码 Prom - 2,目的地草图 - 神秘生物舞会 - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_DESTINATIONS_E3,metatext,FIX,Destination Sketches - Cryptid Prom - 3,目的地 Sketches - Cryptid Prom - 3,目的地草图 - 神秘生物舞会 - 3
+english_metatexts:GLR_SK_GALLERY_SKETCH_DESTINATIONS_F,metatext,FIX,Destination Sketches - Merkingdom,目标脚本 - 合并,目的地草图 - 人鱼王国
+english_metatexts:GLR_SK_GALLERY_SKETCH_DESTINATIONS_F1,metatext,FIX,Destination Sketches - Merkingdom - 1,目标滑块 - 默金多姆 - 1,目的地草图 - 人鱼王国 - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_DESTINATIONS_F2,metatext,FIX,Destination Sketches - Merkingdom - 2,目标滑板 - 默金多姆 - 2,目的地草图 - 人鱼王国 - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_DESTINATIONS_F3,metatext,FIX,Destination Sketches - Merkingdom - 3,目标滑板 - 默金多姆 - 3,目的地草图 - 人鱼王国 - 3
+english_metatexts:GLR_SK_GALLERY_SKETCH_DESTINATIONS_G,metatext,FIX,Destination Icon Sketches,目标图标,目的地图标草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_FAILURE_A,metatext,FIX,Failure Ending Sketches - Brian (Exploration),失败结束滑块 - 布莱恩 (探讨),失败结局草图 - 布莱恩（设计探索）
+english_metatexts:GLR_SK_GALLERY_SKETCH_FAILURE_B,metatext,FIX,Failure Ending Sketches - Juan (Exploration),失败结束 Sketches - Juan( 探索),失败结局草图 - 胡安（设计探索）
+english_metatexts:GLR_SK_GALLERY_SKETCH_GAME_ICONS_A,metatext,FIX,Roadtrip Logo Exploration,路由日志勘探,Roadtrip 标志设计探索
+english_metatexts:GLR_SK_GALLERY_SKETCH_GAME_ICONS_A1,metatext,FIX,Roadtrip Logo Exploration - 1,路由日志勘探 - 1,Roadtrip 标志设计探索 - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_GAME_ICONS_A2,metatext,FIX,Roadtrip Logo Exploration - 2,路由日志勘探 - 2,Roadtrip 标志设计探索 - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_GAME_ICONS_A3,metatext,FIX,Roadtrip Logo Exploration - 3,路由日志勘探-3,Roadtrip 标志设计探索 - 3
+english_metatexts:GLR_SK_GALLERY_SKETCH_GAME_ICONS_A4,metatext,FIX,Roadtrip Logo Exploration - 4,路由日志勘探 - 4,Roadtrip 标志设计探索 - 4
+english_metatexts:GLR_SK_GALLERY_SKETCH_GAME_ICONS_B,metatext,FIX,Game Icons Sketches,游戏图标,游戏图标草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_GAME_ICONS_C,metatext,FIX,Resource Icons Sketches,资源图标,资源图标草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_GAME_OVER_A,metatext,FIX,Game Over First Concept,游戏超越第一概念,游戏结束初版概念设计
+english_metatexts:GLR_SK_GALLERY_SKETCH_GAME_OVER_B,metatext,FIX,Game Over Exploration Sketches,游戏超越探索棋盘,游戏结束设计探索草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_GAME_OVER_C,metatext,FIX,Game Over Sketches,游戏超越棋盘,游戏结束草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_GAME_OVER_C1,metatext,FIX,Game Over Sketches - 1,游戏过滑板 - 1,游戏结束草图 - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_GAME_OVER_C2,metatext,FIX,Game Over Sketches - 2,游戏超越棋盘 - 2,游戏结束草图 - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_GAME_OVER_D,metatext,FIX,Game Over Sketches - Other,游戏超越棋盘 - 其他,游戏结束草图 - 其他
+english_metatexts:GLR_SK_GALLERY_SKETCH_ITEMS_A,metatext,FIX,Map Billboards Sketches,地图告示牌,地图告示牌草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_ITEMS_B,metatext,FIX,Map Billboards Shape Sketches,地图告示牌,地图告示牌形状草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_ITEMS_C,metatext,FIX,Map Mountains Sketches,地图山,地图山脉草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_ITEMS_D,metatext,FIX,Arcade Sketches,拱门花纹,街机草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_ITEMS_E,metatext,FIX,Hot Sauce Sketches,热酱饼,辣酱草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_ITEMS_F,metatext,FIX,Prank Liam Art Iterations,恶作剧 利亚姆 艺术迭代,恶作剧利亚姆画作迭代
+english_metatexts:GLR_SK_GALLERY_SKETCH_ITEMS_G,metatext,FIX,Butts Painting Iteration,Butts 绘画迭代,屁股画作迭代
+english_metatexts:GLR_SK_GALLERY_SKETCH_ITEMS_H,metatext,FIX,Jerry Basement Sketch,杰里·贝斯克特(Jerry Basement),贾利地下室草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_ITEMS_I,metatext,FIX,Car Mixtapes Exploration Sketches,汽车混合磁盘勘探,车载混音带设计探索草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_ITEMS_I1,metatext,FIX,Car Mixtapes Exploration Sketches - 1,汽车混合磁盘 勘探床 - 1,车载混音带设计探索草图 - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_ITEMS_I2,metatext,FIX,Car Mixtapes Exploration Sketches - 2,汽车混合磁盘 勘探床 - 2,车载混音带设计探索草图 - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_ITEMS_J,metatext,FIX,Hole Room Background Sketch,洞室背景缩写,洞穴房间背景草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_ITEMS_K,metatext,FIX,Items Exploration Sketches,勘探项目,物品设计探索草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_ITEMS_L,metatext,FIX,Tarot Card Sketches,塔罗牌片,塔罗牌草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_ITEMS_M,metatext,FIX,Player Tarot Card Sketches,玩家塔罗牌片,玩家塔罗牌草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_ITEMS_N,metatext,FIX,Tarot Card Sketches 2,塔罗牌牌 2,塔罗牌草图 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_ITEMS_O,metatext,FIX,Items Exploration Sketches 2,勘探项目 2,物品设计探索草图 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_ITEMS_O1,metatext,FIX,Items Exploration Sketches 2 - 1,勘探项目. 2 - 1,物品设计探索草图 2 - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_ITEMS_O2,metatext,FIX,Items Exploration Sketches 2 - 2,勘探项目 2 - 2,物品设计探索草图 2 - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_ITEMS_P,metatext,FIX,Fake Polly & Scott Sketch,假话 波莉 & 斯科特 缩写,假波莉与假斯科特草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_LOCATION2D_A,metatext,FIX,Location Sketches - 2D,位置 Skets - 2D,地点草图 - 2D
+english_metatexts:GLR_SK_GALLERY_SKETCH_LOCATION2D_B,metatext,FIX,Location Exploration - Wig Museum,地点勘探-Wig博物馆,地点设计探索 - 假发博物馆
+english_metatexts:GLR_SK_GALLERY_SKETCH_LOCATION2D_C,metatext,FIX,Location Chibis Exploration,奇比斯勘探,地点 Q版设计探索
+english_metatexts:GLR_SK_GALLERY_SKETCH_LOCATION2D_D,metatext,FIX,Location Chibis Exploration - Ranch,奇比斯勘探 -- -- 牧场,地点 Q版设计探索 - 牧场
+english_metatexts:GLR_SK_GALLERY_SKETCH_LOCATION2D_E,metatext,FIX,Location Chibis Exploration - Farm,Chibis 勘探 - 农场,地点 Q版设计探索 - 农场
+english_metatexts:GLR_SK_GALLERY_SKETCH_LOCATION3D_A,metatext,FIX,Location Sketches - 3D,位置 Sketches - 三维,地点草图 - 3D
+english_metatexts:GLR_SK_GALLERY_SKETCH_LOCATION3D_A1,metatext,FIX,Location Sketches - 3D - 1,地盘 - 3D - 1,地点草图 - 3D - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_LOCATION3D_A2,metatext,FIX,Location Sketches - 3D - 2,位置 3D - 2,地点草图 - 3D - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_LOCATION3D_A3,metatext,FIX,Location Sketches - 3D - 3,地盘 - 3D - 3,地点草图 - 3D - 3
+english_metatexts:GLR_SK_GALLERY_SKETCH_MAP_A,metatext,FIX,Map Billboards Sketches,地图告示牌,地图告示牌草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_MAP_B,metatext,FIX,Map Connectors Creation,地图连接器创建,地图连接部件制作
+english_metatexts:GLR_SK_GALLERY_SKETCH_MAP_C,metatext,FIX,Map 3D Locations Exploration,地图 三维地点勘探,地图 3D 地点设计探索
+english_metatexts:GLR_SK_GALLERY_SKETCH_MAP_D,metatext,FIX,Map Props Sketches,地图道具,地图道具草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_MAP_E,metatext,FIX,Map Props Sketches 2,地图道具 2,地图道具草图 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_MAP_F,metatext,FIX,Map Props Final,映射道具终局,地图道具定稿
+english_metatexts:GLR_SK_GALLERY_SKETCH_MAP_F1,metatext,KEEP,Map Props Final - 1,最终地图道具 - 1,最终地图道具 - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_MAP_F2,metatext,FIX,Map Props Final - 2,地图道具终局 - 2,地图道具定稿 - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_MAP_F3,metatext,FIX,Map Props Final - 3,地图道具终局 - 3,地图道具定稿 - 3
+english_metatexts:GLR_SK_GALLERY_SKETCH_MAP_F4,metatext,KEEP,Map Props Final - 4,最终地图道具 - 4,最终地图道具 - 4
+english_metatexts:GLR_SK_GALLERY_SKETCH_MAP_G,metatext,FIX,Destination Icons Creation,目标图标创建,目的地图标制作
+english_metatexts:GLR_SK_GALLERY_SKETCH_MAP_H,metatext,FIX,Map Location Workflow,地图位置工作流程,地图地点制作流程
+english_metatexts:GLR_SK_GALLERY_SKETCH_MAP_I,metatext,FIX,Map Layouts Exploration,地图布局勘探,地图布局设计探索
+english_metatexts:GLR_SK_GALLERY_SKETCH_MAP_J,metatext,FIX,Map Layouts Exploration 2,地图布局 勘探 2,地图布局设计探索 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_MAP_K,metatext,FIX,Map Layouts Exploration 3,地图布局勘探 3,地图布局设计探索 3
+english_metatexts:GLR_SK_GALLERY_SKETCH_MVP_A,metatext,FIX,MVP Ending - Veranotone Sketches,MVP 结束 - 维拉空脚板,MVP 结局草图 - Veranotone
+english_metatexts:GLR_SK_GALLERY_SKETCH_MVP_B,metatext,FIX,MVP Ending - Dreamed Dominions Exploration Sketches,MVP Ending -- -- 梦想中的统治者探索点,MVP 结局设计探索草图 - 梦境领地
+english_metatexts:GLR_SK_GALLERY_SKETCH_MVP_C,metatext,FIX,MVP Ending - Dreamed Dominions Juan Sketch,MVP Ending - 梦想中的主角胡安·斯克奇(英语:Juan Skitch),MVP 结局草图 - 梦境领地的胡安
+english_metatexts:GLR_SK_GALLERY_SKETCH_MVP_D,metatext,FIX,MVP Ending - Dreamed Dominions Zoe Sketches,MVP 结束 - 梦想中的统治者 佐伊 垫子,MVP 结局草图 - 梦境领地的佐伊
+english_metatexts:GLR_SK_GALLERY_SKETCH_MVP_E,metatext,FIX,MVP Ending - Dreamed Dominions Hazel Sketch,MVP Ending - 梦想中的统治者 Hazel Skitch,MVP 结局草图 - 梦境领地的海泽尔
+english_metatexts:GLR_SK_GALLERY_SKETCH_MVP_F,metatext,FIX,MVP Ending - Cryptid Prom Juan Exploration Sketch,MVP Ending - Cryptid Prom Juan Exploration Sktch (中文(简体) ).,MVP 结局设计探索草图 - 神秘生物舞会的胡安
+english_metatexts:GLR_SK_GALLERY_SKETCH_MVP_G,metatext,FIX,MVP Ending - Cryptid Prom Vicky Exploration Sketch,MVP 结束 - 加密 Prom 维姬 勘探线程,MVP 结局设计探索草图 - 神秘生物舞会的维姬
+english_metatexts:GLR_SK_GALLERY_SKETCH_MVP_H,metatext,FIX,MVP Ending - Merkingdom Glitch Exploration Sketches,MVP 结束 - 默金多姆·格利奇勘探,MVP 结局设计探索草图 - 人鱼王国的故障
+english_metatexts:GLR_SK_GALLERY_SKETCH_MVP_I,metatext,FIX,MVP Ending - Merkingdom Oz Explorations Sketches,MVP 结束 - 默金多姆 奥兹 勘探,MVP 结局设计探索草图 - 人鱼王国的奥兹
+english_metatexts:GLR_SK_GALLERY_SKETCH_MVP_J,metatext,FIX,MVP Ending - Merkingdom Juan Exploration Sketches,MVP Ending - Merkingdom Juan 勘探地块,MVP 结局设计探索草图 - 人鱼王国的胡安
+english_metatexts:GLR_SK_GALLERY_SKETCH_MVP_K,metatext,FIX,MVP Ending - Merkingdom Vicky Exploration Sketches,MVP 结束 - 默金多姆 维姬 勘探块,MVP 结局设计探索草图 - 人鱼王国的维姬
+english_metatexts:GLR_SK_GALLERY_SKETCH_MVP_L,metatext,FIX,MVP Ending - Knife Land Exploration Sketches,MVP Ending -- -- 刀地勘探床,MVP 结局设计探索草图 - 刀子乐园
+english_metatexts:GLR_SK_GALLERY_SKETCH_MVP_L1,metatext,FIX,MVP Ending - Knife Land Exploration Sketches - 1,"MVP "" 结束 -- -- 刀地勘探 "" 1",MVP 结局设计探索草图 - 刀子乐园 - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_MVP_L2,metatext,FIX,MVP Ending - Knife Land Exploration Sketches - 2,MVP 结束 -- -- 刀地勘探 -- -- 2,MVP 结局设计探索草图 - 刀子乐园 - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_MVP_M,metatext,FIX,MVP Ending - Knife Land Exploration Sketches - 3,MVP 结束 -- -- 刀地勘探床 -- -- 3,MVP 结局设计探索草图 - 刀子乐园 - 3
+english_metatexts:GLR_SK_GALLERY_SKETCH_MVP_N,metatext,FIX,MVP Ending - Vice City Exploration Sketches,MVP Ending - 副城市勘探站,MVP 结局设计探索草图 - 罪恶之城
+english_metatexts:GLR_SK_GALLERY_SKETCH_MVP_O,metatext,FIX,MVP Ending - Vice City Juan Exploration Sketches,MVP Ending -- -- 副城市Juan勘探公司,MVP 结局设计探索草图 - 罪恶之城的胡安
+english_metatexts:GLR_SK_GALLERY_SKETCH_MVP_P,metatext,FIX,MVP Ending - Heaven,MVP 结束 - 天堂,MVP 结局 - 天堂
+english_metatexts:GLR_SK_GALLERY_SKETCH_NON_WIDE_A,metatext,FIX,Kawaii 8-Ball Sketches,川井8号篮板,可爱 8号球草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_NON_WIDE_B,metatext,FIX,Anti-Wedding Crew Sketches,反婚礼机组人员,反婚礼小队草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_NON_WIDE_B1,metatext,FIX,Anti-Wedding Crew Sketches - 1,反婚礼机组人员- 1名,反婚礼小队草图 - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_NON_WIDE_B2,metatext,FIX,Anti-Wedding Crew Sketches - 2,反婚礼机组人员 -- -- 2名,反婚礼小队草图 - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_NON_WIDE_C,metatext,FIX,Birds Inside Your Soul Sketches,灵魂之花里有鸟,灵魂里的鸟儿草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_NON_WIDE_D,metatext,FIX,Buff Slimes Sketch,Buff Slimes 缩写,肌肉史莱姆草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_NON_WIDE_E,metatext,FIX,Milkshake Sketches,奶昔摇篮,奶昔草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_NON_WIDE_F,metatext,FIX,Mindguards Sketch,护心花纹,头脑护卫草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_NON_WIDE_G,metatext,FIX,Shibari Morty Sketch,希巴里·莫蒂·斯凯奇,绳缚莫蒂草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_NON_WIDE_H,metatext,FIX,Crystal Rats Sketch,晶体鼠标图案,水晶鼠草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_NON_WIDE_I,metatext,FIX,Car Racers Sketches,赛车选手,赛车手草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_NON_WIDE_J,metatext,FIX,Drag Queen Racers Sketches,拖动皇后赛车,变装皇后赛车手草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_NON_WIDE_J1,metatext,FIX,Drag Queen Racers Sketches - 1,拖动后赛车手 Skets - 1,变装皇后赛车手草图 - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_NON_WIDE_J2,metatext,FIX,Drag Queen Racers Sketches - 2,拖动皇后赛车手 Sketches - 2,变装皇后赛车手草图 - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_NON_WIDE_K,metatext,FIX,Splash Kaboom Exploration Sketches,Splash Kaboom 勘探块,Splash Kaboom 设计探索草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_NON_WIDE_L,metatext,FIX,Puppet Show Sketches,布偶显示套接字,木偶剧草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_NON_WIDE_M,metatext,FIX,Colonel Grumpo and Simon Soups Background Sketches,格鲁姆波上校和西蒙·苏普斯背景,格伦波上校与 Simon Soups 背景草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_NON_WIDE_N,metatext,KEEP,Taxi License Storyboards,出租车牌照故事板,出租车牌照故事板
+english_metatexts:GLR_SK_GALLERY_SKETCH_NON_WIDE_N1,metatext,KEEP,Taxi License Storyboards - 1,出租车牌照故事板 - 1,出租车牌照故事板 - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_NON_WIDE_N2,metatext,KEEP,Taxi License Storyboards - 2,出租车牌照故事板 - 2,出租车牌照故事板 - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_NON_WIDE_N3,metatext,KEEP,Taxi License Storyboards - 3,计程车驾照故事板 - 3,计程车驾照故事板 - 3
+english_metatexts:GLR_SK_GALLERY_SKETCH_OK_ENDING_A,metatext,FIX,Player Endings Exploration Sketches,玩家结束探索棋子,玩家结局设计探索草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_REST_STOP_A,metatext,FIX,Hitchhikers Bus Stop Chibis Sketches -1,Hitchhikers 公共汽车 停止Chibis Sketches - 1,搭车客巴士站 Q版草图 - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_REST_STOP_B,metatext,FIX,Hitchhikers Bus Stop Chibis Sketches - 2,Hitchhikers 公共汽车 停止Chibis Sketches - 2,搭车客巴士站 Q版草图 - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_REST_STOP_C,metatext,FIX,Destination Posters Exploration Sketches,目的地海报,目的地海报设计探索草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_REST_STOP_C1,metatext,FIX,Destination Posters Exploration Sketches - 1,目标海报 勘探床 - 1,目的地海报设计探索草图 - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_REST_STOP_C2,metatext,FIX,Destination Posters Exploration Sketches - 2,目的地海报 勘探床 - 2,目的地海报设计探索草图 - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_REST_STOP_C3,metatext,FIX,Destination Posters Exploration Sketches - 3,目标海报 勘探床- 3,目的地海报设计探索草图 - 3
+english_metatexts:GLR_SK_GALLERY_SKETCH_REST_STOP_C4,metatext,FIX,Destination Posters Exploration Sketches - 4,目标海报 勘探床 - 4,目的地海报设计探索草图 - 4
+english_metatexts:GLR_SK_GALLERY_SKETCH_REST_STOP_D,metatext,FIX,Car Actions Exploration Sketches,汽车行动勘探,车内行动设计探索草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_REST_STOP_E,metatext,FIX,Pitstop Exploration Sketches,Pitstop 勘探块,休息站设计探索草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_REST_STOP_E1,metatext,FIX,Pitstop Exploration Sketches - 1,Pitstop 勘探床 - 1,休息站设计探索草图 - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_REST_STOP_E2,metatext,FIX,Pitstop Exploration Sketches - 2,Pitstop 勘探站 - 2,休息站设计探索草图 - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_REST_STOP_E3,metatext,FIX,Pitstop Exploration Sketches - 3,Pitstop 勘探站 - 3,休息站设计探索草图 - 3
+english_metatexts:GLR_SK_GALLERY_SKETCH_REST_STOP_E4,metatext,FIX,Pitstop Exploration Sketches - 4,Pitstop 勘探站 - 4,休息站设计探索草图 - 4
+english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_A,metatext,FIX,Battle Royale Background Sketches,Battle Royale 背景图,大逃杀背景草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_A1,metatext,FIX,Battle Royale Background Sketches - 1,Battle Royale 背景 Sketches - 1,大逃杀背景草图 - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_A2,metatext,FIX,Battle Royale Background Sketches - 2,Battle Royale 背景 Sketches - 2,大逃杀背景草图 - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_A3,metatext,FIX,Battle Royale Background Sketches - 3,Battle Royale 背景图 - 3,大逃杀背景草图 - 3
+english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_A4,metatext,FIX,Battle Royale Background Sketches - 4,Battle Royale 背景 Sketches - 4,大逃杀背景草图 - 4
+english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_B,metatext,FIX,Table Seat Bakground Monsters Sketches,桌椅 巴克地怪兽,餐桌座位背景怪物草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_C,metatext,FIX,Fight Kaiju Background Sketches,与开州背景战斗,对战巨兽背景草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_D,metatext,FIX,Kaiju Sketches,凯朱·克特切斯(Kaiju Skets),巨兽草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_E,metatext,FIX,Cryptid Background,密码背景,神秘生物背景
+english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_F,metatext,FIX,Punch Someone Background Shape Exploration,Punch Someone 背景形状探索,揍人背景形状设计探索
+english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_G,metatext,FIX,Spa Background Sketch,Spa 背景缩写,温泉背景草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_H,metatext,FIX,Spa Background Moods Sketches,Spa 背景杂耍游戏,温泉背景氛围草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_I,metatext,FIX,Spa Background Moods Sketches 2,斯帕背景迷幻片 2,温泉背景氛围草图 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_I1,metatext,FIX,Spa Background Moods Sketches 2 - 1,Spa 背景杂音 2 - 1,温泉背景氛围草图 2 - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_I2,metatext,FIX,Spa Background Moods Sketches 2 - 2,斯帕背景迷幻片 2 - 2,温泉背景氛围草图 2 - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_J,metatext,FIX,Hell Meeting Exploration Sketches,地狱相会 探索,地狱会议设计探索草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_J1,metatext,FIX,Hell Meeting Exploration Sketches - 1,地狱之会 探索会 - 1,地狱会议设计探索草图 - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_J2,metatext,FIX,Hell Meeting Exploration Sketches - 2,地狱会探索会 - 2个,地狱会议设计探索草图 - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_L,metatext,FIX,Hell Meeting Sketches,地狱相会,地狱会议草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_M,metatext,REVIEW,Damien Dads Hostage Sketches,达米恩 父亲 人质,达米恩的爸爸们：人质草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_M1,metatext,REVIEW,Damien Dads Hostage Sketches - 1,达米恩 父亲 人质 1名,达米恩的爸爸们：人质草图 - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_M2,metatext,REVIEW,Damien Dads Hostage Sketches - 2,达米恩 父亲 人质 - 2名,达米恩的爸爸们：人质草图 - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_M3,metatext,REVIEW,Damien Dads Hostage Sketches - 3,达米恩 父亲 人质 - 3名,达米恩的爸爸们：人质草图 - 3
+english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_N,metatext,FIX,Convention Backgrounds Sketch,《公约》背景,展会背景草图
+english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_O,metatext,FIX,Jumpscare Concept Exploration,跳跃式概念探索,突发惊吓概念探索
+english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_P,metatext,FIX,Jumpscare Iteration,跳动迭代,突发惊吓迭代
+english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_P1,metatext,FIX,Jumpscare Iteration - 1,跳跃式迭代 - 1,突发惊吓迭代 - 1
+english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_P2,metatext,FIX,Jumpscare Iteration - 2,跳跃式迭代 - 2,突发惊吓迭代 - 2
+english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_P3,metatext,FIX,Jumpscare Iteration - 3,跳跃式迭代 - 3,突发惊吓迭代 - 3

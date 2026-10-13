@@ -1,0 +1,271 @@
+﻿row_id,event_id,decision,source,before,after
+english_metatexts:DM2_CRYPTID_CONVENTION_LOCKED,metatext,FIX,Bond with someone who loves a juicy story,邦德和喜欢多汁故事的人在一起,与喜欢精彩八卦的人建立感情
+english_metatexts:DM2_CRYPTID_CONVENTION_UNLOCKED,metatext,FIX,Bond with Moss Mann,与莫斯·曼(Moss Mann)的债券,与莫斯·曼建立感情
+english_metatexts:DM2_MAGICAL_LAND_LOCKED,metatext,FIX,Bond with someone who's ready for adventure,邦德和准备冒险的人在一起,与准备好冒险的人建立感情
+english_metatexts:DM2_MAGICAL_LAND_UNLOCKED,metatext,FIX,Bond with Aaravi,键与 阿拉薇,与阿拉薇建立感情
+english_metatexts:DM2_MERKINGDOM_LOCKED,metatext,FIX,Bond with someone who knows fancy banquet etiquette,跟个懂宴会礼仪的人在一起 我,与熟悉高级宴会礼仪的人建立感情
+english_metatexts:DM2_MERKINGDOM_UNLOCKED,metatext,FIX,Bond with Miranda,键与 米兰达,与米兰达建立感情
+english_metatexts:DM2_MUSIC_FESTIVAL_LOCKED,metatext,POLISH,Bond with someone with impeccable music taste,和有音乐品味的人在一起,与音乐品味无可挑剔的人建立感情
+english_metatexts:DM2_MUSIC_FESTIVAL_UNLOCKED,metatext,FIX,Bond with Liam,键与 利亚姆,与利亚姆建立感情
+english_metatexts:DM2_THEME_PARK_LOCKED,metatext,FIX,Bond with someone who's all about danger and knives,和一个有危险和刀子的人在一起,与热爱危险和刀子的人建立感情
+english_metatexts:DM2_THEME_PARK_UNLOCKED,metatext,FIX,Bond with Damien,键与 达米恩,与达米恩建立感情
+english_metatexts:DM2_VICE_CITY_LOCKED,metatext,FIX,Bond with someone who's all about shady ways of making money,邦德 和那些搞鬼赚钱的人在一起 我,与精通灰色赚钱手段的人建立感情
+english_metatexts:DM2_VICE_CITY_UNLOCKED,metatext,FIX,Bond with Vera,键与 维拉,与维拉建立感情
+english_metatexts:DM3_CRYPTID_CONVENTION_LOCKED,metatext,KEEP,???,???,???
+english_metatexts:DM3_CRYPTID_CONVENTION_UNLOCKED,metatext,FIX,Get some cryptids ready for their big day,准备一些密码 迎接他们的大日子,帮助神秘生物们迎接重要的一天
+english_metatexts:DM3_MAGICAL_LAND_LOCKED,metatext,KEEP,???,???,???
+english_metatexts:DM3_MAGICAL_LAND_UNLOCKED,metatext,FIX,Recruit a party for an epic adventure,征集一个派对 一场史诗般的冒险,组建小队，展开史诗冒险
+english_metatexts:DM3_MERKINGDOM_LOCKED,metatext,KEEP,???,???,???
+english_metatexts:DM3_MERKINGDOM_UNLOCKED,metatext,POLISH,Help a knight in his many quests,帮助一个骑士 在他的众多追求,协助一位骑士完成各种任务
+english_metatexts:DM3_MUSIC_FESTIVAL_LOCKED,metatext,KEEP,???,???,???
+english_metatexts:DM3_MUSIC_FESTIVAL_UNLOCKED,metatext,FIX,Gather everything you need to PARTY!,收集所有你需要的派对!,凑齐开派对所需的一切！
+english_metatexts:DM3_THEME_PARK_LOCKED,metatext,KEEP,???,???,???
+english_metatexts:DM3_THEME_PARK_UNLOCKED,metatext,POLISH,Aid three charming duos in their journeys,在旅途中援助三个迷人的双人,帮助三对迷人的搭档踏上旅程
+english_metatexts:DM3_VICE_CITY_LOCKED,metatext,KEEP,???,???,???
+english_metatexts:DM3_VICE_CITY_UNLOCKED,metatext,FIX,Bend the law to your will and trust your luck,顺从你的意志 相信自己的运气,让法律为你服务，再信一把自己的运气
+english_metatexts:DTT_CRYPTID_CONVENTION,metatext,FIX,Cryptid Prom,密码,神秘生物舞会
+english_metatexts:DTT_MAGICAL_LAND,metatext,FIX,Dreamed Dominions,梦想的统治者,梦境领地
+english_metatexts:DTT_MERKINGDOM,metatext,FIX,The Merkingdom,默金多姆,人鱼王国
+english_metatexts:DTT_MUSIC_FESTIVAL,metatext,FIX,Veranotone,维拉无人,Veranotone
+english_metatexts:DTT_THEME_PARK,metatext,FIX,Knife Land,刀子地盘,刀子乐园
+english_metatexts:DTT_VICE_CITY,metatext,FIX,City of Vice,副总统市,罪恶之城
+english_metatexts:GLR_ECK_AIRDANCERFAVOR,metatext,FIX,Air Dancer Customs,航空舞者海关,充气舞者的风俗
+english_metatexts:GLR_ECK_ANIMALFARM,metatext,KEEP,Animal Farm,养畜场,养畜场
+english_metatexts:GLR_ECK_ASTRONOMYASTROLOGY,metatext,FIX,Astronomy v. Astrology,天文学 v. 占星学,天文学 vs. 占星术
+english_metatexts:GLR_ECK_ATOWNFORYOURSELF,metatext,POLISH,A Town for Yourself,给自己一个小镇,属于你的小镇
+english_metatexts:GLR_ECK_AVOIDEXPLOSIONS,metatext,FIX,Cool Guys Don't Look at Explosions,"酷家伙,别看爆炸",酷家伙从不看爆炸
+english_metatexts:GLR_ECK_BADINVESTMENTS,metatext,KEEP,Bad Investment,不良投资,不良投资
+english_metatexts:GLR_ECK_BARTENDERATTENTION,metatext,KEEP,Get the Bartender's Attention,让酒保注意,让酒保注意
+english_metatexts:GLR_ECK_BATTLEROYALEHIDEOUT,metatext,FIX,Bunker Roles,装箱角色,地堡里的分工
+english_metatexts:GLR_ECK_BEACLOWN,metatext,KEEP,Rodeo Clowns,牛仔小丑队,牛仔小丑队
+english_metatexts:GLR_ECK_BEARROBBERY,metatext,KEEP,Bear Attack!,熊攻击!,熊攻击!
+english_metatexts:GLR_ECK_BECOMEDIRECTOR,metatext,POLISH,Become Director,成为主任,当导演
+english_metatexts:GLR_ECK_BESTSEASHELL,metatext,KEEP,Seashell,贝壳,贝壳
+english_metatexts:GLR_ECK_BESTTHECHAMPION,metatext,KEEP,Beat the Pancake Champion,击败煎饼冠军,击败煎饼冠军
+english_metatexts:GLR_ECK_BIRTHDAYPRIVILEGE,metatext,FIX,Birthday Perks,生日费,生日特权
+english_metatexts:GLR_ECK_BIZNIZPITCH,metatext,FIX,Bizniz Pitch,比兹尼兹比奇,生意推介
+english_metatexts:GLR_ECK_BLINDDATE,metatext,FIX,Blind Date,盲点日期,相亲
+english_metatexts:GLR_ECK_BORINGSHOW,metatext,FIX,Spice Up the Deathmatch,香料升起死亡比赛,给死斗加点料
+english_metatexts:GLR_ECK_BRAINSTORM,metatext,POLISH,Brainstorming Session,集思广益会,头脑风暴
+english_metatexts:GLR_ECK_BRIDALBOUQUET,metatext,FIX,Bridal Bouquet,布里达尔·布克(英语:Bridal Bouquet),新娘捧花
+english_metatexts:GLR_ECK_BULLSHITCONFERENCE,metatext,KEEP,Best Bullshit Conference,最佳废话会,最佳废话会
+english_metatexts:GLR_ECK_CARUPGRADES,metatext,KEEP,Car Upgrade,汽车升级,汽车升级
+english_metatexts:GLR_ECK_CATCHBUGS,metatext,FIX,Catch Bugs,捕捉臭虫,捉虫子
+english_metatexts:GLR_ECK_CATCOFFEE,metatext,KEEP,Cat Coffee,猫咖啡,猫咖啡
+english_metatexts:GLR_ECK_CATEGORYLOOKS,metatext,FIX,Scott's Glow-Up,斯科特闪闪发光,斯科特大变身
+english_metatexts:GLR_ECK_CHOOSEAMENITY,metatext,FIX,Check Amenities,请检查是否为便利,看看配套设施
+english_metatexts:GLR_ECK_CHOOSEARCADE,metatext,FIX,Choose an Arcade,选择拱廊,选择街机
+english_metatexts:GLR_ECK_CHOOSEART,metatext,KEEP,Choose a Painting,选择绘画,选择绘画
+english_metatexts:GLR_ECK_CHOOSEBATTLEALLY,metatext,FIX,Battle Ally,战友会,战斗盟友
+english_metatexts:GLR_ECK_CHOOSECARNIVALGAME,metatext,FIX,Carnival Games,嘉年华运动会,嘉年华游戏
+english_metatexts:GLR_ECK_CHOOSECRYPTID,metatext,FIX,Meet a Cryptid,见一出密码,结识神秘生物
+english_metatexts:GLR_ECK_CHOOSEDANCEPARTNER,metatext,KEEP,Dance Partner,舞蹈伴侣,舞蹈伴侣
+english_metatexts:GLR_ECK_CHOOSEDJ,metatext,KEEP,Choose a DJ,选择 DJ,选择 DJ
+english_metatexts:GLR_ECK_CHOOSEDUNGEONBOSS,metatext,FIX,Dungeon Boss Timeshare,敦煌大老板时光夏,地牢 Boss 分时共享
+english_metatexts:GLR_ECK_CHOOSEFREAKSHOW,metatext,FIX,Step Right Up!,右上脚!,快来瞧，快来看！
+english_metatexts:GLR_ECK_CHOOSEHOLIDAY,metatext,KEEP,Choose a Holiday,选择假日,选择假日
+english_metatexts:GLR_ECK_CHOOSEKITER,metatext,FIX,Choose Your Kiter,选择您的剪刀,选择风筝选手
+english_metatexts:GLR_ECK_CHOOSENPCROLE,metatext,FIX,Live the NPC Life,过着国民党的生活,过一回 NPC 的日子
+english_metatexts:GLR_ECK_CHOOSEROLE,metatext,FIX,Extras,额外,群演
+english_metatexts:GLR_ECK_CHOOSEROUTE,metatext,FIX,The Route Less Traveled,路线减少出行,少有人走的路
+english_metatexts:GLR_ECK_CHOOSESCOTT,metatext,FIX,New Scott Just Dropped,新设 斯科特 刚刚放弃了,新版斯科特登场
+english_metatexts:GLR_ECK_CHOOSESOUP,metatext,KEEP,Many Soups,许多汤,许多汤
+english_metatexts:GLR_ECK_CHOOSETRICK,metatext,KEEP,Alakazam!,阿拉卡赞!,阿拉卡赞!
+english_metatexts:GLR_ECK_CHOOSEWEAPON,metatext,KEEP,Choose Your Weapon,选择您的武器,选择您的武器
+english_metatexts:GLR_ECK_CLICKBAITALIENS,metatext,FIX,Clickbait for Aliens,为外籍人点击Bait,骗外星人点击的标题党
+english_metatexts:GLR_ECK_CLIMBTRUCK,metatext,KEEP,Climb the Truck,爬上卡车,爬上卡车
+english_metatexts:GLR_ECK_COMMITMENTSACRIFICE,metatext,FIX,Ritual Sacrifice,礼仪牺牲,仪式献祭
+english_metatexts:GLR_ECK_COMPROMISE,metatext,KEEP,Reach a Compromise,达成妥协,达成妥协
+english_metatexts:GLR_ECK_CONFLOOR,metatext,FIX,Walk the Con Floor,走在楼下,逛漫展
+english_metatexts:GLR_ECK_CONQUERTHESUMMIT,metatext,FIX,Conquer the Summit,B. 结束首脑会议,征服峰会
+english_metatexts:GLR_ECK_COUPLESCOUNSELING,metatext,POLISH,Couples Counseling,夫妻咨询,伴侣咨询
+english_metatexts:GLR_ECK_COVERFORJERRY,metatext,KEEP,Cover for Jerry,掩护杰瑞,掩护杰瑞
+english_metatexts:GLR_ECK_CRASHPICNIC,metatext,FIX,Picnic Crashers,皮克力撞车,蹭野餐
+english_metatexts:GLR_ECK_CREEPYFURNITURE,metatext,KEEP,Redecorate a House,重新装修一栋房子,重新装修一栋房子
+english_metatexts:GLR_ECK_CROCODILETRICK,metatext,FIX,Crocodile Magic Trick,鳄鱼魔法诡计,鳄鱼魔术
+english_metatexts:GLR_ECK_CROSSTHEROAD,metatext,FIX,Cross the Road,过道,过马路
+english_metatexts:GLR_ECK_CURSEDCHILDREN,metatext,KEEP,Cursed Children,被诅咒的儿童,被诅咒的儿童
+english_metatexts:GLR_ECK_CURSEDROOM,metatext,KEEP,Cursed Motel Room,被诅咒的汽车旅馆房间,被诅咒的汽车旅馆房间
+english_metatexts:GLR_ECK_DATAMINING,metatext,KEEP,Buried Secrets,埋葬的秘密,埋葬的秘密
+english_metatexts:GLR_ECK_DEATHBALLS,metatext,FIX,DEATHBALLS!,死药!,死亡之球！
+english_metatexts:GLR_ECK_DIPLOMATICMEETING,metatext,KEEP,Diplomatic Meeting,外交会议,外交会议
+english_metatexts:GLR_ECK_DISTRACTGRANDPA,metatext,FIX,Splash Kaboom,喷出相机,水花大爆炸
+english_metatexts:GLR_ECK_DRINKINGCRED,metatext,FIX,Drinking Cred,饮用 Cred,酒桌威望
+english_metatexts:GLR_ECK_DUELTYPE,metatext,FIX,Duel at High Noon,高午决斗,正午决斗
+english_metatexts:GLR_ECK_EATYOURVEGETABLES,metatext,POLISH,Eat your Vegetables,吃你的蔬菜吧 吃你的蔬菜吧,把蔬菜吃了
+english_metatexts:GLR_ECK_ESCAPETHEBASEMENT,metatext,KEEP,Escape the Basement,逃离地下室,逃离地下室
+english_metatexts:GLR_ECK_EULOGY,metatext,FIX,Eulogy,优等生,悼词
+english_metatexts:GLR_ECK_EVACUATIONPLAN,metatext,KEEP,Evacuation Plan,撤离计划,撤离计划
+english_metatexts:GLR_ECK_EVILMENU,metatext,KEEP,Cursed Menu,被诅咒的菜单,被诅咒的菜单
+english_metatexts:GLR_ECK_EVILPLAN,metatext,KEEP,Evil Plan Workshop,邪恶计划讲习班,邪恶计划讲习班
+english_metatexts:GLR_ECK_FAKEGHOSTS,metatext,FIX,Fake Ghosts,假鬼头,假鬼
+english_metatexts:GLR_ECK_FEETAFICIONADO,metatext,FIX,Feet Aficionados,脚-飞毛腿,足部爱好者
+english_metatexts:GLR_ECK_FEETSHOP,metatext,FIX,Desert Foot Shop,沙漠脚店,沙漠之足商店
+english_metatexts:GLR_ECK_FETCHPICNIC,metatext,FIX,Go Fetch!,去拿来!,去捡回来！
+english_metatexts:GLR_ECK_FINDBOOTH,metatext,FIX,Find a Booth,找一个Booth,找个卡座
+english_metatexts:GLR_ECK_FINDSUS,metatext,KEEP,An Intruder Among Us,我们中间的入侵者,我们中间的入侵者
+english_metatexts:GLR_ECK_FINDTHEGROUP,metatext,FIX,Scott is Lost!,斯科特 输了!,斯科特走丢了！
+english_metatexts:GLR_ECK_FMKART,metatext,FIX,Fuck. Marry. Kill,他妈的。 结婚吧 杀,睡、娶／嫁、杀
+english_metatexts:GLR_ECK_FORBIDDENGAMES,metatext,KEEP,The Forbidden Games,被禁游戏,被禁游戏
+english_metatexts:GLR_ECK_FORBIDDENJUKEBOX,metatext,KEEP,The Forbidden Jukebox,被禁的点唱机,被禁的点唱机
+english_metatexts:GLR_ECK_FREEMULTIDAMIEN,metatext,FIX,Free Multidamien,自由的多语种,解救 Multidamien
+english_metatexts:GLR_ECK_FURTHERDISTRICTS,metatext,KEEP,Mirage Town,幻影镇,幻影镇
+english_metatexts:GLR_ECK_GARBAGETV,metatext,FIX,Channel-Hopping,频道呼号,不停换台
+english_metatexts:GLR_ECK_GASPUMPAI,metatext,FIX,Gas Pump AI,气泵 AI,加油机 AI
+english_metatexts:GLR_ECK_GHOSTPOWERS,metatext,KEEP,Ghost Powers,幽灵力量,幽灵力量
+english_metatexts:GLR_ECK_GOODHOST,metatext,KEEP,How To Be a Good Host,如何成为一个好主人,如何成为一个好主人
+english_metatexts:GLR_ECK_HOLEBRAND,metatext,KEEP,Hole Marketing,洞口销售,洞口销售
+english_metatexts:GLR_ECK_HOLEFUN,metatext,FIX,Hole Motel Room,洞房旅馆,开洞的旅馆房间
+english_metatexts:GLR_ECK_HOLESACRIFICE,metatext,FIX,Sacrifice to the Hole,献出洞穴,向大洞献祭
+english_metatexts:GLR_ECK_HORSIEWORSHIPPING,metatext,KEEP,Horse Worshipping,敬马会,敬马会
+english_metatexts:GLR_ECK_HOWDEEP,metatext,KEEP,How Deep Can You Go?,你还能走多深?,你还能走多深?
+english_metatexts:GLR_ECK_HOWMANYNIGHTS,metatext,KEEP,Six Nights at Simon's,"西蒙家的""六夜""","西蒙家的""六夜"""
+english_metatexts:GLR_ECK_HOWMUCHMAGIC,metatext,FIX,How Much Magic,多么多的魔术,多少魔力
+english_metatexts:GLR_ECK_HOWMUCHWORK,metatext,FIX,Working Hard or Hardly Working?,工作困难还是工作困难?,努力工作，还是根本不工作？
+english_metatexts:GLR_ECK_HOWTOSELLACAR,metatext,FIX,Seal the Deal,封存协议,敲定交易
+english_metatexts:GLR_ECK_HOWTOSHOPLIFT,metatext,KEEP,Shoplifting 101,商店盗窃 101,商店盗窃 101
+english_metatexts:GLR_ECK_INCREASEAERIALSTAKES,metatext,FIX,High Stakes Aerials,高取相机飞行器,高风险空中杂技
+english_metatexts:GLR_ECK_INITIATIONRITES,metatext,FIX,Initiation Rites,启动锐利,入会仪式
+english_metatexts:GLR_ECK_JOINATABLE,metatext,POLISH,Join a Table,加入一个表格,找人拼桌
+english_metatexts:GLR_ECK_KAIJUCHOICE,metatext,FIX,Fight the Kaiju,和开州人决斗,迎战巨兽
+english_metatexts:GLR_ECK_KAIJUDATE_STAGE1,metatext,FIX,a. Date a Kaiju: 1st Base,(单位:千美元) 日期a开州:一垒.,a. 巨兽约会：一垒
+english_metatexts:GLR_ECK_KAIJUDATE_STAGE2,metatext,FIX,b. Date a Kaiju: 2nd Base,(b) 减少或减少员额数目; 日期a开州: 二垒,b. 巨兽约会：二垒
+english_metatexts:GLR_ECK_KAIJUDATE_STAGE3,metatext,FIX,c. Date a Kaiju: 3rd Base,C. 结 论 日期a开州: 三垒,c. 巨兽约会：三垒
+english_metatexts:GLR_ECK_KITETRAININGROUTINE,metatext,FIX,Kite Training Routine,基特训练常规,风筝训练计划
+english_metatexts:GLR_ECK_LAKESAFETY,metatext,KEEP,Swimming Safety,游泳安全,游泳安全
+english_metatexts:GLR_ECK_LAOCA,metatext,KEEP,Board Game Choices,棋盘游戏选择,棋盘游戏选择
+english_metatexts:GLR_ECK_LASERWOWFACTOR,metatext,KEEP,Joe the Laser is back!,激光师乔回来了!,激光师乔回来了!
+english_metatexts:GLR_ECK_LASSOTRICKS,metatext,FIX,Lasso Tricks,拉索特里克丝,套索绝技
+english_metatexts:GLR_ECK_LIVEYOURAPOCALYPSEFANTASY,metatext,POLISH,Live Your Post-Apocalyptic Fantasy,活起你的末日幻想,实现你的末日幻想
+english_metatexts:GLR_ECK_LOCKEDACTOR,metatext,KEEP,Cool Josh is Back!,酷乔什回来了!,酷乔什回来了!
+english_metatexts:GLR_ECK_LOOKINGFORCLUES,metatext,FIX,Looking for Clues,寻找克吕斯,寻找线索
+english_metatexts:GLR_ECK_LYINGGUARD,metatext,FIX,The Lying Guard Riddle,说谎的后卫里德尔,说谎守卫的谜题
+english_metatexts:GLR_ECK_MAJORFROMFUTURE,metatext,KEEP,Mayor from the Future,未来的市长,未来的市长
+english_metatexts:GLR_ECK_MANYPANCAKES,metatext,KEEP,Pancake Championship,煎饼锦标赛,煎饼锦标赛
+english_metatexts:GLR_ECK_MAZEROLES,metatext,KEEP,Maze Roles,迷宫角色,迷宫角色
+english_metatexts:GLR_ECK_MERKINGDOMGOTTALENT,metatext,FIX,Merkingdom Got Talent,默金多姆有才华,人鱼王国达人秀
+english_metatexts:GLR_ECK_METAVERSEDEPTH,metatext,FIX,Down the Metaverse's Rabbit Hole,沿着元风洞的兔子洞,深入元宇宙的兔子洞
+english_metatexts:GLR_ECK_MISSINGPIECE,metatext,FIX,Missing Piece,缺少块,缺失的一块
+english_metatexts:GLR_ECK_MULTIVERSE,metatext,FIX,Multiverse-Hopping,多相对接,穿梭多元宇宙
+english_metatexts:GLR_ECK_MYORE,metatext,FIX,Ore Trading,Ore 贸易,矿石交易
+english_metatexts:GLR_ECK_NEWCHURCH,metatext,KEEP,New Religion,新宗教,新宗教
+english_metatexts:GLR_ECK_NEWFACTORYBOSS,metatext,KEEP,Meet the New Boss,见见新老板,见见新老板
+english_metatexts:GLR_ECK_NEWPRANK,metatext,FIX,Secluded Pranks!,骗人的恶作剧!,隐居村恶作剧！
+english_metatexts:GLR_ECK_NEWSFROMAFAR,metatext,FIX,News from Afar,阿法尔的消息,远方来讯
+english_metatexts:GLR_ECK_NEXTEXPERIMENT,metatext,KEEP,Lab Rats,实验室鼠类,实验室鼠类
+english_metatexts:GLR_ECK_NOPHONE,metatext,FIX,Digital Detox,数字解毒器,数字戒断
+english_metatexts:GLR_ECK_NOTHINGHAPPENS,metatext,FIX,Spa Day,纸币日,水疗日
+english_metatexts:GLR_ECK_NOTP,metatext,KEEP,No TP,无TP,无TP
+english_metatexts:GLR_ECK_OBSTACLESTYLE,metatext,FIX,Pet Race Courses,宠物种族课程,宠物赛跑赛道
+english_metatexts:GLR_ECK_ONEBED,metatext,FIX,Only One Bed Motel Room,只有一间寝室旅馆,只有一张床的旅馆房间
+english_metatexts:GLR_ECK_ONETRICKDOGGY,metatext,FIX,One-Trick Doggy,独来独往的小狗,只会一招的小狗
+english_metatexts:GLR_ECK_OUTLAWTEAM,metatext,FIX,Poker-Playin' Outlaws,扑克外卖,打扑克的亡命之徒
+english_metatexts:GLR_ECK_OVERKILL,metatext,KEEP,Overkill,过度杀戮,过度杀戮
+english_metatexts:GLR_ECK_PALMBESTSELLER,metatext,FIX,Palm Best Seller,棕榈最佳卖家,畅销手掌
+english_metatexts:GLR_ECK_PANCAKEGIFT,metatext,KEEP,Pancake Gift,煎饼礼物,煎饼礼物
+english_metatexts:GLR_ECK_PAYFORGAS,metatext,FIX,No Cash Accepted,无现金接受,不收现金
+english_metatexts:GLR_ECK_PILLAGESHOP,metatext,KEEP,Pillage People,掠夺者,掠夺者
+english_metatexts:GLR_ECK_PIZZACURSEDPROMOTION,metatext,KEEP,Pizza Promotions,披萨促销,披萨促销
+english_metatexts:GLR_ECK_PLACEYOURBETS,metatext,POLISH,Place your Bets,放置您的赌注,下注吧
+english_metatexts:GLR_ECK_PLANTCARD,metatext,FIX,Plant a Card,安装卡片,暗藏一张牌
+english_metatexts:GLR_ECK_PLATOCAVE,metatext,KEEP,Cave Rescue,洞穴救援,洞穴救援
+english_metatexts:GLR_ECK_POPOPERA,metatext,KEEP,Pop Opera!,流行歌剧!,流行歌剧!
+english_metatexts:GLR_ECK_POTATOCONSPIRANOIA,metatext,FIX,Potato Conspiranoia,马铃薯联盟,土豆阴谋妄想
+english_metatexts:GLR_ECK_POTATODINER,metatext,KEEP,Big Potato Dining,大马铃薯餐厅,大马铃薯餐厅
+english_metatexts:GLR_ECK_PRANKEVIL,metatext,FIX,Panel Pranks!,恶作剧小组!,座谈会恶作剧！
+english_metatexts:GLR_ECK_PRANKFOOT,metatext,KEEP,Foot Pranks!,脚恶作剧!,脚恶作剧!
+english_metatexts:GLR_ECK_PRANKHOLE,metatext,KEEP,Hole Pranks!,洞恶作剧!,洞恶作剧!
+english_metatexts:GLR_ECK_PRANKLIAM,metatext,FIX,Prank Liam,恶作剧 利亚姆,整蛊利亚姆
+english_metatexts:GLR_ECK_PRANKPOTATO,metatext,KEEP,Potato Pranks!,土豆恶作剧!,土豆恶作剧!
+english_metatexts:GLR_ECK_PRANKSUPERCOMPUTER,metatext,KEEP,Supercomputer Pranks!,超级电脑恶作剧!,超级电脑恶作剧!
+english_metatexts:GLR_ECK_PRISONPLAYS,metatext,KEEP,Experimental Prison Theatre,实验监狱剧院,实验监狱剧院
+english_metatexts:GLR_ECK_PUNCHSOMEONE,metatext,FIX,Punch Someone,冲人啊,揍个人
+english_metatexts:GLR_ECK_PUPPETPROPAGANDA,metatext,KEEP,Puppet Propaganda,傀儡宣传,傀儡宣传
+english_metatexts:GLR_ECK_PVPPOLLYSCOTT,metatext,FIX,PVP,聚氯乙烯,玩家对战（PVP）
+english_metatexts:GLR_ECK_RABBITCARKEYS,metatext,FIX,Run. Rabbit. Run,运行。 兔.. 运行,跑。兔子。跑。
+english_metatexts:GLR_ECK_RANSOMDELIVERY,metatext,FIX,Ransom Delivery,Ransom 发送,送赎金
+english_metatexts:GLR_ECK_RELAXINSTRUCTORS,metatext,KEEP,Relax Instructors,放松教官们,放松教官们
+english_metatexts:GLR_ECK_RESTROOMRIDDLE,metatext,FIX,Restroom Riddle,洗手间里多,洗手间谜题
+english_metatexts:GLR_ECK_RIDEMORTY,metatext,KEEP,Ride a Bull,骑一头公牛,骑一头公牛
+english_metatexts:GLR_ECK_ROCKBRAND,metatext,FIX,Pet Rock Branding,宠物摇滚品牌,宠物石头品牌
+english_metatexts:GLR_ECK_ROCKETPRANK,metatext,KEEP,Space Pranks!,太空恶作剧!,太空恶作剧!
+english_metatexts:GLR_ECK_ROCKSHOP,metatext,KEEP,Pet Rocks!,宠物岩!,宠物岩!
+english_metatexts:GLR_ECK_RUNAWAYBRIDE,metatext,KEEP,Runaway Bride,出走的新娘,出走的新娘
+english_metatexts:GLR_ECK_SACRIFICEAPPLAUSE,metatext,KEEP,Sacrifice Cheerleaders,牺牲啦啦队队长,牺牲啦啦队队长
+english_metatexts:GLR_ECK_SANDCASTLESAFETY,metatext,FIX,Sandcastle Permit,桑德卡斯尔许可证,沙堡许可证
+english_metatexts:GLR_ECK_SCARECROWS,metatext,FIX,Next-Level Scarecrow,下一级稻草人,升级版稻草人
+english_metatexts:GLR_ECK_SELFCONVERSATION_BLUE,metatext,FIX,Mirror Talk (Vicky),镜像对话( R)维姬),镜中对话（维姬）
+english_metatexts:GLR_ECK_SELFCONVERSATION_CINNAMON,metatext,FIX,Mirror Talk (Hazel),镜之谈 (哈泽尔语),镜中对话（海泽尔）
+english_metatexts:GLR_ECK_SELFCONVERSATION_GLITCH,metatext,POLISH,Mirror Talk (Glitch),镜像对话( Glitch),镜中对话（Glitch）
+english_metatexts:GLR_ECK_SELFCONVERSATION_GREEN,metatext,FIX,Mirror Talk (Brian),镜像对话( R)布莱恩),镜中对话（布莱恩）
+english_metatexts:GLR_ECK_SELFCONVERSATION_JUAN,metatext,FIX,Mirror Talk (Juan),镜花会( Juan),镜中对话（胡安）
+english_metatexts:GLR_ECK_SELFCONVERSATION_PUMPKIN,metatext,POLISH,Mirror Talk (Jacqueline),镜像对话(Jacqueline),镜中对话（杰奎琳）
+english_metatexts:GLR_ECK_SELFCONVERSATION_RED,metatext,FIX,Mirror Talk (Amira),镜像对话( R)阿米拉),镜中对话（阿米拉）
+english_metatexts:GLR_ECK_SELFCONVERSATION_SLIME,metatext,POLISH,Mirror Talk (Doug),镜像对话( Doug),镜中对话（道格）
+english_metatexts:GLR_ECK_SELFCONVERSATION_YELLOW,metatext,FIX,Mirror Talk (Oz),镜像对话( R)奥兹),镜中对话（奥兹）
+english_metatexts:GLR_ECK_SELFCONVERSATION_ZOE,metatext,FIX,Mirror Talk (Zoe),镜像对话( R)佐伊),镜中对话（佐伊）
+english_metatexts:GLR_ECK_SELLFOOD,metatext,KEEP,Stadium Food,体育场食品,体育场食品
+english_metatexts:GLR_ECK_SENTIENTMUSHROOMS,metatext,FIX,Sentient Shrooms,定时蘑菇,有意识的蘑菇
+english_metatexts:GLR_ECK_SEXYANDDANGEROUS,metatext,KEEP,Sexy and Dangerous,性感而危险,性感而危险
+english_metatexts:GLR_ECK_SHIPTREATY,metatext,FIX,Ship Wars Treaty,船舶战争条约,CP 大战停战条约
+english_metatexts:GLR_ECK_SHOOTINGSTAR,metatext,FIX,When You Wish Upon a Star,当你在星星上许愿时,向星星许愿时
+english_metatexts:GLR_ECK_SHOWDOWNTIPS,metatext,FIX,Fuckers of Joy,欢乐的混蛋,搞乔伊战队
+english_metatexts:GLR_ECK_SKINCARE,metatext,POLISH,Skincare Routine,皮肤护理常规,日常护肤
+english_metatexts:GLR_ECK_SMALLVENTTALK,metatext,FIX,Small Vent. Small Talk,小温特. 小说,小通风管，小闲聊
+english_metatexts:GLR_ECK_SNAKEBOYFRIENDS,metatext,KEEP,Snake Boyfriends,蛇的男朋友们,蛇的男朋友们
+english_metatexts:GLR_ECK_SPACECALLCENTER,metatext,FIX,Space Call Center,空间呼叫中心,太空呼叫中心
+english_metatexts:GLR_ECK_SPACETINDER,metatext,KEEP,Dating App for Planet Earth,行星地球约会应用程序,行星地球约会应用程序
+english_metatexts:GLR_ECK_SPEAKNOW,metatext,FIX,Speak Now or Forever Hold Your Peace,"现在说话,否则永远保持你的平静",现在提出异议，否则永远保持沉默
+english_metatexts:GLR_ECK_SPREADTHECULT,metatext,KEEP,Spread Cult Awareness,传播邪教意识,传播邪教意识
+english_metatexts:GLR_ECK_STALLFAVORS,metatext,FIX,Stall Favors,斯道尔偏好,隔间里的帮忙
+english_metatexts:GLR_ECK_STOPROBBERY,metatext,KEEP,Stop a Robbery,停止抢劫,停止抢劫
+english_metatexts:GLR_ECK_STRAYCAT,metatext,KEEP,Learning to Love Colonel Grumpo,学会爱格鲁姆波上校,学会爱格鲁姆波上校
+english_metatexts:GLR_ECK_TABLESEAT,metatext,FIX,The Monster Mash,魔兽马什,怪物大杂烩
+english_metatexts:GLR_ECK_TAXICLIENTS,metatext,KEEP,Taxi Time,计程车时间,计程车时间
+english_metatexts:GLR_ECK_TECHGASSTATIONSHOP,metatext,FIX,Futuristic Gas Station Store,未来加油站仓库,未来加油站商店
+english_metatexts:GLR_ECK_TINFOILHATS,metatext,FIX,Tinfoil Hats,Tinfil 帽子,锡纸帽
+english_metatexts:GLR_ECK_TOOMANYSLIMES,metatext,FIX,Too Many Slimes,太多的滑块,史莱姆太多了
+english_metatexts:GLR_ECK_TOURNAMENTARC_STAGE1,metatext,FIX,Kite Tournament: The Stringless Kite,Kite 锦标赛:无弦 Kite,风筝大赛：无线风筝
+english_metatexts:GLR_ECK_TOURNAMENTARC_STAGE2,metatext,FIX,Kite Tournament: The Poisoned Kite,基特锦标赛:被毒死的基特,风筝大赛：下了毒的风筝
+english_metatexts:GLR_ECK_TOURNAMENTARC_STAGE3,metatext,FIX,Kite Tournament: The Porcelain Kite,基特锦标赛:瓷质基特,风筝大赛：瓷风筝
+english_metatexts:GLR_ECK_TROLLSHOP,metatext,FIX,Gas Troll Shop,气球商店,加油站巨怪商店
+english_metatexts:GLR_ECK_USETHATSKIN,metatext,FIX,Leftover Skin,左倾外皮,剩余的皮肤
+english_metatexts:GLR_ECK_VEOVEOESPIA,metatext,FIX,I (am a Literal) Spy,我(在字面上)间谍,我是真的间谍
+english_metatexts:GLR_ECK_VEOVEONORMAL,metatext,FIX,I Spy with my Little Eye,我用我的小眼睛监视,用我的小眼睛玩猜东西
+english_metatexts:GLR_ECK_VEOVEOSPIRIT,metatext,FIX,I Spy with my Third Eye,"我用我的""三眼""间谍",用我的第三只眼玩猜东西
+english_metatexts:GLR_ECK_VIDEOGAMETOURNAMENT,metatext,FIX,Videogame Tournament,视频游戏锦标赛,电子游戏锦标赛
+english_metatexts:GLR_ECK_WARBOARDPIECE,metatext,REVIEW,Warboard Piece,战板块,战争棋盘棋子
+english_metatexts:GLR_ECK_WEIRDPOKER_STAGE1,metatext,FIX,a. Poker 2: 1st Round,(单位:千美元) 扑克2: 第1轮,a. 扑克 2：第一轮
+english_metatexts:GLR_ECK_WEIRDPOKER_STAGE2,metatext,FIX,b. Poker 2: 2nd Round,(b) 减少或减少员额数目; 扑克2: 第2轮,b. 扑克 2：第二轮
+english_metatexts:GLR_ECK_WEIRDPOKER_STAGE3,metatext,FIX,c. Poker 2: 3rd Round,C. 结 论 扑克2: 第3轮,c. 扑克 2：第三轮
+english_metatexts:GLR_ECK_WELCOMEZOMBIE,metatext,KEEP,"Welcome Back, Zombie","欢迎回来,僵尸","欢迎回来,僵尸"
+english_metatexts:GLR_ECK_WHATTOASK,metatext,FIX,Ask the Bush,问布什,问问灌木丛
+english_metatexts:GLR_ECK_WHATTOJUGGLE,metatext,KEEP,Juggling Tricks,杂耍花招,杂耍花招
+english_metatexts:GLR_ECK_WHATTOSMUGGLE,metatext,FIX,What to Smuggle,偷笑怎么样?,走私什么
+english_metatexts:GLR_ECK_WHATTOTEST,metatext,FIX,Product Tester,产品测试器,产品测试员
+english_metatexts:GLR_ECK_WHATTOWHISPER,metatext,FIX,Horse Whispering,马出声,与马低语
+english_metatexts:GLR_ECK_WHOROBOT,metatext,KEEP,The New Turing Test,新图灵测试,新图灵测试
+english_metatexts:GLR_ECK_WHOTOCALL,metatext,FIX,Contact the Other Side,联系另一边,联系彼岸
+english_metatexts:GLR_ECK_WIGEXHIBITION,metatext,FIX,Wig Friends,维格朋友,假发朋友
+english_metatexts:GLR_ECK_WIGKIDS,metatext,KEEP,BOBBY!!!,鲍比!,鲍比!
+english_metatexts:GLR_ECK_WIGSHOP,metatext,FIX,Wig Shop,网店( Wig),假发商店
+english_metatexts:GLR_ECK_WILDSTALLION,metatext,FIX,Wild Stallion,野生马群,野生公马
+english_metatexts:GLR_ECK_WILDWESTHORSIE,metatext,FIX,What a Horsie!,何尔西!,好一匹马！
+english_metatexts:GLR_ECK_WORLDBUILDINGTWIST,metatext,KEEP,Wonderful Worldbuilding,奇妙的世界建设,奇妙的世界建设
+english_metatexts:GLR_ECK_WRONGPIZZA,metatext,KEEP,Pizza Time,披萨时间,披萨时间
+english_metatexts:GLR_ECK_YESAND,metatext,KEEP,"Yes, And...","对,还有...","对,还有..."
+english_metatexts:ITM_TTL_TEACUPUNICORN,metatext,POLISH,A Teacup Unicorn Who Needs a Good Home,一个茶杯独角兽 谁需要一个好家,寻找好人家的茶杯独角兽
+english_metatexts:ITM_TTL_THETRUTH,metatext,FIX,The Truth,事实,真相
+english_metatexts:ITM_TTL_THOUGHTSANDPRAYERS,metatext,FIX,Thoughts and Prayers,思想和祈祷,心意与祈祷
+english_metatexts:ITM_TTL_TREASUREMAP,metatext,KEEP,Treasure Map,财宝地图,财宝地图
+english_metatexts:ITM_TTL_WEIRDTRINKET,metatext,FIX,That Thingie,那个小东西,那个小玩意儿
+english_metatexts:ITM_TTL_WONDERWALLGUITAR,metatext,FIX,Enchanted Guitar that Can Only Play Wonderwall,"魔法吉他,只能玩神奇墙",只能弹《Wonderwall》的魔法吉他
+english_metatexts:SHP_BCK,metatext,KEEP,Back,返回,返回
+english_metatexts:SHP_CNF_NOO,metatext,FIX,No,没有,否
+english_metatexts:SHP_CNF_TTL,metatext,FIX,Are you sure you want to purchase [ITEM] for [PRICE] Memories?,你确定要买吗? [ITEM] (单位:千美元) [PRICE] 回忆?,确定花费 [PRICE] 份回忆，购买 [ITEM] 吗？
+english_metatexts:SHP_CNF_YES,metatext,KEEP,Yes!,没错!,没错!
+english_metatexts:SHP_DSC_MANUALBASE,metatext,FIX,Unlock the Info Manual to master Monster Camp's inner mechanics! Access it through the game's Settings.,打开《信息手册》 让怪物营的内在力学大师知道! 通过游戏的设置访问它.,解锁说明手册，掌握《怪物夏令营》的游戏机制！可通过游戏设置查看。
+english_metatexts:SHP_ICN,metatext,FIX,Insert %MULTIGACHA% Coins,插入 %MULTIGACHA% 硬币,投入 %MULTIGACHA% 枚代币
+english_metatexts:SHP_INS,metatext,FIX,Insert[n]Coin,插入[n]铜,投入[n]代币
+english_metatexts:SHP_NTH,metatext,FIX,Nothing[n]left[n]to buy!,没什么[n]左边[n]买!,没有[n]东西[n]可买了！
+english_metatexts:SHP_TTL_MANUALBASE,metatext,KEEP,Info Manual - Basics,信息手册 - 基本内容,信息手册 - 基本内容
