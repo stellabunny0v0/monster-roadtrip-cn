@@ -1,0 +1,142 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_bubbles:L1290,bubble_damien3,FIX,Damien... what did you just throw out of the car?,达米恩... 你刚从车里扔出什么了?,德魔……你刚从车里扔出去什么了？
+english_events_bubbles:L1291,bubble_damien3,KEEP,...Nothing.,...没什么,...没什么
+english_events_bubbles:L1297,bubble_damien4,FIX,"Oof, the sun is hitting hard today, isn't it, bros?","哦,太阳今天很重,不是吗,兄弟们?",哎哟，兄弟们，今天这太阳，下手可真狠啊？
+english_events_bubbles:L1298,bubble_damien4,FIX,"Yeah, fuckin' sun... someone should hit it back.","是啊,他妈的'太阳... 应该有人回击它。",是啊，操蛋的太阳……该有人打回去。
+english_events_bubbles:L1304,bubble_damien5,KEEP,Do you hear something in the trunk?,你在后备箱里听到什么了吗?,你在后备箱里听到什么了吗?
+english_events_bubbles:L1305,bubble_damien5,FIX,Don't worry about it.,何等为相.,别管。
+english_events_bubbles:L1311,bubble_vera1,KEEP,"Scott, stop feeding my snakes.",斯科特别再喂我的蛇了,斯科特别再喂我的蛇了
+english_events_bubbles:L1312,bubble_vera1,POLISH,They shouldn't snack between meals.,他们不应该在吃饭之间吃零食。,它们两餐之间，不能吃零食。
+english_events_bubbles:L1318,bubble_vera2,KEEP,How did you guys afford this car?,你们怎么买得起这辆车的?,你们怎么买得起这辆车的?
+english_events_bubbles:L1319,bubble_vera2,KEEP,Who knows?,谁知道呢?,谁知道呢?
+english_events_bubbles:L1325,bubble_vera3,KEEP,How did you guys afford this car?,你们怎么买得起这辆车的?,你们怎么买得起这辆车的?
+english_events_bubbles:L1326,bubble_vera3,KEEP,Prank budget.,恶作剧的预算。,恶作剧的预算。
+english_events_bubbles:L1327,bubble_vera3,KEEP,...What?,什麽?,什麽?
+english_events_bubbles:L1333,bubble_vera4,FIX,Can we put the top up? It's hot in here.,我们能把顶上吗? 这里很热。,能把车篷升起来吗？车里太热了。
+english_events_bubbles:L1334,bubble_vera4,FIX,Are you sure it's not just me? Wink!,你确定不只是我一个人吗? 温克!,你确定，不是因为我太火辣了？眨眼！
+english_events_bubbles:L1340,bubble_vera5,KEEP,...and that's my dream apartment. What about you guys?,...这是我的梦想公寓。 你们呢?,...这是我的梦想公寓。 你们呢?
+english_events_bubbles:L1341,bubble_vera5,KEEP,I'm thinking about moving into this car!,我想搬进这辆车!,我想搬进这辆车!
+english_events_bubbles:L1342,bubble_vera5,KEEP,Ooooh... wanna be roommates?,"哦,呜... 想做室友吗?","哦,呜... 想做室友吗?"
+english_events_bubbles:L1348,bubble_miranda1,FIX,"Look, Scott! I made up a new silly dance!","听着, 斯科特! 我编了个愚蠢的新舞!",斯科特，快看！我新编了一个傻乎乎的舞！
+english_events_bubbles:L1349,bubble_miranda1,FIX,"Scott is driving, Miri!","斯科特 开车了,米莉!",小米，斯科特在开车！
+english_events_bubbles:L1355,bubble_miranda2,FIX,Look! Look! I drew a picture of all of us!,听着! 听着! 我画了一张我们所有人的照片!,快看，快看！我画了我们所有人！
+english_events_bubbles:L1356,bubble_miranda2,POLISH,"Don't put the drawing in front of the driver, goddammit!","别把画放在司机面前,该死!",别把画挡在司机面前，他妈的！
+english_events_bubbles:L1362,bubble_miranda3,FIX,"...and thus, the real reason we don't speak of the fifth Vanderbilt sister is:","...因此,我们不谈论第五名范德比尔特妹妹的真正原因是:",……所以，我们绝口不提范德比尔特家第五个女儿，真正的原因就是：
+english_events_bubbles:L1363,bubble_miranda3,FIX,"Miri, don't distract the driver.","米莉,别分散司机的注意力",小米，别让司机分心。
+english_events_bubbles:L1369,bubble_miranda4,KEEP,"Scott, can you comb my hair, pretty please?",斯科特你能帮我梳一梳头发吗?,斯科特你能帮我梳一梳头发吗?
+english_events_bubbles:L1370,bubble_miranda4,FIX,"Scott is driving, Miri...","斯科特 开车了,米莉...",小米，斯科特在开车……
+english_events_bubbles:L1371,bubble_miranda4,FIX,...So?,怎么样?,……所以呢？
+english_events_bubbles:L1377,bubble_miranda5,KEEP,Where is the car's toilet?,车的厕所呢?,车的厕所呢?
+english_events_bubbles:L1378,bubble_miranda5,POLISH,...It doesn't have one?,它没有吗?,……车里没有厕所吧？
+english_events_bubbles:L1384,bubble_miranda6,KEEP,I HAVE AN EMERGENCY!,我有一个紧急情况!,我有一个紧急情况!
+english_events_bubbles:L1385,bubble_miranda6,KEEP,WHAT?!,什麽?,什麽?
+english_events_bubbles:L1386,bubble_miranda6,KEEP,Nobody has complimented me today!,今天没人恭维我!,今天没人恭维我!
+english_events_bubbles:L1392,bubble_miranda7,KEEP,...and that's every type of oyster spoon!,...这是所有种类的牡蛎汤匙!,...这是所有种类的牡蛎汤匙!
+english_events_bubbles:L1393,bubble_miranda7,FIX,"You just blew my mind, bro.","你让我心碎了,兄弟。",兄弟，你真让我大开眼界。
+english_events_bubbles:L1399,bubble_miranda8,FIX,"What's your favorite eating utensil, Scott?",你最喜欢吃什么餐具? 斯科特?,斯科特，你最喜欢的餐具是什么？
+english_events_bubbles:L1400,bubble_miranda8,FIX,My mouth!,我的嘴! 我的嘴! 我的嘴! 我的嘴! 我的嘴! 我的嘴!,我的嘴！
+english_events_bubbles:L1406,bubble_aaravi1,KEEP,Are we there yet?,我们到了吗?,我们到了吗?
+english_events_bubbles:L1407,bubble_aaravi1,FIX,...I knew I should've fast-traveled.,我知道我应该快速旅行。,……早知道就该用快速传送了。
+english_events_bubbles:L1413,bubble_aaravi2,FIX,"I like your nail polish, Aaravi.",我喜欢你的指甲油 阿拉薇.,阿拉维，你的指甲油真好看。
+english_events_bubbles:L1414,bubble_aaravi2,FIX,Thanks! It's cockatrice blood.,谢谢! 这是公鸡出血。,谢谢！是鸡蛇兽的血。
+english_events_bubbles:L1415,bubble_aaravi2,FIX,Chic!,齐克!,时髦！
+english_events_bubbles:L1421,bubble_aaravi3,FIX,When do we get to the final boss?,我们什么时候才能找到最后的老板?,什么时候才能到最终Boss那儿？
+english_events_bubbles:L1422,bubble_aaravi3,KEEP,You mean... the destination?,你是说... 目的地吗?,你是说... 目的地吗?
+english_events_bubbles:L1428,bubble_aaravi4,FIX,We've been grinding this road for forever...,这条路已经磨了很久了,这条路，咱们都刷多久了……
+english_events_bubbles:L1429,bubble_aaravi4,FIX,"...Normal people call that ""driving"", Aaravi.","普通人称之为""驾车"", 阿拉薇.",……一般人管这叫“开车”，阿拉维。
+english_events_bubbles:L1435,bubble_aaravi5,FIX,"Aaravi, where's Hex?",阿拉薇海克丝呢?,阿拉维，Hex呢？
+english_events_bubbles:L1436,bubble_aaravi5,FIX,Being somebody else's problem.,成为别人的问题。,去给别人添麻烦了。
+english_events_bubbles:L1442,bubble_joy2,KEEP,"What's this potion do, Joy?","这药是做什么的,乔伊?","这药是做什么的,乔伊?"
+english_events_bubbles:L1443,bubble_joy2,KEEP,Don't drink it!,别喝!,别喝!
+english_events_bubbles:L1444,bubble_joy2,FIX,Ha! Too late!,太迟了!,哈！晚了！
+english_events_bubbles:L1450,bubble_joy3,KEEP,"Joy, will you teach me magic?","乔伊,你会教我魔法吗?","乔伊,你会教我魔法吗?"
+english_events_bubbles:L1451,bubble_joy3,FIX,Absolutely not.,绝对不是。,绝对不行。
+english_events_bubbles:L1452,bubble_joy3,FIX,Meh.,唉哟!,嘁。
+english_events_bubbles:L1458,bubble_joy4,KEEP,"What magic language are you reading, Joy?","你在读什么魔法语言,乔伊?","你在读什么魔法语言,乔伊?"
+english_events_bubbles:L1459,bubble_joy4,FIX,...This is Japanese.,这是日本人,……这是日语。
+english_events_bubbles:L1465,bubble_joy5,KEEP,"What song are you listening to, Joy?","你在听什么歌,乔伊?","你在听什么歌,乔伊?"
+english_events_bubbles:L1466,bubble_joy5,FIX,Ancient Gregorian chanting.,古老的格里高利语口号。,古老的格里高利圣咏。
+english_events_bubbles:L1467,bubble_joy5,FIX,Cool!,凉爽!,酷！
+english_events_bubbles:L1473,bubble_calculester1,REVIEW,"<IN 500 FEET, TURN RIGHT>","<IN 500 FEET, TURN RIGHT>","<IN 500 FEET, TURN RIGHT>"
+english_events_bubbles:L1474,bubble_calculester1,KEEP,...Why did I say that?,我为什么这么说?,我为什么这么说?
+english_events_bubbles:L1480,bubble_calculester2,FIX,"Friend Polly, may I charge my battery?",朋友们 波莉我可以充电吗?,波莉朋友，我可以给电池充电吗？
+english_events_bubbles:L1481,bubble_calculester2,FIX,But my phone's at 13%!,但我的电话是13%!,可我手机只剩百分之十三的电了！
+english_events_bubbles:L1482,bubble_calculester2,FIX,Okay...,"好吧,我说...",好吧……
+english_events_bubbles:L1488,bubble_calculester3,FIX,"Friend Scott, what does ""sleep"" feel like?","朋友们 斯科特""睡觉""是什么感觉?",斯科特朋友，“睡觉”是什么感觉？
+english_events_bubbles:L1489,bubble_calculester3,FIX,Zzz...,兹兹...,呼噜……
+english_events_bubbles:L1490,bubble_calculester3,FIX,Fascinating.,异相相取见.,有意思。
+english_events_bubbles:L1496,bubble_calculester4,FIX,Look! That is my favorite cactus!,听着! 这是我最喜欢的仙人掌!,看！那是我最喜欢的仙人掌！
+english_events_bubbles:L1497,bubble_calculester4,FIX,You say that about every cactus.,你说的每个仙人掌。,每棵仙人掌，你都这么说。
+english_events_bubbles:L1498,bubble_calculester4,POLISH,Can they not all be my favorite?,难道他们不都是我最喜欢的吗?,难道我不能每棵都最喜欢吗？
+english_events_bubbles:L1504,bubble_calculester5,FIX,May I please have the aux?,能给我那台Aux吗?,可以让我接一下音响吗？
+english_events_bubbles:L1505,bubble_calculester5,KEEP,"I would like to listen to ""human music.""","我想听""人类音乐""","我想听""人类音乐"""
+english_events_bubbles:L1511,bubble_calculester6,KEEP,"Can you tell me a funny story, Cal?","你能告诉我一个有趣的故事吗,卡尔?","你能告诉我一个有趣的故事吗,卡尔?"
+english_events_bubbles:L1512,bubble_calculester6,KEEP,I can try...,我可以试试...,我可以试试...
+english_events_bubbles:L1513,bubble_calculester6,REVIEW,<RETRIEVING AI_GENERATED_FUNNY_STORY_01001000_01000001>...,<RETRIEVING AI_GENERATED_FUNNY_STORY_01001000_01000001>...,<RETRIEVING AI_GENERATED_FUNNY_STORY_01001000_01000001>...
+english_events_bubbles:L1519,bubble_milo1,KEEP,"Take a selfie with me, Scott!",跟我来个自拍 斯科特!,跟我来个自拍 斯科特!
+english_events_bubbles:L1520,bubble_milo1,KEEP,Not while he's driving!,在他开车的时候不行!,在他开车的时候不行!
+english_events_bubbles:L1526,bubble_milo2,FIX,What a pretty sunset!,多么美丽的日出!,夕阳真美啊！
+english_events_bubbles:L1527,bubble_milo2,FIX,"If you think about it, sunsets are just the influencers of the sky.","如果考虑一下,日出只是天上的影响.",想想看，夕阳就是天空里的网红。
+english_events_bubbles:L1528,bubble_milo2,FIX,Whoa... deep.,珃... 深相会.,哇……有深度。
+english_events_bubbles:L1534,bubble_milo3,POLISH,Oh no! I almost hit that possum!,"哦,不,不,不,不,不,不。 我差点撞到负鼠!",哦，不！我差点撞到那只负鼠！
+english_events_bubbles:L1535,bubble_milo3,FIX,"Don't worry, it wasn't its time.","别担心,现在不是时间。",别担心，还没到它的死期。
+english_events_bubbles:L1541,bubble_milo4,KEEP,"Remember, darlings: always keep moving forward!","记住,亲爱的,永远向前走!","记住,亲爱的,永远向前走!"
+english_events_bubbles:L1542,bubble_milo4,KEEP,But... I have to turn here...,不过... 我必须在这里转弯... ...,不过... 我必须在这里转弯... ...
+english_events_bubbles:L1548,bubble_mothman1,KEEP,You'll never believe what I heard about that cactus...,你绝对不会相信我听说的仙人掌的事...,你绝对不会相信我听说的仙人掌的事...
+english_events_bubbles:L1554,bubble_mothman2,KEEP,"Look, horses!","看,马!","看,马!"
+english_events_bubbles:L1555,bubble_mothman2,POLISH,You'll never believe what I heard about those horses...,你永远不会相信 我听到的关于这些马...,关于那些马的传闻，你绝对不敢信……
+english_events_bubbles:L1561,bubble_mothman3,FIX,I'M IN LOVE WITH THAT STREET LIGHT.,我爱上了 与街上光线。,我爱上那盏路灯了。
+english_events_bubbles:L1562,bubble_mothman3,FIX,You say that about every street light.,你说的每道路灯。,每盏路灯，你都这么说。
+english_events_bubbles:L1563,bubble_mothman3,KEEP,Don't judge me.,别评判我,别评判我
+english_events_bubbles:L1569,bubble_mothman4,KEEP,"Tell me a spooky story, Moss!","告诉我一个恐怖的故事,莫斯!","告诉我一个恐怖的故事,莫斯!"
+english_events_bubbles:L1570,bubble_mothman4,KEEP,"Okay, this one's called...","好吧,这个叫...","好吧,这个叫..."
+english_events_bubbles:L1571,bubble_mothman4,FIX,MAN DOOR HAND HOOK CAR DOOR.,男人的门韩霍克车门。,男人 门 手 钩子 车门。
+english_events_bubbles:L1577,bubble_mothman5,FIX,...BUT WHO WAS PHONE?!,...谁在电话里?,……可谁是电话？！
+english_events_bubbles:L1578,bubble_mothman5,FIX,"Whoa, Moss... that story sure was creepy...","哇,摩斯... 那个故事很恐怖...",哇，莫斯……这故事可真吓人……
+english_events_bubbles:L1584,bubble_stu1,FIX,"Polly, wanna ""puff puff pass?""","波莉想要""泡泡传""吗?",波莉，来不来“吸两口，传一手”？
+english_events_bubbles:L1585,bubble_stu1,KEEP,Is that a football move?,那是橄榄球运动吗?,那是橄榄球运动吗?
+english_events_bubbles:L1586,bubble_stu1,FIX,...Nah.,...没有。,……不是。
+english_events_bubbles:L1592,bubble_stu2,FIX,Can we pick up some Mary Jane?,我们可以拿一些玛丽简?,能不能顺路买点玛丽·简？
+english_events_bubbles:L1593,bubble_stu2,KEEP,Is she a friend of yours?,她是你的朋友吗?,她是你的朋友吗?
+english_events_bubbles:L1594,bubble_stu2,KEEP,Heh... you could say that.,哦... 你可以这么说。,哦... 你可以这么说。
+english_events_bubbles:L1600,bubble_stu3,KEEP,Shit... I'm late for my lifeguard shift.,妈的... 救生员轮班要迟到了,妈的... 救生员轮班要迟到了
+english_events_bubbles:L1606,bubble_stu4,KEEP,"Whoa, look at that pretty cathedral!","哇,看看那个漂亮的大教堂!","哇,看看那个漂亮的大教堂!"
+english_events_bubbles:L1607,bubble_stu4,POLISH,My gramps used to work at one like that.,我的外公曾经在这样的一个工作。,我外公以前也在那样的教堂工作过。
+english_events_bubbles:L1613,bubble_stu5,POLISH,Shit... I'm late for my shift at the laundromat again.,妈的... 我又在洗衣店上班迟到了,操……洗衣店那边，我又要迟到了。
+english_events_bubbles:L1614,bubble_stu5,KEEP,How do you still have a job?,你怎么还有工作?,你怎么还有工作?
+english_events_bubbles:L1615,bubble_stu5,FIX,Beats me.,难怪我,我也想知道。
+english_events_bubbles:L1621,bubble_valerie1,KEEP,"Can I touch this thingie, Valerie?","我能摸摸这个东西吗,瓦莱丽?","我能摸摸这个东西吗,瓦莱丽?"
+english_events_bubbles:L1622,bubble_valerie1,FIX,"You break it, you buy it.","你打破它,你买它。",碰坏了就得买。
+english_events_bubbles:L1628,bubble_valerie2,KEEP,"What's this thing, Valerie?","这是什么,瓦莱丽?","这是什么,瓦莱丽?"
+english_events_bubbles:L1629,bubble_valerie2,KEEP,It costs five bucks to touch that.,碰那个要花五块钱,碰那个要花五块钱
+english_events_bubbles:L1635,bubble_valerie3,KEEP,"You're a smart business owner, Val...","你是个聪明的老板,瓦尔...","你是个聪明的老板,瓦尔..."
+english_events_bubbles:L1636,bubble_valerie3,FIX,"Wanna invest in Prank Masterz, Inc.?",想投资恶作剧马斯特兹股份有限公司吗?,想不想投资恶作剧大师有限公司？
+english_events_bubbles:L1637,bubble_valerie3,FIX,Nah.,没有。,不想。
+english_events_bubbles:L1643,bubble_valerie4,KEEP,Oops! I spilled my water...,哎哟! 我洒了个水...,哎哟! 我洒了个水...
+english_events_bubbles:L1644,bubble_valerie4,FIX,HISS!,他的枪!,哈——！
+english_events_bubbles:L1650,bubble_valerie5,FIX,"Want a PB&J sandwich, Valerie?","想要一个PB&J三明治吗,瓦莱丽?",瓦莱丽，要不要花生酱果酱三明治？
+english_events_bubbles:L1651,bubble_valerie5,KEEP,Eh... got any tuna?,额... 有金枪鱼吗?,额... 有金枪鱼吗?
+english_events_bubbles:L1657,bubble_valerie6,FIX,"Ugh, who keeps shedding in the car?","唉,谁在车里不停地打草惊蛇?",呃，到底是谁，一直往车里掉毛？
+english_events_bubbles:L1658,bubble_valerie6,KEEP,Sorry...,对不起...,对不起...
+english_events_bubbles:L1659,bubble_valerie6,KEEP,Sorry...,对不起...,对不起...
+english_events_bubbles:L1665,bubble_valerie7,POLISH,"Scott, quit using my shedding comb.",斯科特别再用我的梳子了,斯科特，别再用我的除毛梳了。
+english_events_bubbles:L1666,bubble_valerie7,FIX,But it makes me feel so silky!,但它让我感觉如此丝绸!,可梳起来，我的毛好顺滑啊！
+english_events_bubbles:L1672,bubble_zoe1,FIX,Wanna rank all the Evangelion characters with me?,想把我所有福音人物排在一边吗?,要不要一起，给《新世纪福音战士》的所有角色排个名？
+english_events_bubbles:L1673,bubble_zoe1,FIX,Nah.,没有。,不要。
+english_events_bubbles:L1679,bubble_zoe2,FIX,Wanna rank every Same Direction fanfic on WhatPad with me?,要不要把每台同一方向的粉丝 都排到我身上?,要不要跟我一起，把WhatPad上Same Direction的同人文，都排个名？
+english_events_bubbles:L1680,bubble_zoe2,FIX,Nah.,没有。,不要。
+english_events_bubbles:L1686,bubble_zoe3,FIX,Wanna rank every sex scene in Dragon Heat with me?,要不要把龙热的性爱场面都排好?,要不要一起，给《Dragon Heat》里所有的性爱场景排个名？
+english_events_bubbles:L1687,bubble_zoe3,KEEP,...Yes.,对,对
+english_events_bubbles:L1693,bubble_zoe4,FIX,"Zoe, wanna help me name all my muscles?",佐伊想帮我把肌肉都取名吗?,兹伊，要不要帮我给每块肌肉都起个名字？
+english_events_bubbles:L1694,bubble_zoe4,POLISH,IT WOULD BE MY HONOR.,这将是我的荣誉。,荣幸之至！
+english_events_bubbles:L1700,bubble_zoe5,KEEP,I love this song!,我喜欢这首歌!,我喜欢这首歌!
+english_events_bubbles:L1701,bubble_zoe5,FIX,It's a cult classic.,邪教经典.,这可是小众经典。
+english_events_bubbles:L1702,bubble_zoe5,FIX,OMG! Same!,欧玛! 一样!,天啊！我也超爱！
+english_events_bubbles:L1708,bubble_zoe6,FIX,"Ha, look at this meme.","哈,看看这个meme。",哈，看看这张梗图。
+english_events_bubbles:L1709,bubble_zoe6,KEEP,ASDFGHJKL;FSK;:',ASDFGHJKL;FSK;:',ASDFGHJKL;FSK;:'
+english_events_bubbles:L1710,bubble_zoe6,FIX,...Did you just keysmash aloud?,你刚才是高声按键吗?,……你刚才把乱敲键盘的声音，念出来了？
+english_events_bubbles:L1716,bubble_zoe7,FIX,"Ha, look at this meme.","哈,看看这个meme。",哈，看看这张梗图。
+english_events_bubbles:L1717,bubble_zoe7,FIX,xD,备注:,xD
+english_events_bubbles:L1718,bubble_zoe7,FIX,...How did you vocalize an emoji?,...你是如何表达情感的?,……你怎么把表情符号念出声了？
+english_events_bubbles:L1724,bubble_yellow1,KEEP,"Oz, can your little shadow-bros drive?",奥兹你的影子兄弟能开车吗?,奥兹你的影子兄弟能开车吗?
+english_events_bubbles:L1725,bubble_yellow1,FIX,Nah. They can't reach the pedals.,没有。 他们不能到达踏板。,不会，他们够不到踏板。

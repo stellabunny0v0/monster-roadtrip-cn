@@ -1,0 +1,115 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_maingame:L1183,garbagetv,KEEP,Watch some tv,看电视,看电视
+english_events_maingame:L1186,garbagetv,POLISH,"You're not quite ready for bed yet, so you decide to watch some TV.",你还没准备好睡觉 所以你决定看电视,你还不想睡，决定先看看电视。
+english_events_maingame:L1187,garbagetv,FIX,"Sadly, your motel doesn't have any streaming services, so you're stuck watching cable like some 18th-century peasant.","可悲的是,你的汽车旅馆没有 任何溪流服务, 所以,你卡住看电缆 像一些18世纪的农民。",可惜，汽车旅馆没有流媒体服务。你只好像个十八世纪的农民一样，看有线电视。
+english_events_maingame:L1191,garbagetv,POLISH,One channel is playing a reality show where the contestants are tiny people literally trapped inside your TV.,一个频道播放真人秀 参赛者都是被困在电视里的小人物,一个频道在播真人秀，选手全是小人，而且真的被困在你的电视里。
+english_events_maingame:L1192,garbagetv,POLISH,"""Please don't change the channel!"" they beg. ""We're so hungry! We've been waiting for--""","""请不要改变频道!"" 他们乞求。 ""我们好饿! 我们一直在等待...""",“求你别换台！”他们哀求，“我们好饿！我们一直在等——”
+english_events_maingame:L1193,garbagetv,FIX,"Ugh, boooooring. What else is on?","唉,嘘声。 还有什么?",呃，无——聊。还有什么节目？
+english_events_maingame:L1195,garbagetv,FIX,"You change it to the ""Snakes and Ladders"" TV adaptation.","你改编为""Snakes和Ladders""的电视改编版.",你换到《蛇梯棋》的电视剧改编版。
+english_events_maingame:L1196,garbagetv,FIX,"One aloof man says to another, ""Chaos is a ladder, my old friend. Perhaps the only ladder out there. Ah, and ladders... ladders are also a ladder.""","一个人对另一个人说:""乔斯是个梯子,我的老朋友. 也许唯一的梯子在那里。 啊,还有梯子... 梯子也是梯子"".",一个冷漠的男人对另一个说：“混乱是阶梯，老朋友。也许是世上唯一的阶梯。啊，还有梯子……梯子，也是阶梯。”
+english_events_maingame:L1197,garbagetv,POLISH,"The other super-serious person responds, ""Indeed... our dreams and hopes resting at the top, so close yet so far.""","另一个超级严肃的人回应道:""其实...... 我们的梦想和希望 停留在顶端, 如此接近,到目前为止。""",另一个满脸严肃的人回应：“确实……我们的梦想与希望就在顶端，如此接近，却又遥不可及。”
+english_events_maingame:L1198,garbagetv,POLISH,"""What a cruel world, plagued with snakes who will betray you and make you slide down their slippery bodies...""","""多么残酷的世界,被毒蛇所困扰"" ""毒蛇会背叛你,让你滑倒""",“多么残酷的世界，到处是会背叛你的蛇，让你顺着它们滑溜的身躯，一路滑落……”
+english_events_maingame:L1199,garbagetv,FIX,"""For this is a world... of SNAKES AND LADDERS.""","""因为这是一个世界... ""盗贼和盗贼""",“因为这就是一个……蛇与梯子的世界。”
+english_events_maingame:L1200,garbagetv,FIX,They said the thing!,他们说的!,点题了！
+english_events_maingame:L1201,garbagetv,POLISH,This show seems complicated. Is there anything else to watch?,这节目似乎很复杂。 还有别的东西要看吗?,这节目好像很复杂。还有别的吗？
+english_events_maingame:L1203,garbagetv,FIX,The next channel is the Merkingdom Totally Objective News station.,下一个频道是Merkingdom完全客观新闻台.,下一个频道，是人鱼王国完全客观新闻台。
+english_events_maingame:L1204,garbagetv,FIX,"""In today's news, all trespassers who breach the surface will be beheaded. Dolphins, orcas, and other mammals will need to apply for a temporary surface residence permit.""","""""今日新闻中,所有突破地表的入室人员被斩首. 海豚,海豚等哺乳动物需要申请临时地表居留证"".",“今日新闻：凡擅自浮出水面的入侵者，一律斩首。海豚、虎鲸及其他哺乳动物，须申请水面临时居留许可。”
+english_events_maingame:L1205,garbagetv,POLISH,"Fuckin' bureaucracy. %CURRENTPLAYERNAME%, can you find a channel that isn't totally lame?","他妈的官僚主义。  %CURRENTPLAYERNAME%,你能找到一个不是完全跛脚的频道吗?",他妈的官僚主义。%CURRENTPLAYERNAME%，能找个没那么无聊的台吗？
+english_events_maingame:L1208,garbagetv,FIX,"""A Decomposing Possum Carcass."" It's the most popular miniseries right now. Nonsensical but full of twists!","""腐烂出类固醇"",是目前最受欢迎的迷你系列. 无意识但充满了曲折!",《一具正在腐烂的负鼠尸体》。目前最火的迷你剧，莫名其妙，却反转不断！
+english_events_maingame:L1209,garbagetv,FIX,"A marathon of very weird Japanese ""Scott Snacks"" commercials. Surely it'll make you crave some!","一个非常奇怪的日本人马拉松 ""斯科特 小吃""广告. 这肯定会让你渴望一些!",连播怪得离谱的日本“斯科特零食”广告。看完保准馋！
+english_events_maingame:L1210,garbagetv,FIX,"""Dark Arts and Crafts with Melchor the Ancient and the Kidz!""","""黑暗的艺术和工艺 与古老的梅尔克 和基德兹!""",《和远古术士梅尔乔及小朋友们，一起做黑魔法手工！》
+english_events_maingame:L1215,garbagetv,POLISH,"Oh, I've been hearing about this show. The critics say ""it's the tits.""","哦,我一直听说这个节目。 批评者说""这是奶子"".",哦，最近总听说这部剧。影评人都说“绝了”。
+english_events_maingame:L1216,garbagetv,POLISH,"Whoa. It's really gross, but I can't look away.","呜呼. 真的很恶心,但我不能视而不见。",哇。真恶心，可我就是移不开眼。
+english_events_maingame:L1217,garbagetv,FIX,"Right? Like, is its arm gonna fall off? What type of insect will retrieve which part of the possum?",对吧? 它的手臂会掉下来吗? 什么样的昆虫会取回负鼠的哪一部分?,对吧？它的胳膊会掉下来吗？什么虫子，会搬走负鼠的哪个部位？
+english_events_maingame:L1218,garbagetv,POLISH,And most importantly: can we imagine how it smells just by how it looks?,"最重要的是,我们能想象它是如何通过外表闻到的吗?",最重要的是：光看这画面，咱们能想象出它有多臭吗？
+english_events_maingame:L1219,garbagetv,FIX,"You couldn't stop watching this beautiful, disgusting force of nature even if you wanted to.","你无法停止看这种美丽的,令人作呕的自然力量 即使你想。",这大自然的奇观，又美又恶心，你想不看都不行。
+english_events_maingame:L1220,garbagetv,FIX,Literally. You end up watching the show all night.,从字面上讲。 你整晚都在看节目,真的。你们一看，就看了一整夜。
+english_events_maingame:L1221,garbagetv,POLISH,That was great! I liked the underlying message about the beauty of nature's cycle.,赞! 赞! 我喜欢关于自然循环的美丽的基本信息。,太棒了！我喜欢它暗含的寓意，讲的是自然循环的美。
+english_events_maingame:L1222,garbagetv,FIX,"We live and feed from the Earth, and once we die we go back to it... as quality TV.","我们从地球上活下来和养活, 一旦我们死了,我们回到它... 作为优质的电视。",我们活着时，从大地获取养分。死后，又回归大地……成了优质电视节目。
+english_events_maingame:L1223,garbagetv,POLISH,Bro... do you think the possum will survive?,哥们... 你认为负鼠会活下来吗?,兄弟……你说，这负鼠能活下来吗？
+english_events_maingame:L1224,garbagetv,POLISH,Eh...,额...,呃……
+english_events_maingame:L1225,garbagetv,POLISH,"...Maybe, Scott.","...也许, 斯科特.",……也许吧，斯科特。
+english_events_maingame:L1226,garbagetv,FIX,You lose -N2 MIND facing the meaninglessness of life and death.,你输了N2 MIND面对生死的毫无意义.,直面生与死的毫无意义，让你损失-N2头脑。
+english_events_maingame:L1227,garbagetv,FIX,But you gain +N2 HYPE by following @DecomposingPossumPosse to meet other fans and discuss theories about the next episode!,"但你通过跟随@Decoprestion PossumPosse去会见其他粉丝并讨论下集的理论,获得了+N2 HYPE!",不过，你关注了 @DecomposingPossumPosse，结识其他粉丝，一起讨论下一集的剧情猜想，获得+N2热度！
+english_events_maingame:L1232,garbagetv,POLISH,The commercial opens with two kids eating a bland fiber cereal and crying.,广告开场时有两个孩子 吃着一粒粗糙的纤维麦片并哭着,广告开场，两个小孩正在边哭边吃寡淡的高纤麦片。
+english_events_maingame:L1233,garbagetv,FIX,"Suddenly, a person in what only can be described as a Scott fursuit appears with bag of Scott Snacks!","突然,一个人在什么 只能被描述为 斯科特 穿着毛衣的布袋出现 斯科特 ack!",突然，一个人提着一袋斯科特零食出现了。那人穿的衣服，只能说是一套斯科特兽装！
+english_events_maingame:L1234,garbagetv,FIX,"He throws the snacks at the kids while yelling ""GOOD BOIS!"", and the kids transform into buff bodybuilders in revealing swimwear.","他向孩子们扔点心,同时高叫""GOOD BOIS!"",孩子们在揭示泳衣时会变身为布夫健美运动员.",他把零食扔给孩子们，大喊“乖孩子！”孩子们顿时变成了穿着清凉泳装的肌肉猛男。
+english_events_maingame:L1235,garbagetv,FIX,"He throws the snacks at a passing car while yelling ""GOOD BOI!"", and the car transforms into a buff robot in revealing swimwear.","他把点心扔到过往的汽车上,同时大叫""GOOD BOI!"",而汽车在揭示泳衣时会变身为布克机器人.",他朝一辆路过的汽车扔零食，大喊“乖孩子！”汽车变成了穿着清凉泳装的肌肉机器人。
+english_events_maingame:L1236,garbagetv,FIX,"The parents appear and start asking what happened to their children. Scott throws snacks at them, but he doesn't say ""GOOD BOIS.""","父母相出并起问所生子事.  斯科特 扔点心给他们, 但他不说""GOOD BOIS""。",父母出现，追问孩子们怎么了。斯科特朝他们扔零食，却没说“乖孩子”。
+english_events_maingame:L1237,garbagetv,FIX,The parents transform into bowls of bland fiber cereal.,父母们会变成一碗干地纤维谷类。,父母变成了两碗寡淡的高纤麦片。
+english_events_maingame:L1238,garbagetv,POLISH,"The family dog starts barking, because from a metaphysical standpoint, its owners have disappeared, possibly forever.","家犬开始叫叫,因为从元物理角度来看,它的主人已经消失了,可能永远消失.",家里的狗开始狂吠。毕竟，从形而上的角度讲，它的主人消失了，而且可能再也回不来了。
+english_events_maingame:L1239,garbagetv,FIX,"Scott throws snacks at the dog and yells ""GOOD BOI!"". It transforms into a buff werewolf in revealing swimwear.","斯科特 向狗扔点心并叫出""GOOD BOI!"". 它在揭示泳衣时会变成狼人",斯科特朝狗扔出零食，大喊“乖孩子！”狗变成了穿着清凉泳装的肌肉狼人。
+english_events_maingame:L1240,garbagetv,FIX,"Scott looks at the camera and yells: ""ALWAYS BE GOOD BOIS! NEVER BE NOT GOOD BOIS! SCOTT SNACKS: THE TASTE OF GOOD BOIS!""","斯科特 看着相机,大叫道:""永远是好孩子! 永远不是好孩子! ""好孩子的滋味"" ""好孩子的滋味""",斯科特看向镜头，大喊：“永远做乖孩子！绝对不能不乖！斯科特零食：乖孩子的滋味！”
+english_events_maingame:L1241,garbagetv,POLISH,"What a good commercial! I don't remember recording it, though.",多好的广告啊! 我不记得录下来了,真是个好广告！不过，我不记得自己拍过。
+english_events_maingame:L1242,garbagetv,POLISH,"Wait... if the parents turned into bowls of fiber cereal, does that mean those boys were being forced to eat people who'd been transformed? Is that why they were crying?",单单... 如果父母变成一碗纤维麦片 那是否意味着那些男孩 被迫吃那些被改造的人? 这就是他们哭的原因吗?,等等……要是父母变成了麦片，那两个男孩一开始被逼着吃的，岂不也是变过来的人？所以他们才哭？
+english_events_maingame:L1243,garbagetv,FIX,"The commercial was really weird, but it worked. You're craving Scott Snacks like crazy. You order some bags online, losing -N2 MONEY but gaining +N2 STAMINA.","广告很诡异,但很有效。 你渴望着 斯科特 吃东西像疯了。 你在网上订购一些袋子,损失 -N2货币,但获得+N2 STAMINA。",广告很怪，可确实有效。你馋斯科特零食馋得不行，网上下单买了几袋，损失-N2金钱，却获得+N2体力。
+english_events_maingame:L1244,garbagetv,FIX,GOOD BOI!,好样的!,乖孩子！
+english_events_maingame:L1249,garbagetv,POLISH,"""Hiya, Kidz,"" says the warlock onscreen. ""Or, as we say in my realm, 'GLORY TO THE ARCHDEMONS, COMRADES.'""","""Hiya, Kidz""在屏幕上说出""阀门"". ""或者,正如我们在我的王国里所说的, '对阿赫德蒙斯, 康拉德斯'",“嗨，小朋友们，”屏幕上的术士说，“或者，按我们那边的说法：‘同志们，荣耀归于大恶魔！’”
+english_events_maingame:L1250,garbagetv,POLISH,"""Who's ready for some dark arts and crafts with your buddy Melchor?""","""谁准备好和你的朋友梅尔乔一起 做一些黑暗的艺术和工艺品?""",“谁准备好了，跟你们的好朋友梅尔乔，一起做黑魔法手工？”
+english_events_maingame:L1251,garbagetv,FIX,ME! ME! I'M READY! PICK ME!,我来了! 我来了! 我准备好了! 夹住我!,我！我！我准备好了！选我！
+english_events_maingame:L1252,garbagetv,POLISH,"""We're ready!"" say the Kidz in haunting unison. ""What are we making today, Melchor?""","""我们准备好了!"" 基德夫妇说,""我们准备好了!"" ""我们今天要做什么,梅尔乔?""",“我们准备好了！”孩子们整齐得让人发毛地齐声说，“梅尔乔，今天要做什么？”
+english_events_maingame:L1253,garbagetv,FIX,"WHAT ARE WE MAKING, MELCHOR?! I HAVE TO KNOW!!!","我们在做什么,梅克索尔! 我必须知道!",梅尔乔，我们要做什么？！快告诉我！！！
+english_events_maingame:L1254,garbagetv,FIX,"""We're making voodoo paper dolls! For this craft, you'll need a bit of glue, some construction paper, and THE DNA OF SOMEONE YOU WISH TO DESTROY.""","""我们制造出巫统纸娃娃! 对于这艘飞艇,你需要一点胶水, 一些建筑纸, 和某人的DNA 你希望去吃""。",“我们要做巫毒纸娃娃！需要一点胶水、几张手工纸，还有——你想毁掉的那个人的 DNA。”
+english_events_maingame:L1255,garbagetv,POLISH,"""But before we get to crafting, do you Kidz know what time it is?""","""但在我们开始制作之前,你知道现在几点了吗?""",“不过，开始做手工之前，小朋友们知道，现在是什么时间吗？”
+english_events_maingame:L1256,garbagetv,FIX,"""Sacrifice time!"" the Kidz cheer.","""牺牲时间"" 基兹欢呼.",“献祭时间！”孩子们欢呼道。
+english_events_maingame:L1257,garbagetv,POLISH,"""It sure is! Everyone draw a popsicle stick, and the person with the shortest stick gets to be today's sacrifice to the Archdemons of Crafteroth!""","""这是肯定的! 每个人都画个冰棒,最短棍子的人 就能成为今天对克拉夫托斯拱门的牺牲!""",“没错！大家各抽一根冰棍棒，抽到最短那根的，就是今天献给克拉夫特罗斯大恶魔们的祭品！”
+english_events_maingame:L1258,garbagetv,FIX,Young Toby draws the short stick. The Kidz sing a song while drawing a pentagram with sidewalk chalk.,年轻的托比抽出短棍。 基德兹人在用人行道粉笔画出一首五角星时会演唱一首歌曲.,小托比抽到了短签。孩子们一边唱歌，一边用粉笔在地上画五芒星。
+english_events_maingame:L1259,garbagetv,FIX,Then they proceed to stab Toby repeatedly to release his sweet sacrificial blood. They all laugh and splash in the blood puddles. Joy!,"然后他们再三刺死托比 以释放出他甜蜜的牺牲血迹 他们都笑了,在血坑里溅出来。 真开心！",随后，他们开始一刀又一刀地刺托比，放出甜美的祭祀用血。大家在血泊里又笑又踩，溅起血花。真开心！
+english_events_maingame:L1260,garbagetv,FIX,"""Fantastic job, Kidz! The Archdemons are appeased, and our crafts can commence! You're going to grow up to be excellent warlocks one day.""","棒极了,基兹! 弓箭手们安抚了 我们的手艺可以开始了! 你总有一天会长大成为优秀的军阀"".",“小朋友们，干得真棒！大恶魔们满意了，我们可以开始做手工了！长大后，你们一定都能成为优秀的术士。”
+english_events_maingame:L1261,garbagetv,POLISH,"%CURRENTPLAYERNAME%, can we do the crafts here? Pretty please!","%CURRENTPLAYERNAME%我们能在这里做手艺吗? 美人,请!",%CURRENTPLAYERNAME%，我们能在这里做那些手工吗？求求你啦！
+english_events_maingame:L1262,garbagetv,POLISH,"Um... you're pretty sure practicing these dark arts and crafts will take a toll on your soul, but you can't say no to those puppy eyes!",那个... 你敢肯定 练习这些黑暗的艺术和工艺品 会伤害你的灵魂 但你不能拒绝那些小狗的眼睛!,呃……你很确定，搞这些黑魔法手工，有损灵魂。可你实在拒绝不了那双小狗般的眼睛！
+english_events_maingame:L1263,garbagetv,FIX,"You lose -N2 SOUL from the unspeakable things you do with scissors, glitter, and glue...",你用剪刀、闪光和胶水 弄出难以言状的东西 弄丢了N2 SOUL...,你用剪刀、亮片和胶水，干了些不可言说的事，损失-N2灵魂……
+english_events_maingame:L1264,garbagetv,FIX,But you gain +N2 MAGIC from the magic of friendship! (And also from all the black magic you practice.),但你从友谊的魔力中获得了+N2 MAGIC! (也是你所练习的黑魔法),不过，友谊的魔法，让你获得了+N2魔力！（还有你练的那些黑魔法。）
+english_events_maingame:L1272,wrongpizza,POLISH,Order some pizza,点披萨吧,点披萨
+english_events_maingame:L1275,wrongpizza,FIX,"No way you're going to bed on an empty stomach! You decide to order some pizza. Trouble is, none of you know any of the local restaurants around here.","你不可能睡在空的肚子上! 你决定要点披萨 问题是,你们都不认识这里的餐馆",哪能饿着肚子睡觉！你决定点披萨。问题是，你们谁也不熟悉附近的餐馆。
+english_events_maingame:L1277,wrongpizza,POLISH,The best way to get pizza is to call and order it. We could call a random number and see if there's pizza.,得到比萨饼的最好方法是打电话并订购. 我们可以随便打个电话 看看有没有披萨,想吃披萨，最好的办法就是打电话订。咱们可以随便拨个号码，问问有没有披萨。
+english_events_maingame:L1278,wrongpizza,POLISH,"Scott, the odds of calling a random phone number and actually getting a pizza restaurant are SUPER low.",斯科特拨打随机电话号码 买披萨餐厅的几率很低,斯科特，随便拨个电话，刚好打到披萨店的概率，可低得要命。
+english_events_maingame:L1279,wrongpizza,POLISH,So let's dial a bunch of random numbers to increase our chances!,"所以,让我们拨打一堆随机数字来增加我们的机会!",那就多随便拨几个，提高成功率！
+english_events_maingame:L1280,wrongpizza,FIX,Beep boop beep!,哔嘘叫声!,哔嘟哔！
+english_events_maingame:L1281,wrongpizza,FIX,"Hello, is this a pizza place? ...Okay, that sounds close enough!","喂,这里是披萨店吗? 好吧,这听起来够近了!",喂，是披萨店吗？……好吧，听起来差不多！
+english_events_maingame:L1282,wrongpizza,FIX,We'd like one large sausage and pepperoni with stuffed crust. Thanks!,我们想要一个大香肠和辣椒 和塞满地壳。 谢谢!,我们要一份大号香肠加意式辣香肠披萨，夹心饼边。谢谢！
+english_events_maingame:L1283,wrongpizza,POLISH,"Whoa, you actually got a pizza place on the first try? What do you think are the chances of getting ANOTHER pizza place on your SECOND try?","哇,你实际上有一个比萨店 在第一次尝试? 你认为在你的第二次尝试中获得另一个比萨店的机会有多大?",哇，第一次就打到披萨店了？你说，第二次再打到另一家披萨店的概率，有多大？
+english_events_maingame:L1284,wrongpizza,POLISH,"I think we have good odds! Like, 5 out of 3 at least!","我认为我们有好的机会! 喜欢,至少3分之5!",我觉得挺高的！起码三分之五吧！
+english_events_maingame:L1285,wrongpizza,POLISH,Let's find out.,让我们来看看。,试试就知道了。
+english_events_maingame:L1286,wrongpizza,POLISH,"Hi, is this a pizza restaurant?","嗨,这是披萨餐厅吗?",喂，是披萨店吗？
+english_events_maingame:L1287,wrongpizza,FIX,"...You specialize in pizza to DIE for, huh? Perfect, we'll take one!","...你专攻披萨去死,是吧? 好极了,我们来一杯!",……你们专做“好吃到死”的披萨？太好了，我们要一个！
+english_events_maingame:L1288,wrongpizza,POLISH,"...Yeah, sure, I can destroy this phone after you hang up. Bye!","是的,当然,我可以摧毁 这电话后,你挂断。 再见!",……嗯，好，挂了就把这部电话销毁。拜拜！
+english_events_maingame:L1289,wrongpizza,POLISH,Polly does so. Good thing it was just the motel landline.,波莉 这样做。 幸好只是汽车旅馆的电话,波莉照做了。还好，只是汽车旅馆的座机。
+english_events_maingame:L1290,wrongpizza,FIX,"Thirty minutes later, there's not one, but TWO knocks at the door.","30分钟后,没有一次,而是两次敲门.",三十分钟后，有人敲门，而且来了两拨。
+english_events_maingame:L1291,wrongpizza,FIX,"""I'm here to deliver one hot, steaming sausage to Scott Howl,"" says the naked guy with a pizza box on his crotch. ""Let's make that crust EXTRA stuffed, big boy.""","""我是来送一发热蒸香肠的"" 斯科特 哈尔说:""那个裸体的家伙,他的裤子上有一个披萨盒. ""让我们的地壳 EXTRA塞入,大男孩""。",“我来给斯科特·嚎尔送一根热腾腾的香肠。”一个裸男说着，用披萨盒遮住裆部，“大块头，咱们把这饼边塞得满满当当吧。”
+english_events_maingame:L1292,wrongpizza,FIX,"""I've got the 'pizza' here for Polly Geist,"" says the shady guy in a trenchcoat. ""Nice pseudonym, by the way. Let's make this quick.""","""我这里有皮扎"" 波莉 盖斯特,那个穿战衣的狡猾的家伙说 顺便说一句 假名不错 ""让我们快点""",“来给波莉·鬼斯特送‘披萨’。”一个穿风衣的可疑男人说，“顺便说一句，假名起得不错。咱们速战速决。”
+english_events_maingame:L1293,wrongpizza,POLISH,"Oh, boy, what a fun problem! We have two pizzas but can only afford one!","哦,孩子,真是个有趣的问题! 我们有两个比萨饼,但只能买一个!",哇，好有意思的问题！两份披萨，可咱们只付得起一份！
+english_events_maingame:L1294,wrongpizza,FIX,"%CURRENTPLAYERNAME%, you're good at making decisions and shit. Which pizza should we take?",%CURRENTPLAYERNAME%你擅长做决定和狗屎。 我们该吃哪种披萨?,%CURRENTPLAYERNAME%，拿主意什么的，你最擅长了。咱们选哪份披萨？
+english_events_maingame:L1295,wrongpizza,POLISH,"The stripper's extra-large sausage. You suspect there's no pizza in that box, but at least you'll get a show!",脱衣舞娘的超大香肠. 你怀疑盒子里没有比萨饼 但至少你会有表演的!,脱衣舞男的特大香肠。你怀疑盒子里压根没有披萨，不过，至少能看个表演！
+english_events_maingame:L1296,wrongpizza,POLISH,"The shady guy's ""pizza."" The air quotes seem sketchy, but you think the odds of actually getting a pizza from him might be better.","可疑的家伙的""皮扎"", 空气引用似乎很粗略, 但你认为从他那里得到比萨饼的几率可能更好。",可疑男人的“披萨”。手势引号确实可疑，但你觉得，真能从他那儿买到披萨的概率，好像更高点。
+english_events_maingame:L1298,wrongpizza,FIX,You let the naked guy inside. He immediately sits on Scott's lap.,你让裸男进来了 他马上坐下来 斯科特膝盖上。,你让裸男进来，他立刻坐到了斯科特腿上。
+english_events_maingame:L1299,wrongpizza,FIX,"Whoa! What are you doing, pizza-bro?","呜呼! 你在干嘛,比萨兄弟?",哇！披萨兄弟，你在干吗？
+english_events_maingame:L1300,wrongpizza,POLISH,"""Delivering your pizza, of course. You want me to feed it to you, big boy?""","""送披萨,当然。 你想我喂它给你,大男孩?""",“当然是给你送披萨，大块头。要不要我喂你？”
+english_events_maingame:L1301,wrongpizza,POLISH,"Sure! Man, this is a really thorough delivery!","当然! 哥们,这是非常彻底的送货!",好啊！哇，这送餐服务，还真够周到的！
+english_events_maingame:L1302,wrongpizza,FIX,Scott does not get pizza. What he gets is a stripper giving him a lapdance to a trap remix of the Italian national anthem.,斯科特 不买比萨饼。 他得到的是一个脱衣舞娘 给了他一个圈套 重新混合的意大利国歌。,斯科特没吃到披萨。脱衣舞男伴着意大利国歌的 Trap 混音版，给他跳了一支膝上舞。
+english_events_maingame:L1303,wrongpizza,POLISH,"Um... nice dance, but you haven't given me any pizza yet. When is that gonna happen?",那个... 跳舞不错 但你还没给我披萨呢 什么时候会这样?,呃……舞不错，可披萨还没给我呢。什么时候能吃到？
+english_events_maingame:L1304,wrongpizza,POLISH,"""Oh, you mean you want MORE? Maybe you want a side of delicious fries?""","""哦,你的意思是,你想更多吗? ""也许你想吃点美味的薯条""",“哦，你还想加量？要不要再来一份美味的薯条？”
+english_events_maingame:L1305,wrongpizza,POLISH,"Yeah, I guess I could go for some fries.","是啊,我想我可以去一些薯条。",嗯，来点薯条也不错。
+english_events_maingame:L1306,wrongpizza,FIX,"The stripper opens the door, and another stripper walks in wearing French fry nipple tassels!","脱衣舞娘打开门,又一个脱衣舞娘走来穿了法国煎奶油口香糖!.",脱衣舞男打开门，另一个舞者走了进来，胸前挂着薯条形状的乳贴流苏！
+english_events_maingame:L1307,wrongpizza,POLISH,"Oh, you know, I think I'm craving fries actually. You can bring that right over here, boo.","哦,你知道,我觉得我 渴望薯条实际上。 你可以把那个带过来,嘘。",哦，说起来，我还真有点馋薯条。亲爱的，往我这儿送吧。
+english_events_maingame:L1308,wrongpizza,POLISH,"You never eat, Polly. What's going on?",你从不吃东西 波莉. 发生了什么事?,波莉，你又不吃东西。这怎么回事？
+english_events_maingame:L1309,wrongpizza,FIX,"Well Scott, I've expertly deduced that these people aren't pizza delivery people. They're strippers. They deliver lapdances.",这个嘛 斯科特我专家推断 这些人不是送披萨的人 他们是脱衣舞娘。 他们提供花样舞步。,斯科特，经过我的专业推理，这些人不是送披萨的，是脱衣舞者。他们提供的是膝上舞服务。
+english_events_maingame:L1310,wrongpizza,POLISH,"Oh! That would explain why they're really good at stripping, but really bad at delivering food.","哦 这可以解释为什么他们真正擅长脱衣, 但真正糟糕的是运送食物。",哦！难怪脱衣服这么熟练，送吃的却不怎么在行。
+english_events_maingame:L1311,wrongpizza,FIX,"The strippers give you all a FULL-contact delivery. You lose -N2 STAMINA because you're still hungry, but you gain +N2 HYPE!","脱衣舞娘会给你们一个完全接触的快递 你输了 -N2 Stamina 因为你仍然饿了, 但你得到了+N2 HYPE!",脱衣舞者给你们送上了全接触“外卖”。你们还是饿，损失-N2体力，不过获得了+N2热度！
+english_events_maingame:L1313,wrongpizza,POLISH,"You let the shady guy inside. He says, ""All right, let's get this over with. You gimme the stuff, I'll give you the 'pizza.'""","你让那个混混进来了 他说:""好吧,让我们结束这一切吧. 你给我的东西, 我给你""pizza""。",你让可疑男人进门。他说：“好了，赶紧完事。你给我东西，我给你‘披萨’。”
+english_events_maingame:L1314,wrongpizza,FIX,Why do you keep using air quotes like that?,你为什么一直这样用空气引子?,你为什么老用手指比引号？
+english_events_maingame:L1315,wrongpizza,POLISH,"Because ""pizza"" is probably code for something else, like drugs, or illegal ferrets.","因为""pizza""可能是别的东西的代码,比如药物,或者非法的雪貂.",因为“披萨”大概是别的东西的暗号，比如毒品，或者非法雪貂。
+english_events_maingame:L1316,wrongpizza,FIX,The guy undoes his trenchcoat and holds it out for you to see. Each pocket contains...,那个家伙解开他的战衣 让你看看 每个口袋里都有...,男人解开风衣，撑开给你们看。每个口袋里都装着……
+english_events_maingame:L1317,wrongpizza,FIX,"Slices of pizza. Not in boxes or anything, either. Just loose pizza.",披萨切片. 也不要装入箱子里什么的 只是松了披萨。,披萨片。连盒子什么的都没装，就是散装披萨。
+english_events_maingame:L1318,wrongpizza,KEEP,...,...,...
+english_events_maingame:L1319,wrongpizza,KEEP,...,...,...
+english_events_maingame:L1320,wrongpizza,POLISH,"""You want it or not?""","""你到底想不想要吗?""",“到底要不要？”
+english_events_maingame:L1321,wrongpizza,KEEP,Sure!,当然!,当然!
+english_events_maingame:L1322,wrongpizza,FIX,"Scott tries a slice. Polly does too, because she's not entirely convinced this isn't drugs yet.","斯科特 试取一分.  波莉 也一样,因为她并不完全相信 这不是药物现在。",斯科特尝了一片。波莉也尝了，因为她还是没完全排除这是毒品的可能。
+english_events_maingame:L1323,wrongpizza,POLISH,It's the best pizza I've ever had! Is the secret ingredient ferrets? I never knew ferrets tasted so good!,这是我吃过的最好的披萨! 秘方是雪貂吗? 我从不知道雪貂味道这么好!,这是我吃过最好吃的披萨！秘密配方是雪貂吗？以前都不知道，雪貂能这么好吃！
+english_events_maingame:L1324,wrongpizza,POLISH,"Surprisingly, there AREN'T any illicit substances in this. Why were you calling it ""pizza"" if it's just regular pizza?","令人惊讶的是,这里没有任何非法物质。 你为什么叫它""披萨"",如果它只是普通的披萨?",真意外，这里面居然没有违禁品。既然就是普通披萨，你干吗还叫它“披萨”？
+english_events_maingame:L1325,wrongpizza,FIX,"""Because it isn't pizza. It's 'pizza.' It's pizza that's so damn delicious I can't legally call it pizza.""","""因为它不是比萨饼。 这是""披萨"",这是比萨饼 太好吃了,我不能把它称为""披萨""。",“因为这不是披萨，是‘披萨’。好吃到这份上，法律都不允许我叫它披萨。”
+english_events_maingame:L1326,wrongpizza,POLISH,"""And it isn't expensive either! The only price is me taking some pics of you eating it that I may or may not use for future blackmail material.""","""又不贵也! 唯一的代价是我拍下你吃它的照片, 我可能或不会用它来做未来的讹诈材料。”",“而且不贵！唯一的代价，就是让我拍几张你们吃披萨的照片。以后会不会拿来勒索，可不好说。”
+english_events_maingame:L1327,wrongpizza,POLISH,"Oh, okay! Take the photos from my left. People say it's my good side!","哦,还好! 从我左边取相. 人们说这是我的好一面!",哦，好啊！拍我左边，大家都说我这边好看！
+english_events_maingame:L1328,wrongpizza,POLISH,"If you upload these to the dark web, remember to tag me!","如果你把这些上传到黑暗的网络, 请记住标记我!",传暗网时，记得标记我！
+english_events_maingame:L1329,wrongpizza,FIX,"There is definitely something incredibly shady about all this; you can feel it in the -N2 SOUL you lose. But hey, you got your fill of ""pizza"", so you gain +N2 STAMINA.","这一切绝对有令人难以置信的隐蔽之处, 你可以感觉到它在N2 SOUL中,你失去了它。 但是,嘿,你得到了你的填充""pizza"", 所以你得到+N2 STAMINA。",这件事肯定有大问题，你损失的-N2灵魂足以证明。不过，至少“披萨”吃饱了，你获得+N2体力。

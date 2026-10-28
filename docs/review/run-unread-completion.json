@@ -1,0 +1,42 @@
+{
+  "completed_at": "2026-10-21",
+  "request": "审核直到所有未审结束，并提供完整中英待核对照",
+  "baseline_inspected": 27725,
+  "baseline_unread": 2530,
+  "passes": [
+    205,
+    206,
+    207,
+    208,
+    209,
+    210,
+    211,
+    212,
+    213,
+    214,
+    215,
+    216,
+    217,
+    218,
+    219,
+    220,
+    221,
+    222,
+    223
+  ],
+  "new_unique_inspected": 2530,
+  "complete_events": 52,
+  "decisions": {
+    "FIX": 1597,
+    "POLISH": 671,
+    "KEEP": 257,
+    "REVIEW": 5
+  },
+  "final_inspected": 30255,
+  "final_unread": 0,
+  "review_flags": 108,
+  "runtime_hold_rows": 59,
+  "pending_document_unique_rows": 109,
+  "installed_or_published": false,
+  "saves_touched": false
+}

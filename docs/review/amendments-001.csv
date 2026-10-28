@@ -1,0 +1,2 @@
+﻿row_id,event_id,decision,source,before,after,notes
+english_events_pitstop:L622,pitstop_passenger_intro_red_2,POLISH,"Let's do it! You can't spell ""road trip"" without ""Amira""!",走吧！拼“road trip”，怎么能没有“Amira”！,出发吧！没有“阿米拉”，就拼不出“公路旅行”！,"User-directed natural Chinese order. Follow-up correction, no additional review coverage."

@@ -1,0 +1,185 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_maingame:L13504,whattosmuggle,FIX,Smuggle something out,偷东西出来,走私点东西出去
+english_events_maingame:L13508,whattosmuggle,POLISH,"This ""country"" is little more than a cottage in a small field. You knock on the door.","这个""国家""只不过是小地里的一栋小屋. 你敲门。",所谓的“国家”，其实就是小块田里的一栋小屋。你敲了敲门。
+english_events_maingame:L13510,whattosmuggle,FIX,"Howdy, tourists! Welcome to my personal country!",游客们好! 欢迎来到我的祖国!,游客们好啊！欢迎来到我的私人国家！
+english_events_maingame:L13511,whattosmuggle,POLISH,"Wow, you have your own country? What's it called?","哇,你有你自己的国家? 唤作甚么.",哇，你有自己的国家？叫什么？
+english_events_maingame:L13512,whattosmuggle,KEEP,Europe.,欧洲。,欧洲。
+english_events_maingame:L13513,whattosmuggle,POLISH,Uh... what? Isn't Europe already the name of a continent?,额... 什麽? 欧洲不是已经是一个大陆的名字吗?,呃……什么？不是已经有个洲叫欧洲了吗？
+english_events_maingame:L13514,whattosmuggle,FIX,"So what? Citizens of the United States call themselves ""Americans"" even though North and South America are continents.","那又怎样? 美国公民称自己为""美国人"",尽管南北美洲是大陆.",那又怎样？美国人还管自己叫美洲人呢，可北美洲、南美洲明明各是一个洲。
+english_events_maingame:L13515,whattosmuggle,POLISH,"If people think that's normal, then fuck it, this is Europe, and people who live here are called Europeans!","如果人们觉得这很正常,那么他妈的,这是欧洲,而这里的人被称为""欧洲人""!",大家觉得那正常？行啊，管他妈的，我这儿就叫欧洲，住这儿的就叫欧洲人！
+english_events_maingame:L13516,whattosmuggle,POLISH,"Besides, mine is the superior Europe! We've got no taxes, we decriminalized murder via piano wire, Wednesdays have been abolished...","再说,我的欧洲是超级欧洲! 我们没有税收,我们通过钢琴线把谋杀非刑罪化,星期三被废除了...",再说，我的欧洲更好！不收税，用钢琴弦杀人不算犯罪，星期三也废除了……
+english_events_maingame:L13517,whattosmuggle,FIX,And we make one-of-a-kind products you can't find anywhere else on Earth!,"我们做一个一模一样的产品,你找不到 地球上的任何地方!",还生产独一无二的特产，地球上别处绝对找不到！
+english_events_maingame:L13518,whattosmuggle,FIX,That sounds awesome! Can we have one?,听起来真棒! 我们能来一杯吗?,听着真棒！能给我们一个吗？
+english_events_maingame:L13519,whattosmuggle,POLISH,NO! It's illegal to bring these products over the border!,没有! 把这些产品运出边境是非法的!,不行！带这些产品出境，违法！
+english_events_maingame:L13520,whattosmuggle,POLISH,The border? You mean that line drawn in the sand over there?,边界? 你是说那条线在沙子上划了?,边境？你说那边沙地上画的线？
+english_events_maingame:L13521,whattosmuggle,POLISH,That's the one!,就是那个!,正是！
+english_events_maingame:L13522,whattosmuggle,POLISH,"Right, okay. So, what happens if we DO smuggle something out?","对,好。 那么,如果我们真的走私什么?",行吧。那要是真偷运点东西出去，会怎样？
+english_events_maingame:L13523,whattosmuggle,POLISH,You don't want to know.,汝等不问.,你不会想知道的。
+english_events_maingame:L13524,whattosmuggle,FIX,You watch Noodles slowly pull some piano wire out of his hat. Nope nope nope.,"你看着面条慢慢地从他帽子上取出一些钢琴线来. 没有,没有。",你看着面条缓缓从帽子里抽出钢琴弦。不行不行，还是算了。
+english_events_maingame:L13525,whattosmuggle,POLISH,"(Come on, %CURRENTPLAYERNAME%, don't pussy out on me now! We gotta smuggle something out, it'll be great! Pick something to take!)","(来吧, %CURRENTPLAYERNAME%别再逼我! 我们得把东西偷运出去,会很棒的! 挑点吃的吧! )",（拜托，%CURRENTPLAYERNAME%，这会儿可别怂！非得偷运点东西出去，多好玩！挑一样带走！）
+english_events_maingame:L13528,whattosmuggle,FIX,The Blueprints to Proprietary Market-Disrupting Phone Technology,用于专有市场-干扰电话技术的蓝图,足以颠覆市场的独家手机技术蓝图
+english_events_maingame:L13529,whattosmuggle,KEEP,The Key to Immortality,永生之钥,永生之钥
+english_events_maingame:L13530,whattosmuggle,FIX,An action figure of the national hero: Valiant Buff Noodles. You can't buy it anywhere else.,民族英雄的动作人物:安定活佛活佛面. 于他地所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出所出.,国民英雄“英勇肌肉面条”的可动人偶，别处买不到。
+english_events_maingame:L13534,whattosmuggle,FIX,Whoa. This... this is groundbreaking. These blueprints would turn the whole mobile phone market on its head!,呜呼. 这个... 这是开创性的。 这些蓝图会把整个手机市场都推向了它的头上!,哇，这……这简直是革命性的突破。这蓝图足以颠覆整个手机市场！
+english_events_maingame:L13535,whattosmuggle,POLISH,"Really? Because if I'm reading this right, these blueprints just show someone holding a rat up to their ear and talking into it like it's a phone.","真的吗? 因为如果我读的正确,这些蓝图 只会显示有人拿着老鼠到耳朵上, 说话像电话一样。",真的？可要是没看错，图上不就是一个人拿老鼠贴在耳边，对着它当电话说话吗？
+english_events_maingame:L13536,whattosmuggle,POLISH,"Yup, that's right! Good eye, Scott!",没错 眼睛不错 斯科特!,没错！斯科特，眼力不错！
+english_events_maingame:L13537,whattosmuggle,POLISH,"Would that actually work the same as a phone, though?",那真的和电话一样吗?,可那真能当电话用吗？
+english_events_maingame:L13538,whattosmuggle,FIX,"Of course it will! It's on blueprints, and everything looks 150% more legit if it's in blueprints!","当然会的! 上面有蓝图,如果在蓝图里,一切看起来都比它合法150%!",当然！这可是蓝图，画进蓝图里，什么东西看起来都能靠谱 150%！
+english_events_maingame:L13539,whattosmuggle,POLISH,I just don't understand how it works.,我只是不明白它是如何运作的。,我就是不懂原理。
+english_events_maingame:L13540,whattosmuggle,POLISH,"Well, do you understand how regular phones work?",你知道普通电话怎么用吗?,那普通电话的原理，你懂吗？
+english_events_maingame:L13541,whattosmuggle,POLISH,Hmmmm... no.,垛... 没有。,嗯……不懂。
+english_events_maingame:L13542,whattosmuggle,KEEP,Exactly!,没错!,没错!
+english_events_maingame:L13543,whattosmuggle,FIX,"Polly stuffs the blueprints down your pants, and you leave Noodles' Europe. You lose -N2 SOUL for stealing.",波莉 把蓝图塞进裤子里 然后离开面条的欧洲 你因为偷东西而输了N2 SOUL,波莉把蓝图塞进你的裤子，你们离开了面条的欧洲。偷东西让你失去了 -N2 灵魂。
+english_events_maingame:L13544,whattosmuggle,POLISH,"Okay, gang, time to profit off these stolen ideas. I'll just list this blueprint on eBuy... and look, we've already got a buyer!","好了,伙计们,是时候从这些被窃取的主意中获利了。 我只要在eBuy上列出这个蓝图... 瞧瞧,我们已经找到买家了!",各位，该拿偷来的点子赚钱了。把蓝图挂到 eBuy……看，已经有人买了！
+english_events_maingame:L13545,whattosmuggle,POLISH,Can you ask him why he's buying them? I'm still trying to understand the appeal of all this.,你能问他为什么买这些东西吗? 我仍然在努力理解这一切的吸引力.,能问问他，买来干什么吗？我还在琢磨这到底哪儿吸引人。
+english_events_maingame:L13546,whattosmuggle,FIX,"Okay, I'll ask... he said, ""No idea, I just paid a lot of money for a digital drawing of a monkey, I don't know what I am doing with my money anymore, LOL.""","好吧,我会问... 他说,“不知道,我只是花了一大笔钱 来画一只猴子的数字画, 我不知道我用我的钱做什么了,LOL。”",行，我问问……他说：“不知道，刚花了一大笔钱买了张猴子的电子画像，已经不懂自己在拿钱干什么了，笑死。”
+english_events_maingame:L13547,whattosmuggle,POLISH,...I don't understand economics.,我不懂经济学,……我不懂经济学。
+english_events_maingame:L13548,whattosmuggle,FIX,"No one does, Scotty. Just be glad we made +N2 MONEY!","没有人知道, 斯科特y (中文(简体) ). 很高兴我们赚了+N2钱!",没人懂，小斯。反正咱们赚了 +N2 金钱，高兴就完了！
+english_events_maingame:L13552,whattosmuggle,POLISH,"It's not cool to smuggle the key out of Noodles' Europe, but who cares? I love fucking around with ancient magic!",偷取钥匙出面条欧洲可不酷 但谁在乎呢? 我喜欢用古老的魔法乱搞,把钥匙从面条的欧洲偷运出去，是不太好，可谁在乎？我就爱乱玩远古魔法！
+english_events_maingame:L13553,whattosmuggle,FIX,"Sweet, now we have immortality all to ourselves!","甜心,现在我们有永生了!",爽，永生的秘密归咱们独享了！
+english_events_maingame:L13554,whattosmuggle,POLISH,"It's a little late for me, but %CURRENTPLAYERNAME% could try to siphon its magic!","对我来说有点晚了,但%CURRENTPLAYERNAME%可以尝试吸取它的魔法!",我是用不上了，不过 %CURRENTPLAYERNAME% 可以试试吸取里面的魔法！
+english_events_maingame:L13555,whattosmuggle,POLISH,"Okay, you'll try. You put the key in your mouth and start sucking on it to get that sweet, sweet forbidden power.","好吧,你会尝试。 你把钥匙放进嘴里 然后开始吸取它 来获得那甜甜的被禁之力",行，试试。你把钥匙含进嘴里，吮吸起来，想吸出那诱人的禁忌力量。
+english_events_maingame:L13556,whattosmuggle,POLISH,"Is it working? Do you feel immortal, bro?","有用吗? 你觉得不朽吗,兄弟?",有用吗？兄弟，感觉自己长生不死了吗？
+english_events_maingame:L13557,whattosmuggle,POLISH,"Well, now my spit tastes metallic, so there's that. And my stomachache is gone!","我的口水有金属味,所以就这样 我的胃痛也不见了!",口水现在有股金属味了，也算点变化吧。而且胃也不疼了！
+english_events_maingame:L13558,whattosmuggle,POLISH,Then it must be working! Why don't we test it out?,那肯定有用 ! 一定有用 一定有用 一定有用 一定有用 一定有用 一定有用 何不试出取出.,那肯定有效！试验一下？
+english_events_maingame:L13559,whattosmuggle,FIX,"Without warning, Polly stabs you in the leg. Ouch.",没有警告 波莉 刺入了你的腿。 。 。 哎哟。,波莉毫无预兆地往你腿上捅了一刀。疼。
+english_events_maingame:L13560,whattosmuggle,POLISH,"Dang, you're bleeding a lot. Guess you're not immortal, bro.","干,你流血频出. 看来你不是不死之身 兄弟",哎，流了好多血。兄弟，看来你不是不死之身。
+english_events_maingame:L13561,whattosmuggle,FIX,"Before you can reply, a crow swoops down, steals the key out of your mouth, and swallows it in one gulp!","在你回复之前,一只乌鸦会往下冲, 偷走你嘴里的钥匙, 吞下它,一个口袋!",你还没来得及回答，一只乌鸦俯冲下来，从你嘴里抢走钥匙，一口吞下！
+english_events_maingame:L13562,whattosmuggle,POLISH,"HEY! That was our key, you rat with wings!","哎哟! 那是我们的钥匙,你这有翅膀的老鼠!",嘿！那是我们的钥匙，你这长翅膀的耗子！
+english_events_maingame:L13563,whattosmuggle,FIX,Polly grabs a gun (where is she getting all these weapons?!) and shoots the crow.,波莉 拿着枪(她从哪里得到这些武器?)并射出乌鸦.,波莉掏出一把枪，她到底哪儿来的这么多武器？！然后朝乌鸦开枪。
+english_events_maingame:L13564,whattosmuggle,FIX,The crow's head explodes... then quickly reforms!,乌鸦的头会爆炸... 然后迅速改革!,乌鸦的脑袋炸开……很快又长好了！
+english_events_maingame:L13565,whattosmuggle,FIX,WUT.,胡特语。,啥。
+english_events_maingame:L13566,whattosmuggle,FIX,"The crow looks indignantly at you all, then fires a laser out of its mouth. It hits you right in the knife wound. Today is NOT your lucky day.",乌鸦对你们都很不光彩 然后从嘴里射出一发激光 它击中你右 在刀伤。 今天不是你的幸运日。,乌鸦愤愤地看着你们，从嘴里射出一道激光，正中你的刀伤。今天可真不是你的幸运日。
+english_events_maingame:L13567,whattosmuggle,POLISH,That crow is bad news! We should go!,那只乌鸦是坏消息! 我们该走了!,这乌鸦不好惹！快走吧！
+english_events_maingame:L13569,whattosmuggle,FIX,"You make a run for the car and GTFO of Europe. You lost -N2 SOUL, but your injuries healed quickly, so maybe that key did give you a bit of +N2 MAGIC!","你跑去欧洲的汽车和GTFO。 -N2 SOUL输了,但你的伤情很快痊愈,所以也许那把钥匙确实给了你一点+N2 MAGIC!",你们冲回车上，赶紧滚出了欧洲。你失去了 -N2 灵魂，不过伤口愈合得很快，没准钥匙真给了你一点 +N2 魔力！
+english_events_maingame:L13573,whattosmuggle,POLISH,"Okay, good choice. We need to smuggle it out somehow, though...","好吧,不错的选择。 我们得想办法把它偷运出去,虽然...",好，选得不错。不过得想办法偷运出去……
+english_events_maingame:L13574,whattosmuggle,POLISH,"Ooh, I know! %CURRENTPLAYERNAME%, stick it up your butt!","哦,我知道了! 说吧!  %CURRENTPLAYERNAME%把它塞进你的屁股里!",哦，有了！%CURRENTPLAYERNAME%，塞进屁股！
+english_events_maingame:L13575,whattosmuggle,POLISH,That sounds painful as hell! It's not like Noodles has a customs office or a metal detector; can't I just put it in my pocket?,听起来很痛苦! 面条不是有海关或金属探测器;我就不能把它放在口袋里吗?,听着就他妈疼！面条这里又没海关，也没金属探测器，放口袋不行吗？
+english_events_maingame:L13576,whattosmuggle,POLISH,"No, silly, this is how you have to smuggle stuff. It's tradition! Now, open that bootyhole wide!","不,傻瓜,这就是你必须走私的东西。 这是传统! 现在,打开那个后门!",不行，傻瓜，走私就是得这么干。传统！来，把屁眼张大！
+english_events_maingame:L13577,whattosmuggle,FIX,"Ugh, fine. You sneak out of Europe with the Valiant Buff Noodles action figure in your ass, which is a sentence I never thought I'd say.","呃,没事。 你偷偷溜出欧洲 与安定布夫面条 行动人物在你的屁股, 这是一个句子 我从来没有想过我会说。",唉，行吧。你屁股里塞着“英勇肌肉面条”可动人偶，偷偷溜出欧洲。我从没想过自己会说出这种话。
+english_events_maingame:L13579,whattosmuggle,FIX,"Yay, our own Valiant Buff Noodles! The box says it comes with ""dozens of fun voice lines to make you forget the crushing weight of being alive!""","万岁,我们自己的活活泼的巴夫面! 盒子里说它有""几十个有趣的语音线让你忘记活着的压抑重量""!",耶，咱们也有英勇肌肉面条了！盒子上说：“内置几十句趣味语音，帮你忘掉活着那沉重的压力！”
+english_events_maingame:L13580,whattosmuggle,FIX,"Scott pulls Valiant Buff Noodles' pull string. You would've washed it off first if you were him, but whatever.","斯科特 拔出瓦连特·巴夫·尼多斯的拉弦 如果你是他,你就会先洗掉它,但不管怎样。",斯科特拉动人偶的拉绳。换作你，怎么也得先洗洗，不过算了。
+english_events_maingame:L13581,whattosmuggle,FIX,"""Hi, I'm Valiant Buff Noodles!"" says the doll.","""嗨,我是瓦利安特·巴夫面"",娃娃说。",人偶开口：“嗨，我是英勇肌肉面条！”
+english_events_maingame:L13582,whattosmuggle,FIX,Hiii Noodles!,来点面条!,嗨——面条！
+english_events_maingame:L13583,whattosmuggle,POLISH,"""Existence is pain!""","""存在就是痛苦""",“存在即痛苦！”
+english_events_maingame:L13584,whattosmuggle,POLISH,"Wow, it really sounds just like him!","哇,这听起来真像他!",哇，听着真跟他一模一样！
+english_events_maingame:L13585,whattosmuggle,POLISH,"""All hail Noodles' Europe! It has the most pizza, and no dirty communists!""","""所有万岁面条的欧洲! 它有最多的比萨饼, 没有肮脏的共产党人!""",“面条的欧洲万岁！披萨最多，没有肮脏的共产主义者！”
+english_events_maingame:L13586,whattosmuggle,FIX,Uh...,额...,呃……
+english_events_maingame:L13587,whattosmuggle,POLISH,"""What does fire taste like? Lick some and find out!""","""火味何等? 舔了点,再查清楚!""",“火是什么味道？舔舔就知道！”
+english_events_maingame:L13588,whattosmuggle,POLISH,Okay! Anyone got a lighter?,"好,我们走! 有人有打火机吗?",好！谁有打火机？
+english_events_maingame:L13589,whattosmuggle,POLISH,You know what? That's enough Valiant Buff Noodles.,"你知道吗? 够了,巴夫面条。",算了，英勇肌肉面条，听够了。
+english_events_maingame:L13590,whattosmuggle,FIX,Polly throws the action figure out of the car window. Guess it was fun while it lasted.,波莉 将动作图从车窗扔出。 估计这很有趣,波莉把人偶扔出车窗。好吧，至少刚才还挺好玩。
+english_events_maingame:L13591,whattosmuggle,FIX,"You lost -N2 SOUL stealing from Noodles' Europe, but at least those wacky catchphrases gave you +N2 HYPE!",你输了N2 SOUL从面条欧洲偷东西 但至少那些疯话给了你+N2 HYPE!,偷面条的欧洲的东西，让你失去了 -N2 灵魂。不过那些疯疯癫癫的口头禅，倒给你带来了 +N2 热度！
+english_events_maingame:L13599,diplomaticmeeting,KEEP,International relations,国际关系,国际关系
+english_events_maingame:L13604,diplomaticmeeting,FIX,"This ""country"" is little more than a cottage in a small field. You walk through the open door and see several important-looking people sitting around a table.","这个""国家""只不过是小地里的一栋小屋. 你走进开门,看到几个长相重要的人坐在桌子上。",所谓的“国家”，其实就是小块田里的一栋小屋。你从敞开的门进去，看见几个颇有来头的人围桌而坐。
+english_events_maingame:L13605,diplomaticmeeting,FIX,"Okay, settle down everyone. I officially call the annual Monster United Nations meeting to order!","好了,大家冷静下来。 我正式宣布每年的怪物联合国会议开始!",好了，各位安静。魔物联合国年度会议，正式开始！
+english_events_maingame:L13606,diplomaticmeeting,FIX,"I'm Baal Berith, here today in representation of Hell.",我是Baal Berith 今天代表地狱,我是 Baal Berith，今天代表地狱出席。
+english_events_maingame:L13607,diplomaticmeeting,FIX,"I'm Ambassador Fischoeder, representing the Merkingdom. Our nation is happy to test the ""peaceful political discourse"" thing before jumping straight to global invasions.","我是费肖德大使,代表默金多姆。 我们的国家很高兴在直接跳入全球入侵之前,先去检验""和平的政治言论""的事情.",我是费肖德大使，代表人鱼王国。直接发动全球入侵之前，我国愿意先试试“和平政治对话”这一套。
+english_events_maingame:L13609,diplomaticmeeting,POLISH,"And I'm Noodles, representing my country, Noodles' Europe!","我是面条,代表我的国家,面条的欧洲!",我叫面条，代表我的国家：面条的欧洲！
+english_events_maingame:L13610,diplomaticmeeting,POLISH,"Is there a specific reason as to why we recognize Noodles' ""sovereign nation"" as a legitimate country?","我们为什么承认面条""主权国家""为合法国家,有具体的理由吗?",我们承认面条这个“主权国家”是合法国家，有什么特别的理由吗？
+english_events_maingame:L13611,diplomaticmeeting,POLISH,It's a long story. The short version is we don't want a repeat of what happened last time we tried to kick him out of the MUN.,"说来话长. 短篇的版本是,我们不想重复上次试图将他赶出MUN时发生的事情.",说来话长。简单说，上次想把他踢出魔物联合国，后果我们不想再经历一遍。
+english_events_maingame:L13612,diplomaticmeeting,FIX,Teehee!,田晓! 田晓!,嘻嘻！
+english_events_maingame:L13613,diplomaticmeeting,POLISH,"The rest of the ambassadors introduce themselves. The Ambassadors of Belgium, Singapore, Madagascar, and Christmas Island are all present.",其余大使介绍. 比利时、新加坡、马达加斯加和圣诞岛大使都在场。,其余大使依次自我介绍。比利时、新加坡、马达加斯加和圣诞岛的大使都在。
+english_events_maingame:L13614,diplomaticmeeting,FIX,"Great! I think that's everyone, so let's begin!","不错! Great! 我想大家都在,我们开始吧!",很好，人齐了，开始吧！
+english_events_maingame:L13615,diplomaticmeeting,POLISH,"""Wait a minute,"" says the Singaporean ambassador. ""Who are those people sitting off to the side?""","新加坡大使说,“等一下”。 ""那些坐在一边的人是谁?""",新加坡大使说：“等等，旁边坐的那些人是谁？”
+english_events_maingame:L13617,diplomaticmeeting,FIX,"Hey bros! Don't mind us, we just wanted to listen in.","嘿,兄弟们! 别介意,我们只是想听进去",嘿，兄弟们！别管我们，我们就想旁听一下。
+english_events_maingame:L13618,diplomaticmeeting,POLISH,"""You can't do that!"" cries the Belgian ambassador. ""This is a classified meeting amongst some of the most respected, dangerous leaders in the monster world!""","""你不能这么做"" 比利时大使哭喊 ""这是在怪物世界中最受尊重,最危险的领导人中举行的秘密会议"".",比利时大使惊呼：“不行！这是机密会议，与会的都是怪物世界里备受尊重、又极其危险的领袖！”
+english_events_maingame:L13619,diplomaticmeeting,FIX,Yet you let Noodles in?,你让面条进来了吗?,那面条怎么能来？
+english_events_maingame:L13621,diplomaticmeeting,KEEP,You have no idea what war crimes I'm capable of!,你根本不知道我能干出什么战争罪行!,你根本不知道我能干出什么战争罪行!
+english_events_maingame:L13623,diplomaticmeeting,POLISH,"Okay, fine. Then... we're actually ambassadors of a new country called... ""The Independent Republic of Prankz."" Yeah, let's go with that.","好吧,没事。 那麽... 我们实际上是新国家的大使,叫... ""恶作剧独立共和国"",我们来听听吧",好吧。那……我们其实也是大使，来自一个新国家，叫……“恶作剧独立共和国”。对，就这个。
+english_events_maingame:L13624,diplomaticmeeting,FIX,"Sounds made up... but all countries are made up I suppose. You can stay, but according to diplomatic laws you can only participate in one point of discussion.","听起来是编的... 但所有国家都是由我决定的 你可以留下来,但根据外交法律,你只能参加一个讨论点.",听着像编的……不过国家都是人编出来的吧。可以留下，但按外交法规，你们只能参与一个议题。
+english_events_maingame:L13625,diplomaticmeeting,FIX,It's to help ease new countries into international politics.,帮助让新国家进入国际政治.,这是为了帮助新国家逐步融入国际政治。
+english_events_maingame:L13626,diplomaticmeeting,POLISH,You check the itinerary for today's meeting. Which point of discussion do you choose?,你检查一下今天的会议日程 你选择哪一点讨论?,你看了看今天的会议议程。选哪个议题？
+english_events_maingame:L13627,diplomaticmeeting,KEEP,International Trade Treaties,国际贸易条约,国际贸易条约
+english_events_maingame:L13628,diplomaticmeeting,POLISH,Diplomatic negotiations aiming to stop Noodles' Europe from building nuclear weapons,旨在阻止面条欧洲制造核武器的外交谈判,通过外交谈判，阻止面条的欧洲制造核武器
+english_events_maingame:L13631,diplomaticmeeting,FIX,"International Trade Treaties it is. You wait until they get to that point of discussion. When you join, some of the action has started already...","国际贸易条约就是这样。 你等着他们讨论到那个点吧 当你加入,一些行动已经开始...",就国际贸易条约了。你等到这个议题开始，加入时，讨论已经进行了一会儿……
+english_events_maingame:L13632,diplomaticmeeting,POLISH,"Noodles, intel tells us you manufacture some weird products in your country, and Hell wants in. We're open to trade you 20,000 soldiers for 0.1% of your gross national product.","面条,情报告诉我们 你在你的国家制造一些怪异的产品,地狱想要加入。 我们愿意以2万士兵换取国民生产总值的0.1%",面条，据情报，你们国家生产一些怪东西，地狱也想分一杯羹。我们愿意拿两万士兵，换你国国民生产总值的 0.1%。
+english_events_maingame:L13634,diplomaticmeeting,FIX,"Wait, I want a slice of that money pie! Noodles, I gotta have that 0.1% GNP!","等等,我要吃一块钱派! 面条,我必须拥有0.1%的国产总值!",等等，赚钱怎么能不带我！面条，那 0.1% 的国民生产总值，我要了！
+english_events_maingame:L13636,diplomaticmeeting,POLISH,"Okay, what will you give me for it?","好吧,你给我什么?",行啊，拿什么换？
+english_events_maingame:L13638,diplomaticmeeting,FIX,How about this: the Independent Republic of Prankz can offer you a thirty-million dollar military armament...,怎么样? 独立共和国 兰克兹可以给你提供三千万的军需品...,这样吧，恶作剧独立共和国愿意提供价值三千万美元的军备……
+english_events_maingame:L13639,diplomaticmeeting,FIX,"OR, you can have whatever's in %CURRENTPLAYERNAME%'s right hand.","OR,你可以有任何东西在 %CURRENTPLAYERNAME%右手执之.",或者，选 %CURRENTPLAYERNAME% 右手里的东西。
+english_events_maingame:L13640,diplomaticmeeting,POLISH,This is idiotic. Military power is obviously the better deal; there's no way anybody would be stupid enough to--,"这太蠢了 军事力量显然是最好的交易, 任何人都不会愚蠢到...",真蠢。显然军事实力更划算，怎么可能有人蠢到——
+english_events_maingame:L13642,diplomaticmeeting,FIX,I CAN'T HANDLE THE SUSPENSE! I'll take the right hand!,我不能处理的悬铃! 我拿右手来!,悬念憋死我了！我选右手！
+english_events_maingame:L13644,diplomaticmeeting,POLISH,Great choice! Your prize is a coupon entitling you to a free pizza!,伟大的选择! 你的奖品是一张优惠券 让你可以免费吃披萨!,好眼光！奖品是一张免费披萨券！
+english_events_maingame:L13645,diplomaticmeeting,FIX,"Actually, wait... it seems to be a buy-one-get-one free pizza coupon. So you still have to buy a pizza to use it. But still, it's something!","其实,等等... 看来是买单免费披萨券 所以你还是得买个比萨才能用 不过,还是有道理的!",不过，等等……好像是买一送一券。也就是说，还得先买一张披萨才能用。不过总比没有强！
+english_events_maingame:L13647,diplomaticmeeting,KEEP,...,...,...
+english_events_maingame:L13648,diplomaticmeeting,KEEP,...,...,...
+english_events_maingame:L13649,diplomaticmeeting,POLISH,"Oh, no, not the angry eyebrows! When he draws on the angry eyebrows it can only mean one thing... war crimes!","哦,不,不是愤怒的眉毛! 他画出愤怒的眉毛 只能意味着一件事 战争犯罪!",哦，不，愤怒眉毛！他一画上愤怒眉毛，就只意味着一件事……战争罪行！
+english_events_maingame:L13651,diplomaticmeeting,FIX,"You will worry about war crimes tomorrow... today, you gain +N2 MONEY from Noodles' Europe.","明天你会担心战争犯罪... 今天,你从面条的欧洲得到+N2货币.",战争罪行，明天再操心吧……今天，你从面条的欧洲赚到了 +N2 金钱。
+english_events_maingame:L13652,diplomaticmeeting,FIX,But you still lose -N2 MIND from doing lots of brainy diplomacy.,但你还是会因为 做很多聪明的外交而失去N2 MIND,不过费了这么多脑子搞外交，你还是失去了 -N2 头脑。
+english_events_maingame:L13655,diplomaticmeeting,POLISH,"Yeah, stopping Noodles from building weapons of mass destruction sounds like the sensible choice here.",阻止面条制造出大规模毁灭性武器 听起来很明智,没错，阻止面条制造大规模杀伤性武器，听起来确实是明智之选。
+english_events_maingame:L13656,diplomaticmeeting,FIX,"You wait until they get to that point of discussion. When you join, some of the action has started already...","你等着他们讨论到那个点吧 当你加入,一些行动已经开始...",你等到这个议题开始，加入时，讨论已经进行了一会儿……
+english_events_maingame:L13658,diplomaticmeeting,POLISH,"Fuck off! You can't make me stop making my nuclear weapons, no way, no how!","滚开! 你不能让我停止制造核武器,没有办法,没有办法!",滚蛋！休想让我停止造核武器，门都没有！
+english_events_maingame:L13659,diplomaticmeeting,POLISH,"Maybe it's too late! Maybe I've even already built the nuclear weapons... and I have them stored here, inside this cardboard box!",也许已经太晚了! 可能我甚至已经制造出核武器... 我把它们藏在这 放在纸箱里,说不定已经晚了！没准我早就造好了……就存在这儿，这个纸箱里面！
+english_events_maingame:L13660,diplomaticmeeting,POLISH,He's bluffing! Not even Ambassador Noodles would be reckless enough to put nuclear weapons in a cardboard box.,他在虚张声势! 甚至面条大使也不会轻率地把核武器放入纸板箱。,他在虚张声势！再怎么说，面条大使也不至于莽撞到把核武器装纸箱里。
+english_events_maingame:L13661,diplomaticmeeting,POLISH,You think so? Are you so sure that you're willing to let me... DROP IT?!,你这么认为? 你这么确定你愿意让我... 把它扔下来!,是吗？这么肯定？那敢不敢让我……把它扔地上？！
+english_events_maingame:L13662,diplomaticmeeting,POLISH,NO! DON'T DO THAT!,没有! 别那么做!,不！别扔！
+english_events_maingame:L13663,diplomaticmeeting,POLISH,"Noodles, if you have nukes in there, you have to show us. International negotiations rules entitle us to at least a five-second peek of all nuclear bombs.","面条,如果你有核弹在那里, 你必须告诉我们。 国际谈判规则使我们至少能够五秒钟地查看所有核弹。",面条，要是真有核弹，就得给我们看。按国际谈判规则，每颗核弹，至少得让我们看五秒。
+english_events_maingame:L13664,diplomaticmeeting,FIX,"Ugh, fine...","额,没事...",唉，行吧……
+english_events_maingame:L13665,diplomaticmeeting,FIX,"SIKE! I got you! Hahaha, you should've seen the looks on your faces!","烟啦! 我抓住你了! 我抓住你了! 我抓住你了! 我抓住你了! I got you! 哈哈哈,你应该看看 你脸上的表情!",骗你的！上当啦！哈哈哈，真该看看你们刚才那表情！
+english_events_maingame:L13667,diplomaticmeeting,POLISH,"I think we can reach a compromise. Ambassador Noodles, if you let Ambassador Fischoeder have the box, Scott will do a silly dance for you.","我认为我们可以达成妥协。 面条大使,如果你让费舒德大使拿着盒子 斯科特 为你跳个傻舞",应该能折中。面条大使，你把箱子交给费肖德大使，斯科特就给你跳段滑稽舞。
+english_events_maingame:L13668,diplomaticmeeting,POLISH,"Trust me, it's VERY silly. You won't wanna miss it!","相信我,这太傻了。 你不会想错过的!",信我，特别滑稽。错过可就亏了！
+english_events_maingame:L13670,diplomaticmeeting,POLISH,Well... if it's really that silly... then okay!,这个... 如果真的那么傻的话... 那还好!,嗯……要是真有那么滑稽……那好吧！
+english_events_maingame:L13672,diplomaticmeeting,FIX,Woohoo! Silly dancing time! Doo-dee-doo-dee-dah!,呜呼! 无聊的舞蹈时间! 道德道德兴!,呜呼！滑稽舞时间！嘟嘀嘟嘀哒！
+english_events_maingame:L13674,diplomaticmeeting,POLISH,"Haha, that dance was great! Totally worth it. You guys can look in the box now.","哈哈,那舞蹈很棒! ! 跳得真好,我还挺厉害的! 绝对值得 你们现在可以看看盒子了",哈哈，这舞真棒！值了！现在可以看箱子了。
+english_events_maingame:L13675,diplomaticmeeting,POLISH,"Fucking hell, he really DID have nukes in here!","他妈的,他真的有 核武器在这里!",他妈的，里面还真有核弹！
+english_events_maingame:L13676,diplomaticmeeting,FIX,Told ya! Teehee!,告诉你了! 田晓! 田晓!,早说了嘛！嘻嘻！
+english_events_maingame:L13678,diplomaticmeeting,FIX,"Hooray, we stopped the nuclear apocalypse! SILLY DANCE TIME! Doo-dee-doo-dee-dah!","万岁,我们阻止了核启示录! 安静地跳舞! 道德道德兴!",万岁，我们阻止了核末日！滑稽舞时间！嘟嘀嘟嘀哒！
+english_events_maingame:L13679,diplomaticmeeting,FIX,"You lost -N2 MIND from all the brainy diplomacy, but you gained +N2 SOUL for taking nukes away from Noodles!",你从所有聪明的外交中输了N2 MID 但你因为从面条上拿走核武器而获得了+N2 Suul!,费了这么多脑子搞外交，你失去了 -N2 头脑；不过从面条手里收走核弹，让你获得 +N2 灵魂！
+english_events_maingame:L13687,chooseholiday,FIX,Learn the country's customs,学习国家的风俗习惯,了解当地风俗
+english_events_maingame:L13690,chooseholiday,POLISH,"This ""country"" is little more than a cottage in a small field. You knock on the door.","这个""国家""只不过是小地里的一栋小屋. 你敲门。",所谓的“国家”，其实就是小块田里的一栋小屋。你敲了敲门。
+english_events_maingame:L13692,chooseholiday,POLISH,"Hi there, foreigners! Welcome to my country: Noodles' Europe!","嗨,外国人! 欢迎来到我的祖国:面条的欧洲!",外国人，你们好！欢迎来到我的国家：面条的欧洲！
+english_events_maingame:L13693,chooseholiday,POLISH,"""Noodles' Europe?"" But isn't there already a continent called Europe?","""面条的欧洲"",但难道不是已经有一个叫做""欧洲""的大陆了?",“面条的欧洲”？不是已经有个洲叫欧洲了吗？
+english_events_maingame:L13694,chooseholiday,POLISH,"Yeah, but I liked the name! Don't like it, make your own country!","是的,但我很喜欢这个名字! 不喜欢,做你自己的国家!",对啊，可我喜欢这名字！不服就自己建国！
+english_events_maingame:L13695,chooseholiday,POLISH,"Okay, live your truth. So what are some of the customs of Noodles' Europe?","好吧,活在你的真理中。 那么,什么是一些习俗 面条的欧洲?",行，你开心就好。那面条的欧洲有什么风俗？
+english_events_maingame:L13696,chooseholiday,FIX,One is that it's a common European custom to breathe using your lungs.,"一种是,使用肺气呼吸是欧洲常见的习惯.",其中一个，就是用肺呼吸。欧洲人都习惯这样。
+english_events_maingame:L13697,chooseholiday,FIX,"It began as a fashion statement in the upper class, but it became popular in all social castes when people realized lung-breathing was the best way not to die of suffocation.","它开始作为上层阶级的时尚言论,但在人们意识到肺出血是不会被窒息而死的最佳方法时,它在所有社会种姓中被流行.",最早是上流社会赶时髦的做法，后来大家发现，用肺呼吸最能避免窒息死亡，于是各个阶层都流行起来了。
+english_events_maingame:L13698,chooseholiday,FIX,"We also eat everything slathered in mayo! Except for No Mayo Mondays, when eating mayo is punishable by death.","蛋黄酱里所有被铺平的东西我们都吃! 除了""无""五月周一,吃""五月""""五月""""五月""""会被判处死刑.",还有，什么食物都得涂满蛋黄酱！但无酱星期一除外，那天吃蛋黄酱，处死。
+english_events_maingame:L13699,chooseholiday,FIX,And the favorite cultural pastime is to write Don Quixote!,"最喜欢的文化消遣是写""唐克索特""!.",最流行的文化消遣，则是写《堂吉诃德》！
+english_events_maingame:L13700,chooseholiday,FIX,You mean read Don Quixote?,"你是说读""唐克多""?",你是说，读《堂吉诃德》？
+english_events_maingame:L13701,chooseholiday,POLISH,"No, write it! No European has ever read the original work, but we know about it through pop culture, so whenever we have free time we take to writing the story ourselves.","不,写下来! 没有欧洲人看过原作, 但我们通过流行文化了解, 所以每当我们有空的时候, 我们自己写故事。",不，写！欧洲人没谁读过原著，可都从流行文化里听说过。所以一有空，我们就自己动笔写这个故事。
+english_events_maingame:L13702,chooseholiday,POLISH,So you just... rewrite the events of Don Quixote verbatim?,"所以你只是... . . . . . . 重写""唐克多特""的逐字事件?.",所以你们就是……把《堂吉诃德》的情节原样重写一遍？
+english_events_maingame:L13703,chooseholiday,POLISH,"Not REwrite, silly! No one's ever read it, remember? We just write what we think is the closest version to Don Quixote we can imagine.","别重写,傻瓜! 没人读过,记得吗? 我们只是写我们所认为的 与唐·克克索特最接近的版本 我们可以想象。",不是重写，傻瓜！都说没人读过了。我们只是尽量写出想象中最接近《堂吉诃德》的版本。
+english_events_maingame:L13704,chooseholiday,FIX,"In any case, you foreigners are in for a treat. Today's a special day in Europe!","无论如何,你们这些外国人要来吃点东西 今天是欧洲特别的日子!",总之，你们这些外国人有福了。今天可是欧洲的大日子！
+english_events_maingame:L13705,chooseholiday,FIX,"Oh, cool! Is today a holiday or something!","哦,酷毙了! 今天是节日还是什么的?",哦，酷！今天过节吗？
+english_events_maingame:L13706,chooseholiday,FIX,Better! Today is TWO holidays!,好多了! 来点吧! 今天是两个节日!,比那更棒！今天过两个节！
+english_events_maingame:L13707,chooseholiday,POLISH,"Wait, two? Isn't that kinda inefficient? Why not just give each holiday its own day so people can focus on celebrating just the one?","等等,两个? 那样是不是有点低效? 为什么不给每个节日自己的节日 让大家集中精力庆祝呢?",等等，两个？不会有点低效吗？各挑一天过，大家不就能专心庆祝一个了？
+english_events_maingame:L13708,chooseholiday,FIX,"Because it's my country and I make the rules! If I wanna have two holidays on the same day, THEN THAT'S HOW IT'S GONNA FUCKIN' BE!","因为那是我的国家,我做规则! 如果我想在同一天有两个假期, 那么它会如何他妈的'是!",因为我的国家，我定规矩！我他妈想在同一天过两个节，那就得这么过！
+english_events_maingame:L13709,chooseholiday,POLISH,"%CURRENTPLAYERNAME%, why don't you pick which holiday we celebrate? The President of Europe commands you to!",%CURRENTPLAYERNAME%你为什么不选择我们庆祝的节日呢? 欧洲总统命令你!,%CURRENTPLAYERNAME%，你来选庆祝哪个节吧！欧洲总统命令你选！
+english_events_maingame:L13710,chooseholiday,FIX,"Tanksgiving, the holiday in which we all give tanks to those who we love.","坦克之旅,我们共同赠送坦克的节日",感坦节，大家给心爱的人送坦克的节日。
+english_events_maingame:L13711,chooseholiday,FIX,"Freaky Friday, the Friday in which we swap our bodies with a loved one to live wacky misadventures that ultimately teach us a valuable lesson in empathy.","怪胎星期五,我们用我们的身体 和一个爱人交换 我们生活在疯狂的错觉中, 最终给我们一个宝贵的教训 在同情。",怪诞星期五，跟亲近的人互换身体，经历滑稽冒险，最后学会换位思考的重要一课。
+english_events_maingame:L13713,chooseholiday,POLISH,"Great choice! To show my appreciation for you all visiting Europe today, here's a tank specially made for each of you!","伟大的选择! 为了向今天访问欧洲的各位表示谢意,这里有一个专门为你们每个人设计的坦克!",选得好！谢谢各位今天来欧洲玩，送你们每人一辆专属坦克！
+english_events_maingame:L13714,chooseholiday,FIX,"Aww, thanks Noodles! Mine's covered in peanut butter!",谢谢面条! 我的花生酱都覆盖了!,哇，谢谢面条！我的涂满花生酱了！
+english_events_maingame:L13715,chooseholiday,FIX,"My tank shoots confetti instead of bullets, but at the same lethal speeds! This RULES!",我的坦克是用针头而不是子弹射的 但速度和致命的一样 这条规矩!,我的坦克发射彩纸屑，不是子弹，速度却一样致命！爽翻了！
+english_events_maingame:L13716,chooseholiday,POLISH,"Okay, since you guys are my friends, I'll gift you some tanks too. %CURRENTPLAYERNAME%, I installed a gaming chair in yours so you'd feel right at home.","好吧,既然你们是我的朋友, 我也会给你一些坦克。  %CURRENTPLAYERNAME%我在你家装了个游戏椅 这样你就能感觉自己在家了",既然大家都是朋友，我也送你们坦克。%CURRENTPLAYERNAME%，给你那辆装了电竞椅，保证坐着跟在家一样。
+english_events_maingame:L13717,chooseholiday,FIX,FUCK. YES.,他妈的。 对。,他妈的，太爽了。
+english_events_maingame:L13718,chooseholiday,FIX,"I wanna give tanks too! %CURRENTPLAYERNAME%, take this tank. It's a Howl family heirloom passed down through one generation, and it's covered in peanut butter!","我也想给坦克!  %CURRENTPLAYERNAME%拿着这辆坦克 这是豪尔家族传承者传入一代,被花生酱所覆盖!.",我也要送！%CURRENTPLAYERNAME%，拿着，这辆可是嚎尔家只传了一代的传家宝，还涂满花生酱！
+english_events_maingame:L13719,chooseholiday,FIX,How sweet! You gift your friends some tanks too. You're very tankful to have loved ones who gave you such great tanks.,多么可爱! 你也给朋友一些坦克 你非常有胆量 拥有爱人 谁给你如此伟大的坦克。,真暖心！你也送了朋友们几辆坦克。亲朋好友送你这么好的坦克，实在令人坦激不尽。
+english_events_maingame:L13721,chooseholiday,FIX,"You, Polly, Scott, and Noodles all share a holiday dinner... while in your tanks. Then you play some sports, also in your tanks.","你,你是谁? 波莉, 斯科特面条都分享一个节日晚餐... 时入于所出之坦克. 然后在坦克里也玩运动",你和波莉、斯科特、面条，全坐在各自的坦克里吃节日晚餐。饭后做运动，也坐在坦克里。
+english_events_maingame:L13722,chooseholiday,FIX,"Full contact tank football was fun and destructive. Tank yoga was more experimental, but dang, tanks are more flexible than you'd have thought.","完全接触坦克足球是有趣和破坏性的。 坦克瑜伽更是实验性的,但该死的,坦克比你想象的灵活.",全接触坦克橄榄球好玩又破坏力十足。坦克瑜伽更像实验，不过真没想到，坦克的柔韧性这么好。
+english_events_maingame:L13724,chooseholiday,FIX,"""Tank"" you all for celebrating Tanksgiving with me. Enjoy your tanks!",你们都跟我庆祝坦克教育 享受你的坦克吧! 享受你的坦克吧!,“坦”谢各位，陪我一起过感坦节。好好享受你们的坦克吧！
+english_events_maingame:L13725,chooseholiday,POLISH,"Just know if you ever use them against me, I have the self-destruction codes. Toodleoo!",如果你们用它们来对付我 我有自毁密码 顿顿顿,不过记好了，要是拿它们对付我，我可握着自毁代码。拜拜！
+english_events_maingame:L13727,chooseholiday,POLISH,"As fun as this was, I don't really NEED a tank, and it'd be hard to fit one into my luggage. We should sell these.","和这一样有趣,我并不真的需要坦克, 并且它会很难 在一个在我的行李。 我们应该卖掉这些",虽然玩得很开心，可我确实不需要坦克，行李也塞不下。卖了吧。
+english_events_maingame:L13728,chooseholiday,FIX,"Good call. You still have to sell them at a loss since your tanks are obviously used, bruised, and covered in peanut butter, so you lose -N2 MONEY.",说得好 仍然得亏损地卖掉它们 因为你的坦克显然被用过 被打成碎片 被花生酱覆盖 所以你就输了 -N2 MONEY.,好主意。可坦克明显用过了，磕磕碰碰，还涂满花生酱，只能亏本卖，害你失去了 -N2 金钱。
+english_events_maingame:L13729,chooseholiday,POLISH,But at least you gained +N2 HYPE sharing the joys of extremely dangerous armored vehicles with the ones you love!,但至少你得到了+N2 HYPE 分享极度危险的装甲车辆的欢乐 与你爱的人!,不过跟心爱的人分享极度危险的装甲载具，总算让你获得 +N2 热度！
+english_events_maingame:L13732,chooseholiday,FIX,AWESOME! I can't wait to trade bodies with my mom and learn the struggle of being a single mother of two trying to make ends meet while moonlighting as a chess coach!,赞! 我等不及要和我妈交换身体 学会做两个单身母亲 努力求得满足 却在做棋盘教练时挣扎!,太棒了！等不及跟我妈换身体了！体验一下一边养两个孩子、一边兼职国际象棋教练，还得勉强维持生计的单亲妈妈有多辛苦！
+english_events_maingame:L13733,chooseholiday,POLISH,"Okay, I'll switch bodies with my mom too! I'll learn so many cool things about her, like her name, and where she is, and why she never calls me!","好吧,我也会和我妈交换身体! 我会学很多关于她的东西, 像她的名字,她在哪里, 和为什么她从来没有给我打电话!",好，那我也跟我妈换！肯定能知道好多关于她的酷事，比如她叫什么、在哪里，还有为什么从来不给我打电话！
+english_events_maingame:L13734,chooseholiday,POLISH,Ehhh... it doesn't work like that. You have to already know the person you're switching bodies with.,额... 那样不行 你该已经知道要和谁换身体了,呃……不是这么玩的。你得先认识那个要换身体的人。
+english_events_maingame:L13735,chooseholiday,POLISH,Oh...,哦...,哦……
+english_events_maingame:L13736,chooseholiday,FIX,"Hey, Scott, chin up. How about this: we're best buds who love each other lots. Why don't you and I switch bodies instead?","顿 斯科特下巴抬起头来 不如这样吧,我们是爱彼此的最好的伙伴 为什么不换换换我和我们的身体?",嘿，斯科特，别难过。这样吧：咱俩是特别要好的朋友，特别爱彼此，不如你跟我换？
+english_events_maingame:L13737,chooseholiday,POLISH,"You'd really do that for me, bro? Thank you so much!",你真的会为我这么做吗 兄弟? 非常感谢!,兄弟，你真愿意为我这样做？太谢谢了！
+english_events_maingame:L13738,chooseholiday,FIX,"Using -N2 MAGIC, Noodles recites the Ancient Switcheroo Incantation, and Polly and Scott's minds get totally swapped!","面条使用-N2 MAGIC,背诵古代开关活塞, 波莉 财务报告和审定财务报表 斯科特脑海完全被换了",面条施展古老的调包咒，花掉 -N2 魔力，把波莉和斯科特的心智彻底互换了！
+english_events_maingame:L13740,chooseholiday,FIX,BROOO! Am I really Polly now? Weird... should I try talking like Polly?,布鲁! 我是真的吗? 波莉 现在? 怪怪的... 我该像说话一样 波莉?,兄弟——！我现在真成波莉了？怪怪的……要不要学波莉说话？
+english_events_maingame:L13741,chooseholiday,FIX,"Hey, boo! I'm Polly! I'm gorgeous and funny and I read big books and I do lots of dances with my butt! Watch me go!","嘿,嘘! 我是 波莉! 我美丽又幽默,我读了大书,我用我的屁股跳了很多舞! 看着我走!",嘿，亲爱的！我是波莉！我又美又好笑，会读厚厚的书，还经常扭屁股跳舞！看我的！
+english_events_maingame:L13742,chooseholiday,FIX,"Nice moves! Damn, I have a FINE ass. Hmm, okay, I'll try being you now.","动作不错! 该死,我屁股很爽 嗯,好吧,我会尝试成为你。",跳得不错！靠，我这屁股真翘。嗯，好，换我当你了。
+english_events_maingame:L13743,chooseholiday,FIX,"AWOOOOO! Check it out, bros, I'm Scott! I have big muscles and an even bigger heart! SPORTS! SPORTS! SPORTS!","摆! 你看,兄弟们,我 斯科特! 我有大肌肉,还有更大的心脏! 萨特斯! 萨特斯! 萨特斯!",嗷呜——！看啊，兄弟们，我是斯科特！肌肉大，心肠更好！运动！运动！运动！
+english_events_maingame:L13744,chooseholiday,POLISH,"Wow, you sound totally like me. You almost had me fooled that you WERE Scott!","哇,你听起来完全像我。 你差点让我骗了你 斯科特!",哇，听着跟我一模一样。我差点真信你是斯科特了！
+english_events_maingame:L13745,chooseholiday,POLISH,"Thanks! Ready to switch back now? Being body-swapped is fun, but this heartbeat of yours is really distracting.",谢谢! 现在可以换回了吗? 被划去身体很有趣 但你的心跳真的让人分心了,谢啦！准备换回去了吗？换身体是好玩，可你这心跳一直响，实在有点分心。
+english_events_maingame:L13747,chooseholiday,FIX,"Noodles reverses the spell, and your friends are back to their old selves again.",面条会倒行逆施 你的朋友又回到了自己的老样子,面条解除了法术，朋友们又恢复了原样。
+english_events_maingame:L13748,chooseholiday,FIX,Great work! But it wouldn't be a true Freaky Friday if you didn't learn a moral lesson along the way. What'd you guys learn?,干得漂亮! 干得漂亮! 干得漂亮! 干得漂亮! 干得漂亮! 但是如果你没有在路上学到道德教训 那这周五就不是真正的怪胎了 你们学到了什么?,干得好！不过怪诞星期五里，要是没学到人生道理，那可不算数。你们学到了什么？
+english_events_maingame:L13749,chooseholiday,POLISH,I learned that Polly is very impressive. Doing her signature dance requires a lot more butt strength than I thought!,我学会了 波莉 令人印象深刻。 做她的签名舞 需要很多的屁股力量比我想象的多!,我明白了，波莉真的很厉害。她那招牌舞，屁股得使的劲比我想的大多了！
+english_events_maingame:L13750,chooseholiday,POLISH,"Aww, thanks! I learned that it's hard being in Scott's shoes, 'cause it's hard to bend down and tie your shoes when you have so many muscles.","啊,谢谢! 我学会了很难进屋 斯科特鞋子,因为你肌肉那么多的时候 很难弯下腰,绑住鞋子",哇，谢谢！我发现斯科特也不容易，肌肉太多，想弯腰系个鞋带都难。
+english_events_maingame:L13751,chooseholiday,FIX,"What did you learn while you were body-swapped, %CURRENTPLAYERNAME%?",当你被擦身而出时 你学到了什么 %CURRENTPLAYERNAME%?,%CURRENTPLAYERNAME%，你换身体的时候，学到了什么？
+english_events_maingame:L13752,chooseholiday,POLISH,"Oh, I didn't swap %CURRENTPLAYERNAME% with anybody. I figured nobody loved %HIMHER% enough to change bodies with %HIMHER%.","哦,我没有换 %CURRENTPLAYERNAME% 与任何人。 与谁。 我想没有人爱 %HIMHER% 足够改变身体 %HIMHER%.",哦，我没让 %CURRENTPLAYERNAME% 跟谁换。我寻思，没谁爱 %HIMHER% 爱到愿意跟 %HIMHER% 换身体吧。
+english_events_maingame:L13753,chooseholiday,FIX,Ouch. Guess the only lesson you learned this Freaky Friday is that Noodles is a dick.,哎哟。 我猜你唯一学到的教训 就是面条是鸡巴,扎心了。看来这次怪诞星期五，你只学会了一件事：面条是个混蛋。
+english_events_maingame:L13754,chooseholiday,FIX,At least your friends gained +N2 SOUL for you while they were body-swapped!,至少你的朋友在被擦伤时 为你赢得了+N2 SOUL!,至少朋友们互换身体，帮你赚到了 +N2 灵魂！

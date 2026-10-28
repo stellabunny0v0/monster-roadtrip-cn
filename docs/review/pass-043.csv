@@ -1,0 +1,107 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_pitstop:L5074,chopetarot,FIX,Competitive Tarot,有竞争力的塔罗牌,竞技塔罗
+english_events_pitstop:L5076,chopetarot,FIX,"Oh, Competitive Tarot, sure!","哦,有竞争力的塔罗,当然!",哦，竞技塔罗，当然！
+english_events_pitstop:L5077,chopetarot,FIX,What do you wanna know? Which major arcanas are meta this season?,你想知道什么吗? 本赛季哪些主要赛事是赛事?.,想知道什么？这赛季哪些大阿尔卡那最强势？
+english_events_pitstop:L5078,chopetarot,FIX,I meant it in a way more generic sense!,我用更通俗的方式说!,我想问的没那么具体啦！
+english_events_pitstop:L5079,chopetarot,POLISH,"I've watched a few videos about it, but I still have no clue what's happening in a match half of the time.","我看过一些关于它的视频,但是我仍然不知道一半时间里 比赛中发生了什么。",我看过几段视频，可比赛里有一半时间，都看不懂到底在干什么。
+english_events_pitstop:L5080,chopetarot,FIX,Playing planets to gain their influences; summoning champions; doing actual tarot reads...,玩行星以获得它们的影响;召唤冠军; 做真正的塔罗牌读取...,打出行星牌，获得它们的影响力；召唤英雄；还要真的占卜塔罗……
+english_events_pitstop:L5081,chopetarot,FIX,I get it. It can get confusing.,我理解你的话 I get it. 可能会让人困惑。,懂了。是挺让人摸不着头脑的。
+english_events_pitstop:L5082,chopetarot,FIX,With every expansion they add new mechanics and archetypes.,"每一次扩张,它们都增加了新的力学和原型.",每出一个扩展包，都会加进新的机制和卡组体系。
+english_events_pitstop:L5083,chopetarot,POLISH,The game keeps getting more complex and awesome...,游戏越来越复杂和精彩...,游戏变得越来越复杂，也越来越精彩……
+english_events_pitstop:L5084,chopetarot,POLISH,"...but it admittedly gets more obscure for newcomers, too.",但对于新来的人来说 情况也变得很不明了,……不过，对新人来说，确实也越来越难入门了。
+english_events_pitstop:L5085,chopetarot,FIX,"But hey: git gud, right?","但是,嘿,GT GUD,对不对?",可话说回来，菜就多练，对吧？
+english_events_pitstop:L5086,chopetarot,FIX,"Eh, I suspect I won't ""git gud"" at this anytime soon.","嗯,我怀疑我不会""gitt gud""在任何时间 很快。",呃，我觉得，自己短时间内恐怕是“练不出来”了。
+english_events_pitstop:L5087,chopetarot,FIX,"Yeah... I've looked into your future, and it's very likely you won't.",对... 我调查过你的未来 很可能你不会,嗯……我看过你的未来了，你大概还真练不出来。
+english_events_pitstop:L5088,chopetarot,KEEP,"I can live with that, but I'd still love to understand why you like it so much.",我可以接受 但我还是很想了解你为什么这么喜欢它,我可以接受 但我还是很想了解你为什么这么喜欢它
+english_events_pitstop:L5089,chopetarot,POLISH,"Well, a card game is like this hyper-complex mechanism.","那么,一个纸牌游戏 就像这种超复杂的机制。",怎么说呢，卡牌游戏就像一套超级复杂的机械装置。
+english_events_pitstop:L5090,chopetarot,POLISH,"At first it feels a bit intimidating, but soon you start to understand how it works.","起初感觉有点吓人,但很快你就会开始理解它是如何运作的.",刚开始会有点望而生畏，但很快就能逐渐摸清它的运作方式。
+english_events_pitstop:L5091,chopetarot,FIX,"Before you know it, you're thinking in terms of ""tempo"", ""resource curves"", and ""card advantage"". You might even build your own decks!","在知道之前,你考虑的是""tempo"",""资源曲线""和""卡通优势"". 你甚至可以造出自己的甲板来!",不知不觉间，你就会开始考虑“节奏”“资源曲线”和“卡差”，甚至自己组卡组！
+english_events_pitstop:L5092,chopetarot,POLISH,Taming such a beast and making it work in your favor feels amazing.,欺负这只野兽 让它为你效劳 感觉好棒,把这样的庞然大物驯服，让它为你所用，感觉棒极了。
+english_events_pitstop:L5093,chopetarot,FIX,But what about the most important part: believing in the heart of the cards?!,但最重要的部分呢:相信牌心?,那最重要的部分呢：相信卡牌之心？！
+english_events_pitstop:L5094,chopetarot,POLISH,"Well, you're actually not wrong: no matter how good you are, there's always a degree of randomness... of fate!",其实你没有错 不管你有多好 总是有一定程度的随机性... 命运!,其实，你还真没说错。不管技术多好，总会有点随机性……有点命运的安排！
+english_events_pitstop:L5095,chopetarot,KEEP,You never know what the next card you draw will be.,你永远不知道下一张牌会是什么,你永远不知道下一张牌会是什么
+english_events_pitstop:L5096,chopetarot,FIX,THE HEART OF THE CARDS!!!,车的心!,卡牌之心！！！
+english_events_pitstop:L5097,chopetarot,FIX,Hehe... yes.,热... 对,嘿嘿……对。
+english_events_pitstop:L5098,chopetarot,FIX,"Dang, %CURRENTPLAYERNAME%, this much tarot talk is making me wanna play a match...","唐,%CURRENTPLAYERNAME%, 这么多塔罗牌的谈话 让我想玩一个比赛...",哎呀，%CURRENTPLAYERNAME%，聊了这么多塔罗，我都想来一局了……
+english_events_pitstop:L5099,chopetarot,FIX,"C'mon, what do you say? I can teach you as we go.","来吧,你说什么? 我可以教你们,我们走。",来嘛，怎么样？咱们边玩，我边教你。
+english_events_pitstop:L5100,chopetarot,KEEP,"Sure, why not?","当然,为什么不呢?","当然,为什么不呢?"
+english_events_pitstop:L5101,chopetarot,FIX,You two spend the rest of the night playing Competitive Tarot matches.,你们俩整晚都在玩有竞争力的塔罗牌比赛,接下来的时间，你们一直在玩竞技塔罗。
+english_events_pitstop:L5102,chopetarot,FIX,"Hope kicks your ass big time, but she's patient, and you actually learn a bit more about how the game works.","不过她很有耐心,你更了解游戏的原理。",希望女巫把你虐得够呛，不过她很有耐心，你也确实多学会了一点这游戏的玩法。
+english_events_pitstop:L5111,chopedamien,FIX,The whole Damien thing,整个 达米恩 东西,她和德魔那段往事
+english_events_pitstop:L5113,chopedamien,FIX,"""The whole Damien thing""... that's a way to put it, huh?","整个 达米恩 东西... 这么说吧,哈?",“我和德魔那段往事”……这么说也行吧？
+english_events_pitstop:L5114,chopedamien,POLISH,"I mean, I've noticed he has... or at least HAD this sort of big crush for you... what's the story there?","我是说,我注意到他... 或至少有这种大 迷恋你... 里面有什么故事吗?",我是说，我看得出，他对你……至少以前对你特别着迷……你们之间到底发生过什么？
+english_events_pitstop:L5115,chopedamien,POLISH,It's your classic teenage love story:,这是你的典型的青少年爱情故事:,就是个典型的青春爱情故事：
+english_events_pitstop:L5116,chopedamien,FIX,Girl is experimenting with her recently-awakened magic powers.,女孩正在实验她最近意识到的魔法力量.,女孩试着使用自己刚觉醒的魔法力量。
+english_events_pitstop:L5117,chopedamien,FIX,Girl sends herself to Hell and somehow ends up at an infernal palace.,女孩把自己送入地狱 不知何故在地狱中,女孩把自己送进了地狱，稀里糊涂地来到一座地狱宫殿。
+english_events_pitstop:L5118,chopedamien,FIX,Boy is the Prince of that part of Hell.,男孩是地狱的王子,男孩正好是那片地狱的王子。
+english_events_pitstop:L5119,chopedamien,FIX,Girl and boy lock eyes.,女孩和男孩锁起眼睛。,女孩和男孩，四目相对。
+english_events_pitstop:L5120,chopedamien,POLISH,"Then there's a slow dance; a first kiss; lots of new, intense, complicated emotions...","然后是慢舞;初吻;很多新的,激烈的,复杂的情绪......",然后，是一支慢舞，一个初吻，还有一大堆陌生、强烈又复杂的感情……
+english_events_pitstop:L5121,chopedamien,FIX,"And after that? Time happens, things fade, and people move on.","在那之后呢? And after that? 那之后呢? 时间发生,事物消逝,人们继续前进.",再后来呢？时间流逝，感情淡去，各自向前。
+english_events_pitstop:L5122,chopedamien,KEEP,Oh...,哦...,哦...
+english_events_pitstop:L5123,chopedamien,POLISH,"No, it's okay, that's how these things go. Teenage love burns bright, but it doesn't tend to last.","不,没关系,这些事情就是这样进行的。 少年相爱会燃烧出光芒,但往往不会持续.",不，没关系。这种事就是这样。年少时的爱情烧得很旺，却往往不会长久。
+english_events_pitstop:L5124,chopedamien,FIX,And that's beautiful too.,那也太美丽了,这样也很美好。
+english_events_pitstop:L5125,chopedamien,FIX,"Sure... but I don't think Damien ever got the memo about the not-lasting part, huh?","当然... 但我不认为 达米恩 曾经得到备忘录 关于不持久部分,是吧?",是啊……不过，德魔好像没收到“不会长久”这部分的通知，是吧？
+english_events_pitstop:L5126,chopedamien,POLISH,Ha! Yeah...,对...,哈！是啊……
+english_events_pitstop:L5127,chopedamien,POLISH,"It's a shame, because... look, the dude's an idiot, but it's not his fault that he's having such a hard time moving on.","可惜,因为... 听着,这家伙是个白痴, 但他有这么困难的 前进不是他的错。",挺可惜的……那家伙是个笨蛋，可他这么难走出来，也不是他的错。
+english_events_pitstop:L5128,chopedamien,POLISH,If only it was that easy for two people to be in the same place emotionally...,如果两个人在感情上能在同一地段 就这么简单就好了...,两个人在感情上要是那么容易步调一致就好了……
+english_events_pitstop:L5129,chopedamien,POLISH,"I guess sometimes people grow apart, they drift away... they become different people.",我想有时候人们会分道扬镳 他们会飘走... 他们变成了不同的人。,有时候，人们就是会渐行渐远……各自成长为不同的人。
+english_events_pitstop:L5130,chopedamien,FIX,"Still, I cherish our memories together, you know? Damien will always be an important chapter of my life... but one that I finished long ago.","不过,我珍惜我们的记忆 在一起,你知道吗?  达米恩 永远是我人生中的重要篇章... 但它是一个我很久以前完成的。",不过，我还是很珍惜我们一起度过的时光。德魔永远是我人生中重要的一章……只是这一章，我早就翻过去了。
+english_events_pitstop:L5131,chopedamien,POLISH,"I hope he starts an exciting new chapter of his own, too.",我希望他也开始一个激动人心的新篇章,我也希望他能翻开属于自己的、精彩的新篇章。
+english_events_pitstop:L5132,chopedamien,FIX,"But hey, enough about me. Tell me, %CURRENTPLAYERNAME%, do you have any Damiens in your past or what?","但是,嘿,够了关于我。 告诉我 %CURRENTPLAYERNAME%,你有没有 达米恩是在你的过去还是什么?",不过，我的事说够了。%CURRENTPLAYERNAME%，你过去有没有过自己的“德魔”？
+english_events_pitstop:L5133,chopedamien,FIX,And so you spend the rest of the night exchanging corny love stories from your pasts.,所以你用剩下的时间 来交换你过去那些无聊的爱情故事,于是，接下来的时间，你们一直在交换过去那些俗套的爱情故事。
+english_events_pitstop:L5142,chopecoven,FIX,The Coven,巫师,女巫会
+english_events_pitstop:L5144,chopecoven,FIX,Ugh... the Coven...,唉哟... 巫师...,唉……女巫会啊……
+english_events_pitstop:L5145,chopecoven,FIX,You don't like the Coven? I thought you were friends!,你不喜欢巫师吗? 我以为你是朋友!,你不喜欢女巫会？我还以为你们是朋友！
+english_events_pitstop:L5146,chopecoven,FIX,It's not that. I'd die for Faith and Joy.,不是那样的。 我会为信仰和乔伊而死。,不是那个意思。我愿意为信念女巫和乔伊去死。
+english_events_pitstop:L5147,chopecoven,FIX,(I mean... I've technically died for them already.),"我是说... 我从技术上说已经为他们牺牲了. """,（我是说……严格来讲，我已经为她们死过了。）
+english_events_pitstop:L5148,chopecoven,FIX,But they're Faith and Joy; my best friends.,"但是他们是信仰和乔伊,我最好的朋友。",可她们是信念女巫和乔伊，是我最好的朋友。
+english_events_pitstop:L5149,chopecoven,FIX,"The Coven is more than that, y'know?","巫师不止如此,知道吗?",女巫会，可不只是这样，你懂吗？
+english_events_pitstop:L5150,chopecoven,FIX,It's our timeless duty; our inescapable fate...,这是我们无时无刻的责任;我们不可逃避的命运......,那是我们永恒的职责，逃不开的命运……
+english_events_pitstop:L5151,chopecoven,KEEP,...it's basically our job.,...这基本上是我们的工作。,...这基本上是我们的工作。
+english_events_pitstop:L5152,chopecoven,FIX,"And you know what, %CURRENTPLAYERNAME%? I believe in the importance of being more than your career.","你知道吗,%CURRENTPLAYERNAME%? 我相信做人比做你的事业更重要",%CURRENTPLAYERNAME%，我觉得，一个人不能只有工作，这很重要。
+english_events_pitstop:L5153,chopecoven,FIX,"Even if your career is ""protector of all reality"".","即使你的事业是""所有现实的保护者""",哪怕你的工作是“守护整个现实”。
+english_events_pitstop:L5154,chopecoven,FIX,Fair!,公平点!,有道理！
+english_events_pitstop:L5155,chopecoven,FIX,"Then tell me, who is Hope beyond ""a member of the Coven""?","那告诉我 除了""巫师""还有谁是希望?",那跟我说说，除了“女巫会成员”，希望女巫还是个什么样的人？
+english_events_pitstop:L5156,chopecoven,KEEP,That's more like it!,这才像话!,这才像话!
+english_events_pitstop:L5157,chopecoven,FIX,I play Competitive Tarot; I do some side-hustles here and there; I love the fun and thrill of getting myself in trouble.,我扮演有竞争力的塔罗;我在这里和那里做一些侧壳;我喜欢让自己陷入麻烦的乐趣和刺激。,我玩竞技塔罗，到处做点副业，还特别喜欢给自己惹麻烦，那种好玩又刺激的感觉。
+english_events_pitstop:L5158,chopecoven,FIX,"While Joy and Faith are researching a Big Bad, I'm the one that gets to have a fun subplot in the 4th Circle of Hell.",乔伊和Faith在研究一个大坏蛋的时候 我才是那个在地狱第四圈里 拥有一个有趣的副片的人,乔伊和信念女巫还在研究大反派的时候，我已经跑去地狱第四圈，展开自己那条好玩的支线剧情了。
+english_events_pitstop:L5159,chopecoven,POLISH,That sounds risky... but fun.,这听起来很冒险... 但乐趣。,听着很冒险……不过挺好玩的。
+english_events_pitstop:L5160,chopecoven,FIX,"Yes: in the Coven, I'm definitely the one who's fun.","是: 在""巫统""里,我绝对是那个很有趣的人.",没错，女巫会里，最会找乐子的肯定是我。
+english_events_pitstop:L5161,chopecoven,POLISH,Sometimes I try to push those two out of their comfort zones and away from all the Coven stuff.,有时我试图把这两个人 推出他们的舒适地带 并远离所有 科文的东西。,有时候，我会推她们一把，让她们走出舒适区，暂时放下女巫会的那些事。
+english_events_pitstop:L5162,chopecoven,FIX,"Stuff like ""Girls' Night Out"", ""Drunk Minigolf"", or ""Death Dance in the Dark Domains"".","类似""少女之夜出道"",""醉倒迷你高尔夫"",""黑暗域中去死之舞""等.",比如“闺蜜之夜”“醉酒迷你高尔夫”，或者“黑暗领域死亡之舞”。
+english_events_pitstop:L5163,chopecoven,FIX,Whoa... those definitely do NOT sound like the kind of things Faith or Joy would do.,珃... 他们绝对不像 信仰或乔伊会做的事,哇……这些可真不像是信念女巫或者乔伊会干的事。
+english_events_pitstop:L5164,chopecoven,KEEP,Exactly!,没错!,没错!
+english_events_pitstop:L5165,chopecoven,FIX,"Faith is lovely, and the voice of reason, but she could use some thrill every now and then.","信仰是可爱的, 和理性的声音, 但她可以需要一些刺激 时而。",信念女巫很可爱，总能保持理智，可偶尔也该找点刺激。
+english_events_pitstop:L5166,chopecoven,FIX,"And Joy? Best leader ever, but half the time she's too bossy... and the other half she's hella stressed.","乔伊呢? 有史以来最好的领导, 但一半的时间,她太专横... 而另一半 她的地狱压力。",至于乔伊？她是最棒的领队，可一半时间太爱发号施令，另一半时间又压力大得要命。
+english_events_pitstop:L5167,chopecoven,KEEP,I've noticed.,我已经注意到了。,我已经注意到了。
+english_events_pitstop:L5168,chopecoven,POLISH,Yeah... so that's me: the one who manages to have a personal life and does her best to help those two have one as well.,"对... 所以这就是我: 一个能过上个人生活 并尽力帮助那两个人的人, 也有一个。",是啊……所以，这就是我：有自己的生活，也尽力帮她们俩拥有自己的生活。
+english_events_pitstop:L5169,chopecoven,FIX,"Hope, you know what? That sounds fun, but also very necessary.","希望,你知道吗? 这听起来很有趣,但也非常必要。",希望女巫，这听起来不光好玩，还很有必要。
+english_events_pitstop:L5170,chopecoven,FIX,"I think so too. A ""Girls' Night Out"" every now and then is what keeps us from losing our minds from the high stakes we face day after day.","我也这么认为。 ""女孩之夜出"" 时不时地 阻止我们从我们日复一日面对的 重大利益中失去理智",我也这么觉得。每天面对的事都那么重大，偶尔来个“闺蜜之夜”，才不至于把自己逼疯。
+english_events_pitstop:L5171,chopecoven,POLISH,I know I'm not saving the world constantly... but I'd be down for one of those plans one day...,我知道我不是在不停地拯救世界... 但我总有一天会参与其中的一个计划...,虽然我没有整天忙着拯救世界……不过，哪天也想跟你一起去玩这些……
+english_events_pitstop:L5172,chopecoven,FIX,Oh! Sure! I'm always down for some Drunk Minigolf.,哦 当然! 我总喜欢喝醉的迷你高尔夫,哦！当然！醉酒迷你高尔夫，我随时奉陪。
+english_events_pitstop:L5173,chopecoven,FIX,"For the next few hours, Hope tells you what alcohols are best for Drunk Minigolf.","在接下来的几个小时里,希望告诉你什么酒精最适合醉酒迷你高尔夫.",接下来几个小时，希望女巫跟你讲了，玩醉酒迷你高尔夫时，最适合喝哪些酒。
+english_events_pitstop:L5182,chopemagic,FIX,Magic,魔术,魔法
+english_events_pitstop:L5184,chopemagic,FIX,Magic... it can get boring because it involves lots of studying...,"魔术... 它会变得无聊,因为它涉及很多学习...",魔法啊……有时候挺无聊的，因为有一大堆东西要学……
+english_events_pitstop:L5185,chopemagic,FIX,"...but it's also very cool, because it lets you make things explode. Kaboom!","但它也非常酷,因为它让你 使事情爆炸。 Kab!",……可也很酷，能让东西爆炸。轰！
+english_events_pitstop:L5186,chopemagic,KEEP,That sounds dangerous...,这听起来很危险... ...,这听起来很危险... ...
+english_events_pitstop:L5187,chopemagic,FIX,"Well, danger IS my thing.","嗯,危险是我的事。",危险本来就是我的爱好。
+english_events_pitstop:L5188,chopemagic,POLISH,"Like... it's not as if we're limited to specific spells, but each of us surely has their strengths.","喜欢... 我们并不局限于特定的咒语, 但是我们每个人都肯定有他们的长处。",怎么说呢……我们倒不是只能用特定的法术，不过每个人确实各有所长。
+english_events_pitstop:L5189,chopemagic,FIX,"I focus on my visions, all sorts of dangerous spells, and what we could call ""attack"" magic. I'm the glass cannon of the Coven!","我专注于我的视觉,各种危险的咒语,以及我们可以称之为""攻击""的魔法. 我是巫师的玻璃大炮!",我主要擅长预知、各种危险法术，还有所谓的“攻击型”魔法。我就是女巫会的玻璃大炮！
+english_events_pitstop:L5190,chopemagic,FIX,"Faith is more of an ""out of combat"" witch. She specializes in healing and utility spells.","信仰更是一个""脱离战斗""的女巫. 她专门研究治疗和功用咒语.",信念女巫更擅长“战斗之外”的事，专精治疗和各种实用法术。
+english_events_pitstop:L5191,chopemagic,POLISH,"Joy is quite proficient at most things, but her specialty is defensive magic.","乔伊在大多数事情上相当熟练,但她的特长是防御魔法.",乔伊什么都挺擅长，不过最拿手的，还是防御魔法。
+english_events_pitstop:L5192,chopemagic,KEEP,She's also the one with the strongest connection to the Goddess.,她也是与女神关系最紧密的一位.,她也是与女神关系最紧密的一位.
+english_events_pitstop:L5193,chopemagic,KEEP,What's the deal with that?,这是怎么回事?,这是怎么回事?
+english_events_pitstop:L5194,chopemagic,FIX,"With the Goddess? Well, for starters, she isn't technically a goddess.",和女神一起吗? 首先 她从技术上讲不是女神,你说女神？首先，严格来说，她并不算女神。
+english_events_pitstop:L5195,chopemagic,POLISH,"(As a matter of fact, almost all things that call themselves ""deities"" tend not to be, in technical terms.)","(事实上,几乎所有自称""神""的事物,在技术方面都往往不是. )",（其实，几乎所有自称“神”的东西，严格来说，往往都不算神。）
+english_events_pitstop:L5196,chopemagic,KEEP,Then... what's this Goddess if not a goddess?,"那麽... 如果不是女神,这个女神是什么?","那麽... 如果不是女神,这个女神是什么?"
+english_events_pitstop:L5197,chopemagic,FIX,"It's complicated, and I'm not too clear on it myself, but I think it's like a collective consciousness of past Coven witches who live in some sort of immaterial plane.","这很复杂,我自己也不太清楚,但我觉得这就像过去巫师的集体意识,他们生活在某种无关紧要的平面上.",挺复杂的，我自己也没太弄明白。好像是历代女巫会成员组成的集体意识，存在于某个非物质位面。
+english_events_pitstop:L5198,chopemagic,FIX,ALL the past Coven witches?,所有过去的巫师?,所有历代女巫会成员？
+english_events_pitstop:L5199,chopemagic,POLISH,No idea. Maybe some? Just the first ones? Eh... magic stuff tends to be super obscure. It's pretty annoying.,"不知道,我还不知道呢。 也许一些? 就第一个吗? 额... 神奇的东西往往是超模糊的。 这很烦人。",不知道。也许只有一部分？或者就最初那几个？唉……魔法这东西，总是神神秘秘、让人摸不着头脑的。烦死了。
+english_events_pitstop:L5200,chopemagic,POLISH,What matters is that the Goddess is a good ally to have in our corner. She knows lots of stuff and gives very decent advice.,"重要的是,女神是一个很好的盟友 在我们的角落。 她知道很多东西 并给出非常体面的建议。",重要的是，有女神这个盟友站在我们这边，很有帮助。她知道很多事，给的建议也挺靠谱。
+english_events_pitstop:L5201,chopemagic,FIX,The Coven's virtual assistant!,巫统的虚拟助手!,女巫会的虚拟助手！
+english_events_pitstop:L5202,chopemagic,POLISH,Don't let Joy hear you say that... but basically.,别让乔伊听到你这么说... 但基本上说,可别让乔伊听见你这么说……不过，差不多。
+english_events_pitstop:L5203,chopemagic,FIX,Hope...,辨...,希望女巫……
+english_events_pitstop:L5204,chopemagic,FIX,Yes?,是吗?,嗯？
+english_events_pitstop:L5205,chopemagic,POLISH,Can you show me the spells that make things explode?,你能给我看那些使事情爆炸的咒语吗?,能给我看看那些能让东西爆炸的法术吗？
+english_events_pitstop:L5206,chopemagic,POLISH,NOW you're asking the right questions. Let's get to it!,现在你问对问题了 让我们开始吧!,这才问到点子上了。走着！
+english_events_pitstop:L5207,chopemagic,FIX,And so begins a beautiful night full of bombastic pyrotechnics. Kaboom!,然后开始了一个美丽的夜晚 充满了炸弹的烟花。 Kab!,于是，一个充满华丽焰火的美好夜晚开始了。轰！

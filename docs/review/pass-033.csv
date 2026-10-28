@@ -1,0 +1,123 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_pitstop:L1248,pitstop_passenger_lovesuccess_blue_1,FIX,"Oh, hey %CURRENTPLAYERNAME%!",哦嘿 %CURRENTPLAYERNAME%!,哦，嘿，%CURRENTPLAYERNAME%！
+english_events_pitstop:L1249,pitstop_passenger_lovesuccess_blue_1,FIX,"Sorry, but I can't talk one-on-one right now. I'm trying to memorize all the birds.","抱歉,我现在不能一对一说话 我试图记住所有的鸟。",抱歉，现在没法单独跟你聊。我正试着记住所有的鸟类。
+english_events_pitstop:L1250,pitstop_passenger_lovesuccess_blue_1,FIX,All... the birds?,所有... 鸟儿?,所有……鸟类？
+english_events_pitstop:L1251,pitstop_passenger_lovesuccess_blue_1,KEEP,Yeah!,对!,对!
+english_events_pitstop:L1252,pitstop_passenger_lovesuccess_blue_1,POLISH,I guess I could help you?,我想我能帮你吗?,那……我来帮你？
+english_events_pitstop:L1253,pitstop_passenger_lovesuccess_blue_1,FIX,Whoa! That'd be stellar! Wanna go alphabetically or by color?,呜呼! 那会是惊人的! 要按字母顺序还是按颜色排列?,哇！那可太棒了！想按字母顺序来，还是按颜色？
+english_events_pitstop:L1254,pitstop_passenger_lovesuccess_blue_1,FIX,"You hang out with Vicky all night, helping her memorize every species of bird. It's goofy but fun -- just like her!","你和我们一起玩 维姬 整夜帮助她记住每一个鸟类 这是愚蠢的,但有趣的 -- 就像她一样!",你陪薇姬待了一整晚，帮她记住每一种鸟。傻乎乎的，却又很有趣——就像她本人！
+english_events_pitstop:L1259,pitstop_passenger_lovesuccess_blue_2,FIX,"Hi, %CURRENTPLAYERNAME%! Having a good night?",顿 %CURRENTPLAYERNAME%! 玩得开心吗?,嗨，%CURRENTPLAYERNAME%！今晚过得开心吗？
+english_events_pitstop:L1260,pitstop_passenger_lovesuccess_blue_2,FIX,I know I am. I just found this awesome book in the glove compartment to curl up with.,我知道我会的。 我刚在手套舱里找到一本很棒的书 用来卷起来,我反正挺开心的。刚在手套箱里找到一本超棒的书，正准备窝着好好读呢。
+english_events_pitstop:L1261,pitstop_passenger_lovesuccess_blue_2,POLISH,Is that... the car manual?,这是... 汽车手册?,那是……汽车使用手册？
+english_events_pitstop:L1262,pitstop_passenger_lovesuccess_blue_2,FIX,"Yup! I'm already on chapter three: ""Engine Specifications and Technical Information"". This is where it gets juicy!","没错! 我已经在第三章""工程规格和技术信息""了. 这就是它变得多汁的地方!",没错！我已经读到第三章了：“发动机规格与技术信息”。最精彩的部分来了！
+english_events_pitstop:L1263,pitstop_passenger_lovesuccess_blue_2,FIX,"What a dork. You decide to forego conversation and just sit with Vicky while she reads, enjoying the night and her good company.","真是个蠢货 你决定放弃谈话,就坐在一起 维姬 她一边看书,一边享受夜晚 一边享受她的好伴",真是个书呆子。你决定先不聊天，就坐在薇姬身边陪她看书，享受这个夜晚，也享受有她作伴。
+english_events_pitstop:L1268,pitstop_passenger_lovesuccess_blue_3,FIX,"Oh, hi %CURRENTPLAYERNAME%! I'm guessing you wanna talk?","哦,你好吗? %CURRENTPLAYERNAME%! 我猜你想谈谈吗?",哦，嗨，%CURRENTPLAYERNAME%！你是想来聊天吧？
+english_events_pitstop:L1269,pitstop_passenger_lovesuccess_blue_3,POLISH,"Normally I'd be happy to chat with you, but honestly, I've still got a lot to think about after the long talk we had the other day...",平时我很乐意跟你聊天 但说实话 那天我们聊了很久之后 我还有很多事想着...,平时我肯定乐意跟你聊，但说真的，自从那天跟你聊了那么久，我还有好多事没想明白……
+english_events_pitstop:L1270,pitstop_passenger_lovesuccess_blue_3,FIX,Would it be okay if we just chilled together tonight instead while I sort out my thoughts?,"我们今晚一起冷静一下,然后我整理一下想法,好吗?",今晚咱们就一起放松一下，让我慢慢理清思绪，好吗？
+english_events_pitstop:L1271,pitstop_passenger_lovesuccess_blue_3,FIX,"Sure. You and Vicky sit together in pleasant, thoughtful silence.","当然可以。 你和 维姬 坐在一起,愉快的,深思熟虑的沉默。",当然。你和薇姬静静坐在一起，各自想着心事，气氛很舒服。
+english_events_pitstop:L1276,pitstop_passenger_lovesuccess_green_1,FIX,"Oh, hey %CURRENTPLAYERNAME%.",哦嘿 %CURRENTPLAYERNAME%.,哦，嘿，%CURRENTPLAYERNAME%。
+english_events_pitstop:L1277,pitstop_passenger_lovesuccess_green_1,KEEP,"You wanna talk, huh?",你想谈谈吗?,你想谈谈吗?
+english_events_pitstop:L1278,pitstop_passenger_lovesuccess_green_1,FIX,No thanks... I'm not up for it tonight. Nothing personal; it's just one of those days.,"不,谢谢... 我今晚可没空 不是针对个人的,只是其中一天。",还是算了……我今晚没那个心情。不是针对你，只是今天状态不太好。
+english_events_pitstop:L1279,pitstop_passenger_lovesuccess_green_1,FIX,How about we just chill instead?,不如我们冷静一下吧?,不如就一起放松一下？
+english_events_pitstop:L1280,pitstop_passenger_lovesuccess_green_1,FIX,"Sure! You and Brian sit quietly on the bench, enjoying the comfortable silence.","当然! 你和 布莱恩 静静地坐在长椅上,享受舒适的寂静.",当然！你和布赖恩静静坐在长椅上，享受着这份自在的沉默。
+english_events_pitstop:L1285,pitstop_passenger_lovesuccess_green_2,FIX,Zzz...,兹兹...,Zzz……
+english_events_pitstop:L1286,pitstop_passenger_lovesuccess_green_2,FIX,Looks like Brian's fallen asleep on the bench. You tap his shoulder.,看起来像 布莱恩在长椅上睡着了。 你拍他的肩膀。,布赖恩好像在长椅上睡着了。你拍了拍他的肩膀。
+english_events_pitstop:L1287,pitstop_passenger_lovesuccess_green_2,FIX,Wha?!,或,什么？！
+english_events_pitstop:L1288,pitstop_passenger_lovesuccess_green_2,FIX,"Oh, it's you... sorry, I didn't mean to... doze... off...","哦,这是你... 对不起,我不是故意的... 多兹... 关上...",哦，是你啊……抱歉，我不是故意……打……盹的……
+english_events_pitstop:L1289,pitstop_passenger_lovesuccess_green_2,FIX,...zzzz...,... 嘘... ...,……zzzz……
+english_events_pitstop:L1290,pitstop_passenger_lovesuccess_green_2,FIX,"Well, if you can't beat 'em, join 'em. You lay down next to Brian and take a nap. It's very refreshing!","好吧,如果你不能打败他们,就加入他们。 你躺在旁边 布莱恩 睡个觉 太新鲜了!",好吧，叫不醒就加入吧。你躺在布赖恩旁边，也睡了一会儿。醒来神清气爽！
+english_events_pitstop:L1295,pitstop_passenger_lovesuccess_green_3,FIX,"Hey, %CURRENTPLAYERNAME%.",顿 %CURRENTPLAYERNAME%.,嘿，%CURRENTPLAYERNAME%。
+english_events_pitstop:L1296,pitstop_passenger_lovesuccess_green_3,FIX,"Hi, Brian! You wanna talk?",顿 布莱恩! 你想谈谈吗?,嗨，布赖恩！想聊聊吗？
+english_events_pitstop:L1297,pitstop_passenger_lovesuccess_green_3,FIX,"Eh... not really... I mean, I like you, but we've done a lot of talking lately...","额... 不太会... 我的意思是,我喜欢你, 但我们最近做了很多谈话...",嗯……不太想……我是说，我喜欢你，但咱们最近已经聊了挺多的……
+english_events_pitstop:L1298,pitstop_passenger_lovesuccess_green_3,FIX,"I think I'd rather just chill tonight, if that's fine. Chilling is way more my speed than talking.","如果可以的话,我宁可今晚冷静一下 冷却比我说话的速度快得多",你要是不介意，我今晚就想放松一下。比起聊天，还是这样更适合我。
+english_events_pitstop:L1299,pitstop_passenger_lovesuccess_green_3,FIX,"You can respect that. You chill quietly with Brian, looking at the stars.",你可以尊重这一点。 冷静点 布莱恩看着星星,你尊重他的想法。你和布赖恩安静地待在一起，看着星星。
+english_events_pitstop:L1304,pitstop_passenger_lovesuccess_adrien_1,FIX,"Good evening, %CURRENTPLAYERNAME%.",边 %CURRENTPLAYERNAME%.,晚上好，%CURRENTPLAYERNAME%。
+english_events_pitstop:L1305,pitstop_passenger_lovesuccess_adrien_1,POLISH,"...You want to talk? Sorry, but I don't have time to socialize tonight.","...你想谈谈吗? 对不起,但我没有时间 今晚社交。",……你想聊聊？抱歉，我今晚没时间应酬。
+english_events_pitstop:L1306,pitstop_passenger_lovesuccess_adrien_1,FIX,"Don't get me wrong; I wish I could. But if I'm going to change the Merkingdom, I need an airtight plan, and coming up with one of those takes time...","别误会我,我希望我能 但是,如果我要改变默金多姆, 我需要一个保守的计划, 并且提出其中之一需要时间...",别误会，我也很想跟你聊。但要改变人鱼王国，我就得有个滴水不漏的计划，而制定这样的计划需要时间……
+english_events_pitstop:L1307,pitstop_passenger_lovesuccess_adrien_1,POLISH,"I understand. I could just keep you company while you work, if you'd rather.","我了解,我懂你说什么。 如果你愿意的话 我可以陪你一起工作",我明白。你要是愿意，我就待在旁边，陪你工作。
+english_events_pitstop:L1308,pitstop_passenger_lovesuccess_adrien_1,POLISH,Oh... sure. That would be nice.,哦... 当然可以。 这将是很好的。,哦……好啊。那也挺好的。
+english_events_pitstop:L1309,pitstop_passenger_lovesuccess_adrien_1,FIX,"You spend the evening with Adrien, poring over Merkingdom reform strategies. He's so cute when he's focused.",你和阿德里安共度一晚上 讨论默金多姆改革策略 专出心后可爱相.,你陪阿德里安研究了一晚人鱼王国的改革策略。他专注的样子真可爱。
+english_events_pitstop:L1314,pitstop_passenger_lovesuccess_adrien_2,FIX,"Good evening, %CURRENTPLAYERNAME%. I suppose you want to talk?",边 %CURRENTPLAYERNAME%. 我想你想谈谈吗?,晚上好，%CURRENTPLAYERNAME%。你是想来聊聊吧？
+english_events_pitstop:L1315,pitstop_passenger_lovesuccess_adrien_2,FIX,"Normally I'd be happy to, but I need to focus on my knightly training tonight.","通常我会很高兴, 但我需要集中精力 我的骑士训练今晚。",平时我很乐意，但今晚我得专心进行骑士训练。
+english_events_pitstop:L1316,pitstop_passenger_lovesuccess_adrien_2,FIX,"Oh, okay. What does ""knightly training"" involve, exactly?","哦,还好。 ""夜训""究竟涉及什么?",哦，好吧。“骑士训练”具体要做些什么？
+english_events_pitstop:L1317,pitstop_passenger_lovesuccess_adrien_2,FIX,"Well, I start with aerobics, then sword practice, then I take half an hour to heavily contemplate the weight of my mission...","好吧,我从有氧运动开始,然后是剑术, 然后我花了半小时来仔细思考我的任务的重量...",先做有氧运动，再练剑，然后花半个小时，认真思考我肩负的使命有多沉重……
+english_events_pitstop:L1318,pitstop_passenger_lovesuccess_adrien_2,FIX,"...and finally, I polish my armor from head to toe.","最后,我把盔甲从头到脚擦去",……最后，把盔甲从头到脚擦亮。
+english_events_pitstop:L1319,pitstop_passenger_lovesuccess_adrien_2,FIX,Maybe you could assist me with that last part?,也许你可以帮我 最后一个部分?,最后这部分，也许你能帮帮我？
+english_events_pitstop:L1320,pitstop_passenger_lovesuccess_adrien_2,FIX,"Hell yeah, you could! You spend the evening watching Adrien train and finish him off with a full-suit scrubdown. So fun, so intimate!","当然可以,你可以! 你晚上看Adrien列车 然后用全衣去除他 这么有趣,那么亲密!",当然能，太能了！你看了一晚阿德里安训练，最后帮他把整身盔甲擦了个遍。又有趣，又亲密！
+english_events_pitstop:L1325,pitstop_passenger_lovesuccess_adrien_3,FIX,"Good evening, %CURRENTPLAYERNAME%. It's good to see you.",边 %CURRENTPLAYERNAME%. 欢喜踊跃.,晚上好，%CURRENTPLAYERNAME%。很高兴见到你。
+english_events_pitstop:L1326,pitstop_passenger_lovesuccess_adrien_3,FIX,"I apologize, but I can't talk with you tonight. I've just received a letter from my colleagues back Underwater.","对不起,但我今晚不能和你说话。 我刚刚收到同事回水下的信",抱歉，我今晚没法跟你聊。刚收到水下同僚寄来的信。
+english_events_pitstop:L1327,pitstop_passenger_lovesuccess_adrien_3,KEEP,"We must communicate in code, lest any Crown loyalists intercept our correspondence, so interpreting these letters takes a lot of time.","我们必须用密码进行交流,以免任何忠于王室的人拦截我们的通信,所以解释这些信件需要很多时间.","我们必须用密码进行交流,以免任何忠于王室的人拦截我们的通信,所以解释这些信件需要很多时间."
+english_events_pitstop:L1328,pitstop_passenger_lovesuccess_adrien_3,FIX,"Sounds important! I could just stick around and keep you company while you read, if you want.",听起来很重要! 我可以留下来陪你看书 如果你愿意的话,听着挺重要的！你要是愿意，我就留下来陪你读信。
+english_events_pitstop:L1329,pitstop_passenger_lovesuccess_adrien_3,POLISH,That... actually sounds quite nice. Thanks.,那个... 听起来不错 谢谢,那……其实挺好的。谢谢。
+english_events_pitstop:L1330,pitstop_passenger_lovesuccess_adrien_3,FIX,You spend the evening chilling with Adrien as he decodes the letter. It's like playing spies!,你晚上和阿德里安一起过夜 当他解码信的时候 这就像玩间谍!,你陪阿德里安待了一晚，看他破译那封信。简直像在玩间谍游戏！
+english_events_pitstop:L1335,pitstop_passenger_lovesuccess_hope_1,FIX,You find Hope sitting with several tarot cards spread out in front of her.,你发现霍普坐在她面前 戴着好几张塔罗牌,你找到希望女巫时，她正坐着，面前摊着几张塔罗牌。
+english_events_pitstop:L1336,pitstop_passenger_lovesuccess_hope_1,FIX,Hi %CURRENTPLAYERNAME%. You here to hang out?,顿 %CURRENTPLAYERNAME%. 你是来玩的吗?,嗨，%CURRENTPLAYERNAME%。来找我玩？
+english_events_pitstop:L1337,pitstop_passenger_lovesuccess_hope_1,FIX,I'm kinda busy right now. I was just in the middle of giving myself a reading...,我现在有点忙 我只是在给自己一个读取...,我现在有点忙，正给自己占卜到一半呢……
+english_events_pitstop:L1338,pitstop_passenger_lovesuccess_hope_1,FIX,"But if you're patient, I can do your cards next if you want.","但是如果你有耐心,我可以做你的牌 如果你想要的。",不过，你要是愿意等一会儿，接下来我可以给你算算。
+english_events_pitstop:L1339,pitstop_passenger_lovesuccess_hope_1,FIX,"Sure! You sit with Hope while she reads her cards, then yours. It gives you both much to think about for the rest of the night.",当然! 你和Hope一起坐着看她的名片 然后是你的 这给你们俩留下了深思熟虑的余生,当然！你陪希望女巫坐着，看她先给自己占卜，再给你算。这下，你们俩今晚都有不少事要琢磨了。
+english_events_pitstop:L1344,pitstop_passenger_lovesuccess_hope_2,FIX,"Oh, hey %CURRENTPLAYERNAME%. Sorry, but I can't hang out tonight.","哦嘿 %CURRENTPLAYERNAME%. 对不起,但我不能挂出今晚。",哦，嘿，%CURRENTPLAYERNAME%。抱歉，今晚没法陪你玩了。
+english_events_pitstop:L1345,pitstop_passenger_lovesuccess_hope_2,FIX,"Joy just emailed me and Faith some spellcasting exercises to work on, to ""keep us sharp"" in case ""evil rears its ugly head""...","乔伊刚给我和费斯发了邮件 做了一些拼写练习 ""让我们保持敏锐"" 以防""邪恶后头变丑""",乔伊刚给我和信念女巫发了些施法练习，让我们“保持状态”，免得“邪恶又冒出头来”……
+english_events_pitstop:L1346,pitstop_passenger_lovesuccess_hope_2,POLISH,"I swear, that girl has never heard of taking a night off.","我发誓,那个女孩从来没有听说过 休息一晚。",我敢说，那姑娘压根不知道什么叫休息一晚。
+english_events_pitstop:L1347,pitstop_passenger_lovesuccess_hope_2,FIX,"That's okay. Is it cool if I keep you company while you cast, then?",没关系。 你投球的时候我陪你好吗?,没关系。那我在旁边陪你练习施法，可以吗？
+english_events_pitstop:L1348,pitstop_passenger_lovesuccess_hope_2,KEEP,"Yeah, sure!","是的,当然!","是的,当然!"
+english_events_pitstop:L1349,pitstop_passenger_lovesuccess_hope_2,FIX,So you sit nearby while Hope goes through her magical reps. Being in the Coven sure is a lot of work!,"所以,你坐在附近 而希望通过她的神奇代表。 参加巫统肯定有很多活干!",于是，你坐在旁边，陪希望女巫一遍遍练习魔法。在女巫会干活可真够累的！
+english_events_pitstop:L1354,pitstop_passenger_lovesuccess_hope_3,FIX,"Oh, hey %CURRENTPLAYERNAME%. Sorry, but I can't hang out tonight.","哦嘿 %CURRENTPLAYERNAME%. 对不起,但我不能挂出今晚。",哦，嘿，%CURRENTPLAYERNAME%。抱歉，今晚没法陪你玩了。
+english_events_pitstop:L1355,pitstop_passenger_lovesuccess_hope_3,FIX,"Joy just emailed me and Faith a 30-page document with strategies, team tactics, and potential evils to fight next.",乔伊刚给我和Faith发了一封30页的文件 上面有策略 团队战术 还有下一场战斗的潜在邪恶,乔伊刚给我和信念女巫发了份30页的文件，里面有策略、团队战术，还有接下来可能要对付的邪恶势力。
+english_events_pitstop:L1356,pitstop_passenger_lovesuccess_hope_3,FIX,You know... Joy things.,你知道吗... 乔伊那一套.,你懂的……乔伊那一套。
+english_events_pitstop:L1357,pitstop_passenger_lovesuccess_hope_3,FIX,"This'll be a night of heavy reading, I guess.","这会是一个沉重的阅读之夜,我想。",看来今晚有得读了。
+english_events_pitstop:L1358,pitstop_passenger_lovesuccess_hope_3,FIX,Can I join you? I'd love to know more about your Coven stuff.,"我可以加入你吗? 我很想多了解一下你的""巫师""",我能一起吗？我很想多了解点你们女巫会的事。
+english_events_pitstop:L1359,pitstop_passenger_lovesuccess_hope_3,FIX,That'd actually be nice. I could use some company.,"那其实是不错的。 我需要人陪我一下,好吗? I could use some company.",那倒挺好的，我也想找个人陪陪。
+english_events_pitstop:L1360,pitstop_passenger_lovesuccess_hope_3,FIX,You and Hope pass the evening reading the Coven packet. It's packed with juicy witch lore!,"你和希望通过晚上 阅读""科文包""。 里面装满了多汁的女巫传说!",你和希望女巫读了一晚女巫会的资料。里面满是精彩的女巫知识！
+english_events_pitstop:L1365,pitstop_passenger_lovesuccess_finn_1,FIX,"Oh, hey %CURRENTPLAYERNAME%... you want to hang out?",哦嘿 %CURRENTPLAYERNAME%... 你想出去玩吗?,哦，嘿，%CURRENTPLAYERNAME%……你想找我玩？
+english_events_pitstop:L1366,pitstop_passenger_lovesuccess_finn_1,POLISH,"I'm really sorry, but I don't have the night off tonight.",我真的很抱歉 但我今晚没有休息时间,真不好意思，我今晚没法休息。
+english_events_pitstop:L1367,pitstop_passenger_lovesuccess_finn_1,FIX,I got assigned a bunch of spreadsheets to be filled by tomorrow morning. I'll have to work all night...,我明天早上被分配了一堆电子表格 我整个晚上都要工作了...,分给我一大堆电子表格，明早之前就得填完。看来得干一整晚了……
+english_events_pitstop:L1368,pitstop_passenger_lovesuccess_finn_1,POLISH,"It sucks, but you know how it is.","糟透了,但你知道情况",很烦，但你懂的。
+english_events_pitstop:L1369,pitstop_passenger_lovesuccess_finn_1,FIX,"You do not. In this escapist scenario, you're just a plucky young-adult monster on an endless road trip with no responsibilities! Yaaay!","你没有。 在这种隐蔽的情景中,你只是一个勇敢的幼稚的怪物 在无尽的路上旅行,没有责任! 亚爱! 亚爱!",你才不懂。在这个让人逃避现实的情境里，你只是个朝气蓬勃的年轻怪物，永远在公路上旅行，什么责任都不用担！好耶！
+english_events_pitstop:L1370,pitstop_passenger_lovesuccess_finn_1,FIX,"Still, you decide to spend the evening keeping Finn company while he works. You even make small talk and exchange meaningful glances during his breaks!","不过你还是决定晚上陪着芬恩工作 在他休息期间,你甚至会说点小话,并进行有意义的交流取景!",不过，你还是决定陪芬恩待一晚，让他安心工作。趁他休息，你们还聊了几句，交换了几个意味深长的眼神！
+english_events_pitstop:L1375,pitstop_passenger_lovesuccess_finn_2,FIX,"Oh, hey %CURRENTPLAYERNAME%... you want to hang out?",哦嘿 %CURRENTPLAYERNAME%... 你想出去玩吗?,哦，嘿，%CURRENTPLAYERNAME%……你想找我玩？
+english_events_pitstop:L1376,pitstop_passenger_lovesuccess_finn_2,POLISH,"I guess that's fine, but I kinda had a ""me night"" planned for tonight.","我想这没关系, 但我有点""我今晚"" 计划今晚。",也行吧，不过我本来打算今晚留点时间给自己。
+english_events_pitstop:L1377,pitstop_passenger_lovesuccess_finn_2,POLISH,"I gotta have a self-care day every once in a while, or else the stress of my job and my bills and my failing dreams would drive me completely batshit insane... you know?",我偶尔得有自我照顾的一天 否则我的工作压力和账单 以及我失败的梦想 就会让我疯狂... 你知道吗?,我偶尔总得照顾一下自己，不然工作、账单，还有那些快要落空的梦想，迟早会把我逼得彻底发疯……你懂吧？
+english_events_pitstop:L1378,pitstop_passenger_lovesuccess_finn_2,FIX,"Heh, that is to say... if you're down to play pinball and sing drunk karaoke with me, you're welcome to!","嘿,这就是说... 如果你下到弹球和 唱醉卡拉OK 和我一起,你欢迎!",嘿，我是说……你要是愿意陪我玩弹球机，再喝醉了唱卡拉OK，那当然欢迎！
+english_events_pitstop:L1379,pitstop_passenger_lovesuccess_finn_2,KEEP,"Sounds awesome! You and Finn enjoy the night to its fullest, singing cheesy pop songs until dawn.",听起来真棒! 你和芬恩尽情享受夜晚 唱出俗气的流行歌曲直到天亮,听起来真棒! 你和芬恩尽情享受夜晚 唱出俗气的流行歌曲直到天亮
+english_events_pitstop:L1384,pitstop_passenger_lovesuccess_finn_3,FIX,"Oh, hey %CURRENTPLAYERNAME%... you want to hang out?",哦嘿 %CURRENTPLAYERNAME%... 你想出去玩吗?,哦，嘿，%CURRENTPLAYERNAME%……你想找我玩？
+english_events_pitstop:L1385,pitstop_passenger_lovesuccess_finn_3,POLISH,"I can't tonight, sorry. I have a TON of emails to sort through. My inbox has gotten really full.","我今晚不能,对不起。 我有一大堆邮件要整理 我的收件箱都满了",抱歉，今晚不行。我有一大堆邮件要整理，收件箱都快塞满了。
+english_events_pitstop:L1386,pitstop_passenger_lovesuccess_finn_3,FIX,GAH! This one was from Mr. Pappas asking me to reschedule a really important meeting!,哟! GAH! 这是从先生。 帕帕斯要我重新安排一个非常重要的会议!,啊！这封是帕帕斯先生发的，要我重新安排一场特别重要的会议！
+english_events_pitstop:L1387,pitstop_passenger_lovesuccess_finn_3,POLISH,...I'm just gonna pretend I didn't see that...,...我只是要假装我没看到...,……我就当没看见吧……
+english_events_pitstop:L1388,pitstop_passenger_lovesuccess_finn_3,FIX,You decide to hang out with Finn while he sorts through his inbox... and occasionally reassure him that he won't get fired over all the important memos he's missed.,"你决定和Finn一起玩 他的收件箱里有些东西... 并偶尔向他保证,他不会因为错过的所有重要备忘录而被解雇.",你决定留下来陪芬恩整理收件箱……还时不时安慰他，漏看了那么多重要通知，也不至于被开除。
+english_events_pitstop:L1389,pitstop_passenger_lovesuccess_finn_3,KEEP,He clearly needs the emotional support.,他显然需要情绪上的支持。,他显然需要情绪上的支持。
+english_events_pitstop:L1390,pitstop_passenger_lovesuccess_finn_3,FIX,(And a new job.),(又作一活来.,（还需要一份新工作。）
+english_events_pitstop:L1395,pitstop_passenger_lovesuccess_dahliaappliance_1,FIX,Hey Dahlia! Wanna hang out tonight?,顿 达莉娅! 今晚想出去玩吗?,嘿，达丽雅！今晚想一起待会儿吗？
+english_events_pitstop:L1396,pitstop_passenger_lovesuccess_dahliaappliance_1,POLISH,"Aw, damn! I'd love to, but I already promised Scott I'd wash his dirty socks tonight.","噢,该死的! 我很想,但我已经答应过 斯科特 我今晚会洗他的脏袜子",哎，该死！我很想啊，可我已经答应斯科特，今晚要帮他洗脏袜子。
+english_events_pitstop:L1397,pitstop_passenger_lovesuccess_dahliaappliance_1,POLISH,I had no idea what I was getting into... how can one dude have so many dirty socks? Is he collecting them or what?!,我不知道我要进什么... 一个人怎么会有这么多肮脏的袜子? 他是在收集他们还是什么?,答应的时候，我哪知道会是这么回事……一个人怎么能有这么多脏袜子？他是在搞收藏还是什么？！
+english_events_pitstop:L1398,pitstop_passenger_lovesuccess_dahliaappliance_1,FIX,"No idea. Maybe I can just chill out with you while you work, then?","不知道,我还不知道呢。 也许我可以跟你冷静下来 你的工作,然后呢?",我也不知道。那我就待在这儿，陪你干活？
+english_events_pitstop:L1399,pitstop_passenger_lovesuccess_dahliaappliance_1,FIX,Sure! That'd be awesome!,当然! 这将是真棒!,好啊！那可太棒了！
+english_events_pitstop:L1400,pitstop_passenger_lovesuccess_dahliaappliance_1,FIX,"So you pass the evening chilling with Dahlia, listening to the sounds of the desert and the soothing vibrations of her spin cycle.","所以,你过夜 寒冷与 达莉娅听到沙漠的声音 以及她旋转周期的舒缓振动",于是，你陪达丽雅悠闲地过了一晚，听着沙漠里的声响，还有她脱水时那令人放松的振动声。
+english_events_pitstop:L1405,pitstop_passenger_lovesuccess_dahliaappliance_2,FIX,Hey Dahlia! Wanna talk?,顿 达莉娅! 想谈谈吗?,嘿，达丽雅！想聊聊吗？
+english_events_pitstop:L1406,pitstop_passenger_lovesuccess_dahliaappliance_2,POLISH,"Sorry %CURRENTPLAYERNAME%, but I can't chat right now. I gotta get a workout in tonight!",对不起 %CURRENTPLAYERNAME%但我现在不能聊天了 今晚我得去锻炼一下!,抱歉，%CURRENTPLAYERNAME%，我现在没法聊。今晚得锻炼一下！
+english_events_pitstop:L1407,pitstop_passenger_lovesuccess_dahliaappliance_2,FIX,"Oh... uh... how do you work out as a washing machine, exactly?","哦... 额... 你是怎么做洗衣机的,确切地说?",哦……呃……你是台洗衣机，具体要怎么锻炼啊？
+english_events_pitstop:L1408,pitstop_passenger_lovesuccess_dahliaappliance_2,KEEP,Like this!,像这样!,像这样!
+english_events_pitstop:L1409,pitstop_passenger_lovesuccess_dahliaappliance_2,FIX,HRRRRRKGJDSKLSKHGSKH,人 权 人 权 利 克 克 克,HRRRRRKGJDSKLSKHGSKH
+english_events_pitstop:L1410,pitstop_passenger_lovesuccess_dahliaappliance_2,FIX,"THERE! One rep down, ninety-nine to go!","那边! 一个代表倒下,还有99个!",好了！做完一次，还剩九十九次！
+english_events_pitstop:L1411,pitstop_passenger_lovesuccess_dahliaappliance_2,FIX,"...Okay, whatever floats her boat. You decide to just hang out with Dahlia while she does her ""reps"" like a goof.","好吧,无论什么浮出她的船只。 你决定只是挂出与 达莉娅 当她像傻子一样做""报告""时",……好吧，她开心就好。你决定陪着达丽雅，看她傻乎乎地做这些“训练”。
+english_events_pitstop:L1416,pitstop_passenger_lovesuccess_dahliaappliance_3,FIX,Hey Dahlia! Wanna talk?,顿 达莉娅! 想谈谈吗?,嘿，达丽雅！想聊聊吗？
+english_events_pitstop:L1417,pitstop_passenger_lovesuccess_dahliaappliance_3,POLISH,"We could talk, or... I could wash your clothes?","我们可以谈谈,或者... 我可以洗你的衣服吗?",可以聊，也可以……让我帮你洗衣服？
+english_events_pitstop:L1418,pitstop_passenger_lovesuccess_dahliaappliance_3,POLISH,...What?,什麽?,……什么？
+english_events_pitstop:L1419,pitstop_passenger_lovesuccess_dahliaappliance_3,POLISH,"I feel like washing clothes tonight. It's my thing, you know?","我今晚想洗个衣服 这是我的事,你知道吗?",我今晚想洗衣服。这是我的爱好，你懂吧？
+english_events_pitstop:L1420,pitstop_passenger_lovesuccess_dahliaappliance_3,KEEP,So can I wash your clothes?,我能帮你洗衣服吗?,我能帮你洗衣服吗?
+english_events_pitstop:L1421,pitstop_passenger_lovesuccess_dahliaappliance_3,FIX,Sure?,是吗?,好啊……？
+english_events_pitstop:L1422,pitstop_passenger_lovesuccess_dahliaappliance_3,KEEP,YES!,没错!,没错!
+english_events_pitstop:L1423,pitstop_passenger_lovesuccess_dahliaappliance_3,FIX,So you chill quietly with Dahlia while she washes your clothes. It's a strange bonding experience... and her washing machine noises sound a bit like ASMR.,"所以,你冷静下来与 达莉娅 她帮你洗衣服的时候 这是一种奇怪的联系经历... 她的洗衣机听起来有点像ASMR",于是，你静静待在达丽雅身边，陪她洗你的衣服。这种增进感情的方式还挺奇怪……她洗衣机的声音，听着还有点像ASMR。
+english_events_pitstop:L1429,pitstop_passenger_lovesuccess_lamb_1,FIX,"Hey, %CURRENTPLAYERNAME%!",顿 %CURRENTPLAYERNAME%!,嘿，%CURRENTPLAYERNAME%！
+english_events_pitstop:L1430,pitstop_passenger_lovesuccess_lamb_1,FIX,It's good to see you! I can't talk tonight: I've gotta go on a supply run for the cult.,很高兴见到你! 我今晚不能说 我得去为邪教组织提供补给,见到你真好！今晚没法聊了，我得出去给邪教找点补给。
+english_events_pitstop:L1431,pitstop_passenger_lovesuccess_lamb_1,FIX,"Those logs, stones, and bones of all who'd dare oppose me don't collect themselves!","那些木头,石头和骨头 谁敢反对我 不要自己收集!",那些木头、石头，还有所有敢反对我的人的骨头，可不会自己送上门来！
+english_events_pitstop:L1432,pitstop_passenger_lovesuccess_lamb_1,POLISH,Though I guess you could come with me... if you think you can handle it.,虽然我想你可以和我一起去... 如果你觉得你能处理好的话,不过，你也可以跟我一起去……只要你觉得自己应付得来。
+english_events_pitstop:L1433,pitstop_passenger_lovesuccess_lamb_1,FIX,Challenge accepted!,挑战接受!,接受挑战！
+english_events_pitstop:L1435,pitstop_passenger_lovesuccess_lamb_1,FIX,"You join the Lamb on an action-packed adventure, gathering supplies and slaying anyone who stands in your way.","你加入了羔羊 在一个行动包 冒险, 收集补给 并杀死任何人 谁挡你的道。",你和羔羊展开了一场惊险刺激的冒险，一边收集补给，一边干掉所有挡路的人。
+english_events_pitstop:L1436,pitstop_passenger_lovesuccess_lamb_1,FIX,We can't show it here 'cause it's not really our genre... but maybe in a different game!,"我们不能在这里展示,因为它不是真的我们的流派... 但也许在不同的游戏中!",我们没法在这里展示，毕竟不太符合本游戏的类型……不过换个游戏，也许就能看到了！
+english_events_pitstop:L1442,pitstop_passenger_lovesuccess_lamb_2,FIX,"Oh, hey %CURRENTPLAYERNAME%!",哦嘿 %CURRENTPLAYERNAME%!,哦，嘿，%CURRENTPLAYERNAME%！
+english_events_pitstop:L1443,pitstop_passenger_lovesuccess_lamb_2,POLISH,"I'm sorry, but I don't have time to talk tonight.","对不起,但我今晚没时间谈了",抱歉，今晚没时间聊天了。
+english_events_pitstop:L1444,pitstop_passenger_lovesuccess_lamb_2,POLISH,I've gotta practice my next sermon for when I get back to the cult. My followers love a good performance!,我得练习下个布道 等我回到邪教 我的追随者们喜欢精彩的表演!,我得练练下一场布道，回到邪教后就要用。我的信徒可喜欢精彩的表演了！
+english_events_pitstop:L1445,pitstop_passenger_lovesuccess_lamb_2,FIX,I understand. Would it help you to practice in front of an audience?,"我了解,我懂你说什么。 能在观众面前练习吗?",明白。要是有个观众看着你练习，会不会有帮助？
+english_events_pitstop:L1446,pitstop_passenger_lovesuccess_lamb_2,POLISH,"Ooh, you wanna watch? I'm flattered!","哦,你想看吗? 我受宠若惊!",哦，你想看？真让我受宠若惊！
+english_events_pitstop:L1447,pitstop_passenger_lovesuccess_lamb_2,FIX,"You listen to the Lamb's sermon... which, it turns out, involves a lot of lamb sounds, eldritch chanting, and bleeding from the eyes.",你听Lamb的布道... 结果发现 有很多羊羔的声音 Eldritch高喊着 眼睛出血,你听羔羊布道……这布道居然包含大量的羊叫、诡异的吟唱，还有眼睛出血。
+english_events_pitstop:L1448,pitstop_passenger_lovesuccess_lamb_2,FIX,It's so cool to see the Lamb in their element! Look at that little god go!,看到羔羊的元素太酷了! 看看那个小神去!,看羔羊这么如鱼得水，真是太酷了！瞧这小神祇，多起劲！

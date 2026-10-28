@@ -1,0 +1,41 @@
+{
+  "user_rule": "Joy as a character name is 乔伊; ordinary joy/enjoy/joyful etc retain their contextual meanings.",
+  "scan_scope": "All 12 translation CSV source/target pairs; original source and engine control IDs are preserved.",
+  "source_entries_containing_joy_substring": 278,
+  "entries_with_character_name_target": 119,
+  "remaining_substring_vocabulary": {
+    "enjoyed": 9,
+    "enjoy": 52,
+    "joy": 35,
+    "enjoyer": 1,
+    "joys": 5,
+    "Enjoy": 18,
+    "joyful": 2,
+    "JoY": 1,
+    "enjoys": 1,
+    "Joy": 1,
+    "joyfully": 4,
+    "enjoying": 15,
+    "enjoyable": 2,
+    "enjoyment": 2,
+    "joyless": 2,
+    "joyride": 4,
+    "joyously": 1,
+    "enjoyin": 1,
+    "Joyride": 1,
+    "Joys": 1,
+    "joyous": 1,
+    "Joyful": 1
+  },
+  "context_checked_exceptions": {
+    "english_events_maingame:L1259": "Joy! is an exclamation of happiness, not a character.",
+    "english_events_maingame:L261": "JoY appears in a distorted birthday greeting, not as a name."
+  },
+  "additional_names_corrected": [
+    "english_events_maingame:L23555",
+    "english_events_maingame:L23638",
+    "english_events_maingame:L8139"
+  ],
+  "full_review_coverage_credit": 0,
+  "manual_review_status": "These scans check naming only. Overall manual review remains in progress; use progress.json for coverage."
+}

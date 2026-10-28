@@ -1,0 +1,5 @@
+﻿row_id,term,candidate,decision,reason
+english_events_pitstop:L4903,Spooky High / Spooky High School,惊悚学院,KEEP,"Source is Spooky Academy, the renamed school, not Spooky High."
+english_events_maingame:L8156,Hope,霍普,KEEP,Hopsville is a town name. It is not the character Hope.
+english_events_pitstop:L5615,Slayer,杀手,KEEP,"Generic cold killer washing-cycle metaphor, not the Slayer class/title."
+english_events_pitstop:L5620,Slayer,杀手,KEEP,"Generic stain killer, not the Slayer class/title."

@@ -1,0 +1,183 @@
+{
+  "english_events_endings:L1081": {
+    "%VERB_'S_'RE%": ""
+  },
+  "english_events_endings:L1082": {
+    "%VERB_IS_ARE%": ""
+  },
+  "english_events_endings:L2168": {
+    "%VERB_IS_ARE%": ""
+  },
+  "english_events_endings:L2378": {
+    "%VERB_AMUSES_AMUSE%": "逗乐"
+  },
+  "english_events_maingame:L365": {
+    "%VERB_INHALES_INHALE%": "闻"
+  },
+  "english_events_maingame:L413": {
+    "%VERB_DOES_DO%": ""
+  },
+  "english_events_maingame:L415": {
+    "%VERB_GOES_GO%": ""
+  },
+  "english_events_maingame:L564": {
+    "%VERB_'S_'RE%": ""
+  },
+  "english_events_maingame:L609": {
+    "%VERB_'S_'VE%": ""
+  },
+  "english_events_maingame:L851": {
+    "%VERB_'S_'VE%": ""
+  },
+  "english_events_maingame:L1100": {
+    "%VERB_DOES_DO%": ""
+  },
+  "english_events_maingame:L1536": {
+    "%VERB_'S_'RE%": ""
+  },
+  "english_events_maingame:L2051": {
+    "%VERB_HAS_HAVE%": "长着"
+  },
+  "english_events_maingame:L2054": {
+    "%VERB_DOES_DO%": ""
+  },
+  "english_events_maingame:L2118": {
+    "%VERB_'S_'RE%": ""
+  },
+  "english_events_maingame:L2142": {
+    "%VERB_WANTS_WANT%": "想"
+  },
+  "english_events_maingame:L2208": {
+    "%VERB_'S_'VE%": ""
+  },
+  "english_events_maingame:L2728": {
+    "%VERB_LEAVES_LEAVE%": ""
+  },
+  "english_events_maingame:L2738": {
+    "%VERB_'S_'VE%": ""
+  },
+  "english_events_maingame:L2776": {
+    "%VERB_LETS_LET%": ""
+  },
+  "english_events_maingame:L3725": {
+    "%VERB_'S_'RE%": ""
+  },
+  "english_events_maingame:L5032": {
+    "%VERB_IS_ARE%": ""
+  },
+  "english_events_maingame:L5034": {
+    "%VERB_'S_'RE%": "是"
+  },
+  "english_events_maingame:L6016": {
+    "%VERB_WANTS_WANT%": "想"
+  },
+  "english_events_maingame:L6752": {
+    "%VERB_NEEDS_NEED%": "需要"
+  },
+  "english_events_maingame:L7497": {
+    "%VERB_FUCKS_FUCK%": "没少干炮"
+  },
+  "english_events_maingame:L9495": {
+    "%VERB_ESCAPES_ESCAPE%": "逃走",
+    "%VERB_KEEPS_KEEP%": "继续"
+  },
+  "english_events_maingame:L10002": {
+    "%VERB_'S_'VE%": ""
+  },
+  "english_events_maingame:L12194": {
+    "%VERB_'S_'RE%": ""
+  },
+  "english_events_maingame:L12283": {
+    "%VERB_'S_'RE%": "",
+    "%VERB_WINS_WIN%": "赢"
+  },
+  "english_events_maingame:L12439": {
+    "%VERB_HAS_HAD%": "有"
+  },
+  "english_events_maingame:L12477": {
+    "%VERB_HAS_HAD%": "有"
+  },
+  "english_events_maingame:L14403": {
+    "%VERBCAPS_DIES_DIE%": "死"
+  },
+  "english_events_maingame:L14460": {
+    "%VERB_'S_'RE%": ""
+  },
+  "english_events_maingame:L15625": {
+    "%VERB_IS_ARE%": ""
+  },
+  "english_events_maingame:L15628": {
+    "%VERB_MEANS_MEAN%": "的意思"
+  },
+  "english_events_maingame:L15629": {
+    "%VERB_WAS_WERE%": "是"
+  },
+  "english_events_maingame:L15636": {
+    "%VERB_WAS_WERE%": "是"
+  },
+  "english_events_maingame:L15796": {
+    "%VERB_'S_'VE%": ""
+  },
+  "english_events_maingame:L15839": {
+    "%VERB_HAS_HAVE%": ""
+  },
+  "english_events_maingame:L17971": {
+    "%VERB_'S_'RE%": ""
+  },
+  "english_events_maingame:L17989": {
+    "%VERB_'S_'RE%": ""
+  },
+  "english_events_maingame:L18382": {
+    "%VERB_KNOWS_KNOW%": "会"
+  },
+  "english_events_maingame:L19138": {
+    "%VERB_'S_'VE%": ""
+  },
+  "english_events_maingame:L19174": {
+    "%VERB_DRINKS_DRINK%": "喝下",
+    "%VERB_OPENS_OPEN%": "睁开"
+  },
+  "english_events_maingame:L21131": {
+    "%VERB_'S_'RE%": ""
+  },
+  "english_events_maingame:L21749": {
+    "%VERB_DOESN'T_DON'T%": "根本没",
+    "%VERB_'S_'RE%": ""
+  },
+  "english_events_maingame:L21776": {
+    "%VERB_'S_'RE%": ""
+  },
+  "english_events_maingame:L22089": {
+    "%VERB_NEEDS_NEED%": "需要"
+  },
+  "english_events_maingame:L22423": {
+    "%VERB_KNOWS_KNOW%": "知道"
+  },
+  "english_events_maingame:L22429": {
+    "%VERB_WANTS_WANT%": "想"
+  },
+  "english_events_maingame:L22437": {
+    "%VERB_IS_ARE%": ""
+  },
+  "english_events_maingame:L22473": {
+    "%VERB_IS_ARE%": ""
+  },
+  "english_events_maingame:L23552": {
+    "%VERB_'S_'RE%": ""
+  },
+  "english_events_maingame:L24211": {
+    "%VERB_GETS_GET%": ""
+  },
+  "english_events_maingame:L24220": {
+    "%VERB_IS_ARE%": ""
+  },
+  "english_events_maingame:L26171": {
+    "%VERB_IS_ARE%": ""
+  },
+  "english_events_maingame:L26172": {
+    "%VERB_'S_'RE%": ""
+  },
+  "english_events_pitstop:L1968": {
+    "%VERB_'S_'RE%": "是"
+  }
+}

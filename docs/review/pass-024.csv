@@ -1,0 +1,102 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_pitstop:L3805,cjoygrace,FIX,"Grace, from the Coven","格蕾丝,来自巫师",女巫会的格蕾丝
+english_events_pitstop:L3807,cjoygrace,POLISH,"Grace... sure, I can tell you a bit about her.","格蕾丝... 当然,我可以告诉你一些关于她的事。",格蕾丝……好，我可以跟你聊聊她。
+english_events_pitstop:L3808,cjoygrace,FIX,"She was the leader of the Coven before you, right?","她是你之前的巫统领袖,对吧?",她是女巫会上一任领袖，对吧？
+english_events_pitstop:L3809,cjoygrace,FIX,"Yes, she was, for a bit...","是的,她是, 一点点...",是的，她当过一阵子……
+english_events_pitstop:L3810,cjoygrace,FIX,"We witches are either born to become part of the Coven, or remain ""dormant"".","我们女巫要么生来就成为巫统的一部分,要么继续""活活"".",我们女巫要么生来就注定加入女巫会，要么保持“休眠”状态。
+english_events_pitstop:L3811,cjoygrace,FIX,"If one of us dies, a ""dormant"" witch can take her place.","如果我们中的一个死了,一个""多曼特""女巫可以取代她的位置.",如果我们当中有人死去，一位“休眠”的女巫就能接替她。
+english_events_pitstop:L3812,cjoygrace,POLISH,"A backup player, waiting in the benches!","一个后备球员,在长椅上等着!",就像替补球员，在场边等着上场！
+english_events_pitstop:L3813,cjoygrace,FIX,"Sort of, yes. There are exceptions, though... like how our Hope can never be replaced by a different witch.","有点,是的。 有一些例外,虽然... 就像我们的希望永远不能被另一个女巫所取代",差不多。不过也有例外……比如我们这位希望女巫，就不能让其他女巫随便接替。
+english_events_pitstop:L3814,cjoygrace,FIX,"In time she can be replaced by a new Hope. But for that to happen, she CANNOT die before the ritual takes place.","在时间上,她可以被一个新的希望所取代. 但是要做到这一点,她不能死 在仪式举行之前。",时机到了，可以由一位新的希望女巫来接替她。但在传承仪式举行前，她绝对不能死。
+english_events_pitstop:L3815,cjoygrace,FIX,"This is because Hope is the vessel for something very old and powerful, something that's passed from Hope to Hope...","因为""希望""是一件非常古老而有威力的东西的载体 从""希望""传到""希望""",因为希望女巫是某种古老而强大的存在的容器。那种存在，会由一代希望女巫传给下一代……
+english_events_pitstop:L3816,cjoygrace,FIX,"The rest of us? We can die. We MUST die, if it's what it takes to save the world.","其他人吗? 我们可以死。 我们一定要死,如果这是拯救世界所必须的。",至于我们其他人？我们可以死。如果只有这样才能拯救世界，那我们就必须死。
+english_events_pitstop:L3817,cjoygrace,FIX,And so Grace did.,格蕾丝也这么做了,格蕾丝就是如此。
+english_events_pitstop:L3818,cjoygrace,FIX,"I'm sorry, Joy...","对不起,乔伊...",听到这些，我很难过，欢愉女巫……
+english_events_pitstop:L3819,cjoygrace,FIX,Hope and Faith have told me she was a brave and just leader.,希望和信仰告诉我 她是一个勇敢和公正的领导者。,希望女巫和信念女巫都跟我说过，她是位勇敢、公正的领袖。
+english_events_pitstop:L3820,cjoygrace,POLISH,"It's hard. There's always a thin, lingering feeling that I'm in her shadow.",阿难. 我总是觉得自己在她的阴影中,很难。我总隐隐觉得，自己还活在她的影子里。
+english_events_pitstop:L3821,cjoygrace,FIX,There's a different universe in which she survived and remained the rightful leader of the Coven.,"在另一个宇宙中,她活了下来,并且仍然是""巫统""的合法领袖.",在另一个宇宙，她活了下来，仍是女巫会当之无愧的领袖。
+english_events_pitstop:L3822,cjoygrace,FIX,A universe in which I remained just another human.,"宇宙里,我仍然是另一个人类。",而那个宇宙里的我，还是个普通人。
+english_events_pitstop:L3823,cjoygrace,FIX,What would be my life then? Would the Coven be in better hands?,那我的人生会怎样? 巫师会得到更好的照顾吗?,那样的话，我会过着什么样的人生？女巫会交给她，是不是会更好？
+english_events_pitstop:L3824,cjoygrace,FIX,"I do my best to be a good leader for the Coven, to protect all realms.","我尽我所能,为巫统做一个好领袖,保护一切疆域.",我尽全力做一个好领袖，带领女巫会，保护所有世界。
+english_events_pitstop:L3825,cjoygrace,FIX,But is it enough?,"但是,这还不够吗?",可这就够了吗？
+english_events_pitstop:L3826,cjoygrace,POLISH,Grace was brave and just and strong... and yet it wasn't enough.,"格蕾丝是勇敢的,正义和坚强的... 但它还不够。",格蕾丝那么勇敢、公正、强大……却依然不够。
+english_events_pitstop:L3827,cjoygrace,POLISH,Sometimes I dream I traded places with her again.,有时我梦见我和她又换了地方,有时，我会梦见自己又跟她换了位置。
+english_events_pitstop:L3828,cjoygrace,FIX,A part of me dreams this out of the thought that she would be better for the Coven.,我梦见这一切 是因为她对巫师来说会更好,一方面，是觉得她更适合带领女巫会。
+english_events_pitstop:L3829,cjoygrace,FIX,A part of me maybe just wants to drop this unbearable weight on my shoulders... to find some rest.,我的一部分也许只是想 把这种难以承受的重量 放在我的肩膀上... 寻找一些休息。,另一方面，也许只是想卸下肩上这副难以承受的重担……歇一歇。
+english_events_pitstop:L3830,cjoygrace,FIX,"It sounds like a lot, Joy. Maybe we can get some rest, even if only for the duration of the night?","听起来像很多,乔伊。 也许我们可以休息一下,即使只在晚上休息?",你背负的确实太多了，欢愉女巫。要不我们先歇一会儿？哪怕只有今晚。
+english_events_pitstop:L3831,cjoygrace,POLISH,Maybe... yes... that sounds good.,也许... 对... 这听起来不错。,也许……嗯……这样也好。
+english_events_pitstop:L3832,cjoygrace,FIX,You both close your eyes. Breathe in... breathe out... you hold hands and just... are.,你们两个闭上眼睛。 吸进去... 呼吸出来... 你握起手来... 已经是了,你们闭上眼睛，吸气……呼气……握着彼此的手，就这样……静静地待着。
+english_events_pitstop:L3841,cjoyrealms,FIX,Moving from one realm to another,从一个领域转移到另一个领域,在不同世界间穿行
+english_events_pitstop:L3843,cjoyrealms,FIX,"Ah, yeah, we witches are a special case when it comes to that...","啊,是的,我们女巫是一个特殊的情况 当它涉及到...",嗯，说到这个，我们女巫算是个特例……
+english_events_pitstop:L3844,cjoyrealms,FIX,How much do you know about realms?,你对世界了解多少?,你对这些不同的世界了解多少？
+english_events_pitstop:L3845,cjoyrealms,POLISH,"Eh... explain this to me like I'm five, okay?","额... 跟我解释一下,就像我五岁,好吗?",呃……就当我只有五岁，从头给我讲讲，好吗？
+english_events_pitstop:L3847,cjoyrealms,FIX,Heh... okay.,哦... 还好。,呵……好。
+english_events_pitstop:L3848,cjoyrealms,FIX,Reality is divided into different realms.,现实被分为不同的领域.,现实被划分成了不同的世界。
+english_events_pitstop:L3849,cjoyrealms,FIX,"This is the Monster Realm, what many consider the ""main realm"".","这是魔兽王国,许多人认为""主域"".",这里是怪物世界，许多人把它当作“主世界”。
+english_events_pitstop:L3850,cjoyrealms,POLISH,"With the right means and powers, you can traverse the realms.","用正确的手段和力量,你可以穿越世界。",只要有合适的手段和力量，就能在这些世界间穿行。
+english_events_pitstop:L3851,cjoyrealms,FIX,Some realms are... more accessible than others.,有些领域是... 比别人更方便,有些世界……比其他世界更容易进入。
+english_events_pitstop:L3852,cjoyrealms,FIX,"Take Hell, for instance: it's only recently started serious diplomatic relationships with the Monster Realm, and now travelling between these two realms has become a bit easier.","例如""取地狱"":它只是最近才开始与""魔兽王国""建立严肃的外交关系,而现在在这两个领域之间旅行已经变得有些容易了.",比如地狱：直到最近，它才正式跟怪物世界建立外交关系。现在往返这两个世界，就容易了一些。
+english_events_pitstop:L3853,cjoyrealms,FIX,One of the most mundane and yet special realms of them all is my birthplace: the Human Realm.,其中最平凡而又特殊的领域之一 就是我的出世地:人类王国。,其中有个既平凡又特别的世界，就是我的出生地：人类世界。
+english_events_pitstop:L3854,cjoyrealms,FIX,"It's a realm that is built to reject anything ""extraordinary"".","它是一个用来拒绝任何""异乎寻常""的王国。",那个世界的构造，就是为了排斥一切“超凡”的事物。
+english_events_pitstop:L3855,cjoyrealms,POLISH,"I guess there's no place for me there, then!",我想那里没有我的地方了!,那看来没我的容身之处了！
+english_events_pitstop:L3857,cjoyrealms,POLISH,"It's way more complex than that, but to sum it up, it's a protective measure against the old deities who seek to destroy everything.","比这要复杂得多,但概括起来,这是针对那些想毁灭一切的老神祇的保护措施.",实际要复杂得多。简单来说，这是一种保护措施，用来抵御那些企图毁灭一切的旧神。
+english_events_pitstop:L3858,cjoyrealms,FIX,"We Coven witches are born human. It hasn't always been like that, but again, it's the safest way to protect us while we're young and weak.","我们巫师是天生的人类 它并不总是这样,但再次,它是最安全的方式 保护我们 当我们年轻和弱小。",女巫会的女巫生来都是人类。以前也不是一直如此，但这样最安全，能在我们还年幼、弱小的时候保护我们。
+english_events_pitstop:L3859,cjoyrealms,FIX,"As soon as a being starts acquiring an ""extraordinary"" nature, it usually gets ""vomited"" out of the Human Realm.","一旦一个被体开始获得""异常""的性能,它通常会从""人类王国""得到""被放出"".",某个存在一旦开始具有“超凡”的性质，通常就会被人类世界“吐”出去。
+english_events_pitstop:L3860,cjoyrealms,FIX,"Think of how when dead humans turn into ghosts or zombies, they are slowly but surely phased out of the Human Realm and into the Monster Realm.","想想当死去的人类变成鬼或僵尸时,他们慢慢但肯定地被淘汰出""人类王国""并进入""魔兽王国"".",比如，人类死后变成幽灵或僵尸，就会缓慢却不可避免地离开人类世界，进入怪物世界。
+english_events_pitstop:L3861,cjoyrealms,FIX,"We witches are a rare exception, though. We're part of a select few who can actually move in and out the Human Realm.","我们女巫是一个罕见的例外,虽然。 我们是少数能真正进出人类王国的人的一部分。",我们女巫算是少有的例外，属于那极少数能自由进出人类世界的存在。
+english_events_pitstop:L3862,cjoyrealms,FIX,"But we rarely go back these days. The stakes have become so high that it's dangerous for us to be there. We need to stay here, closer to the enemy.","但我们这些天很少回去。 利害关系变得如此之高,以至于我们在那里是危险的. 我们要呆在这里 靠近敌人",不过，如今我们很少回去了。局势太严峻，留在那里很危险。我们得待在这里，靠近敌人。
+english_events_pitstop:L3863,cjoyrealms,FIX,Yikes.,唉哟!,听着真吓人。
+english_events_pitstop:L3865,cjoyrealms,FIX,"Yeah, yikes. But it is what it is. If we make a mistake, there could be no realm at all anymore.","是啊,yikes。 (笑声) 但这是它是什么。 如果我们犯了一个错误, 就不可能有任何王国了。",是啊，确实吓人。可也只能如此。只要我们出错，可能所有世界都会不复存在。
+english_events_pitstop:L3866,cjoyrealms,POLISH,"Was it hard to stay in the Monster Realm for good? Like... in a way, you left your home.","永远留在魔兽王国很困难吗? 喜欢... 从某种意义上说,你离开了你的家。",决定永远留在怪物世界，难不难？我是说……某种意义上，你离开了自己的家。
+english_events_pitstop:L3867,cjoyrealms,POLISH,Absolutely. The Monster Realm is super messed up in a hundred different ways.,"当然 ""魔兽王国""在百种不同方面都超级糟糕.",当然难。怪物世界的问题多得很，简直一团糟。
+english_events_pitstop:L3868,cjoyrealms,FIX,Then again... the Human Realm is also super messed up in its own particular ways.,再说一遍... 人类王国也以自己独特的方式 陷入了超级混乱,不过……人类世界也有它自己的一堆烂摊子。
+english_events_pitstop:L3869,cjoyrealms,FIX,But there are good things in both realms... and I guess that's enough to devote my life to protect both of them.,但这两个领域都有好东西... 我想这足以让我的命 用来保护他们两人,可两个世界都有美好的东西……我想，这就够让我用一生去守护它们了。
+english_events_pitstop:L3870,cjoyrealms,POLISH,"Well, I hope I'm one of those good things!","好吧,我希望我是那些好东西之一!",那我希望，自己也是那些美好事物之一！
+english_events_pitstop:L3871,cjoyrealms,FIX,"Heh... on a good day, you sort of are, sure.","哦... 在一个美好的一天, 你有点,当然。",呵……状态好的时候，你确实勉强算是吧。
+english_events_pitstop:L3872,cjoyrealms,FIX,You both spend the rest of the night talking about the differences between the Monster Realm and the Human Realm.,你们俩整晚都在谈论 魔兽王国和人类王国之间的区别,余下的夜晚，你们继续聊着怪物世界和人类世界的种种不同。
+english_events_pitstop:L3881,cjoymagic,KEEP,Her Studies in Magic,她的魔法研究,她的魔法研究
+english_events_pitstop:L3883,cjoymagic,POLISH,"The study of magic is complex, but it can be very rewarding.","对魔法的研究很复杂,但可能非常有回报.",研究魔法很复杂，不过，也能收获很多。
+english_events_pitstop:L3884,cjoymagic,FIX,"When we're not saving the world, we witches spend a good amount of time reading arcane tomes and learning new ways of channeling magic.","当我们没有拯救世界时,我们女巫们花了很多时间来读取电弧调音符并学习新的传导魔法的方法.",不忙着拯救世界的时候，我们女巫会花不少时间研读秘法典籍，学习新的魔力引导方式。
+english_events_pitstop:L3885,cjoymagic,FIX,Channeling magic?,流畅的魔法?,引导魔力？
+english_events_pitstop:L3886,cjoymagic,POLISH,Yes. Magic is a powerful energy that exists almost everywhere.,对 魔法是一种几乎存在于各地的强大能量.,是的。魔力是一种强大的能量，几乎无处不在。
+english_events_pitstop:L3887,cjoymagic,FIX,"It has the worst of sources, though. It's the residual power of ancient entities whose only goal is to destroy reality.","不过,它的来源最差。 这是古代实体的剩余力量,其唯一目的就是毁灭现实.",不过，它的来源糟透了。它是那些古老存在残余的力量，而那些存在唯一的目的，就是毁灭现实。
+english_events_pitstop:L3888,cjoymagic,FIX,"Magic is their fuel; their will. And they have so much of it that magic has been pouring out of them for eons, permeating everything.","魔法是他们的燃料,是他们的意志。 他们拥有如此多的财富, 魔法从他们身上涌出, 充斥着一切。",魔力是它们的燃料，也是它们的意志。它们拥有的魔力实在太多，亿万年来不断向外涌出，渗透进一切。
+english_events_pitstop:L3889,cjoymagic,FIX,"So, it's like old deities' excretions? Their stinky sweat laying everywhere? Or even worse... their jizz?","所以,这就像老神的排泄物? 他们到处出臭汗? 更惨的是... 他们的吉兹?",所以，就像旧神的排泄物？到处流的臭汗？还是更糟……它们的精液？
+english_events_pitstop:L3890,cjoymagic,FIX,"I'll try to NEVER AGAIN remember the metaphor you came up with today, thanks.","我会试着永远记住你今天想到的比喻,谢谢。",谢谢，我会努力把你今天想到的比喻永远忘掉。
+english_events_pitstop:L3891,cjoymagic,FIX,"The important thing here is that, in time, mortals learned to use it.","这里最重要的是,在时间上,凡人学会了使用.",重点在于，随着时间推移，凡人学会了使用魔力。
+english_events_pitstop:L3892,cjoymagic,FIX,Magic was devised as the combustible to power these all-powerful machines of flesh and pain whose main directive was to destroy everything...,魔法被设计成可以燃起力的 万能的肉体和痛苦机器 其主要指令是摧毁一切...,魔力原本是为了给那些由血肉与痛苦构成的全能机器提供燃料，而它们的首要指令就是摧毁一切……
+english_events_pitstop:L3893,cjoymagic,FIX,...and yet we realized destruction is just one possible face for transformation. And there's many more.,...然而我们意识到破坏 仅仅是一个可能的转变面孔。 且道还多来.,……可我们发现，毁灭只是转变的一种形式。转变还有很多其他可能。
+english_events_pitstop:L3894,cjoymagic,POLISH,"The hammer they used to tear reality apart could be used to build something up, too.",他们用来撕裂现实的锤子 也可以用来制造一些东西,它们用来敲碎现实的锤子，也可以拿来建造东西。
+english_events_pitstop:L3895,cjoymagic,POLISH,"Whoa, that's cool.","哇,这很酷。",哇，这可真酷。
+english_events_pitstop:L3897,cjoymagic,FIX,"Yes, it speaks volumes of mortals' will for survival; of their ambition to thrive no matter the odds.","是的,它代表着人类生存的意志; 以及他们无论多么渺茫地繁荣的雄心。",是的。这充分体现了凡人的求生意志，还有不管处境多艰难，都要蓬勃发展的雄心。
+english_events_pitstop:L3898,cjoymagic,POLISH,"Still, magic is an extremely complex energy, and there's so much for us to learn and discover new ways of using this mysterious material to shape reality; to fight back.","尽管如此,魔法是一种极其复杂的能量,我们有很多东西可以学习和发现新的方法来利用这种神秘的材料来塑造现实;来反击.",不过，魔力极其复杂。我们还有很多要学，也要继续探索，怎样用这种神秘物质塑造现实、奋起反击。
+english_events_pitstop:L3899,cjoymagic,FIX,"Ah, the mysterious properties and uses of the jizz from the gods...","啊,神秘的属性和用途 吉兹从神...",啊，神之精液的神秘性质与用途……
+english_events_pitstop:L3900,cjoymagic,POLISH,Stop it!,停下来!,别说了！
+english_events_pitstop:L3902,cjoymagic,FIX,"Anyway, that's how we learn magic. It's hard work, but it pays off.","无论如何,这就是我们如何学习魔法。 苦行而能取报.",总之，我们就是这样学习魔法的。很辛苦，但值得。
+english_events_pitstop:L3903,cjoymagic,FIX,And here I was thinking you attended a very British school with color-coded houses and broom-based sports.,我想你们在英国的学校里 有彩色标记的房屋 和扫帚运动,我还以为，你们会上那种特别英式的学校，按颜色分学院，还骑着扫帚比赛呢。
+english_events_pitstop:L3904,cjoymagic,FIX,"You're silly tonight, aren't you?","你今晚很傻,不是吗?",你今晚还挺会胡闹的，是吧？
+english_events_pitstop:L3905,cjoymagic,FIX,Always!,永远!,我一直都这样！
+english_events_pitstop:L3906,cjoymagic,FIX,"After some more discussion about magic, Joy teaches you some little magic tricks. It's neat!","经过更多关于魔法的讨论,乔伊教你一些小魔术. 这很整洁!",又聊了些魔法的事后，欢愉女巫教了你几个小魔法。真不错！
+english_events_pitstop:L3915,cjoycovenorigins,FIX,The Coven and its origins,巫统及其起源,女巫会及其起源
+english_events_pitstop:L3917,cjoycovenorigins,FIX,The Coven is the shield of mortalkind.,巫师是凡人之盾.,女巫会是凡人的盾。
+english_events_pitstop:L3918,cjoycovenorigins,POLISH,"Fighting evil and all that, yeah?","和邪恶战斗,是吗?",就是对抗邪恶之类的，对吧？
+english_events_pitstop:L3919,cjoycovenorigins,FIX,We do fight all kinds of evil... but the origin of the Coven is tied to the roots of all evil.,我们确实与各种邪恶作斗争... 但巫师的起源与一切恶根相联.,我们确实会对抗各种邪恶……不过，女巫会的起源，跟一切邪恶的根源有关。
+english_events_pitstop:L3920,cjoycovenorigins,FIX,Ominous!,令人发指!,听着不太妙啊！
+english_events_pitstop:L3921,cjoycovenorigins,POLISH,"A bit, yes. Since the beginning of time, old entities have sought to undo all existence.","有一点,是的。 自古以来,老实体一直试图消除一切存在。",是有点。从时间伊始，那些古老的存在就一直想抹去一切。
+english_events_pitstop:L3922,cjoycovenorigins,FIX,"And yet, life managed to thrive against all odds. But it has never been easy.","然而,生活却在万事大吉的情况下蓬勃发展。 但从来就不是那么简单",可生命还是排除万难，蓬勃发展了起来。不过，这从来都不容易。
+english_events_pitstop:L3923,cjoycovenorigins,FIX,Mortalkind slowly but steadily built two fronts of resistance.,迫击炮慢慢但稳步地建立了两道抵抗战线.,凡人缓慢却坚定地建立起了两条抵抗战线。
+english_events_pitstop:L3924,cjoycovenorigins,POLISH,One of them was defined by their ingenuity: mortals who dared to explore the very entities that aimed for their destruction.,其中之一被其才智所定义:凡人敢于去探索那些旨在毁灭它们的实体.,其中一条凭借的是才智：有些凡人敢于研究那些企图毁灭自己的存在。
+english_events_pitstop:L3925,cjoycovenorigins,FIX,That's how we came to hone magic.,这就是我们如何来 光电魔法。,我们就是这样逐渐掌握魔法的。
+english_events_pitstop:L3926,cjoycovenorigins,FIX,"Magic wielders fought the old ones, sure; but they also focused on improving the means of survival.","当然,魔法手与老手们作战,但他们也注重改善生存手段。",魔法使用者当然会与那些古老存在战斗，但他们也致力于改善生存手段。
+english_events_pitstop:L3927,cjoycovenorigins,FIX,"For instance, it was through magic that the realms came to be, as a way of distancing ourselves from our predators.","例如,通过魔法,世界才出现, 作为一种使我们自己远离掠食者的方法。",比如，各个世界就是通过魔法创造出来的，为的是让我们离那些捕食者远一些。
+english_events_pitstop:L3928,cjoycovenorigins,FIX,"A sort of arcane barricade, is it?","某种电弧屏障,是吗?",就像一道魔法屏障，对吧？
+english_events_pitstop:L3929,cjoycovenorigins,POLISH,Sort of. They're safer havens for us to keep studying magic and building more powerful tools to resist the attack.,"有点 它们对于我们来说是更安全的避难所,可以继续学习魔法并建造更强大的工具来抵抗攻击.",差不多。它们是更安全的避风港，让我们得以继续研究魔法，打造更强大的工具，抵御袭击。
+english_events_pitstop:L3930,cjoycovenorigins,FIX,"But we still remained mortal, and so all that we built could be taken from us so easily.","但是我们仍然是活生生的,所以我们建造的一切可以轻易地从我们手中夺走.",可我们终究会死，因此，我们建造的一切，还是很容易就会失去。
+english_events_pitstop:L3931,cjoycovenorigins,POLISH,Thus came the idea of a lineage... a way of nurturing magic power and passing it on to a new generation.,世系的观念由此而来... 一种培养出魔法的力量 并把它传给新一代的方法,于是就有了世代传承的想法……培育魔法力量，再把它传给下一代。
+english_events_pitstop:L3932,cjoycovenorigins,FIX,We inherit part of the power that has been sharpened for centuries by generations of Coven members.,我们继承了数个世纪以来 数代巫统成员所赋予的部分权力。,我们继承的那部分力量，是几百年来，一代又一代女巫会成员不断磨炼出来的。
+english_events_pitstop:L3933,cjoycovenorigins,FIX,"We inherit responsibilities... we inherit the oldest fight, only dreaming of being the generation that can finally bring an end to it.","我们继承责任... 我们继承了最古老的战斗, 只梦想着成为能够最终结束战斗的一代。",我们继承责任……继承那场最古老的战争，只盼自己这一代能让它终于结束。
+english_events_pitstop:L3934,cjoycovenorigins,FIX,"No pressure, huh?","没有压力,是吧?",真是毫无压力呢，对吧？
+english_events_pitstop:L3935,cjoycovenorigins,FIX,You're telling me! But I try to focus on doing my very best and improving my skills enough to pass something useful to the next generation.,"你告诉我! 但是,我试图集中精力,尽我的最大努力,提高我的技能,以便把有用的东西传递给下一代。",可不是嘛！不过，我尽量只想着做到最好，磨炼自己的本领，好给下一代留下些有用的东西。
+english_events_pitstop:L3936,cjoycovenorigins,POLISH,You've saved the world a dozen times at the very least... I'd say you're doing quite well.,你至少拯救了全世界十几次... 我敢说你做得很好。,你少说也拯救过世界十几次了……要我说，你已经做得很好了。
+english_events_pitstop:L3937,cjoycovenorigins,POLISH,There's always room to do even better.,总是有余地做更好的。,总还能做得更好。
+english_events_pitstop:L3938,cjoycovenorigins,FIX,"You ask Joy to tell you about some of the times she saved the world, and she tells you some epic stories. What a girlboss!",你让乔伊告诉你一些她拯救世界的时间 她告诉你一些史诗故事 真是个娘娘腔!,你请欢愉女巫讲讲她拯救世界的经历，她便讲起了几个精彩的故事。真是个厉害姑娘！

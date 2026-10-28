@@ -1,0 +1,52 @@
+{
+  "csv_validation": "passed",
+  "runtime_contract_validation": "passed",
+  "non_translation_fields": "unchanged",
+  "overrides": "synchronized",
+  "manual_inspected_unique_entries": 30255,
+  "language_finalized_entries": 30255,
+  "flagged_entries": 0,
+  "unread_entries": 0,
+  "series_rechecked_unique_entries": 4835,
+  "new_entries_after_recheck": 25420,
+  "latest_new_review_pass": "223",
+  "ingame_verified": false,
+  "installed_or_published": false,
+  "checked_at": "2026-10-22",
+  "task_baseline_inspected": 27725,
+  "task_new_inspected": 2530,
+  "display_literal_tests": {
+    "passed": 10,
+    "failed": 0
+  },
+  "bilingual_pending_document": "docs/review/PENDING.md",
+  "bilingual_pending_document_entries": 0,
+  "bilingual_pending_current_text_validation": "passed",
+  "runtime_verb_hold_entries": 0,
+  "pending_document_additional_historical_runtime_entries": 0,
+  "git_diff_check": "passed",
+  "saves_touched": false,
+  "runtime_verb_adapted_entries": 59,
+  "runtime_verb_ingame_pending_entries": 59,
+  "pending_review_109_decisions": {
+    "KEEP": 56,
+    "FIX": 25,
+    "POLISH": 28
+  },
+  "python_tests": {
+    "passed": 15,
+    "failed": 0
+  },
+  "csharp_runtime_verb_consumer_test": {
+    "rows": 59,
+    "event_files": 11,
+    "passed": true
+  },
+  "plugin_build": {
+    "version": "0.3.3",
+    "warnings": 0,
+    "errors": 0
+  },
+  "review_scope": "docs/review/pending-review-109.csv",
+  "name_candidates_in_scope": 0
+}

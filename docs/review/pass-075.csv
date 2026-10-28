@@ -1,0 +1,125 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_bubbles:L10,bubble_c10,KEEP,"Look, that cloud looks like a plane!","你看,那个云看起来像飞机!","你看,那个云看起来像飞机!"
+english_events_bubbles:L100,bubble_c5,POLISH,I love looking at the road we leave behind!,我喜欢看我们留下的路!,我最喜欢看咱们身后走过的路了！
+english_events_bubbles:L101,bubble_c5,FIX,"Okay, but not while you're driving!","好吧,但不要 当你开车!",行，但别一边开车一边看！
+english_events_bubbles:L106,bubble_c7,KEEP,"Do you ever wonder whose car this is, Polly?",你有没有想过这是谁的车? 波莉?,你有没有想过这是谁的车? 波莉?
+english_events_bubbles:L107,bubble_c7,KEEP,"I thought... I thought YOU knew, Scott.",我以为... 我以为你知道 斯科特.,我以为... 我以为你知道 斯科特.
+english_events_bubbles:L11,bubble_c10,KEEP,"Scott, that IS a plane.",斯科特那是飞机,斯科特那是飞机
+english_events_bubbles:L112,bubble_c8,FIX,...and that's why Cars 3 is the best one in the trilogy.,...这就是为什么3号车是三部曲中最好的一部.,……所以，《赛车总动员3》才是三部曲里最好的一部。
+english_events_bubbles:L113,bubble_c8,FIX,I never saw it that way!,我从来没这么认为过!,我从来没从这个角度想过！
+english_events_bubbles:L118,bubble_c9,FIX,"If I drank gas, would I become a car?","如果我喝煤气,我会变成一辆车吗?",如果喝汽油，我会变成汽车吗？
+english_events_bubbles:L119,bubble_c9,KEEP,Why do you want to become a car anyway?,为什么你想成为一辆汽车呢?,为什么你想成为一辆汽车呢?
+english_events_bubbles:L125,bubble_going_motel1,POLISH,Finally! I could use some rest.,终于来了! 我可以休息一会,终于到了！我得歇会儿。
+english_events_bubbles:L126,bubble_going_motel1,KEEP,Do ghosts rest?,鬼魂休息吗?,鬼魂休息吗?
+english_events_bubbles:L127,bubble_going_motel1,FIX,Not really.,不见得,其实不用。
+english_events_bubbles:L133,bubble_going_motel2,POLISH,Finally! I could use some rest.,终于来了! 我可以休息一会,终于到了！我得歇会儿。
+english_events_bubbles:L134,bubble_going_motel2,KEEP,Do ghosts rest?,鬼魂休息吗?,鬼魂休息吗?
+english_events_bubbles:L135,bubble_going_motel2,FIX,Not really.,不见得,其实不用。
+english_events_bubbles:L141,bubble_going_motel3,POLISH,Finally! I could use some rest.,终于来了! 我可以休息一会,终于到了！我得歇会儿。
+english_events_bubbles:L142,bubble_going_motel3,KEEP,Do ghosts rest?,鬼魂休息吗?,鬼魂休息吗?
+english_events_bubbles:L143,bubble_going_motel3,FIX,Not really.,不见得,其实不用。
+english_events_bubbles:L149,bubble_going_gas_hitech,FIX,Whoa... is that a gas station?,珃... 那是加油站吗?,哇……那是加油站吗？
+english_events_bubbles:L150,bubble_going_gas_hitech,KEEP,I think...  it's the future.,我觉得...  这是未来。,我觉得...  这是未来。
+english_events_bubbles:L156,bubble_going_diner_doom,FIX,Cool! I could eat some fries!,凉爽! 我可以吃一些薯条!,太好了！我想吃点薯条！
+english_events_bubbles:L157,bubble_going_diner_doom,FIX,"Well, by ""eat"" I mean ""drink"", and by ""fries"" I mean ""vodka"".","嗯,""吃""是指""喝"",""炸""是指""vodka"".",嗯，我说的“吃”是“喝”，“薯条”是“伏特加”。
+english_events_bubbles:L16,bubble_c11,POLISH,If you think about it... roads are like... streets for cars...,如果你考虑一下... 道路就像... 汽车的街道...,你想想……公路就像……汽车走的街道……
+english_events_bubbles:L163,bubble_going_landmark_potato,KEEP,"I guess when it comes to potatoes, size does matter!","说到马铃薯,尺寸就重要了!","说到马铃薯,尺寸就重要了!"
+english_events_bubbles:L169,bubble_going_landmark_potato2,FIX,"Ooh, this one sure is the STARCH of the show, huh?","哦,这个肯定是 节目的STARCH,是吧?",哟，这土豆还真是全场的“淀粉巨星”，对吧？
+english_events_bubbles:L17,bubble_c11,FIX,"Whoa, Scott... deep.",哗! 斯科特... 深相会.,哇，斯科特……有深度。
+english_events_bubbles:L170,bubble_going_landmark_potato2,FIX,I don't get it.,岂能通取.,没听懂。
+english_events_bubbles:L176,bubble_going_landmark_wigs,KEEP,The guide says they have over 400 wigs!,导游说他们有400多个假发!,导游说他们有400多个假发!
+english_events_bubbles:L177,bubble_going_landmark_wigs,FIX,And we're gonna try 'em all!,我们要尝试'时间全部!,我们要把它们全试一遍！
+english_events_bubbles:L183,bubble_going_shopping_mall,KEEP,Polly... why is there a shopping mall in the middle of the desert?,波莉... 为什么沙漠中间有购物中心?,波莉... 为什么沙漠中间有购物中心?
+english_events_bubbles:L184,bubble_going_shopping_mall,KEEP,"Only God knows, Scott.",只有上帝才会知道 斯科特.,只有上帝才会知道 斯科特.
+english_events_bubbles:L190,bubble_going_ranch,FIX,"Ooh, horsies!","哦,蜂窝!",哇，小马！
+english_events_bubbles:L191,bubble_going_ranch,FIX,"Horsies indeed, Scott... horsies indeed.","恐怖的确是恐怖的, 斯科特... 热身的确如此。",没错，小马，斯科特……就是小马。
+english_events_bubbles:L197,bubble_going_ranch2,FIX,Do you think they'll have horsies?,你觉得他们会有狂犬病吗?,你觉得那儿会有小马吗？
+english_events_bubbles:L198,bubble_going_ranch2,FIX,Eh... I guess?,额... 是吗?,呃……应该有吧？
+english_events_bubbles:L204,bubble_going_rave,FIX,THANKS. FOR. CHOOSING. THIS.,谢谢。 对于。 HO. 这个。,谢。谢。你。选。了。这。里。
+english_events_bubbles:L210,bubble_going_rave2,KEEP,"Whoa, is there an earthquake?!","哇,有地震吗?","哇,有地震吗?"
+english_events_bubbles:L211,bubble_going_rave2,KEEP,SCOTT. THAT. IS. THE. FUCKIN'. BASS.,斯科特。那。才。叫。他妈的。低音。,斯科特。那。才。叫。他妈的。低音。
+english_events_bubbles:L217,bubble_going_dinest,KEEP,"Whoa, look at that line of people!","哇,看看这排人!","哇,看看这排人!"
+english_events_bubbles:L218,bubble_going_dinest,FIX,Fuck... you can't even see the diner from here...,他妈的... 你甚至看不到餐厅 从这里...,操……队都排到看不见餐厅了……
+english_events_bubbles:L22,bubble_c12,POLISH,Do you think our car is secretly a battle robot?,你觉得我们的车是秘密的战斗机器人吗?,你觉得，咱们这车会不会其实是个战斗机器人？
+english_events_bubbles:L224,bubble_going_motel_fancy,FIX,Ooh la la! Someone's feeling too fancy to sleep in the car.,呜啦啦! 有人觉得在车里睡觉太花心了,哎哟喂！有人讲究起来了，不肯睡车里啦。
+english_events_bubbles:L23,bubble_c12,KEEP,Maybe.,也许吧,也许吧
+english_events_bubbles:L230,bubble_going_car_dealership,KEEP,...Why? We already have a car.,为什么? 我们已经有车了,为什么? 我们已经有车了
+english_events_bubbles:L231,bubble_going_car_dealership,FIX,"When you're on a road trip, you can never have enough cars!","当你在路上旅行的时候, 你永远不能有足够的车!",公路旅行嘛，车当然越多越好！
+english_events_bubbles:L232,bubble_going_car_dealership,POLISH,"Actually, one is more than enough, Scott.","事实上,一个已经足够了, 斯科特.",其实，一辆就绰绰有余了，斯科特。
+english_events_bubbles:L238,bubble_going_shady_property,KEEP,"Smart choice, %CURRENTPLAYERNAME%!","明智的选择, %CURRENTPLAYERNAME%!","明智的选择, %CURRENTPLAYERNAME%!"
+english_events_bubbles:L239,bubble_going_shady_property,FIX,"After all this sun, we can use some shade!","这么多太阳之后,我们可以使用一些遮阳!",晒了这么久的太阳，正好找个阴凉地方！
+english_events_bubbles:L240,bubble_going_shady_property,KEEP,...What?,什麽?,什麽?
+english_events_bubbles:L246,bubble_going_art_exhibition,KEEP,"Ooh, art! Do you think they'll have anything in blue?","哦,艺术! 你觉得他们会有蓝色的东西吗?","哦,艺术! 你觉得他们会有蓝色的东西吗?"
+english_events_bubbles:L247,bubble_going_art_exhibition,KEEP,I like blue!,我喜欢蓝色!,我喜欢蓝色!
+english_events_bubbles:L253,bubble_going_con,FIX,"Ah, yes... cosplay in the streets...","啊,对了... 街上戏弄...",啊，没错……大街上cosplay……
+english_events_bubbles:L254,bubble_going_con,FIX,...roleplay in the sheets...,...在床单上扮演角色...,……被窝里角色扮演……
+english_events_bubbles:L260,bubble_going_manor_gothic,KEEP,"Ah, yes, the gothic manor...","对,哥特式庄园...","对,哥特式庄园..."
+english_events_bubbles:L261,bubble_going_manor_gothic,FIX,...sister building to the lesser-known emo manor.,姊妹会建到不太出名的埃莫庄园,……旁边还有座姊妹建筑，不太出名的emo庄园。
+english_events_bubbles:L267,bubble_going_circus,POLISH,Yeah! All the world's a stage!,对! 所有的世界都是个舞台!,对！全世界都是个舞台！
+english_events_bubbles:L268,bubble_going_circus,KEEP,"Really? I thought it was more like a ball, but okay!","真的吗? 我以为它更像一个球,但好吧!","真的吗? 我以为它更像一个球,但好吧!"
+english_events_bubbles:L274,bubble_going_gas_basic,KEEP,"Polly, Polly, listen:","波莉, 波莉,听着:","波莉, 波莉,听着:"
+english_events_bubbles:L275,bubble_going_gas_basic,FIX,"Wouldn't it be funny if they called it ""Fart Station""?","他们叫它""快车站""是不是很有趣?",要是叫它“放屁站”，是不是就很好笑？
+english_events_bubbles:L276,bubble_going_gas_basic,KEEP,...Yes.,对,对
+english_events_bubbles:L28,bubble_c13,KEEP,Are we there yet?,我们到了吗?,我们到了吗?
+english_events_bubbles:L282,bubble_going_landmark_hole,FIX,I love digging holes! But this one seems next-level.,我喜欢挖洞! 但是这个看起来是下一个层次的。,我最爱挖洞了！不过这洞，简直高出一个境界。
+english_events_bubbles:L283,bubble_going_landmark_hole,FIX,Respect.,尊重众生.,佩服。
+english_events_bubbles:L289,bubble_going_landmark_wedding,KEEP,"Polly, are we on the bride's side or the groom's side?",波莉我们是站在新娘那边 还是站在新郎那边?,波莉我们是站在新娘那边 还是站在新郎那边?
+english_events_bubbles:L290,bubble_going_landmark_wedding,POLISH,"We shouldn't take sides, Scott.","我们不应该站在一边, 斯科特.",咱们不站队，斯科特。
+english_events_bubbles:L296,bubble_going_landmark_wedding2,KEEP,"Polly, are we on the bride's side or the groom's side?",波莉我们是站在新娘那边 还是站在新郎那边?,波莉我们是站在新娘那边 还是站在新郎那边?
+english_events_bubbles:L297,bubble_going_landmark_wedding2,POLISH,"We're on chaos' side, Scott.","我们是混沌的一方, 斯科特.",咱们站混乱那边，斯科特。
+english_events_bubbles:L303,bubble_going_biker_bar,FIX,"But Polly, we can't go there! We're in a car, not a bike.","不过 波莉我们不能去那儿! 我们在车上,不是自行车。",可波莉，咱们不能去那儿！咱们开的是汽车，又不是摩托。
+english_events_bubbles:L304,bubble_going_biker_bar,KEEP,It'd be rude...,那样太粗鲁了...,那样太粗鲁了...
+english_events_bubbles:L310,bubble_going_graveyard,KEEP,Do you think they'll have bones?,你觉得他们会有骨头吗?,你觉得他们会有骨头吗?
+english_events_bubbles:L311,bubble_going_graveyard,KEEP,I like bones!,我喜欢骨头!,我喜欢骨头!
+english_events_bubbles:L317,bubble_going_village_west,KEEP,"Nice choice, %CURRENTPLAYERNAME%.",不错的选择 %CURRENTPLAYERNAME%.,不错的选择 %CURRENTPLAYERNAME%.
+english_events_bubbles:L318,bubble_going_village_west,FIX,"Or should I say... ""pardner.""","或者我应该说... ""帕德纳"".",或者我该说……“老伙计”。
+english_events_bubbles:L324,bubble_going_lake,KEEP,"Woohoo, let's swim!","呜呼,我们游泳吧!","呜呼,我们游泳吧!"
+english_events_bubbles:L325,bubble_going_lake,FIX,"...Polly, how do you swim again?",...波莉你怎么又会游泳?,……波莉，游泳是怎么游来着？
+english_events_bubbles:L33,bubble_c2,KEEP,Remember to check the speed limit!,记得检查限速!,记得检查限速!
+english_events_bubbles:L331,bubble_going_diner_pancake,KEEP,"How many pancakes are you gonna eat, Scott?",你要吃多少个煎饼? 斯科特?,你要吃多少个煎饼? 斯科特?
+english_events_bubbles:L332,bubble_going_diner_pancake,KEEP,All of them!,全部都给我!,全部都给我!
+english_events_bubbles:L338,bubble_going_diner_pancake2,FIX,There's a WHOLE DINER just for BREAKFAST?!,有一个全天候的DINER 只为BREAKFAST!,一整家餐厅，居然专门卖早餐？！
+english_events_bubbles:L339,bubble_going_diner_pancake2,KEEP,Yes.,对,对
+english_events_bubbles:L34,bubble_c2,KEEP,I think it's four speeds per car.,我觉得是每辆车4个速度,我觉得是每辆车4个速度
+english_events_bubbles:L340,bubble_going_diner_pancake2,FIX,The future is amazing!,未来是惊人的!,未来也太棒了！
+english_events_bubbles:L346,bubble_going_gas_trolls,FIX,But aren't trolls... mean?,但是不是巨怪吗? 是吗?,可巨魔不是……很坏吗？
+english_events_bubbles:L347,bubble_going_gas_trolls,KEEP,"Only on the internet, Scott.","只有在网上, 斯科特.","只有在网上, 斯科特."
+english_events_bubbles:L353,bubble_going_space_station,FIX,WOOHOO! ROCKETS!,呜呼! 车!,好耶！火箭！
+english_events_bubbles:L354,bubble_going_space_station,REVIEW,"Don't ""rocket"" 'til you try it, amirite?","不要""火箭"",直到你尝试它,埃米尔?",没试过，别急着“炮”轰嘛，对不对？
+english_events_bubbles:L355,bubble_going_space_station,FIX,...I don't get it.,...我不明白这一点。,……没听懂。
+english_events_bubbles:L361,bubble_going_village_charming,FIX,What could possibly go wrong?,什么可能出错?,这还能出什么岔子？
+english_events_bubbles:L367,bubble_going_reptile_show,FIX,"What are the reptiles showing, Polly?",爬行动物显示的是什么? 波莉?,波莉，爬行动物展，爬行动物要展示什么呀？
+english_events_bubbles:L368,bubble_going_reptile_show,FIX,"They're showing off, most likely.",他们很可能在炫耀,大概是要显摆自己吧。
+english_events_bubbles:L374,bubble_going_biz_summit,FIX,THE PRANK MASTERZ ARE OPEN FOR BUSINESS!,普兰克·马斯特兹为生意打开了门!,恶作剧大师，开张营业啦！
+english_events_bubbles:L375,bubble_going_biz_summit,KEEP,Hooray!,万岁!,万岁!
+english_events_bubbles:L381,bubble_going_village_kaiju,FIX,"Dang, this city's a fixer-upper...","糟了,这座城市是个修复者...",唉，这座城可有得修了……
+english_events_bubbles:L387,bubble_going_spa,KEEP,"Finally, we can relax...",终于可以放松了...,终于可以放松了...
+english_events_bubbles:L388,bubble_going_spa,FIX,"No offense, but I could use a vacation from this vacation.","恕我直言,但我可以请个假",不是说你们不好，可这趟假期，我得再放个假缓缓。
+english_events_bubbles:L39,bubble_c20,FIX,"Polly, I learned a new trick: no hands!",波莉我学到了一个新把戏:没有手!,波莉，我学会了个新招：不用手！
+english_events_bubbles:L394,bubble_going_spa2,KEEP,"Finally, we can relax...",终于可以放松了...,终于可以放松了...
+english_events_bubbles:L395,bubble_going_spa2,POLISH,Who knew vacation could be so stressful?,谁知道假期会这么紧张?,谁能想到，度假也能这么有压力？
+english_events_bubbles:L4,bubble_c1,FIX,"Guys, I'm pretty sure we've seen that cactus before...","伙计们,我敢肯定,我们见过仙人掌之前...",伙计们，我很确定，我们之前见过那棵仙人掌……
+english_events_bubbles:L40,bubble_c20,POLISH,"Scott, not while you're driving!",斯科特你开车的时候不行!,斯科特，开车的时候别玩这招！
+english_events_bubbles:L401,bubble_going_ufo_sightseeing,KEEP,WOW! A UFO!,呜! 一个UFO!,呜! 一个UFO!
+english_events_bubbles:L402,bubble_going_ufo_sightseeing,FIX,"Scott, that's a Frisbee.","斯科特那是个""弗里斯比""",斯科特，那是个飞盘。
+english_events_bubbles:L403,bubble_going_ufo_sightseeing,FIX,WOW! A FRISBEE!,呜! 一个FRISBEE!,哇！飞盘！
+english_events_bubbles:L45,bubble_c21,KEEP,"Polly, can I stick my head out of the car?",波莉我能把头从车里伸出来吗?,波莉我能把头从车里伸出来吗?
+english_events_bubbles:L46,bubble_c21,FIX,"Scott, this is a convertible. Your head is always out of the car.",斯科特这是辆敞篷车 你的头总是出车。,斯科特，这是敞篷车。你的头一直都在外面。
+english_events_bubbles:L47,bubble_c21,KEEP,WHOA!,呜哇!,呜哇!
+english_events_bubbles:L5,bubble_c1,FIX,Is it... like... a celebrity cactus?,这是... 喜欢... 名人仙人掌吗?,它是……那种……明星仙人掌吗？
+english_events_bubbles:L52,bubble_c22,FIX,The wind on my face makes me feel so alive!,我脸上的风让我感觉如此活泼!,风吹在脸上，感觉自己真真切切地活着！
+english_events_bubbles:L53,bubble_c22,FIX,"Dude, rude!","伙计,粗鲁!",喂，过分了啊！
+english_events_bubbles:L58,bubble_c23,KEEP,I think I swallowed a mosquito!,我想我吞了个蚊子!,我想我吞了个蚊子!
+english_events_bubbles:L59,bubble_c23,FIX,"Remember to supress your gag reflex, Scott.",记住要抑制你的口袋反射 斯科特.,记得忍住，别干呕，斯科特。
+english_events_bubbles:L64,bubble_c25,KEEP,I've always enjoyed chasing cars...,我一直喜欢追车...,我一直喜欢追车...
+english_events_bubbles:L65,bubble_c25,FIX,...but it's so much easier when you're inside one!,"...但是当你进入其中的时候, 事情就容易多了!",……可坐在车里追，就容易多了！
+english_events_bubbles:L70,bubble_c27,FIX,All this car's missing is a good woofer...,这车的缺失 是一个很好的呜呼...,这车就差个叫得响的低音炮了……
+english_events_bubbles:L71,bubble_c27,FIX,I can help! WOOF WOOF!,"我可以帮忙! 哇,哇,哇,哇,哇,哇!",我来帮忙！汪汪！
+english_events_bubbles:L76,bubble_c28,POLISH,...And that's why I can never go back to that bakery.,这就是为什么我永远不能回到面包店。,……所以，我再也不能回那家面包店了。
+english_events_bubbles:L77,bubble_c28,KEEP,"Whoa, no wonder!","哇,难怪!","哇,难怪!"
+english_events_bubbles:L82,bubble_c3,KEEP,This car makes weird noises!,这车发出怪异的声音!,这车发出怪异的声音!
+english_events_bubbles:L83,bubble_c3,FIX,Pretty sure it's just %CURRENTPLAYERNAME%'s stomach.,"非常肯定,这只是 %CURRENTPLAYERNAME%'""胃经"".",我很确定，是%CURRENTPLAYERNAME%的肚子在叫。
+english_events_bubbles:L88,bubble_c30,FIX,...69 bottles of beer on the waaaaall...,...69瓶啤酒在华尔岛...,……墙上有六十九瓶啤酒——……
+english_events_bubbles:L89,bubble_c30,FIX,...And I'm gonna drink 'em aaaaall!,...我要喝'时间!,……我要把它们全喝光——！
+english_events_bubbles:L94,bubble_c31,FIX,...69 bottles of beer on the waaaaall...,...69瓶啤酒在华尔岛...,……墙上有六十九瓶啤酒——……
+english_events_bubbles:L95,bubble_c31,KEEP,"Haha, nice!","哈哈,不错!","哈哈,不错!"

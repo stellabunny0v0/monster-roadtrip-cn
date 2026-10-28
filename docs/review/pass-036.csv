@@ -1,0 +1,90 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_pitstop:L1780,pitstop_passenger_loveanother_blue_1,FIX,"Oh, hey %CURRENTPLAYERNAME%.",哦嘿 %CURRENTPLAYERNAME%.,哦，嘿，%CURRENTPLAYERNAME%。
+english_events_pitstop:L1781,pitstop_passenger_loveanother_blue_1,FIX,"Hey, Vicky! Wanna hang out with me tonight?",顿 维姬! 今晚想和我一起玩吗?,嘿，薇姬！今晚想跟我一起待会儿吗？
+english_events_pitstop:L1782,pitstop_passenger_loveanother_blue_1,FIX,"Eh... sorry, but I'm gonna have to pass.","额... 对不起,但我必须得通过。",呃……抱歉，还是算了吧。
+english_events_pitstop:L1783,pitstop_passenger_loveanother_blue_1,FIX,"Like, you're cool and all, but you and I just don't have that ""spark"", y'know?","喜欢,你很酷 和所有,但你和我 只是没有那个""沙克"",你知道吗?",你人是挺好的，可咱俩之间就是没有那种“火花”，你懂吧？
+english_events_pitstop:L1784,pitstop_passenger_loveanother_blue_1,POLISH,"But don't worry, I'm sure you'll find your perfect match someday! Not today, but someday!","但别担心,我相信 总有一天你会找到完美的配对! 不是今天,但总有一天!",不过别担心，你总有一天会遇到最适合你的人！今天不行，但总有一天！
+english_events_pitstop:L1789,pitstop_passenger_loveanother_blue_2,FIX,Hey Vicky! Wanna talk?,顿 维姬! 想谈谈吗?,嘿，薇姬！想聊聊吗？
+english_events_pitstop:L1790,pitstop_passenger_loveanother_blue_2,FIX,"Nah, not tonight. I found this awesome book series that I just have to finish!","不,今晚不会。 我发现这本很棒的书系列 需要我完成!",不了，今晚不行。我发现了一套超棒的书，非得一口气看完！
+english_events_pitstop:L1791,pitstop_passenger_loveanother_blue_2,FIX,"You check the title of the big book Vicky's reading: ""The Exhaustive History of the Lithium Battery: Volume 3 of 8""","你查一下大书的题目 维姬'"" ""通志"":""出自"" Li电池通史: 第8卷 第3回"".",你看了眼薇姬手上那本厚书的书名：《锂电池详尽通史：全八卷之第三卷》。
+english_events_pitstop:L1792,pitstop_passenger_loveanother_blue_2,FIX,"Sorry, but this chapter on cathodes vs. anodes is way more interesting than anything you could possibly say to me. No hard feelings.","抱歉,但关于阴极的这一章 阳极比任何你能跟我说的都有趣 无有苦恼.",抱歉，不过这一章讲阴极与阳极的区别，可比你能说的任何话都有趣多了。别往心里去。
+english_events_pitstop:L1793,pitstop_passenger_loveanother_blue_2,POLISH,"We'll talk after I finish this series... or after the road trip ends. Whichever comes first, yeah?","我完成这系列后再谈... 或道路旅行结束后。 哪个先来,是吗?",等我看完这套书，或者公路旅行结束以后，咱们再聊。哪个先到就等哪个，好吧？
+english_events_pitstop:L1799,pitstop_passenger_loveanother_green_1,FIX,"Hey, Brian!",顿 布莱恩!,嘿，布赖恩！
+english_events_pitstop:L1800,pitstop_passenger_loveanother_green_1,KEEP,...,...,...
+english_events_pitstop:L1801,pitstop_passenger_loveanother_green_1,KEEP,Do you wanna hang out?,你想出去玩吗?,你想出去玩吗?
+english_events_pitstop:L1802,pitstop_passenger_loveanother_green_1,KEEP,...,...,...
+english_events_pitstop:L1803,pitstop_passenger_loveanother_green_1,POLISH,Uh... is that a no?,额... 那是不吗?,呃……这是不想的意思吗？
+english_events_pitstop:L1804,pitstop_passenger_loveanother_green_1,KEEP,...,...,...
+english_events_pitstop:L1805,pitstop_passenger_loveanother_green_1,KEEP,...*snooooore*...,……呼——呼——……,……呼——呼——……
+english_events_pitstop:L1806,pitstop_passenger_loveanother_green_1,FIX,"Well, it's certainly not a yes. Brian sleeps through all of your attempts to wake him up, so you spend the rest of the night friendless and alone.","嗯,这当然不是同意。  布莱恩 睡在一切的尝试 吵醒他, 所以你花 其余的夜晚 没有朋友和孤独。",反正肯定不是答应。你怎么叫都叫不醒布赖恩，剩下的一整晚，只好独自度过，连个朋友都没有。
+english_events_pitstop:L1811,pitstop_passenger_loveanother_green_2,POLISH,"Hey, Brian! You busy tonight?",顿 布莱恩! 你今晚很忙吗?,嘿，布赖恩！今晚忙吗？
+english_events_pitstop:L1812,pitstop_passenger_loveanother_green_2,KEEP,Nope.,没有。,没有。
+english_events_pitstop:L1813,pitstop_passenger_loveanother_green_2,FIX,Cool! Wanna hang out?,凉爽! 想出去玩吗?,太好了！要一起待会儿吗？
+english_events_pitstop:L1814,pitstop_passenger_loveanother_green_2,FIX,Nope.,没有。,不要。
+english_events_pitstop:L1815,pitstop_passenger_loveanother_green_2,KEEP,Oh... can I ask why?,哦... 我能问为什么吗?,哦... 我能问为什么吗?
+english_events_pitstop:L1816,pitstop_passenger_loveanother_green_2,KEEP,...,...,...
+english_events_pitstop:L1817,pitstop_passenger_loveanother_green_2,FIX,Nope.,没有。,不行。
+english_events_pitstop:L1819,pitstop_passenger_loveanother_green_2,POLISH,He leaves... ouch.,他离开... ouch.,他走了……真伤人。
+english_events_pitstop:L1824,pitstop_passenger_loveanother_adrien_1,FIX,"Ah, %CURRENTPLAYERNAME%... I'm sorry, but I can't hang out tonight.","摆摆 %CURRENTPLAYERNAME%... 对不起,但我不能挂出今晚。",啊，%CURRENTPLAYERNAME%……抱歉，今晚没法陪你玩了。
+english_events_pitstop:L1825,pitstop_passenger_loveanother_adrien_1,KEEP,I have to attend to my knightly duties.,我必须履行我的骑士职责,我必须履行我的骑士职责
+english_events_pitstop:L1826,pitstop_passenger_loveanother_adrien_1,POLISH,"Oh, what are your knightly duties?","哦,什么是你的骑士职责?",哦，你的骑士职责都有哪些？
+english_events_pitstop:L1827,pitstop_passenger_loveanother_adrien_1,FIX,"That is classified information, only to be shared with other merknights... or very close friends.",这是机密信息 只能与其他黑夜分享... 或非常亲密的朋友。,这是机密，只能告诉其他人鱼骑士……或者非常亲密的朋友。
+english_events_pitstop:L1828,pitstop_passenger_loveanother_adrien_1,KEEP,But... aren't WE close friends?,不过... 我们不是亲密的朋友吗?,不过... 我们不是亲密的朋友吗?
+english_events_pitstop:L1829,pitstop_passenger_loveanother_adrien_1,KEEP,...,...,...
+english_events_pitstop:L1830,pitstop_passenger_loveanother_adrien_1,KEEP,Farewell.,再见。,再见。
+english_events_pitstop:L1835,pitstop_passenger_loveanother_adrien_2,POLISH,You find Adrien practicing his swordplay. He's intensely focused. What a great time to get his attention!,你发现阿德里安在练习他的剑术 他的注意力很集中。 多么伟大的时间引起他的注意!,你发现阿德里安正专心致志地练剑。这时候引起他的注意，多合适啊！
+english_events_pitstop:L1836,pitstop_passenger_loveanother_adrien_2,KEEP,Hey!,嘿,嘿
+english_events_pitstop:L1837,pitstop_passenger_loveanother_adrien_2,FIX,AHH! AMBUSH!,摆! 摆! 阿姆布什! 阿姆布什! 阿姆布什!,啊！有埋伏！
+english_events_pitstop:L1838,pitstop_passenger_loveanother_adrien_2,FIX,"NO, WAIT--!","不,等待 - ! ! 不,等待 - !",不，等等——！
+english_events_pitstop:L1839,pitstop_passenger_loveanother_adrien_2,FIX,"It turns out in a fight-or-flight scenario, Adrien is definitely a fighter. And what a quick and deadly swordfighter he is!",在战斗或飞行的情况下 阿德里安绝对是个战士 他是一个多么快又致命的击剑手!,事实证明，面对“战或逃”的抉择，阿德里安绝对会选择战斗。而他的剑，又快又要命！
+english_events_pitstop:L1841,pitstop_passenger_loveanother_adrien_2,POLISH,"But he isn't a battlefield medic, which means you have to go to the hospital to get your sword wound stitched, thereby killing any chance of socializing tonight. Oof.","但他不是战场医护人员 这意味着你必须去医院缝上你的剑伤 从而失去了今晚社交的机会 哦,这下子了。",可他不是战地医护，你只能去医院缝合剑伤，今晚的社交机会也就此报销。唉。
+english_events_pitstop:L1846,pitstop_passenger_loveanother_hope_1,FIX,Hey Hope! You wanna hang out?,顿辨 你想出去玩吗?,嘿，希望女巫！想一起待会儿吗？
+english_events_pitstop:L1847,pitstop_passenger_loveanother_hope_1,FIX,"Hmm, I dunno... let me consult the future.","嗯,我不知道... 让我考虑一下未来",嗯，不知道呢……让我看看未来。
+english_events_pitstop:L1848,pitstop_passenger_loveanother_hope_1,POLISH,"Oh... oof... oh jeez... yikes, that's gotta hurt...","哦... 额... 天呐... yikes,那会伤害...",哦……哎呀……天哪……嘶，那肯定很疼……
+english_events_pitstop:L1849,pitstop_passenger_loveanother_hope_1,FIX,"Yeah, looks like spending the evening with you would just end up with us both humiliated and hospitalized. I'll have to pass. Sorry.","是啊,看起来与你共度一晚 只会与我们 既羞辱又住院。 我不得不通过。 对不起",嗯，看来今晚跟你一起玩，最后咱俩都会丢尽脸面，还得住院。还是算了，抱歉。
+english_events_pitstop:L1850,pitstop_passenger_loveanother_hope_1,KEEP,"Wait, why? What happens if we hang out tonight?!","等等,为什么? 如果我们今晚出去玩会怎么样?","等等,为什么? 如果我们今晚出去玩会怎么样?"
+english_events_pitstop:L1851,pitstop_passenger_loveanother_hope_1,POLISH,Just be grateful you'll never know. Bye.,感激你永远不会知道。 再见。,庆幸自己永远不用知道吧。拜。
+english_events_pitstop:L1856,pitstop_passenger_loveanother_hope_2,FIX,Hey Hope! Wanna hang out tonight?,顿辨 今晚想出去玩吗?,嘿，希望女巫！今晚想一起待会儿吗？
+english_events_pitstop:L1857,pitstop_passenger_loveanother_hope_2,POLISH,"Hmm, maybe... why don't you pick a card?","嗯,也许... 你为什么不选张牌?",嗯，也许吧……要不你抽张牌？
+english_events_pitstop:L1858,pitstop_passenger_loveanother_hope_2,FIX,"She fans out some tarot cards for you. Weird, but okay. You take one.","她为你卖出一些塔罗牌。 奇怪,但还好。 你拿一个。",她把塔罗牌展开成扇形，递到你面前。有点奇怪，不过也行。你抽了一张。
+english_events_pitstop:L1859,pitstop_passenger_loveanother_hope_2,FIX,You drew... The Hermit. Yikes... you know what that one means...,你画了... 隐士. 哎哟... 你知道那个是什么意思吗?,你抽到的是……隐士。哎呀……你知道这意味着什么吧……
+english_events_pitstop:L1860,pitstop_passenger_loveanother_hope_2,KEEP,The Hermit? What DOES it mean?,隐士? 这是什么意思?,隐士? 这是什么意思?
+english_events_pitstop:L1861,pitstop_passenger_loveanother_hope_2,FIX,That you're spending the night alone. It's not me; it's in the cards.,"你一个人过夜 这不是我,它在牌里。",意味着今晚你得独自度过。这可不是我的意思，是牌上这么说的。
+english_events_pitstop:L1862,pitstop_passenger_loveanother_hope_2,KEEP,Bye.,再见。,再见。
+english_events_pitstop:L1867,pitstop_passenger_loveanother_finn_1,FIX,"Oh, hey %CURRENTPLAYERNAME%... you want to hang out?",哦嘿 %CURRENTPLAYERNAME%... 你想出去玩吗?,哦，嘿，%CURRENTPLAYERNAME%……你想找我玩？
+english_events_pitstop:L1868,pitstop_passenger_loveanother_finn_1,POLISH,"Sorry, not tonight. I've got some spreadsheets to fill, and you would probably distract me.","对不起,不是今晚。 我有些电子表格要填 你可能会分散我的注意力",抱歉，今晚不行。我有些电子表格要填，你在这儿，我恐怕会分心。
+english_events_pitstop:L1869,pitstop_passenger_loveanother_finn_1,FIX,With my dashing good looks?,长得漂亮吗?,因为我英俊潇洒的外表？
+english_events_pitstop:L1870,pitstop_passenger_loveanother_finn_1,KEEP,...,...,...
+english_events_pitstop:L1871,pitstop_passenger_loveanother_finn_1,FIX,...no.,没有。,……不是。
+english_events_pitstop:L1872,pitstop_passenger_loveanother_finn_1,FIX,"Finn turns to his laptop. You go to sleep, broken by how you've been defeated by a spreadsheet once again.","芬恩转向他的笔记本电脑。 你去睡觉,因为你再次被电子表格打倒。",芬恩转身看向笔记本电脑。你伤心地去睡了：自己又一次输给了电子表格。
+english_events_pitstop:L1877,pitstop_passenger_loveanother_finn_2,FIX,"Oh, hey %CURRENTPLAYERNAME%... you want to hang out?",哦嘿 %CURRENTPLAYERNAME%... 你想出去玩吗?,哦，嘿，%CURRENTPLAYERNAME%……你想找我玩？
+english_events_pitstop:L1878,pitstop_passenger_loveanother_finn_2,POLISH,I'm pretty busy... did you schedule a meeting in advance?,我现在很忙... 你提前安排了会议吗?,我挺忙的……你提前预约会议了吗？
+english_events_pitstop:L1879,pitstop_passenger_loveanother_finn_2,FIX,"Yes, I did! It's under ""Finn + %CURRENTPLAYERNAME%'s quality time together"".","是的,我这样做了! Yes, I did! 在""Finn +""下面 %CURRENTPLAYERNAME%""质量时间在一起"".",约了！就叫“芬恩与%CURRENTPLAYERNAME%的美好相处时光”。
+english_events_pitstop:L1880,pitstop_passenger_loveanother_finn_2,FIX,"Hmmm... yes, I see... but look: you input today's date... but for next year, see?","那个... 对,我明白了... 但请看:您输入今天的日期... 但明年,看见了吗?",嗯……是，看见了……不过你看，你填的日期虽然是今天，年份却填成了明年，看到没？
+english_events_pitstop:L1881,pitstop_passenger_loveanother_finn_2,POLISH,"Yikes! Well, it was a silly mistake; I obviously meant tonight! So...","哎哟! 好吧,这是一个愚蠢的错误;我显然是指今晚! 所以说...",哎呀！我就是不小心填错了，肯定是想约今晚啊！所以……
+english_events_pitstop:L1882,pitstop_passenger_loveanother_finn_2,POLISH,So... I guess till next year? It's not so bad; we can start preparing the topics of discussion ahead of time.,所以说... 我猜到明年再说吧? 还不算太糟;我们可以提前开始准备讨论的议题.,所以……那就明年见？也不算太糟，咱们可以提前准备讨论话题。
+english_events_pitstop:L1883,pitstop_passenger_loveanother_finn_2,POLISH,See you then!,再见!,到时候见！
+english_events_pitstop:L1885,pitstop_passenger_loveanother_finn_2,FIX,Fuckin' calendar softwares... always cockblocking you.,他妈的日历软件... 总是打你鸡巴。,妈的，日历软件……总是坏你的好事。
+english_events_pitstop:L1890,pitstop_passenger_loveanother_dahliaappliance_1,FIX,Hey Dahlia! Wanna talk?,顿 达莉娅! 想谈谈吗?,嘿，达丽雅！想聊聊吗？
+english_events_pitstop:L1891,pitstop_passenger_loveanother_dahliaappliance_1,POLISH,"No thanks. We've already been talking a lot lately. Too much, even!","不,谢谢。 我们最近已经谈了很多 太过分了,甚至!",不了，谢谢。最近咱们已经聊得够多了，甚至太多了！
+english_events_pitstop:L1892,pitstop_passenger_loveanother_dahliaappliance_1,FIX,"I'm a washing machine, not a talking machine! I need to focus on my priorities!","我是洗衣机,不是说话机! 我需要专注于我的优先事项!",我是洗衣机，又不是聊天机器！我得分清主次！
+english_events_pitstop:L1893,pitstop_passenger_loveanother_dahliaappliance_1,KEEP,And what are your priorities...?,那你有什么要紧事... ?,那你有什么要紧事... ?
+english_events_pitstop:L1894,pitstop_passenger_loveanother_dahliaappliance_1,FIX,"Tonight, it's washing Scott's socks, which I need to get back to. I'll see you later.","今晚要洗个澡 斯科特袜子,我需要回去。 后相见.",今晚的正事，就是洗斯科特的袜子。我得回去干活了，回头见。
+english_events_pitstop:L1895,pitstop_passenger_loveanother_dahliaappliance_1,FIX,Dahlia goes back to intensely focusing on her rinse cycle. Sigh...,达莉娅 重回她的洗涤循环。 叹...,达丽雅又全神贯注地运行起了漂洗程序。唉……
+english_events_pitstop:L1900,pitstop_passenger_loveanother_dahliaappliance_2,FIX,"Hey, Dahlia! Wanna talk?",顿 达莉娅! 想谈谈吗?,嘿，达丽雅！想聊聊吗？
+english_events_pitstop:L1901,pitstop_passenger_loveanother_dahliaappliance_2,POLISH,"No, not really. No offense %CURRENTPLAYERNAME%, but you're kinda boring.","不,其实不是。 无意冒犯 %CURRENTPLAYERNAME%但你有点无聊。",不太想。无意冒犯，%CURRENTPLAYERNAME%，可你有点无聊。
+english_events_pitstop:L1902,pitstop_passenger_loveanother_dahliaappliance_2,FIX,"Like, our chats have been some of the driest conversations I've ever had in my life.","就像,我们的聊天是一些 最干燥的谈话 我这辈子有过。",咱们的聊天，简直是我这辈子遇到过最干巴巴的对话。
+english_events_pitstop:L1903,pitstop_passenger_loveanother_dahliaappliance_2,FIX,"And since I'm a washing machine and not a dryer, I need my conversations to be a little more ""wet"", if ya get me. No hard feelings!","因为我是洗衣机,不是烘干机,所以我需要我的对话更""湿""一点,如果你得到我的话。 没有不好的感受!",我是洗衣机，又不是烘干机，所以想聊点更“湿”的，懂我意思吧。别往心里去！
+english_events_pitstop:L1904,pitstop_passenger_loveanother_dahliaappliance_2,FIX,"It stings to know that you don't make Dahlia wet... or whatever that metaphor was supposed to mean. Either way, you feel rejected.","知道你没有做到 是很痛苦的 达莉娅 湿了... 也不管那个比喻是什么意思 不管怎样,你都觉得被拒绝了。",得知自己没法让达丽雅湿起来，你很受伤……不管这比喻到底想说什么，反正你就是被拒绝了。
+english_events_pitstop:L1910,pitstop_passenger_loveanother_lamb_1,FIX,"Oh, hey %CURRENTPLAYERNAME%.",哦嘿 %CURRENTPLAYERNAME%.,哦，嘿，%CURRENTPLAYERNAME%。
+english_events_pitstop:L1911,pitstop_passenger_loveanother_lamb_1,FIX,"You wanna talk? Eh... nah, I'm good.","你想谈谈吗? 额... 不,我没事。",你想聊聊？呃……还是算了。
+english_events_pitstop:L1912,pitstop_passenger_loveanother_lamb_1,FIX,I've got more than enough loyal followers who hang onto my every word. I don't really need another.,我已经有足够的忠诚的追随者 坚持我的每一句话。 我真的不需要另一个。,我已经有够多忠实信徒了，我说什么，他们都听得入迷。不需要再多一个。
+english_events_pitstop:L1913,pitstop_passenger_loveanother_lamb_1,KEEP,So... bye!,所以说... 再见!,所以说... 再见!
+english_events_pitstop:L1915,pitstop_passenger_loveanother_lamb_1,FIX,The Lamb opens a holy book to read and ignores you for the rest of the night. Ouch.,"""羊""开出圣书去读取,而忽视了你的余生. 哎哟。",羔羊翻开一本圣书，读了起来，整晚都没再理你。真伤人。
+english_events_pitstop:L1921,pitstop_passenger_loveanother_lamb_2,FIX,"Oh, hi %CURRENTPLAYERNAME%... you want to talk?","哦,你好吗? %CURRENTPLAYERNAME%... 你想谈谈吗?",哦，嗨，%CURRENTPLAYERNAME%……你想聊聊？
+english_events_pitstop:L1922,pitstop_passenger_loveanother_lamb_2,FIX,"Uh... listen, I don't think this is working out. We're just too different.","额... 听着,我不认为 这是工作了。 我们只是太不同了",呃……听着，我觉得咱们不合适。我们实在太不一样了。
+english_events_pitstop:L1923,pitstop_passenger_loveanother_lamb_2,FIX,"Like, I'm into tarot, long walks through the wilderness, wielding powers that no mere mortal should ever get to wield...","喜欢,我进入了塔罗特, 漫步在荒野中, 拥有力量... ...",比如，我喜欢塔罗牌，喜欢在荒野里长时间散步，还喜欢操纵凡人绝不该拥有的力量……
+english_events_pitstop:L1924,pitstop_passenger_loveanother_lamb_2,POLISH,"And you're into... uh... actually, I'm not sure what you're into. I haven't really been paying attention when you talk.","你进入了... 额... 其实,我不知道你喜欢什么。 你说话的时候我可没注意过",而你喜欢……呃……其实，我也不知道你喜欢什么。你说话时，我没怎么留意。
+english_events_pitstop:L1925,pitstop_passenger_loveanother_lamb_2,POLISH,"But hey, I'm sure you'll find your special someone someday, and then you can join THEIR cult!","但是,嘿,我敢肯定,你会找到 你的特殊的人,然后你可以加入他们的邪教!",不过，我相信你总有一天会找到命中注定的那个人，到时候就能加入对方的邪教了！
+english_events_pitstop:L1926,pitstop_passenger_loveanother_lamb_2,KEEP,So... good luck with that!,所以说... 祝你好运!,所以说... 祝你好运!
+english_events_pitstop:L1928,pitstop_passenger_loveanother_lamb_2,FIX,The Lamb opens a holy book to read and ignores you for the rest of the night. Ouch.,"""羊""开出圣书去读取,而忽视了你的余生. 哎哟。",羔羊翻开一本圣书，读了起来，整晚都没再理你。真伤人。

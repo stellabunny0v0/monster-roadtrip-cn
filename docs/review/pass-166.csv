@@ -1,0 +1,163 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_maingame:L14232,whattojuggle,FIX,Jugglers,杂耍者,杂耍演员
+english_events_maingame:L14235,whattojuggle,FIX,"Well, people already call you a clown in your everyday life. Might as well juggle for a crowd and make a career out of it.",人们已经叫你小丑了 不如为人群而拼命 并做出一个事业出来。,反正平时也被人叫小丑，不如给观众抛接几个球，干脆当门职业。
+english_events_maingame:L14237,whattojuggle,FIX,"I dunno about this, bros. I don't think I actually know how to juggle.","我不知道,兄弟们。 我想我真的不会玩游戏",兄弟们，不太确定啊。我好像真不会抛接杂耍。
+english_events_maingame:L14238,whattojuggle,FIX,"Don't be silly, you can juggle! It's just throwing a ball to yourself and then catching it, times three.","别傻了,你还能玩游戏! 仅仅把球扔给自己 然后抓住它,乘以3。",别傻了，你会的！不就是扔个球给自己，再接住，乘以三嘛。
+english_events_maingame:L14239,whattojuggle,POLISH,You're pretty sure juggling is a lot more complicated than that...,你敢肯定杂耍比那复杂得多...,你很确定，抛接杂耍要复杂得多……
+english_events_maingame:L14240,whattojuggle,POLISH,"Wow, Polly, you were right! Look at me go!",哗! 波莉你说得对! 看着我!,哇，波莉，你说得对！看我！
+english_events_maingame:L14241,whattojuggle,FIX,"Wow, cool! But the audience doesn't seem to be as impressed by Scott's sudden juggling skills...","哇,酷毙了! 但观众似乎没有那么感动 斯科特突然间杂耍的技巧...",哇，厉害！不过观众似乎没觉得斯科特突然会杂耍，有多了不起……
+english_events_maingame:L14243,whattojuggle,FIX,"SCOTT, IS THAT YOU? GET OFF THE STAGE, BRO!","斯科特,是你吗? 离开这段路,兄弟!",斯科特，是你吗？兄弟，滚下台！
+english_events_maingame:L14244,whattojuggle,FIX,"IF WE WANTED TO SEE SOMEONE JUGGLING SOME BALLS, WE WOULD'VE GONE TO A STRIP CLUB!","如果我们想看到有人 跳出一些球, 我们会去一个石头的俱乐部!",想看别人玩球，我们不会去脱衣舞俱乐部吗？！
+english_events_maingame:L14246,whattojuggle,POLISH,"Haha! Don't worry, guys: being mean is my cousins' love-language. HI, BROS!","哈哈! 哈哈! 哈哈! 哈哈! 别担心,伙计们,我表妹们的爱情语言是刻薄的 嗨,布鲁斯!",哈哈！别担心，各位，我那群表兄弟就爱靠嘴损表达感情。嘿，兄弟们！
+english_events_maingame:L14247,whattojuggle,FIX,Love-language your ass. The Wolfpack seems to be convincing part of the crowd to actually go to a strip club.,"爱的语言,你的屁股。 沃尔夫克似乎在说服部分人群实际去脱衣舞俱乐部.",表达感情个屁。狼队好像真在说服一部分观众，改去脱衣舞俱乐部。
+english_events_maingame:L14248,whattojuggle,FIX,You're gonna need a SICK juggling trick if you wanna wow these jerks and get paid. Something like...,你要是想给这些混蛋打个招呼 拿到报酬的话 就得用SICK的杂耍伎俩 有点像...,得来个酷炸的杂耍，才能镇住这些混蛋，拿到工钱。比如……
+english_events_maingame:L14249,whattojuggle,FIX,"Do ""The 30s"": juggle an unfulfilling job, slowly-but-steadily decaying health, and the realization that you'll never be the person you dreamed of being when in your 20s.","做""30年代"":把一个未完成的工作,慢慢地但稳定地衰败的健康,以及意识到你永远不会成为20多岁时所梦想的人.",表演“三十岁”：兼顾没成就感的工作、缓慢却持续衰退的健康，以及醒悟过来，自己永远成不了二十多岁时梦想成为的人。
+english_events_maingame:L14250,whattojuggle,FIX,Wow everyone by juggling two contradictory ideas.,"哇,每个人都在拼凑两个矛盾的想法。",同时抛接两个矛盾的念头，让观众大开眼界。
+english_events_maingame:L14252,whattojuggle,POLISH,"Damn, %CURRENTPLAYERNAME%, are you sure? The 30s is a really hard trick to pull off.",该死 %CURRENTPLAYERNAME%你确定吗? 30年代是一个非常难完成的把戏。,靠，%CURRENTPLAYERNAME%，确定？“三十岁”这招，可难得很。
+english_events_maingame:L14253,whattojuggle,FIX,"One wrong move, and you could end up with a serious case of disillusionment and ennui!","一次错误的举动,你可能会 最终一个严重的破灭和恩努伊!",一个不小心，就会幻灭到厌倦人生！
+english_events_maingame:L14254,whattojuggle,FIX,"Yeah, you're doing The 30s. They're inevitable anyway.","是啊,你正在做30年代。 反正他们都是不可避免的",没错，就演“三十岁”。反正迟早躲不过。
+english_events_maingame:L14255,whattojuggle,FIX,You start juggling your responsibilities and ailing health like a real adult.,你开始像成年人一样 来混淆你的责任 和生病的健康,你像个真正的成年人，开始在重重责任和每况愈下的健康之间，忙得团团转。
+english_events_maingame:L14257,whattojuggle,POLISH,What's going on? Why does that dumb clown suddenly look so... dead inside?,发生了什么事? 为什么那个蠢小丑突然看起来如此... 死在里面吗?,怎么回事？那个蠢小丑，怎么突然看着……心死了？
+english_events_maingame:L14259,whattojuggle,POLISH,"Well, if you're committed to doing this...",如果你愿意这么做...,好吧，既然你非要演这个……
+english_events_maingame:L14260,whattojuggle,FIX,"Scott, let's be %CURRENTPLAYERNAME%'s lovely assistants and throw %HIMHER% more struggles to juggle!","斯科特,让我们是 %CURRENTPLAYERNAME%可爱的助手和扔出 %HIMHER% 争吵得更厉害!",斯科特，来当 %CURRENTPLAYERNAME% 的贴心助手吧，再抛点难题给 %HIMHER% 应付！
+english_events_maingame:L14261,whattojuggle,POLISH,"Okay! Hey, %CURRENTPLAYERNAME%, remember when you said you wanted to write the next Great American Novel? What happened to that?","好,我们走! 顿 %CURRENTPLAYERNAME%记得你说你想写下一部美国小说吗? 发生什么事了?",好！嘿，%CURRENTPLAYERNAME%，还记得说过想写出下一部伟大的美国小说吗？后来怎么没动静了？
+english_events_maingame:L14262,whattojuggle,POLISH,"%CURRENTPLAYERNAME%, your grandma just called and wants to know when you're having kids! The clock's ticking, you know!","%CURRENTPLAYERNAME%你奶奶刚打来电话 想知道你什么时候有孩子! 时钟快到了,你知道吗?",%CURRENTPLAYERNAME%，你奶奶刚打电话，问什么时候生孩子！时间可不等人啊！
+english_events_maingame:L14263,whattojuggle,POLISH,"Look, %CURRENTPLAYERNAME%, I'm scrolling through your social media timeline and seeing all your former classmates living fulfilling adult lives! Jealous?","听着, %CURRENTPLAYERNAME%我在你的社交媒体上滚动 看着你所有的同学 过着成年生活! 嫉妒吗?",看，%CURRENTPLAYERNAME%，我正刷你的社交动态。以前同学的成年生活，一个比一个充实！羡慕吗？
+english_events_maingame:L14265,whattojuggle,POLISH,Damn! Who knew a juggling act could be so impressive and so depressing at the same time?,该死! 谁知道杂耍行为 可能如此令人印象深刻 如此令人沮丧 同时?,靠！谁能想到，杂耍居然能又精彩，又丧气！
+english_events_maingame:L14266,whattojuggle,FIX,"You manage to finish the trick and get a standing ovation. You earn +N2 MONEY from the carnies, but at what cost?","你成功完成了这个把戏 得到了站立的爱慕 你从卡尼那里赚到+N2钱,但要多少钱?",你总算完成表演，全场起立鼓掌。马戏团的人付了 +N2 金钱，可代价是什么？
+english_events_maingame:L14268,whattojuggle,FIX,"Cheer up, %CURRENTPLAYERNAME%. It's okay, you're still in your 20s for now!","开心点 %CURRENTPLAYERNAME%. 没关系,你现在还不到20多岁!",开心点，%CURRENTPLAYERNAME%。别怕，至少现在还二十多岁呢！
+english_events_maingame:L14269,whattojuggle,FIX,"Yeah, it's the ""for now"" part you're stressed about. You lose -N2 HYPE and gain +1 QUARTER LIFE CRISIS.","是啊,这是""现在""的部分 你的压力。 你输了N2 HYPE 和获得+1 QUARTER生命危机。",对，你愁的就是“至少现在”。你失去了 -N2 热度，获得 +1 青年人生危机。
+english_events_maingame:L14271,whattojuggle,POLISH,"Hey, not bad! We can get some audience participation up in this shit!","嘿,不错! 我们可以让观众参与进来!",嘿，不错！这还能拉观众一起参与！
+english_events_maingame:L14272,whattojuggle,FIX,"LISTEN UP, EVERYBODY! WE NEED SOMEONE TO VOLUNTEER TWO CONTRADICTORY IDEAS FOR %CURRENTPLAYERNAMECAPS% TO JUGGLE!",大家听着! 我们需要有人为 %CURRENTPLAYERNAMECAPS% 贾格!,各位听好！谁来提供两个互相矛盾的念头，让 %CURRENTPLAYERNAMECAPS% 来抛接！
+english_events_maingame:L14273,whattojuggle,POLISH,"A woman shyly raises her hand. ""I have one. I hold environmental protection as a core value in my life... but I have yet to cut meat out of my diet.""","女人羞涩地举起手来 ""我有一个。 我将环境保护视为我生命中的核心价值... 但我还没有从饮食中切出肉来。”",一个女人羞涩地举手：“我有。环保是我人生的核心价值观……可我到现在还没戒肉。”
+english_events_maingame:L14274,whattojuggle,FIX,"Ah, what a relatable contradiction. We'll solve your conflict of interest with the POWER OF JUGGLING!","啊,多么令人反感的矛盾。 我们会解决你和JUGLING的利益冲突!",啊，多么让人感同身受的矛盾。我们来用杂耍的力量，解决你的立场冲突！
+english_events_maingame:L14275,whattojuggle,FIX,"%CURRENTPLAYERNAME%, juggle this bonsai tree and this big steak!",%CURRENTPLAYERNAME%把这棵邦赛树和这个大牛排玩弄!,%CURRENTPLAYERNAME%，抛接这盆盆栽和这块大牛排！
+english_events_maingame:L14276,whattojuggle,POLISH,"""Do mine!"" someone new says. ""I consider myself a man of science, but when times get hard... I secretly hope there really is a higher power watching out for us.""","""做我的!"" 有人说。 ""我把自己看作一个科学的人,但当时代变得艰难时... 我暗地里希望真的有更高力量 为我们而守护。”",又有人说：“我的也来！我自认是科学派，可一遇到难关……又偷偷盼着，真有更高的力量在守护咱们。”
+english_events_maingame:L14277,whattojuggle,POLISH,"It's okay, boo. Monsters are complex beings, and we're fated to have doubts and fluctuating beliefs.","没关系,嘘。 怪物是复杂的生物,我们注定要有怀疑和波动的信念.",没事的，亲爱的。怪物是复杂的生物，难免会怀疑，信念也会动摇。
+english_events_maingame:L14278,whattojuggle,FIX,"%CURRENTPLAYERNAME%, juggle this beaker of science-liquid and this book of scripture!",%CURRENTPLAYERNAME%把这本科学书和这本经书混为一谈,%CURRENTPLAYERNAME%，抛接这杯科学液体和这本经书！
+english_events_maingame:L14280,whattojuggle,FIX,"Uh... I've got one. I've always said I'm a boobs guy. But sometimes, I think... I really like butts too.","额... 我有一个。 我总是说我是个大胸男 但有时,我觉得... 我也很喜欢屁股",呃……我有个。我总说自己是胸控，可有时候觉得……屁股我也好喜欢。
+english_events_maingame:L14281,whattojuggle,POLISH,It drives me fuckin' crazy! Am I into boobs or butts? Why can't I make up my mind?!,这让我发疯! 我喜欢胸部还是屁股? 为什么我不能决定呢?,快把我逼疯了！到底胸控，还是臀控？怎么就是选不出来？！
+english_events_maingame:L14283,whattojuggle,POLISH,"Ah, boobs or butts: the age-old question that's divided monsterkind for forever.",乳房或臀部 古老的问题 永远分裂出怪物,啊，胸还是屁股，千古难题。魔物一族为此分裂了不知多久。
+english_events_maingame:L14284,whattojuggle,FIX,"Juggle it, %CURRENTPLAYERNAME%! Here's some dirty magazines!",开玩笑的 %CURRENTPLAYERNAME%! 这里有一些肮脏的杂志!,抛起来，%CURRENTPLAYERNAME%！给你几本色情杂志！
+english_events_maingame:L14285,whattojuggle,POLISH,"Now, to close out the show, Scott will share one last contradictory thought to stimulate your minds!","现在,为了结束演出, 斯科特 将分享最后一个矛盾的想法 来刺激你的心灵!",最后，斯科特会再分享一个矛盾的念头，让各位动动脑，给表演收个尾！
+english_events_maingame:L14286,whattojuggle,POLISH,Scott shyly approaches the spotlight. He clears his throat and reads from a paper:,"斯科特 害羞地接近聚光灯。 他清喉咙,从一纸上读道:",斯科特腼腆地走进聚光灯下，清清嗓子，照着纸读道：
+english_events_maingame:L14287,whattojuggle,POLISH,"Yesterday, I wondered: if I punch my leg and it hurts, does that mean I'm strong or weak?","昨天,我想知道:如果我打我的腿,它会痛,那意味着我是强还是弱?",昨天我在想：要是给自己腿上一拳，打疼了，那说明我很强，还是很弱？
+english_events_maingame:L14289,whattojuggle,FIX,...Holy shit.,...该死,……卧槽。
+english_events_maingame:L14290,whattojuggle,FIX,"Nice, you stumped them! But you also stumped yourselves and lose -N2 MIND. At least the ringmaster pays you +N2 MONEY for your act!","不错,你砍了他们! 但也把自己摔倒了 失去N2 MIND 至少,主唱付你钱 +N2钱给你的表演!",漂亮，把他们难住了！可也把自己难住了，害你失去了 -N2 头脑。至少团长付了 +N2 金钱的演出费！
+english_events_maingame:L14299,choosetrick,KEEP,Magicians,魔术师,魔术师
+english_events_maingame:L14302,choosetrick,FIX,"Time to dust off your top hat and find that pesky rabbit that got loose in your luggage, 'cause you're gonna be a magician!",是时候把顶上帽子弄灰了 找到那个在行李里放走的 臭兔子 因为你会成为魔术师的,该掸掸高礼帽上的灰，把在行李里乱跑的讨厌兔子找回来了，因为你要当魔术师！
+english_events_maingame:L14303,choosetrick,FIX,"The ringmaster explains that doing magic is a passion, and therefore to honor that, they tell you that you won't get paid.","掌声解释道,做魔法是一种激情,因此为了纪念,他们告诉你,你不会得到报酬.",团长说，魔术是一份热爱，为了尊重这份热爱，他们决定不给你工钱。
+english_events_maingame:L14305,choosetrick,POLISH,"Wait, what? That is factually untrue. Magicians are entertainment workers and therefore deserve fair pay.","等等,什麽? 事实并非如此。 魔术师是娱乐工作者,因此应该得到公平的报酬。",等等，什么？胡说八道。魔术师也是文娱工作者，当然应该拿合理报酬。
+english_events_maingame:L14307,choosetrick,FIX,"She's right! But that's not the case today, apparently. It's time to do some magic tricks and get everything you can from the experience!","她说得对! 但今天情况并非如此,显然如此。 是时候做一些魔术 和得到一切你能从经验!",她说得对！可今天显然没这待遇。来变几个魔术，尽量从这段经历里捞点收获吧！
+english_events_maingame:L14309,choosetrick,FIX,"Hey, circus fans! I'm Polly the Phantasmal! Watch me make all the whiskey in this flask DISAPPEAR!","嘿,马戏团的粉丝们! 我是 波莉 幻觉! 看我把酒瓶里所有的威士忌都弄成这样!",嘿，马戏迷们！我是幽幻波莉，Polly the Phantasmal！看我把酒壶里的威士忌，全都变没！
+english_events_maingame:L14311,choosetrick,FIX,BOOOOOOO! Your magician name sucks; it doesn't even start with the same letters!,"呜呜! 你的魔术师名字很烂,连同一封字母都不用!",嘘——！魔术师名号烂透了，连开头字母都不一样！
+english_events_maingame:L14313,choosetrick,FIX,"Umm, it actually does. ""Phantasmal"" starts with a silent P--","嗯,它实际上确实。 ""Phantasmal""开头一个沉默的P-",呃，其实一样。Phantasmal 开头那个 P 不发音——
+english_events_maingame:L14315,choosetrick,POLISH,"BOOOOOOOOO! We came here to see hot chicks in leotards, not get a fuckin' spelling lesson!",呜呜呜! 我们来这里是想看穿花花公子的辣妹 不是上个拼写课,嘘——！我们来看穿紧身衣的辣妹，又不是来他妈上拼写课！
+english_events_maingame:L14317,choosetrick,POLISH,"Ugh! Everyone's a critic. Scott, you try entertaining your stupid cousins.",唉哟! 皆是评相.  斯科特你试着去娱乐你愚蠢的表妹们,唉，个个都是评论家。斯科特，你来逗逗你那群傻表兄弟。
+english_events_maingame:L14319,choosetrick,FIX,I am Scott the Spectacular! I'm gonna use my magic powers to transform into... A REALLY GOOD BOY!,没错 斯科特 奇特的风景! 我要用我的魔法能力 转化成... 一个非常好的男孩!,我是神奇斯科特！用魔法把自己变成……一只超级乖狗狗！
+english_events_maingame:L14321,choosetrick,FIX,"CUT THAT SHIT OUT, SCOTT! YOU CAN'T USE MAGIC TO TURN INTO A THING YOU ALREADY ARE!","把那该死的东西给我,斯科特! 你不能用魔法 转换成你已经拥有的东西!",别闹了，斯科特！你本来就是，还变个屁！
+english_events_maingame:L14323,choosetrick,POLISH,"Um... thanks, I think?","那个... 谢谢,我想?",呃……就当你在夸我，谢谢？
+english_events_maingame:L14324,choosetrick,FIX,"This is a tough crowd, but you know a magic trick that'll wow even the Wolfpack...","观众很不爽,但你知道一个魔术 连狼人都看不惯...",观众很挑剔，不过你知道一个魔术，连狼队都会惊叹……
+english_events_maingame:L14325,choosetrick,FIX,The annoying trick where you reveal everything is cake.,"让人讨厌的把戏,你把一切都说出来,就是蛋糕",那个烦人的“一切都是蛋糕”的魔术。
+english_events_maingame:L14326,choosetrick,FIX,MAKE ALL FANFICS CANON!,做所有的Fancics罐头!,让所有同人文变成正史！
+english_events_maingame:L14329,choosetrick,FIX,"You take out a knife and cut a slice of cake. Then you take out another knife and cut into your original knife, revealing that it was also cake!","你拿出一刀切出一块蛋糕 然后又取出一把刀,并切入了原刀,揭示出这也是蛋糕!",你拿刀切下一块蛋糕，再拿另一把刀切开前一把刀，原来那把刀也是蛋糕！
+english_events_maingame:L14330,choosetrick,POLISH,"Whoa, cool!","哇,酷毙了!",哇，酷！
+english_events_maingame:L14331,choosetrick,FIX,You slice your magician's hat to reveal it was cake. Then you take off your shoes and slice them -- also cake!,"你切出魔术师的帽子 才发现那是蛋糕 然后脱下你的鞋子,切开它们--还有蛋糕!",你切开魔术礼帽，原来是蛋糕。再脱鞋切开，也是蛋糕！
+english_events_maingame:L14332,choosetrick,POLISH,"Okay, this is getting a little old...","好吧,这有点老了...",好吧，有点没新意了……
+english_events_maingame:L14333,choosetrick,FIX,"Too bad, 'cause it keeps going! See this priceless family heirloom my grandfather gave me on his deathbed?","可惜,因为它一直开下去! 看到这个无价的家族继承人吗 我祖父给我的死因?",那也没办法，因为还没完呢！看到这件无价传家宝了吗？我爷爷临终前给我的。
+english_events_maingame:L14334,choosetrick,POLISH,"BRO, DON'T DO IT!","布鲁,不要这样做!",兄弟，别啊！
+english_events_maingame:L14335,choosetrick,POLISH,TOO LATE. IT'S CAKE. EVERYTHING IS CAKE AND NOBODY CAN STOP ME.,"太晚了。 时间太晚。 这是蛋糕。 这一切都是蛋糕,没有人可以阻止我。",晚了。是蛋糕。一切都是蛋糕，谁也别想阻止我。
+english_events_maingame:L14336,choosetrick,FIX,"You're laughing and swinging your knife wildly, a magical cake-fueled egomaniac. Then the knife suddenly slips from your hands!",你笑着乱挥刀 狂妄地挥舞着一个神奇的 以蛋糕为燃料的自大狂 然后刀突然从你的手上滑出!,你边笑边疯狂挥刀，像个被蛋糕魔法冲昏头的自大狂。突然，刀从手里滑了出去！
+english_events_maingame:L14338,choosetrick,POLISH,Where'd the knife go?!,刀子跑哪去了? ! 刀子跑哪去了? 刀子跑哪去了?,刀呢？！
+english_events_maingame:L14339,choosetrick,POLISH,%CURRENTPLAYERNAME%...?,%CURRENTPLAYERNAME%...?,%CURRENTPLAYERNAME%……？
+english_events_maingame:L14341,choosetrick,KEEP,...,...,...
+english_events_maingame:L14342,choosetrick,FIX,HOLY SHIT!,神圣的地狱!,卧槽！
+english_events_maingame:L14344,choosetrick,FIX,WHOA!,呜哇!,哇！
+english_events_maingame:L14346,choosetrick,POLISH,What the fuck? Is Scott... made of cake?!,什么他妈的? 已经是 斯科特... 蛋糕做的吗?,什么鬼？斯科特……是蛋糕做的？！
+english_events_maingame:L14347,choosetrick,FIX,I ALWAYS KNEW IT!,我总是知道它!,我早就知道！
+english_events_maingame:L14348,choosetrick,FIX,You can't leave Scott to this frosting-covered fate! You spend -N2 MAGIC restoring him to his former self.,你不能离开 斯科特 来迎接这个被冰冻所覆盖的命运! 你花N2 MAGIC 恢复他以前的自我。,不能让斯科特就这么困在糖霜命运里！你花掉 -N2 魔力，把他恢复原样。
+english_events_maingame:L14351,choosetrick,POLISH,"TADA! Don't worry, everybody, I'm okay! Turns out I taste pretty good!","塔达! 别担心,大家好,我没事! 原来我味道不错!",当当！别怕，各位，我没事！原来我还挺好吃！
+english_events_maingame:L14352,choosetrick,FIX,Phew! At least now you can magically prove that Scott is yummy. And you can gain +N2 STAMINA eating all the cake you created!,嘘! 至少现在你可以神奇地证明 斯科特 好吃极了 不错 吃你创造的蛋糕!,呼！这下有魔法为证，斯科特确实可口。吃光你变出的蛋糕，还能获得 +N2 体力！
+english_events_maingame:L14355,choosetrick,FIX,You invite the audience to bring their fanfics forward to be magically canonized.,你邀请观众 把他们的花花公子 带向前方 神奇地被划倒。,你邀请观众拿同人文上台，用魔法把它们变成正史。
+english_events_maingame:L14356,choosetrick,POLISH,"""Okay!"" one man says. ""Here's some fan art I drew of a famous grumpy cat from a beloved newspaper comic, reimagined as a hot goth girl.""","""好!"" 一个人说。 ""这是我从一个可爱的报纸漫画中画出出出出一出出出出出名的""暴躁""的粉丝艺术,被重新想象成""热辣的哥特"".",一个男人说：“好！这是我画的同人图，把那部人气报纸漫画里，有名的臭脾气猫，画成了哥特辣妹。”
+english_events_maingame:L14357,choosetrick,FIX,"Cool! Now I just say the -N2 MAGIC words... and boom, it's canon!","凉爽! 现在我只说N2 MAGIC的词... 砰,这是Canon!",酷！念句咒语，花掉 -N2 魔力……砰，正史了！
+english_events_maingame:L14358,choosetrick,POLISH,"""Me next!"" a teenage girl says. ""Here's a fanfic I wrote about that same grumpy cat, but he's secretly an eldritch horror slowly devouring his owner's mind!""","""下一个是我"" 一个十几岁的女孩说 ""我写了一篇关于同一只暴躁的猫的粉丝文章,但他却偷偷地是一个精灵恐怖,慢慢地吞噬了主人的心智"".",一个少女说：“下个我！同一只臭脾气猫，我写的同人里，它其实是只邪神怪物，正慢慢吞噬主人的心智！”
+english_events_maingame:L14359,choosetrick,FIX,"Ooh, spooky. Consider it canon!","哦,吓人。 想想吧,这简直是神仙之作!",哦，吓人。算正史了！
+english_events_maingame:L14360,choosetrick,POLISH,"""What about mine?"" an old man asks. ""I have a webseries where I reimagined that grumpy cat cartoon strip without the cat entirely.""","""我的呢?""一个老人问道. ""我有一个网络系列,我在那里重新想象了 暴躁的猫卡通条 没有猫完全。""",一个老人问：“我的呢？我有个网络连载，把那只臭脾气猫的漫画，改成了完全没有猫的版本。”
+english_events_maingame:L14361,choosetrick,POLISH,"""In my creation, the cat's owner is just talking to thin air, making him look like an incredibly lonely and unhinged person!""","""在我的创作中,猫的主人只是对着薄空气说话,使他看起来像一个令人难以置信地孤独和无喜无乐的人"".",“我的作品里，猫主人就是对着空气说话，看起来又孤独又疯癫！”
+english_events_maingame:L14362,choosetrick,POLISH,"Jeez, that's depressing as fuck... and now it's canon!","天啊,这太他妈令人沮丧了... 现在它就是Canon了!",天啊，真他妈丧……现在也是正史了！
+english_events_maingame:L14364,choosetrick,POLISH,"Wait, but that means the grumpy cat is a hot goth girl, an eldritch horror, AND doesn't exist all at once. That's impossible!","等等,但这意味着暴躁的猫是热辣的哥特女孩,是""Eldritch""的恐怖,并且并不是一时一去就存在. 这不可能!",等等，那这只臭脾气猫，既是哥特辣妹，又是邪神怪物，还同时不存在？不可能啊！
+english_events_maingame:L14366,choosetrick,POLISH,"Don't worry! If there's ever a contradiction in a story, just remember the golden rule:","别担心! 如果故事里有矛盾的话,就记住金规则:",别怕，故事出了矛盾，记住这条铁律就行：
+english_events_maingame:L14367,choosetrick,POLISH,A wizard did it!,是个巫师干的!,巫师干的！
+english_events_maingame:L14368,choosetrick,POLISH,"And today, that wizard is %CURRENTPLAYERNAME%.","今天,那个巫师是%CURRENTPLAYERNAME%。",今天，这位巫师就是 %CURRENTPLAYERNAME%。
+english_events_maingame:L14370,choosetrick,POLISH,That makes sense!,这有道理!,有道理！
+english_events_maingame:L14372,choosetrick,FIX,"""Can you canonize MY fan-theory?"" someone else asks. ""I have a headcanon that the Earth is actually flat!""","""你能把粉丝理论说得通吗?"" 有人问 ""我有一个头卡农,地球其实是平地""",又有人问：“我的同人理论，也能变成正史吗？我脑补地球其实是平的！”
+english_events_maingame:L14373,choosetrick,POLISH,"""Everybody's got a bunch of annoying evidence to the contrary, but with your magic, we could make it canon!""","""每个人都有一堆令人讨厌的证据,相反,但有了你的魔法,我们可以让它能行!""",“大家都拿一堆烦人的证据反驳，可有你的魔法，就能成正史了！”
+english_events_maingame:L14374,choosetrick,POLISH,Um... no. We're not doing that.,那个... 没有。 我们不这样做。,呃……不，这个不干。
+english_events_maingame:L14375,choosetrick,POLISH,"""Aw, man...""","""啊,伙计...""",“唉，不是吧……”
+english_events_maingame:L14376,choosetrick,FIX,"Well, everyone but that guy is super +N2 HYPE about your trick, so I'd call this a success!","好吧,每个人都是,但这家伙是超级+N2 HYPE 关于你的把戏, 所以我会称这成功!",除了那人，观众全被你的魔术嗨翻了，让你获得 +N2 热度。算成功吧！
+english_events_maingame:L14384,increaseaerialstakes,FIX,Aerialists,空中兵师,空中杂技演员
+english_events_maingame:L14386,increaseaerialstakes,FIX,"You and your friends sign up to be acrobats. It might be dangerous, but today isn't the day danger suddenly becomes a deterrent for your choices!","你和你的朋友 报名成为杂技演员。 可能很危险,但今天不是危险突然变成 威慑你的选择!",你和朋友们报名表演杂技。可能危险，可你们又不是今天才突然不怕危险！
+english_events_maingame:L14387,increaseaerialstakes,FIX,Polly grabs the trapeze and does three flips in midair! With no safety net! Whoa!,"波莉 抓住陷阱,在中空做三个翻转! 没有安全网! 呜呼!",波莉抓住空中吊杠，在半空翻了三个跟头！还没有安全网！哇！
+english_events_maingame:L14388,increaseaerialstakes,POLISH,"She faces the audience, waiting for the applause...","她面对观众,等待掌声...",她转向观众，等着掌声……
+english_events_maingame:L14390,increaseaerialstakes,FIX,BOOOOOOO! THAT CHICK'S A GHOST; SHE CAN'T DIE! WHERE ARE THE STAKES?!,呜呜! 那个老鸡是个大家伙 她不能死! 哪里是石头!,嘘——！那女的是鬼，死不了！哪有什么风险？！
+english_events_maingame:L14391,increaseaerialstakes,FIX,"YEAH, BOOOOOOO! ALSO, WHY ISN'T SHE IN A SEXY LEOTARD? GIVE US ASS OR GIVE US DEATH!","是啊,布欧! 也,为什么她不是 在性爱的低地? 给我们的屁股或给我们的死!",对，嘘——！还有，怎么没穿性感紧身衣？不给看屁股，就给我们看死人！
+english_events_maingame:L14393,increaseaerialstakes,POLISH,"Oh, great, the Wolfpack's here. Can't wait to hear them mansplain how to hang from a trapeze correctly.","哦,太好了,狼包来了。 等不及要听他们讲讲 如何正确吊出陷阱",哦，太好了，狼队来了。真等不及听他们指点，教我怎么才算正确地吊在吊杠上。
+english_events_maingame:L14395,increaseaerialstakes,FIX,"NOW THAT YOU SAY THAT, WHAT IF YOU HANG FROM THE TRAPEZE IN A WAY THAT MAKES YOU SHOW MORE ASS?! GIVE US ASS!","现在,你说,如果你挂 从贸易 的方式让你看到更多的屁股! 给我们屁股!",既然说到这个，你能不能吊得让屁股多露一点？！我们要看屁股！
+english_events_maingame:L14397,increaseaerialstakes,POLISH,"Well, I think today is the day I give your cousins death, Scott. They asked for it, after all...","我想今天是我让你表妹们死的日子 斯科特. 他们要求的,毕竟...",斯科特，我看今天就是送你表兄弟上西天的日子。毕竟他们自己要求的……
+english_events_maingame:L14398,increaseaerialstakes,POLISH,"Nah, bro. My cousins can be a lot sometimes, but I bet we can wow them.","不,哥们。 我表弟有时会很多 但我敢打赌我们可以给他们打个招呼",别，兄弟。他们是有点烦，可咱们肯定能镇住他们。
+english_events_maingame:L14399,increaseaerialstakes,POLISH,"BROOOOOOS! What if I do the act? I'm not a ghost, so I can totally die! High stakes!","布鲁斯! 如果我做这个动作呢? 我不是鬼,这样我就能完全死! 赌注很高!",兄弟——！换我表演怎么样？我又不是鬼，真的会死！风险够高！
+english_events_maingame:L14401,increaseaerialstakes,FIX,"BOOOOOOO, NO WAY! YOU'RE FAMILY, BRO! OBJECTIFYING YOUR ASS WOULD BE WEIRD!","宝罗,没有办法! 你是家人,兄弟们! 偷看你的屁股会很恐怖!",嘘——不行！咱们是亲戚啊，兄弟！拿你屁股当肉看，多怪！
+english_events_maingame:L14402,increaseaerialstakes,FIX,"YEAAAH! ALSO, YOU'RE FAMILY, BRO! YOU DYING WOULDN'T BE DOPE!","哟! 也,你是一个家庭,兄弟! 你死不会是坏人!",对！还有，咱们是亲戚啊，兄弟！你死了可不好玩！
+english_events_maingame:L14403,increaseaerialstakes,REVIEW,"WHAT ABOUT %CURRENTPLAYERNAMECAPS%? WE CAN 100% OBJECTIFY %HISHERCAPS% ASS, AND WE'RE COOL IF %HESHECAPS% %VERBCAPS_DIES_DIE%!","怎么样 %CURRENTPLAYERNAMECAPS%? 我们可以百分百观察 %HISHERCAPS% 屁股,和我们凉爽,如果 %HESHECAPS%  %VERBCAPS_DIES_DIE%!",%CURRENTPLAYERNAMECAPS% 呢？%HISHERCAPS% 屁股，我们想怎么看就怎么看，%HESHECAPS% %VERBCAPS_DIES_DIE% 死了也没关系！
+english_events_maingame:L14404,increaseaerialstakes,FIX,"They make a good point, actually. This is up to you: how much should you up the stakes to wow the audience with your acrobatic skills and your ass?","他们说得有道理,其实。 这取决于你:你该花多少钱 才能用你的杂技和屁股来给观众带来好感?",其实说得有理。这得由你决定：要把风险提高到什么程度，才能让观众为你的杂技和屁股喝彩？
+english_events_maingame:L14405,increaseaerialstakes,POLISH,"You're not reckless enough to do it with no net... but what about using a net made of a very itchy material? If you fall, it'll be, like... VERY ITCHY!","你没有那么鲁莽,没有网就... 但是用网子用很痒的材料怎么样? 如果你摔倒了,那会是... 十分灵巧!",你还没莽到敢不用网……但换张材料特别扎人发痒的网呢？掉下去，就会……痒得要命！
+english_events_maingame:L14406,increaseaerialstakes,FIX,No net... NO HANDS!,没有网... 没有手!,不要网……也不用手！
+english_events_maingame:L14407,increaseaerialstakes,FIX,No net... NO TRAPEZE! You'll just jump from the 60-foot platform into a painful but hilarious fall.,没有网... 没有Trapeze! 你会从60英尺高的平台跳入痛苦而有趣的倒地.,不要网……也不要吊杠！从六十英尺高的平台跳下，摔得又疼又滑稽。
+english_events_maingame:L14410,increaseaerialstakes,POLISH,"Yeah, you decidedly are NOT ballsy enough to go no-net. But the idea of getting all itchy will definitely deter you from falling!","是啊,你肯定不够胆量去无网。 但是,如果想让自己感到痒,那肯定会阻止你摔倒!",没错，你真没胆子不用网。不过一想到掉下去会浑身痒，就肯定会拼命避免摔落！
+english_events_maingame:L14411,increaseaerialstakes,FIX,"You perform well! The security the net gives you, contrasted with the incentive to not fall and be covered in itchy rope fibers, is the perfect safeguard against failure!",你表现的很好! 网里给你的安保 与不倒下和被痒痒的绳子所覆盖的激励 形成对比 是最好的防失败的保障,表演得很好！有网兜底，又不想摔下去沾满扎人的绳纤维，这安全感加动力，简直是双重保障！
+english_events_maingame:L14412,increaseaerialstakes,POLISH,It makes you wonder if an itchy safety net would make all of life's difficult tasks more achievable...,让你怀疑一个痒的安全网 会不会让所有艰难的任务 都更可行...,你不禁想，人生里所有难事，要是都有张发痒安全网，会不会都变容易……
+english_events_maingame:L14414,increaseaerialstakes,FIX,BOOOOOO! THIS IS THE LAMEST ACT YET!!!,嘘! 这是最糟糕的动作!,嘘——！这是目前最没劲的表演！！！
+english_events_maingame:L14415,increaseaerialstakes,FIX,"...Well, it'd make every task more achievable besides impressing the Wolfpack, anyway.","除了给""狼人""留下深刻的印象之外,它还会使每一项任务都更容易实现.",……除了讨好狼队，这招应该能让其他事都更容易。
+english_events_maingame:L14417,increaseaerialstakes,FIX,"Ugh, what is your guys' deal? You're interrupting %CURRENTPLAYERNAME%'s safety net epiphany!","呃,你的人有什么交易吗? 打扰你们了 %CURRENTPLAYERNAME%安全网的觉悟!",烦死了，你们有病吗？%CURRENTPLAYERNAME% 正领悟安全网的人生真谛，别打岔！
+english_events_maingame:L14419,increaseaerialstakes,FIX,%CURRENTPLAYERNAME%'S TRAPEZE ACT SUCKS! THERE'S NO SUSPENSE OR EXCITEMENT WITH THAT DUMB NET IN THE WAY!,"%CURRENTPLAYERNAME%""trapeze的动作吸!"" 没有悬念或谈判 与哑巴网的方式!",%CURRENTPLAYERNAME% 的吊杠表演烂透了！破网挡着，哪有什么悬念和刺激！
+english_events_maingame:L14421,increaseaerialstakes,POLISH,So you can only enjoy a piece of entertainment if someone might die doing it?,所以你只能享受娱乐 如果有人会死吗?,所以，非得有人可能死，你们才看得开心？
+english_events_maingame:L14423,increaseaerialstakes,FIX,YEP!,叶普!,对！
+english_events_maingame:L14425,increaseaerialstakes,POLISH,Do you even realize how messed up that is?,你知不知道这有多糟?,知不知道这有多变态？
+english_events_maingame:L14427,increaseaerialstakes,FIX,NOPE!,没有!,不知道！
+english_events_maingame:L14429,increaseaerialstakes,POLISH,"But don't you know the safety net is super itchy? That totally changes the game, bros!","你不知道安全网很痒吗? 这完全改变了游戏,兄弟们!",可安全网特别痒啊！兄弟们，这一下就完全不同了！
+english_events_maingame:L14431,increaseaerialstakes,POLISH,"Hmmmm, itchy, huh...?","痒了,是吗?",嗯，特别痒，是吧……？
+english_events_maingame:L14432,increaseaerialstakes,FIX,*thinking grunts*,思念着咕噜声,*思考着哼哼*
+english_events_maingame:L14433,increaseaerialstakes,FIX,"NAH, STILL LAME! BOOOOOOO!",仍然LAME! ! ! ! ! ! ! ! ! ! ! 继续! 呜呜!,算了，还是没劲！嘘——！
+english_events_maingame:L14434,increaseaerialstakes,POLISH,"You lose -N2 HYPE because the audience is unimpressed, but fuck it, this isn't about them.","你输了N2 HYPE是因为观众没有印象 但他妈的,这跟他们无关",观众没被打动，你失去了 -N2 热度。可管他妈的，又不是为了他们。
+english_events_maingame:L14435,increaseaerialstakes,FIX,"You stuck to your guns and kept the net, which gave you some peace of +N2 MIND while you were doing your act. Good for you!","你坚持你的枪,并保持了网, 它给了你一些平和 +N2 MIND 当你做你的行为。 不错!",你坚持己见，保留安全网，表演时心里踏实，获得 +N2 头脑。挺好！
+english_events_maingame:L14437,increaseaerialstakes,FIX,"Yeah, time to go for the wow factor! You leap up and grab onto the trapeze with your legs.",是时候去参加Wow因素了! 你跳起来用你的腿抓住陷阱。,该来点让人惊呼的了！你一跃而起，用腿勾住吊杠。
+english_events_maingame:L14439,increaseaerialstakes,FIX,"NOW THAT'S WHAT I'M TALKING ABOUT! YOU'VE GOT SOME DOPE THIGHS, BRO!","现在,这就是我所说的! 你有几只狗的眼球,哥们!",这才像话！兄弟，大腿真他妈帅！
+english_events_maingame:L14440,increaseaerialstakes,FIX,"Thanks, but you're not done yet! It's time to kick things up a notch by grabbing onto the trapeze WITH YOUR TONGUE!","谢谢,但你还没完呢! 是时候用你的TONGUE 抓住陷阱来把事情搞砸了!",谢谢，可还没完！再上点强度：用舌头勾住吊杠！
+english_events_maingame:L14442,increaseaerialstakes,POLISH,"Damn, %CURRENTPLAYERNAME%, nice tongue strength. Momma's feelin' a little seduced.",该死 %CURRENTPLAYERNAME%舌头很强壮 妈妈觉得有点被诱惑了,靠，%CURRENTPLAYERNAME%，舌头挺有劲啊。姐姐我都有点被撩到了。
+english_events_maingame:L14443,increaseaerialstakes,POLISH,"Tongue-acrobatics are a bold move, especially considering Scott was holding that trapeze just a second ago.","舌头杂技是一种大胆的举动,特别是考虑到 斯科特 刚才拿着那把刀",用舌头玩杂技，胆真大，尤其斯科特上一秒才摸过那根杠。
+english_events_maingame:L14444,increaseaerialstakes,POLISH,Who knows where my hands have been!,谁知道我的手在哪!,我的手摸过什么，谁知道呢！
+english_events_maingame:L14445,increaseaerialstakes,FIX,"You're getting tired, but you've still got your grand finale to do! Time for the ULTIMATE sexy trapeze maneuver...","你累了,但你还有你的大决赛要做! 是时候进行ULTIMATE性感陷阱操作了...",你累了，可压轴还没演呢！来招终极性感吊杠技……
+english_events_maingame:L14446,increaseaerialstakes,FIX,OMG! %CURRENTPLAYERNAME% grabbed the trapeze with %HISHER% ass cheeks!,欧玛!  %CURRENTPLAYERNAME% 抓住了陷阱 与 %HISHER% 屁股脸颊!,天啊！%CURRENTPLAYERNAME% 用 %HISHER% 两瓣屁股夹住吊杠了！
+english_events_maingame:L14448,increaseaerialstakes,FIX,YEAHHHH! The only thing that's better than death-defying stunts are death-defying stunts WITH BUTTS!,对! 唯一比死亡特技更好的是 与ButTS的死亡特技!,好耶！比玩命特技更棒的，只有拿屁股玩的玩命特技！
+english_events_maingame:L14449,increaseaerialstakes,FIX,"Especially a toned butt like %CURRENTPLAYERNAME%'s! Just look at those thick, juicy ham hocks tightly clenched around that trapeze!",特别是像一个被打倒的屁股 %CURRENTPLAYERNAME%对! 看看那些厚厚多汁的火腿 紧紧地围住那个陷阱!,尤其 %CURRENTPLAYERNAME% 这么紧实的屁股！瞧那两大块肥厚多汁的火腿，把吊杠夹得死死的！
+english_events_maingame:L14450,increaseaerialstakes,FIX,"We asked for some ASS, and we got some ASS. No complaints here, bros.","我们要求一些ASS, 我们得到了一些ASS。 这儿没有抱怨,兄弟们",我们要看屁股，就真看到了屁股。兄弟们，没意见！
+english_events_maingame:L14452,increaseaerialstakes,FIX,"Your act killed and earned you +N2 HYPE, though that glute workout took -N2 STAMINA right outta you.","你的行为杀死并赢得了你的+N2 HYPE, 虽然那奢侈的锻炼 STAMINA正离开你。",表演大获成功，你获得 +N2 热度，不过这番臀肌锻炼，也耗掉了 -N2 体力。
+english_events_maingame:L14455,increaseaerialstakes,FIX,"Whoa, bros, are you seeing this shit? Is %CURRENTPLAYERNAME% seriously gonna do an act without the trapeze?!","哇,兄弟,你看到这狗屎吗? 已经是 %CURRENTPLAYERNAME% 认真做一个没有陷阱的行为吗?",哇，兄弟们，看见没？%CURRENTPLAYERNAME% 真要不用吊杠就表演？！
+english_events_maingame:L14456,increaseaerialstakes,POLISH,"Wow, that's super dangerous and dumb... which means it's amazing!","哇,这太危险了,又笨了... 也就是说这太棒了!",哇，危险又傻……也就是说，棒极了！
+english_events_maingame:L14457,increaseaerialstakes,POLISH,"Yeah, it's awesome how often cool things and dumb things overlap. It makes me feel a lot better about being so dumb.","是啊,这是真棒 如何经常的酷事物和哑事重叠。 这么笨让我感觉好多了",对啊，酷事跟蠢事经常重叠，真好。我这么笨，心里都好受多了。
+english_events_maingame:L14458,increaseaerialstakes,FIX,"Wait, what's happening now? Are Scott and that ghost with the rockin' boobs trying to talk %CURRENTPLAYERNAME% out of doing it?!","等等,现在怎么了? 是,这是 斯科特 和那个带着摇晃的胸部想说话的鬼魂 %CURRENTPLAYERNAME% 别干这行?",等等，怎么了？斯科特和那个胸超辣的女鬼，想劝 %CURRENTPLAYERNAME% 别跳？！
+english_events_maingame:L14459,increaseaerialstakes,FIX,"COME ON, SCOTT! Why would you try to put a stop to this awesome danger? Are you a werewolf or a were-pussy?!","来吧,斯科特! 你为什么要阻止这种危险? 你是狼人还是被宠坏的?",拜托，斯科特！干吗拦着这么棒的危险？你是狼人，还是怂狼？！
+english_events_maingame:L14460,increaseaerialstakes,REVIEW,NOOOOOOOO! They got %CURRENTPLAYERNAME% to chicken out; %HESHE%%VERB_'S_'RE% walking away!,"不,不,没有。 他们得到了 %CURRENTPLAYERNAME% 鸡出; %HESHE%%VERB_'S_'RE% 走开!",不——！他们把 %CURRENTPLAYERNAME% 劝怂了，%HESHE%%VERB_'S_'RE% 要走了！
+english_events_maingame:L14461,increaseaerialstakes,POLISH,"Wait, it looks like %CURRENTPLAYERNAME%'s gonna step on that banana peel conspicuously placed at the end of the platform!","等等,看起来%CURRENTPLAYERNAME% 会踩到香蕉皮 明显放在月台的尽头!",等等，平台边上那片香蕉皮摆得好显眼，%CURRENTPLAYERNAME% 是不是要踩上去了！
+english_events_maingame:L14462,increaseaerialstakes,FIX,Really? Does that mean %HESHE%'ll...?,真的吗? 这是否意味着 %HESHE%'会... ... ?,真的？那 %HESHE% 岂不是……？
+english_events_maingame:L14463,increaseaerialstakes,FIX,YES! YES! %CURRENTPLAYERNAME% slipped on the peel! Look at %HIMHER% falling from the platform! HAHAHAHAHA!,"没错! 没错!  %CURRENTPLAYERNAME% 滑倒在地皮上! 你看,看,看,看,看,看,看,看,看 %HIMHER% 从平台上掉下来! 哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈!",是！是！%CURRENTPLAYERNAME% 踩滑了！看 %HIMHER% 从台上掉下去了！哈哈哈哈！
+english_events_maingame:L14464,increaseaerialstakes,FIX,"HAHAHA! Holy shit, bro, %HESHE% must have broken a FUCKTON of bones! This is the best day of my life!","哈哈! 哈哈! 哈哈! 哈哈! 神圣的狗屎,兄弟,%HESHE% 一定打破了他妈的骨头! 这是我一生中最美好的一天!",哈哈！卧槽，兄弟，%HESHE% 肯定摔断了一大堆骨头！今天是我这辈子最棒的一天！
+english_events_maingame:L14465,increaseaerialstakes,POLISH,"Wait, bro... I just had a thought.","等等,兄弟,你别这样 我刚刚想到了个主意",等等，兄弟……我刚有个想法。
+english_events_maingame:L14466,increaseaerialstakes,FIX,"Whoa, that's a first!","哇,这是第一次!",哇，破天荒啊！
+english_events_maingame:L14467,increaseaerialstakes,POLISH,I wonder if Scott and the boobs ghost talking to %CURRENTPLAYERNAME% was... part of the act?,不知你会不会... 斯科特 和胸鬼说话 %CURRENTPLAYERNAME% 刚才... 行动的一部分?,斯科特和大胸女鬼跟 %CURRENTPLAYERNAME% 说话，该不会……本来就是表演的一部分？
+english_events_maingame:L14468,increaseaerialstakes,POLISH,"Maybe they just made it LOOK like they were trying to convince %HIMHER% not to jump, so %HESHE%'d slip on the peel and fake us out!","也许他们只是把它看起来像 他们试图说服 %HIMHER% 别跳,所以... %HESHE%'会滑倒在皮上 并假装我们出去!",没准故意装成劝 %HIMHER% 别跳，最后让 %HESHE% 踩香蕉皮滑倒，耍咱们一把！
+english_events_maingame:L14469,increaseaerialstakes,FIX,What a rollercoaster of emotions!,多么激动的滚球!,情绪简直像坐过山车！
+english_events_maingame:L14470,increaseaerialstakes,FIX,"I guess that's the sort of thing people who don't watch sports like so much about... uh, what's that thing that's not sports called again?",我想这就是那种人 谁不看运动 像这么多关于... 体育界又不叫什么来着?,这种东西，就是那些不看运动的人特别喜欢的……呃，不是运动的那个叫什么来着？
+english_events_maingame:L14471,increaseaerialstakes,POLISH,"""Art"", I think.","""艺术"",我想。",好像叫“艺术”。
+english_events_maingame:L14473,increaseaerialstakes,FIX,"Good news, you gained +N6 HYPE doing your dangerous prat fall! But you can bet your ass you lost -N6 STAMINA from all those broken bones.","好消息是,你得到了+N6 HYPE 做你危险的倒下! 但你可以打赌你输了N6 Stamina 从那些骨折。",好消息，这次危险的滑稽摔落，让你获得 +N6 热度！不过断了这么多根骨头，失去 -N6 体力是肯定的。

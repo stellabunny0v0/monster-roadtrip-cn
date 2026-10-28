@@ -1,0 +1,91 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_pitstop:L6339,cdmirandamyvillage,FIX,What she's done this summer,她今年夏天的所作所为,她这个夏天在忙什么
+english_events_pitstop:L6341,cdmirandamyvillage,KEEP,"Well, I've been governing my village these past few months!",过去几个月我一直在管理我的村庄!,过去几个月我一直在管理我的村庄!
+english_events_pitstop:L6342,cdmirandamyvillage,KEEP,Your village?,你的村子吗?,你的村子吗?
+english_events_pitstop:L6343,cdmirandamyvillage,FIX,"Indeed. I've been insisting to my sisters that I want to become a better Vanderbilt, so they came up with this idea:","确实如此 我一直坚持要姐妹们成为更好的凡德比尔特,所以他们想出了这个想法:",是啊。我一直跟姐妹们说，我想成为更称职的范德比尔特家族成员，于是她们想了个办法：
+english_events_pitstop:L6344,cdmirandamyvillage,FIX,They gave me a small village within the borders of the Merkingdom to rule.,他们给了我一个小村庄 在默金多姆的边界上统治。,在人鱼王国境内，划给我一个小村庄，让我统治。
+english_events_pitstop:L6345,cdmirandamyvillage,FIX,It's my royal training wheels!,这是我的皇家训练车轮!,相当于给我的王室统治装上辅助轮！
+english_events_pitstop:L6346,cdmirandamyvillage,KEEP,"Wow, that sounds like a big responsibility.","哇,这听起来是一个重大的责任。","哇,这听起来是一个重大的责任。"
+english_events_pitstop:L6347,cdmirandamyvillage,POLISH,"You're absolutely right, %CURRENTPLAYERNAME%. I want to be the best ruler ever, and that means learning some responsibility.","你说的对 %CURRENTPLAYERNAME%. 我想成为有史以来最好的统治者, 这意味着学习一些责任。",没错，%CURRENTPLAYERNAME%。我要成为最棒的统治者，就得先学会承担责任。
+english_events_pitstop:L6348,cdmirandamyvillage,POLISH,Although... everyone in class seems to suggest the Merkingdom ways aren't as flawless as I've always believed.,虽然. 班上每个人似乎都认为 默金多姆的方法 不像我一直相信的那样完美无缺,不过……班里的人好像都觉得，人鱼王国的做法，并没有我一直以为的那么完美。
+english_events_pitstop:L6349,cdmirandamyvillage,FIX,My reflex reaction is to assume they're ignorant traitors of the crown that must face the gallows.,我的反应是假设他们是无知的叛徒 皇冠必须面对绞刑架。,我的第一反应，是他们都是背叛王室的无知叛徒，应该送上绞刑架。
+english_events_pitstop:L6350,cdmirandamyvillage,KEEP,I keep a list of all these people.,我保存着所有这些人的名单。,我保存着所有这些人的名单。
+english_events_pitstop:L6351,cdmirandamyvillage,POLISH,"But on the other hand, I'm trying to be more ""critical"", and that means considering other viewpoints.","但另一方面,我试图更加""批判"",这意味着考虑其他观点.",可另一方面，我也在试着更有“批判性”，那就得考虑其他观点。
+english_events_pitstop:L6352,cdmirandamyvillage,POLISH,That's very sensible of you.,这很明智 你。,你这么想，很明智。
+english_events_pitstop:L6353,cdmirandamyvillage,FIX,"Absolutely. You see, me being oblivious seems to be the only thing both our classmates and my sisters agree upon.","当然 你看,我被遗忘 似乎是唯一的东西 我们的同学和我的姐妹都同意。",那当然。你看，同学们和我的姐妹们，唯一一致同意的，就是我太不谙世事。
+english_events_pitstop:L6354,cdmirandamyvillage,POLISH,I ran a poll asking people what they find to be some of the worst aspects of the Merkingdom way of leadership.,"我做了一个民意调查,问人们,他们发现什么是默金多姆领导方式的最糟糕的方面.",我做了个民调，问大家，人鱼王国的统治方式，最糟糕的地方是什么。
+english_events_pitstop:L6355,cdmirandamyvillage,FIX,Here are some of the most popular answers:,以下是一些最受欢迎的答案:,以下几项，提到的人最多：
+english_events_pitstop:L6356,cdmirandamyvillage,KEEP,"""Public executions are not cool.""","""公开处决不酷"".","""公开处决不酷""."
+english_events_pitstop:L6357,cdmirandamyvillage,FIX,"""Maybe stop the serfdom thing?""","""也许停止农奴制的事情?""",“也许该废除农奴制了？”
+english_events_pitstop:L6358,cdmirandamyvillage,FIX,"""Lots of mass control through constant media propaganda.""","""通过不断的媒体宣传大量群众控制"".",“不停通过媒体宣传，控制民众。”
+english_events_pitstop:L6359,cdmirandamyvillage,FIX,"""Bad international relationships mostly due to violent invasion of foreign territories.""","""主要由于对外国领土的暴力入侵而导致的不良国际关系"".",“暴力入侵外国领土，导致国际关系恶劣。”
+english_events_pitstop:L6360,cdmirandamyvillage,FIX,"""Ruling based on fear and hatred.""","""基于恐惧和仇恨""",“靠恐惧和仇恨统治。”
+english_events_pitstop:L6361,cdmirandamyvillage,POLISH,"There's quite a bit more, but these are at the top. Maybe I can use this data to run my village in a new way?","还有很多,但是这些在顶部。 也许我可以用这些数据 以新的方式运行我的村庄?",还有不少，不过这些排在最前。也许，我能用这些数据，换种方式治理村庄？
+english_events_pitstop:L6362,cdmirandamyvillage,POLISH,"I mean, it's nice that you're being more open to critiques.","我的意思是,这是很好的 你更开放 批评。",你愿意听取批评，是件好事。
+english_events_pitstop:L6363,cdmirandamyvillage,KEEP,Right? I'm the best!,对吧? 我最厉害了!,对吧? 我最厉害了!
+english_events_pitstop:L6364,cdmirandamyvillage,POLISH,"We could even brainstorm some fun new measures to enact, so for once, these peasants don't fear their ruler, but love them.","我们甚至可以集思广益地采取一些有趣的新措施,这样一来,这些农民就不会害怕他们的统治者,而是喜欢他们.",咱们甚至可以一起想些好玩的新政策，让这些农民难得不再害怕统治者，而是爱戴统治者。
+english_events_pitstop:L6365,cdmirandamyvillage,FIX,"Especially because their ruler is me, Miranda Vanderbilt, the most lovable of all rulers!","特别是因为他们的统治者是我 米兰达 范德比尔特,所有统治者中最可爱的!",尤其，他们的统治者可是我，米兰达·范德比尔特，所有统治者中最讨人喜欢的！
+english_events_pitstop:L6366,cdmirandamyvillage,KEEP,You make a good point.,你讲的有道理,你讲的有道理
+english_events_pitstop:L6367,cdmirandamyvillage,KEEP,Do you have any ideas?,你有什么想法吗?,你有什么想法吗?
+english_events_pitstop:L6368,cdmirandamyvillage,FIX,Film a TV comedy where Miranda must share an apartment with 3 other merpeople. She'll be seen as likeable and down-to-earth!,拍一部电视喜剧 米兰达 和另外三个人住一间公寓 她会被看做是可爱的 从地到地!,拍一部电视喜剧，让米兰达与另外三个人鱼合租。大家就会觉得，她亲切又接地气！
+english_events_pitstop:L6369,cdmirandamyvillage,KEEP,No more public executions! Executions will be held privately to respect people's privacy.,"别再公开处决了! 处决将私下举行,以尊重人们的隐私.","别再公开处决了! 处决将私下举行,以尊重人们的隐私."
+english_events_pitstop:L6370,cdmirandamyvillage,FIX,"A 20-foot statue of Miranda, but with a twist: the statue is made of cake! Free cake for the people!",一个20英尺高的雕像 米兰达但有一个曲折:雕像是用蛋糕做的! 免费的蛋糕给人民!,一座二十英尺高的米兰达雕像，不过有个特别之处：整座都用蛋糕做！让百姓免费吃蛋糕！
+english_events_pitstop:L6372,cdmirandamyvillage,FIX,Wow... a Vanderbilt presented as down-to-earth?,哗... 一个范德比尔特被呈现为地对地?,哇……把范德比尔特家的人，塑造成接地气的形象？
+english_events_pitstop:L6373,cdmirandamyvillage,KEEP,Do people really like that?,人们真的喜欢这样吗?,人们真的喜欢这样吗?
+english_events_pitstop:L6374,cdmirandamyvillage,FIX,"For the most part, yes.",大部分时间是的。,大多数人喜欢，没错。
+english_events_pitstop:L6375,cdmirandamyvillage,POLISH,"But you want your ruler to be perfect and powerful and clearly superior to you, %CURRENTPLAYERNAME%.",但你希望你的统治者 完美而强大 并且明显地比你优越 %CURRENTPLAYERNAME%.,可你总希望自己的统治者完美、强大，而且明显比自己优越，%CURRENTPLAYERNAME%。
+english_events_pitstop:L6376,cdmirandamyvillage,POLISH,"If you saw your ruler as basically the same as you, you might even think a revolution to take the rulers down is a feasible thing.","如果你看到你的统治者 基本上和你一样, 你甚至可能认为革命 推翻统治者是可行的事情。",要是觉得统治者也跟自己差不多，大家可能还会觉得，起来革命、推翻统治者，也不是做不到。
+english_events_pitstop:L6377,cdmirandamyvillage,POLISH,"Quick idea: if you rule your kingdom right, maybe the people won't focus that much on the possibility of bringing you to the guillotine.","快速的主意:如果你统治你的王国是正确的, 也许人们不会那么关注 把你带到断头台的可能性。",我有个想法：要是你把王国治理好了，也许大家就不会老想着把你送上断头台。
+english_events_pitstop:L6378,cdmirandamyvillage,POLISH,"Hmmm... it's an eccentric idea, but you might be onto something.","那个... 这是一个怪异的主意, 但你可能会发现一些东西。",嗯……想法有点古怪，不过，你也许有点道理。
+english_events_pitstop:L6379,cdmirandamyvillage,FIX,I've seen peasants having strange fixations with fictional characters.,我见过农民们用虚构的人物 做着奇怪的固定,我见过农民们莫名其妙地迷恋虚构人物。
+english_events_pitstop:L6380,cdmirandamyvillage,FIX,"We do that, yes.","我们这样做,是的。",是，我们会这样。
+english_events_pitstop:L6381,cdmirandamyvillage,FIX,"Marvelous. We could totally write this TV show in such a way that I seem likeable and relatable... but still aspirational, so the peasants will look up to me.","妙绝. 我们完全可以写这部电视剧 以这样的方式,我似乎喜欢 和令人反感... 但还是很渴望,所以农民们会仰望我。",太好了。剧里可以把我写得亲切又让人共鸣，同时也让人憧憬，好让农民们仰慕我。
+english_events_pitstop:L6382,cdmirandamyvillage,FIX,"We could even give you some cool superpowers. Your character could read minds, so that the people avoided having bad thoughts about you.","我们甚至可以给你一些很酷的超能力 你的性格可以读取心灵,这样人们就不会对你产生坏念头了.",甚至可以给你的角色加点酷炫超能力。比如读心术，这样大家就不敢在心里说你坏话了。
+english_events_pitstop:L6383,cdmirandamyvillage,KEEP,Brilliant!,厉害!,厉害!
+english_events_pitstop:L6384,cdmirandamyvillage,KEEP,...,...,...
+english_events_pitstop:L6385,cdmirandamyvillage,FIX,...Wait.,. . . 等会.,……等等。
+english_events_pitstop:L6386,cdmirandamyvillage,KEEP,Isn't this... propaganda?,这难道不是... 宣传?,这难道不是... 宣传?
+english_events_pitstop:L6387,cdmirandamyvillage,FIX,"No, it's a fun TV comedy! I was thinking of calling it ""Miranda: Out of Water"". Or ""All Hail Miranda"".","不,这是一部有趣的电视喜剧! 我当时正想叫它""米兰达:出自""水经"". 或""万能的万岁"" 米兰达"".",不是，是部好玩的电视喜剧！我想叫《米兰达上岸记》，或者《米兰达万岁》。
+english_events_pitstop:L6388,cdmirandamyvillage,FIX,"...Yes, this is totally propaganda.","是的,这是完全宣传。",……对，这绝对就是宣传。
+english_events_pitstop:L6389,cdmirandamyvillage,KEEP,"Now that I think of it, you might be right.","现在我想起来,你可能是对的。","现在我想起来,你可能是对的。"
+english_events_pitstop:L6390,cdmirandamyvillage,FIX,"I tend to be, %CURRENTPLAYERNAME%.","我倾向于, %CURRENTPLAYERNAME%.",我通常都是对的，%CURRENTPLAYERNAME%。
+english_events_pitstop:L6391,cdmirandamyvillage,POLISH,Except for when I thought of asking you for advice.,除了我想问你建议的时候,除了想找你出主意的时候。
+english_events_pitstop:L6392,cdmirandamyvillage,POLISH,You betrayed me AND broke my record of always being right. Shame on you!,你背叛了我 并打破了我的记录 永远是正确的。 真丢人!,你不光背叛我，还打破了我永远正确的纪录！真该为自己感到羞耻！
+english_events_pitstop:L6393,cdmirandamyvillage,FIX,"Miranda calls a chariot to take her back to the Merkingdom. Some days later, she will start filming a TV comedy that's basically propaganda to promote that you're dumb. Not cool.","米兰达 打电话叫战车带她回默金多姆 几天后,她将开始拍摄一部电视喜剧,这部电影基本上是宣传,宣传你是个哑巴. 一点也不酷。",米兰达叫来一辆战车，返回人鱼王国。几天后，她开始拍一部电视喜剧，基本就是用来宣传你有多蠢的。太不厚道了。
+english_events_pitstop:L6395,cdmirandamyvillage,KEEP,"I'm unsure, %CURRENTPLAYERNAME%.","我不确定,%CURRENTPLAYERNAME%。","我不确定,%CURRENTPLAYERNAME%。"
+english_events_pitstop:L6396,cdmirandamyvillage,POLISH,"My instinct tells me that the issue people have with public executions doesn't come from the ""public"" part of it.","我的直觉告诉我,人们与公开处决的问题并不来自其中的""公开""部分.",直觉告诉我，大家对公开处决不满，问题大概不在“公开”上。
+english_events_pitstop:L6397,cdmirandamyvillage,KEEP,"Well, privacy is an increasingly important matter for people these days!",隐私对现在的人来说越来越重要了!,隐私对现在的人来说越来越重要了!
+english_events_pitstop:L6398,cdmirandamyvillage,POLISH,Look at how much everyone hates when their online personal data is used by big corporations!,"看看他们网上的个人数据被大公司使用时,每个人都有多讨厌!",你看，大公司用大家的网上个人信息时，大家有多讨厌啊！
+english_events_pitstop:L6399,cdmirandamyvillage,FIX,Do they hate that more than the notion of being executed by the government?,他们是否更讨厌被政府处决的观念?,难道，比起被政府处决，他们更讨厌这个？
+english_events_pitstop:L6400,cdmirandamyvillage,KEEP,Maybe!,也许吧!,也许吧!
+english_events_pitstop:L6401,cdmirandamyvillage,POLISH,"I still have the strange feeling that this isn't great advice, but one of those infamous times when you embrace sheer absurdity and only make a situation worse.","我仍然有一种奇怪的感觉,这是不伟大的建议, 而是那些臭名昭著的时代之一, 当你拥抱了纯粹的荒谬, 只会使一个情况更糟糕。",我怎么觉得，这不是好建议，又是你那种出了名的胡闹：一门心思走荒谬路线，把事情弄得更糟。
+english_events_pitstop:L6402,cdmirandamyvillage,KEEP,I never do that!,我从来没有这样做!,我从来没有这样做!
+english_events_pitstop:L6403,cdmirandamyvillage,POLISH,We all know you do that -- quite often if you ask me.,"我们都知道你这样做 -- 如果你问我,经常这样做。",大家都知道你会这样。要我说，次数还不少。
+english_events_pitstop:L6404,cdmirandamyvillage,FIX,A barrage of flashbacks pass through your mind.,一连串闪回 穿过你的脑海。,一连串回忆闪过脑海。
+english_events_pitstop:L6405,cdmirandamyvillage,FIX,You trying to turn a griffin into a plate of pasta and failing miserably...,你试图把一个金丝雀变成一盘面条 和失败的不幸...,你试图把狮鹫变成一盘意面，结果惨败……
+english_events_pitstop:L6406,cdmirandamyvillage,FIX,You trying to flood the sky by throwing buckets of water into the air...,你想把一桶水扔到空中 淹满了天空...,你往空中泼了一桶桶水，试图淹没天空……
+english_events_pitstop:L6407,cdmirandamyvillage,FIX,You suggesting that Miranda should do private executions instead of public executions...,你说的 米兰达 应该私下处决 而不是公开处决...,你建议米兰达，把公开处决改成私下处决……
+english_events_pitstop:L6408,cdmirandamyvillage,FIX,"Wait, that one is happening right now.","等等,那个正在发生",等等，这段就在现在。
+english_events_pitstop:L6409,cdmirandamyvillage,POLISH,"No, yeah, this is definitely terrible advice. You were right.","不,是的,这是绝对可怕的建议。 你说得对。",不，对，这绝对是个烂主意。你说得对。
+english_events_pitstop:L6410,cdmirandamyvillage,FIX,"I tend to be, %CURRENTPLAYERNAME%.","我倾向于, %CURRENTPLAYERNAME%.",我通常都是对的，%CURRENTPLAYERNAME%。
+english_events_pitstop:L6411,cdmirandamyvillage,POLISH,Except for when I thought of asking you for advice.,除了我想问你建议的时候,除了想找你出主意的时候。
+english_events_pitstop:L6412,cdmirandamyvillage,POLISH,You betrayed me AND broke my record of always being right. Shame on you!,你背叛了我 并打破了我的记录 永远是正确的。 真丢人!,你不光背叛我，还打破了我永远正确的纪录！真该为自己感到羞耻！
+english_events_pitstop:L6413,cdmirandamyvillage,FIX,Miranda calls a chariot to be taken back to the Merkingdom. She mentions adding you to the list of people who must eventually meet the gallows.,米兰达 叫一辆战车被带回默金敦 她提到把你加入到最终必须遇到绞刑架的人名单中,米兰达叫来一辆战车，返回人鱼王国。她提到，打算把你加入迟早得上绞刑架的名单。
+english_events_pitstop:L6414,cdmirandamyvillage,POLISH,"She tells you not to worry: because you're friends, your execution can be private. Huzzah!","她告诉你不要担心:因为你们是朋友,所以你们的行刑可以是私下的. 万岁!",她还让你别担心：看在朋友的份上，处决你时，可以不公开。万岁！
+english_events_pitstop:L6416,cdmirandamyvillage,KEEP,"What a wonderful idea, %CURRENTPLAYERNAME%! It has many of my favorite things:","多么美妙的点子, %CURRENTPLAYERNAME%! 它有很多我最喜欢的东西:","多么美妙的点子, %CURRENTPLAYERNAME%! 它有很多我最喜欢的东西:"
+english_events_pitstop:L6417,cdmirandamyvillage,FIX,"Cake, which I've grown to like since I've started eating foods by myself...","蛋糕,我开始喜欢它了 自从我开始一个人吃东西...",蛋糕，自从开始亲自吃东西，我就越来越喜欢了……
+english_events_pitstop:L6418,cdmirandamyvillage,FIX,Disproportionate solutions involving giant things...,涉及巨型事物的不相称的解决方案...,还有，动不动就搬出巨大的东西，把阵仗搞得比问题还大……
+english_events_pitstop:L6419,cdmirandamyvillage,KEEP,And my favorite thing of all: me!,还有我最喜欢的东西: 我!,还有我最喜欢的东西: 我!
+english_events_pitstop:L6420,cdmirandamyvillage,KEEP,Of course!,当然了!,当然了!
+english_events_pitstop:L6421,cdmirandamyvillage,FIX,"Really, it's a magnificent idea. One of my first acts as ruler was to gift the peasants a forty-piece silverware set so we could have some common interests.","真的,这是一个伟大的想法。 我作为统治者的最初行为之一 就是给农民一件四十件银器械 这样我们就可以有共同的利益了",说真的，这主意太棒了。我刚开始统治时，就送过农民们一套四十件的银餐具，好让大家有点共同爱好。
+english_events_pitstop:L6422,cdmirandamyvillage,POLISH,"My advisors told me this seemed like a cruel joke, since the village was afflicted with famine.","我的顾问告诉我,这似乎是一个残酷的笑话, 因为村庄遭受了饥荒。",顾问们说，这简直像个残酷的玩笑，因为村里正在闹饥荒。
+english_events_pitstop:L6423,cdmirandamyvillage,POLISH,"Apparently famine and having forty pieces of silverware don't mesh well together, who would've thought?","显然,饥荒和四十块银器 并不好相处, 谁会想到呢?",原来，饥荒和四十件银餐具不太搭，谁能想到呢？
+english_events_pitstop:L6424,cdmirandamyvillage,POLISH,"An immense, delicious cake would be a great first step to combat this famine, wouldn't it?","一个巨大的,美味的蛋糕 将是对抗这场饥荒的伟大的第一步,不是吗?",用一块巨大的美味蛋糕，作为解决饥荒的第一步，肯定很棒，对吧？
+english_events_pitstop:L6425,cdmirandamyvillage,POLISH,"Providing food tends to be a good measure against famine, yes.","提供食物是对付饥荒的好办法,是的。",对，给人吃的，通常是个解决饥荒的好办法。
+english_events_pitstop:L6426,cdmirandamyvillage,KEEP,Huzzah!,万岁!,万岁!
+english_events_pitstop:L6427,cdmirandamyvillage,FIX,"Thanks a lot, %CURRENTPLAYERNAME%. How can I pay you back for such great advice?",谢谢 %CURRENTPLAYERNAME%. 这么好的建议我怎么还你钱?,太感谢了，%CURRENTPLAYERNAME%。这么好的建议，我该怎么报答你？
+english_events_pitstop:L6428,cdmirandamyvillage,POLISH,"No payment needed, Miranda. But... I wouldn't say no to a piece of that giant cake...","无需付款, 米兰达. 不过... 我不会拒绝那块大蛋糕的...",不用报答，米兰达。不过……要分我一块那个大蛋糕，我肯定不会拒绝……
+english_events_pitstop:L6429,cdmirandamyvillage,KEEP,Of course!,当然了!,当然了!
+english_events_pitstop:L6430,cdmirandamyvillage,FIX,"Although, you know you can always ask for a piece of the real Miranda-cake, don't you?","虽然,你知道 你总是可以要求 一块真正的 米兰达- 蛋糕,不是吗?",不过，想尝一块真正的“米兰达蛋糕”，随时都可以向我开口，你知道吧？
+english_events_pitstop:L6431,cdmirandamyvillage,KEEP,The... what?!,那个... 什麽?,那个... 什麽?
+english_events_pitstop:L6432,cdmirandamyvillage,KEEP,Huzzah!,万岁!,万岁!

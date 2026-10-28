@@ -17,7 +17,7 @@ namespace MonsterRoadtripChinese
     {
         public const string PluginGuid = "cn.monsterroadtrip.localization";
         public const string PluginName = "Monster Roadtrip Chinese Localization";
-        public const string PluginVersion = "0.3.2";
+        public const string PluginVersion = "0.3.3";
 
         internal static ManualLogSource Log;
         internal static string TranslationDirectory;
@@ -254,6 +254,23 @@ namespace MonsterRoadtripChinese
                 {
                     Log.LogWarning("Missing event translation; using the original game asset: " + aFilename);
                     return true;
+                }
+
+                string verbManifest;
+                if (TryReadTranslation("schinese_verb_overrides.tsv", out verbManifest))
+                {
+                    try
+                    {
+                        aOutputData = RuntimeVerbTranslations.Apply(aFilename, aOutputData, verbManifest);
+                    }
+                    catch (Exception exception)
+                    {
+                        Log.LogError("Chinese verb adaptation failed; keeping original translated table: " + exception);
+                    }
+                }
+                else
+                {
+                    Log.LogWarning("Missing schinese_verb_overrides.tsv; English verb tags will use game defaults");
                 }
 
                 __result = true;

@@ -1,0 +1,166 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_maingame:L3735,findsus,POLISH,Dress up as astronauts,打扮成宇航员,扮成宇航员
+english_events_maingame:L3739,findsus,FIX,You're checking out all the weird control rooms and laboratories when you and your friends find a closet full of colorful astronaut costumes.,你正在检查所有奇怪的控制室和实验室 当你和你的朋友 找到一个充满色彩的宇航员服装的衣橱。,你们逛着各种古怪的控制室和实验室，发现一个柜子，塞满五颜六色的宇航服。
+english_events_maingame:L3744,findsus,FIX,"OMG, these are adorable! Here, %CURRENTPLAYERNAME%, you wear the orange one. Do you think this banana peel accentuates my booty?","OMG,这些很可爱! 在这里, %CURRENTPLAYERNAME%你戴着橙色的 你觉得这个香蕉皮会让我的战利品更突出吗?",天哪，好可爱！%CURRENTPLAYERNAME%，你穿橙色这件。我这个香蕉皮，显屁股翘吗？
+english_events_maingame:L3745,findsus,FIX,"You're observing Polly's booty (respectfully) when an emergency siren goes off. ""CREWMATES, REPORT TO THE CONFERENCE ROOM!""","你在观察 波莉紧急警笛响起时的战利品 ""同志们,向会议室报告!""",你正礼貌地欣赏波莉的翘臀，警报忽然响起：“各位船员，到会议室报到！”
+english_events_maingame:L3746,findsus,POLISH,You all go to the conference room. You're surrounded by other astronauts.,你们都去会议室。 你被其他宇航员包围了,你们来到会议室，周围全是其他宇航员。
+english_events_maingame:L3748,findsus,POLISH,"Let's remember why we're here, everyone: we're simulating living together in a REAL space station!","让我们记住为什么我们在这里,大家:我们正在模拟一起生活在一个真正的空间站里!",各位，别忘了，我们在干什么：模拟在真正的空间站里，共同生活！
+english_events_maingame:L3749,findsus,POLISH,"That means we all have to do our tasks and work together... right, Yellow?","这意味着我们都必须完成任务,共同努力...... 对不对,黄?",所以，要完成任务，互相配合……对吧，小黄？
+english_events_maingame:L3750,findsus,POLISH,"Why are you singling me out?! I know, I slacked on cleaning out the oxygen tank. But I fixed it before we all fully suffocated!","你为什么挑我出来? 我知道,我懒得清理氧气罐。 但是,我修好它之前,我们都完全窒息!",干吗专门点我？！我知道，清氧气罐时，是偷懒了。可大家彻底窒息前，我不就修好了吗！
+english_events_maingame:L3751,findsus,FIX,"If anything, it's Cyan and Red who haven't been pulling their weight. I've never seen them do ANYTHING around here.","如果有的话,就是青和红还没有拉起它们的重量. 我从来没有见过他们 做任何事情在这里。",真要说，倒是小青和小红，没尽责任。我就没见他们，在这儿干过什么。
+english_events_maingame:L3752,findsus,POLISH,"Well I was, uh... unclogging the toilets? That's reasonable, right? Do you still poop in space?","我当时... 解开厕所? 这很合理,对吧? 你还在太空里拉屎吗?",呃，我在……通马桶？合理吧？太空里，也拉屎的吧？
+english_events_maingame:L3753,findsus,FIX,And I was doing... astronaut things. So many of them.,我当时在... 宇航员的东西。 如此多众.,我在做……宇航员的事。可多了。
+english_events_maingame:L3754,findsus,FIX,"Wait. I just did a head count, and there are definitely more people here than we had earlier. I think we have an impostor...","慢着 我只是做了一个头数, 这里肯定有更多的人 比我们早些时候。 我想我们有个冒牌货...",等等，数了数人头，这里的人，肯定比刚才多。我觉得，有冒牌货……
+english_events_maingame:L3755,findsus,KEEP,...,...,...
+english_events_maingame:L3756,findsus,FIX,...AMONG US.,...我们。,……在我们之中。
+english_events_maingame:L3757,findsus,FIX,(Yaaasss he said the thing!!!),(Yaaass他说的东西!),（好耶！他说出那个词了！！！）
+english_events_maingame:L3758,findsus,POLISH,"Ugh, does that mean we have to do the ""vote people out"" thing again? I hate when HQ sends us these drills.","呃,这是否意味着我们必须 做""投票人出去""的事情了? 我讨厌总部给我们发这些演习",呃，又要“投票踢人”了？最烦总部，派这种演习了。
+english_events_maingame:L3759,findsus,FIX,"I suspect... Orange. Yellow and Cyan both have alibis, and Red was obviously doing astronaut things. But Orange has been completely silent since %HESHE% got here.",我觉得... 橘子酱. 黄和青都有不在场证明 瑞德显然在做宇航员的事 但奥兰治从%HESHE%来到这里后就完全沉默了.,我怀疑……小橙。小黄、小青，都有不在场证明，小红明显在干宇航员的事。可从%HESHE%来了，小橙就一句话不说。
+english_events_maingame:L3760,findsus,FIX,"Yeah, fuck that Orange guy... wait, YOU'RE Orange!","是啊,他妈的橙色的家伙... ... 等等,你是奥兰治!",对啊，小橙算什么东西……等等，你就是小橙！
+english_events_maingame:L3761,findsus,POLISH,Convince everyone you're not the impostor!,让大家相信你不是冒牌货!,快让大家相信，你不是冒牌货！
+english_events_maingame:L3762,findsus,POLISH,"Convince them all by doing something so ""astronaut-like"" you couldn't possibly be the impostor.","让他们都相信 做一些""像宇航员""的事 你不可能是冒牌货",做件特别像“宇航员”的事，让所有人相信，你绝不可能是冒牌货。
+english_events_maingame:L3763,findsus,POLISH,Astronauts only listen to the stars. Convince them to check everyone's horoscope for clues to find the true impostor.,宇航员只听星星的声音 说服他们检查每个人的星座 寻找线索 找到真正的冒名顶替者,宇航员，只听星星的。说服他们，查查每个人的星座运势，找出真正的冒牌货。
+english_events_maingame:L3765,findsus,FIX,Yeah! Do something astronaut-like! Like... uh... shit. You actually don't know that much about the day-to-day lives of astronauts.,对! 做一些像宇航员的东西! 喜欢... 额... 妈的。 其实你对宇航员的日常生活并不了解多少.,对！做点宇航员会做的事！比如……呃……操。其实，宇航员平时干吗，你也不怎么懂。
+english_events_maingame:L3766,findsus,POLISH,"Astronauts... love space? Nah, too obvious.","宇航员... 爱的空间? 不,太明显了。",宇航员……喜欢太空？不，太明显。
+english_events_maingame:L3767,findsus,POLISH,"Astronauts... probably have strong opinions on which type of curry is the best? Closer, but not quite.","宇航员... 对哪一种咖喱最好有强烈的看法吗? 更近,但并不完全。",宇航员……大概对哪种咖喱最好吃，很有主见？有点靠近，还不够。
+english_events_maingame:L3768,findsus,FIX,"Astronauts... are fiercely competitive and ambitious, and therefore insecure about ""not making the cut?"" Yes, that could work!","宇航员... 竞争激烈,野心勃勃, 因而没有安全感 ""不做削减?"" 是的,这可以奏效!",宇航员……好胜、上进，所以很怕自己“不够格”？对，这招行！
+english_events_maingame:L3769,findsus,POLISH,"If I was an impostor, how would I know the Super-Secret Astronaut Handshake?",如果我是个冒牌货 我怎么会知道超级秘密宇航员握手?,要是冒牌货，怎么会“超级秘密宇航员握手式”？
+english_events_maingame:L3770,findsus,POLISH,The Super Secret... what? That's not real.,超级秘密... 什麽? 这不是真的,超级秘密……什么？根本没这回事。
+english_events_maingame:L3771,findsus,POLISH,"Of course it's real, dumb-dumb. Every astronaut's heard of the Super-Secret Astronaut Handshake!","当然是真的,哑巴。 每个宇航员都听说过超级秘密宇航员握手!",当然有，小笨蛋。哪个宇航员，不知道超级秘密宇航员握手式！
+english_events_maingame:L3772,findsus,POLISH,"Uh, yeah, right! The Super-Secret Astronaut Handshake. Obviously.","嗯,是的,对了! 超级秘密宇航员握手会. 很明显",呃，对，对！超级秘密宇航员握手式，当然了。
+english_events_maingame:L3773,findsus,POLISH,"I learned it at Yale, a place where I definitely went and got my degree in astronauting.","我在耶鲁学的, 这个地方我肯定去 并获得了我的宇航学位。",在耶鲁学的。我绝对在那儿上过学，还拿了个宇航学位。
+english_events_maingame:L3774,findsus,POLISH,What are you all talking about?! There is no such handshake!,你们在说什么? 没有这样的握手!,你们在说什么？！根本没这套握手！
+english_events_maingame:L3775,findsus,POLISH,"Bro, if you don't know the Super-Secret Astronaut Handshake, just be honest. I'll show you!","兄弟,如果你不知道 超级秘密宇航员握手, 老实说。 我会告诉你的!",兄弟，不会就直说，我教你！
+english_events_maingame:L3776,findsus,FIX,"Scott grabs your hands, and you two perform the convoluted handshake you've been perfecting for years. You pull it off so perfectly, you gain +N2 HYPE!","斯科特 抓起你的手, 和你们两个 表演曲折的握手 多年来你一直在完善。 你这么完美地完成了它, 你得到+N2 HYPE!",斯科特抓起你的手，跟你演示那套，多年不断完善、复杂得要命的握手。配合得完美无缺，你获得+N2热度！
+english_events_maingame:L3777,findsus,FIX,"Oh... well, I can obviously do that! You just clap, then shake hands, then do a twirl... or was it a fistbump... and now the splits -- OWWW! CRAMP! CRAMP!","哦... 好吧,我显然可以做到这一点! 你只是拍手,然后握手, 然后做一个旋转... 或者是拳头... 而现在的分裂,OWWW! 克莱姆! Cramp! 克莱姆! Cramp!",哦……我当然也会！先拍手，再握手，再转一圈……还是碰拳来着……然后劈叉——嗷！抽筋！抽筋！
+english_events_maingame:L3778,findsus,FIX,HE CAN'T DO THE HANDSHAKE! EJECT THE IMPOSTOR!,他不能做手摇! 选择监制!,他不会握手！把冒牌货扔出去！
+english_events_maingame:L3780,findsus,FIX,"You all throw Green out of the airlock. Sowing doubt and insecurity won the day! You lose -N2 SOUL for lying, though.","你们都把Green从气闸上扔出去 播下怀疑和不安全感 赢得了今天! 你输了N2 SOUL的谎言,虽然。",你们把小绿扔出了气闸。挑起猜忌和自我怀疑，大获全胜！不过，说谎让你损失了-N2灵魂。
+english_events_maingame:L3782,findsus,FIX,"Horoscopes? Seriously? You expect us, followers of science all, to listen to the ""+N2 MAGIC prophecies of the stars?"" That's such hippie crap.","星座仪? 真的吗? 你期望我们,所有科学的追随者, 听到""+N2 MAGIC预言的星星?"" 这就是嬉皮士的废话。",星座运势？认真的？我们都信科学，你还想让我们，听什么“星辰的+N2魔力预言”？嬉皮士鬼话。
+english_events_maingame:L3783,findsus,FIX,"Yellow's right. We'd much rather consult a rational method of determining the impostor, like magic crystals!","黄帝曰. 我们更愿意参考一个理性的方法 来决定冒牌货,就像魔法晶体一样!",小黄说得对。找冒牌货，我们更愿意，用点理性的方法，比如魔法水晶！
+english_events_maingame:L3784,findsus,POLISH,How is that any better than astrology?!,这怎么比占星学好呢?,那跟占星，有什么区别？！
+english_events_maingame:L3785,findsus,FIX,"Whatever, guess you'll play along. The astronauts spread out their crystals on the floor.","随便你,猜你会一起玩的 宇航员们在地上散发出水晶.",算了，陪他们演吧。宇航员们把水晶，铺在了地上。
+english_events_maingame:L3786,findsus,FIX,"HEY, SHINY ROCKS! WHO IS THE IMPOSTOR?!","嘿,SHINY ROCKS! 嘿,SHINY ROCKS! 嘿,SINY ROCKS! 谁是监听员?",喂，亮晶晶的石头！冒牌货是谁？！
+english_events_maingame:L3787,findsus,FIX,The crystals don't respond. Shocker.,水晶不相应. 吓一跳。,水晶没有回应。真意外。
+english_events_maingame:L3788,findsus,POLISH,Hmm... maybe these crystals are defective. Should we try the Ouija board to ask the local aliens for help?,垛... 也许这些晶体有缺陷。 我们该试试听话板 向当地外星人求救吗?,嗯……水晶是不是坏了？要不用通灵板，请本地外星人帮帮忙？
+english_events_maingame:L3789,findsus,POLISH,"But Ouija boards are for ghosts, not aliens!","但华丽板是给鬼的,不是外星人的!",可通灵板，不是找外星人的，是找鬼的！
+english_events_maingame:L3790,findsus,POLISH,"True, but it's possible that there will be ghosts OF ALIENS that we can contact! We gotta use all our options here.","是的,但有可能会有鬼 外星人,我们可以联系! 我们得用我们所有的选择",对，不过，也许有外星人的鬼魂，可以联系啊！能用的办法，全得试！
+english_events_maingame:L3791,findsus,FIX,"All right, everyone put your hands on the planchette. *Ahem...*","好吧,每个人都把手放在平板板上。 * 摆... *",好，大家把手，放在指示板上。*咳……*
+english_events_maingame:L3792,findsus,FIX,O Spirits of the Moon People! Is there an impostor among us?,"哦,月亮之魂的人们! 我们中间有冒牌货吗?",月球人的英灵啊！我们之中，有冒牌货吗？
+english_events_maingame:L3793,findsus,FIX,"The planchette's moving! It says... ""NO LOL."" That's odd.","木板在动了! 上面说... ""没有LOL"",这很奇怪。",指示板动了！说的是……“没有，哈哈。”奇怪。
+english_events_maingame:L3794,findsus,POLISH,"Well, guess we'd better believe it. A ghost would never lie! Not even if it would be really funny for them to do so!","好吧,猜我们最好相信这一点。 鬼不会说谎的! 即使他们这样做真的很有趣!",那只能信了。鬼可从不撒谎！就算撒个谎，能把自己乐坏了，也不会！
+english_events_maingame:L3795,findsus,POLISH,"But I was so sure... dang it. Sorry, everyone. I guess I was just excited to throw someone out of the airlock again and I saw what I wanted to see.","我当时很确定... 可恶 对不起,大家。 我想我只是兴奋地再次把某人从气闸里扔出,我看到了我想看到的.",可我明明那么确定……可恶。抱歉，各位。大概太想再把人扔出气闸，就看见自己想看见的东西了。
+english_events_maingame:L3796,findsus,POLISH,"It's okay, bro. Sometimes when I get too excited, I pee on the carpet. It's nothing to be ashamed of!","没事的,兄弟。 有时当我太兴奋的时候,我在地毯上撒尿. 没什么可羞愧的!",没事，兄弟！我有时太兴奋，还往地毯上尿呢，没什么好丢人的！
+english_events_maingame:L3797,findsus,FIX,"Hooray, you live to deceive people another day! You lose -N2 SOUL for it, though.","万岁,你活在欺骗别人的一天! 你输了N2SOUL,虽然。",好耶，活下来了，还能继续骗人！不过，你为此，损失了-N2灵魂。
+english_events_maingame:L3805,rocketprank,POLISH,Watch a rocket launch,看着火箭发射,看火箭发射
+english_events_maingame:L3808,rocketprank,FIX,"You sneak past security, open a bag of astronaut food, and settle in to watch the show.","你偷偷通过安全, 打开一袋宇航员的食物, 并定居在看节目。",你们绕过安保，打开一袋太空食品，坐好等着看戏。
+english_events_maingame:L3810,rocketprank,POLISH,This is so cool! I can't believe we're gonna watch a real rocket launch!,这太酷了! 我不敢相信我们会看到真正的火箭发射!,好酷！真没想到，能亲眼看火箭发射！
+english_events_maingame:L3811,rocketprank,FIX,"We sure are, Scotty! And you know what every rocket launch needs, right?",我们当然是 斯科特哟! 你知道每一次火箭发射都需要什么吗?,当然，小斯科特！知道每次火箭发射，都缺什么吧？
+english_events_maingame:L3812,rocketprank,KEEP,A rocket?,火箭吗?,火箭吗?
+english_events_maingame:L3813,rocketprank,FIX,No! A prank!,没有! 恶作剧!,不是！缺个恶作剧！
+english_events_maingame:L3814,rocketprank,POLISH,"A rocket launch is probably the worst time to play a prank, actually.","实际上,发射火箭可能是最糟糕的恶作剧时机。",其实，火箭发射，可能是最不适合恶作剧的时候。
+english_events_maingame:L3815,rocketprank,POLISH,"And that, %CURRENTPLAYERNAME%, is why you're still just a Prank Masterz intern.","而这个,%CURRENTPLAYERNAME%, 这就是为什么你仍然只是一个恶作剧大师实习生。",所以，%CURRENTPLAYERNAME%，你才一直只是恶作剧大师的实习生。
+english_events_maingame:L3816,rocketprank,FIX,"In order to be a true Master-with-a-Z, you gotta see the potential pranks in every scenario, even a rocket launch!","为了成为真正的大师,你必须看到每个场景中的潜在恶作剧,甚至火箭发射!",想当真正的“大师z”，就得在任何场面，找出恶作剧的机会，连火箭发射也不例外！
+english_events_maingame:L3817,rocketprank,POLISH,Right! And the perfect prank for a rocket launch is... is...,没错! 而火箭发射最完美的恶作剧是... 这是...,对！最适合火箭发射的恶作剧，就是……就是……
+english_events_maingame:L3818,rocketprank,FIX,"...something involving a whoopie cushion, maybe?",可能涉及一个华丽的衬垫?,……放屁坐垫之类的？
+english_events_maingame:L3819,rocketprank,FIX,Nah. The perfect prank would be to set up a cardboard cutout of the moon and launch the rocket there instead! The ol' switcheroo!,没有。 完美的恶作剧就是在月球上设置一个纸板并在那里发射火箭! 转接器!,不。搭个纸板月亮，让火箭改飞那里，才完美！经典掉包计！
+english_events_maingame:L3820,rocketprank,POLISH,Okay! Do we have enough cardboard to do that?,"好,我们走! 我们有足够的纸板来做吗?",好！纸板够吗？
+english_events_maingame:L3821,rocketprank,FIX,"No, sadly we used all of it to make that cardboard skyline of Detroit for our ""Liam thinks he's going to Detroit"" prank.","不,可悲的是,我们利用这一切 做了底特律的纸板天际线 为了我们 ""利亚姆 以为他会去底特律的恶作剧",可惜，不够。“李姆以为自己要去底特律”那个恶作剧，做纸板城市天际线，全用光了。
+english_events_maingame:L3822,rocketprank,POLISH,"Totally worth it, though.","完全值得,虽然。",不过，完全值得。
+english_events_maingame:L3823,rocketprank,KEEP,Then what do we do?,那我们怎么办?,那我们怎么办?
+english_events_maingame:L3824,rocketprank,POLISH,"Make our intern think of a prank, obviously. What should we do, %CURRENTPLAYERNAME%?","很明显,让我们的实习生想到一个恶作剧。 我们该怎么办? %CURRENTPLAYERNAME%?",当然，让实习生想。%CURRENTPLAYERNAME%，咱们干吗？
+english_events_maingame:L3825,rocketprank,POLISH,Replace the rocket's fuel with sugar! What a SWEET idea!,用糖来代替火箭的燃料! 真是个可爱的主意!,拿糖，换掉火箭燃料！这主意，真甜！
+english_events_maingame:L3826,rocketprank,FIX,Replace the oxygen with helium! Helium? More like HELL YEAH!,用氦取代氧气! 氦气吗? 更像是地狱耶!,拿氦气，换掉氧气！“氦”呀，好主意！
+english_events_maingame:L3827,rocketprank,FIX,Replace the astronauts with corgis! It's a cor-GENIUS plan!,把宇航员换成科吉斯! 这是一个COR -GENIUS计划!,拿柯基，换掉宇航员！真是个“柯”学天才！
+english_events_maingame:L3829,rocketprank,FIX,You siphon the rocket fuel while Scott empties your road trip sugar supply into the tank.,你吸了火箭燃料的时候 斯科特 将你的出行糖供应空入油箱,你抽出火箭燃料，斯科特把旅行备的糖，一股脑倒进燃料箱。
+english_events_maingame:L3830,rocketprank,FIX,"Sweet! Not only is putting sugar in their gas tank a hilarious slapstick prank, but we also got +N2 MAGIC for the car!","可爱! 不仅把糖放进他们的油罐里 是个搞笑的巴掌棍恶作剧, 而且我们还有+N2 MAGIC的车!",甜！往别人油箱倒糖，多么经典的闹剧恶作剧，还顺便给车，弄到+N2魔力！
+english_events_maingame:L3831,rocketprank,FIX,Woohoo! This calls for some celebratory PB&J sandwiches!,呜呼! 这需要一些庆祝性的PB&J三明治!,好耶！来点花生酱果酱三明治，庆祝一下！
+english_events_maingame:L3832,rocketprank,FIX,Oh... we don't have any sugar for the jelly.,哦... 我们没有糖吃果冻。,哦……做果酱，没糖了。
+english_events_maingame:L3833,rocketprank,POLISH,"Oh, bummer.","哦,讨厌的。",哦，真遗憾。
+english_events_maingame:L3834,rocketprank,POLISH,"Oh well, we can at least celebrate with a cup of coffee!",我们至少可以喝杯咖啡庆祝一下!,算了，至少能喝杯咖啡庆祝！
+english_events_maingame:L3835,rocketprank,POLISH,"Right! I'll make some. How many spoonfuls of sugar do you like in your coffee, Polly?","没错! 我会做一些。 多少勺糖 你喜欢在咖啡, 波莉?",对！我来泡。波莉，你加几勺糖？
+english_events_maingame:L3836,rocketprank,FIX,"Two, please!","两个,请!",两勺，谢谢！
+english_events_maingame:L3837,rocketprank,FIX,"Oh, bad news. It looks like we have... no spoons of sugar left.","哦,坏消息。 。 。 。 看来我们... 没有勺子糖了。",哦，坏消息。好像……一勺糖都不剩了。
+english_events_maingame:L3838,rocketprank,POLISH,"Wait, seriously? How much sugar did we put in the dumb rocket?","等等,真的吗? 我们在哑弹里放了多少糖?",等等，真没了？那破火箭，到底倒了多少糖？
+english_events_maingame:L3839,rocketprank,FIX,"Well, we had to fill the whole rocket tank, which took about... (two... four... carry the eleven...)","嗯,我们不得不填满 整个火箭箱, 它占用了... (两个... 四点... 带着十一号... )",要灌满整个燃料箱，大概用了……（二……四……进十一……）
+english_events_maingame:L3840,rocketprank,FIX,...a LOT of bags of sugar.,...一袋一袋的糖。,……特别多袋糖。
+english_events_maingame:L3841,rocketprank,POLISH,UGH! That sucks!,呜! 太烂了!,呃！太烦了！
+english_events_maingame:L3842,rocketprank,POLISH,You can't help but wonder why Polly even cares. She almost never eats food.,有件事你不知道为什么 波莉 甚至关心。 她几乎从来不吃食物。,你不禁纳闷，波莉为什么在乎。她几乎不吃东西啊。
+english_events_maingame:L3843,rocketprank,FIX,"No, but I eat drugs! Which sugar and caffeine both are! Now I'm gonna crash hardcore and be tired and cranky all day!","不,但我吃药! 糖和咖啡因都是这样! 现在,我要崩溃硬核 和疲惫和疯狂一整天!",不吃东西，可我嗑药！糖、咖啡因，都算！现在药劲过去，我得又累、又暴躁，一整天！
+english_events_maingame:L3844,rocketprank,FIX,Dang. This has been a great reminder to consume sugar responsibly... and maybe not put it in rocket engines. Just a thought. You lose -N2 STAMINA.,该死 这非常提醒人们 以负责任的方式食用糖... 可能不会放进火箭发动机里 只是一个想法。 你输了 - N2 Stamina.,唉，这事提醒你，糖，要吃得有分寸……也许，也别塞火箭引擎里。就这么个想法。你损失-N2体力。
+english_events_maingame:L3846,rocketprank,POLISH,"That sounds hilarious! Everyone'll laugh so hard, they won't be able to breathe!","听起来很搞笑! 每个人都会笑得这么厉害,他们不会呼吸!",好好笑！大家肯定笑得，上气不接下气！
+english_events_maingame:L3847,rocketprank,POLISH,"They're not gonna be able to breathe for lots of reasons -- but that's the astronauts' problem, not yours!","他们因为很多原因无法呼吸——但这是宇航员的问题,不是你的问题!",喘不上气的原因，可多了，不过，那是宇航员的事，不是你的。
+english_events_maingame:L3848,rocketprank,POLISH,"Besides, they probably trained for this, right? Astronaut training preps you for lots of emergencies; having all the oxygen replaced with helium is probably one of them.","此外,他们可能 训练了这一点,对不对? 宇航员在很多紧急情况下训练你; 将氧气全部换成氦气可能是其中之一。",再说，他们肯定练过吧？宇航训练，各种突发情况都教，氧气全换成氦气，大概也教过。
+english_events_maingame:L3849,rocketprank,FIX,"You, Polly, and Scott hook up the helium tank they packed (for ""prankmergencies"") to the rocket, then sneak into Mission Control to watch the show...","你,你是谁? 波莉,以及 斯科特 把装有氦气的油箱(用于""恶作剧"")接上火箭,再潜入""任务控制""观看节目. .",你、波莉和斯科特，把随身带的氦气罐，接到火箭上。这可是为“恶作剧紧急情况”准备的。接着，你们溜进任务控制室看戏……
+english_events_maingame:L3851,rocketprank,POLISH,"""Mission Control, this is Test Rocket 9. Do you copy?""","""任务控制,这是测试火箭9。"" 你收到吗?""",“控制中心，这里是九号测试火箭。收到吗？”
+english_events_maingame:L3852,rocketprank,POLISH,"""Test Rocket 9, this is Mission Control. Is there a problem with your communications equipment? Your voice sounds strange.""","""试火箭9号,这是任务控制中心"" 你的通讯设备有问题吗? 你的声音听起来很奇怪。""",“九号测试火箭，这里是控制中心。通讯设备出问题了吗？你声音，好奇怪。”
+english_events_maingame:L3853,rocketprank,POLISH,"""It seems like our equipment is fine. What's the problem?""","""似乎我们的设备是好的. 有什么问题吗?""",“设备好像没事，怎么了？”
+english_events_maingame:L3854,rocketprank,POLISH,"""Haha... sorry, your voice just sounds so funny and squeaky!""","""哈哈... 说""哈哈哈哈"" 对不起,你的声音只是听起来 好笑和尖叫!""",“哈哈……抱歉，你声音好好笑，又尖又细！”
+english_events_maingame:L3855,rocketprank,FIX,"""It sounds...? Oh, God, my voice DOES sound different. Is anyone else in here having trouble getting a breath?""","""听起来..."" 哦,上帝,我的声音听起来不同。 这里还有谁没有呼吸困难吗?""",“声音怎么……？天啊，还真变了。还有谁，感觉喘不上气吗？”
+english_events_maingame:L3856,rocketprank,FIX,"""Heehee... hahaha...!""","""喜曰:""师曰. 哈哈哈... !""",“嘿嘿……哈哈哈……！”
+english_events_maingame:L3857,rocketprank,FIX,"""MISSION CONTROL, STOP LAUGHING! THIS ISN'T FUNNY! WE'RE RUNNING OUT OF AIR!""","""控制系统,停止笑! 这不好玩! 我们飞出空中去!""",“控制中心，别笑了！不好笑！空气快没了！”
+english_events_maingame:L3858,rocketprank,POLISH,"""HAHAHAHA! Test Rocket 9, we can't take you seriously when you sound like an angry baby!""","""哈哈哈哈哈! ""哈哈哈哈哈哈哈! ""Hahahaha! 试一试""火箭9"",你听起来像个生气的婴儿,我们不能认真对待你!"".",“哈哈哈哈！九号测试火箭，你这声音，像个生气的小宝宝，真没法当真！”
+english_events_maingame:L3860,rocketprank,FIX,Classic!,经典!,经典！
+english_events_maingame:L3861,rocketprank,FIX,"You, Polly, and Scott high-five over your pranking genius. You lose -N2 SOUL for suffocating the astronauts, but gain +N2 HYPE!","你,你是谁? 波莉,以及 斯科特 击掌 击掌 击掌 击掌 你因为窒息宇航员而损失了N2 SOUL,但得到+N2 HYPE!",你、波莉和斯科特，为天才恶作剧，击掌庆祝。把宇航员憋死，让你损失-N2灵魂，不过，你获得了+N2热度！
+english_events_maingame:L3865,rocketprank,FIX,"Days later, the rocket touches down on an alien planet far away. The aliens watch as 200 corgis exit the rocket wearing four-legged astronaut suits!","数天后,火箭在遥远的外星星球上触地而下. 外星人看着200克吉斯出道 身穿四脚宇航服的火箭!",几天后，火箭降落在遥远的外星球。外星人看着，两百只柯基，穿着四条腿的宇航服，走了出来！
+english_events_maingame:L3866,rocketprank,POLISH,"""How do we address the alien situation?"" the planet's emperor asks at the next advisor meeting. ""Have the invaders explained why they're here?""","""我们如何应对外星局势?""星球上皇帝在下届顾问会议上问道. ""入侵者解释为什么他们在这里?""",下一次顾问会议上，星球的皇帝问：“外星人的事，怎么处理？入侵者说明来意了吗？”
+english_events_maingame:L3867,rocketprank,POLISH,"""They're here to declare WAR!"" says one advisor. ""We must slaughter the furry bastards!""","""他们是来宣布战争的"" 一位顾问说 ""我们必须屠杀那些毛茸茸的混蛋!""",“宣战来的！”一位顾问说，“得杀光，那群毛茸茸的混蛋！”
+english_events_maingame:L3868,rocketprank,POLISH,"""They keep chewing up furniture, digging up our buried dead, and urinating everywhere to claim all our territory! Act soon, Emperor, or we'll become their slaves!""","""他们不断咀嚼家具,挖出被埋了的活尸,并到处撒尿来夺取我们所有的地盘! 快行动,皇上,否则我们将成为他们的奴隶!""",“他们咬家具，挖我们的死者，到处撒尿，霸占领土！陛下，再不动手，我们就成奴隶了！”
+english_events_maingame:L3869,rocketprank,POLISH,"""That's not a war declaration!"" says another advisor. ""Those are just cultural norms on the aliens' home planet!""","""这不是宣战!"" 另一位顾问说. ""这些只是外星人家园星球上的文化规范!""",“不是宣战！”另一位顾问说，“那只是，他们母星的文化习俗！”
+english_events_maingame:L3870,rocketprank,POLISH,"""These invaders know only love, friendship, and head pats. They're here to usher us into an era of peace!""","""这些入侵者只知道爱,友谊,和头拍. 他们来迎接我们进入一个和平的时代"".",“这些入侵者，只懂爱、友谊，还有摸头。他们要带我们，进入和平时代！”
+english_events_maingame:L3871,rocketprank,POLISH,"""Well, give them whatever they want!"" says the emperor. ""I've fallen in love with their cute faces and little legs. If only we knew their demands!""","皇帝说:""好吧,给他们任何他们想要的东西!"" ""我爱上了他们可爱的相貌和小腿. 如果我们知道他们的要求就好了!""",“那就要什么，给什么！”皇帝说，“那可爱的小脸、小短腿，太让我着迷了。要是能知道，他们想要什么就好了！”
+english_events_maingame:L3872,rocketprank,FIX,"Just then, the meeting doors open. It's Fluffbutt, the invaders' ambassador! Cue a chorus of ""awws"" from the aliens.","刚刚,会议门打开了。 是弗夫布特,入侵者的大使! 从外星人那里调出一首""Awws""的合唱.",门开了。是入侵者的大使，绒屁屁！外星人们，齐刷刷“哎呀”一声。
+english_events_maingame:L3873,rocketprank,FIX,Fluffbutt jumps in the emperor's lap and lets him pet his belly. The emperor notices the note tied around his neck and reads it.,"花花鸟从皇帝的腿上跳出,让他去宠他的肚子. 皇帝注意到被绑在脖子上的纸条并读取了.",绒屁屁跳上皇帝腿上，让他摸肚子。皇帝发现，它脖子上绑着张纸条，读了起来。
+english_events_maingame:L3874,rocketprank,FIX,"It says, ""Dear aliens, You're welcome for the dogs! Please wire a million alien dollars to our shared prank fund in thanks.""","上面写道:""亲爱的外星人,不欢迎你养狗! 请汇出一百万的外星元 到我们共享的恶作剧基金,感谢""。",“亲爱的外星人，送你们狗，不用谢！请汇一百万外星元，到我们的共享恶作剧基金，聊表谢意。”
+english_events_maingame:L3875,rocketprank,FIX,"""We also accept tips in super juicy alien secrets. We won't tell anyone, promise! XOXO, the Prank Masterz (with a Z!)""","""我们还接受超多汁外星秘密中的小费. 我们不会告诉任何人,保证! XOXO,""恶作剧大师""(有Z!)"".",“小费，也收超劲爆外星机密。保证不告诉别人！亲亲抱抱，恶作剧大师——带 Z 的那种！”
+english_events_maingame:L3878,rocketprank,POLISH,"Polly, listen! I just got a call from the bank saying someone deposited ""one million Glorpals"" into our prank account, which is worth +N2 MONEY!","波莉听着! 我刚接到银行的电话 说有人把""一百万格洛帕尔""存入我们的恶作剧账户 价值+N2 MONEY!",波莉，听！银行刚来电话，说有人给恶作剧账户，存了一百万格洛帕尔币，值+N2金钱！
+english_events_maingame:L3879,rocketprank,FIX,"NOICE! I just got a highly-classified alien telegram! It says, ""Vacate this planet before the year ends if you want to live.""","小声点! 我刚收到一封高度机密的外星人电报! 上面写着:""如果你想活命的话,在一年结束之前就把这个星球消灭"".",漂亮！我刚收到外星绝密电报，写着：“想活命，年底之前，离开这颗星球。”
+english_events_maingame:L3880,rocketprank,FIX,"Haha, wacky! You lose -N6 SOUL, but gain +N2 HYPE from your successful prank. And that alien tip will prove useful sooner than you think, so you gain +N2 MIND!","哈哈,疯子! 你输了 -N6 SOUL,但从你成功的恶作剧中获得+N2 HYPE. 那外星小费会比你想象的更快, 所以你得到+N2 MIND!",哈哈，真怪！你损失-N6灵魂，不过，恶作剧成功，让你获得+N2热度。那条外星小费，还会比想象中更快派上用场，所以你又获得+N2头脑！
+english_events_maingame:L3888,spacecallcenter,FIX,Go into the communications room,走进通讯室,进入通讯室
+english_events_maingame:L3891,spacecallcenter,FIX,You guys sneak into the communications room -- and immediately bump into an important-looking woman with a big frown.,"你们偷偷进入通讯室, 立刻碰到一个长着大皱眉的重要女人。",你们溜进通讯室，迎面撞上一个，满脸不悦、看着级别很高的女人。
+english_events_maingame:L3892,spacecallcenter,FIX,"""AHEM! Are you supposed to be here?!""","""AHEM! (掌声) ""AHEM! 你应该在这里吗?""",“咳！谁准你们来这儿的？！”
+english_events_maingame:L3894,spacecallcenter,FIX,Uh... yes?,额... 是吗?,呃……准了吧？
+english_events_maingame:L3895,spacecallcenter,POLISH,"""Well... fine. The Feds slashed our security budget, so I guess I have to believe you. I'm General Kerran.""","""这个嘛... 还好。 联邦调查局削减了我们的安全预算 所以我想我必须相信你 我是克兰将军""",“行吧。联邦砍了安保预算，看来，只能信你们了。我是凯兰将军。”
+english_events_maingame:L3896,spacecallcenter,FIX,"Hi! We're interns of... whatever is happening in this room. It's our first day, so we need you to explain everything that's going on in here like we're five.","顿! 我们是实习生... 这间屋子里发生的一切 今天是我们的第一天,所以我们需要你 解释这里的一切,就像我们五岁一样。",嗨！我们是实习生，负责……这屋里，正在干的那些事。第一天来，请当我们五岁，把一切从头讲讲。
+english_events_maingame:L3897,spacecallcenter,POLISH,"""Ugh, seriously? It's my lunch break. Just watch this training video and don't break anything while I'm away.""","""哦,真的吗? 这是我的午餐时间。 看着这段训练录影带,不要在我离开时弄坏任何东西"".",“认真的？我午休呢。看这培训录像，别在我不在时，弄坏东西。”
+english_events_maingame:L3898,spacecallcenter,FIX,"She leaves you all with a VHS tape explaining how to respond to distress calls from astronauts. It's boring as fuck, and you all soon nod off, until...","她给大家留了一张VHS磁带 解释如何应对宇航员的求救电话 太无聊了,你们都快点头了,直到...",她留下一盘 VHS 录像带，教你们怎么处理，宇航员的求救来电。无聊得要命，你们很快打起盹，直到……
+english_events_maingame:L3899,spacecallcenter,POLISH,"Guys, wake up! The emergency phone is ringing! Good thing we watched twenty minutes of a two-hour long training video about this!","伙计们,醒醒! 紧急电话响了! 幸好我们看了20分钟的 长达两小时的训练录像!",各位，醒醒！紧急电话响了！还好，两小时培训片，我们看了二十分钟！
+english_events_maingame:L3900,spacecallcenter,FIX,"You've reached Mission Control -- you fly the rockets, we line our pockets! How may I assist you?","你们已经到达指挥中心了 你们发射火箭,我们排出我们的口袋! 有何贵干?",这里是控制中心，你们开火箭，我们装满钱袋！有什么能效劳？
+english_events_maingame:L3901,spacecallcenter,POLISH,"""Help! Something's wrong with the oxygen tanks! If we don't find a way to fix the air pressure, we're gonna suffocate!""","""救命啊! ""Help! 氧气罐出问题了! 如果我们找不到办法来修复气压,我们就会窒息!"".",“救命！氧气罐出问题了！不修好气压，我们会窒息！”
+english_events_maingame:L3902,spacecallcenter,POLISH,"Sheesh, sounds important! I should probably patch you through to the General for that.","嘿,听起来很重要! 我可能应该帮你接通将军的电话",哇，听着挺要紧。这得给你转接将军。
+english_events_maingame:L3903,spacecallcenter,POLISH,"Wait, don't patch them through! This must be a test to make sure we watched that video. We should solve this problem ourselves!","等等,别接通他们! 这一定是个测试 以确保我们看那段视频。 我们应该自己解决这个问题!",别转！肯定是测试，看看我们有没有看录像。自己解决！
+english_events_maingame:L3904,spacecallcenter,POLISH,But... are you sure we're smart enough to fix a rocket?,不过... 你确定我们够聪明去修理火箭吗?,可……咱们真有那脑子，修火箭吗？
+english_events_maingame:L3905,spacecallcenter,FIX,"Half of intelligence is just winging it, Scott -- and now's the perfect time to try!",半个情报在操纵它 斯科特 - 现在是时候试了!,斯科特，聪明有一半，靠临场瞎编。正好试试！
+english_events_maingame:L3906,spacecallcenter,POLISH,"Okay, guess that means you need to help this suffocating astronaut. What do you suggest?","好吧,你猜这意味着你需要帮助 这个窒息的宇航员。 你有什么建议?",好吧，看来这位快窒息的宇航员，得你来帮。你有什么建议？
+english_events_maingame:L3907,spacecallcenter,FIX,Call center rules dictate that trying to sell services the client isn't interested in trumps actually solving the very problem they called about!,呼叫中心的规则规定 试图出售服务 客户不感兴趣 胜过实际解决 他们打电话的问题!,客服规矩：客户不想要的服务，硬推销，也比解决他打电话求助的问题，更重要！
+english_events_maingame:L3908,spacecallcenter,POLISH,Keep your cool; fixing a spaceship probably isn't much different than fixing a toaster.,"保持冷静,修理飞船可能与修理烤面包机没什么区别。",别慌，修飞船，大概跟修烤面包机，没什么区别。
+english_events_maingame:L3910,spacecallcenter,FIX,THAT'S PERFECT!,这是完美的!,完美！
+english_events_maingame:L3911,spacecallcenter,FIX,"We're sorry to hear about your problem, Mr. Astronaut. Maybe you should upgrade your oxygen tanks?","我们很遗憾听到你的问题,先生。 宇航员. 也许你应该升级你的氧气罐?",宇航员先生，听说出了这事，真遗憾。要不，升级一下氧气罐？
+english_events_maingame:L3912,spacecallcenter,POLISH,"""We can't very well do that while we're in space!""","""我们在太空的时候不能这么干!""",“人在太空，怎么升级？！”
+english_events_maingame:L3913,spacecallcenter,FIX,"Sure you can! With NASA's all-new partnership with Amazong, we now offer SPACE-RACE FAST SHIPPING!","当然可以! 有了NASA与亚马逊的全新合作关系,我们现在提供太空-RACE FAST飞船!",当然可以！NASA 全新联名亚马宗（Amazong），现在推出：太空竞速快递！
+english_events_maingame:L3914,spacecallcenter,FIX,You could have your new oxygen tanks in just two business lightyears!,你可以有你的新氧气罐 仅仅两个商业光年!,只要两个工作光年，新氧气罐，就能送到！
+english_events_maingame:L3915,spacecallcenter,FIX,"""THAT DOESN'T HELP ME NOW!""","""现在这帮不了我!""",“现在根本帮不上忙！”
+english_events_maingame:L3916,spacecallcenter,FIX,"While you're at it, you should buy some Scott Snacks Astronaut Food!","趁你还在的时候,你应该买些 斯科特 吃东西的太空人食品!",顺便，再买点斯科特零食太空餐吧！
+english_events_maingame:L3917,spacecallcenter,FIX,"It comes in four flavors: ""Boisenberry"", ""Hot Habanero"", ""Wet Dog"", and ""Untitled Flavor #11"".","它有四种口味:""Bouisenberry"",""Hot Habanero"",""湿狗""和""无标题的Flavor #11"".",四种口味：“乖崽莓”“火辣哈瓦那辣椒”“湿狗”，还有“未命名11号口味”。
+english_events_maingame:L3918,spacecallcenter,FIX,"""OH GOD. THE OXYGEN'S DEPLETED. WE'RE ALL DOOMED.""","""哦,上帝啊。"" ""OH God. 氧气已经熄灭。 我们全都完了。""",“天啊。氧气耗尽了。我们全完了。”
+english_events_maingame:L3919,spacecallcenter,POLISH,"Well, before you go, you should know that Scott Snacks Astronaut Food qualifies for space-race fast shipping! Can I put you down for a couple bags?","好吧,你走之前,你应该知道 斯科特 Snacks 宇航员食品 有资格进行太空快船运输! 我能把你放下来拿几袋吗?",您走之前，还得告诉您，斯科特零食太空餐，也支持太空竞速快递！来几袋，给您记上？
+english_events_maingame:L3920,spacecallcenter,FIX,Silence.,寂灭相.,沉默。
+english_events_maingame:L3921,spacecallcenter,FIX,"If you listen closely, you can hear faint choking sounds in the background.","如果你仔细听,你可以听到 微弱的窒息声在背景。",仔细听，背景里，还有微弱的窒息声。
+english_events_maingame:L3922,spacecallcenter,FIX,"Hello? I didn't quite catch your credit card number, sir.",有人吗? 我不太明白你的信用卡号码 先生,喂？先生，信用卡号码，没听清。
+english_events_maingame:L3923,spacecallcenter,FIX,The line goes dead.,线断了.,通话断了。
+english_events_maingame:L3924,spacecallcenter,POLISH,"Aww, he didn't buy anything... was our pitch bad? Did I do a bad job, Polly?","哦,他没有买任何东西... 我们的球投得不好吗? 我做坏事了吗? 波莉?",哎，什么也没买……推销词不好？波莉，我做得不好吗？
+english_events_maingame:L3925,spacecallcenter,POLISH,"Nah, sometimes you just gotta find the right customer -- and the person calling us now might be that person! Let's try again!","不,有时你只需要找到合适的顾客 -- 而现在打我们电话的人可能就是那个人! 再来一次!",没有，有时，只是得找对顾客。现在来电话的，也许就是！再试试！
+english_events_maingame:L3926,spacecallcenter,FIX,"You spend the day being very unhelpful to desperate astronauts and losing -N2 SOUL. But amazingly, some of them DO buy Scott Snacks Astronaut Food, and you earn +N2 MONEY!","你整天对绝望的宇航员无济于事 失去N2 SOUL 但令人惊奇的是,他们中的一些人 购买 斯科特 小吃""宇航员""食品,你赚了+N2钱!.",一整天，你们对求救的宇航员，毫无帮助，损失-N2灵魂。可神奇的是，真有几个买了斯科特零食太空餐，让你赚到+N2金钱！
+english_events_maingame:L3928,spacecallcenter,FIX,"Okay, let's see here... have you tried turning the rocket off and back on again, sir?","好吧,让我们来看看... 你试过把火箭关了又关了吗,先生?",好，看看……先生，试过把火箭关掉，再打开吗？
+english_events_maingame:L3929,spacecallcenter,POLISH,"""If I were to 'turn the rocket off', I'd be floating aimlessly in deep space toward certain death.""","""如果我‘把火箭关掉', 我会无目的地地漂入深空去走向某种死亡""",“‘把火箭关掉’，我们就会在深空里，无目的漂流，等死。”
+english_events_maingame:L3930,spacecallcenter,FIX,"True, but at least you'd have different problems for a change.","是的,但至少你会有不同的问题 改变。",是啊，至少，换点新问题嘛。
+english_events_maingame:L3931,spacecallcenter,POLISH,"One time I dropped my phone in a lake, but it was fine after I put it in rice! The same rules probably apply here. Is there rice in space?",有一次我把手机丢进湖里了 但放入米饭后还不错! 同样的规则可能在这里适用。 太空里有米吗?,有回，手机掉湖里，埋米里就好了！大概同样道理。太空里，有米吗？
+english_events_maingame:L3932,spacecallcenter,POLISH,"""...I'm going to die here, aren't I?""","""... ...我会死在这里,不是吗?""",“……我会死在这儿，是不是？”
+english_events_maingame:L3933,spacecallcenter,FIX,Maybe with THAT attitude.,也许有这种态度。,这心态，说不定真会。
+english_events_maingame:L3934,spacecallcenter,FIX,"Dang, bro, I'm stumped. Did you try calling tech support?","妈的,兄弟,我被绊倒了 你试过调用技术支援吗?",呃，兄弟，我没招了。打过技术支持电话吗？
+english_events_maingame:L3935,spacecallcenter,FIX,"""YOU'RE SUPPOSED TO BE TECH SUPPORT!""","""你应该成为教师支持!""",“你们不就是技术支持吗？！”
+english_events_maingame:L3936,spacecallcenter,POLISH,"Oh yeah, LOL. Guess you're fucked then.","哦,对了,LOL。 看来你完蛋了",哦对，哈哈。那你完了。
+english_events_maingame:L3937,spacecallcenter,FIX,"You then realize that you're about to cause the deaths of a lot of astronauts, in a government building you snuck into, and that your parole officer might call that a ""bad look.""","然后,你意识到你将要造成很多宇航员的死亡, 在一个你潜入的政府大楼里, 你的假释官可能称之为""糟糕的外观"".",这时，你意识到：潜入政府大楼，还害死一堆宇航员，假释监督官，可能会觉得，你“表现不好”。
+english_events_maingame:L3938,spacecallcenter,POLISH,Uh... can you please hold? I'll patch you through to the... better tech support.,额... 你能等等吗? 我会帮你接通... 更好的技术支持。,呃……能稍等吗？给您转接……更好的技术支持。
+english_events_maingame:L3939,spacecallcenter,POLISH,"You quickly search ""broken rocket hotline"" online and patch them through to the first number you see.","你迅速在网上搜索""被破坏的火箭热线"",并把它们接通第一个你看到的号码.",你赶紧上网搜“火箭故障热线”，看到第一个号码，就给他转了过去。
+english_events_maingame:L3940,spacecallcenter,POLISH,"Aww, that's all it took? I was hoping we'd get to wear astronaut suits and fly out there to do an on-site repair at least...","哦,这就是它需要的吗? 我希望我们能穿宇航员西装 飞出那里去进行现场修理 至少...",哎，这就完了？还以为，至少能穿宇航服，飞过去，来次现场维修……
+english_events_maingame:L3941,spacecallcenter,FIX,You lose -N2 HYPE for completing the repair in a lackluster way. But you gain +N2 MIND from learning how to fix a rocket ship: call the REAL tech support!,你输了N2 HYPE 以低调的方式完成修复 但你从学习如何修理火箭飞船获得+N2 MID:拨打真正的技术支持!.,修得太没劲，你损失-N2热度。不过，修火箭的办法，算是学会了：找真正的技术支持！你获得+N2头脑。

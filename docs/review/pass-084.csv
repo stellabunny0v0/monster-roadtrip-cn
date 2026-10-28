@@ -1,0 +1,98 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_endings:L330,ending_failure_blue_1,FIX,"You got to %DESTINATION%, hooray!",你必须 %DESTINATION%万岁!,你到%DESTINATION%了，好耶！
+english_events_endings:L331,ending_failure_blue_1,FIX,Or... not hooray?,或者说... 不是万岁吗?,或者……也没什么好耶的？
+english_events_endings:L333,ending_failure_blue_1,FIX,All that junk food that became your whole road trip diet may have taken a toll on you.,成为你整个路途饮食的垃圾食品 可能会给你带来损失,这一路，顿顿都是垃圾食品，你的身体可能终于吃不消了。
+english_events_endings:L334,ending_failure_blue_1,FIX,"And so, you spend most of your time on the toilet, pooping big time.","所以,你大部分时间都花在厕所上,大便。",于是，大部分时间，你都蹲在厕所里，拉个没完。
+english_events_endings:L335,ending_failure_blue_1,FIX,"Ugh... yeah, definitely not hooray.","唉哟... 是啊,绝对不是万岁。",呃……对，确实没什么好耶的。
+english_events_endings:L342,ending_failure_blue_2,FIX,You've been very excited to reach %DESTINATION%.,你一直非常兴奋 到达 %DESTINATION%.,能到%DESTINATION%，你一直兴奋得不行。
+english_events_endings:L343,ending_failure_blue_2,FIX,"In fact, you've been SO excited that your stomach has taken a hit from all that stress and anticipation.","事实上,你一直很兴奋 你的胃从压力和预期中 得到了一击。",事实上，你太兴奋了，压力和期待一起涌上来，把肠胃折腾得够呛。
+english_events_endings:L345,ending_failure_blue_2,FIX,This translates into you spending most of your time hitting the toilets.,这说明你大部分时间都在上厕所,结果就是，你大部分时间，都用来跑厕所了。
+english_events_endings:L346,ending_failure_blue_2,KEEP,You miss practically all the fun.,你错过了几乎所有的乐趣。,你错过了几乎所有的乐趣。
+english_events_endings:L347,ending_failure_blue_2,POLISH,Your friends promise they will come to the toilets from time to time to chronicle all the cool things they're doing.,"你的朋友保证,他们会不时地到厕所来,记录他们所做的一切酷事.",朋友们保证，会时不时到厕所找你，给你讲讲大家都玩了什么好玩的。
+english_events_endings:L348,ending_failure_blue_2,POLISH,"That in itself is a bit depressing... but nobody comes, anyway.","这本身就有点压抑... 但不管怎么说,没有人会来",光是听起来，就已经有点悲惨了……不过，反正最后也没人来。
+english_events_endings:L349,ending_failure_blue_2,KEEP,Shit...,妈的...,妈的...
+english_events_endings:L356,ending_failure_blue_3,KEEP,"Ah, finally, you've reached %DESTINATION%.","啊,终于,你到了 %DESTINATION%.","啊,终于,你到了 %DESTINATION%."
+english_events_endings:L357,ending_failure_blue_3,FIX,The journey has been long. You think about all the milkshakes you've shared together; all the delicious cheese you've eaten; all the...,旅程很长。 想想你一起分享的所有奶昔 吃过的所有美味奶酪 所有...,这一路真够长的。你想起一起喝过的奶昔，吃过的各种美味奶酪，还有那些……
+english_events_endings:L358,ending_failure_blue_3,FIX,...Wait. You're lactose intolerant.,. . . 等会. 你是乳糖不耐药。,……等等。你乳糖不耐受。
+english_events_endings:L360,ending_failure_blue_3,KEEP,Fuck.,他妈的。,他妈的。
+english_events_endings:L361,ending_failure_blue_3,POLISH,"You tend to not care much about it, since cheese is delicious.","你总是不关心它, 因为起司是美味的。",你平时不太把这当回事，毕竟奶酪实在好吃。
+english_events_endings:L362,ending_failure_blue_3,FIX,But today... today being lactose intolerant also means being fun intolerant.,不过今天... But today... 今天是乳糖不耐也意味着是乐趣不耐也.,可今天……今天不光乳糖，你连快乐都“不耐受”了。
+english_events_endings:L363,ending_failure_blue_3,POLISH,What I mean to say is that you spend the next few days basically living on the toilet.,我的意思是说 你接下来的几天 基本上住在厕所里,我的意思是，接下来几天，你基本就住在厕所里了。
+english_events_endings:L364,ending_failure_blue_3,FIX,Tough luck!,倒霉的运气!,真倒霉！
+english_events_endings:L371,ending_failure_green_1,FIX,Getting to %DESTINATION% brings everyone so much joy!,开始 %DESTINATION% 给大家带来这么多的欢乐!,能到%DESTINATION%，大家都开心得不得了！
+english_events_endings:L372,ending_failure_green_1,KEEP,"Everyone but you, that is.","除了你,其他人都是这样","除了你,其他人都是这样"
+english_events_endings:L373,ending_failure_green_1,FIX,"You see, a couple days before you arrived, you called Polly ""Pauline"".","你看,你到达前几天, 你打电话 波莉 ""宝莲"".",事情是这样的：到达前几天，你管波莉叫了声“波琳”。
+english_events_endings:L374,ending_failure_green_1,FIX,"You totally thought Polly was short for ""Pauline"", but it turns out it's short for ""Polina"".","你完全认为 波莉 原为""Pauline""的简称,但后来发现""Polina""的简称.",你一直以为，“波莉”是“波琳”的简称，结果才知道，人家全名叫“波莉娜”。
+english_events_endings:L375,ending_failure_green_1,FIX,"She brushed it off, but it clearly created an extremely awkward vibe.","她把它刷了下来,但它显然创造了一种极其尴尬的氛围。",她嘴上说没事，可气氛明显尴尬到了极点。
+english_events_endings:L377,ending_failure_green_1,FIX,Not knowing the full name of one of the friends with whom you've been on a weeks-long road trip with is a big-ass yikes.,不知道一个朋友的全名 你和他一起旅行了几周 是个大混蛋,一起跑了好几周的公路旅行，居然连朋友的全名都不知道，真是尴尬得要命。
+english_events_endings:L378,ending_failure_green_1,POLISH,"You spend the whole time feeling equal parts idiot and asshole, and each time you and Polly make awkward eye contact, you want to hide underground.","你整天觉得自己是白痴和混蛋 每次你和 波莉 做尴尬的眼神接触, 你想隐藏在地下。",你全程觉得自己又蠢又混蛋。每次和波莉尴尬地对上眼，都恨不得钻进地里。
+english_events_endings:L379,ending_failure_green_1,POLISH,"Which is what you feel from that day on, as you never recover from this dumb mistake.",你从那天起就感觉到了 因为你永远无法从这个愚蠢的错误中恢复过来,而从那天起，你就一直这么难受，再也没能从这个愚蠢的错误里缓过来。
+english_events_endings:L380,ending_failure_green_1,FIX,*sad trombone noise*,*沙尘暴噪音*,*失落的长号声*
+english_events_endings:L387,ending_failure_green_2,FIX,"Before getting to %DESTINATION%, you make a quick stop.",在到达之前 %DESTINATION%你快停下来,到%DESTINATION%之前，你们短暂停了一次车。
+english_events_endings:L388,ending_failure_green_2,FIX,There's this clause in the Roadtrip Contract that establishes a Lame Loser must be chosen democratically by the group.,"在""路途旅行合同""中,有一条条款规定一个Lame Loser必须被团体民主地选择.",《公路旅行合同》里有一条：全队必须民主投票，选出一个“逊咖”。
+english_events_endings:L389,ending_failure_green_2,FIX,This is very necessary because of... reasons.,这是非常必要的 因为... 说明理由。,这很有必要，因为……反正就是有理由。
+english_events_endings:L390,ending_failure_green_2,FIX,You hold a long debate where everyone makes their case as to why they're not the Lame Loser.,你长篇大论 大家都在争论为什么他们不是Lame输家,你们辩了好久，每个人都在陈述，为什么自己不是那个逊咖。
+english_events_endings:L391,ending_failure_green_2,FIX,"You prepared a long, well-articulated speech full of gravitas, but in the middle of it, you fart loudly.","你准备了一个长长的,清晰的演讲 充满了格鲁维塔斯, 但是在中间,你放屁响亮。",你准备了一篇长篇演讲，条理清晰、庄重有力。可讲到一半，你放了个响屁。
+english_events_endings:L393,ending_failure_green_2,FIX,There's no coming back from that... now you're required to wear the dunce hat to forever remember your feats of lameness.,"没有回音了... 现在,你必须戴一顶德恩斯帽子 永远记住你的功绩 跛脚。",这下没救了……你得戴上傻瓜帽，永远铭记自己的逊咖壮举。
+english_events_endings:L394,ending_failure_green_2,FIX,"You can't fully enjoy your time at %DESTINATION% due to the utter shame, and how uncomfortable the hat is.","你无法完全享受你的时间 %DESTINATION% 因为完全的耻辱, 和如何不舒服的帽子。",羞耻得要命，再加上那帽子实在不舒服，你压根没法好好享受%DESTINATION%。
+english_events_endings:L395,ending_failure_green_2,KEEP,Bravo!,好样的!,好样的!
+english_events_endings:L402,ending_failure_green_3,FIX,"Before getting to %DESTINATION%, you make a quick stop.",在到达之前 %DESTINATION%你快停下来,到%DESTINATION%之前，你们短暂停了一次车。
+english_events_endings:L403,ending_failure_green_3,FIX,There's this clause in the Roadtrip Contract that establishes a Lame Loser must be designated democratically by the group.,"在""公路旅行合同""中有这一条款,规定一个""Lame Loser""必须被集团民主指定.",《公路旅行合同》里有一条：全队必须民主投票，选出一个“逊咖”。
+english_events_endings:L404,ending_failure_green_3,FIX,This is very necessary because of... reasons.,这是非常必要的 因为... 说明理由。,这很有必要，因为……反正就是有理由。
+english_events_endings:L405,ending_failure_green_3,FIX,You defend your case by reminding everyone how you've lifted the road trip morale with your hilarious knock-knock jokes.,你通过提醒大家 你如何用你那可笑的敲门笑话 提升了道路旅行的士气来为自己辩护,你为自己辩护，提醒大家：你那好笑的敲门笑话，可没少给整趟旅行提振士气。
+english_events_endings:L406,ending_failure_green_3,FIX,Everyone looks at each other uncomfortably in the most awkward of silences.,每个人都在最尴尬的沉默中不愉快地看着对方.,大家不自在地面面相觑，陷入了尴尬至极的沉默。
+english_events_endings:L408,ending_failure_green_3,POLISH,Could it be that... your knock knock jokes weren't hilarious?!,会不会是... 你的敲门笑话不好笑吗?,难道……你的敲门笑话，压根就不好笑？！
+english_events_endings:L409,ending_failure_green_3,FIX,The fact that you end up with the dunce hat as punishment for being the Lame Loser speaks for itself...,"你最后因为是Lame Loser而被罚戴了德恩斯帽,这说明...",最后，你被选为逊咖，罚戴傻瓜帽。结果已经说明了一切……
+english_events_endings:L410,ending_failure_green_3,KEEP,...,...,...
+english_events_endings:L411,ending_failure_green_3,FIX,Knock knock.,敲门。,咚咚。
+english_events_endings:L412,ending_failure_green_3,FIX,Who's there?,谁在那儿?,谁啊？
+english_events_endings:L413,ending_failure_green_3,FIX,A loser ;P,失败者; P,一个逊咖 ;P
+english_events_endings:L420,ending_failure_green_4,FIX,Before getting to %DESTINATION% you make a quick stop.,在到达之前 %DESTINATION% 你快停下来。,到%DESTINATION%之前，你们短暂停了一次车。
+english_events_endings:L421,ending_failure_green_4,FIX,There's this clause in the Roadtrip Contract that establishes a Lame Loser must be designated democratically by the group.,"在""公路旅行合同""中有这一条款,规定一个""Lame Loser""必须被集团民主指定.",《公路旅行合同》里有一条：全队必须民主投票，选出一个“逊咖”。
+english_events_endings:L422,ending_failure_green_4,FIX,This is very necessary because of... reasons.,这是非常必要的 因为... 说明理由。,这很有必要，因为……反正就是有理由。
+english_events_endings:L423,ending_failure_green_4,FIX,Polly and Scott happened to keep track of EVERYTHING you've done during the trip. You all take a look at it.,波莉 财务报告和审定财务报表 斯科特 恰好跟踪了旅途中你所做的一切 你们都看看它。,波莉和斯科特，恰好记录了你旅途中的一切行为。大家一起翻了翻。
+english_events_endings:L424,ending_failure_green_4,FIX,"There's averages, all sorts of data, crunched numbers... it's actually quite impressive.","有平均值,各种数据, 压缩数字... 这实际上相当令人印象深刻。",平均值、各种数据、算好的统计结果……做得居然还挺像样。
+english_events_endings:L425,ending_failure_green_4,FIX,"And you know what? Looking at the numbers, it's not even a subjective question: you've been lame.","你知道吗? 看数字,这甚至不是一个主观的问题:你一直很跛脚.",你知道吗？看完这些数字，根本就不用主观判断了：你确实够逊。
+english_events_endings:L427,ending_failure_green_4,FIX,"Your lameness is date-driven, bulletproof, and almost-scientifically proven.",你的跛脚是枣干驱动的 防弹的 几乎是科学证明的,你的逊，有数据支撑，无懈可击，几乎已经得到科学证明。
+english_events_endings:L428,ending_failure_green_4,FIX,"And so you resign to wear the dunce hat for the rest of the trip, the drive back home... and basically forever.","所以,你辞职 戴杜斯帽 剩下的旅行, 开车回家... 基本上永远。",于是，你认命了。剩下的旅行、开车回家那一路……基本上是永远，你都得戴着那顶傻瓜帽。
+english_events_endings:L429,ending_failure_green_4,KEEP,Dang.,该死,该死
+english_events_endings:L436,ending_failure_red_1,KEEP,This would be fun...,这会很有趣...,这会很有趣...
+english_events_endings:L438,ending_failure_red_1,FIX,...if it wasn't for the fact that you drew the short straw when deciding who will guard the car.,...如果不是你在决定谁来看守车时 画了短稻草的话,……要是选人看车的时候，你没抽到那根倒霉签的话。
+english_events_endings:L439,ending_failure_red_1,KEEP,Someone has to guard the car so it doesn't get stolen!,"得有人看守车,以免被偷!","得有人看守车,以免被偷!"
+english_events_endings:L440,ending_failure_red_1,POLISH,Good news: the car doesn't get stolen.,好消息:车不被盗.,好消息：车没被偷。
+english_events_endings:L441,ending_failure_red_1,KEEP,Bad news: you miss all the fun.,坏消息:你错过了所有的乐趣.,坏消息:你错过了所有的乐趣.
+english_events_endings:L442,ending_failure_red_1,FIX,Meh.,唉哟!,嘁。
+english_events_endings:L449,ending_failure_red_2,POLISH,"Everyone runs to %DESTINATION%, full of excitement.","每个人都跑到%DESTINATION%,充满了兴奋。",大家兴高采烈，冲向%DESTINATION%。
+english_events_endings:L450,ending_failure_red_2,FIX,"Well, everyone but you.","好吧,除了你,每个人都有。",嗯，除了你。
+english_events_endings:L451,ending_failure_red_2,POLISH,Here's the thing: you don't know how to open the car doors. You never learned.,事情是这样的:你不知道如何打开车门. 你从没学过,事情是这样的：你不会开车门。从来就没学过。
+english_events_endings:L452,ending_failure_red_2,FIX,"But you're too proud to admit this in front of your friends, and you're not swallowing your pride today!","但你太骄傲了,在朋友面前承认了这一点,今天你并没有吞下你的自尊心!",可你拉不下面子，在朋友面前承认。今天，你也绝不低头！
+english_events_endings:L454,ending_failure_red_2,POLISH,"So you stay trapped inside the car, and when your friends wave to you from afar to join them, you tell them to go.",所以你被困在车里 当你的朋友从远处向你挥手要加入的时候 你叫他们走,于是，你继续被困在车里。朋友们在远处招手，喊你一起，你却让他们先去。
+english_events_endings:L455,ending_failure_red_2,POLISH,You may miss out all the fun... but at least they won't know you have no idea how to open the car doors.,你可能会错过所有的乐趣... 但至少他们不知道你不知道怎么打开车门,你也许会错过所有好玩的事……可至少，他们不会知道，你压根就不会开车门。
+english_events_endings:L456,ending_failure_red_2,KEEP,Worth it...?,值得吗?,值得吗?
+english_events_endings:L463,ending_failure_red_3,FIX,"Yay, %DESTINATION%!","没错, %DESTINATION%!",好耶，%DESTINATION%！
+english_events_endings:L464,ending_failure_red_3,FIX,"Imagine your surprise when you all see a sign saying ""You must be THIS COOL to enter"".","想象一下,当你都看到一个标志 ""你一定是这个酷儿进入。""",当你们看到那块“酷到这个程度，才准进”的牌子时，别提多惊讶了。
+english_events_endings:L465,ending_failure_red_3,FIX,This is the last place you expected to have to deal with something like this...,这是你最不想处理的...,怎么也没想到，来这儿居然还得过这一关……
+english_events_endings:L466,ending_failure_red_3,POLISH,"Fortunately, everyone is that COOL!","幸运的是,每个人都是这么酷!",幸好，大家都够酷！
+english_events_endings:L468,ending_failure_red_3,KEEP,"Unfortunately, I actually meant everyone BUT YOU.","不幸的是,我其实是指除了你以外的所有人。","不幸的是,我其实是指除了你以外的所有人。"
+english_events_endings:L469,ending_failure_red_3,POLISH,So you're forced to stay in the car during the whole visit.,所以在整个访问期间你被迫留在车上.,所以，整个游玩期间，你都被迫留在车里。
+english_events_endings:L470,ending_failure_red_3,FIX,"Ironically, that makes you even more uncool. Sigh.","讽刺的是,这让你更冷酷。 叹曰.",讽刺的是，这下你显得更不酷了。唉。
+english_events_endings:L477,ending_failure_yellow_1,FIX,"Yay, %DESTINATION%!","没错, %DESTINATION%!",好耶，%DESTINATION%！
+english_events_endings:L478,ending_failure_yellow_1,KEEP,You'll have so much fun!,你会玩得很开心的!,你会玩得很开心的!
+english_events_endings:L479,ending_failure_yellow_1,POLISH,Or you WOULD have so much fun...,或者你会有这么多的乐趣...,或者说，你本来会玩得很开心……
+english_events_endings:L481,ending_failure_yellow_1,POLISH,...if your friends hadn't accidentally forgotten you at the last stop.,...如果你的朋友没有在最后一站不小心忘了你。,……要不是朋友们，不小心把你忘在上一站的话。
+english_events_endings:L482,ending_failure_yellow_1,POLISH,Now you're on your own!,现在你要靠自己了!,现在，你只剩自己一个了！
+english_events_endings:L483,ending_failure_yellow_1,POLISH,Get ready for a much less fun road trip adventure!,准备好踏上更不好玩的旅程吧!,准备好吧，接下来这趟公路冒险，可没那么好玩了！
+english_events_endings:L484,ending_failure_yellow_1,FIX,Yay?,是吗?,好耶……？
+english_events_endings:L491,ending_failure_yellow_2,FIX,You were so excited to get to %DESTINATION%!,很高兴你来了 %DESTINATION%!,你原本，特别期待能到%DESTINATION%！
+english_events_endings:L492,ending_failure_yellow_2,POLISH,"But the thing is... a couple stops ago, your friends made a silly mistake and took a stranger with them that they're convinced is you.","但问题是... 几站前,你的朋友犯了一个愚蠢的错误, 带着一个陌生人,他们确信是你。",可问题是……几站之前，朋友们犯了个小错误，带走一个陌生人，还认定了那就是你。
+english_events_endings:L493,ending_failure_yellow_2,POLISH,What a wacky error!,真是个疯狂的错误!,多荒唐的错误啊！
+english_events_endings:L495,ending_failure_yellow_2,FIX,"It takes you some days to hitchhike to %DESTINATION%... and when you finally arrive, everyone's done and ready to go back home.","搭便车要花几天时间 %DESTINATION%... 当你终于到来时,大家都做好了准备,准备回家去.",你花了好几天，才搭便车赶到%DESTINATION%……可等你终于到了，大家早玩够了，正准备回家。
+english_events_endings:L496,ending_failure_yellow_2,POLISH,"If that wasn't enough, you must admit the ""new %CURRENTPLAYERNAME%"" is way more charming and fun than you.","如果还不够的话,你必须承认""新的%CURRENTPLAYERNAME%"" 比你更迷人和有趣。",更糟的是，你得承认，这位“新%CURRENTPLAYERNAME%”，比你有趣、讨喜多了。
+english_events_endings:L497,ending_failure_yellow_2,FIX,*sad trombone noise*,*沙尘暴噪音*,*失落的长号声*
+english_events_endings:L504,ending_failure_yellow_3,POLISH,Everyone is so happy to have arrived at %DESTINATION%.,所有人都很高兴能达到 %DESTINATION%。,能到%DESTINATION%，大家都很开心。
+english_events_endings:L505,ending_failure_yellow_3,KEEP,"Everyone but you, that is.","除了你,其他人都是这样","除了你,其他人都是这样"
+english_events_endings:L506,ending_failure_yellow_3,FIX,"You see, as you were getting closer, you realized you forgot your cool sunglasses at home!","你看,当你越来越接近, 你意识到你忘了你的 凉爽的太阳镜在家里!",事情是这样的：快到的时候，你突然想起来，自己的酷墨镜，忘在家里了！
+english_events_endings:L507,ending_failure_yellow_3,FIX,"Dang... those sunglasses are so cool, and you wanted to wear them in the many pics you're sure to take at %DESTINATION%!","可恶... 那些太阳镜太酷了,你想穿在很多照片里,你肯定要拍 %DESTINATION%!",唉……那副墨镜多酷啊。你本来还想，到了%DESTINATION%，肯定要拍好多照片，全戴着它！
+english_events_endings:L508,ending_failure_yellow_3,FIX,"It's... it's just some silly sunglasses. But then again, you feel they will cover all your insecurities with their mystifying awesomeness. Fake it 'til you make it!","这是... 这只是一些愚蠢的太阳镜。 但是,你再次感到,他们会 覆盖你所有的不安全感 与他们的神秘的真棒。 假装它,直到你成功!",只是……只是一副傻墨镜而已。可你又觉得，它那神秘的酷劲儿，能遮住你所有的不自信。先装得自信，说不定就真有了！
+english_events_endings:L510,ending_failure_yellow_3,FIX,So you finally decided it wouldn't be that bad to quickly hitchhike your way home and then back... how long could that take?,所以你最后决定 搭便车回家后... 就不会那么糟了 还要多久?,所以最后，你决定，先搭便车回家拿一下，再回来，应该也没多大事……这能花多久？
+english_events_endings:L511,ending_failure_yellow_3,POLISH,(It took way longer than it was worth.),(花的时间比它的价值长得多。),（比它值得你花的时间，长得多。）

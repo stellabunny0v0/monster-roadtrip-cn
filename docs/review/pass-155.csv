@@ -1,0 +1,111 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_maingame:L11904,straycat,FIX,Volunteer with the rescued animals,与被拯救的动物一起工作的志愿者,当志愿者，陪伴获救动物
+english_events_maingame:L11909,straycat,POLISH,"You're checking the place out, booping snoots with all sorts of cute critters, when you run into a familiar face.","你检查的地方,嘘鼻涕 各种可爱的动物, 当你跑进一个熟悉的脸。",你在园里闲逛，跟各种小动物碰鼻尖，遇见了熟悉的面孔。
+english_events_maingame:L11911,straycat,POLISH,"Oh, hey! Are you guys volunteering at the sanctuary too?","哦,嘿嘿! 哟! 你们也在圣所里自愿吗?",哦，嗨！你们也来庇护所做志愿者？
+english_events_maingame:L11912,straycat,POLISH,"Hi, Faith! We'd love to! Do you have animals who could use some volunteering/friendship?","嗨,费丝! 我们很乐意! 你有动物需要一些志愿/朋友吗?",嗨，信念女巫！很乐意！有没有动物需要帮忙，或者交朋友？
+english_events_maingame:L11913,straycat,POLISH,Sure! Why don't you spend time with Old Major? He's getting up there in years and could use the exercise.,当然! 你为什么不和老少校在一起? 他几年来就在那里了 需要锻炼一下,有啊，陪陪老少校吧？它年纪大了，正需要多活动。
+english_events_maingame:L11914,straycat,FIX,"WOOHOO! I love you, Old Major! Let's play fetch; last one to the dog park has to throw the Frisbee!","呜呼! 我爱你,老少校! 来玩取取;最后一只去狗公园 得扔出""Frisbee""!",呜呼！老少校，我爱你！来玩接飞盘，谁最后跑到狗公园，谁负责扔！
+english_events_maingame:L11916,straycat,FIX,"Polly, you can brush Annie the alpaca if you want! She's a very sweet girl.","波莉随便你,你可以刷起活页 她是一个非常可爱的女孩。",波莉，想的话，可以帮羊驼安妮梳梳毛。它很乖。
+english_events_maingame:L11917,straycat,FIX,"I'd rather brush YOUR alpaca, if you know what I mean.","我宁愿刷你的长发, 如果你明白我的意思。",我倒更想梳你的“羊驼”，懂吧？
+english_events_maingame:L11918,straycat,POLISH,"No idea what you mean, honestly... but I'm gonna guess it's a sex thing. It usually is a sex thing with you.","老实说,你不懂我的意思... 但我会猜这是性爱的事情。 通常你都是性爱",其实不懂……不过我猜是性暗示。跟你聊天，通常都是这个。
+english_events_maingame:L11919,straycat,KEEP,You betcha!,当然了!,当然了!
+english_events_maingame:L11920,straycat,POLISH,"Well, I'm kind of working right now... but maybe we can ""brush alpacas"" when I go on break?","我现在有点工作... 但也许我们可以""刷出羊驼"" 当我休息?",可我现在在工作……休息时，再一起“梳羊驼”？
+english_events_maingame:L11921,straycat,FIX,"Fuck yeah, boo. Text me when you're free!","干,妈的,嘘 有空就发短信给我!",爽，宝贝。有空发消息！
+english_events_maingame:L11923,straycat,POLISH,"And you, %CURRENTPLAYERNAME%: what if you hang out with Colonel Grumpo?",还有你 %CURRENTPLAYERNAME%如果你和格伦波上校在一起呢?,还有你，%CURRENTPLAYERNAME%，陪陪格伦波上校怎么样？
+english_events_maingame:L11926,straycat,FIX,"Faith takes you to the ugliest, grumpiest cat you've ever seen. If cats had phalanges, this one would definitely be giving you the finger.","信仰带你到最丑最暴躁的猫 你见过。 如果猫有长发指,这个肯定给你指指头",信念女巫带你看一只丑得惊人、暴躁得惊人的猫。猫要是能像人一样动手指，它绝对在对你竖中指。
+english_events_maingame:L11928,straycat,POLISH,"Colonel Grumpo was rescued from a really bad situation. He has trouble trusting monsters, but I promise, there's a sweet boy under all that radiating hate. Have fun!",格伦波上校从一个非常糟糕的状态中 获救 他很难相信怪物 但我保证 满怀仇恨的男孩 玩得开心点!,格伦波上校以前过得很糟，是被救出来的，不太能信任怪物。不过这浑身仇恨下面，肯定藏着乖孩子。玩得开心！
+english_events_maingame:L11930,straycat,FIX,"Great, Scott gets to play fetch and Polly's having car sex while you're stuck with the world's meanest cat. Oh well, maybe it will all be okay...","不错 斯科特 开始玩取取并 波莉和世界上最卑鄙的猫做爱 哦,也许一切都会好起来的...",真棒，斯科特玩接飞盘，波莉在车里做爱，你却得陪世界上最凶的猫。算了，没准没事……
+english_events_maingame:L11931,straycat,POLISH,"Wait, did Colonel Grumpo just steal your wallet? How? You didn't even see him move!","等等,格伦波上校偷了你的钱包吗? 怎么会? 你甚至没看到他动!",等等，它刚偷了你钱包？怎么做到的？都没看见它动！
+english_events_maingame:L11932,straycat,FIX,You'd better get on this cat's good side before he does something worse...,你最好在猫做坏事之前 站在猫的好面子上,趁它还没干更坏的事，赶紧讨好一下……
+english_events_maingame:L11933,straycat,FIX,This cat obviously lost faith in people due to monsterkind's inevitable descent into idiocy. Show him there's still hope by showing off your extensive classic literature knowledge.,这只猫显然因为怪物的必然下降而失去了对人们的信心. 给他展示一下你丰富的经典文学知识 仍有希望,怪物无可救药地越来越蠢，让猫对大家失去信心了。展示你丰富的古典文学知识，让它重燃希望。
+english_events_maingame:L11934,straycat,FIX,Show Colonel Grumpo you're the real deal by giving him what all cats want most: the chance to drive a Ferrari.,给格伦波上校看 你才是真正的目标 给他所有猫最想要的东西 开法拉利的机会,给它所有猫最想要的东西：开法拉利的机会。让格伦波上校知道，你来真的。
+english_events_maingame:L11936,straycat,FIX,"Good thing you packed some books! You read Plato's ""The Republic"" to Colonel Grumpo.","幸好你收拾了几本书! 你读了柏拉图的""共和国""给格伦波上校。",幸好带了书！你给格伦波上校读起柏拉图的《理想国》。
+english_events_maingame:L11937,straycat,POLISH,"A few hours later, Colonel Grumpo doesn't look any happier, and now Polly and Faith have returned.","几个小时后,格伦波上校看起来并不高兴,现在 波莉 信仰已归顺了。",几小时后，猫没见高兴，波莉和信念女巫倒回来了。
+english_events_maingame:L11939,straycat,POLISH,"%CURRENTPLAYERNAME%, why are you reading to Colonel Grumpo? Cats don't like to read, nor CAN they read, and being reminded of that just annoys them.","%CURRENTPLAYERNAME%你为什么给格鲁姆波上校看书? 猫们不喜欢看书,也不喜欢看书, 被提醒只是烦恼他们。",%CURRENTPLAYERNAME%，为什么读书给它听？猫不爱读，也不会读。提醒它不会读书，只会让它烦。
+english_events_maingame:L11940,straycat,POLISH,"Look at him, it's obvious he's angry about that.","看他,显然他对此很生气.",看看，明显为这事生气了。
+english_events_maingame:L11941,straycat,FIX,"Thanks to the magic of video games, we can now actually know what's going on inside Colonel Grumpo's head:","由于电子游戏的魔法,我们现在可以实际知道格伦波上校的脑袋里发生了什么:",托电子游戏的福，我们现在能知道上校脑子里究竟在想什么：
+english_events_maingame:L11942,straycat,FIX,MEOW MEOW MEOW,美梦 美梦 美梦,喵喵喵
+english_events_maingame:L11943,straycat,FIX,"No, Faith, you got it wrong. We just need to find the right book for Colonel Grumpo. His face conveys an interest in finding a literary genre that ignites his passion for books.","不,费斯,你搞错了 我们只需要找到正确的书 为格伦波上校。 他的脸表达了对寻找能点燃他对书籍的热情的文学流派的兴趣.",不，信念女巫，你搞错了。得找到对的书。它脸上分明写着，想找到能点燃阅读热情的文学类型。
+english_events_maingame:L11944,straycat,POLISH,"Look at him, I think it's obvious.","看看他,我觉得很明显",看看它，这不挺明显嘛。
+english_events_maingame:L11945,straycat,FIX,MEOW MEOW MEOW,美梦 美梦 美梦,喵喵喵
+english_events_maingame:L11946,straycat,POLISH,What if... Colonel Grumpo is actually upset because we're assuming what he thinks without even asking?,如果... 说不定... 格伦波上校真的很不高兴 因为我们是在假设他的想法 却连问都不问?,也许……它生气，是因为我们问也不问，就擅自猜它在想什么？
+english_events_maingame:L11947,straycat,POLISH,"Yes, he's probably angry because of that... sorry, Colonel Grumpo.","是的,他可能因为这个而生气... 对不起,格伦波上校。",嗯，肯定为这个生气……对不起，格伦波上校。
+english_events_maingame:L11948,straycat,FIX,MEOW MEOW MEOW,美梦 美梦 美梦,喵喵喵
+english_events_maingame:L11949,straycat,POLISH,"No, you must ignore them both. You can't stop; you are building a connection with Colonel Grumpo, you can feel it!","不,你必须忽略他们两个。 你停不下来的,你正在和格伦波上校建立联系,你可以感觉到!",不，别听她们。不能停，你感觉得到，正在跟上校建立联系！
+english_events_maingame:L11950,straycat,POLISH,"Plato's ideas on an ideal government really make you think. I'm happy that someone finally read it to me, for I am a cat and I can't read.","柏拉图关于理想政府的想法 让你思考。 我很高兴终于有人读给我听 因为我是只猫,我读不出来",柏拉图关于理想政体的思考，真发人深省。终于有人读给我听了，我很开心，毕竟我是猫，自己不识字。
+english_events_maingame:L11951,straycat,POLISH,"I guess we must accept we might never know what goes inside Colonel Grumpo's head, and that's okay.","我想我们必须接受 我们可能永远不知道 格伦波上校的脑袋里有什么, 这没关系。",看来，得接受一个事实：咱们也许永远不知道上校在想什么。也没关系。
+english_events_maingame:L11952,straycat,FIX,"No, you know you got to Colonel Grumpo, even if it was at the cost of -N2 HYPE out of being a big nerd. You gain +N2 SOUL from this selfless act!","不,你知道你得到了格鲁姆波上校, 即使它的代价是 -N2 HYPE 是一个大书呆子。 你从这个无私的举动中获得了+N2 SOUL!",不，你知道自己打动了它。书呆子行为是让你损失了-N2热度，可这份无私，也让你获得了+N2灵魂！
+english_events_maingame:L11954,straycat,FIX,"In the time it takes you to convince a rental company to give you a Ferrari despite your horrible driving record, your friends have returned.","需要你说服一家租借公司 为你提供法拉利 尽管你的糟糕驾驶记录,你的朋友已经回来了。",你费劲说服租车公司，无视糟糕的驾驶记录，租给你一辆法拉利。折腾完，朋友们也回来了。
+english_events_maingame:L11957,straycat,FIX,Hey! Have you guys seen the car out front with the grumpy cat in the driver's seat? It's so cool they're letting underprivileged animals work for Oober now!,嘿 你们看到前面那辆 和暴躁的猫坐在驾驶座上的车了吗? 酷到让贫苦的动物为Oober工作,嘿，门外那车，驾驶座上坐了只臭脸猫，看见没？现在Oober也给弱势动物工作机会了，真酷！
+english_events_maingame:L11958,straycat,POLISH,"Wait, is Colonel Grumpo in that Ferrari? %CURRENTPLAYERNAME%, are you letting a cat drive?! That's so dangerous!","等等,格伦波上校在法拉利吗?  %CURRENTPLAYERNAME%你要让猫驾车吗? 这太危险了!",等等，法拉利里是格伦波上校？%CURRENTPLAYERNAME%，你让猫开车？！太危险了！
+english_events_maingame:L11959,straycat,POLISH,"Meh, I'm not pressed. I'm dead anyway, so who cares? Let's go for a ride with Colonel Grumpo!","额,我没被逼到 反正我已经死了,那么谁在乎呢? 我们和格伦波上校一起兜风吧!",嗨，无所谓。反正我死了，管它呢？跟上校兜风去！
+english_events_maingame:L11960,straycat,KEEP,But...,不过...,不过...
+english_events_maingame:L11961,straycat,FIX,"I have no sense of danger, and a cat-chauffeur sounds cool, so I see no problem with this! Grumpy kitty, take us away!","我毫无危险,一个猫贩听起来很酷 所以我觉得这没什么问题! 暴躁的小猫咪,带我们走!",我毫无危险意识，猫司机听着又酷，所以完全没问题！臭脸猫猫，出发！
+english_events_maingame:L11964,straycat,FIX,You all hop in the car with Colonel Grumpo and let him drive you into the sunset.,你们都和格伦波上校一起上车 让他载你们去日出,你们上了上校的车，让它载着你们驶向夕阳。
+english_events_maingame:L11966,straycat,POLISH,"So is this a regular thing with you, %CURRENTPLAYERNAME%? Every time you wanna cheer a cat up, you let it drive a Ferrari?","那么,这是正常的事情与你,%CURRENTPLAYERNAME%? 每次你想让猫开心 你都让它开法拉利?",%CURRENTPLAYERNAME%，你经常这么干？想哄猫开心，就让它开法拉利？
+english_events_maingame:L11967,straycat,FIX,Pretty much!,相当多!,差不多！
+english_events_maingame:L11968,straycat,FIX,"Cool, cool.","冷静,冷静。",酷，挺酷。
+english_events_maingame:L11969,straycat,FIX,"AWOOOOOO! I love sticking my tongue out of the window! You're the best reckless driver ever, Colonel Grumpo!","摆! 我喜欢把舌头伸出窗外 你是有史以来最好的鲁莽司机,格伦波上校!",嗷呜——！我就爱把舌头伸出窗外！格伦波上校，你是最棒的危险司机！
+english_events_maingame:L11970,straycat,POLISH,"Well, at least everyone's wearing their seatbelts. That makes me feel marginally better about this extremely unsafe situation.",至少每个人都系了安全带 这使我对这种极端不安全的情况感到稍好一些。,至少都系了安全带。虽然危险得要命，也算让我稍微放心一点。
+english_events_maingame:L11971,straycat,FIX,"You give Faith a few extra white hairs, but your joyride is a success. You even see a small smile on Colonel Grumpo's face as he snoozes on the steering wheel.","你给费丝多加了几把白发,但你的欢乐骑行是成功的. 你甚至看到格伦波上校脸上有笑容 当他朝方向盘上打呼噜时",信念女巫被你吓得多长了几根白发，不过兜风成功。上校趴在方向盘上打盹时，脸上甚至有点笑意。
+english_events_maingame:L11972,straycat,FIX,"You lose -N2 MONEY on the car rental, but gain +N2 SOUL spending time with Grumpo!","你租车输了N2货币,但得到+N2 Suul 和 Grumpo 在一起的时间!",租车花了-N2金钱，不过陪上校相处，也获得了+N2灵魂！
+english_events_maingame:L11980,catcoffee,KEEP,Cat café,猫咖啡馆,猫咖啡馆
+english_events_maingame:L11984,catcoffee,FIX,What's better than coffee and cute cats? You step into the café and see your friend Faith manning the register.,还有什么比咖啡和可爱的猫更好? 你走进咖啡馆 看到你朋友费斯在登记簿上,咖啡加猫猫，还有更棒的组合吗？你走进店里，发现信念女巫正守着收银台。
+english_events_maingame:L11986,catcoffee,POLISH,"Welcome to the cat café, guys. What brings you in today?","欢迎来到猫咖啡馆,伙计们。 今天有什么风把你吹来了?",欢迎来猫咖啡馆。今天怎么想到来的？
+english_events_maingame:L11987,catcoffee,POLISH,I had to come see my favorite witch! Also we've been on the road for hours and if I don't get some caffeine in me I will LITERALLY die.,我不得不来看我最喜欢的女巫! 而且我们已经在路上几个小时了 如果我得不到咖啡因 我将死。,当然来看我最喜欢的女巫！而且赶了几个小时路，再不来点咖啡因，我真的会死。
+english_events_maingame:L11988,catcoffee,POLISH,"Polly, it's impossible for you to ""literally"" die if you're already dead. Liberal use of the word ""literally"" destroys its true meaning.","波莉已经死了,你不可能""自然地""死去 自由地使用""从字面上""一词会破坏其真实含义.",波莉，你已经死了，不可能“真的会死”。随便乱用“真的”，就失去这个词原有的意思了。
+english_events_maingame:L11989,catcoffee,FIX,"Ahh, I love it when you talk nerdy to me, boo.","我喜欢你对我说呆话的时候,嘘",啊，就喜欢你这样一本正经地跟我抠字眼，宝贝。
+english_events_maingame:L11990,catcoffee,POLISH,"Heh, thanks... and thanks for coming in and supporting the café. The cats here really love the attention and playtime.",谢谢... 谢谢你来这 支持咖啡馆。 这里的猫儿们真的很喜欢注意和玩弄时间.,嘿，谢谢……也谢谢来支持咖啡馆。猫们可喜欢有人陪、有人玩了。
+english_events_maingame:L11991,catcoffee,FIX,"That's good, 'cause I've got a pussy here that could use some playtime... BEHOLD!",很好 因为我这里有个小妞 需要一些时间玩 贝霍德!,正好，我这小猫咪，也需要有人陪着玩……看！
+english_events_maingame:L11992,catcoffee,FIX,Polly holds up a cat she befriended in the café.,"波莉 扶起一只猫,她在咖啡馆里是朋友",波莉举起刚在店里交上朋友的一只猫。
+english_events_maingame:L11993,catcoffee,POLISH,"Haha! Okay, but for real, I was talking about my vagina, in case that wasn't clear.","哈哈! 哈哈! 哈哈! 哈哈! 好吧,但实际上,我说的是我的阴道, 以防万一这还不清楚。",哈哈！不过说正经的，我刚指的是自己的阴道，怕你没听明白。
+english_events_maingame:L11994,catcoffee,FIX,POLLY! I'm working now!,牡诡 我现在在工作!,波莉！我在工作！
+english_events_maingame:L11995,catcoffee,KEEP,...,...,...
+english_events_maingame:L11996,catcoffee,POLISH,"...my shift ends in a few hours, though. I can text you then.",...不过几个小时后我的班就结束了 我可以发短信给你,……不过再过几小时就下班了。到时发消息。
+english_events_maingame:L11997,catcoffee,POLISH,"For now, can I get you guys anything to drink?","暂时,我能给你们拿点喝的吗?",现在，要喝点什么？
+english_events_maingame:L11998,catcoffee,FIX,"Yes, please; you didn't come here just so Polly could flirt. What do you order?","有,请不要这样,你不是来这的 波莉 可能调情。 你点什么?",要，谢谢。你们来可不只是为了让波莉调情。点什么？
+english_events_maingame:L12001,catcoffee,FIX,Cat Coffee (made FOR cats),猫咖啡(为猫所制作),猫咖啡（给猫喝的）
+english_events_maingame:L12002,catcoffee,FIX,Cat Coffee (made BY cats),猫咖啡(由猫做),猫咖啡（猫煮的）
+english_events_maingame:L12003,catcoffee,FIX,Cat Coffee (made OF cats),咖啡(由猫制作),猫咖啡（用猫做的）
+english_events_maingame:L12008,catcoffee,POLISH,"Whoa, that's a weird-looking coffee. Why does it seem so... ominous?","哇,那咖啡看起来很奇怪。 为什么看起来如此... 坏人吗?",哇，这咖啡长得怪怪的。怎么这么……不祥？
+english_events_maingame:L12009,catcoffee,FIX,"Cats like their coffee hyper-black. It goes well with their grumpy, skittish, aloof souls.",猫喜欢他们的咖啡超黑。 和他们那暴躁 狡猾 低调的灵魂相处得很好,猫喜欢超黑的咖啡，配得上它们暴躁、易受惊又高冷的灵魂。
+english_events_maingame:L12010,catcoffee,FIX,"I mean, have you ever seen a cat get random zoomies at 3 a.m.? Where do you think all that energy comes from?",你见过猫在凌晨3点被随机放大吗? 你觉得能量来自哪里?,见过猫凌晨三点突然满屋疯跑吧？你以为哪儿来这么多精力？
+english_events_maingame:L12011,catcoffee,FIX,"Well, coffee for cats just became coffee for %CURRENTPLAYERNAME%! You'll take a cup.",猫的咖啡刚刚变成咖啡 用于%CURRENTPLAYERNAME%! 汝取一喝来.,行，猫的咖啡，现在变成%CURRENTPLAYERNAME%的咖啡了！来一杯。
+english_events_maingame:L12012,catcoffee,POLISH,"Are you sure, %CURRENTPLAYERNAME%? This is ""coffee FOR cats"" for a reason...","你确定吗? %CURRENTPLAYERNAME%? 这是""猫的咖啡""是有原因的...",确定吗，%CURRENTPLAYERNAME%？“给猫喝的”，可不是白写的……
+english_events_maingame:L12013,catcoffee,POLISH,"Yeah, fuck it! You chose this option; knowing the potential danger of your actions won't stop you now!","是啊,他妈的! 你选择了这个选择;知道你的行动的潜在危险,现在不会阻止你!",确定，去他的！选都选了，知道有危险，也拦不住你！
+english_events_maingame:L12014,catcoffee,FIX,"You drink the coffee for cats and gain +N2 STAMINA. Ha, that wasn't so strong! Faith worried you for nothing.","你为猫喝咖啡,然后得到+N2 STAMINA。 哈,那不是那么强! 信仰让你无所顾忌",你喝下猫咖啡，获得了+N2体力。哈，也没多猛嘛，信念女巫白让你担心。
+english_events_maingame:L12017,catcoffee,FIX,You blink -- and suddenly you're in the middle of the desert. Your clothes are torn and sweaty and your heart is racing. The hell?,"你眨眼了,突然间你又在沙漠中 衣服被撕裂出汗而心起相竞. 地狱?",一眨眼，你突然到了沙漠中央。衣服又破又湿，心跳飞快。什么鬼？
+english_events_maingame:L12019,catcoffee,POLISH,"There you are, %CURRENTPLAYERNAME%! Thank goodness we caught up to you; we've been driving after you for half an hour!","你在这里, %CURRENTPLAYERNAME%! 谢天谢地,我们赶上你;我们追你半小时了!",找到你了，%CURRENTPLAYERNAME%！总算赶上，我们开车追了半小时！
+english_events_maingame:L12020,catcoffee,POLISH,They've been chasing you IN THE CAR? And you were outpacing them? How?!,他们在车里追你? 你比他们快? 怎么会?,开车追你？你还比车快？！怎么做到的？
+english_events_maingame:L12021,catcoffee,FIX,It's gotta be that coffee. You're more wired than an electronics store!,"一定是那杯咖啡,我记得 你比电子商店还有线!",肯定是咖啡，把你通上电了！整家电器店都没你这么带劲！
+english_events_maingame:L12022,catcoffee,POLISH,"I tried to warn you, moron. A shot of Cat Coffee is worse for your blood pressure than a hit of cocaine.","我警告过你,白痴 喝一喝""猫咖啡""对你的血压来说比可卡因更糟糕",我警告过你，笨蛋。一份猫咖啡对血压的冲击，比吸一口可卡因还猛。
+english_events_maingame:L12023,catcoffee,FIX,You can barely hear them over the sound of your pulse. Your soul is under siege by the caffeine. Your body wasn't made to handle this much hyper!,你几乎听不到他们的声音 你的灵魂被咖啡因所包围 你的身体不是用来处理这些超能力的东西的!,心跳声震耳欲聋，几乎盖过他们的话。灵魂正在被咖啡因围攻，身体根本承受不了这股亢奋！
+english_events_maingame:L12024,catcoffee,POLISH,"Are you gonna die? Hopefully not, but at the very least, you're losing -N2 MIND.","你会死吗? 希望不是,但至少你输了N2 MIND。",会死吗？但愿不会，不过至少失去了-N2头脑。
+english_events_maingame:L12029,catcoffee,POLISH,"Ooh, great choice! This is an exclusive, one-of-a-kind coffee we offer, made by the cats who live here at the café!","哦,伟大的选择! 这是我们提供的一种独家咖啡, 由住在咖啡馆的猫们做的!",哦，选得好！这可是独家限定咖啡，住在店里的猫亲手煮的！
+english_events_maingame:L12030,catcoffee,POLISH,"Oh, cool! Are they specially-trained barista cats or something?","哦,酷毙了! 他们是受过特殊训练的吧?",酷！专门受训的猫咖啡师吗？
+english_events_maingame:L12031,catcoffee,POLISH,"No, they're just regular cats. But that's part of the charm, no?","不,他们只是普通的猫。 但这是其中的一部分 魅力,不是吗?",不是，普通猫。不过这不也是魅力所在？
+english_events_maingame:L12032,catcoffee,FIX,Uh... I'mma go with no.,额... 我将去与否。,呃……我觉得不是。
+english_events_maingame:L12033,catcoffee,POLISH,Does the coffee they make taste good at least?,咖啡至少味道不错吗?,那至少味道好吧？
+english_events_maingame:L12034,catcoffee,POLISH,"That's sort of a matter of opinion. The cats really enjoy making the coffee, though!",有点意见问题 猫儿们真的很喜欢煮咖啡!,看个人口味吧。不过猫们确实很喜欢煮咖啡！
+english_events_maingame:L12035,catcoffee,POLISH,Is it even sanitary for the cats to be behind the counter?,猫儿在柜台后面 是否还卫生?,让猫待在柜台后，卫生吗？
+english_events_maingame:L12036,catcoffee,POLISH,Of course; cats are very clean animals. They bathe themselves multiple times a day.,"当然,猫是干净的动物。 他们每天会洗多遍澡",当然，猫很爱干净，一天要给自己洗好几次澡。
+english_events_maingame:L12037,catcoffee,FIX,Your (many) remaining doubts are dispelled when you see one cat flop on the espresso machine's power button to pour the coffee.,"当你看到咖啡机的动力按钮上 有个猫被打出 倒咖啡时,你的(许多)疑虑就消除了",你看见一只猫扑到意式咖啡机的开关上，咖啡倒了出来。剩下那一大堆疑虑，也随之打消。
+english_events_maingame:L12038,catcoffee,FIX,A second cat knocks a cup of sugar off a high shelf into the coffee. A third bats at a ball of yarn until it turns the lever that dispenses your coffee in its cup.,第二只猫把一杯糖从高架上敲入咖啡. 第三只蝙蝠在一球纱上 直到它转动了把咖啡放在杯子里的杠杆,第二只把高架上的一杯糖碰进咖啡，第三只拨着毛线球，直到碰动拉杆，把咖啡放进杯里。
+english_events_maingame:L12039,catcoffee,FIX,A fourth cat licks said foam into delicate latte art. Uh...,第四只猫舔了泡沫 说成精致的拿铁艺术。 额...,第四只用舌头舔奶泡，舔出精致拉花。呃……
+english_events_maingame:L12040,catcoffee,POLISH,"Here's your coffee, %CURRENTPLAYERNAME%! Enjoy!","这是你的咖啡, %CURRENTPLAYERNAME%! 玩得开心点!",%CURRENTPLAYERNAME%，咖啡好了，慢用！
+english_events_maingame:L12041,catcoffee,POLISH,The cats are all watching you rapturously to know your opinion... or maybe they're just like that. Cats do like to stare.,猫儿们都在看着你 愤怒地知道你的意见... 也许他们就是那样的 猫儿喜欢盯着看,猫们热切地望着你，等你评价……也可能只是天生这样。猫是爱盯人。
+english_events_maingame:L12042,catcoffee,FIX,"You sip your drink. Blegh. It's full of cat hair, and it mostly tastes like that last cat's tuna breath.","你喝你的饮料。 布莱克。 里面全是猫发,而且大多是最后一只猫的金枪鱼口味.",你喝一口。呸，全是猫毛，主要味道还是最后那只猫嘴里的金枪鱼味。
+english_events_maingame:L12043,catcoffee,FIX,"You got what you paid -N2 MONEY for, you guess. At least even shitty, tuna-ish coffee boosts your +N2 STAMINA.","你付的钱都够你买的了,你猜 至少连低劣的金枪鱼鱼咖啡 都让你的+N2STAMINA更方便",算是对得起花的-N2金钱吧。至少再烂、再一股金枪鱼味，咖啡也给你加了+N2体力。
+english_events_maingame:L12048,catcoffee,KEEP,...,...,...
+english_events_maingame:L12049,catcoffee,FIX,"In horrified silence, Faith points at the menu description under the coffee you just ordered.",菲丝在你刚点的咖啡下 指着菜单的描述,信念女巫震惊得说不出话，默默指向你刚点的咖啡下面，那段菜单说明。
+english_events_maingame:L12050,catcoffee,POLISH,"""Did this shock you? Of course we don't serve coffee made of cats. But is it really so different than eating burgers made of cows?""","""这让你震惊了吗? 当然我们不卖猫做的咖啡 但是否真的和吃由牛做的汉堡有如此不同?”",“吓到了？我们当然不提供用猫做的咖啡。可这跟吃牛肉汉堡，真的差很多吗？”
+english_events_maingame:L12051,catcoffee,POLISH,"""All animals deserve compassion, not just the cute ones. Consider reducing or even stopping your meat intake. It makes a small difference, but it's still a difference!""","""所有动物都值得同情,而不只是可爱的动物. 考虑减少甚至停止你的肉摄入量。 其能出小相而相克而相克也""!",“所有动物都值得关爱，不只是可爱的那些。考虑少吃点肉，甚至不吃。改变很小，也依旧是改变！”
+english_events_maingame:L12052,catcoffee,FIX,I can't believe you. That menu item is only there as a clever PSA. The whole point is that NOBODY would be fucked-up enough to order it.,岂能相取. 菜单上只有一个聪明的PSA 关键是没人会搞砸 来点酒,真不敢相信。那道菜单只是个公益宣传的巧思。前提就是，没人会变态到真的点它。
+english_events_maingame:L12053,catcoffee,FIX,Then that's kinda on you for underestimating %CURRENTPLAYERNAME%'s fucked-up-ness.,你低估了这点就算你的了 %CURRENTPLAYERNAME%简直是一团糟,那得怪你，低估了%CURRENTPLAYERNAME%有多变态。
+english_events_maingame:L12054,catcoffee,POLISH,"Wait, so I CAN'T order the made-of-cats coffee?","等等,我不能点 猫做的咖啡?",等等，所以不能点用猫做的咖啡？
+english_events_maingame:L12055,catcoffee,POLISH,...Seriously?!,是真的吗?,……认真的？！
+english_events_maingame:L12056,catcoffee,POLISH,"Okay, guess that's a no. Do you have any coffee made of raccoons, at least?","好吧,猜这是不。 至少你还有浣熊做的咖啡吗?",行吧，看来不行。那至少有浣熊做的吗？
+english_events_maingame:L12057,catcoffee,POLISH,Goddess help me... I'm just gonna get you guys regular coffees and pretend this never happened.,女神帮帮我... 我只是要给你们买点咖啡 假装没发生过,女神救救我……还是上普通咖啡吧，刚才就当没发生。
+english_events_maingame:L12059,catcoffee,FIX,"Eh, don't let Faith get you guys down. I think all of us have ingested weirder things than cats at this point, so no judgment from me.","别让费丝把你们弄倒了 我想我们所有人都摄取了比猫更怪的东西,所以我可没做判断.",别被信念女巫弄得扫兴。反正吃过的怪东西，早就比猫离谱多了，我可不评判。
+english_events_maingame:L12060,catcoffee,FIX,"At least your friends aren't mad, but the same can't be said of the cats in the café, who are all looking at you like they'd beat you with a crowbar if they had thumbs.","至少你的朋友没有生气,但是不能说 在咖啡馆的猫, 他们都看着你, 他们像他们用铁棍打你,如果他们有拇指。",至少朋友没生气，可店里的猫就不一样了。它们看你的眼神，分明是有拇指就要拿撬棍揍你。
+english_events_maingame:L12061,catcoffee,FIX,"The regular coffee Faith brings you restores +N2 STAMINA to you, but there's no saving your -N2 SOUL.","普通咖啡信仰给你带来了恢复+N2 STAMINA,但没有保存你的-N2 SOUL.",信念女巫拿来的普通咖啡，恢复了+N2体力，可你的-N2灵魂，谁也救不回来了。

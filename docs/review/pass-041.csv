@@ -1,0 +1,114 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_pitstop:L4782,cbrianfamily,POLISH,His Family,他的家属,他的家人
+english_events_pitstop:L4784,cbrianfamily,POLISH,My family...,我的家庭... ... . . . . .,我的家人啊……
+english_events_pitstop:L4785,cbrianfamily,KEEP,"Well, there's my mom...",我妈妈...,我妈妈...
+english_events_pitstop:L4786,cbrianfamily,POLISH,"She's the one at the helm, so to speak.",说起来 她才是掌舵的人,可以说，家里都是她掌舵。
+english_events_pitstop:L4787,cbrianfamily,KEEP,She can take care of fifteen different problems at the same time.,她可以同时处理15个不同的问题.,她可以同时处理15个不同的问题.
+english_events_pitstop:L4788,cbrianfamily,FIX,She sounds like a force to be reckoned with!,她听起来像一种需要考虑的力量!,听起来是个厉害人物！
+english_events_pitstop:L4789,cbrianfamily,FIX,She is. She's the one who keeps both the store and the house afloat.,琌. 她把商店和房子都保留了下来,是啊。店里和家里都靠她撑着。
+english_events_pitstop:L4790,cbrianfamily,POLISH,Seeing her do her thing is almost dizzying.,看见她做她的事情 几乎头晕了。,看她忙起来，简直让人眼花缭乱。
+english_events_pitstop:L4791,cbrianfamily,POLISH,"Dad helps, but he works at a different speed.","爸爸帮助,但他的工作速度不同。",我爸也帮忙，不过他的节奏不太一样。
+english_events_pitstop:L4792,cbrianfamily,POLISH,He's quieter and slower... but I like to think he's steady and reliable in return.,他比较安静和慢... 但我喜欢认为他稳定可靠 作为回报。,他话少，动作也慢……不过，我觉得他也更稳当、可靠。
+english_events_pitstop:L4793,cbrianfamily,KEEP,A bit like you!,有点像你!,有点像你!
+english_events_pitstop:L4794,cbrianfamily,FIX,Yeah... we like things slow.,对... 我们喜欢慢事。,是啊……我们喜欢慢慢来。
+english_events_pitstop:L4795,cbrianfamily,FIX,You're close then?,你离我们很近了?,那你俩关系很好吧？
+english_events_pitstop:L4796,cbrianfamily,FIX,"Well, we're not super great with words, but we do stuff together.","嗯,我们不是超棒的字, 但我们做的东西在一起。",我们都不太会说话，不过会一起做些事。
+english_events_pitstop:L4797,cbrianfamily,FIX,Mainly pickling things.,以腌取为主.,主要是腌东西。
+english_events_pitstop:L4798,cbrianfamily,KEEP,...?,...?,...?
+english_events_pitstop:L4799,cbrianfamily,POLISH,"Yeah, as a hobby. We like pickling different foods.","是啊,作为一个爱好。 我们喜欢泡不同的食物。",嗯，算是爱好吧。我们喜欢腌各种食物。
+english_events_pitstop:L4800,cbrianfamily,FIX,It's pretty chill... and you get to eat tasty stuff.,这很冷... 吃点好吃的东西,挺放松的……还能吃到好吃的。
+english_events_pitstop:L4801,cbrianfamily,KEEP,A win-win!,双赢!,双赢!
+english_events_pitstop:L4802,cbrianfamily,KEEP,Totally.,当然,当然
+english_events_pitstop:L4803,cbrianfamily,FIX,Then there's my sister.,还有我妹妹,我还有个姐妹。
+english_events_pitstop:L4804,cbrianfamily,KEEP,"She bosses me around when we're working at the store, but I know she cares about me.",我们在店里工作的时候 她总管我 但我知道她很关心我,我们在店里工作的时候 她总管我 但我知道她很关心我
+english_events_pitstop:L4805,cbrianfamily,POLISH,"When we were younger, she'd protect me if anyone picked on me.","当我们年轻时,她会保护我 如果有人挑剔我。",小时候，要是谁欺负我，她就会护着我。
+english_events_pitstop:L4806,cbrianfamily,KEEP,She sounds cool.,她听起来很酷。,她听起来很酷。
+english_events_pitstop:L4807,cbrianfamily,FIX,She is cool.,慌,是挺酷的。
+english_events_pitstop:L4808,cbrianfamily,KEEP,And then there's Grandma.,然后还有外婆.,然后还有外婆.
+english_events_pitstop:L4809,cbrianfamily,POLISH,"She's a bit old, but she helps in the store nonetheless.",她有点老了 不过她还是帮了店里的人,她年纪有点大了，不过还是会在店里帮忙。
+english_events_pitstop:L4810,cbrianfamily,POLISH,"With the five of us working in the store, there's never any quiet... sigh.",我们五个人在店里工作 从没有安静过... 叹一口气.,我们五个都在店里干活，从来就没个清静……唉。
+english_events_pitstop:L4811,cbrianfamily,FIX,"Not your jam, huh?","不是你的果酱,是吧?",不太合你心意，是吧？
+english_events_pitstop:L4812,cbrianfamily,POLISH,Eh... it's a loud and exhausting life; but it's my loud and exhausting life with my loud and exhausting family.,"额... 这是一种响亮而累人的生活;但它是我的响亮而累人的生活,与我的响亮而累人的家庭相伴.",嗯……日子又吵又累，可这就是我的日子，我的家人也就是这样，又吵又累。
+english_events_pitstop:L4813,cbrianfamily,POLISH,"And after a day's work, we always have dinner together and then we watch some TV. That's good.","一天的工作之后,我们总是一起吃晚饭,然后看电视。 这很好。",不过，每天干完活，我们总会一起吃晚饭，再看看电视。这样挺好。
+english_events_pitstop:L4814,cbrianfamily,FIX,"Oh, and there's also Doggo.","哦,还有多格戈。",哦，还有狗狗。
+english_events_pitstop:L4815,cbrianfamily,FIX,Doggo?,狗哥吗?,狗狗？
+english_events_pitstop:L4816,cbrianfamily,POLISH,Yeah... wanna see some pics of him? He's the best.,对... 想看看他的照片吗? 师最上相.,嗯……想看它的照片吗？它最棒了。
+english_events_pitstop:L4817,cbrianfamily,FIX,You spend the rest of the night looking at pictures and videos of Brian's dog. They seem thick as thieves!,你整晚都在看照片和录像 布莱恩狗 狗 狗 狗 狗 狗 狗 狗 狗 他们看起来像小偷一样粗!,接下来的时间，你一直在看布赖恩家的狗的照片和视频。他们俩的关系真好！
+english_events_pitstop:L4826,cbrianambitions,POLISH,His ambitions,他的雄心壮志,他的志向
+english_events_pitstop:L4828,cbrianambitions,FIX,Uh... none?,额... 没有吗?,呃……没有？
+english_events_pitstop:L4829,cbrianambitions,FIX,Like... zero?,喜欢... 零吗?,就是……完全没有？
+english_events_pitstop:L4830,cbrianambitions,FIX,Yeah... I don't know...,"对... 我不知道... 我不知道... 我不知道,这是什么?",是啊……怎么说呢……
+english_events_pitstop:L4831,cbrianambitions,FIX,Everyone always seems so stressed about goals and ambitions and whatnot...,"每个人似乎总是 如此强调目标和野心,什么的...",大家好像总为了目标、志向之类的事，弄得压力很大……
+english_events_pitstop:L4832,cbrianambitions,POLISH,"...but who cares, really?","...但谁在乎,真的吗?",……可这些真有那么重要吗？
+english_events_pitstop:L4833,cbrianambitions,FIX,"Stress is not my thing, %CURRENTPLAYERNAME%.","压力不是我的事, %CURRENTPLAYERNAME%.",%CURRENTPLAYERNAME%，我不喜欢给自己那么大压力。
+english_events_pitstop:L4834,cbrianambitions,KEEP,I guess that's another way of looking at life.,我想这是另一种看待生活的方式。,我想这是另一种看待生活的方式。
+english_events_pitstop:L4835,cbrianambitions,POLISH,"It's my way, for sure.","当然,这是我的方式。",反正，我就是这么过的。
+english_events_pitstop:L4836,cbrianambitions,KEEP,Maybe I could try that sometime...,也许我可以试试看...,也许我可以试试看...
+english_events_pitstop:L4837,cbrianambitions,POLISH,There are times when I feel like I'm in an endless race where I can't stop to consider things because there's no time to lose.,"有时我觉得自己在一场无休止的比赛中,因为没有时间可以失去,所以不能停下来考虑事情.",有时候，我觉得自己在跑一场永远不会结束的比赛，连停下来想想都不行，好像一秒钟也耽误不起。
+english_events_pitstop:L4838,cbrianambitions,POLISH,"But then... I'm not even sure where it's leading, or if I'll even make it to the finishing line.","但后来... 我什至不知道它的方向, 或我甚至会到达终点线。",可实际上……我都不知道自己在往哪儿跑，也不知道能不能跑到终点。
+english_events_pitstop:L4839,cbrianambitions,FIX,"Yeah, I like to think life can be about something other than big plans for the future, you know?","是的,我喜欢认为 生活可以 的东西,不是大计划 对于未来,你知道吗?",是啊。我倒觉得，生活可以有点别的，不一定非得是对未来的宏大计划，你懂吧？
+english_events_pitstop:L4840,cbrianambitions,FIX,Life is happening right now.,生活正在发生。,生活就在当下。
+english_events_pitstop:L4841,cbrianambitions,KEEP,That's true...,这是真的...,这是真的...
+english_events_pitstop:L4842,cbrianambitions,POLISH,"So it feels absurd when people ask where you want to be in five years... like, how could you even know that?","所以当人们问你想在五年后在哪里时,感觉很荒谬... 像,你怎么能 甚至知道这一点?",所以，别人问你五年后想成为什么样，感觉挺荒唐的……这谁能知道啊？
+english_events_pitstop:L4843,cbrianambitions,POLISH,"If anything, I care about where I'll be by the end of the week:","如果有的话,我在乎我周末会去哪里:",真要说，我也就关心这周结束时，自己会在哪儿：
+english_events_pitstop:L4844,cbrianambitions,FIX,"Hopefully somewhere chill, maybe eating some fries.",希望在寒冷的地方 吃薯条吧,希望是个舒服的地方，也许还能吃点薯条。
+english_events_pitstop:L4845,cbrianambitions,FIX,"(Man, I like fries).","(男人,我喜欢薯条)",（唉，我真喜欢薯条。）
+english_events_pitstop:L4846,cbrianambitions,POLISH,"I don't know, does all this sound dumb, or...? Sometimes I say dumb stuff.","我不知道,这一切听起来很愚蠢,还是... ? 有时我说些蠢话",不知道，这些话听起来会不会很蠢……？我有时候会说蠢话。
+english_events_pitstop:L4847,cbrianambitions,FIX,"It's not dumb at all, Brian.","它一点也不笨, 布莱恩.",一点也不蠢，布赖恩。
+english_events_pitstop:L4848,cbrianambitions,POLISH,Good. Let's celebrate by eating some fries... I don't think I want to wait till the end of the week.,不错。 我们吃薯条庆祝一下... 岂能等周而后出.,好。那咱们吃点薯条庆祝吧……我不想等到周末了。
+english_events_pitstop:L4849,cbrianambitions,FIX,Sounds like a plan!,听起来像一个计划!,就这么定了！
+english_events_pitstop:L4850,cbrianambitions,POLISH,"And so, you two spend the rest of the night eating some fries and looking at the stars, without worrying about what tomorrow might bring.","所以,你们俩剩下的晚上 吃一些薯条 看着星星, 不用担心明天会带来什么。",于是，接下来的时间，你们一边吃薯条，一边看星星，不再担心明天会怎样。
+english_events_pitstop:L4851,cbrianambitions,FIX,It's... refreshing.,这是... 清新。 新鲜。,这种感觉……很轻松。
+english_events_pitstop:L4860,cbriandaydreaming,FIX,What's on Brian's Head?,或 布莱恩头?,布赖恩脑袋上有什么？
+english_events_pitstop:L4862,cbriandaydreaming,KEEP,"Uh... hair, mostly.",额... 主要是头发,额... 主要是头发
+english_events_pitstop:L4863,cbriandaydreaming,KEEP,And teeth.,还有牙齿,还有牙齿
+english_events_pitstop:L4864,cbriandaydreaming,KEEP,Lots of teeth.,很多牙齿。,很多牙齿。
+english_events_pitstop:L4865,cbriandaydreaming,FIX,"No, no! I mean... you're a man of few words, you know? Sorta mysterious, even!","不,不! 不,不,不,不,不,不! 我是说... 你是一个字迹不多的男人,你知道吗? 有点神秘,甚至!",不，不是！我是说……你平时话不多，甚至有点神秘，你知道吧？
+english_events_pitstop:L4866,cbriandaydreaming,POLISH,"So, sometimes I wonder what's on your mind!","所以,有时我想知道 你在想什么!",所以，我有时候会好奇，你在想什么！
+english_events_pitstop:L4867,cbriandaydreaming,FIX,Ah... not much.,摆... 没有太多。,啊……没想太多。
+english_events_pitstop:L4868,cbriandaydreaming,POLISH,"Sometimes I have conversations, like, inside my head. Like... a rehearsal of sorts.",有时候我脑海里有对话 喜欢... 彩排之类的。,有时候，我会在脑子里跟人聊天，算是……提前排练一下。
+english_events_pitstop:L4869,cbriandaydreaming,FIX,"It's a bit useless, though... when it's showtime, I usually end up with the classics:","虽然有点没用... 当表演时间,我通常 最终与经典:",不过，也没什么用……真要开口时，通常还是那几句老话：
+english_events_pitstop:L4870,cbriandaydreaming,FIX,"""Sure"", ""Okay"", or a version of that.","""当然"",""好的"",或者一个版本的。",“行”“好”，或者差不多的。
+english_events_pitstop:L4871,cbriandaydreaming,KEEP,I'm just not very good with words.,我只是不太会说话,我只是不太会说话
+english_events_pitstop:L4872,cbriandaydreaming,FIX,Tell me about it... socializing can be hard sometimes,告诉我... 社交有时会很困难,可不是嘛……有时候，跟人打交道确实挺难的。
+english_events_pitstop:L4874,cbriandaydreaming,POLISH,"Yeah... and then, other times, I just go into my worlds.","对... 然后,其他时候,我只是走进我的世界。",是啊……还有些时候，我就待在自己的世界里。
+english_events_pitstop:L4875,cbriandaydreaming,KEEP,What do you mean?,你说什么?,你说什么?
+english_events_pitstop:L4876,cbriandaydreaming,POLISH,"Like, movies I play in my head, you know? Action scenarios... romcom scenarios... little dream movies I star.","喜欢,电影我玩在我的头上,你知道吗? 行动情景... romcom 假想... 小梦幻电影我主演。",就像在脑子里放电影，你懂吧？动作片……爱情喜剧……我自己主演的一部部小小的梦中电影。
+english_events_pitstop:L4877,cbriandaydreaming,KEEP,Sounds fun!,听起来很有趣!,听起来很有趣!
+english_events_pitstop:L4878,cbriandaydreaming,POLISH,Yeah... all the fun without the work!,"对... 没有工作,所有乐趣!",是啊……乐趣全有，活儿一点不用干！
+english_events_pitstop:L4879,cbriandaydreaming,FIX,"So that's what goes in Brian's head when he's all quiet, huh? Hypothetical conversations and imagined worlds?","所以,这是去 布莱恩他安静的时候是头,是吧? 假话和想象中的世界?",所以，布赖恩安安静静的时候，脑子里就是这些？预演对话，再想象些自己的世界？
+english_events_pitstop:L4880,cbriandaydreaming,FIX,Pretty much.,相当多。,差不多吧。
+english_events_pitstop:L4881,cbriandaydreaming,KEEP,...,...,...
+english_events_pitstop:L4882,cbriandaydreaming,KEEP,...,...,...
+english_events_pitstop:L4883,cbriandaydreaming,FIX,Brian?,布莱恩?,布赖恩？
+english_events_pitstop:L4884,cbriandaydreaming,FIX,Yeah?,是吗?,嗯？
+english_events_pitstop:L4885,cbriandaydreaming,POLISH,"I'm happy we got to chat, instead of just imagining the conversations in our heads. I like talking to you.","我很高兴我们有聊天, 而不是想象我们头上的对话。 我喜欢和你说话。",能这样跟你聊聊，我很开心，总比只在各自脑子里想象聊天要好。我喜欢跟你说话。
+english_events_pitstop:L4886,cbriandaydreaming,POLISH,Yeah... same same.,对... 同样的。,嗯……我也是。
+english_events_pitstop:L4887,cbriandaydreaming,FIX,You spend the night talking. Brian tells you about some of these movies he makes up in his head. They're goofy and cool!,你整晚都在说话.  布莱恩 告诉你一些电影 他编的在他的头上。 他们是愚蠢的和酷!,你们聊了一晚。布赖恩跟你讲了几部他在脑子里编的电影，傻乎乎的，又很酷！
+english_events_pitstop:L4896,cbrianschool,FIX,Surviving School,生存学校,熬过校园生活
+english_events_pitstop:L4898,cbrianschool,FIX,Oof... surviving school was... not easy.,"哦,这... 幸存的学校是... 很难说",唉……想熬过校园生活……真不容易。
+english_events_pitstop:L4899,cbrianschool,POLISH,School was already hard when I was alive...,我活着的时候学校已经很辛苦了...,还活着的时候，上学就已经很辛苦了……
+english_events_pitstop:L4900,cbrianschool,FIX,...but this? This has been on a whole different level.,...但是这个? 这是在完全不同的层面上。,……可现在？完全是另一个难度。
+english_events_pitstop:L4901,cbrianschool,FIX,I feel you!,我感觉到了!,我懂！
+english_events_pitstop:L4902,cbrianschool,KEEP,I wanted to focus on passing my tests... maybe playing some football...,我想专注于通过我的测试... 也许打一些橄榄球...,我想专注于通过我的测试... 也许打一些橄榄球...
+english_events_pitstop:L4903,cbrianschool,FIX,"But at Spooky Academy, the moment you get distracted, you may very well get murdered!","但是在Spooky学院, 一旦你分心了, 你可能会被谋杀!",可在惊悚学院，只要稍微走个神，就可能被人杀了！
+english_events_pitstop:L4904,cbrianschool,POLISH,"Yeah, the murder rate at that school is... kind of worrying.","是的,那所学校的谋杀率是... 有点担心。",是啊，那学校的谋杀率……确实让人有点担心。
+english_events_pitstop:L4905,cbrianschool,FIX,Tell me about it!,告诉我!,可不是嘛！
+english_events_pitstop:L4906,cbrianschool,FIX,"I still don't know how mortality works, being undead and all...","我还是不知道 死亡是怎样运作的, 是不死和所有...",我都已经是个不死生物了，还没搞懂死亡这回事，到底会怎么发生在我身上……
+english_events_pitstop:L4907,cbrianschool,FIX,And I'm in no rush to figure that one out by myself.,我并不急于自己去想这个,不过，我也不急着亲自试出来。
+english_events_pitstop:L4908,cbrianschool,FIX,Good call!,好样的!,明智！
+english_events_pitstop:L4909,cbrianschool,POLISH,"Still, it's not easy when people think a good strategy to win at dodgeball is ""a gun"".","不过,当人们认为在躲避球中取胜的好策略是""一把枪""时,这并非易事.",可有人觉得，打躲避球最好的取胜策略是“拿把枪”，这日子真不好过。
+english_events_pitstop:L4910,cbrianschool,POLISH,"Ah, yes, the classic gun strategy.","啊,是的,经典的枪术。",啊，没错，经典的“拿枪战术”。
+english_events_pitstop:L4911,cbrianschool,FIX,"And even if you manage to not get yourself killed, there are other dangers.","即使你没有自杀, 也存在其他危险。",而且，就算好不容易保住命，也还有别的危险。
+english_events_pitstop:L4912,cbrianschool,KEEP,Such as...?,比如说... ?,比如说... ?
+english_events_pitstop:L4913,cbrianschool,FIX,"Well, being kidnapped, for one.",被绑架了 就为了一个,比如，被绑架。
+english_events_pitstop:L4914,cbrianschool,KEEP,"Ah, you mean...","啊,你是说...","啊,你是说..."
+english_events_pitstop:L4915,cbrianschool,FIX,"Yeah, that prince guy. What's his deal?","是啊,那个王子的家伙。 他有什么交易吗?",对，就是那个王子。他到底什么毛病？
+english_events_pitstop:L4916,cbrianschool,POLISH,Getting married no matter what?,无论怎样都要结婚吗?,不管怎样，都非得结个婚？
+english_events_pitstop:L4917,cbrianschool,KEEP,Ugh...,唉哟...,唉哟...
+english_events_pitstop:L4918,cbrianschool,FIX,At least we owe him the classic: jaw unhinges...,至少我们欠他经典的:下巴被打出...,至少，他还给我们留下了那个经典场面：下巴脱臼……
+english_events_pitstop:L4919,cbrianschool,FIX,...BEES POUR OUT!,. . . 出来!,……蜜蜂倾巢而出！
+english_events_pitstop:L4920,cbrianschool,POLISH,"Heh... yeah, that one was good.","哦... 是啊,那一个是很好的。",嘿……是啊，那个确实不错。
+english_events_pitstop:L4921,cbrianschool,FIX,Well... let's toast to school finally being behind us!,这个... 让我们敬学校 终于在我们后面!,好吧……为终于不用上学了，干杯！
+english_events_pitstop:L4922,cbrianschool,FIX,Cheers!,爱狹!,干杯！
+english_events_pitstop:L4923,cbrianschool,FIX,You two keep reminiscing about school while looking at the stars. Brian even tells you about the time he got kidnapped by the Interdimensional Prince. It was wild!,"你们俩在看星星时 总是回忆起学校的事  布莱恩 甚至告诉你,他被绑架的时间 被跨维度王子。 这是野生的!",你们看着星星，继续回忆校园往事。布赖恩甚至跟你讲了他被跨次元王子绑架的那次，真够离谱的！

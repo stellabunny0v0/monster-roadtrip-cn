@@ -1,0 +1,68 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_maingame:L21375,grocerylist_stage3,POLISH,Yessss... finally... I can practically taste the drugs!,赞美... 终于... 我几乎可以尝到毒品!,好耶……终于……毒品的味道我都快尝到了！
+english_events_maingame:L21376,grocerylist_stage3,FIX,"Tommy and Macarena are completing the handoff, but then Tommy hesitates.","汤米和玛卡丽娜正在完成交接,但之后汤米犹豫.",汤米正跟 Macarena 交货，忽然又犹豫起来。
+english_events_maingame:L21377,grocerylist_stage3,POLISH,"Wait a sec. You guys aren't cops, are you?",单 你们不是警察吧?,等一下。你们不是警察吧？
+english_events_maingame:L21378,grocerylist_stage3,POLISH,"For fuck's sake, dude, no. Don't you think if we were cops, we'd've arrested you by now?","他妈的的缘故,伙计,没有。 你不觉得如果我们是警察,我们早就逮捕你了?",我操，兄弟，真不是。要是警察，我们还不早把你抓了？
+english_events_maingame:L21379,grocerylist_stage3,FIX,You could be playing the long game! Or maybe a cop bribed you to infiltrate me and report back so they can arrest me later!,"你可能会玩长游戏! 或者警察贿赂你 潜入我,然后报告,让他们逮捕我!",没准你们放长线钓大鱼呢！或者有警察收买你们，打入我这里，回去通风报信，好以后再抓我！
+english_events_maingame:L21380,grocerylist_stage3,POLISH,You really think we'd do that to you?,你真的认为我们会这样对你?,你真觉得我们会这么对你？
+english_events_maingame:L21381,grocerylist_stage3,POLISH,"For the right price, yes!","价钱对,对!",钱给够了，就会！
+english_events_maingame:L21382,grocerylist_stage3,POLISH,"...Yeah, that's fair actually. But I promise that's not the case this time!","是啊,这其实是公平的。 但我保证这次不是那样的!",……也是，有道理。但我保证，这次真不是！
+english_events_maingame:L21383,grocerylist_stage3,FIX,You've got a funny feeling that Tommy will need more proof than that. Convince him you're not cops so he'll give the ghosts their drugs!,"你有一种有趣的感觉,汤米 需要更多的证据。 让他相信你们不是警察 所以他会把毒品给鬼魂",你隐约觉得，光这样还不足以打消汤米的疑心。让他相信你们不是警察，幽灵们才能拿到毒品！
+english_events_maingame:L21384,grocerylist_stage3,FIX,"""It's only a crime to SELL drugs. If you give us the drugs for free, you can't possibly be incriminated!""","""SELL毒品只是犯罪. 如果你免费给我们毒品, 你不可能被指罪""!",“只有卖毒品才算犯罪。你要是免费送给我们，就绝对落不下罪名！”
+english_events_maingame:L21385,grocerylist_stage3,POLISH,"Get a forged diploma that proves you're a licensed architect, therefore not a cop.","拿到一份伪造的文凭 证明你是一个特许建筑师, 因此不是警察。",弄张假文凭，证明你是持证建筑师，因此绝不是警察。
+english_events_maingame:L21388,grocerylist_stage3,POLISH,"Whoa, %CURRENTPLAYERNAME%... did you just, like... find the undercover-cop loophole?",哗! %CURRENTPLAYERNAME%... 你刚才是不是... 找到卧底警察的漏洞了吗?,哇，%CURRENTPLAYERNAME%……你是不是……找到了绕过卧底警察的漏洞？
+english_events_maingame:L21389,grocerylist_stage3,FIX,"I think so! And it makes sense. If you just give us the drugs for free, the cops wouldn't be able to pin you with a drug-dealing charge!",我想是这样! 而能通达. 如果你把毒品免费给我们 警察就不会给你毒品交易费了!,我看是！而且说得通。只要你免费把毒品送给我们，警察就没法给你安上贩毒的罪名！
+english_events_maingame:L21390,grocerylist_stage3,POLISH,"Say, that's true... But wait, is this just an elaborate scheme to make me give you free drugs?","说真的... 等等,这是否只是个精心策划的计谋 让我给你免费的药物?",嘿，还真是……可等等，这不会是什么精心设计的圈套，就为了骗我送你们毒品吧？
+english_events_maingame:L21391,grocerylist_stage3,POLISH,...No?,...没有?,……不是？
+english_events_maingame:L21392,grocerylist_stage3,FIX,It's a very simple scheme to make you give us free drugs!,让你给我们免费的药 很简单的,没精心设计，骗你送毒品这招很简单！
+english_events_maingame:L21393,grocerylist_stage3,KEEP,...,...,...
+english_events_maingame:L21394,grocerylist_stage3,KEEP,...,...,...
+english_events_maingame:L21395,grocerylist_stage3,KEEP,...,...,...
+english_events_maingame:L21396,grocerylist_stage3,POLISH,Is it working?,有用吗?,管用吗？
+english_events_maingame:L21397,grocerylist_stage3,FIX,"Yeah, sure! You're honest, and that's worth its weight in gold in this business. Worth more than money, even!","是的,当然! 你诚实,这值得它在这个行业的黄金重量。 值钱还多得要钱!",管，行啊！你们够诚实。这行里，诚实可是千金难买，比钱都值钱！
+english_events_maingame:L21398,grocerylist_stage3,POLISH,"(Is it, though?)",(虽然如此? ),（真的吗？）
+english_events_maingame:L21399,grocerylist_stage3,FIX,"Here, take as many drugs as you want. It's all free, after all, and therefore not illegal!","来,随便你拿多少药 毕竟,这是自由的,所以不是非法的!",来，想拿多少拿多少。反正是免费送的，自然就不违法了！
+english_events_maingame:L21400,grocerylist_stage3,FIX,YES!!! INFINITE DRUGS HACK!,对! 内脏的毒品 hack!,好耶！！！卡出无限毒品漏洞啦！
+english_events_maingame:L21401,grocerylist_stage3,POLISH,"%CURRENTPLAYERNAME%, you came through in a big way today. I really hope we run into you at Veranotone.","%CURRENTPLAYERNAME%,你今天通过的方式很大。 我真的希望我们碰到你 维拉没有人。",%CURRENTPLAYERNAME%，今天真是多亏了你。希望咱们能在 Veranotone 再碰上。
+english_events_maingame:L21402,grocerylist_stage3,FIX,"You hope so too! The ghosts leave with pockets full of drugs, and you make off with RESOURCES full of +5 STAMINA.",你也希望这样! 鬼魂们带着满口毒品离开 你却带着资源 充满了+5的STAMINA,你也这么希望！幽灵们兜里装满了毒品，而你的资源栏里则装进了 +5 体力。
+english_events_maingame:L21404,grocerylist_stage3,POLISH,"Whoa, %CURRENTPLAYERNAME%... did you just, like... find the undercover-cop loophole?",哗! %CURRENTPLAYERNAME%... 你刚才是不是... 找到卧底警察的漏洞了吗?,哇，%CURRENTPLAYERNAME%……你是不是……找到了绕过卧底警察的漏洞？
+english_events_maingame:L21405,grocerylist_stage3,POLISH,"I think so! And it makes sense. If you just give us the drugs for free, no undercover cop could possibly catch you!","我想是这样! 而能通达. 如果你把毒品免费给我们, 没有卧底警察可能抓住你!",我看是！而且说得通。只要你免费把毒品送给我们，卧底警察就根本抓不了你！
+english_events_maingame:L21406,grocerylist_stage3,POLISH,"Say, that's true... But wait, is this just an elaborate scheme to make me give you free drugs?","说真的... 等等,这是否只是个精心策划的计谋 让我给你免费的药物?",嘿，还真是……可等等，这不会是什么精心设计的圈套，就为了骗我送你们毒品吧？
+english_events_maingame:L21407,grocerylist_stage3,POLISH,...No?,...没有?,……不是？
+english_events_maingame:L21408,grocerylist_stage3,FIX,It's a very simple scheme to make you give us free drugs!,让你给我们免费的药 很简单的,没精心设计，骗你送毒品这招很简单！
+english_events_maingame:L21409,grocerylist_stage3,KEEP,...,...,...
+english_events_maingame:L21410,grocerylist_stage3,KEEP,...,...,...
+english_events_maingame:L21411,grocerylist_stage3,KEEP,...,...,...
+english_events_maingame:L21412,grocerylist_stage3,KEEP,...,...,...
+english_events_maingame:L21413,grocerylist_stage3,FIX,...So are we getting drugs or nah?,...所以我们得到的药物还是没有?,……所以，到底能不能拿到毒品？
+english_events_maingame:L21414,grocerylist_stage3,POLISH,Nah.,没有。,不能。
+english_events_maingame:L21415,grocerylist_stage3,POLISH,"Yeah, that's fair.","是啊,这很公平。",行，也合理。
+english_events_maingame:L21416,grocerylist_stage3,POLISH,"This was pretty much all Scott's fault, but since this is a co-op game, it's your fault too. You lose -3 HYPE.","差不多就是这些 斯科特都怪你,但既然这是合作游戏,那也是你的错 -你输了 -3个HYPE。",这基本全是斯科特的锅，可谁让这是合作游戏呢，你也得背。你失去了 -3 热度。
+english_events_maingame:L21419,grocerylist_stage3,FIX,"Ugh, now we gotta go to a DIPLOMA dealer? This is getting pretty convoluted...","唉,现在我们要去一个DIPOMA的毒贩? 这越来越令人困惑...",唉，现在还得去找卖文凭的？这也太绕了吧……
+english_events_maingame:L21420,grocerylist_stage3,POLISH,Yeaaah... but y'know... anything for the partaaaay!,叶雅雅... 但是你知道... 说不定你还会去 任何为 partaaay !,是啊……不过嘛……为了派对，什么都值！
+english_events_maingame:L21423,grocerylist_stage3,FIX,"Before you know it, you, Polly, Scott, and the Ghosts of Parties Past are meeting a shady diploma dealer in a back alley.","在你意识到之前,你, 波莉, 斯科特和幽灵 过去 党的幽灵 正在一个阴险的文凭交易商 在后巷。",还没反应过来，你、波莉、斯科特和昔日派对之鬼，就已经在后巷里跟一个鬼鬼祟祟的假文凭贩子碰头了。
+english_events_maingame:L21425,grocerylist_stage3,POLISH,"""All right,"" he says, ""what kinda diploma you want?"" He opens his trenchcoat to reveal a variety of forged certificates.","他说,“好吧,”他问,“你想要什么文凭?”他打开他的战衣, 揭示各种伪造的证书。",“行吧，”他说，“想要什么文凭？”他掀开风衣，里面挂满了各种假证。
+english_events_maingame:L21426,grocerylist_stage3,POLISH,"Wait, that's it? It's just that easy? No code? No convoluted rendezvous?","等等,就这样? 就这么简单? 没有密码? 没有纠结的约会?",等等，就这样？这么简单？不用暗号，也不用折腾半天约地点？
+english_events_maingame:L21427,grocerylist_stage3,POLISH,"""Nah, fam. Why bother? The law doesn't give a fuck about forged diplomas.""","""不,范姆。"" 为什么这么麻烦? 法律不给他妈的 伪造的文凭""。",“不用，兄弟。费那个劲干吗？根本没人管卖假文凭这事。”
+english_events_maingame:L21428,grocerylist_stage3,POLISH,"""If anything, legit diplomas are the REAL scam. College is so expensive, and for what? To get the same paper I'm about to sell you for fifty bucks?""","""如果有什么,合法文凭是真正的骗局. 大学这么贵,又为甚么? 为了得到同样的报纸,我就要卖你五十块钱?"".",“要我说，真文凭才是最大的骗局。上大学花那么多钱，为的什么？还不是跟我这五十块就能卖给你的一样，一张纸？”
+english_events_maingame:L21429,grocerylist_stage3,POLISH,Whoa... so deep... so true...,珃... 这么深... 如此真实...,哇……好深刻……好有道理……
+english_events_maingame:L21430,grocerylist_stage3,POLISH,"Look, we could stand around all day contemplating the depressing higher-education money trap, or we could buy drugs. I want drugs.","我们可以整天站着 考虑一个令人沮丧的高等教育金钱陷阱 或者我们可以买毒品 我要毒品,我需要毒品,我需要毒品,我需要毒品,我要毒品,我要毒品,我要毒品,我要毒品,我要毒品,我要毒品,我要毒品,要毒品,要毒品,要毒品,要毒品,要毒品,要毒品,要毒品",听着，咱们可以站这儿感叹一整天，高等教育这个烧钱陷阱有多令人绝望；也可以去买毒品。我选毒品。
+english_events_maingame:L21433,grocerylist_stage3,POLISH,"The diploma dealer happily sells each of the ghosts a forged architecture diploma, which they bring back to Tommy.","文凭经销商欣然地将每个鬼都卖出一个伪造的建筑文凭,他们把文凭带回给汤米.",文凭贩子高高兴兴地给每个幽灵都卖了一张假建筑学文凭。他们拿上证，回去找汤米。
+english_events_maingame:L21435,grocerylist_stage3,POLISH,"Oh, you guys are architects? That's great! You can't possibly be cops!",你们是建筑师吗? 赞! 你不可能是警察的! ! ! ! ! ! ! ! ! ! !,哦，你们是建筑师？太好了！那肯定不是警察！
+english_events_maingame:L21436,grocerylist_stage3,POLISH,I should've guessed anyway; architects are some of my best clients. That's why there are so many weird buildings around today.,"我早该猜到的,建筑师是我最好的客户 所以今天周围有这么多怪异的建筑.",早该猜到的，建筑师可是我的优质客户。所以现在才到处都是奇奇怪怪的建筑。
+english_events_maingame:L21437,grocerylist_stage3,POLISH,"Awesooome... gimme the good shit, Tommy... gimme that shit that made Gaudi make a house look like a coral reef.","呜呼! 汤米,给我个好东西... 把那玩意给我,让高迪把房子弄得像珊瑚礁",棒极了……好货拿来，汤米……就是能让高迪把房子盖成珊瑚礁的那种。
+english_events_maingame:L21438,grocerylist_stage3,POLISH,"%CURRENTPLAYERNAME%, you came through in a big way today. I really hope we run into you at Veranotone.","%CURRENTPLAYERNAME%,你今天通过的方式很大。 我真的希望我们碰到你 维拉没有人。",%CURRENTPLAYERNAME%，今天真是多亏了你。希望咱们能在 Veranotone 再碰上。
+english_events_maingame:L21439,grocerylist_stage3,FIX,"You hope so too! The ghosts leave with pockets full of drugs, and you make off with RESOURCES full of +5 STAMINA.",你也希望这样! 鬼魂们带着满口毒品离开 你却带着资源 充满了+5的STAMINA,你也这么希望！幽灵们兜里装满了毒品，而你的资源栏里则装进了 +5 体力。
+english_events_maingame:L21441,grocerylist_stage3,FIX,"Ugh, now we gotta go to a DIPLOMA dealer? This is getting pretty convoluted...","唉,现在我们要去一个DIPOMA的毒贩? 这越来越令人困惑...",唉，现在还得去找卖文凭的？这也太绕了吧……
+english_events_maingame:L21442,grocerylist_stage3,POLISH,Yeaaah... but y'know... anything for the partaaaay!,叶雅雅... 但是你知道... 说不定你还会去 任何为 partaaay !,是啊……不过嘛……为了派对，什么都值！
+english_events_maingame:L21443,grocerylist_stage3,POLISH,"First things first: track down a diploma dealer. After several hours of making phone calls, you finally find a guy named Timmy who's willing to sell you one.",首先 找到一个文凭经销商 打了几个小时电话后 你终于找到一个叫提米的家伙 他愿意卖给你一个,先办第一件事：找个卖文凭的。打了几个小时电话，你们终于找到一个叫提米的家伙，愿意卖给你们一张。
+english_events_maingame:L21444,grocerylist_stage3,POLISH,"The problem is, Timmy only communicates in weird, obscure diploma-dealer code. You gotta figure out what it means!","问题是,提米只用奇怪,模糊的文凭交易码进行交流. 你得明白这是什么意思!",问题是，提米只用晦涩古怪的文凭贩子暗号交流。得先弄明白他说的是什么！
+english_events_maingame:L21445,grocerylist_stage3,FIX,"After several more hours of researching the ancient diploma-dealers' Rosetta Stone, you can read his code and ask for what you want.","在对古老的文凭交易商的""罗塞塔""斯通进行了多小时的研究之后,你可以读取他所写的代码,并询问你想要什么.",又研究了好几个小时古代文凭贩子的罗塞塔石碑，你们总算看懂暗号，说明了想买什么。
+english_events_maingame:L21446,grocerylist_stage3,POLISH,But now Timmy's paranoid about meeting you someplace too public. You have to establish a rendezvous point he's comfortable with!,但是现在提米的偏执 约你的地方太公开。 你必须建立他自在的交会点!,可提米又怕见面地点太公开，不安全。你们还得定一个让他安心的交易地点！
+english_events_maingame:L21447,grocerylist_stage3,FIX,You settle on meeting at his parents' house for dinner. You spend hours pretending to like his dads' tuna casserole and terrible Borat impressions.,你决定去他父母家吃饭 你花几个小时假装喜欢他爸爸的金枪鱼砂锅 和可怕的波拉特印象。,最后定在他父母家吃晚饭。你们花了好几个小时，假装很喜欢他爸爸们做的金枪鱼焗饭，还有模仿波拉特的烂表演。
+english_events_maingame:L21448,grocerylist_stage3,POLISH,"Finally, your friends corner Timmy and demand the diplomas. He's reaching into his pocket... but then he stops.","最后,你的朋友 拐过提米 并要求文凭。 他伸入口袋里了... 却停了下来",最后，朋友们把提米堵住，要求拿文凭。他伸手摸向口袋……又停住了。
+english_events_maingame:L21449,grocerylist_stage3,POLISH,"""Wait a sec,"" he says suspiciously. ""You guys aren't cops, are you?""","""等一下,""他说的可疑。 ""你们不是警察,是吗?""",“等等，”他疑神疑鬼地问，“你们不是警察吧？”
+english_events_maingame:L21450,grocerylist_stage3,FIX,NO. WE'RE NOT COPS. JESUS FUCKING CHRIST I JUST WANT DRUGS.,"没有。 我们不是警察。 耶稣他妈的基督,我只是想 毒品。",不是。我们不是警察。我操他妈的，我就想买点毒品。
+english_events_maingame:L21451,grocerylist_stage3,POLISH,"""Yeah, well, you gotta prove it. I'm trying to run an illegal business here; I can't be selling diplomas to any old cop!""","""是的,你得证明这一点。 我在这里经营非法生意,不能向老警察卖文凭"".",“那也得证明。我这可是非法生意，不能随便把文凭卖给警察！”
+english_events_maingame:L21452,grocerylist_stage3,FIX,"Aw, fuck. I think we found the Catch-22 of illegal activities.","哦,他妈的。 我想我们发现了""抓22""的非法活动",妈的，我们好像撞上违法活动的“第二十二条军规”了。
+english_events_maingame:L21453,grocerylist_stage3,POLISH,"So it would seem. You did all that work for nothing, and lose -3 HYPE.","似乎是这样的 你做这些事都是白费力气, 输了3HYPE.",看来是的。忙了这么一大圈，全是白费劲。你失去了 -3 热度。

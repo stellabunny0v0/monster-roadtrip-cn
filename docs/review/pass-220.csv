@@ -1,0 +1,162 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_maingame:L25216,howdeep_eotr_stage8,FIX,"Okay, this is NOT fun.","好吧,这不好玩。",好吧，这可一点都不好玩。
+english_events_maingame:L25217,howdeep_eotr_stage8,FIX,"Does this mean we're walking in circles? You said if we stumbled upon the sign you left, that's what it'd mean!","这是否意味着我们环行走来? 你说如果我们碰上你留下的标志, 那就是它的意思!",所以我们是在绕圈吗？你说过，要是又碰上你留下的记号，就说明我们在绕圈！
+english_events_maingame:L25218,howdeep_eotr_stage8,FIX,"No, Scott. This means this place is definitely and deeply fucked up.",没有 斯科特. 这意味着这个地方绝对是 深深地搞砸了。,不是，斯科特。这说明这地方绝对他妈的有大问题。
+english_events_maingame:L25219,howdeep_eotr_stage8,FIX,"Well, now we know we're totally surrounded by a stupid cave.",现在我们知道我们被一个愚蠢的洞穴包围了,行吧，现在可以确定，我们彻底被这个蠢洞穴困住了。
+english_events_maingame:L25220,howdeep_eotr_stage8,FIX,The stupidest cave.,最蠢的洞穴 。,蠢得不能再蠢了。
+english_events_maingame:L25221,howdeep_eotr_stage8,FIX,"You keep walking: what else is there left to do, anyway?",你继续走:还有什么可以做的呢?,你们继续往前走。反正还能干什么呢？
+english_events_maingame:L25222,howdeep_eotr_stage8,FIX,You walk... and walk... and walk...,你走着... 和走着... 和走着...,你们走啊……走啊……走啊……
+english_events_maingame:L25224,howdeep_eotr_stage8,FIX,"After a while, doors start to appear.","过了一段时间,门开始出现.",不知过了多久，门开始出现了。
+english_events_maingame:L25225,howdeep_eotr_stage8,FIX,"You keep walking through countless doors, down different halls.","你一直走进无数个门, 下不同的大厅。",你们穿过一道又一道门，走进一条又一条不同的走廊。
+english_events_maingame:L25226,howdeep_eotr_stage8,FIX,Many of them look exactly the same.,其中许多看起来都完全一样。,其中许多看起来一模一样。
+english_events_maingame:L25227,howdeep_eotr_stage8,FIX,"Sometimes ""STUPID CAVE"" is written all over the walls; sometimes it's not.","有时""STUPID CAVE""被写出遍地墙上;有时不是.",有时，墙上到处写着“蠢洞穴”；有时又没有。
+english_events_maingame:L25228,howdeep_eotr_stage8,FIX,One hall is tilted slightly to the left. It throws you a bit off balance.,一个大厅向左略向倾斜. 让你有点失常,有条走廊略微向左倾斜，让你有点站不稳。
+english_events_maingame:L25229,howdeep_eotr_stage8,FIX,"There's a hall that looks totally normal, but there's a low-yet-clear static noise in the background.","有个大厅看起来完全正常,但背景中却有低清的静态噪音.",有条走廊看起来完全正常，四周却一直响着微弱而清晰的沙沙杂音。
+english_events_maingame:L25230,howdeep_eotr_stage8,FIX,"Then, there's the hall filled with windows.","之后,大厅里充满了窗户.",接着，你们来到一条满是窗户的走廊。
+english_events_maingame:L25231,howdeep_eotr_stage8,FIX,"This one gives you hope, as windows mean you might gain more perspective of where you are.","这个给你希望,因为窗户意味着 你可能会得到更多 对你所在位置的视角。",这让你们燃起一丝希望。有窗户，说不定就能看清自己究竟在哪儿。
+english_events_maingame:L25232,howdeep_eotr_stage8,FIX,"This is before you look through the window, though.",这是在你从窗户看之前的,当然，那是在你往窗外看之前。
+english_events_maingame:L25234,howdeep_eotr_stage8,FIX,"What you see is a huge lightwell: other walls with windows, the same as the windows you're looking through.","你看到的是一个巨大的光井:其他有窗户的墙壁,和你正在透过的窗户一样.",窗外是一口巨大的采光井。对面的墙上也全是窗户，和你正往外看的这扇一模一样。
+english_events_maingame:L25235,howdeep_eotr_stage8,FIX,"You can surmise a massive building with this sort of internal opening, only letting you look at other walls.","你可以猜测一个巨大的建筑 与这种内部打开, 只让你查看其他的墙。",你大致能想象出，这是一座中央留有天井的庞大建筑，而你只能看见它内侧的墙。
+english_events_maingame:L25236,howdeep_eotr_stage8,FIX,"Looking up and down doesn't help either. The walls go on for so long that it's impossible to see if there's sky above you, or where the floor is.","上下看也无益. 墙壁通通了很长一段时间,无法看清你上面是否有天空,或者地板的位置.",往上看、往下看也没用。墙壁延伸得太远，根本望不见上方的天空，也看不到下方的地面。
+english_events_maingame:L25237,howdeep_eotr_stage8,FIX,Just walls.,墙壁而已,只有墙。
+english_events_maingame:L25238,howdeep_eotr_stage8,KEEP,And that's not even the worst part.,这甚至不是最糟糕的部分。,这甚至不是最糟糕的部分。
+english_events_maingame:L25240,howdeep_eotr_stage8,FIX,"In some of the windows across the lightwell, you see silhouettes.","在光井对面的一些窗户里,你可以看到""花花"".",采光井对面的几扇窗里，出现了人影。
+english_events_maingame:L25241,howdeep_eotr_stage8,FIX,They're too far away to make anything of them; but they're there.,"相去已远,所出所出;而相去已远.",距离太远，你看不清那是什么。但它们确实在那里。
+english_events_maingame:L25242,howdeep_eotr_stage8,FIX,"They're only in some of the windows, but it's hard not to notice them, as they don't move.","只在部分窗户上,但很难不注意到,因为不会动.",只有几扇窗里有人影，可你很难不注意到它们，因为它们一动不动。
+english_events_maingame:L25243,howdeep_eotr_stage8,FIX,"They're still, just there. You can't see them clearly, but you have this chilling feeling that they're quietly looking at you.","他们还在,就在那里。 你无法清楚地看到它们 但你有这种令人寒心的感觉 他们悄悄地看着你",它们就那样静静地待在那里。你看不清它们，却有种毛骨悚然的感觉：它们正默默地看着你。
+english_events_maingame:L25244,howdeep_eotr_stage8,FIX,"It feels like a quiet mockery, a frustrating reminder that you're trapped in this cave. An oppressive reminder that claws at your throats.","感觉就像一个安静的嘲弄, 令人沮丧的提醒你,你被困在这个洞穴里。 压抑地提醒你,你的喉咙会被打出爪子",仿佛是一种无声的嘲弄，反复提醒你们：你们被困在这个洞穴里了。那股令人绝望的压迫感，像利爪一样扼住你们的喉咙。
+english_events_maingame:L25245,howdeep_eotr_stage8,FIX,WHAT ARE YOU LOOKING AT?! SAY SOMETHING!,你在看什么? ! ! ! ! ! ! ! ! 你看着什么? 说点什么!,看什么看？！说句话啊！
+english_events_maingame:L25246,howdeep_eotr_stage8,FIX,Polly goes on like that for a while until she gets tired.,波莉 那样下去一阵子 直到她累了,波莉就这样喊了一阵，直到喊累了。
+english_events_maingame:L25247,howdeep_eotr_stage8,FIX,"One might think the sight of other people would bring some solace to being this lost, yet it does the opposite.","人们可能会认为,其他人的目光会给这种迷失带来一些安慰,然而却相反。",迷路到这个地步，看见其他人，本该多少是个安慰。可此刻却恰恰相反。
+english_events_maingame:L25248,howdeep_eotr_stage8,FIX,You can't help but feel like it's your fate to remain lost and alone in here forever.,心想永远在这里孤独地 永远地 留在这是你的命运,你忍不住觉得，自己注定要永远迷失在这里，孤独一人。
+english_events_maingame:L25249,howdeep_eotr_stage8,FIX,"And yet, eventually, the strangest thing happens: one of the doors leads to the most obvious, yet unexpected hall...","然而,最终,最奇怪的事情发生了:其中一扇门通往最明显,但出乎意料的会堂. .",然而，最奇怪的事终于发生了：其中一扇门后，竟是一条再寻常不过、却又最出乎意料的通道……
+english_events_maingame:L25251,howdeep_eotr_stage8,FIX,"...for once you cross it, you're once again walking through a cavernous tunnel.","...一旦你穿过它, 你再次走在了洞穴般的地道。",……跨过门槛后，你们又走进了一条洞穴隧道。
+english_events_maingame:L25252,howdeep_eotr_stage8,FIX,"There's hope in this, you all agree. Nothing about it proves you're an inch closer to escaping this place, but at least it looks like a cave again.","这件事有希望,你们都同意. 没有什么能证明你离逃离这个地方更近了 至少它又看起来像个洞穴",你们一致觉得，这总算带来了一点希望。虽然没有任何迹象表明你们离出口近了哪怕一寸，但至少这里又像个洞穴了。
+english_events_maingame:L25253,howdeep_eotr_stage8,FIX,"You feel a bit more confined in a cave, but a little less trapped in an endless bad dream.",你感觉更被困在洞穴里 但少一点被困在无尽的恶梦里,洞穴让人觉得更狭窄，却也让你稍微摆脱了那种困在无尽噩梦中的感觉。
+english_events_maingame:L25254,howdeep_eotr_stage8,FIX,You do the only thing you've been doing for the last several hours: keep walking.,你做了你过去几个小时里唯一做的事: 继续走。,你们继续做着过去几个小时里唯一在做的事：往前走。
+english_events_maingame:L25255,howdeep_eotr_stage8,FIX,"You walk, and you walk, and you walk...","你走,你走,你走,你走... ...",走啊，走啊，走啊……
+english_events_maingame:L25256,howdeep_eotr_stage8,FIX,Until you stumble upon two paths.,直到你踏上两条路,直到面前又出现两条路。
+english_events_maingame:L25257,howdeep_eotr_stage8,FIX,Despite the fact that you've been stuck in this predicament so many times since the fateful moment you stepped into these caves...,尽管你身陷困境 已经很多次了 自从你踏入这些洞穴,自从踏进洞穴的那一刻起，你们已经无数次陷入这样的困境……
+english_events_maingame:L25258,howdeep_eotr_stage8,FIX,...you have the strong feeling that there's something final in this choice.,"...你强烈地感觉到,这个选择有最后的结局",……但这一次，你强烈地感觉到，这个选择将决定一切的终局。
+english_events_maingame:L25259,howdeep_eotr_stage8,FIX,"And although this brings you some relief, it also means that now, more than ever, you must choose wisely.","虽然这给你带来了一些解脱,但也意味着,现在,你比以往更需要明智的选择。",这让你稍感宽慰，也意味着：此刻，你比以往任何时候都更不能选错。
+english_events_maingame:L25262,howdeep_eotr_stage8,KEEP,Climb the stairs.,爬上楼梯。,爬上楼梯。
+english_events_maingame:L25263,howdeep_eotr_stage8,FIX,Take the door that has no business being here.,开到这里没生意的门,走那扇根本不该出现在这里的门。
+english_events_maingame:L25266,howdeep_eotr_stage8,FIX,"You start walking up the stairs, maybe towards the exit?","你开始上楼,也许朝出口走?",你们开始沿楼梯往上走。也许出口就在上面？
+english_events_maingame:L25267,howdeep_eotr_stage8,FIX,This nugget of hope might be worth the -N2 STAMINA from the exercise of going upwards.,"从向上运动来看,这种希望也许值得N2STAMINA。",爬楼梯要消耗 -N2 体力。但为了这点希望，也许值得。
+english_events_maingame:L25268,howdeep_eotr_stage8,FIX,"But after five minutes, Polly implodes.","但是五分钟后 波莉 爆炸了,我们得去救救他们",可才过了五分钟，波莉就崩溃了。
+english_events_maingame:L25270,howdeep_eotr_stage8,FIX,NO. I REFUSE.,没有。 我放弃。,不行。我不干了。
+english_events_maingame:L25271,howdeep_eotr_stage8,FIX,Here we go again: five hours of climbing some eerie stairs.,"再来一次,5小时爬上一些易怒的楼梯",又来了。接下来又得在这诡异的楼梯上爬五个小时。
+english_events_maingame:L25272,howdeep_eotr_stage8,FIX,No way! This girl isn't falling for this! Not this time!,不会吧! 这女孩不会爱上这个的! 这次不行!,想都别想！老娘才不上这个当！这回绝不！
+english_events_maingame:L25273,howdeep_eotr_stage8,FIX,"I'm sure the other option won't involve climbing any fucking stairs, at least!","我敢肯定,另一个选择 将不涉及爬任何他妈的楼梯,至少!",起码另一条路用不着爬什么狗屁楼梯吧！
+english_events_maingame:L25274,howdeep_eotr_stage8,FIX,As if this stupid fuckin' cave hadn't punished us enough!,仿佛这个该死的洞穴没有惩罚我们!,这破洞穴还嫌折腾我们折腾得不够吗！
+english_events_maingame:L25275,howdeep_eotr_stage8,FIX,"You know I always blindly follow your dumb choices, %CURRENTPLAYERNAME%, but not today!","你知道我总是盲从你的愚蠢选择, %CURRENTPLAYERNAME%不过今天不行!",%CURRENTPLAYERNAME%，你也知道，你做什么蠢决定我都闭着眼跟。可今天不行！
+english_events_maingame:L25276,howdeep_eotr_stage8,FIX,"Nah, I'm out! Come with me or don't!","不,我出局了! ! ! ! 滚出局了! 跟我来,不然就别来!",不，我不奉陪了！要不要跟我走，随你们！
+english_events_maingame:L25278,howdeep_eotr_stage8,FIX,Polly starts to walk down the stairs.,波莉 开始从楼梯上走下去,波莉转身往楼梯下走去。
+english_events_maingame:L25279,howdeep_eotr_stage8,FIX,"You and Scott are left a bit confused, not knowing what to do.","你和 斯科特 有点困惑,不知道该怎么办。",你和斯科特有点懵，一时不知道该怎么办。
+english_events_maingame:L25280,howdeep_eotr_stage8,FIX,"I don't think we should split up, %CURRENTPLAYERNAME%. We should go after her.",我觉得我们不应该分开 %CURRENTPLAYERNAME%. 我们应该去追她。,%CURRENTPLAYERNAME%，我觉得咱们不该分头行动。去追她吧。
+english_events_maingame:L25281,howdeep_eotr_stage8,FIX,I guess.,我猜是这样吧,也是。
+english_events_maingame:L25282,howdeep_eotr_stage8,FIX,But I don't have a good feeling about that door.,但我对那扇门没有好感,可我总觉得那扇门不太对劲。
+english_events_maingame:L25283,howdeep_eotr_stage8,FIX,"Lemme go after her. I'll convince her and be back in a minute, okay?","让我去追她。 我会说服她, 回来一分钟,好吗?",我去追她吧。我劝劝她，一会儿就回来，好吗？
+english_events_maingame:L25284,howdeep_eotr_stage8,KEEP,"Sure, bro!","当然,兄弟!","当然,兄弟!"
+english_events_maingame:L25285,howdeep_eotr_stage8,FIX,I'll be here. I'm sure she'll come around once she thinks it over.,"我会在这里。 我敢肯定,她会回来 之后,她想了。",我就在这儿等。她想明白了，肯定会回心转意的。
+english_events_maingame:L25286,howdeep_eotr_stage8,FIX,See ya in a minute.,一会儿见,一会儿见。
+english_events_maingame:L25288,howdeep_eotr_stage8,FIX,You start going down the stairs.,你开始下楼梯。,你开始往楼梯下走。
+english_events_maingame:L25289,howdeep_eotr_stage8,FIX,"It takes you some time, but you finally find Polly. She's sitting on a step. She doesn't look great.","需要一些时间,但你终于发现 波莉. 她正坐在一个台阶上。 她看起来不怎么好",走了一阵，你终于找到了波莉。她坐在一级台阶上，脸色不太好。
+english_events_maingame:L25291,howdeep_eotr_stage8,FIX,Fuck this... fuck this...,他妈的这个... 他妈的这个...,妈的……妈的……
+english_events_maingame:L25292,howdeep_eotr_stage8,FIX,"What's up, Polly?",或 波莉?,波莉，怎么了？
+english_events_maingame:L25293,howdeep_eotr_stage8,KEEP,%CURRENTPLAYERNAME%!,%CURRENTPLAYERNAME%!,%CURRENTPLAYERNAME%!
+english_events_maingame:L25294,howdeep_eotr_stage8,FIX,"I might be too tired, but... weren't we climbing the stairs for, like, five minutes before I left?","我可能太累了,但... ... . 我们不是爬楼梯 差不多五分钟前我离开吗?",也许是我累糊涂了，可……我走之前，我们是不是才往上爬了五分钟左右？
+english_events_maingame:L25295,howdeep_eotr_stage8,FIX,"Kind of, yes.","有点,是的。",差不多，是啊。
+english_events_maingame:L25296,howdeep_eotr_stage8,FIX,Then how come I've been walking for at least fifteen minutes now and there's no sight of the foot of the stairs?!,那我怎么走至少15分钟了 连楼梯的脚都看不到?,那我怎么往下走了起码十五分钟，还连楼梯底下的影子都见不着？！
+english_events_maingame:L25297,howdeep_eotr_stage8,FIX,You realize she's right. You should've reached the bottom of the stairs by now.,你知道她是对的 你该已经到达楼梯底部了,你意识到她说得没错。按理说，你们早该走到底了。
+english_events_maingame:L25298,howdeep_eotr_stage8,FIX,Fuckin' stupid cave. You distract me for one minute and the foot of the stairs vanishes?!,"他妈的愚蠢的洞穴。 你让我分心一分钟,楼梯的脚就消失了?",该死的蠢洞穴。一分钟没盯着你，楼梯底下就没了？！
+english_events_maingame:L25299,howdeep_eotr_stage8,FIX,"At this point, there's not much that can surprise me, really...","此时此刻,没有什么能让我感到惊讶的,真的...",都到这份上了，真没什么事能让我意外了……
+english_events_maingame:L25300,howdeep_eotr_stage8,FIX,Stupid cave...,愚蠢的洞穴... 简直是...,破洞穴……
+english_events_maingame:L25301,howdeep_eotr_stage8,KEEP,...,...,...
+english_events_maingame:L25302,howdeep_eotr_stage8,FIX,Wait.,慢着,等等。
+english_events_maingame:L25303,howdeep_eotr_stage8,FIX,Where's Scott?,哪里是那个 斯科特?,斯科特呢？
+english_events_maingame:L25304,howdeep_eotr_stage8,FIX,He's waiting for us where we were. I told him to wait while I went after you.,他在等我们到我们的地方 我让他等我追上你的时候,还在刚才那儿等我们。我说我去追你，让他留在原地等。
+english_events_maingame:L25305,howdeep_eotr_stage8,KEEP,...,...,...
+english_events_maingame:L25306,howdeep_eotr_stage8,FIX,NO.,没有。,不。
+english_events_maingame:L25307,howdeep_eotr_stage8,FIX,She stands up and starts rushing upstairs. You follow her.,"她站起来,开始上楼去 你跟着她",她猛地站起来，往楼梯上冲。你跟了上去。
+english_events_maingame:L25308,howdeep_eotr_stage8,FIX,You run up the stairs as fast as you can.,你跑上楼梯 越快越好,你们拼命往上跑。
+english_events_maingame:L25309,howdeep_eotr_stage8,FIX,Time goes by. You keep telling yourself Scott might be on the next turn.,时来相去. 你一直告诉自己 斯科特 下个回合可能要开始了,时间不断流逝。你一遍遍告诉自己，也许下一个拐角就能看到斯科特。
+english_events_maingame:L25310,howdeep_eotr_stage8,FIX,"Deep down, you fear that whatever happened to the foot of the stairs might have happened to him as well.","内心深处,你担心楼梯上发生的事 也可能发生在他身上",可你心底害怕，楼梯底端遭遇的那种事，也发生在了他身上。
+english_events_maingame:L25311,howdeep_eotr_stage8,FIX,You keep running upstairs... and upstairs... and upstairs...,你一直跑上楼... 楼上... 楼上...,你们不停地往上跑……往上跑……往上跑……
+english_events_maingame:L25312,howdeep_eotr_stage8,FIX,"After what feels like an hour, Polly stops. She's quiet, but there's an intensity to her... the weight of an insurmountable worry.","感觉像一个小时后 波莉 停下来。 她很安静,但她很紧张... 无法克服的忧患的重心",仿佛过了整整一个小时，波莉停了下来。她一言不发，却浑身紧绷，沉重的忧惧压得她喘不过气。
+english_events_maingame:L25313,howdeep_eotr_stage8,FIX,SCOOOOOOOOOOOOOOOOOOTT!,赞!,斯科——特——！
+english_events_maingame:L25314,howdeep_eotr_stage8,FIX,SCOOOOOTT!,惨了!,斯科特——！
+english_events_maingame:L25315,howdeep_eotr_stage8,FIX,SCOOOOOOOOOOOOOOOOOOOOOOOOOOOTT!,呜呜呜呜呜呜呜呜呜呜!,斯——科——特——！
+english_events_maingame:L25316,howdeep_eotr_stage8,FIX,SCOOOOOOOOOOOTT!,赞!,斯科——特——！
+english_events_maingame:L25317,howdeep_eotr_stage8,FIX,"No, no, no...","没有,没有,没有...",不，不，不……
+english_events_maingame:L25318,howdeep_eotr_stage8,FIX,Polly sits on one of the steps. She looks defeated.,波莉 坐在其中一个台阶上 她看起来很失败,波莉坐到一级台阶上，像是彻底垮了。
+english_events_maingame:L25319,howdeep_eotr_stage8,FIX,This can't be happening...,这不可能发生...,不可能……不该这样的……
+english_events_maingame:L25320,howdeep_eotr_stage8,FIX,This is just a bad dream...,这只是个噩梦...,这只是一场噩梦……
+english_events_maingame:L25321,howdeep_eotr_stage8,FIX,Scott...,斯科特...,斯科特……
+english_events_maingame:L25322,howdeep_eotr_stage8,KEEP,...,...,...
+english_events_maingame:L25325,howdeep_eotr_stage8,KEEP,...,...,...
+english_events_maingame:L25328,howdeep_eotr_stage8,FIX,"%CURRENTPLAYERNAME%, why didn't you stop? There were some caves over there!",%CURRENTPLAYERNAME%你为什么不停下来? 那边有些洞穴!,%CURRENTPLAYERNAME%，怎么没停车？那边有洞穴诶！
+english_events_maingame:L25329,howdeep_eotr_stage8,FIX,"Eh... but we visited some caves recently, didn't we?","额... 但我们最近参观了一些洞穴,不是吗?",呃……我们最近不是刚去过洞穴吗？
+english_events_maingame:L25330,howdeep_eotr_stage8,FIX,"You guys know we don't have to stop at EVERYTHING we see on the road, right?","你们知道我们不必在路上看到的一切停下来,对吧?",你们知道的吧？路上也不是见到什么都得停下来看看啊。
+english_events_maingame:L25331,howdeep_eotr_stage8,FIX,"Yeah, but I don't know... It's what we do!","是的,但我不知道... ... 说不定是... 这是我们要做的!",也是，可是……我也说不上来。咱们不就一直这样吗！
+english_events_maingame:L25332,howdeep_eotr_stage8,FIX,"Sure, but so what? This isn't some game with unavoidable rules! We can just choose NOT to stop there.","当然,但又怎样? 这不是什么游戏 不可避免的规则! 我们可以选择不停止。",是啊，那又怎样？又不是在玩什么必须遵守规则的游戏！我们完全可以选择不停啊。
+english_events_maingame:L25333,howdeep_eotr_stage8,FIX,"What were we going to do there, anyway? Wander around the cave until we got lost?",我们到底要做什么? 绕着洞穴走直到我们迷路?,再说，去那儿干吗？在洞里瞎转，转到迷路？
+english_events_maingame:L25334,howdeep_eotr_stage8,FIX,"It doesn't sound fun, buddy. C'mon, I'm sure next stop we find will be way cooler!","这听起来不好玩,伙计。 来,我敢肯定,下一站我们会更酷!",听着就没劲，伙计。走啦，下一站肯定比这儿酷多了！
+english_events_maingame:L25335,howdeep_eotr_stage8,FIX,"Oh, okay!","哦,还好!",哦，那好吧！
+english_events_maingame:L25336,howdeep_eotr_stage8,FIX,You drive past the caves.,你开车经过洞穴,你们开车驶过了洞穴。
+english_events_maingame:L25338,howdeep_eotr_stage8,FIX,"As you pass the cave entrance, you can't shake off a strong feeling that there's something intensely off-putting about the cave. You can't stop looking at it...","当你穿过洞穴入口时,你无法动摇强烈的感觉,认为洞穴有强烈的脱落. 看着它,你无法停止...",车子经过洞口时，一种强烈的不安始终挥之不去。那个洞穴让你说不出地反感，你却忍不住一直看着它……
+english_events_maingame:L25339,howdeep_eotr_stage8,FIX,You feel... you feel like you were there recently...,你感觉... 你感觉你最近在那里...,你觉得……觉得自己不久前才去过那里……
+english_events_maingame:L25341,howdeep_eotr_stage8,FIX,"Or... like you're inside there right now, even as you look at the entrance.","或者说... 就像你现在在里面一样, 即使你看着入口。",又或者……此时此刻，你依然身在其中，哪怕你正望着它的入口。
+english_events_maingame:L25345,howdeep_eotr_stage8,FIX,Are we sure...?,我们确定... ?,真要进去……？
+english_events_maingame:L25346,howdeep_eotr_stage8,FIX,Yeah! Look: it even has your name on it!,"对! 看,它甚至有你的名字在它上!",当然！你看，上面还写着你的名字呢！
+english_events_maingame:L25347,howdeep_eotr_stage8,FIX,"I'm not sure if that's a good thing, buddy.","我不知道这是否是件好事,伙计。",伙计，我可不确定这算什么好事。
+english_events_maingame:L25348,howdeep_eotr_stage8,FIX,This looks exactly like my bedroom door from when I was a kid. The resemblance is uncanny.,这看起来跟我小时候的卧室门完全一样 相似之处是不可思议的。,这和我小时候的卧室门一模一样。像得让人发毛。
+english_events_maingame:L25349,howdeep_eotr_stage8,FIX,This cave has been mocking us for hours and hours now... but this? This feels personal.,这个洞穴已经嘲笑我们几个小时了... 但是这个? 这感觉很私人,这破洞穴已经耍了我们好几个小时了……可这回？这回摆明了是冲着我来的。
+english_events_maingame:L25350,howdeep_eotr_stage8,FIX,It's impossible to stop yourselves from losing -N2 MIND from this malicious twist.,无法阻止自己从这个恶意扭曲中输掉N2 MIND.,面对这充满恶意的新花样，你们还是没能避免损失 -N2 头脑。
+english_events_maingame:L25351,howdeep_eotr_stage8,FIX,"But as off-putting as the door is, its strange nature lures you in strongly.",但门像门一样被关闭 它的怪异性吸引你强烈。,这扇门令人不安，可它的诡异之处又有种强烈的吸引力。
+english_events_maingame:L25352,howdeep_eotr_stage8,FIX,"Wanna go first, Polly? It's your door after all.",想要先走吗? 波莉? 毕竟是汝出家门.,波莉，你想先进去吗？毕竟这是你的门。
+english_events_maingame:L25353,howdeep_eotr_stage8,FIX,"I guess it makes sense for me to go first, right?","我想,这很合理 我先走,对不对?",也是，该我先进去，对吧？
+english_events_maingame:L25354,howdeep_eotr_stage8,FIX,...Right?,对不对?,……对吧？
+english_events_maingame:L25355,howdeep_eotr_stage8,FIX,She opens the door and immediately freezes up.,"她打开了门,立刻就被冻住了.",她推开门，瞬间僵在了原地。
+english_events_maingame:L25357,howdeep_eotr_stage8,FIX,"This... this is my childhood bedroom, guys.","这个... 这是我的童年卧室,伙计们。",各位……这、这是我小时候的卧室。
+english_events_maingame:L25358,howdeep_eotr_stage8,FIX,But... how?,不过... 怎么着?,可……怎么可能？
+english_events_maingame:L25359,howdeep_eotr_stage8,FIX,It's not even in this realm. My room -- if it even still looks like this -- should be in the Human Realm.,"乃至此界所出无相. 我的房间,如果它仍然像这样的话, 应该在人类王国。",它都不在这个世界里。我的房间——如果现在还长这样的话——应该在人类世界才对。
+english_events_maingame:L25361,howdeep_eotr_stage8,FIX,Polly is so shocked that she doesn't realize other key details.,波莉 震惊到她没意识到其他关键细节,波莉太过震惊，连其他关键的细节都没注意到。
+english_events_maingame:L25362,howdeep_eotr_stage8,FIX,"For one, there are windows.",其中一个是窗户,比如，这里有窗户。
+english_events_maingame:L25364,howdeep_eotr_stage8,FIX,"And these aren't like the windows from before, no. These windows lead to a calm, beautiful night sky.","这些和以前窗户不一样,不是的 这些窗户通向一个平静而美丽的夜空.",这些窗户和刚才的不同。窗外是一片宁静而美丽的夜空。
+english_events_maingame:L25365,howdeep_eotr_stage8,FIX,"Cautiously, the three of you enter the room, mesmerized by the stars, lured into the promise of a reality outside the caves.","克自相相克,相克相克入室相克相克相克相克相克相克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克",你们三人小心地走进房间。星光让人着迷，窗外仿佛就是洞穴之外的真实世界，引得你们不由自主地靠近。
+english_events_maingame:L25366,howdeep_eotr_stage8,FIX,You wonder if what's outside the window is truly the outside.,你想知道窗外的东西是不是真正的外在,可你不禁怀疑，窗外真的是外面吗？
+english_events_maingame:L25367,howdeep_eotr_stage8,FIX,"You're still inside the caves, aren't you? Like Polly said, her old room isn't even in this realm.","你还在洞里,不是吗? 喜欢 波莉 她说她以前的房间甚至不在这片地盘",你们明明还在洞穴里，不是吗？就像波莉说的，她以前的房间甚至不在这个世界。
+english_events_maingame:L25368,howdeep_eotr_stage8,FIX,"As you walk closer, the door closes behind you.","当你走得更近时,门就会紧紧地关在你身后.",你们越走越近，身后的门关上了。
+english_events_maingame:L25369,howdeep_eotr_stage8,FIX,"The noise is almost imperceptible: too low to truly disrupt the dead quiet of the night, but loud enough to make you turn around.","噪音几乎是无法察觉的:太低了,无法真正地打乱了黑夜中已死的静静,但声音足够大,可以让你转身.",关门声轻得几乎难以察觉，微弱得打不破夜晚的死寂，却又足以让你们回头。
+english_events_maingame:L25370,howdeep_eotr_stage8,FIX,"In doing so, Polly notices the other significant detail:","这样做时, 波莉 注意其他重要细节:",这一回头，波莉发现了另一个重要的细节：
+english_events_maingame:L25372,howdeep_eotr_stage8,FIX,"There's a small lump under the bedsheets, only a fraction of what must be the back of a head sticking out.",床单下面有个小块 只能占头部的后部的一小部分,被子下有小小的一团隆起，边缘只露出一点点像是后脑勺的部分。
+english_events_maingame:L25373,howdeep_eotr_stage8,FIX,"As unlikely as it sounds, there's only one explanation that makes a sliver of sense...",听起来不太可能 只有一种解释能说明...,听起来再不可能，也只有一个解释勉强说得通……
+english_events_maingame:L25375,howdeep_eotr_stage8,FIX,No... no...,没有... 没有...,不……不……
+english_events_maingame:L25376,howdeep_eotr_stage8,FIX,The back of the head moves gently; the peaceful cadence of someone breathing as they sleep.,头后部会轻轻地移动;在睡觉时呼吸的一个人的平和的胆量.,那颗脑袋轻轻起伏，节奏安稳而规律，像是熟睡之人的呼吸。
+english_events_maingame:L25377,howdeep_eotr_stage8,FIX,What the fuck is this...?,这他妈是什么... ?,这他妈到底是怎么回事……？
+english_events_maingame:L25378,howdeep_eotr_stage8,FIX,"I... I want to leave, guys. I won't let this cave mess with me anymore... yes, let's leave.","我…… 我想离开,伙计们。 我不会再让这个洞穴弄乱我了... 是的,让我们离开。",我……我想走了，各位。我不会再让这个洞穴耍我了……对，我们走。
+english_events_maingame:L25379,howdeep_eotr_stage8,FIX,"You follow Polly as she goes back to the door, disturbed but ready to take the stairs; but there are no cavernous tunnels beyond the door anymore.","你跟着 波莉 她回到了门, 被打扰了,但准备走楼梯; 但是,门外没有洞穴地道了。",波莉不安地走回门口，你们跟在后面，准备回去爬楼梯。可门外已经不再是洞穴隧道。
+english_events_maingame:L25381,howdeep_eotr_stage8,FIX,"There's a muted grey hall. The entire hallway seems to be made entirely out of hard, solid concrete.",有哑发出灰堂. 整个走廊似乎完全由坚固的硬混凝土所建.,那是一条灰暗的走廊。整条走廊似乎都由坚硬厚实的混凝土浇筑而成。
+english_events_maingame:L25382,howdeep_eotr_stage8,FIX,Only one thing disturbs the absoluteness of the cement: papers and sticky notes hanging in messy displays on the wall.,只有一件事扰乱了水泥的绝对性:纸和粘纸被挂在墙上乱七八糟的陈列上.,只有墙上凌乱贴着的纸张和便签，打破了这片纯粹的水泥世界。
+english_events_maingame:L25383,howdeep_eotr_stage8,FIX,You get a closer look.,你仔细看看,你凑近看了看。
+english_events_maingame:L25385,howdeep_eotr_stage8,FIX,It's... it's Polly.,这是... 这是 波莉.,是……是波莉。
+english_events_maingame:L25386,howdeep_eotr_stage8,FIX,"There are sticky notes filled with tidbits about Polly. Stuff like ""Ghost girl that's a party animal"".","上面有粘贴的纸条,上面有条子 波莉. 像是""鬼女""之类的东西, 是个狂欢的动物.",便签上记满了关于波莉的零碎设定，比如“热衷派对的幽灵女孩”。
+english_events_maingame:L25387,howdeep_eotr_stage8,FIX,"And there are dozens of sketches. Some bear a very slight resemblance to Polly, while others land much closer to the Polly you know.",而有数十相相相相生相相生相. 有的有点像 波莉其他人则更接近于 波莉 说吧,还有几十张草图。有些只是依稀像波莉，有些则更接近你熟悉的那个波莉。
+english_events_maingame:L25388,howdeep_eotr_stage8,FIX,What... what is all this? I... I can't...,这... 这些都是什么? 我…… 我无法...,这……这些都是什么？我……我没法……
+english_events_maingame:L25390,howdeep_eotr_stage8,FIX,"Before she can finish that thought, a figure appears from the other end of the hallway.","在她完成这个想法之前,走廊的另一端出现了一个数字.",她还没说完，走廊另一端就出现了一个身影。
+english_events_maingame:L25392,howdeep_eotr_stage8,FIX,"It looks blurred, undefined... It makes you feel strange.","看起来模糊,未定义... 让你觉得奇怪",那身影模糊不清，没有明确的轮廓……让你觉得很不对劲。
+english_events_maingame:L25393,howdeep_eotr_stage8,FIX,You should not be here.,你不应该在这里。,你们不该来这里。
+english_events_maingame:L25395,howdeep_eotr_stage8,KEEP,...,...,...
+english_events_maingame:L25399,howdeep_eotr_stage8,FIX,"%CURRENTPLAYERNAME%, why didn't you stop? There were some caves over there!",%CURRENTPLAYERNAME%你为什么不停下来? 那边有些洞穴!,%CURRENTPLAYERNAME%，怎么没停车？那边有洞穴诶！
+english_events_maingame:L25400,howdeep_eotr_stage8,FIX,"Eh... but we visited some caves recently, didn't we?","额... 但我们最近参观了一些洞穴,不是吗?",呃……我们最近不是刚去过洞穴吗？
+english_events_maingame:L25401,howdeep_eotr_stage8,FIX,"You guys know we don't have to stop at EVERYTHING we see on the road, right?","你们知道我们不必在路上看到的一切停下来,对吧?",你们知道的吧？路上也不是见到什么都得停下来看看啊。
+english_events_maingame:L25402,howdeep_eotr_stage8,FIX,"Yeah, but I don't know... It's what we do!","是的,但我不知道... ... 说不定是... 这是我们要做的!",也是，可是……我也说不上来。咱们不就一直这样吗！
+english_events_maingame:L25403,howdeep_eotr_stage8,FIX,"Sure, but so what? This isn't some game with unavoidable rules! We can just choose NOT to stop there.","当然,但又怎样? 这不是什么游戏 不可避免的规则! 我们可以选择不停止。",是啊，那又怎样？又不是在玩什么必须遵守规则的游戏！我们完全可以选择不停啊。
+english_events_maingame:L25404,howdeep_eotr_stage8,FIX,"What were we going to do there, anyway? Wander around the cave until we got lost?",我们到底要做什么? 绕着洞穴走直到我们迷路?,再说，去那儿干吗？在洞里瞎转，转到迷路？
+english_events_maingame:L25405,howdeep_eotr_stage8,FIX,"It doesn't sound fun, buddy. C'mon, I'm sure next stop we find will be way cooler!","这听起来不好玩,伙计。 来,我敢肯定,下一站我们会更酷!",听着就没劲，伙计。走啦，下一站肯定比这儿酷多了！
+english_events_maingame:L25406,howdeep_eotr_stage8,FIX,"Oh, okay!","哦,还好!",哦，那好吧！
+english_events_maingame:L25407,howdeep_eotr_stage8,FIX,You drive past the caves.,你开车经过洞穴,你们开车驶过了洞穴。
+english_events_maingame:L25409,howdeep_eotr_stage8,FIX,"As you pass the cave entrance, you can't shake off a strong feeling that there's something intensely off-putting about the cave. You can't stop looking at it...","当你穿过洞穴入口时,你无法动摇强烈的感觉,认为洞穴有强烈的脱落. 看着它,你无法停止...",车子经过洞口时，一种强烈的不安始终挥之不去。那个洞穴让你说不出地反感，你却忍不住一直看着它……
+english_events_maingame:L25410,howdeep_eotr_stage8,FIX,You feel... you feel like you were there recently...,你感觉... 你感觉你最近在那里...,你觉得……觉得自己不久前才去过那里……
+english_events_maingame:L25412,howdeep_eotr_stage8,FIX,"Or... like you're inside there right now, even as you look at the entrance.","或者说... 就像你现在在里面一样, 即使你看着入口。",又或者……此时此刻，你依然身在其中，哪怕你正望着它的入口。

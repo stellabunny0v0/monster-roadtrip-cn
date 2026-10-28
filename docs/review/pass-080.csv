@@ -1,0 +1,147 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_bubbles:L2177,bubble_high_money2,KEEP,"They say ""the rich also cry""...","他们说""有钱人也哭""...","他们说""有钱人也哭""..."
+english_events_bubbles:L2178,bubble_high_money2,KEEP,...but I'm super pumped to have this much MONEY!,"...但是我有这么多钱,我太兴奋了!","...但是我有这么多钱,我太兴奋了!"
+english_events_bubbles:L2184,bubble_high_money4,FIX,"Guys, we've got way more MONEY than we started out with!","伙计们,我们得到了更多的钱 比我们开始的!",伙计们，咱们的钱，比出发的时候多多了！
+english_events_bubbles:L2185,bubble_high_money4,KEEP,I can finally try rich-people drugs!,我终于可以尝试富人毒品了!,我终于可以尝试富人毒品了!
+english_events_bubbles:L2191,bubble_high_magic1,KEEP,"I don't know how to explain it, but this car looks really happy!","我不知道该怎么解释,但这辆车看起来真的很开心!","我不知道该怎么解释,但这辆车看起来真的很开心!"
+english_events_bubbles:L2192,bubble_high_magic1,FIX,It's 'cause we pumped it full of MAGIC!,因为我们抽了满满了MAGIC!,因为咱们给它灌满了魔力！
+english_events_bubbles:L2198,bubble_high_magic2,FIX,"Guys, I think the car's needle just smiled at me!","伙计们,我想车的针 刚刚笑我!",伙计们，我觉得，仪表盘的指针刚冲我笑了！
+english_events_bubbles:L2199,bubble_high_magic2,FIX,Either I'm high again or it's full of MAGIC!,要么我又高了 要么它充满了MAGIC!,要么是我又嗑嗨了，要么就是魔力满得要溢出来了！
+english_events_bubbles:L2205,bubble_high_magic3,FIX,We really gave this road trip the MAGIC touch!,我们真的让这个公路旅行 MAGIC触摸!,咱们真给这趟公路旅行，施了一手魔力！
+english_events_bubbles:L2211,bubble_high_mind1,FIX,"Polly, is the square of the hypotenuse equal to the sum of the squares of the legs?","波莉,下垂平面的平面是否等于腿部平面的平面之和?",波莉，斜边的平方，是不是等于两条直角边的平方和？
+english_events_bubbles:L2212,bubble_high_mind1,POLISH,"Whoa, Scott, it is! How'd you know?",哗! 斯科特就是这样! 你怎么会知道?,哇，斯科特，没错！你怎么知道的？
+english_events_bubbles:L2213,bubble_high_mind1,FIX,I'm fairly certain this road trip is nourishing my MIND!,"我敢肯定,这次公路旅行 正在滋养我的心智!",我相当确定，这趟旅行，让我的头脑越来越充实了！
+english_events_bubbles:L2219,bubble_high_mind2,FIX,This road trip is giving me such peace of MIND...,这趟出行让我很安心...,这趟公路旅行，让我的头脑如此平静……
+english_events_bubbles:L2220,bubble_high_mind2,FIX,"Yeah, we're doing really well in that department!","是啊,我们在那个部门干得很好!",对，咱们这方面可真不错！
+english_events_bubbles:L2226,bubble_high_mind3,KEEP,...and that's why the Flat Earth theory can be easily disproven.,这就是为什么平地理论很容易被否定。,这就是为什么平地理论很容易被否定。
+english_events_bubbles:L2227,bubble_high_mind3,KEEP,"Wow, Scott, when'd you get so smart?",哗! 斯科特你什么时候变得这么聪明的?,哗! 斯科特你什么时候变得这么聪明的?
+english_events_bubbles:L2228,bubble_high_mind3,FIX,This road trip has been very stimulating for my MIND!,这趟公路旅行对我的智商非常刺激!,这趟公路旅行，充分锻炼了我的头脑！
+english_events_bubbles:L2234,bubble_high_mind4,FIX,"I have so much on my MIND, I wouldn't MIND losing some! Get it?","我脑子里有太多东西,我不会失去一些的! 明白吗?",脑袋里装太多了，少点烦恼，我也不恼！听懂没？
+english_events_bubbles:L2235,bubble_high_mind4,KEEP,"Hey, I do get it! This road trip is making me smarter!","嘿,我确实明白了! 这趟出行让我变聪明了!","嘿,我确实明白了! 这趟出行让我变聪明了!"
+english_events_bubbles:L2241,bubble_high_stamina1,FIX,My STAMINA levels are through the roof!,我的STAMINA水平是穿过屋顶的!,我的体力，简直冲破天花板了！
+english_events_bubbles:L2242,bubble_high_stamina1,FIX,I can finally try the Infinite Pushup Challenge!,我终于可以尝试无限的推进挑战了!,终于能试试无限俯卧撑挑战了！
+english_events_bubbles:L2248,bubble_high_stamina2,POLISH,"Polly, feel how strong my muscles are!",波莉感觉我的肌肉有多强壮!,波莉，摸摸，我的肌肉多结实！
+english_events_bubbles:L2249,bubble_high_stamina2,POLISH,Wow! Now you feel MY muscles!,哗! 现在你感觉到我的肌肉了!,哇！现在摸摸我的肌肉！
+english_events_bubbles:L2250,bubble_high_stamina2,FIX,"Whoa, this STAMINA-rich diet is working wonders for us!","哇,这个STAMINA丰富的饮食 对我们来说是奇迹!",哇，这套补充体力的饮食，对咱们可真有奇效！
+english_events_bubbles:L2256,bubble_high_stamina3,FIX,Doesn't %CURRENTPLAYERNAME% look more swole than usual?,没有 %CURRENTPLAYERNAME% 长得比平常还多吗?,你不觉得，%CURRENTPLAYERNAME%的肌肉，比平时更壮了吗？
+english_events_bubbles:L2257,bubble_high_stamina3,FIX,"Yeah! You've been getting a lot of STAMINA, haven't you?","对! 你得到了很多 斯塔米娜,不是吗?",对！最近补了不少体力吧？
+english_events_bubbles:L2263,bubble_high_hype1,FIX,WOOOOO! ROAD TRIP! YEAAAAAAH!,"呜呜! 路德・特里普! 耶,亚雅哈!",好耶——！公路旅行！耶——！
+english_events_bubbles:L2264,bubble_high_hype1,FIX,"Man, Scott's HYPE is off the charts!","哥们 斯科特""HYPE是离谱的!""",哇，斯科特的热度都爆表了！
+english_events_bubbles:L2270,bubble_high_hype2,FIX,"...GIMME A P, GIMME AN E!","...GIMME一个P,GIMME一个E!",……给我一个P，给我一个E！
+english_events_bubbles:L2271,bubble_high_hype2,FIX,H-Y-P-E!,"-Y -P -E! -嘿,别闹了!",H—Y—P—E！
+english_events_bubbles:L2277,bubble_high_hype3,FIX,BEST ROAD TRIP EVEEEEEEEEER!,最好的公路旅行 爱维耶尔!,史上最棒的公路旅行——！
+english_events_bubbles:L2278,bubble_high_hype3,FIX,Yeaaaah! This road trip totally lives up to the HYPE!,"耶,耶,耶,耶,耶,耶,耶 这趟公路旅行完全靠HYPE为生!",耶——！这趟公路旅行，果然热度十足，没让人失望！
+english_events_bubbles:L2284,bubble_high_hype4,FIX,Scott! Scott! Let's HYPE up %CURRENTPLAYERNAME%!,斯科特!  斯科特! 我们起来吧 %CURRENTPLAYERNAME%!,斯科特！斯科特！咱们给%CURRENTPLAYERNAME%炒炒热度！
+english_events_bubbles:L2285,bubble_high_hype4,KEEP,%CURRENTPLAYERNAME%! %CURRENTPLAYERNAME%! %CURRENTPLAYERNAME%!,%CURRENTPLAYERNAME%!  %CURRENTPLAYERNAME%!  %CURRENTPLAYERNAME%!,%CURRENTPLAYERNAME%!  %CURRENTPLAYERNAME%!  %CURRENTPLAYERNAME%!
+english_events_bubbles:L2291,bubble_high_soul1,FIX,"My SOUL feels so good, I feel like I could go to heaven!","我的SOUL感觉好极了, 我觉得我可以去天堂!",我的灵魂感觉好到，我觉得自己都能上天堂了！
+english_events_bubbles:L2292,bubble_high_soul1,FIX,"Not that I'm interested, but still!","不是说我有兴趣,但还是!",虽然我没兴趣去，但你们懂的！
+english_events_bubbles:L2298,bubble_high_soul2,FIX,"Polly, am I a good boi?",波莉我是个好人吗?,波莉，我是个好狗狗吗？
+english_events_bubbles:L2299,bubble_high_soul2,FIX,"If our SOUL levels aren't mistaken, we're ALL good bois!","如果我们的SOUL水平没有错,我们都是好波斯!",如果这灵魂值没出错，咱们全都是好狗狗！
+english_events_bubbles:L2305,bubble_high_soul3,FIX,"Whoa, guys, look at our SOULs...","哇,伙计们,看看我们的SOUL...",哇，伙计们，看看咱们的灵魂……
+english_events_bubbles:L2306,bubble_high_soul3,KEEP,They're glowing...,他们在发光...,他们在发光...
+english_events_bubbles:L2312,bubble_high_soul4,POLISH,I can't believe we've been such good bois!,真不敢相信我们这么好!,真不敢相信，咱们居然这么乖！
+english_events_bubbles:L2313,bubble_high_soul4,FIX,"Yeah, we've got SOUL to spare!","是的,我们还有SOUL的!",是啊，灵魂都多得用不完了！
+english_events_bubbles:L2319,bubble_hope1,KEEP,Don't take that route.,别走这条路,别走这条路
+english_events_bubbles:L2320,bubble_hope1,FIX,My oracle cards say there'll be traffic.,我的神谕卡上写着会有人堵车,我的神谕卡说，那边会堵车。
+english_events_bubbles:L2326,bubble_hope2,KEEP,Has anyone seen my crystal ball?,有没有人看到我的水晶球?,有没有人看到我的水晶球?
+english_events_bubbles:L2327,bubble_hope2,FIX,BALL?! BALL?! WHERE?!?!,球吗? 球吗? 哪里? 哪里? 哪里? 哪里? 哪里? 哪里?,球？！球？！在哪儿？！？！
+english_events_bubbles:L2333,bubble_hope3,FIX,"Polly, stop spelling dirty words on my Ouija board.",波莉别再在我的Ouija板上拼脏字了,波莉，别再用我的通灵板拼脏话了。
+english_events_bubbles:L2334,bubble_hope3,KEEP,"Ugh, you're no fun.","唉,你一点都不好玩。","唉,你一点都不好玩。"
+english_events_bubbles:L2340,bubble_hope4,FIX,"Hope, in the future, will I still be a good boy?",希望将来我还能是个好孩子吗?,希望女巫，将来我还会是个好狗狗吗？
+english_events_bubbles:L2341,bubble_hope4,FIX,No... you'll be an even BETTER boy.,没有... 你会是一个甚至更好的男孩。,不……你会是个更好的狗狗。
+english_events_bubbles:L2342,bubble_hope4,KEEP,HOORAY!,万岁!,万岁!
+english_events_bubbles:L2348,bubble_hope5,FIX,I HAVE UNO!,我有一个UNO!,UNO！我只剩一张啦！
+english_events_bubbles:L2349,bubble_hope5,KEEP,"Those are tarot cards, Scott...","这些是塔罗牌, 斯科特...","这些是塔罗牌, 斯科特..."
+english_events_bubbles:L2350,bubble_hope5,KEEP,...So am I winning?,我赢了吗?,我赢了吗?
+english_events_bubbles:L2356,bubble_hope6,FIX,"Hope, can you gamble with tarot cards?","希望,你能赌取塔罗牌吗?",希望女巫，塔罗牌能用来赌博吗？
+english_events_bubbles:L2357,bubble_hope6,FIX,Only with the future.,唯与未来相.,只能拿未来做赌注。
+english_events_bubbles:L2358,bubble_hope6,FIX,"Ooh, so high-stakes!","哦,这么高的票!",哟，这赌注够大的！
+english_events_bubbles:L2364,bubble_hope7,KEEP,"You know, I could use my psychic powers to tell you what RESOURCES you'll gain and lose...","你知道,我可以用我的通灵能力 告诉你什么资源 你会获得和失去...","你知道,我可以用我的通灵能力 告诉你什么资源 你会获得和失去..."
+english_events_bubbles:L2365,bubble_hope7,KEEP,But not knowing is half the fun!,但不知道是一半的乐趣!,但不知道是一半的乐趣!
+english_events_bubbles:L2371,bubble_hope8,FIX,"Hope, you're psychic: what DESTINATION will we reach?","希望,你是灵媒:我们能达到什么程度?",希望女巫，你能通灵，那我们会到哪个目的地？
+english_events_bubbles:L2372,bubble_hope8,POLISH,I dunno exactly; the future is always in flux.,我完全不知道;未来总是在变化。,我也说不准，未来一直在变。
+english_events_bubbles:L2373,bubble_hope8,FIX,Pfft. What a cop-out.,P. 真是个警察。,嘁，真会找借口。
+english_events_bubbles:L2379,bubble_hope9,FIX,"Hope, are there psychics who can see the past?","希望,有灵媒能看见过去吗?",希望女巫，有能看见过去的灵媒吗？
+english_events_bubbles:L2380,bubble_hope9,KEEP,"...That's called ""having memories.""","这叫""有记忆""","这叫""有记忆"""
+english_events_bubbles:L2381,bubble_hope9,FIX,Whoa...,珃...,哇……
+english_events_bubbles:L2387,bubble_hope10,FIX,"Wanna play a car game, Hope?","想玩一款车游戏吗,希望?",希望女巫，来玩个车上的小游戏？
+english_events_bubbles:L2388,bubble_hope10,FIX,Sure. How about I Spy with my All-Seeing Eye?,当然可以。 我和全能眼间谍怎么样?,好啊，用我的全视之眼，来一局“我看见了”，怎么样？
+english_events_bubbles:L2394,bubble_hope11,FIX,"Can I play cards with you, Hope?","我能跟你玩牌吗,希望?",希望女巫，我能跟你一起玩牌吗？
+english_events_bubbles:L2395,bubble_hope11,FIX,"Sure, right after I finish this round of Tarot Solitaire.","当然,在我完成这轮塔罗索利泰之后",当然，等我玩完这局塔罗纸牌接龙。
+english_events_bubbles:L2401,bubble_hope12,FIX,"Want me to read your palm, Scott?",想让我读一下你的手掌 斯科特?,斯科特，要我给你看手相吗？
+english_events_bubbles:L2402,bubble_hope12,POLISH,Sure! Just don't tell my other palm! I don't want it to get jealous.,当然! 别告诉我另一只手! 岂想取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取.,好啊！可别告诉我另一只手，我不想让它吃醋。
+english_events_bubbles:L2408,bubble_hope13,FIX,Hope...,辨...,希望女巫……
+english_events_bubbles:L2409,bubble_hope13,FIX,...does palm reading work on both hands?,掌上阅读两只手的工作吗?,……看手相，两只手都能看吗？
+english_events_bubbles:L2415,bubble_hope14,FIX,"Hey Hope, guess what I'm thinking!","嘿,希望,猜猜我在想什麽!",希望女巫，猜猜我在想什么！
+english_events_bubbles:L2416,bubble_hope14,FIX,"I've already guessed: ""Woof Woof"".","我已经猜到了:""呜呜""。",已经猜到了：“汪汪”。
+english_events_bubbles:L2417,bubble_hope14,KEEP,"Wow, you're good!","哇,你真厉害!","哇,你真厉害!"
+english_events_bubbles:L2423,bubble_hope15,KEEP,I'm sensing something in the future...,我感觉到未来有些事...,我感觉到未来有些事...
+english_events_bubbles:L2424,bubble_hope15,KEEP,"If there are drinks, I'm in!","如果有饮料,我加入!","如果有饮料,我加入!"
+english_events_bubbles:L2430,bubble_hope16,FIX,I have a vision...,我有一个幻象...,我看到了未来……
+english_events_bubbles:L2431,bubble_hope16,KEEP,"Hey, that's what Coach always says before a match!","嘿,教练在比赛前总是这么说的!","嘿,教练在比赛前总是这么说的!"
+english_events_bubbles:L2437,bubble_blue1,KEEP,Can this car turn into a battle robot?,这辆车能变成战斗机器人吗?,这辆车能变成战斗机器人吗?
+english_events_bubbles:L2438,bubble_blue1,POLISH,No... but we can change that!,没有... 但我们可以改变这一点!,不能……不过我们可以改造一下！
+english_events_bubbles:L2444,bubble_blue2,FIX,"What's your favorite tool, Vicky?",你最喜欢的工具是什么? 维姬?,薇姬，你最喜欢的工具是什么？
+english_events_bubbles:L2445,bubble_blue2,KEEP,The best tool is always a curious mind!,最好的工具总是一个好奇的心灵!,最好的工具总是一个好奇的心灵!
+english_events_bubbles:L2446,bubble_blue2,KEEP,...Also duct tape.,还有胶带,还有胶带
+english_events_bubbles:L2452,bubble_blue3,KEEP,"Phew, I need to recharge...","呼,我需要充电...","呼,我需要充电..."
+english_events_bubbles:L2453,bubble_blue3,KEEP,Can I borrow the car battery?,我能借用一下汽车电池吗?,我能借用一下汽车电池吗?
+english_events_bubbles:L2459,bubble_blue4,FIX,Is Vicky still napping?,已经是 维姬 还在睡觉吗?,薇姬还在打盹吗？
+english_events_bubbles:L2460,bubble_blue4,FIX,"Nope, I'm awake.","没有,我醒了。",没，我醒着呢。
+english_events_bubbles:L2461,bubble_blue4,FIX,IT'S ALIVE!!!,它还活着!,她活过来了！！！
+english_events_bubbles:L2467,bubble_blue5,KEEP,...and that's why Frankenstein WAS the real monster.,所以弗兰肯斯坦才是真正的怪物,所以弗兰肯斯坦才是真正的怪物
+english_events_bubbles:L2468,bubble_blue5,FIX,Whoa... deep.,珃... 深相会.,哇……有深度。
+english_events_bubbles:L2474,bubble_blue6,FIX,AHHH! There's a severed hand in my seat!,摆! 我的座位被割断了手!,啊——！我座位上，有只断手！
+english_events_bubbles:L2475,bubble_blue6,KEEP,"Oh, thanks, I've been looking for that!","哦,谢谢,我一直在寻找这个!","哦,谢谢,我一直在寻找这个!"
+english_events_bubbles:L2481,bubble_blue7,POLISH,Ow... I think it's time to replace these feet.,欧... 我想是时候替换这些脚了。,哎哟……这双脚，看来该换了。
+english_events_bubbles:L2482,bubble_blue7,KEEP,Don't you mean shoes?,你不是说鞋子吗?,你不是说鞋子吗?
+english_events_bubbles:L2483,bubble_blue7,FIX,No.,没有。,不是。
+english_events_bubbles:L2489,bubble_blue8,FIX,"Huh, this car is running more smoothly now...",这辆车跑得比较快...,咦，这车现在开起来，顺畅多了……
+english_events_bubbles:L2490,bubble_blue8,FIX,I messed with the circuitry while you weren't watching!,我搞乱了电路 而你却不看!,趁你们没看，我把电路改了一下！
+english_events_bubbles:L2496,bubble_blue9,KEEP,"Hmm, the engine is doing something weird.","嗯,引擎在做一些奇怪的事情。","嗯,引擎在做一些奇怪的事情。"
+english_events_bubbles:L2497,bubble_blue9,POLISH,Hold on! I'll get my tools!,坚持住! 我来拿工具!,等等！我去拿工具！
+english_events_bubbles:L2503,bubble_blue10,FIX,"Do you like road-tripping, Vicky?",你喜欢修路吗? 维姬?,薇姬，你喜欢公路旅行吗？
+english_events_bubbles:L2504,bubble_blue10,FIX,Sure! I live afterlife in the fast lane!,当然! 我活在快道上过活!,当然！我这死后生活，也要一路风驰电掣！
+english_events_bubbles:L2510,bubble_blue11,FIX,Look Vicky! There's a bird! And another bird!,听着 维姬! 有只鸟! 还有另一只鸟!,薇姬，快看！一只鸟！又一只鸟！
+english_events_bubbles:L2511,bubble_blue11,POLISH,"That's nice Scott, but birdwatching is a little more specific than that!",不错啊 斯科特但观鸟比这更具体!,很好，斯科特，可观鸟得看得更细一点！
+english_events_bubbles:L2517,bubble_blue12,FIX,Look! A blue-headed quail-dove!,听着! 蓝头 qua鸽!,看！蓝头鹑鸠！
+english_events_bubbles:L2518,bubble_blue12,KEEP,Really? I thought it was a bird!,真的吗? 我以为是只鸟!,真的吗? 我以为是只鸟!
+english_events_bubbles:L2524,bubble_blue13,FIX,"Where do you want to go, Vicky?",你们想去哪儿? 维姬?,薇姬，你想去哪儿？
+english_events_bubbles:L2525,bubble_blue13,FIX,Everywhere! I'm a road trip completionist!,到处都是! 我是公路旅行的完成者!,哪儿都想去！我可是公路旅行全收集党！
+english_events_bubbles:L2531,bubble_blue14,KEEP,"Oops, the car battery's running out.","哎呀,汽车电池没电了。","哎呀,汽车电池没电了。"
+english_events_bubbles:L2532,bubble_blue14,FIX,"Hook it up to me, I have energy to spare!","钩住它,我还有精力!",把它接到我身上，我的能量多着呢！
+english_events_bubbles:L2538,bubble_blue15,KEEP,"...and before that, I studied some engineering.","...在那之前,我研究了一些工程学","...在那之前,我研究了一些工程学"
+english_events_bubbles:L2539,bubble_blue15,FIX,"Woah, so you know how to spell ""engneereng""!?","哇,你知道怎么拼出""英能""吗?",哇，所以你会拼“engneereng”啦？！
+english_events_bubbles:L2545,bubble_green1,FIX,HOOOONK...,万岁...,呼——噜——……
+english_events_bubbles:L2546,bubble_green1,KEEP,SHOOOOO...,嘘...,嘘...
+english_events_bubbles:L2547,bubble_green1,KEEP,"Wow, synchronized snoring!","哇,同步打呼噜!","哇,同步打呼噜!"
+english_events_bubbles:L2553,bubble_green2,FIX,"Brian, you're a champ at napping!",布莱恩你是打瞌睡的冠军!,布赖恩，你简直是打盹冠军！
+english_events_bubbles:L2554,bubble_green2,FIX,Zzz...,兹兹...,呼噜……
+english_events_bubbles:L2555,bubble_green2,FIX,"Look at him, always in the zone!","看看他,总是在区里!",看看他，随时都能进入状态！
+english_events_bubbles:L2561,bubble_green3,KEEP,"Man, I'm tired...","哥们,我累了...","哥们,我累了..."
+english_events_bubbles:L2562,bubble_green3,FIX,I feel dead on my feet.,我感觉自己脚上死了。,站着都累得像个死人了。
+english_events_bubbles:L2568,bubble_green4,KEEP,Need me to take the wheel for a bit?,需要我开一下车吗?,需要我开一下车吗?
+english_events_bubbles:L2569,bubble_green4,FIX,Ooooh! The Driving Dead!,呜! 驾驶死亡!,哇！行车走肉！
+english_events_bubbles:L2575,bubble_green5,KEEP,"Man, I'm tired...","哥们,我累了...","哥们,我累了..."
+english_events_bubbles:L2576,bubble_green5,KEEP,But you just woke up from a nap.,但你刚从午睡中醒来,但你刚从午睡中醒来
+english_events_bubbles:L2577,bubble_green5,KEEP,What's your point?,你想说什么?,你想说什么?
+english_events_bubbles:L2583,bubble_green6,FIX,"Are you gonna eat my brain, Brian?",你要吃我的脑袋吗? 布莱恩?,布赖恩，你会吃我的脑子吗？
+english_events_bubbles:L2584,bubble_green6,KEEP,Eh... I'd prefer French fries.,额... 我更喜欢炸薯条,额... 我更喜欢炸薯条
+english_events_bubbles:L2590,bubble_green7,KEEP,I think the car battery's running low.,我觉得汽车电池没电了,我觉得汽车电池没电了
+english_events_bubbles:L2591,bubble_green7,FIX,Boy do I know what that feels like...,"孩子,我知道那种感觉...",唉，这种感觉，我可太懂了……
+english_events_bubbles:L2597,bubble_green8,FIX,"It's a beautiful landscape, isn't it, Brian?","这是一个美丽的地貌,不是吗, 布莱恩?",布赖恩，这风景真美，对吧？
+english_events_bubbles:L2598,bubble_green8,FIX,Zzzzz...,兹兹...,呼噜……
+english_events_bubbles:L2604,bubble_green9,FIX,"Polly, I think Brian's asleep again.",波莉我觉得 布莱恩又睡着了,波莉，布赖恩好像又睡着了。
+english_events_bubbles:L2605,bubble_green9,KEEP,Let's eat his fries.,让我们吃他的薯条。,让我们吃他的薯条。
+english_events_bubbles:L2606,bubble_green9,KEEP,I'm up! I'm up!,我起来了! 我起来了!,我起来了! 我起来了!
+english_events_bubbles:L2612,bubble_green10,KEEP,Can we stop for a snack? I'm hungry.,我们可以停下来吃点零食吗? 我饿了。,我们可以停下来吃点零食吗? 我饿了。
+english_events_bubbles:L2613,bubble_green10,KEEP,You're snacking right now!,你现在在吃零食!,你现在在吃零食!
+english_events_bubbles:L2619,bubble_green11,FIX,"Hey Brian, want some Scott Snacks?","顿 布莱恩,想要一点 斯科特 零食吗?",嘿，布赖恩，要吃点斯科特零食吗？
+english_events_bubbles:L2620,bubble_green11,FIX,I'll take anybody's snacks.,我要吃任何人的点心。,谁的零食都行，我都吃。
+english_events_bubbles:L2626,bubble_green12,FIX,"What did you pack in your bag, Brian?",你包里装了些什么? 布莱恩?,布赖恩，你包里带了什么？
+english_events_bubbles:L2627,bubble_green12,KEEP,"Oh, just the essentials: fries and a pillow.","哦,只是必需品:薯条和枕头。","哦,只是必需品:薯条和枕头。"
+english_events_bubbles:L2633,bubble_green13,FIX,"Is there anywhere you wanna go, Brian?",你想去的地方吗? 布莱恩?,布赖恩，有没有什么想去的地方？
+english_events_bubbles:L2634,bubble_green13,POLISH,"Oh, I'm fine in the car, thanks.","哦,我没事在车里,谢谢。",哦，我待在车里就挺好，谢谢。
+english_events_bubbles:L2640,bubble_finn1,KEEP,Are we still on schedule?,我们还在按计划进行吗?,我们还在按计划进行吗?
+english_events_bubbles:L2641,bubble_finn1,KEEP,What schedule?,什么计划?,什么计划?
+english_events_bubbles:L2642,bubble_finn1,POLISH,...How do you live like this?!,你怎么过这样的生活?,……你们这样，到底怎么过日子啊？！

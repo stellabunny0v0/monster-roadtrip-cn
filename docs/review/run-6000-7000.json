@@ -1,0 +1,23 @@
+{
+  "baseline_inspected": 19951,
+  "minimum_new_entries": 6000,
+  "maximum_new_entries": 7000,
+  "status": "completed",
+  "starting_pass": "153",
+  "instruction": "Count only new unique whole-event language review; existing revisions and automated scans do not count.",
+  "new_entries_completed": 6029,
+  "latest_pass": "188",
+  "remaining_to_minimum": 0,
+  "completed_on": "2026-10-20",
+  "ending_inspected": 25980,
+  "whole_events_reviewed": 109,
+  "decisions": {
+    "FIX": 3365,
+    "POLISH": 2542,
+    "KEEP": 103,
+    "REVIEW": 19
+  },
+  "language_finalized_new_entries": 6010,
+  "unread_entries_remaining": 4275,
+  "project_review_complete": false
+}

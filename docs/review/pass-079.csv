@@ -1,0 +1,122 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_bubbles:L1731,bubble_yellow2,POLISH,Whoa! Am I speeding?!,呜呼! 我超速吗?,哇！我是不是超速了？！
+english_events_bubbles:L1732,bubble_yellow2,FIX,"Oz, if you were driving any slower...",奥兹如果你开得慢的话...,奥兹，你要是再慢一点……
+english_events_bubbles:L1733,bubble_yellow2,FIX,...the car would be technically parked.,...这辆车在技术上是停着的,……严格来说，就算停车了。
+english_events_bubbles:L1739,bubble_yellow3,KEEP,"Oz, are you good?",奥兹没事吧?,奥兹没事吧?
+english_events_bubbles:L1740,bubble_yellow3,FIX,Haha! Totally!,哈哈! 哈哈! 哈哈! 哈哈! 绝对!,哈哈！当然没事！
+english_events_bubbles:L1741,bubble_yellow3,POLISH,I always sweat this much when I'm having fun...,我总是这么出汗 当我玩得开心的时候...,我玩得开心的时候，就会出这么多汗……
+english_events_bubbles:L1747,bubble_yellow4,FIX,"Oh no, I missed my turn!","哦,不,我错过了我的轮到!",哦，不，我错过转弯的路口了！
+english_events_bubbles:L1748,bubble_yellow4,KEEP,I hope the GPS isn't mad at me...,我希望GPS没有生我的气...,我希望GPS没有生我的气...
+english_events_bubbles:L1754,bubble_yellow5,KEEP,I love being a hitchhiker...,我喜欢搭便车...,我喜欢搭便车...
+english_events_bubbles:L1755,bubble_yellow5,KEEP,...so much less pressure!,压力要小得多!,压力要小得多!
+english_events_bubbles:L1761,bubble_yellow6,POLISH,I think we're going over the speed limit!,我想我们要突破速度限制了!,我觉得，咱们已经超过限速了！
+english_events_bubbles:L1762,bubble_yellow6,POLISH,I'm pretty sure we're not.,"我敢肯定,我们不是。",我很确定，没有啊。
+english_events_bubbles:L1763,bubble_yellow6,FIX,I meant MY speed limit...,"我的意思是,我的速度限制...",我是说，我自己的限速……
+english_events_bubbles:L1769,bubble_yellow7,KEEP,I sometimes wonder if the car ever gets tired...,我有时会想这车会不会累了...,我有时会想这车会不会累了...
+english_events_bubbles:L1770,bubble_yellow7,FIX,...like from all the driving and such.,...就像从所有驱动器之类的。,……毕竟一直开来开去的。
+english_events_bubbles:L1771,bubble_yellow7,FIX,"Oh, Ozzie boy...!",哦哦 奥兹帅哥...,哎呀，小奥兹……！
+english_events_bubbles:L1777,bubble_yellow8,KEEP,"Oz, you look strange... are you okay, bro?","奥兹你看起来很奇怪... 你没事吧,兄弟?","奥兹你看起来很奇怪... 你没事吧,兄弟?"
+english_events_bubbles:L1778,bubble_yellow8,FIX,"Oh, Scott... I am never okay.",哦哦 斯科特... 我永远不会好起来的。,哦，斯科特……我就没好过。
+english_events_bubbles:L1779,bubble_yellow8,KEEP,But... it's okay.,不过... 没关系。,不过... 没关系。
+english_events_bubbles:L1785,bubble_yellow9,KEEP,"You're really quiet, Oz! What are you thinking about?","你真的安静, 奥兹! 你在想什麽?","你真的安静, 奥兹! 你在想什麽?"
+english_events_bubbles:L1786,bubble_yellow9,FIX,I'm owning my awkward silence.,我拥有我的尴尬的沉默。,我在坦然接受，属于我的尴尬沉默。
+english_events_bubbles:L1792,bubble_red1,FIX,This mixtape is FIRE!,这个混音带是FIRE!,这盘混音带，简直燃爆了！
+english_events_bubbles:L1798,bubble_red2,FIX,Can this thing do a wheelie?!,这东西能做个轮子吗?,这东西能翘头，用后轮开吗？！
+english_events_bubbles:L1799,bubble_red2,FIX,No.,没有。,不能。
+english_events_bubbles:L1800,bubble_red2,FIX,LET'S CHECK!,让我们检查一下!,试试看就知道了！
+english_events_bubbles:L1806,bubble_red3,FIX,So... are we winning or what?,所以说... 我们赢了还是什么?,所以……咱们到底算不算赢了？
+english_events_bubbles:L1812,bubble_red4,FIX,"Oof, I ate too many Scott Snacks...","哦,我吃太多东西了 斯科特 草纸...",哎哟，斯科特零食吃太多了……
+english_events_bubbles:L1813,bubble_red4,FIX,I BET I CAN EAT EVEN MORE!,"我敢打赌,我可以吃甚至更多!",我打赌，我能吃得更多！
+english_events_bubbles:L1819,bubble_red5,KEEP,"Wow, what a pretty mountain!","哇,多漂亮的山头!","哇,多漂亮的山头!"
+english_events_bubbles:L1820,bubble_red5,FIX,Wanna smash that or what?,想打烂它还是什么?,想不想上它？
+english_events_bubbles:L1821,bubble_red5,FIX,I can be your wingwoman.,我可以当你的女伴。,我可以给你当僚机。
+english_events_bubbles:L1827,bubble_red6,KEEP,Look at that cow!,看那头牛!,看那头牛!
+english_events_bubbles:L1828,bubble_red6,KEEP,"No, look at that other cow!","不,看看那头牛!","不,看看那头牛!"
+english_events_bubbles:L1829,bubble_red6,POLISH,"Sorry, Scott, but my cow is way better than your cow.",对不起 斯科特但我的牛比你的牛还好,不好意思，斯科特，可我这头牛，比你那头好多了。
+english_events_bubbles:L1835,bubble_red7,KEEP,"Guys, we're so good at this!","伙计们,我们很擅长这个!","伙计们,我们很擅长这个!"
+english_events_bubbles:L1836,bubble_red7,FIX,I wonder if there's a competitive road-tripping scene...,我想知道是否有竞争的 道路拖车场景...,不知道有没有公路旅行的竞技圈……
+english_events_bubbles:L1842,bubble_red8,FIX,"Amira, girl, we're too close to the speed limit...","阿米拉女孩,我们离速度限制太近了...",阿米拉，姐妹，咱们快超速了……
+english_events_bubbles:L1843,bubble_red8,FIX,"WHEN AMIRA DRIVES, SPEED KNOWS NO LIMITS!","当Amira开车, 规定知道没有限制!",阿米拉开车，速度没有极限！
+english_events_bubbles:L1849,bubble_adrien1,KEEP,Do you mind if I polish my sword?,你介意我擦擦我的剑吗?,你介意我擦擦我的剑吗?
+english_events_bubbles:L1850,bubble_adrien1,FIX,Naughty!,恶作剧!,好色哦！
+english_events_bubbles:L1851,bubble_adrien1,KEEP,...What?,什麽?,什麽?
+english_events_bubbles:L1857,bubble_adrien2,KEEP,"Run, our valiant metallic steed!","跑啊,我们勇敢的金属马!","跑啊,我们勇敢的金属马!"
+english_events_bubbles:L1863,bubble_adrien3,KEEP,"So, Adrien, you must feel like a fish out of water...","阿德里安,你一定觉得像一条出水的鱼...","阿德里安,你一定觉得像一条出水的鱼..."
+english_events_bubbles:L1864,bubble_adrien3,FIX,"I am that, quite literally.","我是,相当的字面意思。",我确实是鱼，也确实离了水。
+english_events_bubbles:L1865,bubble_adrien3,KEEP,"Polly, my smartest jokes don't work on him!",波莉我最聪明的笑话对他没用!,波莉我最聪明的笑话对他没用!
+english_events_bubbles:L1871,bubble_adrien4,KEEP,"Want some water, Adrien?","要喝点水吗,阿德里安?","要喝点水吗,阿德里安?"
+english_events_bubbles:L1872,bubble_adrien4,KEEP,Yes... it reminds me of home.,对... 它让我想起了家,对... 它让我想起了家
+english_events_bubbles:L1878,bubble_adrien5,KEEP,What is the end goal of this road trip quest?,这次出行旅行的最终目标是什么?,这次出行旅行的最终目标是什么?
+english_events_bubbles:L1879,bubble_adrien5,KEEP,The only goal is to have fun!,唯一的目标就是玩得开心!,唯一的目标就是玩得开心!
+english_events_bubbles:L1880,bubble_adrien5,KEEP,...I don't understand.,...我还不明白。,...我还不明白。
+english_events_bubbles:L1886,bubble_adrien6,KEEP,So do you guys only eat seafood?,你们只吃海鲜吗?,你们只吃海鲜吗?
+english_events_bubbles:L1887,bubble_adrien6,KEEP,...We just call it food.,...我们称之为食物。,...我们称之为食物。
+english_events_bubbles:L1893,bubble_adrien7,KEEP,...and that's why The Little Mermaid is unrealistic.,"...这就是为什么""小美人鱼""是不现实的","...这就是为什么""小美人鱼""是不现实的"
+english_events_bubbles:L1894,bubble_adrien7,FIX,Fascinating!,帅呆了!,真有意思！
+english_events_bubbles:L1900,bubble_adrien8,FIX,So... is Miranda like your country's boss?,所以说... 实值 米兰达 像你的国家的老板一样?,所以……米兰达算是你们国家的老板？
+english_events_bubbles:L1901,bubble_adrien8,KEEP,Eh...,额...,额...
+english_events_bubbles:L1902,bubble_adrien8,KEEP,Awkward!,尴尬!,尴尬!
+english_events_bubbles:L1908,bubble_adrien9,FIX,"...because ""mer"" is French for ""sea"".","...因为""mer""是法语的""sea"".",……因为“mer”在法语里，是“海”的意思。
+english_events_bubbles:L1909,bubble_adrien9,FIX,"Oh, okay... What about ""kingdom""?","哦,还好... 那""金鸡""呢?",哦，懂了……那“kingdom”呢？
+english_events_bubbles:L1915,bubble_before_sphinxcursedartifact,FIX,Look! A cursed flash sale!,听着! 被诅咒的快卖!,快看！诅咒商品限时特卖！
+english_events_bubbles:L1921,bubble_before_hidefood,FIX,SHIT! IT'S THE FUZZ!,妈的! 这是FUZZ!,操！条子来了！
+english_events_bubbles:L1927,bubble_before_hidemagicartifact,FIX,SHIT! IT'S THE FUZZ!,妈的! 这是FUZZ!,操！条子来了！
+english_events_bubbles:L1933,bubble_before_theinformant,FIX,SHIT! IT'S THE FUZZ!,妈的! 这是FUZZ!,操！条子来了！
+english_events_bubbles:L1939,bubble_before_fauxpollyscottrobbers,FIX,SHIT! IT'S THE FUZZ!,妈的! 这是FUZZ!,操！条子来了！
+english_events_bubbles:L1945,bubble_before_impossiblealcoholtest,FIX,SHIT! IT'S THE FUZZ!,妈的! 这是FUZZ!,操！条子来了！
+english_events_bubbles:L1951,bubble_before_finaldestination2,KEEP,The cars aren't moving... are we in a parking lot?,车不动了... 我们在停车场吗?,车不动了... 我们在停车场吗?
+english_events_bubbles:L1957,bubble_before_scottshepherd,FIX,Look! Sheep!,听着! 羊头!,快看！羊！
+english_events_bubbles:L1963,bubble_before_codroute,FIX,Can't you hear the bass? PULL OVER!,你听不到低音吗? 用力拉过去!,没听见低音吗？靠边停车！
+english_events_bubbles:L1969,bubble_before_carsolomon1,KEEP,Look at those guys yelling at each other.,看看那些家伙对彼此大吼大叫,看看那些家伙对彼此大吼大叫
+english_events_bubbles:L1975,bubble_before_roadeventany1,KEEP,I'm bored! I want something to happen NOW!,我无聊了! 我想现在发生点什么!,我无聊了! 我想现在发生点什么!
+english_events_bubbles:L1981,bubble_before_roadeventany2,FIX,"Wooo, we're getting there! Let's hope nothing weird happens!","哇,我们到了! 希望没有什么怪事发生!",好耶，快到了！希望别出什么怪事！
+english_events_bubbles:L1987,bubble_before_roadeventany3,KEEP,"Man, it'd be great if something random happened RIGHT NOW!","伙计,如果现在发生随机事件,那就太好了!","伙计,如果现在发生随机事件,那就太好了!"
+english_events_bubbles:L1993,bubble_before_roadeventany4,POLISH,Isn't it cool how nothing ever happens on the road?,"路上什么都没有发生,是不是很酷?",路上总是风平浪静，这多好啊？
+english_events_bubbles:L1999,bubble_before_roadeventany5,FIX,"Finally, some respite from wacky stuff...","最后,从疯狂的东西中缓缓一下...",终于能歇会儿，暂时不用碰上怪事了……
+english_events_bubbles:L2005,bubble_before_roadeventany6,KEEP,Best thing about the road: nothing happens!,路上最好的事:什么都没有发生!,路上最好的事:什么都没有发生!
+english_events_bubbles:L2011,bubble_before_roadeventany7,FIX,"Uuuuugh, why is the road so UNEVENTFUL?",Uuuuugh 为什么这条路这么不通?,呃——路上怎么一点事都没有啊？
+english_events_bubbles:L2017,bubble_before_roadeventany8,FIX,"Doo-be-doo, driving carelessly, knowing nothing will happen!","杜比杜,不小心开车,知道什么也不会发生!",嘟哔嘟，随便开开车，反正什么事也不会发生！
+english_events_bubbles:L2023,bubble_after_diner_pancake,FIX,PANCAKE PANCAKE PANCAKE PANCAKE!,松饼 松饼 松饼!,煎饼，煎饼，煎饼，煎饼！
+english_events_bubbles:L2024,bubble_after_diner_pancake,FIX,"You don't really HAVE to sing along, Scott!",你不一定要一起唱吗? 斯科特!,斯科特，你也不是非得跟着唱啊！
+english_events_bubbles:L2030,bubble_after_diner_pancake2,FIX,This song is getting on my nerves...,这首歌让我很不安...,这歌听得我好烦……
+english_events_bubbles:L2031,bubble_after_diner_pancake2,FIX,"What song? Oh, right! PANCAKE PANCAKE PANCAKE PANCAKE!","什么歌吗? 哦,对了! 松饼 松饼 松饼!",什么歌？哦，对！煎饼，煎饼，煎饼，煎饼！
+english_events_bubbles:L2037,bubble_after_diner_pancake3,KEEP,"Polly, I don't like this song anymore...",波莉我不再喜欢这首歌了,波莉我不再喜欢这首歌了
+english_events_bubbles:L2038,bubble_after_diner_pancake3,FIX,"You know we can always change the music, right?","你知道我们总能改变音乐,对吧?",你知道，咱们随时都能换首歌吧？
+english_events_bubbles:L2044,bubble_after_diner_pancake4,FIX,PANCAKE PANCAKE PANCAKE PANCAKE!,松饼 松饼 松饼!,煎饼，煎饼，煎饼，煎饼！
+english_events_bubbles:L2045,bubble_after_diner_pancake4,FIX,"Aw, screw it! PANCAKE PANCAKE PANCAKE PANCAKE!","哦,他妈的! 松饼 松饼 松饼!",啊，管它呢！煎饼，煎饼，煎饼，煎饼！
+english_events_bubbles:L2051,bubble_low_money1,KEEP,"Bros, I think we're running out of MONEY...","兄弟们,我想我们快没钱了...","兄弟们,我想我们快没钱了..."
+english_events_bubbles:L2052,bubble_low_money1,FIX,Don't look at me! %CURRENTPLAYERNAME% is the big spender here!,别看着我!  %CURRENTPLAYERNAME% 是这里的大花人!,别看我！最会花钱的，明明是%CURRENTPLAYERNAME%！
+english_events_bubbles:L2058,bubble_low_money2,KEEP,"Bros, why do I feel so poor?","兄弟们,我为什么觉得这么穷?","兄弟们,我为什么觉得这么穷?"
+english_events_bubbles:L2059,bubble_low_money2,POLISH,That tends to happen when you're running short on MONEY.,这往往发生在你缺钱的时候。,钱不够的时候，通常就这样。
+english_events_bubbles:L2065,bubble_low_money3,KEEP,"Hmmm, does anybody have some extra MONEY?","嗯,有人有额外的钱吗?","嗯,有人有额外的钱吗?"
+english_events_bubbles:L2066,bubble_low_money3,FIX,Don't look at me. %CURRENTPLAYERNAME%'s the road trip accountant!,别看着我  %CURRENTPLAYERNAME%路程会计!,别看我。这趟旅行，管账的可是%CURRENTPLAYERNAME%！
+english_events_bubbles:L2072,bubble_low_magic1,KEEP,The car sounds like it's choking...,车听起来像在窒息...,车听起来像在窒息...
+english_events_bubbles:L2073,bubble_low_magic1,FIX,"Yeah, I think it's running low on MAGIC...","是的,我觉得它运行 低的MAGIC...",是啊，我觉得，是魔力快用完了……
+english_events_bubbles:L2079,bubble_low_magic2,FIX,"Polly, what does it mean when the needle is in the red?",波莉针在红地里是什么意思?,波莉，指针进红区了，是什么意思？
+english_events_bubbles:L2080,bubble_low_magic2,FIX,It means we need more MAGIC right away!,这意味着我们需要更多的MAGIC马上!,意思是，咱们得马上补充魔力！
+english_events_bubbles:L2086,bubble_low_magic3,KEEP,"Bros, this road trip is a magical experience...","兄弟们,这次公路旅行是一次神奇的经历...","兄弟们,这次公路旅行是一次神奇的经历..."
+english_events_bubbles:L2087,bubble_low_magic3,FIX,...so maybe we should get some MAGIC to keep it going?,所以也许我们应该让一些MAGIC保持下去?,……所以，是不是该弄点魔力，让它继续下去？
+english_events_bubbles:L2093,bubble_low_magic4,FIX,"Scott, our car's about to crap out on us!",斯科特我们的车要撞了!,斯科特，咱们的车快趴窝了！
+english_events_bubbles:L2094,bubble_low_magic4,FIX,"Yeah, we need someone's MAGIC touch!","是啊,我们需要某人的 MAGIC的触摸!",是啊，得找人用魔力，给它来个妙手回春！
+english_events_bubbles:L2100,bubble_low_mind1,KEEP,"Bros, I feel like... not smart at all...","兄弟们,我觉得... 一点都不聪明...","兄弟们,我觉得... 一点都不聪明..."
+english_events_bubbles:L2101,bubble_low_mind1,FIX,"Yeah, looks like %CURRENTPLAYERNAME%'s been using up our MIND...","是啊,看起来%CURRENTPLAYERNAME% 已经用光了我们的想法...",是啊，咱们的头脑，都快被%CURRENTPLAYERNAME%耗光了……
+english_events_bubbles:L2107,bubble_low_mind2,KEEP,I think we've been thinking too much lately...,我想我们最近想太多...,我想我们最近想太多...
+english_events_bubbles:L2108,bubble_low_mind2,FIX,"Yeah, it'd be good to get some peace of MIND...","是啊,这将是很好的 得到一些平静的MIND...",是啊，能让头脑平静一下就好了……
+english_events_bubbles:L2114,bubble_low_mind3,KEEP,"Scott, are you okay?",斯科特没事吧?,斯科特没事吧?
+english_events_bubbles:L2115,bubble_low_mind3,FIX,Need... MIND... to think... good...,需要吗? 注意点... 想着... 不错...,需要……头脑……才能……好好想……
+english_events_bubbles:L2121,bubble_low_stamina1,FIX,I'm not used to running this low on STAMINA...,我不习惯在STAMINA跑这么低...,我还真不习惯，体力少成这样……
+english_events_bubbles:L2122,bubble_low_stamina1,KEEP,"Yeah, even I'm hungry!","是啊,连我都饿了!","是啊,连我都饿了!"
+english_events_bubbles:L2128,bubble_low_stamina2,KEEP,"I'm starving, bros...","我饿了,兄弟们...","我饿了,兄弟们..."
+english_events_bubbles:L2129,bubble_low_stamina2,FIX,"I'm running out of Scott Snacks, and I need STAMINA right now!","我快没钱了 斯科特 斯纳克,我现在就需要斯塔米娜!",斯科特零食快吃光了，可我现在就需要体力！
+english_events_bubbles:L2135,bubble_low_hype1,KEEP,Umm... Polly... I'm kinda bored.,额...  波莉... 我有点无聊。,额...  波莉... 我有点无聊。
+english_events_bubbles:L2136,bubble_low_hype1,FIX,"Yeah, this road trip isn't living up to the HYPE.","是啊,这次公路旅行不能满足HYPE。",是啊，这趟旅行没热度，嗨不起来啊。
+english_events_bubbles:L2142,bubble_low_hype2,KEEP,"Polly, I don't feel as pumped as I normally do...",波莉感觉不像平时那么兴奋...,波莉感觉不像平时那么兴奋...
+english_events_bubbles:L2143,bubble_low_hype2,FIX,I think %CURRENTPLAYERNAME%'s bringing our HYPE down!,我觉得 %CURRENTPLAYERNAME%我们的HYPE下来了!,我看，是%CURRENTPLAYERNAME%把咱们的热度拉低了！
+english_events_bubbles:L2149,bubble_low_hype3,KEEP,"Guys, aren't we being too reasonable on this road trip?","伙计们,我们不是太理智了吗?","伙计们,我们不是太理智了吗?"
+english_events_bubbles:L2150,bubble_low_hype3,FIX,I need something to HYPE me up!,我需要一些东西来伤害我!,得来点什么，把热度炒起来！
+english_events_bubbles:L2156,bubble_low_soul1,KEEP,"Polly, are we bad people?",波莉我们是坏人吗?,波莉我们是坏人吗?
+english_events_bubbles:L2157,bubble_low_soul1,FIX,My SOUL feels empty...,我的SOUL感觉空虚...,我感觉，自己的灵魂空荡荡的……
+english_events_bubbles:L2163,bubble_low_soul2,FIX,I love pranking as much as anybody...,我和别人一样喜欢排队...,我当然也爱搞恶作剧……
+english_events_bubbles:L2164,bubble_low_soul2,FIX,"But I don't like being completely SOUL-less, you know?","但我不喜欢 完全无声无息,你知道吗?",可我也不想把灵魂丢个精光，你懂吧？
+english_events_bubbles:L2170,bubble_high_money1,FIX,"Wooo, we're in the MONEY!","呜,我们在钱!",好耶，咱们有钱啦！
+english_events_bubbles:L2171,bubble_high_money1,KEEP,Who'd have thought a road trip would make you richer?,谁会想到路途旅行会让你更富有呢?,谁会想到路途旅行会让你更富有呢?

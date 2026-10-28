@@ -1,0 +1,102 @@
+{
+  "game_dir": "Z:\\SteamLibrary\\steamapps\\common\\Monster Prom",
+  "method": "Adjacent length-prefixed UTF-8 Unity strings, four-byte alignment; manual confirmation required.",
+  "files": [
+    {
+      "file": "resources.assets",
+      "sha256": "fb516c39e501fe30f4797ae9ae4797950702ba79d87d85914aec480551e04e17",
+      "candidates": 324
+    },
+    {
+      "file": "level0",
+      "sha256": "c09d34bc87b6a07ddf35118e671d2d3eea17612e320b7b34013694fdcd654486",
+      "candidates": 0
+    },
+    {
+      "file": "level1",
+      "sha256": "9a2dd6fd08c4cb1cdbfaec5b8770e6eff7019e6a31d39ee85cbf2ca62ad31e74",
+      "candidates": 0
+    },
+    {
+      "file": "level10",
+      "sha256": "55eb2d032559744d92f073e74f3de18114e9afaa1c749130a8033789291ffba6",
+      "candidates": 11
+    },
+    {
+      "file": "level11",
+      "sha256": "2e3fbf66a16fbd1fc29487d3e3a15b34cbb6b2cd5518ab8ca3b33e63e21db912",
+      "candidates": 101
+    },
+    {
+      "file": "level12",
+      "sha256": "83408773b3c065dfb897f04a9754375a98574356c2c13918ebcc09d74f08e237",
+      "candidates": 0
+    },
+    {
+      "file": "level13",
+      "sha256": "102a4b9c230ef15d6efd37b2d5d24cfb3034e048c853589fb7b929a1ba27f8b4",
+      "candidates": 0
+    },
+    {
+      "file": "level14",
+      "sha256": "d2cd5d58e5a97d14878d0436045392d9f61febcfe06245a99866d92e539b5718",
+      "candidates": 0
+    },
+    {
+      "file": "level15",
+      "sha256": "424aec6c0b9a514809458ee7d6dea9d8f18f721d5d4128b6a421bc5638d1ab69",
+      "candidates": 0
+    },
+    {
+      "file": "level16",
+      "sha256": "1c45ef7bdc26c4e951d82bd3d2636b98998682b36eda5d5f5779f30f2225bc8c",
+      "candidates": 0
+    },
+    {
+      "file": "level17",
+      "sha256": "c805760608d00e1d583012ba341aacda5c2e0486c6225f9d93d3d68146387405",
+      "candidates": 0
+    },
+    {
+      "file": "level2",
+      "sha256": "72eca5b04779f84c6a1d560cbc72a3f5c1bdd6829d2989cbe51b0b6ba21454ea",
+      "candidates": 36
+    },
+    {
+      "file": "level3",
+      "sha256": "dfb3186857c999ec93208b218c5310f0253da6ce636a3b1acadc3a454d3db328",
+      "candidates": 0
+    },
+    {
+      "file": "level4",
+      "sha256": "b2c4fa55060f8d21a6686d8a75dc3b560ea7147b529ee29bca75bcd9334143a1",
+      "candidates": 6
+    },
+    {
+      "file": "level5",
+      "sha256": "f6ee7687ffca9d61e0196bcc5487cd17ec556e8719d025aa914f51d72e43bd3b",
+      "candidates": 243
+    },
+    {
+      "file": "level6",
+      "sha256": "e06d3564556bc22a3e430f791ca4af507ab67810769b449151d0e5d20c96e4be",
+      "candidates": 33365
+    },
+    {
+      "file": "level7",
+      "sha256": "2c12a508ba60c8a2c99dbc0ac9946ada466d50c649c500b4596f82ea30488276",
+      "candidates": 0
+    },
+    {
+      "file": "level8",
+      "sha256": "9444b037f84b736ea44995ec5c516223b17e0554fe64ec12b61d65754700b299",
+      "candidates": 81
+    },
+    {
+      "file": "level9",
+      "sha256": "59d54a109a459a40587cefcc8d9453faaeb2c5a215aae276bb8b14ed951d1876",
+      "candidates": 14
+    }
+  ],
+  "pairs": 34181
+}

@@ -7,7 +7,7 @@ import re
 from collections import Counter
 from pathlib import Path
 
-from translation_common import TOKEN_PATTERNS, extract_tokens
+from translation_common import TOKEN_PATTERNS, extract_tokens, load_display_literal_overrides, row_display_literals
 
 
 PRIVATE_USE = re.compile(r"[\ue000-\uf8ff]")
@@ -30,11 +30,11 @@ def unwrap_or_remove(token: str) -> str:
     return ""
 
 
-def repair(source: str, target: str) -> tuple[str, bool]:
+def repair(source: str, target: str, display_literals: frozenset[str] = frozenset()) -> tuple[str, bool]:
     original_target = target
     changed = False
-    source_tokens = extract_tokens(source)
-    target_tokens = extract_tokens(target)
+    source_tokens = extract_tokens(source, display_literals)
+    target_tokens = extract_tokens(target, display_literals)
     extras = target_tokens - source_tokens
     for token, count in extras.items():
         for _ in range(count):
@@ -81,6 +81,7 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="Remove tokens hallucinated by machine translation")
     parser.add_argument("--translation", default=Path("translation"), type=Path)
     args = parser.parse_args()
+    display_overrides = load_display_literal_overrides(args.translation)
     repaired = 0
     for csv_path in sorted(args.translation.glob("english_*.csv")):
         with csv_path.open("r", encoding="utf-8-sig", newline="") as handle:
@@ -93,7 +94,8 @@ def main() -> int:
         for row in rows:
             if row.get("status") != "machine" or not row.get("target"):
                 continue
-            row["target"], changed = repair(row["source"], row["target"])
+            literals = row_display_literals(row, display_overrides)
+            row["target"], changed = repair(row["source"], row["target"], literals)
             if (
                 row["row_id"].startswith("english_metatexts:XTR_CRE_")
                 and row["source"].startswith("Crowd Designers")

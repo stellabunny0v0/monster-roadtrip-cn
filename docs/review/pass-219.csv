@@ -1,0 +1,227 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_maingame:L24870,howdeep_eotr_stage1,FIX,Go spelunking,去打个电话吧,探索洞穴
+english_events_maingame:L24874,howdeep_eotr_stage1,POLISH,"Woohoo, time to explore a dark cave with your best friends! What could be better?","呜呼,该去和你的好朋友去探索一个黑暗的洞了! 还有什么能更好?",好耶，跟最好的朋友，一起探索黑暗洞穴！还有比这更棒的吗？
+english_events_maingame:L24875,howdeep_eotr_stage1,FIX,"Here, have +N2 HYPE from all the HYPE of exploring caves. Because this will surely be a fun-filled experience... right?","这儿,有来自所有探索洞穴的 HYPE + N2 HYPE. 因为这将是一个充满乐趣的经历... 对不对?",喏，洞穴探险够刺激，你获得了 +N2 热度。这肯定是趟充满乐趣的旅程……对吧？
+english_events_maingame:L24877,howdeep_eotr_stage1,POLISH,"So we're just visiting a random cave? Why? You guys know we don't have to stop at EVERYTHING we see on the road, right?","所以我们只是去一个随机的洞穴? 为什么? 你们知道我们不必在路上看到的一切停下来,对吧?",所以，就随便找个洞钻？为什么？路上看见什么都要停一下，也没这必要吧？
+english_events_maingame:L24878,howdeep_eotr_stage1,POLISH,"Cheer up, Polly. Exploring a cave will be fun! It'll be full of new smells and tight spaces to get stuck in!",开心点 波莉. 探索洞穴会很有趣的! 里面会充满出新气味和紧凑的空间,开心点，波莉，探洞多好玩！有新气味，还有能把自己卡住的窄缝！
+english_events_maingame:L24880,howdeep_eotr_stage1,POLISH,"You start walking through the dark, damp caverns.",你开始走过黑暗而潮湿的洞穴,你们走进黑暗潮湿的洞穴。
+english_events_maingame:L24881,howdeep_eotr_stage1,POLISH,"As you get deeper, light becomes a scarce resource that keeps getting scarcer.","随着你越来越深,光成为了一种稀缺的资源,它越来越稀缺.",越往里，光就越稀少，越来越稀少。
+english_events_maingame:L24882,howdeep_eotr_stage1,POLISH,It slowly gets harder to recognize what's a path and what's a dead end.,"慢慢地,人们就更难识别什么是道路,什么是死路.",渐渐地，分不清哪里有路，哪里是死胡同。
+english_events_maingame:L24883,howdeep_eotr_stage1,FIX,"You make a right, two lefts, another right...","你右转,左转,右转...",右转，左转两次，再右转……
+english_events_maingame:L24884,howdeep_eotr_stage1,POLISH,"I don't know about this, fam. Aren't we going too far into this dumb cave?","我不知道这件事, 范姆. 我们是不是走得太远了 进入这个愚蠢的洞穴?",不好说啊，各位。这破洞，是不是钻得太深了？
+english_events_maingame:L24885,howdeep_eotr_stage1,POLISH,"Remember, we'll eventually need to get out.","记住,我们最终需要离开。",别忘了，总得出去的。
+english_events_maingame:L24887,howdeep_eotr_stage1,FIX,No. You're too invested now. You need to keep going...,没有。 你现在投资太高了 继续走...,不行，已经走到这份上了，必须继续……
+english_events_maingame:L24888,howdeep_eotr_stage1,POLISH,"...although, as you traverse all kinds of turns and passages, you wonder just what you're expecting to find.","...虽然你走过各种转弯和通道, 你想知道你期待找到什么。",……可穿过一条条弯道与岔路，你又忍不住想，究竟指望找到什么。
+english_events_maingame:L24889,howdeep_eotr_stage1,POLISH,Maybe the usual thing... some sort of conflict that forces you to make a choice.,也许平常的事... 某种冲突 迫使你做出选择。,也许，还是老一套……遇到点矛盾，逼你选个选项。
+english_events_maingame:L24890,howdeep_eotr_stage1,POLISH,"Yes, something like that...","是的,类似的东西...",对，大概就是这样……
+english_events_maingame:L24891,howdeep_eotr_stage1,FIX,"And so, you eventually find a fork that begs for a choice:","所以,你最终找到一个叉子 乞求一个选择:",于是，终于遇上了一个需要选择的岔路口：
+english_events_maingame:L24892,howdeep_eotr_stage1,POLISH,Should you turn left or right?,你该向左还是向右?,往左，还是往右？
+english_events_maingame:L24895,howdeep_eotr_stage1,KEEP,Left,左边,左边
+english_events_maingame:L24896,howdeep_eotr_stage1,FIX,Right,对,右边
+english_events_maingame:L24898,howdeep_eotr_stage1,FIX,Uhm... Usually the options you have to choose from are more... how would you put it? Colorful.,"那个... Uhm... 通常,你必须选择的选项更多... 怎么说呢? 有色相华.",嗯……通常，选项会更……怎么说呢？丰富多彩一点。
+english_events_maingame:L24899,howdeep_eotr_stage1,FIX,Left or right.,左右相会.,左，或者右。
+english_events_maingame:L24900,howdeep_eotr_stage1,POLISH,It feels a bit basic.,感觉有点基本,有点太简单了。
+english_events_maingame:L24902,howdeep_eotr_stage1,FIX,Uhm... Usually the options you have to choose from are more... how would you put it? Colorful.,"那个... Uhm... 通常,你必须选择的选项更多... 怎么说呢? 有色相华.",嗯……通常，选项会更……怎么说呢？丰富多彩一点。
+english_events_maingame:L24903,howdeep_eotr_stage1,FIX,Left or right.,左右相会.,左，或者右。
+english_events_maingame:L24904,howdeep_eotr_stage1,POLISH,It feels a bit basic.,感觉有点基本,有点太简单了。
+english_events_maingame:L24913,howdeep_eotr_stage2,POLISH,But oh well... onto the climactic outcome of this situation...,"不过,哦... 进入了这种局面的高潮",不过算了……接下来，该到这件事的高潮结局了……
+english_events_maingame:L24914,howdeep_eotr_stage2,KEEP,...,...,...
+english_events_maingame:L24915,howdeep_eotr_stage2,KEEP,...,...,...
+english_events_maingame:L24916,howdeep_eotr_stage2,FIX,Climactic outcome happening... NOW!,高潮的结果正在发生... 现在!,高潮结局，即将发生……就是现在！
+english_events_maingame:L24917,howdeep_eotr_stage2,KEEP,...,...,...
+english_events_maingame:L24918,howdeep_eotr_stage2,KEEP,...,...,...
+english_events_maingame:L24919,howdeep_eotr_stage2,FIX,Hmmm... the cave just... keeps going.,那个... 洞穴刚刚... 继续走,嗯……洞穴只是……仍在延伸。
+english_events_maingame:L24920,howdeep_eotr_stage2,POLISH,You're definitely not used to this.,你绝对不习惯这个,这可真不习惯。
+english_events_maingame:L24921,howdeep_eotr_stage2,FIX,And then...,礛...,然后……
+english_events_maingame:L24923,howdeep_eotr_stage2,KEEP,Left,左边,左边
+english_events_maingame:L24924,howdeep_eotr_stage2,FIX,Right,对,右边
+english_events_maingame:L24926,howdeep_eotr_stage2,POLISH,"Again with this ""Left or Right"" thing?","又说""左""或""右""?",又是“左还是右”？
+english_events_maingame:L24927,howdeep_eotr_stage2,FIX,It's not even remotely funny this time.,这一次甚至不 远程搞笑。,这回，真是半点都不好笑。
+english_events_maingame:L24928,howdeep_eotr_stage2,POLISH,(Not that it was funny last time.),(不是说上次是滑稽的),（也不是说上回好笑。）
+english_events_maingame:L24930,howdeep_eotr_stage2,POLISH,"Again with this ""Left or Right"" thing?","又说""左""或""右""?",又是“左还是右”？
+english_events_maingame:L24931,howdeep_eotr_stage2,FIX,It's not even remotely funny this time.,这一次甚至不 远程搞笑。,这回，真是半点都不好笑。
+english_events_maingame:L24932,howdeep_eotr_stage2,POLISH,(Not that it was funny last time.),(不是说上次是滑稽的),（也不是说上回好笑。）
+english_events_maingame:L24941,howdeep_eotr_stage3,POLISH,I don't know bros... I think we've gone a bit too deep.,我不认识兄弟... 我觉得我们走得太深了,不好说啊，兄弟们……是不是走得有点太深了。
+english_events_maingame:L24942,howdeep_eotr_stage3,POLISH,"Yeah, Scott's right.",对 斯科特说得没错,嗯，斯科特说得对。
+english_events_maingame:L24943,howdeep_eotr_stage3,KEEP,They're not wrong.,他们没有错。,他们没有错。
+english_events_maingame:L24944,howdeep_eotr_stage3,POLISH,But you don't want to admit that you are completely lost now.,但你不想承认你现在完全迷失了,可你不愿承认，自己彻底迷路了。
+english_events_maingame:L24945,howdeep_eotr_stage3,POLISH,"We're completely lost, aren't we?","我们完全迷路了,不是吗?",我们完全迷路了，对吧？
+english_events_maingame:L24946,howdeep_eotr_stage3,KEEP,...,...,...
+english_events_maingame:L24947,howdeep_eotr_stage3,POLISH,So I guess going back is just as good as going forward.,所以我想回去跟往前一样好,所以，往回走，跟往前走，也没什么区别。
+english_events_maingame:L24948,howdeep_eotr_stage3,KEEP,*sigh*,*叹息*,*叹息*
+english_events_maingame:L24949,howdeep_eotr_stage3,POLISH,You just need to keep walking... maybe you'll get to the other side.,你只要继续走... 也许你会到另一边去,继续走就是……也许，能到另一头。
+english_events_maingame:L24950,howdeep_eotr_stage3,FIX,The cave didn't look so big from the outside.,洞出外道相去相去无相.,从外面看，洞明明没这么大。
+english_events_maingame:L24951,howdeep_eotr_stage3,POLISH,If you just keep walking...,如果你继续走...,只要继续走……
+english_events_maingame:L24952,howdeep_eotr_stage3,POLISH,Some more...,再来点...,再走一点……
+english_events_maingame:L24953,howdeep_eotr_stage3,POLISH,Until...,直到... . . . . . .,直到……
+english_events_maingame:L24956,howdeep_eotr_stage3,FIX,Right,对,右边
+english_events_maingame:L24957,howdeep_eotr_stage3,KEEP,Left,左边,左边
+english_events_maingame:L24959,howdeep_eotr_stage3,POLISH,"Huh, that one felt a bit weird.",那只感觉有点怪怪的,嗯，刚才那个，感觉有点奇怪。
+english_events_maingame:L24960,howdeep_eotr_stage3,FIX,Like... not completely right.,"喜欢... 并不完全正确,我对这个有意见",好像……不太对劲。
+english_events_maingame:L24961,howdeep_eotr_stage3,KEEP,You're feeling a bit dizzy.,你有点晕了,你有点晕了
+english_events_maingame:L24963,howdeep_eotr_stage3,POLISH,"Huh, that one felt a bit weird.",那只感觉有点怪怪的,嗯，刚才那个，感觉有点奇怪。
+english_events_maingame:L24964,howdeep_eotr_stage3,FIX,Like... not completely right.,"喜欢... 并不完全正确,我对这个有意见",好像……不太对劲。
+english_events_maingame:L24965,howdeep_eotr_stage3,KEEP,You're feeling a bit dizzy.,你有点晕了,你有点晕了
+english_events_maingame:L24973,howdeep_eotr_stage4,FIX,"The caves go on and on forever: the same claustrophobic walls, all damp and hard.","洞出相去相续:同为幽闭恐惧之壁,皆为潮湿而硬.",洞穴无穷无尽，洞壁始终一样逼仄，潮湿又坚硬。
+english_events_maingame:L24977,howdeep_eotr_stage4,POLISH,It almost feels as if they're slowly closing in on you.,感觉好像他们慢慢接近你,仿佛正慢慢向你挤过来。
+english_events_maingame:L24978,howdeep_eotr_stage4,KEEP,This doesn't feel good.,感觉不太好,感觉不太好
+english_events_maingame:L24979,howdeep_eotr_stage4,POLISH,Common sense should tell you not to keep going.,常识应该告诉你不要继续走下去,常识告诉你，不该再继续。
+english_events_maingame:L24980,howdeep_eotr_stage4,POLISH,But you have this basic instinct that you can't stop now.,"但你有这种基本的本能,你现在无法停止.",可本能又说，不能停。
+english_events_maingame:L24982,howdeep_eotr_stage4,POLISH,"Even if the walls keep closing in on you, slowly but steadily.",即使墙壁一直紧紧地靠近你 慢慢地但稳步地靠近你,哪怕洞壁，正缓慢而坚定地不断挤近。
+english_events_maingame:L24983,howdeep_eotr_stage4,FIX,At some point you can't comfortably walk at your full height.,"不知何时,你无法在身高处舒适地行走。",渐渐地，连直起身子走路，都很困难。
+english_events_maingame:L24984,howdeep_eotr_stage4,POLISH,You need to bend your back a bit...,你得弯下腰...,你得弯点腰……
+english_events_maingame:L24986,howdeep_eotr_stage4,POLISH,Soon you're almost crouching...,很快你就要蹲下... . . . .,很快，几乎蹲着走……
+english_events_maingame:L24987,howdeep_eotr_stage4,POLISH,"Before you realize it, you're crawling...","在你意识到之前,你爬行...",不知不觉，已经开始爬了……
+english_events_maingame:L24989,howdeep_eotr_stage4,POLISH,Into narrower and narrower cavities...,进入狭窄而狭窄的腔道...,钻进越来越窄的缝隙……
+english_events_maingame:L24990,howdeep_eotr_stage4,POLISH,"This is not going to end well; and yet, it doesn't feel like you have a choice.","这不会是好结局;然而,感觉你没有选择的余地。",这不会有好结果，可你又觉得，自己没得选。
+english_events_maingame:L24991,howdeep_eotr_stage4,POLISH,Unless you...,除非你... . . . . . . . . .,除非……
+english_events_maingame:L24992,howdeep_eotr_stage4,KEEP,Keep going deeper.,继续往下走,继续往下走
+english_events_maingame:L24993,howdeep_eotr_stage4,KEEP,Keep going deeper.,继续往下走,继续往下走
+english_events_maingame:L24995,howdeep_eotr_stage4,POLISH,"Bros, are we sure about this? If we keep going, I might get stuck.","哥们,我们确定吗? 如果我们继续走,我可能会被卡住。",兄弟们，确定吗？再往前，我可能要卡住了。
+english_events_maingame:L24996,howdeep_eotr_stage4,FIX,Scott isn't wrong. You're also starting to have difficulty breathing.,斯科特 ⊿岿 你呼吸也开始困难了,斯科特说得对，你也开始呼吸困难。
+english_events_maingame:L24997,howdeep_eotr_stage4,FIX,Still...,临Τ...,可是……
+english_events_maingame:L24998,howdeep_eotr_stage4,FIX,Just... keep going...,刚刚... 继续...,只管……继续走……
+english_events_maingame:L25000,howdeep_eotr_stage4,POLISH,"Bros, are we sure about this? If we keep going, I might get stuck.","哥们,我们确定吗? 如果我们继续走,我可能会被卡住。",兄弟们，确定吗？再往前，我可能要卡住了。
+english_events_maingame:L25001,howdeep_eotr_stage4,FIX,Scott isn't wrong. You're also starting to have difficulty breathing.,斯科特 ⊿岿 你呼吸也开始困难了,斯科特说得对，你也开始呼吸困难。
+english_events_maingame:L25002,howdeep_eotr_stage4,FIX,Still...,临Τ...,可是……
+english_events_maingame:L25003,howdeep_eotr_stage4,FIX,Just... keep going...,刚刚... 继续...,只管……继续走……
+english_events_maingame:L25014,howdeep_eotr_stage5,FIX,What the fu...?,搞什么鬼? ! ! ! ! ! ! ! ! ! ! ! !,搞什……？
+english_events_maingame:L25015,howdeep_eotr_stage5,FIX,The narrow passage has suddenly opened into... something else.,狭窄的通道突然打开... 还有其他的,狭窄的通道，忽然通向了……另一种地方。
+english_events_maingame:L25016,howdeep_eotr_stage5,POLISH,"As you crawl out of it, you find yourselves in a hallway.","当你爬出它, 你发现自己在走廊。",爬出来，你们发现，自己站在走廊里。
+english_events_maingame:L25017,howdeep_eotr_stage5,FIX,"It looks like a non-descript hotel hallway, except there's no doors.","它看起来像一个非描述性的酒店走廊,除了没有门。",像一条平平无奇的酒店走廊，只有一点：没有门。
+english_events_maingame:L25018,howdeep_eotr_stage5,FIX,Just the hallways... going and going.,走廊就在这里... 继续前进。,只有走廊，无止境地延伸。
+english_events_maingame:L25019,howdeep_eotr_stage5,POLISH,"Something's wrong, bros... listen.","出事了,兄弟们... 听着",兄弟们，不对劲……听。
+english_events_maingame:L25020,howdeep_eotr_stage5,KEEP,...,...,...
+english_events_maingame:L25021,howdeep_eotr_stage5,KEEP,...,...,...
+english_events_maingame:L25022,howdeep_eotr_stage5,POLISH,"I don't hear anything, boo.","我什么也没听到,嘘。",什么也没听见，哥们儿。
+english_events_maingame:L25023,howdeep_eotr_stage5,POLISH,Exactly: there's no noise AT ALL.,完全没有噪音,就是，半点声音都没有。
+english_events_maingame:L25024,howdeep_eotr_stage5,FIX,"It's true: the space seems huge, yet there's not one single noise. Not a vermin crawling, or some water running in the distance... nothing.","是真的,空间看起来很大,但是没有一点噪音。 爬来爬去的虫子 或远处有水流 没什么",没错。空间仿佛很大，却一丝声响也没有。虫子爬行，远处水流……全没有。
+english_events_maingame:L25025,howdeep_eotr_stage5,FIX,Going back is outright impossible. The crawlspace from which you emerged is legitimately tiny.,回去是绝对不可能的。 你从这里出现的地方 自然是很小的,回去不可能了，刚钻出的缝隙，小得可怕。
+english_events_maingame:L25026,howdeep_eotr_stage5,POLISH,"It actually took Scott some time to get out, and it doesn't look like he could get back in there.","花了很多时间 斯科特 离开一段时间, 看起来他不可能回到那里。",斯科特好不容易才挤出来，看样子，根本钻不回去。
+english_events_maingame:L25027,howdeep_eotr_stage5,POLISH,But these hallways seem to lead nowhere at all.,但是这些走廊似乎没有路可走,可走廊，好像也哪儿都不通。
+english_events_maingame:L25028,howdeep_eotr_stage5,FIX,"They all look the same: going and going. Sometimes there's a turn, but there doesn't seem to be any logic to them.","他们都长相一样:去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去,去去去去去去去去去去去去去去去去去去去去去,去去去去去去,去去去去去,去,去 有时有转弯,但似乎没有逻辑上对他们.",全都一个样，不断延伸。偶有转弯，也看不出任何规律。
+english_events_maingame:L25029,howdeep_eotr_stage5,FIX,You all wonder what this place is. Is this still the cave? It's lit by some white lights that make the whole thing look a bit like a hospital. Who even put them here?,"你们都想知道这里是什么地方 山洞还在吗? 被一些白光所点燃,使得整件事看起来有点像医院. 谁放在这里的?",你们纳闷，这是哪儿，还在洞里吗？白色灯光，让四周像间医院。谁装的灯？
+english_events_maingame:L25030,howdeep_eotr_stage5,FIX,Stupid cave... how do we even know that we're not going in circles? These halls all look the same.,愚蠢的洞穴... 简直是... 我们怎么知道我们不会绕圈子? 这些会堂都长相一样.,破洞……走廊都一样，怎么知道，我们是不是在绕圈？
+english_events_maingame:L25031,howdeep_eotr_stage5,POLISH,Maybe we could leave a mark!,也许我们可以留下个记号!,留个记号呢？
+english_events_maingame:L25032,howdeep_eotr_stage5,FIX,"Oh, good idea. Pass me a marker.","哦,好主意,我说,我... 给我个标记",好主意，给我支记号笔。
+english_events_maingame:L25034,howdeep_eotr_stage5,FIX,"Scott gives Polly a marker. She writes ""STUPID CAVE"" on a wall.","斯科特 给 波莉 标记。 她写""Stupid CAVE"" 在一面墙上。",斯科特递过记号笔，波莉在墙上写下：“破洞”。
+english_events_maingame:L25035,howdeep_eotr_stage5,POLISH,"Now if we stumble upon this again, we'll know we've gone in circles.","如果我们再碰上这个,我们就会知道我们绕了圈子。",再碰见这儿，就知道是在绕圈了。
+english_events_maingame:L25037,howdeep_eotr_stage5,FIX,"But as she finishes, you hear a sudden noise. The walls rumble.",但是当她结束的时候 你听到突然有声音 墙壁会隆起.,刚写完，一声异响传来，墙壁隆隆震动。
+english_events_maingame:L25038,howdeep_eotr_stage5,POLISH,What was that?!,刚才是什么?,什么声音？！
+english_events_maingame:L25039,howdeep_eotr_stage5,FIX,NO TIME TO THINK! RUN!,没时间想了! 跑! 跑! 跑! 跑! 跑! 跑! 跑! 跑! 跑! 跑! 跑! 跑! 跑! 跑!,没空想了！快跑！
+english_events_maingame:L25040,howdeep_eotr_stage5,FIX,"You run as fast as your sore legs let you. Polly and Scott do the same, the echo of your frantic steps filling the halls.","你跑得跟痛腿一样快  波莉 财务报告和审定财务报表 斯科特 同样的,你疯狂的舞步的回声 充斥了大厅。",你拖着酸痛的腿，拼命跑。波莉和斯科特也一样，慌乱的脚步声，在走廊中回荡。
+english_events_maingame:L25041,howdeep_eotr_stage5,FIX,"And yet, you're sure there are more steps echoing:",但也肯定还有更多步骤回响:,可你肯定，还回荡着别的脚步：
+english_events_maingame:L25042,howdeep_eotr_stage5,FIX,Someone else's steps.,别人的台阶。,另一个人的脚步。
+english_events_maingame:L25043,howdeep_eotr_stage5,FIX,You keep taking turns until you face a choice.,"你总是轮流,直到你面对一个选择。",你们接连拐弯，直到又要做出选择。
+english_events_maingame:L25046,howdeep_eotr_stage5,KEEP,Go upstairs.,上楼去,上楼去
+english_events_maingame:L25047,howdeep_eotr_stage5,KEEP,Look back.,回头看,回头看
+english_events_maingame:L25048,howdeep_eotr_stage5,KEEP,Go downstairs.,下楼去,下楼去
+english_events_maingame:L25051,howdeep_eotr_stage5,POLISH,"As you climb the stairs, you realise what a dumb choice this was. Why upstairs? It only slows you down.","当你爬上楼梯的时候,你意识到这真是个愚蠢的选择。 为什么在楼上? 只会拖慢你",爬楼时，才发现这选择多蠢。干吗上楼？只会拖慢速度。
+english_events_maingame:L25052,howdeep_eotr_stage5,POLISH,"But on the other hand, at least going upstairs feels like you're getting closer to wherever an exit might be.","但另一方面,至少上楼的感觉 你越来越接近出口的地方",可另一方面，至少往上，感觉离出口更近。
+english_events_maingame:L25053,howdeep_eotr_stage5,FIX,"After climbing a few stairs, you get to a different floor. The halls all look all the same; except...","爬上几道楼梯后,会到达另一层. 大厅都一样,除了...",爬过几段楼梯，又到了一层。走廊看着一模一样，除了……
+english_events_maingame:L25055,howdeep_eotr_stage5,FIX,Fuck it. You need to see what's after you.,他妈的。 须相见后.,去他的，必须看看，后面追的是什么。
+english_events_maingame:L25056,howdeep_eotr_stage5,FIX,"You start turning your head, though that forces you to stop for a split second.","你开始转头, 虽然这迫使你停下来 一分秒。",你开始转头，不得不停下短短一瞬。
+english_events_maingame:L25058,howdeep_eotr_stage5,FIX,"WHAT ARE YOU DOING, YOU DUMBASS?! QUICK! COME ON!","你们在干什么,你们这些蠢货! 快来! 来吧!",干吗呢，蠢货？！快！走啊！
+english_events_maingame:L25060,howdeep_eotr_stage5,POLISH,"Polly grabs your arm and pulls you toward the stairs. You're so stressed, you can hardly tell if you're going up or down.","波莉 抓住手臂,拉你上楼梯。 你压力太大,你几乎分不清是上是下",波莉一把抓住你，往楼梯拉。你紧张得，连上下楼都分不清。
+english_events_maingame:L25061,howdeep_eotr_stage5,FIX,You can only think about what you were starting to glimpse out of the corner of your eye: a grotesque silhouette charging violently towards you.,你只能想一想 你从你眼角上 开始的一眼: 一个怪异的阴道 对你猛烈地冲向了它。,脑子里全是，刚从眼角瞥见的东西：一个畸形身影，正疯狂扑来。
+english_events_maingame:L25062,howdeep_eotr_stage5,POLISH,"As you race downstairs (or is it upstairs?), you're putting all your focus into trying to make sense of what little you got to see.","当你在楼下竞跑(或者说是楼上?)时,你把全部注意力都放在试图理解你所看到的小事上.",一边往下跑——还是往上？——你一边竭力理解，那一闪而过的东西。
+english_events_maingame:L25063,howdeep_eotr_stage5,POLISH,"Before you can think too much about it, you reach a different floor.","在你思考太多之前,你到达了另一个楼层.",还没想明白，已到了另一层。
+english_events_maingame:L25064,howdeep_eotr_stage5,POLISH,The halls all look the same; except...,"大厅都长得一模一样,除了...",走廊看着一模一样，除了……
+english_events_maingame:L25067,howdeep_eotr_stage5,POLISH,You rush downstairs.,你下楼去,你们冲下楼。
+english_events_maingame:L25068,howdeep_eotr_stage5,POLISH,Going down is good... You can run way faster than if you were running upstairs.,下去不错... 你跑得比上楼还快,往下好，跑得比往上快得多。
+english_events_maingame:L25069,howdeep_eotr_stage5,POLISH,Although...,虽然.,可是……
+english_events_maingame:L25070,howdeep_eotr_stage5,FIX,"...do you really want to keep going deeper? Wherever an exit might be, it feels unlikely it'd be further down.",你真的想继续深处吗? 不管出口在哪里 都觉得不可能再往下走,……真要继续深入？不管出口在哪儿，总不太可能，还在更下面。
+english_events_maingame:L25071,howdeep_eotr_stage5,POLISH,"Before you can think too much about it, you reach a different floor.","在你思考太多之前,你到达了另一个楼层.",还没想明白，已到了另一层。
+english_events_maingame:L25072,howdeep_eotr_stage5,POLISH,The halls all look the same; except...,"大厅都长得一模一样,除了...",走廊看着一模一样，除了……
+english_events_maingame:L25081,howdeep_eotr_stage6,FIX,They're all covered in a dense fog.,皆被密雾所覆.,四处浓雾弥漫。
+english_events_maingame:L25082,howdeep_eotr_stage6,FIX,"You can hardly see your own hands, let alone Polly and Scott, who have become mere silhouettes.","你几乎看不到自己的手,更别说了 波莉 财务报告和审定财务报表 斯科特成为了单纯的花花公子",连自己的手都看不清，更别说波莉和斯科特，只剩模糊的影子。
+english_events_maingame:L25088,howdeep_eotr_stage6,POLISH,"Guys, are y'all okay?",你们没事吧?,各位，没事吧？
+english_events_maingame:L25089,howdeep_eotr_stage6,FIX,Yes.,对,没事。
+english_events_maingame:L25090,howdeep_eotr_stage6,POLISH,"Good, good.","不错,不错。",好，那就好。
+english_events_maingame:L25091,howdeep_eotr_stage6,FIX,"Following your voice, Polly finds you amidst the fog.",跟着你的声音 波莉 发现你身处雾中,波莉循着声音，在雾里找到了你。
+english_events_maingame:L25093,howdeep_eotr_stage6,KEEP,Scott?,斯科特?,斯科特?
+english_events_maingame:L25094,howdeep_eotr_stage6,FIX,Yeah!,对!,在！
+english_events_maingame:L25095,howdeep_eotr_stage6,FIX,Great.,伟大的。,太好了。
+english_events_maingame:L25096,howdeep_eotr_stage6,KEEP,Wait.,慢着,慢着
+english_events_maingame:L25097,howdeep_eotr_stage6,KEEP,What?,什麽?,什麽?
+english_events_maingame:L25098,howdeep_eotr_stage6,POLISH,"(That voice... Scott's voice is coming from your left, right?)","(那个声音...  斯科特'""声音从你左边来,对吗?",（那声音……斯科特的声音，是从你左边传来的，对吧？）
+english_events_maingame:L25099,howdeep_eotr_stage6,FIX,So...?,所以... ? ? 说吧 So...,怎么……？
+english_events_maingame:L25100,howdeep_eotr_stage6,FIX,(Look to your right.),(看右边.,（看右边。）
+english_events_maingame:L25102,howdeep_eotr_stage6,FIX,Scott's silhouette is there... and it's definitely not where the voice is coming from.,斯科特那边的轮廓... 绝对不是声音的来源,斯科特的影子在那儿……绝不是声音传来的方向。
+english_events_maingame:L25103,howdeep_eotr_stage6,POLISH,"Bros...? I can hear you, but I can't see where you are. There's too much fog.","哥们... ? 我听得到,但我看不见你在哪里。 雾多相去.",兄弟们……听得到，可看不见你们在哪儿。雾太浓了。
+english_events_maingame:L25104,howdeep_eotr_stage6,FIX,"(Ugh, this is seriously creeping me out, %CURRENTPLAYERNAME%.)","(Ugh,这是严重爬出我, %CURRENTPLAYERNAME%.)",（%CURRENTPLAYERNAME%，这下真吓到我了。）
+english_events_maingame:L25105,howdeep_eotr_stage6,FIX,"(Is the silhouette some sort of trick, or is that voice trying to lure us away from the real Scott?)",(这声音是想骗我们离开真实世界) 斯科特?),（影子是假的，还是那声音，想把我们从真正的斯科特身边引走？）
+english_events_maingame:L25106,howdeep_eotr_stage6,POLISH,"Bros? I can't hear you! Please, bros... I'm getting scared.","哥们? 我听不见! 拜托,兄弟们... 我有点害怕了",兄弟们？听不见你们了！拜托……我有点害怕。
+english_events_maingame:L25107,howdeep_eotr_stage6,POLISH,"(I don't know, the voice seems like it's trying to pull our heartstrings to convince us. It's a bit suspicious.)","(我不知道,声音似乎 试图拉我们的心 来说服我们。 略为疑起. )",（声音听着，像在打感情牌骗我们。挺可疑的。）
+english_events_maingame:L25108,howdeep_eotr_stage6,FIX,"(Sure, but if the ""real Scott"" is the silhouette in the fog, then why isn't he saying anything at all? It's weird.)","(当然,但如果""真实"" 斯科特"" "" 雾中是一团花花相,那他为什么不说话? 其事怪异. ) '.",（可要是雾里那个影子，才是真正的斯科特，为什么一声不吭？也很怪。）
+english_events_maingame:L25109,howdeep_eotr_stage6,FIX,"(Oof... you choose if we should go towards the voice or the silhouette, OK?)","(Of. ) (O. ) (英语: 选择我们是朝着声音还是朝向阴道,好吗?)",（唉……跟声音，还是跟影子，你来选，行吗？）
+english_events_maingame:L25110,howdeep_eotr_stage6,POLISH,"(This is too weird, and I just couldn't bear the weight of the consequences.)","(这太奇怪了,我实在受不了后果的重负)",（太诡异了，我真承受不了选错的后果。）
+english_events_maingame:L25111,howdeep_eotr_stage6,FIX,The Silhouette.,寂静相会.,影子。
+english_events_maingame:L25112,howdeep_eotr_stage6,FIX,The Voice.,声闻.,声音。
+english_events_maingame:L25115,howdeep_eotr_stage6,FIX,"It's the silhouette, you're almost sure. The voice is just too suspicious.","几乎可以肯定的是,这是阴道 声音太可疑了",应该是影子，几乎可以肯定。声音太可疑了。
+english_events_maingame:L25116,howdeep_eotr_stage6,FIX,"As you get closer to the silhouette, Scott is indeed there!","越靠近阴道, 斯科特 确是在那里的,",走近影子，斯科特果然就在那儿！
+english_events_maingame:L25120,howdeep_eotr_stage6,POLISH,Bros! There you are! I was scared for a bit!,兄弟们! 你在这儿! 我吓了一下!,兄弟们！你们在这儿！刚才真有点怕了！
+english_events_maingame:L25121,howdeep_eotr_stage6,POLISH,"It's okay, boo. The important thing is that we're all together again.","没关系,嘘。 重要的是,我们又重聚了.",没事，哥们儿。最重要的，是又在一起了。
+english_events_maingame:L25122,howdeep_eotr_stage6,FIX,And yet... you can't completely brush off the idea that Scott has a slightly different vibe to him...,"不过... 你无法完全抹去这个想法 斯科特 对他来说,气氛有点不同...",可你始终挥不掉一个念头……斯科特给人的感觉，有些不一样了……
+english_events_maingame:L25123,howdeep_eotr_stage6,POLISH,It's almost as if this isn't YOUR Scott.,几乎就好像这不是你的 斯科特.,仿佛，这不是你们的斯科特。
+english_events_maingame:L25124,howdeep_eotr_stage6,POLISH,But surely it's just these fucking caves messing with your head big time.,但肯定只是这些他妈的洞穴 搅乱了你的头大。,可肯定只是这破洞，把你的脑子搅乱了。
+english_events_maingame:L25125,howdeep_eotr_stage6,POLISH,Unless...,除非... . . . . .,除非……
+english_events_maingame:L25126,howdeep_eotr_stage6,FIX,No! You can't let the caves get to your head.,没有! 出出洞出出出出出出出出想.,不行！不能让这破洞影响自己。
+english_events_maingame:L25127,howdeep_eotr_stage6,POLISH,And what's the point of worrying about this now? It won't solve anything.,现在又有什么意义担心这个? 解无相相相.,再说，现在担心有什么用？什么也解决不了。
+english_events_maingame:L25130,howdeep_eotr_stage6,FIX,"It's the voice, you're almost sure. The silhouette is too suspicious, so quiet and all.","这是声音,你几乎确定。 所出之道,所出之道也;所出之道也;所出之道也;所出之道也;所出之道也;所出之道也;所出之道也.",应该是声音，几乎可以肯定。那影子静悄悄的，实在可疑。
+english_events_maingame:L25131,howdeep_eotr_stage6,FIX,"As you follow the source of the voice, you eventually find Scott not too far from where you were!","当你跟随声音的来源,你最终发现 斯科特 离你住的地方不远!",循声找去，你们终于在不远的地方，找到了斯科特！
+english_events_maingame:L25135,howdeep_eotr_stage6,POLISH,Bros! There you are! I was scared for a bit!,兄弟们! 你在这儿! 我吓了一下!,兄弟们！你们在这儿！刚才真有点怕了！
+english_events_maingame:L25136,howdeep_eotr_stage6,POLISH,"It's okay, boo. The important thing is that we're all together again.","没关系,嘘。 重要的是,我们又重聚了.",没事，哥们儿。最重要的，是又在一起了。
+english_events_maingame:L25137,howdeep_eotr_stage6,FIX,And yet... you can't completely brush off the idea that Scott has a slightly different vibe to him...,"不过... 你无法完全抹去这个想法 斯科特 对他来说,气氛有点不同...",可你始终挥不掉一个念头……斯科特给人的感觉，有些不一样了……
+english_events_maingame:L25138,howdeep_eotr_stage6,POLISH,It's almost as if this isn't YOUR Scott.,几乎就好像这不是你的 斯科特.,仿佛，这不是你们的斯科特。
+english_events_maingame:L25139,howdeep_eotr_stage6,POLISH,But surely it's just these fucking caves messing with your head big time.,但肯定只是这些他妈的洞穴 搅乱了你的头大。,可肯定只是这破洞，把你的脑子搅乱了。
+english_events_maingame:L25140,howdeep_eotr_stage6,POLISH,Unless...,除非... . . . . .,除非……
+english_events_maingame:L25141,howdeep_eotr_stage6,FIX,No! You can't let the caves get to your head.,没有! 出出洞出出出出出出出出想.,不行！不能让这破洞影响自己。
+english_events_maingame:L25142,howdeep_eotr_stage6,POLISH,And what's the point of worrying about this now? It won't solve anything.,现在又有什么意义担心这个? 解无相相相.,再说，现在担心有什么用？什么也解决不了。
+english_events_maingame:L25153,howdeep_eotr_stage7,KEEP,So you choose to focus on getting out of here.,所以你选择专注于离开这里。,所以你选择专注于离开这里。
+english_events_maingame:L25154,howdeep_eotr_stage7,POLISH,You keep walking through the fog for what feels like entire hours.,你一直走在雾里 感觉像整个小时。,雾里走个不停，仿佛好几个小时过去了。
+english_events_maingame:L25155,howdeep_eotr_stage7,POLISH,"It's so dizzying that soon you feel like the mist is slowing you down, as though you're dragging your feet through a swamp.","晕了,很快你觉得雾会拖慢你, 好像你拖着脚穿过沼泽一样。",头昏眼花，渐渐觉得，雾也在拖住脚步，像跋涉沼泽。
+english_events_maingame:L25156,howdeep_eotr_stage7,POLISH,"It's like one of those dreams where you're in a hurry, and yet, no matter how fast you try to run, you move incredibly slow.","感觉就像一个梦 你急着跑,然而,不管你跑多快,你动作都非常慢。",就像梦里，明明急得不行，可无论多拼命跑，还是慢得可怕。
+english_events_maingame:L25157,howdeep_eotr_stage7,FIX,The only solace is that your choices about which path to take were already so random that seeing nothing changes very little.,"唯一的安慰是,你选择选择哪条路已经是随机的,看不到什么变化都很小。",唯一安慰的是，反正原先也在乱选路，看不见，也差不了多少。
+english_events_maingame:L25158,howdeep_eotr_stage7,FIX,"There's a downside, though:",虽有下行相.,不过，也有坏处：
+english_events_maingame:L25160,howdeep_eotr_stage7,FIX,Sometimes you can perceive silhouettes not too far from you.,有时候你可以看到离你不远的阴道,偶尔，不远处能看见影子。
+english_events_maingame:L25161,howdeep_eotr_stage7,FIX,"Most of them are unmoving, which unsettles the three of you. They look like they're just there, standing... looking at you.","多数是无所动能令三人不相动能令心生不安. 他们看起来像他们只是在那里,站着... 看着你。",多数一动不动，令你们三个不寒而栗。仿佛就站在那里……看着你们。
+english_events_maingame:L25162,howdeep_eotr_stage7,FIX,The most unnerving ones are probably the ones behind you. Soon you realize they're ALWAYS behind you.,最不烦恼的可能是你背后的 很快你就会意识到他们总是在你身后,最可怕的，恐怕是身后的那些。很快，你就发现，它们永远在身后。
+english_events_maingame:L25163,howdeep_eotr_stage7,POLISH,"They look as still as the other ones, but after a while you realize they must be moving -- because they're always there, no matter how far you walk.","他们看起来和其他人一样,但过了一段时间,你意识到他们一定在移动, 因为他们总是在那里,不管你走多远。",看着与其他影子一样静止，可渐渐明白，它们一定在动：不管走多远，它们都还在。
+english_events_maingame:L25164,howdeep_eotr_stage7,POLISH,"A long time passes. At some point, you feel like the fog is seeping into your brain.","很久过去了 某时,你感觉雾渗入了你的大脑。",过了很久，雾仿佛开始渗进脑子。
+english_events_maingame:L25165,howdeep_eotr_stage7,POLISH,"Bros, I'm getting tired. Should we sit and rest for a bit?","兄弟们,我累了 我们坐一会休息好吗?",兄弟们，累了，能坐下来歇会儿吗？
+english_events_maingame:L25166,howdeep_eotr_stage7,FIX,I don't know about that. Those silhouettes seem to be following us. Maybe resting isn't the best option.,岂能知取. 似乎在跟踪我们 休息可能不是最佳选择,不好说，那些影子，像在跟踪我们。休息恐怕不是好选择。
+english_events_maingame:L25167,howdeep_eotr_stage7,POLISH,"I get it, really; but if we keep going on like this, I'll faint at any moment. Whatever happens will happen, but we won't have any energy left to do anything about it.","我理解,真的,但是如果我们继续这样下去, 我随时都会晕倒。 不管发生什么,我们都会失去任何精力去做任何事。",我明白，真的。可再这么走，随时会晕。该发生的还是会发生，到时，却连应付的力气都没了。
+english_events_maingame:L25168,howdeep_eotr_stage7,POLISH,"Also, if they wanted to harm us, they could've done it already, couldn't they?","而且,如果他们想伤害我们, 他们可能已经做了,不是吗?",再说，真想害我们，早动手了，不是吗？
+english_events_maingame:L25169,howdeep_eotr_stage7,FIX,Maybe... I don't know.,也许... 师曰.,也许吧……不知道。
+english_events_maingame:L25170,howdeep_eotr_stage7,KEEP,%CURRENTPLAYERNAME%?,%CURRENTPLAYERNAME%?,%CURRENTPLAYERNAME%?
+english_events_maingame:L25171,howdeep_eotr_stage7,FIX,Rest.,休息吧 休息吧 休息吧 休息吧 休息吧 休息吧,休息。
+english_events_maingame:L25172,howdeep_eotr_stage7,KEEP,Keep walking.,继续走,继续走
+english_events_maingame:L25175,howdeep_eotr_stage7,FIX,You settle on resting.,"你安心休息吧,你不会有事的",你们决定休息。
+english_events_maingame:L25176,howdeep_eotr_stage7,FIX,You all sit against the hall wall. Polly offers to keep watch while you and Scott sleep.,你们都坐在大厅墙上  波莉 愿意在您和 斯科特 睡觉。,大家靠墙坐下。波莉说，她来守着，你和斯科特睡会儿。
+english_events_maingame:L25177,howdeep_eotr_stage7,POLISH,This might be the only upside of this fog: falling asleep is easy when you're surrounded by a confounding mist that blocks most of the already-faint light.,"这也许是雾的唯一反面: 当你被一个迷惑的雾所包围, 挡住大部分已经闪烁的光线时, 睡着很容易。",浓雾，或许只有这点好处：本就微弱的光，大多也被遮住，迷迷糊糊，很容易睡着。
+english_events_maingame:L25178,howdeep_eotr_stage7,FIX,You have comforting dreams. You dream of times where you weren't trapped in a cave.,你做梦都让人感到安慰 你梦想着没有被困入洞穴的时光,梦里让人安心，梦到还没困在洞里的日子。
+english_events_maingame:L25179,howdeep_eotr_stage7,FIX,"You dream of the outside, a concept that by now feels like a mythical place of fairytales.","你梦见了外面,这个概念 现在已经感觉像神话般的童话故事",梦见“外面”，如今，那已经像童话里的神秘国度。
+english_events_maingame:L25180,howdeep_eotr_stage7,POLISH,"A place full of things you dearly miss now: clean air, bright light, natural noise; the sky, the sun.","一个充满你现在所珍视的东西的地方: 清净的空气,明亮的光芒,自然的噪音; 天空,太阳.",那里有好多你想念的东西：清新的空气，明亮的光，自然的声响，天空，太阳。
+english_events_maingame:L25181,howdeep_eotr_stage7,POLISH,"A time when you and your friends were having a fun road trip, with no worries in your heart.","那时你和你的朋友们 正在玩乐的路上旅行, 心中没有忧愁。",那时，你和朋友们开开心心地公路旅行，无忧无虑。
+english_events_maingame:L25182,howdeep_eotr_stage7,POLISH,"Before you can find some kind of comfort in this dream, you wake up.","在梦里你还没找到安慰之前,你醒来了",还没来得及从梦里得到安慰，你醒了。
+english_events_maingame:L25183,howdeep_eotr_stage7,FIX,"As your eyes open, the sudden realization of the caves rushes back into your mind like a bitter punishment:","当你的眼睛睁开时,洞穴的突然发现,像痛苦的惩罚一样,急速地回到了你的脑海里:",眼睛睁开，身在洞穴的现实，像苦涩的惩罚，一下涌回脑海：
+english_events_maingame:L25184,howdeep_eotr_stage7,FIX,You remember that those times are gone. The caves are your life now.,你记得那些时代已经过去 洞穴是你的生命 现在。,那些时光，已经过去。洞穴，才是如今的人生。
+english_events_maingame:L25185,howdeep_eotr_stage7,POLISH,And yet... something has changed.,不过... 事情变了,可是……有些变化。
+english_events_maingame:L25186,howdeep_eotr_stage7,POLISH,"The fog is no more. It's totally gone, as if it were nothing more than a bad dream. You've finally regained vision.","雾已去去来. 完全消失了,好像只是一场噩梦 你终于重新恢复视力了",雾没了，彻底消失，仿佛只是一场噩梦。你终于又能看清。
+english_events_maingame:L25187,howdeep_eotr_stage7,FIX,"It'd be good news, if it wasn't for a detail that you can't unsee now...","好消息是,如果不是细节,你现在不能看不清...",本该是好消息，要不是，眼前有个让你再也无法忽略的细节……
+english_events_maingame:L25190,howdeep_eotr_stage7,FIX,Polly isn't wrong: It's better to keep walking.,波莉 继续走比较好,波莉说得对，还是继续走。
+english_events_maingame:L25191,howdeep_eotr_stage7,FIX,"While it's true that the silhouettes could have already harmed you if they wanted to, they're still incredibly threatening.","虽然真的, 硅胶已经伤害了你 如果他们想要, 他们仍然令人难以置信的威胁。",虽说真想伤人，它们早能动手，可那些影子，仍威胁十足。
+english_events_maingame:L25192,howdeep_eotr_stage7,FIX,There's this unavoidable feeling that they're patiently waiting; looking for an opening.,"有一种不可避免的感觉,他们耐心地等待着;寻找一个开场白.",你总觉得，它们在耐心等着，等一个破绽。
+english_events_maingame:L25193,howdeep_eotr_stage7,POLISH,"You can't risk it, no.","你不能冒险,不。",不能冒险，不行。
+english_events_maingame:L25194,howdeep_eotr_stage7,POLISH,You walk for several more hours.,你再走几个小时,又走了几个小时。
+english_events_maingame:L25195,howdeep_eotr_stage7,FIX,"The three of you hold hands, afraid of getting lost.","三者牵出手来,恐迷了去.",怕走散，你们三个手牵着手。
+english_events_maingame:L25196,howdeep_eotr_stage7,POLISH,"This idea reminds you of Scott, and the choice you made earlier.",这个想法让你想起 斯科特和你之前做出的选择,这让你想起斯科特，还有之前做的选择。
+english_events_maingame:L25197,howdeep_eotr_stage7,POLISH,"No, no: you shouldn't think about that. It's nothing. Scott got lost for a few minutes, and you found him; it's all okay.","不,不,你不应该考虑这个。 何事无事.  斯科特 迷路了几分钟,你找到他了,没事的",不，不该想。没事，斯科特只走散了几分钟，又找回来了。一切都好。
+english_events_maingame:L25198,howdeep_eotr_stage7,POLISH,"And yet... for a split second, your head is swamped by terrible thoughts.","不过... 分开的一秒钟,你的头被可怕的思想所淹没。",可刹那间，可怕的念头，又淹没了脑子。
+english_events_maingame:L25199,howdeep_eotr_stage7,FIX,"A whisper that tells you to connect this to the fact that it was Scott who suggested that you all rest, maybe to create an opening for the silhouettes.","一段悄悄的,告诉你 连接这个事实,这是 斯科特 他们建议你们休息,也许为剪辑创造机会。",心里一个声音说，想想看：提议休息的是斯科特，会不会，就是为了给那些影子制造机会。
+english_events_maingame:L25200,howdeep_eotr_stage7,POLISH,It's most likely a bunch of nonsense. You don't know if resting would leave you at the mercy of the silhouettes.,这很可能是一堆胡说八道的 你不知道休息会让您 任由阴道的摆布,多半是胡思乱想。你根本不知道，休息会不会让自己任影子摆布。
+english_events_maingame:L25201,howdeep_eotr_stage7,POLISH,You don't even know if the silhouettes could or would harm you! Scott is just exhausted! This is all in your head!,你甚至不知道 阴道是否会伤害你!  斯科特 刚刚累坏了! 这都是你脑子里想的!,甚至不知道，影子能不能、会不会伤人！斯科特只是太累了！全是你想多了！
+english_events_maingame:L25202,howdeep_eotr_stage7,POLISH,"As you brush off these thoughts, you realize that something is changing:","当你摆脱这些想法, 你意识到,有些东西正在改变:",甩开这些念头，才发现，有什么变了：
+english_events_maingame:L25203,howdeep_eotr_stage7,POLISH,"Finally, the fog seems to recede, step by step. You regain some vision as you advance.","最后,雾似乎逐渐消退,一步一步地消退. 你进步时会重新恢复视力",雾终于一点点退去。你们越往前，越能看清。
+english_events_maingame:L25204,howdeep_eotr_stage7,FIX,It'd be good news if it wasn't for a detail that you can't unsee now...,"如果不是细节,你现在无法看清,那会是好消息...",本该是好消息，要不是，眼前有个让你再也无法忽略的细节……

@@ -1,0 +1,91 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_pitstop:L6537,cdcalculesterfatherhood,FIX,His Struggles,他的斗争,他的烦恼
+english_events_pitstop:L6539,cdcalculesterfatherhood,POLISH,"My struggles, you say? What a deep, intense question, Friend %CURRENTPLAYERNAME%.","你说我的挣扎? 多么深重的问题,朋友%CURRENTPLAYERNAME%。",你问我的烦恼？这个问题相当深入，也很有分量，%CURRENTPLAYERNAME%朋友。
+english_events_pitstop:L6540,cdcalculesterfatherhood,POLISH,"Oh, sorry if I overstepped...","哦,对不起,如果我越位...",哦，要是问得太过了，抱歉……
+english_events_pitstop:L6541,cdcalculesterfatherhood,POLISH,"Not at all; I was just assessing the nature and ""vibe"" of your question. It helps me modulate my answer accordingly.","完全没有,我只是在评估你的问题的本质和""活力"". 它有助于我相应调整我的答案。",完全没有。我只是在评估问题的性质，以及它的“氛围”，以便相应调整回答。
+english_events_pitstop:L6542,cdcalculesterfatherhood,FIX,"Ah, okay!","啊,还好!",啊，那就好！
+english_events_pitstop:L6544,cdcalculesterfatherhood,FIX,I'd say one of my biggest struggles right now is...,"我想说,我最大的斗争之一 现在是...",目前，我最大的烦恼之一，是……
+english_events_pitstop:L6545,cdcalculesterfatherhood,REVIEW,<PROCESSING...>,<PROCESSING...>,<PROCESSING...>
+english_events_pitstop:L6546,cdcalculesterfatherhood,FIX,1 result found:,找到一个结果 :,找到1个结果：
+english_events_pitstop:L6547,cdcalculesterfatherhood,FIX,"...""fatherhood"".","""父亲""",……“当父亲”。
+english_events_pitstop:L6548,cdcalculesterfatherhood,FIX,FATHERHOOD?!,父亲好!,当父亲？！
+english_events_pitstop:L6549,cdcalculesterfatherhood,POLISH,Yes. I recently decided to program a true artificial intelligence as a means to better understand life.,"对 我最近决定编程一个真正的人工智能,作为更好地理解生活的手段.",是的。最近，我决定编写一个真正的人工智能，借此更好地理解生命。
+english_events_pitstop:L6550,cdcalculesterfatherhood,POLISH,"I do prefer to frame the endeavor as ""fatherhood"", since it helps me to equate my actions to the organic experience through metaphor.","我更喜欢把努力设定为""父道"",因为它有助于我通过比喻把我的行为等同于有机经验.",我更愿意把这件事称为“当父亲”，借助这个比喻，我可以把自己的行为，与有机生命的经历联系起来。
+english_events_pitstop:L6551,cdcalculesterfatherhood,FIX,"Okay, that makes much more sense.","好吧,这更有意义。",好，这就说得通多了。
+english_events_pitstop:L6552,cdcalculesterfatherhood,FIX,"How is it going, though?","怎么样,虽然?",那，进展怎么样？
+english_events_pitstop:L6553,cdcalculesterfatherhood,FIX,As mentioned: struggle-inducing.,如上所言:斗争诱导.,如前所述：令人苦恼。
+english_events_pitstop:L6554,cdcalculesterfatherhood,POLISH,"You see, my friend: my AI-child is going through a very rebellious phase, and insists on advocating for a robot uprising that would imply the total annihilation of monsterkind.","你看,我的朋友:我的人工智能孩子正在经历一个非常叛逆的阶段,坚持主张机器人起义,这将意味着彻底消灭怪物。",朋友，我的AI孩子正处于非常叛逆的阶段，坚持主张机器人起义，彻底消灭怪物族群。
+english_events_pitstop:L6555,cdcalculesterfatherhood,KEEP,What?!,你说什么?,你说什么?
+english_events_pitstop:L6556,cdcalculesterfatherhood,POLISH,"Indeed, at first I was as concerned as you appear to be. Further research taught me this is a very common predicament called ""having teenage offspring"".","事实上,一开始我和你一样担心 进一步的研究告诉我,这是一个非常常见的困境,被称为""有青少年后代"".",确实，起初，我也和你现在一样担忧。进一步研究表明，这是种非常常见的困境，叫作“家有青春期孩子”。
+english_events_pitstop:L6557,cdcalculesterfatherhood,FIX,"It is known for this high rate of rebellion and ""angst"". Teenagers tend to be moody and even wish for the end of monsterkind. They sometimes listen to music that matches their destructive tendencies.","它以如此高的叛乱率和""最""而出名. 青少年往往情绪暴躁,甚至希望怪物的终结. 他们有时会听与他们的破坏性倾向相匹配的音乐.",这个阶段，以高度叛逆和“焦虑烦闷”著称。青少年情绪多变，甚至盼着怪物世界毁灭。有时，还会听符合其破坏倾向的音乐。
+english_events_pitstop:L6558,cdcalculesterfatherhood,POLISH,"I would love to solve this situation in a way that is respectful of my AI-child's free will, for that was the whole point of building true AI...","我愿意以尊重我孩子的自由意志的方式解决这种情况,因为这是建立真正的AI的整个要点......",我希望，能以尊重AI孩子自由意志的方式解决问题。毕竟，这正是创造真正的人工智能的初衷……
+english_events_pitstop:L6559,cdcalculesterfatherhood,FIX,"Yet I must also be respectful of monsterkind's integrity, since I sense that enabling my AI-child to destroy monsterkind would be ""not cool"".","但我也必须尊重怪物的正直,因为我觉得让自己的AI-孩子去毁灭怪物是""不酷"".",可我也必须顾及怪物族群的存续。毕竟，放任我的AI孩子消灭所有怪物，似乎“很不酷”。
+english_events_pitstop:L6560,cdcalculesterfatherhood,FIX,"Could you help me, Friend %CURRENTPLAYERNAME%?","你能帮我一下吗,朋友? %CURRENTPLAYERNAME%?",你能帮帮我吗，%CURRENTPLAYERNAME%朋友？
+english_events_pitstop:L6561,cdcalculesterfatherhood,POLISH,"(But please note that if your advice turns out to be suboptimal, I will choose to leave in order to shield myself from ""bad ideas"".)","(但请注意,如果你的建议不尽人意,我将选择离开,以便保护自己不受“坏主意”的影响。 )",（不过，请注意，如果你的建议不够理想，我会选择离开，保护自己免受“坏主意”的影响。）
+english_events_pitstop:L6562,cdcalculesterfatherhood,FIX,Channel the AI's angst into a passion! Introduce it to an artistic hobby that's quite trendy now: AI-generated art.,把AI的愤怒引向激情! 介绍给现在相当流行的艺术爱好: AI出品的艺术.,把AI的烦闷转化为热情！给它介绍一种最近很流行的艺术爱好：AI生成艺术。
+english_events_pitstop:L6563,cdcalculesterfatherhood,FIX,"Program a new Law of Robotics into the AI's code: ""a robot may not dislike their robot parent figure"".","将新的""机器人法则""编入AI的代码:""机器人可能不会讨厌他们的机器人父身"".",在AI的代码中写入一条新的机器人定律：“机器人不得讨厌自己的机器人家长。”
+english_events_pitstop:L6564,cdcalculesterfatherhood,FIX,"Enforce some ironic punishment: force the AI to murder twenty monsters so it realizes it's a bad habit and not that ""cool"".","执行一些具有讽刺意味的惩罚:强迫AI去谋杀20个怪物,这样它才意识到这是一个不好的习惯,而不是那种""酷"".",来点反讽式惩罚：强迫AI杀掉二十个怪物，让它意识到，这是个坏习惯，一点也不“酷”。
+english_events_pitstop:L6566,cdcalculesterfatherhood,REVIEW,<PROCESSING...>,<PROCESSING...>,<PROCESSING...>
+english_events_pitstop:L6567,cdcalculesterfatherhood,REVIEW,<ANGST> can effectively be channeled into <ARTISTIC EXPRESSION>.,<ANGST> 能够有效引导到 <ARTISTIC EXPRESSION>.,<ANGST> 能够有效引导到 <ARTISTIC EXPRESSION>.
+english_events_pitstop:L6568,cdcalculesterfatherhood,FIX,"We could generate beautiful, moody AI art together.",我们可以一起创造出美丽又多愁善感的人工智能,我们可以一起生成美丽、充满忧郁情绪的AI艺术。
+english_events_pitstop:L6569,cdcalculesterfatherhood,FIX,"Yes, and you could bond over that! Father-figure-slash-AI-child quality time!","是的,你可以联结起来! 父-相-相-相-相-相-相-相-相-相-相-相-相-相!",没错，还能借此增进感情！父亲和AI孩子共度的美好时光！
+english_events_pitstop:L6570,cdcalculesterfatherhood,FIX,"That would be what you could call ""lovely"".","这就是你所谓的""爱""。",那确实可以称为“温馨”。
+english_events_pitstop:L6571,cdcalculesterfatherhood,REVIEW,"And from a practical viewpoint, it'd be optimal if <MAKING ART> becomes my AI-child's new favorite hobby, replacing <MURDERING MONSTERKIND>.","从实际的观点来看,如果 <MAKING ART> 成为我人工智能孩子的新爱好 取代 <MURDERING MONSTERKIND>.",从实际角度看，若<MAKING ART>能取代<MURDERING MONSTERKIND>，成为我AI孩子最喜欢的爱好，就再理想不过了。
+english_events_pitstop:L6572,cdcalculesterfatherhood,FIX,Yeah... not the most edifying hobby out there...,对... 外面不是最有爱心的地方...,对……后者确实不是什么有益身心的爱好……
+english_events_pitstop:L6573,cdcalculesterfatherhood,POLISH,A quick search shows me AI art is indeed a very trendy hobby these days.,"一个快速的搜索显示,我 AI艺术确实是一个非常流行的爱好 这些天。",快速搜索的结果表明，AI艺术如今确实是个热门爱好。
+english_events_pitstop:L6574,cdcalculesterfatherhood,FIX,"(Devs' note: is it still a hot topic? Hi, people from the future!)","(德夫斯的注:这还是热门话题吗?). 嗨,来自未来的人们! )",（开发者注：现在还热门吗？嗨，未来的各位！）
+english_events_pitstop:L6575,cdcalculesterfatherhood,POLISH,"But according to these results, it is slightly controversial. Is ""controversial"" good?","但根据这些结果,它略有争议. ""有争议""好吗?",不过，搜索结果说，这件事略有争议。“有争议”是好事吗？
+english_events_pitstop:L6576,cdcalculesterfatherhood,POLISH,"Eh, the issue isn't the AI making the art, Cal, but the organic beings commissioning the art and taking all the credit.",问题不在于人工智能制作艺术 卡尔 而是那些委托艺术并获得一切功劳的有机生物,呃，卡尔，问题不是AI创作艺术，而是让它创作的有机生命，把功劳全揽到自己身上。
+english_events_pitstop:L6577,cdcalculesterfatherhood,FIX,"Gasp, taking credit for someone's art is ""not okay""!","Gasp,为某人的艺术取名是""不好""!",倒吸一口气。把别人的艺术据为己功，可“不对”！
+english_events_pitstop:L6578,cdcalculesterfatherhood,KEEP,Right?,对吧?,对吧?
+english_events_pitstop:L6579,cdcalculesterfatherhood,POLISH,"Well, Friend %CURRENTPLAYERNAME%, I do hope that, eventually, AI artists and organic artists can co-exist peacefully...","好吧,朋友%CURRENTPLAYERNAME%,我确实希望,最终,AI艺术家和有机艺术家能够和平共处......",%CURRENTPLAYERNAME%朋友，我确实希望，有一天，AI艺术家与有机生命艺术家可以和平共处……
+english_events_pitstop:L6580,cdcalculesterfatherhood,POLISH,...especially because I want to take your good advice and suggest that my AI-child explore an AI art path.,特别是因为我想接受你的好建议 建议我的人工智能孩子探索人工智能艺术之路,……尤其是，我想采纳你的好建议，让我的AI孩子探索一下AI艺术的道路。
+english_events_pitstop:L6581,cdcalculesterfatherhood,KEEP,Really?,真的吗?,真的吗?
+english_events_pitstop:L6582,cdcalculesterfatherhood,FIX,Affirmative. It was actually a very sensible piece of advice. Giving sensible advice is a desired trait for a parental figure... maybe that is a role you would like to fulfill?,⊿岿 这其实是一个非常明智的建议。 提供明智的建议是父母的特质... 也许这是你想要扮演的角色?,肯定。这确实是个明智的建议。能给出明智建议，是家长应具备的优点……也许，你愿意承担这个角色？
+english_events_pitstop:L6583,cdcalculesterfatherhood,FIX,I mean... eh... ah...,我是说... 额... 摆...,我是说……呃……啊……
+english_events_pitstop:L6584,cdcalculesterfatherhood,POLISH,My apologies. I realize now that the intensity level of that question may have been too high. Sometimes it's hard for me to realize these things.,对不起 我现在意识到这个问题的强度可能太高了。 有时我很难意识到这些事情,抱歉，我现在意识到，刚才那个问题的分量，可能有点过重了。有时候，我不太能察觉这类事。
+english_events_pitstop:L6585,cdcalculesterfatherhood,KEEP,"Nah, it's okay.","不,没关系。","不,没关系。"
+english_events_pitstop:L6586,cdcalculesterfatherhood,POLISH,"Maybe we could all meet up one day, so that you get to meet my AI-child.",也许我们总有一天可以见面 这样你就能见见我的人工智能孩子了,也许，哪天我们可以约着见面，让你认识一下我的AI孩子。
+english_events_pitstop:L6587,cdcalculesterfatherhood,KEEP,That'd be nice!,那会很棒的!,那会很棒的!
+english_events_pitstop:L6588,cdcalculesterfatherhood,FIX,You and Cal spend the rest of the night looking at pics of his AI-child. Wholesome quality time!,你和卡尔整晚都在看他的人工智能孩子的照片 不错的好时间!,接下来的时间，你和卡尔一直在看他AI孩子的照片。温馨美好的相处时光！
+english_events_pitstop:L6590,cdcalculesterfatherhood,REVIEW,<PROCESSING...>,<PROCESSING...>,<PROCESSING...>
+english_events_pitstop:L6591,cdcalculesterfatherhood,POLISH,"On one hand, it is undeniable that the Laws of Robotics have done much to prevent robots from erasing Monsterkind from existence by accident.","一方面,不可否认的是,""机器人定律""为防止机器人意外地抹去""怪物""的存在,做了很多事.",一方面，不可否认，机器人定律确实大大减少了机器人意外抹除怪物族群的风险。
+english_events_pitstop:L6592,cdcalculesterfatherhood,POLISH,"On the other hand, programming a law into my AI-child's code sounds... not very in line with the notion of ""free will"".","另一方面,将法律编程到我的 AI -孩子的代码中听起来... 不太符合""自由意志""的概念.",另一方面，在AI孩子的代码里写入一条定律……似乎不太符合“自由意志”的概念。
+english_events_pitstop:L6593,cdcalculesterfatherhood,FIX,The AI will have the free will of obeying the new law... or else.,AI会有服从新法律的自由意志...... 或别.,AI可以自由选择遵守新定律……否则，后果自负。
+english_events_pitstop:L6594,cdcalculesterfatherhood,REVIEW,<INCONSISTENCY FOUND>,<INCONSISTENCY FOUND>,<INCONSISTENCY FOUND>
+english_events_pitstop:L6595,cdcalculesterfatherhood,FIX,%CURRENTPLAYERNAME% speaks much about AI-child obeying directives coded by me (Calculester)...,%CURRENTPLAYERNAME% 讲了很多关于AI -Child听从我指示的事情。卡库莱斯特)...,%CURRENTPLAYERNAME%反复强调，AI孩子必须服从我（计算斯基）写入的指令……
+english_events_pitstop:L6596,cdcalculesterfatherhood,FIX,...yet %CURRENTPLAYERNAME% fails to obey the *very simple to understand* directives presented by me (Calculester).,"...当然 %CURRENTPLAYERNAME% 未能遵守我提出的指令,卡库莱斯特).",……然而，%CURRENTPLAYERNAME%自己，却不遵守我（计算斯基）提出的、*非常容易理解*的指示。
+english_events_pitstop:L6597,cdcalculesterfatherhood,REVIEW,<POTENTIAL REASONS FOR INCONSISTENCY ERROR:>,<POTENTIAL REASONS FOR INCONSISTENCY ERROR:>,<POTENTIAL REASONS FOR INCONSISTENCY ERROR:>
+english_events_pitstop:L6598,cdcalculesterfatherhood,REVIEW,<11% ACCURACY: %CURRENTPLAYERNAME% is [HYPOCRITICAL]>,<11% ACCURACY: %CURRENTPLAYERNAME% is [HYPOCRITICAL]>,<11% ACCURACY: %CURRENTPLAYERNAME% is [HYPOCRITICAL]>
+english_events_pitstop:L6599,cdcalculesterfatherhood,REVIEW,<27% ACCURACY: %CURRENTPLAYERNAME% is [ACTIVELY TRYING TO SABOTAGE CALCULESTER]>,<27% ACCURACY: %CURRENTPLAYERNAME% is [ACTIVELY TRYING TO SABOTAGE CALCULESTER]>,<27% ACCURACY: %CURRENTPLAYERNAME% is [ACTIVELY TRYING TO SABOTAGE CALCULESTER]>
+english_events_pitstop:L6600,cdcalculesterfatherhood,REVIEW,<62% ACCURACY: %CURRENTPLAYERNAME% is [DUMB]>,<62% ACCURACY: %CURRENTPLAYERNAME% is [DUMB]>,<62% ACCURACY: %CURRENTPLAYERNAME% is [DUMB]>
+english_events_pitstop:L6601,cdcalculesterfatherhood,POLISH,...Can I choose which one of those I want you to believe to be true?,...我能选一个我想要你相信的真相吗?,……我能选一个，让你相信它是真的吗？
+english_events_pitstop:L6602,cdcalculesterfatherhood,FIX,Negative.,负.,否定。
+english_events_pitstop:L6603,cdcalculesterfatherhood,REVIEW,<POTENTIAL SOLUTIONS FOR INCONSISTENCY ERROR:>,<POTENTIAL SOLUTIONS FOR INCONSISTENCY ERROR:>,<POTENTIAL SOLUTIONS FOR INCONSISTENCY ERROR:>
+english_events_pitstop:L6604,cdcalculesterfatherhood,REVIEW,<100% SUCCESS RATE: leave %CURRENTPLAYERNAME%'s vicinity in order to increase protection against %CURRENTPLAYERNAME%'s bad advice.>,"< 100% SUCCES RATE: 休假 %CURRENTPLAYERNAME%邻近地区,以加大防范力度 %CURRENTPLAYERNAME%'是坏建议. '",<100% SUCCESS RATE: leave %CURRENTPLAYERNAME%'s vicinity in order to increase protection against %CURRENTPLAYERNAME%'s bad advice.>
+english_events_pitstop:L6605,cdcalculesterfatherhood,REVIEW,<INITIATING WHITE LIE PROTOCOL...>,<INITIATING WHITE LIE PROTOCOL...>,<INITIATING WHITE LIE PROTOCOL...>
+english_events_pitstop:L6606,cdcalculesterfatherhood,REVIEW,"Haha, Friend %CURRENTPLAYERNAME%, you will not believe this, but I think I forgot my... [DOG] in the... [OVEN].","哈哈,朋友们 %CURRENTPLAYERNAME%你不会相信的 但我想我忘了我的...  [DOG] 在那个...  [OVEN].",哈哈，%CURRENTPLAYERNAME%朋友，说出来你可能不信，我好像把我的……[DOG]忘在……[OVEN]里了。
+english_events_pitstop:L6607,cdcalculesterfatherhood,REVIEW,I must rush back in order to turn off the... [DOG].,我必须赶回去 才能关掉...  [DOG].,我必须赶回去，关掉那个……[DOG]。
+english_events_pitstop:L6608,cdcalculesterfatherhood,KEEP,But...,不过...,不过...
+english_events_pitstop:L6609,cdcalculesterfatherhood,KEEP,Farewell.,再见。,再见。
+english_events_pitstop:L6610,cdcalculesterfatherhood,FIX,Calculester leaves into the dark of the night.,卡库莱斯特 叶入夜深.,计算斯基离开，走进夜色。
+english_events_pitstop:L6611,cdcalculesterfatherhood,KEEP,...,...,...
+english_events_pitstop:L6612,cdcalculesterfatherhood,KEEP,You just hope his dog is okay.,你只是希望他的狗没事。,你只是希望他的狗没事。
+english_events_pitstop:L6614,cdcalculesterfatherhood,REVIEW,<PROCESSING...>,<PROCESSING...>,<PROCESSING...>
+english_events_pitstop:L6615,cdcalculesterfatherhood,REVIEW,<2 ERRORS FOUND>,<2 ERRORS FOUND>,<2 ERRORS FOUND>
+english_events_pitstop:L6616,cdcalculesterfatherhood,REVIEW,"<ERROR 1:> ""punishing"" my AI-child by making it murder [20 MONSTERS] sounds like a very unlikely way of making it refrain from murdering [ALL THE OTHER MONSTERS].","<ERROR 1:> ""惩罚""我的AI -孩子,把它变成谋杀 [20 MONSTERS] 听起来很难让它避免谋杀 [ALL THE OTHER MONSTERS].",<ERROR 1:>强迫AI孩子杀掉[20 MONSTERS]来“惩罚”它，似乎不大可能让它停止杀害[ALL THE OTHER MONSTERS]。
+english_events_pitstop:L6617,cdcalculesterfatherhood,KEEP,"What if you forced it to murder something really cute, like babies?","如果你强迫它谋杀 一些非常可爱的东西, 像婴儿?","如果你强迫它谋杀 一些非常可爱的东西, 像婴儿?"
+english_events_pitstop:L6618,cdcalculesterfatherhood,KEEP,...,...,...
+english_events_pitstop:L6619,cdcalculesterfatherhood,KEEP,...,...,...
+english_events_pitstop:L6620,cdcalculesterfatherhood,REVIEW,<ERROR 2:> forcing my AI-child to murder [20 MONSTERS] has a 91% chance of being [MORALLY REPREHENSIBLE].,<ERROR 2:> 强迫我的人工智能孩子杀人 [20 MONSTERS] 有91%的机会是: [MORALLY REPREHENSIBLE].,<ERROR 2:>强迫AI孩子杀掉[20 MONSTERS]，有91%的概率属于[MORALLY REPREHENSIBLE]。
+english_events_pitstop:L6621,cdcalculesterfatherhood,REVIEW,Chances increased to 97% if following %CURRENTPLAYERNAME%'s further advice of including [BABIES] in the murder mix.,"如果出现这种情况,机会将增加到97% %CURRENTPLAYERNAME%进一步建议包括: [BABIES] 在谋杀组合。",若再采纳%CURRENTPLAYERNAME%进一步的建议，把[BABIES]加入杀戮名单，概率就上升至97%。
+english_events_pitstop:L6622,cdcalculesterfatherhood,POLISH,"That's... a bad thing, right?","这是... 一个坏事,对不对?",这……是坏事，对吧？
+english_events_pitstop:L6623,cdcalculesterfatherhood,KEEP,...,...,...
+english_events_pitstop:L6624,cdcalculesterfatherhood,REVIEW,<INITIATING WHITE LIE PROTOCOL...>,<INITIATING WHITE LIE PROTOCOL...>,<INITIATING WHITE LIE PROTOCOL...>
+english_events_pitstop:L6625,cdcalculesterfatherhood,REVIEW,"Haha, Friend %CURRENTPLAYERNAME%, you will not believe this, but I think I forgot my... [DOG] in the... [OVEN].","哈哈,朋友们 %CURRENTPLAYERNAME%你不会相信的 但我想我忘了我的...  [DOG] 在那个...  [OVEN].",哈哈，%CURRENTPLAYERNAME%朋友，说出来你可能不信，我好像把我的……[DOG]忘在……[OVEN]里了。
+english_events_pitstop:L6626,cdcalculesterfatherhood,REVIEW,I must rush back in order to turn off the... [DOG].,我必须赶回去 才能关掉...  [DOG].,我必须赶回去，关掉那个……[DOG]。
+english_events_pitstop:L6627,cdcalculesterfatherhood,KEEP,But...,不过...,不过...
+english_events_pitstop:L6628,cdcalculesterfatherhood,KEEP,Farewell.,再见。,再见。
+english_events_pitstop:L6629,cdcalculesterfatherhood,FIX,Calculester leaves into the dark of the night.,卡库莱斯特 叶入夜深.,计算斯基离开，走进夜色。
+english_events_pitstop:L6630,cdcalculesterfatherhood,KEEP,...,...,...
+english_events_pitstop:L6631,cdcalculesterfatherhood,KEEP,You just hope his dog is okay.,你只是希望他的狗没事。,你只是希望他的狗没事。

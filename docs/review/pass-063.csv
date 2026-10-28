@@ -1,0 +1,71 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_pitstop:L6997,cdvaleriefuture,KEEP,Her Future,她的未来,她的未来
+english_events_pitstop:L6999,cdvaleriefuture,KEEP,My future? Ugh...,我的未来? 唉哟...,我的未来? 唉哟...
+english_events_pitstop:L7000,cdvaleriefuture,KEEP,What?,什麽?,什麽?
+english_events_pitstop:L7001,cdvaleriefuture,POLISH,"Nothing, it's just not my favorite topic.","没什么,这不是我的最爱话题",没什么，只是我不太喜欢聊这个。
+english_events_pitstop:L7002,cdvaleriefuture,KEEP,"I don't have a plan for my future, really.","我对未来没有计划,真的。","我对未来没有计划,真的。"
+english_events_pitstop:L7003,cdvaleriefuture,FIX,And not having a plan doesn't exactly fly with my sister.,而且没有计划 并不完全飞与我妹妹。,而且，我姐可不吃“没计划”这一套。
+english_events_pitstop:L7004,cdvaleriefuture,FIX,You know Vera: she has plans on top of plans. She has two dozen spreadsheets to manage her hundred different goals.,你知道吗? 维拉:她有计划之上的计划。 她有两打电子表格来管理她百个不同的入球.,你也知道薇拉：计划上面还有计划。她用二十四张电子表格，管理自己那一百个不同的目标。
+english_events_pitstop:L7005,cdvaleriefuture,POLISH,She has EVERYTHING planned. The house of her dreams; the job she wants to have; all the hobbies she wants to master...,她已经计划好了一切 她梦想之所;她想要的工作;她想掌握的一切爱好......,她把一切都计划好了。梦想中的房子、想要的工作、想精通的各种爱好……
+english_events_pitstop:L7006,cdvaleriefuture,FIX,That's Vera for you!,这是 维拉 给你的!,薇拉就是这样！
+english_events_pitstop:L7008,cdvaleriefuture,FIX,"It's a trait I admire about her, but it's definitely not for me. I go with the flow; let life unravel by itself.","我对她很佩服 但绝对不适合我 我随流而去,让生命自相残杀",我很佩服她这一点，但我肯定做不来。我比较随性，日子过成什么样，就让它顺其自然。
+english_events_pitstop:L7009,cdvaleriefuture,FIX,"And so, every now and then she asks what my plans are.","所以,每时每刻,她都问我的计划是什么。",所以，她隔三差五就会问我有什么计划。
+english_events_pitstop:L7010,cdvaleriefuture,FIX,"She means well, and she's my favorite person on the planet, but she can be a bit suffocating.","她的意思很好, 她是我最喜欢的人 在地球上, 但她可以有点窒息。",她是为我好，也是我在这世上最喜欢的人，可有时确实会让我喘不过气。
+english_events_pitstop:L7011,cdvaleriefuture,FIX,"And the thing is, we all look for meaning; for purpose. My sister has this very rigid notion of purpose and success.","问题是,我们都在寻找意义。 目的。 我姐姐对目的和成功有非常僵硬的观念.",说到底，我们都在寻找生活的意义和目标。可我姐对人生目标和成功的定义，实在太死板了。
+english_events_pitstop:L7012,cdvaleriefuture,FIX,But purpose can take infinite forms at different paces for each person. It can even change over the course of your life.,但目的可以以不同的速度为每个人采取无限的形式. 它甚至可以改变 在你的一生。,可每个人的人生目标都能有无数种模样，找到它的步调也各不相同。甚至活着活着，目标还会变。
+english_events_pitstop:L7013,cdvaleriefuture,FIX,"Yeah, you do you, and all that.","是啊,你做你,和这一切。",是啊，做你自己嘛，诸如此类的。
+english_events_pitstop:L7014,cdvaleriefuture,POLISH,Basically. I would still love to better understand myself and what MY definition of purpose and success is.,基本上是这样。 我仍然希望更好地了解自己 以及我对目的和成功的定义是什么,差不多吧。不过我还是想更了解自己，弄清对我来说，什么才算人生目标，什么才算成功。
+english_events_pitstop:L7015,cdvaleriefuture,POLISH,"I'm in no hurry to find all that out, but I think it's good to always be in a state of curious wandering to avoid falling in total passive stasis.",我并不急于知道这些 但我觉得最好总是在好奇地徘徊着 以免陷入完全被动的状态,我不急着找到答案，不过我觉得，始终带着好奇心四处探索，总比彻底停在原地、什么也不做好。
+english_events_pitstop:L7016,cdvaleriefuture,POLISH,"The question is, how do I start this search?","问题是,我该怎么开始搜索?",问题是，我该从哪儿开始找呢？
+english_events_pitstop:L7017,cdvaleriefuture,POLISH,"Ironically, I feel a bit lost.","讽刺的是,我觉得有点迷路了。",说来也讽刺，我反而有点迷茫了。
+english_events_pitstop:L7018,cdvaleriefuture,KEEP,Maybe you can help Valerie...,也许你可以帮助瓦莱丽...,也许你可以帮助瓦莱丽...
+english_events_pitstop:L7019,cdvaleriefuture,FIX,"Fiction is a window into potential lives. Binge-watch a hundred TV shows to analyze which path works best for you, from quirky lawyer to meth cook!",虚构是进入潜在生活的一扇窗口. Binge看一出百出电视剧 来分析哪条路对你最好 从古怪的律师到冰毒厨师,虚构故事能让你看看人生还有哪些可能。一口气追完一百部剧，研究哪条路最适合你，从古怪律师到制毒厨师，任你选！
+english_events_pitstop:L7020,cdvaleriefuture,FIX,"If you don't know what to do, a good solution is to start a family! When you lose all free time, only then you will realize what you wanted to do with your life!","如果你不知道该怎么做,一个好的解决方案就是开始一个家庭! 当你失去所有的空闲时间, 只有那样你才会意识到 你想做什么与你的生活!",不知道该干什么？成个家就解决了！等你连一点空闲都没了，才会明白自己原本想过怎样的人生！
+english_events_pitstop:L7021,cdvaleriefuture,FIX,Strip yourself from all expectations: get a backpack and get lost in a faraway land where no one knows you. Become a blank slate in order to learn who YOU are.,"让自己远离一切期望:拿个背包,去一个无人认识你的遥远之地迷路. 成为一个空白的板块,以了解你是谁。",甩掉所有期待：背上包，去一个谁也不认识你的遥远地方闯荡。让自己变回一张白纸，看看你到底是谁。
+english_events_pitstop:L7023,cdvaleriefuture,FIX,I like me a good TV show... but that's just what I was telling you a minute ago: I'd rather avoid being in stasis.,我喜欢我的好电视剧... 但我刚才就是这么说的: 我宁愿避免陷入停滞状态。,我也爱看好剧……可我刚刚才说过：我不想一直停在原地。
+english_events_pitstop:L7024,cdvaleriefuture,FIX,You wouldn't be! You'd be watching TV!,你不会的! 你会看电视的!,不会啊！你在看电视呢！
+english_events_pitstop:L7025,cdvaleriefuture,KEEP,"Eh... seriously, %CURRENTPLAYERNAME%?",额... 说真的 %CURRENTPLAYERNAME%?,额... 说真的 %CURRENTPLAYERNAME%?
+english_events_pitstop:L7026,cdvaleriefuture,FIX,"Sure, I might have an epiphany while watching something, but it still sounds pretty much like sitting on the sofa and waiting for answers to fall into my lap.","当然,我在看东西时可能会有觉悟, 但听起来还是很象坐在沙发上,等待答案落在我的腿上。",是，我可能看着看着就顿悟了，可这听起来还是坐在沙发上，等答案自己送上门。
+english_events_pitstop:L7027,cdvaleriefuture,FIX,But sofas are comfy!,但是沙发是舒适的!,可沙发很舒服啊！
+english_events_pitstop:L7028,cdvaleriefuture,FIX,"They are, but that's the point: you gotta step out of your comfort zone if you want to explore life and yourself.","他们是,但这就是重点: 如果你想探索生活和你自己,你必须走出你的舒适区域。",是舒服，可问题就在这儿：想探索生活、了解自己，就得走出舒适区。
+english_events_pitstop:L7029,cdvaleriefuture,FIX,"Also, I'm pretty sure I won't be a meth cook, not matter how cool it seems on TV.","而且,我敢肯定,我不会是一个冰毒厨师, 无关紧要 它看起来酷在电视上。",还有，不管电视剧里看着有多酷，我肯定不会去当制毒厨师。
+english_events_pitstop:L7030,cdvaleriefuture,FIX,It's a viable career choice! I saw a show where the dude becomes the best meth cook ever until he's finally hired at the most prestigious high-end meth restaurant!,这是一个可行的职业选择! 我看过一个节目 他成为有史以来最好的冰毒厨师 直到他终于在最有声望的高端冰毒餐厅受聘,这职业有前途啊！我看过一部剧，主角成了史上最棒的制毒厨师，最后被最负盛名的高档冰毒餐厅录用了！
+english_events_pitstop:L7031,cdvaleriefuture,FIX,SPOILERS!,卫士们!,剧透！
+english_events_pitstop:L7032,cdvaleriefuture,KEEP,Oops...,哎哟...,哎哟...
+english_events_pitstop:L7033,cdvaleriefuture,FIX,"Ugh, thanks for giving me bad advice AND spoiling a good show for me.",谢谢你给我不好的忠告 和破坏我的好表演,唉，谢谢你啊，既给我出馊主意，又把好剧给我透了。
+english_events_pitstop:L7034,cdvaleriefuture,FIX,I think I'll cut my losses and leave now before you shower me with too many good ideas.,"我想我会减少我的损失 现在离开之前,你给我洗澡 太多的好想法。",趁你还没拿更多“好主意”来淹没我，我还是及时止损，先走了。
+english_events_pitstop:L7035,cdvaleriefuture,POLISH,"That was sarcasm, wasn't it?","这是讽刺,不是吗?",你刚才是在说反话吧？
+english_events_pitstop:L7036,cdvaleriefuture,POLISH,"That's the best part, my friend: you have the rest of the road trip to figure that one out.","这是最好的部分,我的朋友:你还有剩下的路程去想清楚。",妙就妙在这儿，朋友：接下来整趟旅行，你都能慢慢琢磨。
+english_events_pitstop:L7037,cdvaleriefuture,POLISH,"Looking at the quality of your ideas, you may need some time. Godspeed!","看你的想法的质量,你可能需要一些时间。 祝你们好运!",看你这出主意的水平，估计得琢磨挺久。祝你好运！
+english_events_pitstop:L7038,cdvaleriefuture,FIX,"And so Valerie leaves, with the strut of the cool cat she is.",瓦莱丽就离开了 带着她那只酷猫的脚步,于是，瓦莱丽迈着一贯潇洒的步子离开了。
+english_events_pitstop:L7040,cdvaleriefuture,FIX,So I tell you I'm trying not to make assumptions on what happiness can be for each person...,"所以我告诉你,我尽量不 假设什么是 幸福可以给每个人...",我刚跟你说，我不想擅自认定每个人的幸福都该是什么样……
+english_events_pitstop:L7041,cdvaleriefuture,FIX,...and you suggest that I go for one of the most traditional definitions of what young adults should be doing?,...你建议我接受 最传统的定义之一 年轻人应该做什么?,……你就让我照着最传统的那几套标准之一，去过年轻人“该过”的生活？
+english_events_pitstop:L7042,cdvaleriefuture,FIX,...Yes?,是吗?,……对？
+english_events_pitstop:L7043,cdvaleriefuture,FIX,"That's such a bad idea that I'm legit unsure whether you're defending ""having a family"" as the one thing we should all default to...","这主意太糟了 我不确定你是不是在捍卫""有家有家""",这主意烂得让我真搞不懂，你到底是在鼓吹“成家”，觉得所有人都该默认走这条路……
+english_events_pitstop:L7044,cdvaleriefuture,FIX,"...or if you're dunking on ""having a family"" as something that makes everyone miserable.","...或者,如果你沉浸在""有一个家庭""上, 使每个人都感到痛苦。",……还是在嘲讽“成家”，觉得它会让所有人都过得很惨。
+english_events_pitstop:L7045,cdvaleriefuture,POLISH,"Either way, those are both terrible thoughts.","无论哪种方式,这些都是可怕的想法。",不管是哪种，这两种想法都够糟的。
+english_events_pitstop:L7046,cdvaleriefuture,FIX,Do you go around advising people to start a family to solve all their issues?,你绕道建议人们 建立一个家庭来解决他们所有的问题吗?,你平时也这样吗？不管别人遇到什么问题，都劝人家成个家就好了？
+english_events_pitstop:L7047,cdvaleriefuture,POLISH,"""I have an algebra test tomorrow and I haven't studied!""","""我明天有代数测试,我还没有学习!""",“明天考代数，我还没复习！”
+english_events_pitstop:L7048,cdvaleriefuture,FIX,"""No prob: start a family.""","""无为道:起个家来"".",“没事，成个家就好了。”
+english_events_pitstop:L7049,cdvaleriefuture,FIX,"""I couldn't find tomatoes for my pasta with marinara!""","""我找不到西红柿 与玛里娜拉!""",“想做番茄酱意面，可我买不到番茄！”
+english_events_pitstop:L7050,cdvaleriefuture,POLISH,"""Have you thought of starting a family?""","""你考虑过成立家庭吗?""",“你考虑过成家吗？”
+english_events_pitstop:L7051,cdvaleriefuture,POLISH,"Well, when you put it like that...","好吧,当你把它这样...",呃，被你这么一说……
+english_events_pitstop:L7052,cdvaleriefuture,KEEP,Yeah...,对...,对...
+english_events_pitstop:L7053,cdvaleriefuture,FIX,"%CURRENTPLAYERNAME%, it's okay. I'm a bit lost and in need of good advice... which apparently you are not equipped to give.","%CURRENTPLAYERNAME%没关系。 我有点迷路了,需要好的建议... 很明显,你没有 装备给。",%CURRENTPLAYERNAME%，没事。我有点迷茫，需要有人给我出点好主意……显然，你没这个本事。
+english_events_pitstop:L7054,cdvaleriefuture,POLISH,"So I'm going to find that elsewhere, okay? Byeeee!","所以我去别的地方找,好吗? 再见!",所以我去别处找了，好吗？拜——！
+english_events_pitstop:L7055,cdvaleriefuture,FIX,"And so Valerie leaves, strutting like the cool cat she is.","于是瓦莱丽就离开了,像她的酷猫一样站着.",于是，瓦莱丽迈着一贯潇洒的步子离开了。
+english_events_pitstop:L7057,cdvaleriefuture,POLISH,"That's... that's not a bad idea, %CURRENTPLAYERNAME%.","这是... 这不是一个坏主意, %CURRENTPLAYERNAME%.",这……这主意还不错，%CURRENTPLAYERNAME%。
+english_events_pitstop:L7058,cdvaleriefuture,FIX,"Yeah, sometimes you lose perspective when you're looking at a problem from too close.","是啊,有时你失去了 透视 当你看一个问题 从太近。",是啊，有时候离问题太近，反而看不清全貌。
+english_events_pitstop:L7059,cdvaleriefuture,POLISH,It makes sense. Maybe by changing my environment I can breathe a bit and discover what I really want for myself.,"说得有道理. 也许通过改变我的环境,我可以呼吸一点 并发现我真正想要的。",有道理。也许换个环境，我就能喘口气，弄清自己真正想要什么。
+english_events_pitstop:L7060,cdvaleriefuture,KEEP,You could even go by a different name!,你甚至可以换个名字!,你甚至可以换个名字!
+english_events_pitstop:L7061,cdvaleriefuture,POLISH,What do you mean?,你说什么?,什么意思？
+english_events_pitstop:L7062,cdvaleriefuture,POLISH,"Well, it's a little silly thing, but just imagine: you're living somewhere else under an alias and just... not being Valerie.",这有点傻 但想象一下 你住在别的地方 化名之下 而不是瓦莱丽。,嗯，听起来有点傻，不过你想想：你换个名字住在别的地方，就可以……暂时不当瓦莱丽了。
+english_events_pitstop:L7063,cdvaleriefuture,FIX,"You build this new persona that feels totally new, and see where it leads you!",你造出这个感觉全新的人 看看它会把你引向何处!,给自己塑造一个全新的身份，看看它会把你带向哪里！
+english_events_pitstop:L7064,cdvaleriefuture,FIX,Hey... I like it!,顿... 我喜欢!,嘿……我喜欢这个！
+english_events_pitstop:L7065,cdvaleriefuture,FIX,"%CURRENTPLAYERNAME%, you're on a streak of weird-but-actually-good ideas. What did you have for breakfast today?",%CURRENTPLAYERNAME%你是一个怪异但实际上很好的想法。 今天早餐吃什么了? 吃点什么?,%CURRENTPLAYERNAME%，你这怪归怪、还真有用的点子，一个接一个啊。今天早上吃什么了？
+english_events_pitstop:L7066,cdvaleriefuture,KEEP,Eh... pancakes.,额... 煎饼,额... 煎饼
+english_events_pitstop:L7067,cdvaleriefuture,FIX,It shows!,它显示!,看出来了！
+english_events_pitstop:L7068,cdvaleriefuture,KEEP,Thanks?,谢谢?,谢谢?
+english_events_pitstop:L7069,cdvaleriefuture,POLISH,"It's a compliment, you clever doofus. Take it!","这是恭维,你这个聪明的傻瓜。 拿着!",夸你呢，聪明的小笨蛋。收下就行！
+english_events_pitstop:L7070,cdvaleriefuture,FIX,Okay!,"好,我们走!",好吧！
+english_events_pitstop:L7072,cdvaleriefuture,POLISH,"You spend the rest of the night discussing where Valerie could go for this journey into self-discovery, and which alias she could use.",你整晚都在讨论 瓦莱丽可以去哪里 踏上自我发现的旅程 以及她可以使用的别名,夜里剩下的时间，你们都在讨论瓦莱丽可以去哪里踏上这趟自我探索之旅，以及该用什么化名。

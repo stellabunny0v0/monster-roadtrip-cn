@@ -1,0 +1,94 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_pitstop:L5533,cwmdahliasocks,KEEP,Missing socks,袜子不见了,袜子不见了
+english_events_pitstop:L5536,cwmdahliasocks,FIX,"Maaaan, missing socks are a total mystery to me!","Maaaan,失踪的袜子对我来说是个谜!",天哪，袜子失踪这事，我也完全搞不懂！
+english_events_pitstop:L5537,cwmdahliasocks,FIX,"I go all ""wash wash wash"", and before I know it, they've vanished into thin air...","我走所有的""洗洗"", 在我知道它之前, 他们消失在了稀薄的空气中...",我明明在那儿“洗呀洗呀洗”，结果一不留神，它们就凭空消失了……
+english_events_pitstop:L5538,cwmdahliasocks,POLISH,They are sneaky motherfuckers!,他们是狡猾的混蛋!,真是一群滑头王八蛋！
+english_events_pitstop:L5539,cwmdahliasocks,POLISH,I guess it can get frustrating...,我想这可能会让人沮丧... ...,听着就挺让人烦的……
+english_events_pitstop:L5540,cwmdahliasocks,FIX,"It is... but those pesky socks won't defeat Dahlia Aquino, conqueror of Hell, vanquisher of stains!","这是... 但那些讨厌的袜子不会被打败的 达莉娅 阿基诺,地狱的征服者,污点的征服者!",是啊……但这些讨厌的袜子，休想打败达丽雅·阿基诺——地狱征服者、污渍克星！
+english_events_pitstop:L5541,cwmdahliasocks,FIX,Other machines envy me; monsters admire me; GERMS FEAR ME!,其他机器都羡慕我;怪物羡慕我;GERMS害怕我!,机器嫉妒我，怪物仰慕我，细菌惧怕我！
+english_events_pitstop:L5542,cwmdahliasocks,POLISH,And the missing socks? They might have eluded me for now... but they can't hide for long.,失踪的袜子呢? 他们现在可能躲着我了... 但他们不能躲太久。,至于失踪的袜子？它们也许暂时逃过了我的手掌心……但藏不了多久。
+english_events_pitstop:L5543,cwmdahliasocks,KEEP,"Do you have any clue where the socks go, though?",你知不知道袜子跑到哪里去了?,你知不知道袜子跑到哪里去了?
+english_events_pitstop:L5544,cwmdahliasocks,FIX,I'm not sure...,我不太确定... ... 说不定...,我还不太确定……
+english_events_pitstop:L5545,cwmdahliasocks,FIX,"Sometimes I think they're hiding just around the corner, scared shitless of my washing powers.",有时我觉得他们躲在拐角处 吓得我洗不干净,有时候，我觉得它们就躲在拐角处，被我的洗涤神力吓破了胆。
+english_events_pitstop:L5546,cwmdahliasocks,FIX,Or maybe I clean them so hard that I literally ERASE THEM FROM EXISTENCE.,或许我把她们打扫得这么辛苦 以至于我把他们从现实中解放出来,也可能是我洗得太猛，直接把它们从存在中抹掉了。
+english_events_pitstop:L5547,cwmdahliasocks,POLISH,That sounds likely!,这听起来很可能会!,听起来很有可能！
+english_events_pitstop:L5548,cwmdahliasocks,KEEP,And sometimes... sometimes I think they might be in France.,有时候... 有时候我想他们可能在法国,有时候... 有时候我想他们可能在法国
+english_events_pitstop:L5549,cwmdahliasocks,KEEP,...Why France?,...为什么是法国?,...为什么是法国?
+english_events_pitstop:L5550,cwmdahliasocks,KEEP,Why not?,为什么不呢?,为什么不呢?
+english_events_pitstop:L5551,cwmdahliasocks,KEEP,...,...,...
+english_events_pitstop:L5552,cwmdahliasocks,FIX,"Well, Dahlia, I trust that one day you'll find the missing socks.",这个嘛 达莉娅我相信有一天你会找到失踪的袜子,达丽雅，我相信，你总有一天会找到那些失踪的袜子的。
+english_events_pitstop:L5553,cwmdahliasocks,POLISH,I have a scrapbook filled with clues... wanna help me build theories about their whereabouts?,我有一个剪贴簿 充满了线索... 想帮我建立关于他们下落的理论吗?,我有本剪贴簿，里面全是线索……要不要帮我推理一下，它们到底去哪儿了？
+english_events_pitstop:L5554,cwmdahliasocks,FIX,I'm game.,我是游戏。,我加入。
+english_events_pitstop:L5555,cwmdahliasocks,POLISH,And so you spend the rest of the night thinking hard about where missing socks go.,所以剩下的时间你都在想 失踪的袜子会跑到哪里去,于是，接下来的时间，你们一直在苦思冥想，那些失踪的袜子究竟去哪儿了。
+english_events_pitstop:L5556,cwmdahliasocks,KEEP,It could be France.,可能是法国,可能是法国
+english_events_pitstop:L5565,cwmdahliamixclothes,FIX,Mixing clothes,混杂的衣服,衣服混洗
+english_events_pitstop:L5568,cwmdahliamixclothes,POLISH,"Oof, mixing clothes is a huge taboo.","哦,混合衣服是一个巨大的禁忌。",哎呀，把衣服混在一起洗，那可是大忌。
+english_events_pitstop:L5569,cwmdahliamixclothes,FIX,I had no idea.,我当时不知道,还真不知道。
+english_events_pitstop:L5570,cwmdahliamixclothes,FIX,"I've seen some shit, %CURRENTPLAYERNAME%... the results can be catastrophic.","我见过一些狗屎, %CURRENTPLAYERNAME%... 结果可能是灾难性的。",%CURRENTPLAYERNAME%，我可是见过大场面的……后果简直是灾难。
+english_events_pitstop:L5571,cwmdahliamixclothes,FIX,Fools who thought wool sweaters and undies could use the same kind of cycle...,认为羊毛毛衫和内衣可以使用同一种循环的傻瓜. .,有些傻子，以为羊毛衫和内裤能用同一种洗涤程序……
+english_events_pitstop:L5572,cwmdahliamixclothes,FIX,"Hopeless bastards who washed light-colored and dark-colored clothes together, only to find the colors bled into each other...","无望的混蛋,谁洗光彩和深色的衣服在一起, 只发现颜色 血流成河.",还有些没救的混蛋，把浅色衣服和深色衣服一起洗，结果全串色了……
+english_events_pitstop:L5573,cwmdahliamixclothes,POLISH,"Absolute (clothing) bloodbaths, %CURRENTPLAYERNAME%... tragedies burnt into my retinas forever.","绝对的(衣服)流血, %CURRENTPLAYERNAME%... 悲剧永远烧入我的视网膜。",简直就是一场场（衣物的）血案，%CURRENTPLAYERNAME%……那些惨剧，永远烙在了我的视网膜里。
+english_events_pitstop:L5574,cwmdahliamixclothes,FIX,You make a laundromat sound like a battlefield.,你把洗衣房弄得像战场一样,你把洗衣店说得像战场一样。
+english_events_pitstop:L5575,cwmdahliamixclothes,KEEP,"Well, in a way, it is.","从某种意义上说,是的。","从某种意义上说,是的。"
+english_events_pitstop:L5576,cwmdahliamixclothes,KEEP,But you know what? I'm gonna let you in on a little secret:,但是你知道吗? 我要告诉你一个小秘密:,但是你知道吗? 我要告诉你一个小秘密:
+english_events_pitstop:L5577,cwmdahliamixclothes,KEEP,Sometimes even I go there and take those reckless risks myself.,有时我也会去冒这些风险,有时我也会去冒这些风险
+english_events_pitstop:L5578,cwmdahliamixclothes,KEEP,Really? Why?,真的吗? 为什么?,真的吗? 为什么?
+english_events_pitstop:L5579,cwmdahliamixclothes,FIX,There's thrill in taking the path less travelled.,少走这条路太刺激了,不走寻常路，才刺激。
+english_events_pitstop:L5580,cwmdahliamixclothes,FIX,The foolish can find the most unexpected victories through their unending ingenuity.,愚人能通过其无穷无尽的才智来找到最出乎意料的胜利.,傻瓜也能凭着无穷的创造力，赢下一场谁都想不到的胜利。
+english_events_pitstop:L5581,cwmdahliamixclothes,FIX,What if I made colors bleed... INTO A NEW VERY AWESOME COLOR?!,如果我使颜色出血... 进入一个全新的 非常好的康乐器!,万一，我能让串出来的颜色……变成一种全新的、超酷的颜色呢？！
+english_events_pitstop:L5582,cwmdahliamixclothes,POLISH,A new very awesome color? No way!,新的非常棒的颜色? 不会吧!,一种全新的、超酷的颜色？不会吧！
+english_events_pitstop:L5583,cwmdahliamixclothes,FIX,YES! LIKE... LIKE...,没错! 喜欢... 喜欢...,没错！比如……比如……
+english_events_pitstop:L5584,cwmdahliamixclothes,FIX,...BLURPLE!,...布鲁斯!,……蓝紫色！
+english_events_pitstop:L5585,cwmdahliamixclothes,FIX,Whaaaaaa...?! Imagine that... blurple...,"哇,哇,哇,哇,哇,哇,哇! 想象一下... 模糊的...",哇——？！想象一下……蓝紫色……
+english_events_pitstop:L5586,cwmdahliamixclothes,FIX,A washing machine can only dream of leaving a mark in the annals of color history.,"洗衣机只能梦想在""彩色历史""的后传中留下一记印记.",能在色彩史上留下一笔，是洗衣机梦寐以求的事。
+english_events_pitstop:L5587,cwmdahliamixclothes,POLISH,"I know you can do it, Dahlia. You're by far the washing machine I trust the most.","我知道你能做到这一点, 达莉娅. 你是迄今为止我最信任的洗衣机。",达丽雅，我知道你能做到。你可是我最信任的洗衣机。
+english_events_pitstop:L5588,cwmdahliamixclothes,POLISH,That's great to hear...,很高兴听到...,听你这么说，真好……
+english_events_pitstop:L5589,cwmdahliamixclothes,FIX,Especially because I was about to suggest you forfeit all your clothes to me.,特别是因为我正要建议你把你的衣服都给我没收,尤其是，我刚想让你把身上的衣服全都交给我。
+english_events_pitstop:L5590,cwmdahliamixclothes,FIX,D-Dahlia!,迪尔...达莉娅!,达、达丽雅！
+english_events_pitstop:L5591,cwmdahliamixclothes,FIX,"Haha! I meant so we can wash them all together and search for new colors, my friend.",哈哈! 哈哈! 哈哈! 哈哈! 我是说我们可以一起洗洗 寻找新的颜色 我的朋友,哈哈！我是说，把它们一起洗，试着发现新颜色啊，朋友。
+english_events_pitstop:L5592,cwmdahliamixclothes,FIX,"And so, you turn the night into an adventure of color exploration! You're a bit cold, though.","所以,你把夜晚变成 探相的冒险! 你有点冷,虽然。",于是，这一晚变成了一场探索色彩的冒险！不过，你有点冷。
+english_events_pitstop:L5601,cwmdahliawashsetting,FIX,Her favorite setting,她最喜欢的场景,她最喜欢的洗涤模式
+english_events_pitstop:L5604,cwmdahliawashsetting,FIX,I FUCKING LOVE ALL MY SETTINGS!,我他妈的爱 我所有的套子!,我他妈每一种模式都爱！
+english_events_pitstop:L5605,cwmdahliawashsetting,POLISH,"No favorites, then?","没有喜欢的,那么?",所以，没有最喜欢的？
+english_events_pitstop:L5606,cwmdahliawashsetting,POLISH,All of them are my favorite! Think of it this way: settings are like weapons. You have to choose the one that is most useful to defeat your enemy.,他们都是我最喜欢的! 这样想吧 环境就像武器一样 你必须选择最能打败敌人的,全都是我的最爱！这么想吧：洗涤模式就像武器，你得挑最管用的那件，才能打败敌人。
+english_events_pitstop:L5607,cwmdahliawashsetting,FIX,Your enemy as in... stains?,你的敌人是... 污点?,你的敌人是指……污渍？
+english_events_pitstop:L5608,cwmdahliawashsetting,POLISH,Exactly. But what the best weapon (or setting) is depends on several factors:,"没错 但是,什么是最好的武器(或设定)取决于若干因素:",没错。不过，哪件武器（或者哪种模式）最合适，还得看几个因素：
+english_events_pitstop:L5609,cwmdahliawashsetting,POLISH,"How strong is your enemy? What terrain are you battling on? How quickly do you want to conquer them, and what are you willing to sacrifice for it?",你的敌人有多强大? 你在和什么地形作战? 你想征服他们多快? 你愿意为此牺牲什么?,敌人有多强？在哪种地形上交战？你想多快征服它们，又愿意为此付出什么代价？
+english_events_pitstop:L5610,cwmdahliawashsetting,KEEP,Sounds really complex.,听起来很复杂。,听起来很复杂。
+english_events_pitstop:L5611,cwmdahliawashsetting,FIX,"It definitely is. For instance, if you want to ""level the battlefield"", you pick Permanent Press. It's a surefire way to avoid wrinkles.","这绝对是。 例如,如果你想""打平战场"",则选择永久出版社. 这是避免皱纹的必火之道.",当然复杂。比如，想“荡平战场”，就选防皱模式，绝对能让褶皱无处遁形。
+english_events_pitstop:L5612,cwmdahliawashsetting,FIX,Noted.,已记.,记下了。
+english_events_pitstop:L5613,cwmdahliawashsetting,FIX,"Other times, the enemy is tough as nails or you're fighting on rough terrain, like a towel or a sturdy fabric. Those are times for Heavy Duty stain-slaughter.","其他时候,敌人像指甲一样坚韧,或者你在粗糙的地平地上战斗,比如毛巾或坚固的织物. 那些时候是""重职""污点取笑的时期",有时，敌人格外顽强，或者你在毛巾、结实的布料这种崎岖地形上作战。那就该用强力洗，大开杀戒，歼灭污渍！
+english_events_pitstop:L5614,cwmdahliawashsetting,FIX,"Whoa, hardcore!","哇,坚果!",哇，够硬核！
+english_events_pitstop:L5615,cwmdahliawashsetting,FIX,"And if I want to save some energy for a bigger enemy, I become a cold killer with a high-speed cycle.","如果我想为更大的敌人节省一些能量, 我就会成为一个具有高速循环的冷酷杀手。",要是想省点能量，留着对付更强的敌人，我就用冷水高速洗，化身冷酷杀手。
+english_events_pitstop:L5616,cwmdahliawashsetting,FIX,"But sometimes I don't give a damn about white flags (or sheets), so I ramp up the heat and WATCH THE COLORS BLEED.","但有时我根本不在乎白旗(或被单),",不过，有时候我根本不在乎白旗（或者白床单），直接把温度拉高，看那些颜色血流成河！
+english_events_pitstop:L5617,cwmdahliawashsetting,FIX,Give 'em hell!,给他们下地狱吧!,狠狠收拾它们！
+english_events_pitstop:L5618,cwmdahliawashsetting,FIX,"Still, other times killing the stain requires finesse and I don't want to rip everything apart. In that case, I go Delicate.","但是,其他时间 杀死污点需要技巧 我不想把一切都撕碎。 那样的话,我就要""去""了.",可有些污渍得巧着来，我又不想把衣服全撕烂。这时候，就得选轻柔洗。
+english_events_pitstop:L5619,cwmdahliawashsetting,POLISH,I didn't take you for a fan of delicate methods!,我可没把你当成 微妙方法的粉丝!,真没想到，你还喜欢这么温柔的手段！
+english_events_pitstop:L5620,cwmdahliawashsetting,POLISH,"Like I said, you have to use everything in your arsenal if you want to be a top-notch stain killer.","就像我说的,你必须用你武库里的一切 如果你想成为一个顶尖的污点杀手。",说过了，想当顶尖的污渍杀手，武器库里的每一样，都得用得上。
+english_events_pitstop:L5621,cwmdahliawashsetting,POLISH,I'll make sure to ask you for advice next time I have to do the laundry!,下次要洗衣服的时候 我会问你的建议的!,下回洗衣服，我一定先来请教你！
+english_events_pitstop:L5622,cwmdahliawashsetting,KEEP,No problem!,没问题!,没问题!
+english_events_pitstop:L5623,cwmdahliawashsetting,FIX,"You stay up all night hearing Dahlia go over every other washer setting. It's making your head spin, but she looks really cute when she's excited.","你熬夜听话 达莉娅 翻遍其他的洗手间 它让你的头旋转, 但她看起来真的很可爱,当她兴奋。",你熬了一整晚，听达丽雅讲其他各种洗涤模式。听得你头都晕了，可她兴奋起来的样子，真的很可爱。
+english_events_pitstop:L5632,cwmdahliabody,FIX,Being a washing machine,是个洗衣机,当一台洗衣机
+english_events_pitstop:L5635,cwmdahliabody,POLISH,I just LOVE being a washing machine.,我只是喜欢做洗衣机。,我真的太喜欢当洗衣机了。
+english_events_pitstop:L5636,cwmdahliabody,KEEP,I can tell.,我看得出来。,我看得出来。
+english_events_pitstop:L5637,cwmdahliabody,POLISH,"Actually, you look so comfortable in your own skin I'm even a bit jealous.","其实,你看起来很舒服 在你自己的皮肤 我甚至有点嫉妒。",其实，你对自己这身皮囊这么满意，我都有点羡慕了。
+english_events_pitstop:L5638,cwmdahliabody,FIX,How could I not be comfortable in my skin when my skin is a FUCKIN' STEEL SURFACE.,我怎么会不自在 当我的皮肤是他妈的STEEL SURFACE。,我这身皮可是他妈的钢板，怎么可能不满意！
+english_events_pitstop:L5639,cwmdahliabody,KEEP,It sure is shiny and cool.,当然是闪亮而酷的。,当然是闪亮而酷的。
+english_events_pitstop:L5640,cwmdahliabody,POLISH,"Fuck yeah! And look at me! No soft, round shapes: all straight lines and hard edges!","他妈的是的! 看着我! 没有柔软的,圆形的形状:所有直线和硬边!",那他妈当然！看看我！没有软乎乎、圆滚滚的曲线，全是直线和硬朗的棱角！
+english_events_pitstop:L5641,cwmdahliabody,FIX,Everyone knows the square is the buffest shape of all.,每个人都知道广场是所有事物中最美的形状。,谁都知道，方形才是最壮的形状。
+english_events_pitstop:L5642,cwmdahliabody,KEEP,"I never thought of that, but I guess you're right.","我从来没有想过,但我想你是对的。","我从来没有想过,但我想你是对的。"
+english_events_pitstop:L5643,cwmdahliabody,FIX,"And I'm front-load, which means I can stare at my enemies right in the eye before I give them a good scrubbing.","我是头等重任,这意味着我可以盯着我的敌人的眼睛, 然后再给他们洗个好衣服。",而且，我还是前开门的。这样，在狠狠搓洗敌人之前，就能直视它们的眼睛。
+english_events_pitstop:L5644,cwmdahliabody,POLISH,Plus it's more water-efficient!,加之更能节水!,还更省水！
+english_events_pitstop:L5645,cwmdahliabody,FIX,Buff AND environmentally-conscious? You're the whole package!,注意环境? 你是整个包裹!,又壮又有环保意识？你这也太完美了！
+english_events_pitstop:L5646,cwmdahliabody,POLISH,"Totally. And if you throw me at someone, I will LITERALLY crush them.","当然 如果你把我扔到某个人身上, 我将永远地粉碎他们。",可不是嘛。而且，把我朝谁扔过去，我真能把那人砸扁。
+english_events_pitstop:L5647,cwmdahliabody,POLISH,Imagine it! It'd be hella fun!,试想一下! 这会是地狱的乐趣!,想象一下！肯定好玩死了！
+english_events_pitstop:L5648,cwmdahliabody,KEEP,Eh... I'm not sure about that.,额... 我不确定这一点。,额... 我不确定这一点。
+english_events_pitstop:L5649,cwmdahliabody,POLISH,"Nah, %CURRENTPLAYERNAME%, trust me: it'd be hilarious.","没有 %CURRENTPLAYERNAME%相信我,那会很有趣的",不，%CURRENTPLAYERNAME%，相信我，肯定笑死人。
+english_events_pitstop:L5650,cwmdahliabody,POLISH,One day we should meet up and spend the day throwing me from a balcony onto unsuspecting pedestrians.,"有一天,我们应该见面 并花一天 把我从阳台 扔到不知可疑的行人。",哪天咱们该约着玩一整天，把我从阳台扔下去，砸那些毫无防备的路人。
+english_events_pitstop:L5651,cwmdahliabody,FIX,Think of it: some rando is just going to get some coffee when suddenly...,"想想看,有些兰多会去喝咖啡 当突然...",想想看，一个路人正要去买杯咖啡，突然……
+english_events_pitstop:L5652,cwmdahliabody,FIX,IT'S WASHING TIME!,是时候了!,洗衣时间到！
+english_events_pitstop:L5653,cwmdahliabody,FIX,No one expects a washing machine ambush... from the skies!,没人指望有洗衣机伏击... 从天而降!,谁能想到，洗衣机还会搞伏击……从天而降！
+english_events_pitstop:L5654,cwmdahliabody,POLISH,"Hmmm, I guess that statement is technically correct.","嗯,我想这个声明在技术上是正确的。",嗯，严格来说，这倒是没错。
+english_events_pitstop:L5655,cwmdahliabody,FIX,You know it! It's even an Internet trend! Do you have a phone so we can check it out? It's the fuckin' best.,笵 这甚至是一个互联网趋势! 你有电话让我们查查吗? 这是他妈的最好的。,就是啊！这都成网络潮流了！有手机吗？咱们搜来看看，简直他妈的太棒了。
+english_events_pitstop:L5656,cwmdahliabody,POLISH,You grab your phone and... it turns out to be true? There's an Internet trend of throwing washing machines at people from balconies. It's pretty savage.,你拿起你的电话和... 是真的吗? 互联网上出现了从瓦房向人投掷洗衣机的趋势. 这是相当野蛮的。,你掏出手机一查……居然是真的？网上真的流行把洗衣机从阳台扔下去砸人。挺凶残的。
+english_events_pitstop:L5657,cwmdahliabody,FIX,"You spend the night watching lots of ""funny"" reels. IT'S WASHING TIME!","你整晚都在看很多""无聊""的片子 是时候了!",这一晚，你们看了一堆“搞笑”短视频。洗衣时间到！

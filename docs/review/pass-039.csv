@@ -1,0 +1,106 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_pitstop:L4493,cyellowdating,KEEP,Dating,约会,约会
+english_events_pitstop:L4495,cyellowdating,FIX,D-Dating?!,约会?,约、约会？！
+english_events_pitstop:L4496,cyellowdating,FIX,Being single is like... like... this endless rollercoaster... you know?,单身就像... 喜欢... 这个没完没了的滚轮机... 你知道吗?,单身就像……就像……坐一趟永远不会停的过山车……你懂吧？
+english_events_pitstop:L4497,cyellowdating,POLISH,A fun ride full of thrills and unexpected twists?,充满了刺激和出乎意料的曲折的乐趣之旅?,一路惊险刺激、充满意外转折，特别好玩？
+english_events_pitstop:L4498,cyellowdating,KEEP,Hmmm... not exactly.,那个... 不尽然。,那个... 不尽然。
+english_events_pitstop:L4499,cyellowdating,FIX,"I was thinking more like ""something other people seem to have so much fun doing while I'm riddled with vertigo and dizziness.""","我想的更像是 ""别人似乎有这么多的乐趣做 而我迷惑了眩晕和眩晕。""",我想的是……“别人好像都玩得很开心，只有我晕得天旋地转”。
+english_events_pitstop:L4500,cyellowdating,FIX,It's also similar because I spend a lot of time focusing on not puking all over the other people involved.,"这也是相似的,因为我花了很多时间 专注于不呕吐 遍及其他参与的人。",还有一点也很像：我得花好多精力，才忍住不吐其他人一身。
+english_events_pitstop:L4501,cyellowdating,FIX,Oh... yikes.,哦... 亚克丝。,哦……听着真惨。
+english_events_pitstop:L4502,cyellowdating,FIX,"Yes, very yikes.","是的,非常阴险。",是啊，特别惨。
+english_events_pitstop:L4504,cyellowdating,FIX,"I don't know... social interactions are super complicated by themselves, let alone dating!","我不知道... 我不知道... 我不知道,这是什么? 社会互动本身就非常复杂,更不要说约会了!",怎么说呢……光是跟人相处就已经够复杂了，更别说约会了！
+english_events_pitstop:L4505,cyellowdating,FIX,I already spend so much time trying not to sound dumb or lame...,我已经花这么多时间 试图不听起来哑巴或瘸子...,光是想让自己说话时别显得又笨又无趣，就已经够累了……
+english_events_pitstop:L4506,cyellowdating,FIX,Imagine also trying to sound appealing!,"想象一下,还试图 听起来吸引人!",还要同时让自己显得有吸引力，想想看！
+english_events_pitstop:L4507,cyellowdating,POLISH,Hmmm... I think the idea isn't to try to be or sound a certain way... you just need to be unapologetically yourself.,那个... 我想这个想法不是想尝试 或听起来像某种方式... 你只是需要 令人不快的自己。,嗯……我觉得，不是非得表现成什么样、说话像什么样……你只要坦坦荡荡地做自己就好了。
+english_events_pitstop:L4508,cyellowdating,KEEP,That does sound nice...,听起来不错...,听起来不错...
+english_events_pitstop:L4509,cyellowdating,POLISH,"But that's the problem, isn't it? I get so in my head that I end up doubting what other people could possibly like about me. It... can get harsh.","但这就是问题所在,不是吗? 我脑子里那么想 我最后会怀疑别人会喜欢我什么 这... 可能会变得很严厉。",听起来是不错，可问题就在这里，不是吗？我总想太多，到最后就开始怀疑，别人到底能喜欢我哪一点。这种感觉……挺难受的。
+english_events_pitstop:L4510,cyellowdating,FIX,Like... I'm clumsy... and nervous... and I fudge everything up half the time!,喜欢... 我笨手笨脚... 和紧张... 半个时候我把事情都推开!,比如……我笨手笨脚的……又容易紧张……干什么都有一半的概率搞砸！
+english_events_pitstop:L4511,cyellowdating,POLISH,"Well... that can also be adorable, you know?","这个... 这也可以是可爱的,你知道吗?",可这也能很可爱呀，你知道吗？
+english_events_pitstop:L4512,cyellowdating,FIX,"And it shows you're always trying your best, no matter how many times you ""fudge up."" That's cool, if you ask me!","它显示你总是在尽力, 无论你多少次""努力""。这很酷,如果你问我!",而且，这说明无论“搞砸”多少次，你都还在尽自己最大的努力。我觉得这很棒！
+english_events_pitstop:L4513,cyellowdating,KEEP,...!,...!,...!
+english_events_pitstop:L4514,cyellowdating,KEEP,"...Thanks, %CURRENTPLAYERNAME%.",谢谢 %CURRENTPLAYERNAME%.,谢谢 %CURRENTPLAYERNAME%.
+english_events_pitstop:L4515,cyellowdating,FIX,"You spend the rest of the night exchanging embarrassing dating stories. Some are truly hilarious! Look at you two, both being a bit of a mess.","你余下时间都在交换尴尬的约会故事 有些真的很好笑! ! 有点好笑! 看看你们两个,都有点乱",接下来的时间，你们一直在交换尴尬的约会经历。有些真是好笑极了！瞧瞧你俩，都有点狼狈。
+english_events_pitstop:L4524,cyellowanxiety,FIX,Surviving school,生存学校,熬过校园生活
+english_events_pitstop:L4526,cyellowanxiety,FIX,"Heh... that's a good way to put it... ""surviving school.""","哦... 说来话长 ""生存学校"".",嘿……这说法真贴切……“熬过校园生活”。
+english_events_pitstop:L4527,cyellowanxiety,FIX,"It was... something, wasn't it?","这是... 某事,不是吗?",那段日子……还真不一般，是吧？
+english_events_pitstop:L4528,cyellowanxiety,KEEP,Right?,对吧?,对吧?
+english_events_pitstop:L4529,cyellowanxiety,POLISH,"I thought school was supposed to be... easier. You study some subjects, pass some tests... and that's pretty much it.","我以为学校应该... 简单点 你研究一些科目,通过一些测试... 差不多就是这样",我本来以为，上学应该……挺简单的。学几门课，通过几场考试……差不多就这些。
+english_events_pitstop:L4530,cyellowanxiety,FIX,It turns out it's... pretty much not that!,原来是... 差不多没有!,结果……根本不是那么回事！
+english_events_pitstop:L4531,cyellowanxiety,KEEP,Mythical beasts running wild through campus...,神话中的野兽在校园里狂奔...,神话中的野兽在校园里狂奔...
+english_events_pitstop:L4532,cyellowanxiety,FIX,There's some interdimensional prince who apparently wants to marry EVERYONE...,有个跨维的王子 显然想和大家结婚...,还有个跨次元王子，好像见谁都想娶……
+english_events_pitstop:L4533,cyellowanxiety,POLISH,"And... oh, yeah... the world might end tomorrow because of a prank gone wrong.","还有... 哦,对了... 世界可能因为恶作剧而明天结束。",还有……哦，对了……没准一个恶作剧玩脱，明天世界就毁灭了。
+english_events_pitstop:L4534,cyellowanxiety,POLISH,But no pressure.,但没有压力。,不过，别有压力。
+english_events_pitstop:L4535,cyellowanxiety,POLISH,"Yeah, it's been... pretty intense.","是啊,这是... 相当激烈。",是啊，确实……够刺激的。
+english_events_pitstop:L4537,cyellowanxiety,FIX,"I have all these impossible scenarios thrown at me at maximum speed, and what am I supposed to do?",这些不可能的场景 都以最快的速度向我投出 我该怎么办?,各种不可能的状况一个接一个朝我砸过来，我能怎么办呢？
+english_events_pitstop:L4538,cyellowanxiety,FIX,Come up with absurd solutions based on what I believe are my strengths?,"根据我所认为的优势, 提出荒谬的解决办法?",就凭我觉得自己有的那点本事，想出各种离谱的解决办法？
+english_events_pitstop:L4539,cyellowanxiety,FIX,Am I smart enough to perform forbidden blood rituals? Am I bold enough to punch a demon in the face?,难道我聪明到可以进行被禁的出血仪式? 我胆子够大吗?,我够不够聪明，能举行禁忌的鲜血仪式？我够不够大胆，敢一拳揍到恶魔脸上？
+english_events_pitstop:L4540,cyellowanxiety,FIX,"Gosh, some days I don't even know if I'm smart enough to remember how to tie my shoes, or bold enough to go to school to face all that chaos...",有时候我甚至不知道自己是否够聪明 记得如何系鞋带 或者大胆到学校去面对这些混乱...,天哪，有些日子，我都不知道自己够不够聪明，还记不记得怎么系鞋带；也不知道自己有没有那个胆量，去学校面对那一团混乱……
+english_events_pitstop:L4541,cyellowanxiety,KEEP,"Yeah, I get you.","对,我懂了。","对,我懂了。"
+english_events_pitstop:L4542,cyellowanxiety,FIX,School and life sometimes feel like playing a game on hard mode.,学校和生活有时会觉得喜欢在硬模式上玩游戏.,上学也好，生活也好，有时候都像是在玩困难模式的游戏。
+english_events_pitstop:L4543,cyellowanxiety,FIX,Exactly. A game with very obscure rules that feel random half the time.,"没错 游戏规则非常模糊, 感觉随机一半的时间。",没错。还是个规则特别难懂、动不动就像在瞎来的游戏。
+english_events_pitstop:L4544,cyellowanxiety,POLISH,But that's the thing: you feel lost at times... but so does everyone else.,但事情是这样的 你有时会觉得迷路... 其他人也一样,可就是这样啊：你有时候会觉得迷茫……其他人也一样。
+english_events_pitstop:L4545,cyellowanxiety,KEEP,You think so?,你这么认为?,你这么认为?
+english_events_pitstop:L4546,cyellowanxiety,POLISH,"I know so. So, maybe this game isn't about winning or losing... but about having fun while you try your best.","我知道是这样。 所以,也许这个游戏不是关于赢或输... 玩得开心,但你尽力而为",我确定。所以，也许这游戏的重点不在输赢，而在于一边尽力，一边玩得开心。
+english_events_pitstop:L4547,cyellowanxiety,KEEP,"Hmmm, maybe.","嗯,也许。","嗯,也许。"
+english_events_pitstop:L4548,cyellowanxiety,FIX,"Then... do you wanna share some tips for this weird, chaotic game? Maybe we can help each other get better at it!","那麽... 你想分享一些小费 对于这个奇怪,混乱的游戏? 也许我们可以互相帮助 得到更好的它!",那……要不要交换一下这个古怪又混乱的游戏的心得？没准咱们能互相帮忙，玩得更好！
+english_events_pitstop:L4549,cyellowanxiety,KEEP,I'd love to!,我很乐意!,我很乐意!
+english_events_pitstop:L4550,cyellowanxiety,FIX,You and Oz spend the rest of the night trading useful lifehacks and tips to seem (or even be) cool!,你和 奥兹 花剩下的时间 交易有用的活口和小费 似乎(甚至)很酷!,接下来的时间，你和奥兹一直在交换实用的生活窍门，以及让自己看起来很酷、甚至真的变酷的小技巧！
+english_events_pitstop:L4559,cyellowphobias,KEEP,His phobias,他的恐惧症,他的恐惧症
+english_events_pitstop:L4561,cyellowphobias,KEEP,Oh... you mean these little guys?,哦... 你是说这些小家伙?,哦... 你是说这些小家伙?
+english_events_pitstop:L4562,cyellowphobias,KEEP,Aren't they cute?,他们不可爱吗?,他们不可爱吗?
+english_events_pitstop:L4563,cyellowphobias,POLISH,SO CUTE.,如此可爱。,超可爱。
+english_events_pitstop:L4564,cyellowphobias,KEEP,But what are they?,但他们是什么?,但他们是什么?
+english_events_pitstop:L4565,cyellowphobias,POLISH,What are they... that's a good question.,他们是什么... 问得好,它们是什么……问得好。
+english_events_pitstop:L4566,cyellowphobias,FIX,They are... good company.,他们是... 不错的陪伴。,它们是……很好的伙伴。
+english_events_pitstop:L4567,cyellowphobias,POLISH,I sometimes wonder if they're part of myself... or completely separate entities I somehow created.,我有时会想他们是不是我自己的一部分... 或完全分开的实体 我以某种方式创建。,我有时会想，它们是我的一部分……还是我不知怎么创造出来的、完全独立的个体。
+english_events_pitstop:L4568,cyellowphobias,FIX,You aren't sure yourself?,你不确定自己吗?,连你自己也不确定？
+english_events_pitstop:L4569,cyellowphobias,FIX,Not really.,不见得,不太确定。
+english_events_pitstop:L4570,cyellowphobias,POLISH,How can I explain this...?,我怎么解释这个... ?,该怎么解释呢……？
+english_events_pitstop:L4571,cyellowphobias,FIX,"I carry this sort of... terrible weight, you know?","我背着这种... 体重太轻了,你知道吗?",我一直背着一种……很可怕的重担，你懂吗？
+english_events_pitstop:L4572,cyellowphobias,FIX,I don't like talking much about it... but believe me: it's BIG.,"我不喜欢谈论它... 但相信我,这是大。",我不太想多聊这个……但相信我：它真的很沉。
+english_events_pitstop:L4573,cyellowphobias,FIX,Being under so much pressure isn't exactly my cup of tea.,压力太大了 不是我的茶,这么大的压力，我实在吃不消。
+english_events_pitstop:L4574,cyellowphobias,FIX,"I mean, you know me... I'm not exactly ""Oz, the Valiant Hero""; I'm more like ""Oz, the Nervous Wreck.""","我是说,你知道我... 我并不完全一样""奥兹我更喜欢""奥兹紧张的沉船。""",你也了解我……我可不是什么“英勇的英雄奥兹”，倒更像“紧张得快崩溃的奥兹”。
+english_events_pitstop:L4575,cyellowphobias,FIX,Carrying this sort of... how to put it... immense responsibility on my shoulders feels like... like...,背着这种... 怎么说呢... 我肩上的巨大责任 感觉就像... 喜欢...,肩上扛着这么……怎么说呢……这么巨大的责任，感觉就像……就像……
+english_events_pitstop:L4576,cyellowphobias,FIX,"...like if fate got the address wrong and delivered ""this"" to me , instead of someone with more... ""protagonist vibes"", if that makes sense.","...比如说如果命运弄错了地址, 给了我""这个"",而不是一个更... ... ""对立派的气息"",如果有道理的话.",……命运送错了地址，把“这个”交给了我，而不是交给一个更有……“主角气场”的人。你能明白吗？
+english_events_pitstop:L4577,cyellowphobias,POLISH,The thing is... one day these little things just appeared.,"问题是... 有一天,这些小东西刚刚出现。",总之……有一天，这些小家伙就这么出现了。
+english_events_pitstop:L4578,cyellowphobias,POLISH,I sometimes think they're a sort of coping mechanism.  Like I subconsciously created them to feel less alone while dealing with this much pressure.,我有时会觉得它们是一种应付机制。  就像我潜意识地创造它们 以在面对如此巨大的压力时 感到不那么孤独,有时我会想，这是一种自我保护。也许是我下意识地创造了它们，好让自己面对这么大的压力时，不至于那么孤单。
+english_events_pitstop:L4579,cyellowphobias,POLISH,"But who knows, really?","但谁知道,真的?",可谁又能说得准呢？
+english_events_pitstop:L4580,cyellowphobias,FIX,"Maybe they're the magical byproduct of all this ""baggage"" I carry with me...","也许它们是我带着这些""袋""的神奇副产品...",也许，它们只是我背着的这些“包袱”产生的魔法副产品……
+english_events_pitstop:L4581,cyellowphobias,POLISH,Maybe they're something entirely different.,也许它们完全不一样,也许，它们完全是另一回事。
+english_events_pitstop:L4582,cyellowphobias,FIX,"Well, they're one thing for sure: cute.","嗯,他们肯定有一件事: 可爱。",不过，有一件事可以肯定：它们很可爱。
+english_events_pitstop:L4583,cyellowphobias,POLISH,"Right? Although, let me tell you a little secret: if you look at them closely, they sometimes look like the most terrible, fucked-up fears you could imagine.","对吧? 虽然,让我告诉你一个小秘密:如果你仔细看他们,他们有时看起来是最可怕,最操蛋的恐惧,你可以想象。",对吧？不过告诉你一个小秘密：仔细看的话，它们有时候会像你能想象到的最可怕、最操蛋的恐惧。
+english_events_pitstop:L4584,cyellowphobias,FIX,"Really? Daaaang! Well, I won't be testing that.","真的吗? 达阿昂! 好吧,我不会测试。",真的？天哪！那我还是别试了。
+english_events_pitstop:L4585,cyellowphobias,POLISH,"Heehee, yeah... but even like that, they still look cute to me.","熙熙,对了... 但即使这样,他们仍然看起来很可爱。",嘿嘿，是啊……不过就算那样，我也还是觉得它们可爱。
+english_events_pitstop:L4586,cyellowphobias,POLISH,"Anyway, listen, Oz: I understand and respect that you don't want to talk about this weight you carry.","总之,听着, 奥兹:我理解并尊重你,你不想谈论你携带的这个重量.",总之，奥兹，你不想聊自己背负的重担，我理解，也尊重你的想法。
+english_events_pitstop:L4587,cyellowphobias,FIX,"But please know that if you ever feel like talking about it with someone, I have two ears and all the time in the world for you.","但是请记住,如果你想和某人谈论它, 我有两只耳朵, 和所有的时间在世界上你。",但你要知道，无论什么时候，只要你想找人说说，我都愿意听。你想聊多久，我就陪你多久。
+english_events_pitstop:L4588,cyellowphobias,KEEP,...,...,...
+english_events_pitstop:L4589,cyellowphobias,KEEP,"...Thanks, %CURRENTPLAYERNAME%.",谢谢 %CURRENTPLAYERNAME%.,谢谢 %CURRENTPLAYERNAME%.
+english_events_pitstop:L4590,cyellowphobias,FIX,"You two spend the rest of the night looking at the night sky. You worry a bit about this weight of Oz's, but whatever it is, you hope you can help him find some peace.","你们俩整晚都在看夜空 你有点担心这个重量 奥兹但不管是什么,你希望你能帮助他 找到一些和平。",接下来的时间，你们一起望着夜空。你有点担心奥兹背负的重担，但无论那是什么，都希望自己能帮他找到一点平静。
+english_events_pitstop:L4599,cyellowschool,KEEP,School adventures,学校历险,学校历险
+english_events_pitstop:L4601,cyellowschool,POLISH,"Oh, I've been on so many school adventures!","哦,我经历了这么多的学校冒险!",哦，我上学时经历过好多冒险！
+english_events_pitstop:L4602,cyellowschool,KEEP,Such as...?,比如说... ?,比如说... ?
+english_events_pitstop:L4603,cyellowschool,FIX,"Well, I was involved in lots of shenanigans during my time as a Prank Masterz intern.",我当过恶作剧大师实习生期间 也参与过很多杂耍活动,当恶作剧大师的实习生时，我参与过不少胡闹的事。
+english_events_pitstop:L4604,cyellowschool,KEEP,"Oh, you were?",是吗?,是吗?
+english_events_pitstop:L4605,cyellowschool,KEEP,"Yes! It doesn't sound much like me, does it?","没错! 听起来不太像我,是吗?","没错! 听起来不太像我,是吗?"
+english_events_pitstop:L4606,cyellowschool,FIX,"But Polly just assumed I wanted to be part of the Prank Masterz and threw me into their ""internship program.""","不过 波莉 我只是假设我想加入恶作剧马斯特兹 把我扔进他们的""实习计划""",可波莉认定我想加入恶作剧大师，直接把我扔进了他们的“实习计划”。
+english_events_pitstop:L4607,cyellowschool,POLISH,"I didn't want to do it... but Polly has so much energy that sometimes it's hard to say no to her, you know?",我不想这样做... 不过 波莉 精力充沛 有时很难拒绝她 你知道吗?,其实我不想去……可波莉实在太有活力了，有时候真的很难拒绝她，你懂吧？
+english_events_pitstop:L4608,cyellowschool,POLISH,"It was constantly stressful. As you can imagine, half of their pranks aren't exactly... safe.","它总是压力很大。 你可以想象,他们一半的恶作剧并不完全... 安全无虞.",那段时间，我一直压力很大。你也能想象，他们有一半的恶作剧都不怎么……安全。
+english_events_pitstop:L4609,cyellowschool,KEEP,I'd say it's a bit more than just half.,我觉得这不只是一半而已,我觉得这不只是一半而已
+english_events_pitstop:L4611,cyellowschool,KEEP,Probably!,也许吧!,也许吧!
+english_events_pitstop:L4612,cyellowschool,KEEP,But you know what? I ended up having fun!,但是你知道吗? 我最终玩得很开心!,但是你知道吗? 我最终玩得很开心!
+english_events_pitstop:L4613,cyellowschool,POLISH,I like that about Polly. She's this chaotic hurricane that invades your life and turns it upside-down...,我喜欢这样 波莉. 她是一个混乱的飓风 侵入你的生活 并把它颠倒...,我喜欢波莉这一点。她就像一场乱七八糟的飓风，闯进你的生活，把一切都搅得天翻地覆……
+english_events_pitstop:L4614,cyellowschool,POLISH,"...but she means well, and in the end she made me go outside my comfort zone more than once, which is something I appreciate.","...但她的意思是好的,最后她让我 走出我的舒适区不止一次, 这是我欣赏的东西。",……可她是好心，而且让我不止一次走出了舒适区。这点，我很感激。
+english_events_pitstop:L4615,cyellowschool,FIX,"And then there's Scott, who's like, the goodest boy ever.","临Τ 斯科特,谁喜欢, 最好男孩有史以来。",还有斯科特，他简直就是全世界最乖的好孩子。
+english_events_pitstop:L4616,cyellowschool,KEEP,"He is, isn't he?","他是,不是吗?","他是,不是吗?"
+english_events_pitstop:L4617,cyellowschool,KEEP,Yes! So even if those two could very well cause the end of the world... I still had a good time.,没错! 所以即使那两个人很可能会造成世界末日... 我仍然很开心。,没错! 所以即使那两个人很可能会造成世界末日... 我仍然很开心。
+english_events_pitstop:L4618,cyellowschool,FIX,Because in the end they're not evil... just chaotic good and chaotic neutral at most.,"因为最后他们不是邪恶的... 只是混乱的好和混乱的中立,最多。",毕竟，他们不是坏人……顶多就是混乱善良和混乱中立。
+english_events_pitstop:L4619,cyellowschool,KEEP,Both acceptable types of chaotic.,两者都是可以接受的混乱类型。,两者都是可以接受的混乱类型。
+english_events_pitstop:L4620,cyellowschool,KEEP,Heh... yeah.,哦... 对,哦... 对
+english_events_pitstop:L4621,cyellowschool,POLISH,"So, tell me: what's the best prank you pulled while you were a Prank Masterz intern?","那么,告诉我:你当过恶作剧大师实习生时 做的最好的恶作剧是什么?",那说说看，你在恶作剧大师实习时，做过最棒的恶作剧是什么？
+english_events_pitstop:L4622,cyellowschool,KEEP,Hmmm...,那个...,那个...
+english_events_pitstop:L4623,cyellowschool,KEEP,"Oh, I know!",哦，我知道,哦，我知道
+english_events_pitstop:L4624,cyellowschool,POLISH,Most of the time Polly was the brains of the organization... but I once pitched a prank they liked!,大部分时间 波莉 是组织的大脑... 但我曾经出过他们喜欢的恶作剧!,大多数时候，都是波莉负责出主意……不过有一次，我想的恶作剧，他们也很喜欢！
+english_events_pitstop:L4625,cyellowschool,POLISH,"We were on a computer, and I showed them that if you type ""80085"" in a calculator... it looks like ""BOOBS""!","我们在电脑上,我向他们展示,如果你在计算器中输入""80085""... 它看起来像""BOOBS""!",当时我们在用电脑，我给他们演示，在计算器里输入“80085”……看起来就像“BOOBS”！
+english_events_pitstop:L4626,cyellowschool,POLISH,"It does look like ""BOOBS""!","它看起来像""BOOBS""!",还真像“BOOBS”！
+english_events_pitstop:L4627,cyellowschool,FIX,"Okay, now tell me about some of those other prank pitches they didn't approve. Let's get a taste of the most mischievous Oz!","好吧,现在告诉我一些其他的恶作剧投注 他们没有批准。 让我们尝尝最邪恶的滋味吧 奥兹!",好，那再跟我讲讲，那些没被他们采纳的恶作剧点子吧。让我见识见识最调皮的奥兹！
+english_events_pitstop:L4628,cyellowschool,FIX,"He spends the rest of the night telling you about his many prank ideas. They are the most adorably harmless pranks ever. What a cute softie, this Oz!","他整晚都在告诉你 他的恶作剧想法 他们是有史以来最恶作剧的恶作剧 多么可爱的软糖,这个 奥兹!",接下来的时间，他一直在给你讲自己的各种恶作剧点子。全都无害得可爱。这奥兹，真是个可爱又心软的家伙！

@@ -6,7 +6,7 @@ import re
 from collections import defaultdict
 from pathlib import Path
 
-from translation_common import extract_tokens, load_rows
+from translation_common import extract_tokens, load_rows, load_display_literal_overrides, row_display_literals
 
 
 CJK = re.compile(r"[\u4e00-\u9fff]")
@@ -30,6 +30,7 @@ def main() -> int:
     args = parser.parse_args()
 
     rows = load_rows(args.translation)
+    display_overrides = load_display_literal_overrides(args.translation)
     issues: list[dict[str, str]] = []
     by_source: dict[str, set[str]] = defaultdict(set)
     for row_id, row in rows.items():
@@ -40,8 +41,12 @@ def main() -> int:
             continue
         by_source[source].add(target)
         reasons: list[str] = []
-        if extract_tokens(source) != extract_tokens(target):
-            reasons.append("placeholder mismatch")
+        try:
+            literals = row_display_literals(row, display_overrides)
+            if extract_tokens(source, literals) != extract_tokens(target, literals):
+                reasons.append("placeholder mismatch")
+        except ValueError:
+            reasons.append("approved display literal changed or missing")
         if PRIVATE_USE.search(target):
             reasons.append("private-use character")
         if FOREIGN_SCRIPT.search(target):

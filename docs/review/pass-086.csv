@@ -1,0 +1,180 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_endings:L1000,ending_neutral_coop_3,POLISH,"And last but not least, promise you will invite each other to your respective weddings if applicable.","最后,但并非最不重要的是, 保证你们会邀请对方参加 各自的婚礼,如果适用的话。",最后，还得答应彼此：谁要是结婚，一定邀请大家来。
+english_events_endings:L1001,ending_neutral_coop_3,FIX,"No, wait: you will ENSURE you will be each other's best man/maid of honor/distinguished guest! Fuck any previous meaningful relationships! THIS IS THE IMPORTANT ONE NOW!","不,等等,你们会成为 对方的伴郎/贵宾/贵宾! 去他妈的以前任何有意义的关系! 这是现在重要的一个!",不，等等：你们得确保，自己能当彼此的首席伴郎、首席伴娘，或者贵宾！以前那些重要关系，去他妈的！现在，这段才最重要！
+english_events_endings:L1002,ending_neutral_coop_3,FIX,And you are FORCED to give the best speech ever for each other.,你们是被开除的 为对方做有史以来最好的演讲。,而且，必须为彼此，献上史上最棒的致辞。
+english_events_endings:L1003,ending_neutral_coop_3,FIX,"It must be funny, intimate, emotive, and include at least seven references to this epic road trip (and three inside jokes indecipherable to anyone who wasn't here today).","它必须是搞笑的,亲密的,情感的,并且至少包括了7个关于这场史诗般的出行的参考(以及三个内部笑话,对于今天不在场的人来说都是不可解析的).",要好笑、要亲密、要感人，至少提七次这趟精彩的公路旅行，还得塞三个，只有今天在场的人才能听懂的小梗。
+english_events_endings:L1004,ending_neutral_coop_3,FIX,ULTIMATE FRIENDSHIP!,上当朋友!,终极友谊！
+english_events_endings:L1011,ending_neutral_coop_4,KEEP,"Yes, you did it!","对,你成功了!","对,你成功了!"
+english_events_endings:L1012,ending_neutral_coop_4,KEEP,And you did it TOGETHER.,你们一起完成的。,你们一起完成的。
+english_events_endings:L1013,ending_neutral_coop_4,POLISH,This was an achievement that could only be truly accomplished through extreme cooperation.,这是一项只有通过极端合作才能真正实现的成就。,这样的成就，只有靠极致合作，才能真正达成。
+english_events_endings:L1015,ending_neutral_coop_4,FIX,"Now, you must all double down on this and commit to live a life of extreme cooperation.","现在,你们必须重头并进,承诺过着极端合作的生活。",现在，你们得再接再厉，把极致合作，贯彻到整个人生。
+english_events_endings:L1016,ending_neutral_coop_4,POLISH,"From now on, you'll all do all your daily tasks cooperatively.","从现在开始,你们将合作地完成日常任务。",从今往后，所有日常任务，都得合作完成。
+english_events_endings:L1017,ending_neutral_coop_4,POLISH,Play all games in co-op mode. Even single player games: divide control of the game equally among all of you.,以合作模式玩出所有游戏 。 甚至单人玩家游戏:将游戏控制权在你们所有人中平等划分.,所有游戏，都开合作模式。单机游戏也一样：操作权平分，谁都有份。
+english_events_endings:L1018,ending_neutral_coop_4,POLISH,"Create a group chat. From now on, all life choices must be chosen democratically by the group.","创建分组聊天 。 从现在开始,所有的生活选择都必须由团体民主选择.",建个群聊。从此以后，人生所有决定，都得全员民主投票。
+english_events_endings:L1019,ending_neutral_coop_4,POLISH,Share all your clothing; mix and match!,"分享你所有的衣服, 混合和匹配!",衣服全都共享，随便混搭！
+english_events_endings:L1020,ending_neutral_coop_4,POLISH,"Eat breakfast cooperatively, feeding the other person eating while you're being fed by them in perfect sync.","合作地吃早餐, 给另一个人喂食, 同时你被他们完全同步地喂食。",合作吃早餐：你喂对方，对方喂你，动作完美同步。
+english_events_endings:L1021,ending_neutral_coop_4,FIX,Leave your individual selves behind... embrace the hive mind...,抛下你个人... 拥抱蜂巢的心灵...,抛开个人自我……拥抱蜂群意识……
+english_events_endings:L1022,ending_neutral_coop_4,FIX,This is you now. This is good.,现在轮到你了 这是很好的。,从此，你们就这样了。挺好。
+english_events_endings:L733,ending_failure_slime_1,FIX,"Hooray, you made it to %DESTINATION% without any major disasters!","万岁,你来了 %DESTINATION% 没有任何重大灾难!",好耶，一路没出什么大灾难，你终于到%DESTINATION%了！
+english_events_endings:L734,ending_failure_slime_1,KEEP,You step out of the car to take a breath of fresh air...,你下车呼吸新鲜空气...,你下车呼吸新鲜空气...
+english_events_endings:L735,ending_failure_slime_1,FIX,...and accidentally slip straight through a sewer grate.,意外地从下水道滑出,……一不留神，整个人从下水道格栅的缝里，滑了进去。
+english_events_endings:L737,ending_failure_slime_1,FIX,"This is why slimes should never walk around outside barefoot, %CURRENTPLAYERNAME%.","这就是为什么粘液 不应该走出去赤脚, %CURRENTPLAYERNAME%.",所以说，史莱姆真不该光着脚在外面走，%CURRENTPLAYERNAME%。
+english_events_endings:L738,ending_failure_slime_1,POLISH,"By the time the firemen finally rescue you, your friends have had their fun and are ready to go home.","当消防员们终于救你的时候,你的朋友们已经玩得很开心,准备回家去.",等消防员终于把你救上来，朋友们早就玩够了，正准备回家。
+english_events_endings:L739,ending_failure_slime_1,FIX,"You missed everything. Also, you smell like sewer. Not your finest work.","你错过了一切 而且,你闻起来像下水道。 不是你最出色的作品.",你什么都错过了，还一身下水道味。真不是你的高光时刻。
+english_events_endings:L746,ending_failure_slime_2,FIX,"You finally reached %DESTINATION%... or, at least, your friends did.","你终于到了 %DESTINATION%... 或者,至少,你的朋友会这样做。",你终于到了%DESTINATION%……或者说，至少朋友们到了。
+english_events_endings:L747,ending_failure_slime_2,FIX,"You, on the other hand, accidentally dropped your ultra-rare gold Dalulu keychain down a sewer grate!",而你却意外地把超稀有金子 达卢卢的钥匙链 掉进下水道的栅栏里了,而你，不小心把超稀有的金色达鲁鲁钥匙扣，掉进了下水道格栅！
+english_events_endings:L748,ending_failure_slime_2,FIX,"You obviously couldn't let that slide, so you told your friends to go on without you and you'd catch up later.","你显然不能让这个滑行, 所以你告诉你的朋友去 没有你,你会赶上以后。",那当然不能就这么算了。你让朋友们先走，自己过会儿再追上来。
+english_events_endings:L750,ending_failure_slime_2,POLISH,"It took forever to find your keychain, and it took even longer for you to climb out of the sewer.","它花了很长时间才找到你的钥匙链, 你爬出下水道的时间甚至更长。",你找钥匙扣，找了半天。等到要爬出下水道，花的时间还更长。
+english_events_endings:L751,ending_failure_slime_2,FIX,"By then, your friends had already left %DESTINATION% and looped back around to pick you up.",那时你朋友已经走了 %DESTINATION% 然后绕来绕去接你,那时候，朋友们早就离开%DESTINATION%，绕回来接你了。
+english_events_endings:L752,ending_failure_slime_2,POLISH,"At least you got your precious Dalulu back, and it only kinda smells like pee. Worth it...?",至少你把珍贵的达鲁鲁带回来了 只闻起来像尿尿 值得吗?,至少，你找回了珍贵的达鲁鲁，而且只带了一点尿味。值吗……？
+english_events_endings:L759,ending_failure_slime_3,FIX,"Yay, you made it to %DESTINATION%!","耶,你来了 %DESTINATION%!",好耶，你到%DESTINATION%了！
+english_events_endings:L760,ending_failure_slime_3,FIX,"You're walking at the back of the pack, watching your friends and thinking about how lucky you are to be in their lives...","你走在包的后边, 看着你的朋友, 想着你是多么幸运 在他们的生活...",你走在队伍最后，看着朋友们，想着能成为他们生命里的一部分，自己有多幸运……
+english_events_endings:L761,ending_failure_slime_3,KEEP,Then a crazy sewer clown grabs your ankle!,然后一个疯狂的下水道小丑抓住你的脚踝!,然后一个疯狂的下水道小丑抓住你的脚踝!
+english_events_endings:L763,ending_failure_slime_3,POLISH,"He drags you into the depths, saying ""MMMM, JELLO"" as you scream for help.","他把你拖入深渊,说""MMM,JELLO"" 当你尖叫求救。",他一边把你往深处拖，一边念叨：“嗯——果冻。”你则拼命尖叫求救。
+english_events_endings:L764,ending_failure_slime_3,POLISH,"It's hours before your friends realize you're gone, which is the final blow to your already-battered ego.",几小时后你朋友才意识到你走了 这是对你本已受苦受难的自我的最后一击,过了好几个小时，朋友们才发现你不见了。你本就备受打击的自尊，又挨上了最后一刀。
+english_events_endings:L765,ending_failure_slime_3,POLISH,"You didn't have ""fighting off a sewer clown who wants to eat your toes"" on your road trip bingo card... and you wish you still didn't.","你没有""与一个想吃你的脚趾的下水道小丑搏斗"" 在你的出行宾果卡上... 而你希望你还是没有。",“跟一个想吃你脚趾的下水道小丑搏斗”，原本可不在你的旅行宾果卡上……你真希望，现在也不在。
+english_events_endings:L771,ending_neutral_1,KEEP,"Yes, you finally reached %DESTINATION%.","是的,你终于到了 %DESTINATION%.","是的,你终于到了 %DESTINATION%."
+english_events_endings:L772,ending_neutral_1,KEEP,It's nice to see your whole road trip come to fruition.,很高兴看到你的整趟出行圆满成功,很高兴看到你的整趟出行圆满成功
+english_events_endings:L774,ending_neutral_1,POLISH,"Before you get there, you take a moment to breathe and think of all the wonderful memories you and your friends have created together.","在你到达那里之前,你花点时间呼吸,想一想你和你的朋友们一起创造出的所有美好的回忆.",快到的时候，你稍稍停下来喘口气，想起这一路，和朋友共同留下的美好回忆。
+english_events_endings:L775,ending_neutral_1,FIX,"So many misadventures, new friends, and shenanigans of all kinds!","这么多的意外, 新朋友, 和各种花花公子!",那么多倒霉又荒唐的冒险，新朋友，还有各种各样的胡闹！
+english_events_endings:L776,ending_neutral_1,FIX,This trip was a cocktail of emotions.,这次旅行是一场情感的鸡尾酒会.,这趟旅行，就像一杯混合了各种情绪的鸡尾酒。
+english_events_endings:L777,ending_neutral_1,POLISH,"And you, for one, have really enjoyed getting to drink it to the last drop!","而你,作为一个, 真的很享受 喝到最后一滴!",而你，确实享受着它，一直喝到了最后一滴！
+english_events_endings:L783,ending_neutral_2,FIX,"After so much road-tripping, here you are: %DESTINATION%!","经过这么多的路费,你在这里: %DESTINATION%!",跑了这么久，你终于来了：%DESTINATION%！
+english_events_endings:L784,ending_neutral_2,POLISH,For a hot second you thought you would never arrive.,"热的一秒钟,你以为 你永远不会到达。",有那么一瞬，你还以为，永远都到不了了。
+english_events_endings:L785,ending_neutral_2,FIX,You're so hyped to be here!,你在这里太赞了!,能来这儿，你激动得不行！
+english_events_endings:L786,ending_neutral_2,KEEP,...and yet...,...然而却... ...,...然而却... ...
+english_events_endings:L788,ending_neutral_2,FIX,...although you're sure you'll enjoy %DESTINATION% a lot...,...虽然你确定你会享受 %DESTINATION% 很多东西...,……你很确定，在%DESTINATION%肯定会玩得超开心……
+english_events_endings:L789,ending_neutral_2,FIX,"...you realize what they say is true, as corny as it sounds:","...你知道他们说的话是真实的, 听起来很粗鲁:",……可你也发现，那句话虽然老土，却是真的：
+english_events_endings:L790,ending_neutral_2,POLISH,"It's not about the destination, it's the journey.","这与目的地无关,而是旅程.",重要的不是目的地，而是沿途的旅程。
+english_events_endings:L791,ending_neutral_2,FIX,"Whatever cheesy bastard said that, they were hella right.",不管俗气的混蛋说什么 他们都说对了,也不知道是哪个俗气混蛋说的，可他妈的，真说对了。
+english_events_endings:L792,ending_neutral_2,POLISH,What a road trip!,路途真远!,多棒的一趟公路旅行！
+english_events_endings:L798,ending_neutral_3,FIX,"%DESTINATION%, here we go!",%DESTINATION%开始了!,%DESTINATION%，我们来啦！
+english_events_endings:L799,ending_neutral_3,FIX,"As you and your friends run excitedly to the entrance, you look back at Polly and Scott.","当你和你的朋友们兴奋地跑去入口时, 你回头看 波莉 财务报告和审定财务报表 斯科特.",你和朋友们兴奋地冲向入口，又回头看看波莉和斯科特。
+english_events_endings:L800,ending_neutral_3,POLISH,How lucky are you that these two thought of you when planning this road trip?,"这两位在计划这次出行时想到了你们,你有多幸运?",这两个人，计划公路旅行的时候，会想到叫上你。你得有多幸运啊？
+english_events_endings:L801,ending_neutral_3,KEEP,You think of all the fantastic adventures you've had together...,想想你们一起经历的奇妙历险...,想想你们一起经历的奇妙历险...
+english_events_endings:L802,ending_neutral_3,POLISH,...the new friends you made; the unforgettable moments you experienced...,"...你交到的新朋友,你经历的难忘的时刻...",……交到的新朋友，经历过的难忘时刻……
+english_events_endings:L803,ending_neutral_3,FIX,...and it's all thanks to a single text asking you to join them!,...这都是因为有一条短信 要求你加入他们!,……而这一切，都始于一条邀请你同行的短信！
+english_events_endings:L805,ending_neutral_3,FIX,"It's nice to think that when they were envisioning such an epic journey, Polly and Scott thought you would be a key element of it.","很高兴想到当他们 设想这样一个史诗般的旅程, 波莉 财务报告和审定财务报表 斯科特 以为你会成为其中的关键元素",一想到波莉和斯科特，在设想这趟精彩旅程时，觉得其中少不了你，心里就暖暖的。
+english_events_endings:L806,ending_neutral_3,FIX,There's a sweetness in realizing your friends think of you and want you to be part of their most memorable moments.,"让你朋友想起你,希望你 成为他们最难忘的时刻的一部分。",原来，朋友们会惦记你，希望最难忘的时刻里，也有你在。这种感觉，真甜。
+english_events_endings:L807,ending_neutral_3,FIX,"Ahh, life is good!","啊,生活是不错的!",啊，活着真好！
+english_events_endings:L813,ending_neutral_4,FIX,So much hassle finally paid off! You got to %DESTINATION%!,这么多的麻烦终于得到回报了! 你必须 %DESTINATION%!,折腾了这么久，总算值了！你到%DESTINATION%了！
+english_events_endings:L814,ending_neutral_4,FIX,"This has been thrilling, enriching, and dare I say... life-changing?","这一直令人兴奋,丰富, 我敢说... 改变生活?",这一路，有刺激、有收获，我甚至敢说……改变了你的人生？
+english_events_endings:L816,ending_neutral_4,POLISH,"You feel like you're a different person, in a way.","你觉得自己是个不同的人,在某种程度上。",某种意义上，你觉得自己，已经跟以前不一样了。
+english_events_endings:L817,ending_neutral_4,FIX,"Yes, you're at %DESTINATION%, but now you realize the road trip isn't really its destination...","是的,你现在 %DESTINATION%但是现在你意识到 公路旅行并不是它的目的...",没错，你到了%DESTINATION%。可现在你发现，公路旅行真正重要的，不是目的地……
+english_events_endings:L818,ending_neutral_4,FIX,"...dang, the road trip isn't even really the journey!","..当,道路旅行甚至不是真正的旅程!",……嚯，甚至连旅程本身都不是！
+english_events_endings:L819,ending_neutral_4,FIX,"No, no...","没有,没有...",不，不……
+english_events_endings:L820,ending_neutral_4,FIX,You finally see that...,你终于看到...,你终于明白了……
+english_events_endings:L821,ending_neutral_4,FIX,...the road trip is the friends we made along the way.,...路途之旅就是我们一路相遇的朋友,……公路旅行，就是我们沿途交到的朋友。
+english_events_endings:L822,ending_neutral_4,POLISH,"Does that make sense? No? Who cares, anyway?",这有道理吗? 没有吗? 谁在乎呢?,这说得通吗？不通？管它呢？
+english_events_endings:L829,ending_neutral_5,FIX,"As you get ready to enter %DESTINATION%, you see your friends, laughing in excitement.","当你准备好进入时 %DESTINATION%你看到你的朋友, 欢笑的兴奋。",你准备走进%DESTINATION%，看见朋友们兴奋地笑着。
+english_events_endings:L830,ending_neutral_5,FIX,"Look at Polly and Scott, always full of excitement and joy.","你看,看,看,看,看,看,看,看,看 波莉 财务报告和审定财务报表 斯科特总是充满了兴奋和喜悦",看看波莉和斯科特，永远那么兴奋，那么快乐。
+english_events_endings:L831,ending_neutral_5,FIX,"Sure, they're reckless, chaotic, and may or may have not caused the end of the world more than once...","当然,他们是鲁莽的,混乱的, 并且可能或可能没有 造成世界末日不止一次...",他们确实鲁莽、爱添乱，甚至可能，也可能没有，不止一次引发过世界末日……
+english_events_endings:L832,ending_neutral_5,POLISH,But they have this overwhelming positive energy that's so easy to like.,但他们有如此强大的正能量 很容易被喜欢。,可那股扑面而来的积极劲儿，实在让人很难不喜欢。
+english_events_endings:L833,ending_neutral_5,FIX,"Over the course of this trip, you've gotten to know them better, and it's nice to see them smile at every challenge life throws at them.","在整个旅程中,你得到了更好的了解他们, 看到他们笑着面对每一个挑战的生活向他们扔出。",这趟旅行，让你更了解他们了。不管生活丢来什么挑战，他们总能笑着面对，看着就觉得好。
+english_events_endings:L835,ending_neutral_5,FIX,"Maybe you can do that for a change, too...","也许你也可以做一个改变,太...",说不定，你偶尔也能试着这样……
+english_events_endings:L836,ending_neutral_5,FIX,"You could stop always taking everything so seriously and just laugh when things go wrong, as life will just continue.","你可以停止每件事物都这么认真, 和只是笑当事情出错, 因为生活会继续。",别总把所有事看得那么严肃。出了岔子，就笑一笑，反正日子还会继续。
+english_events_endings:L837,ending_neutral_5,FIX,"This way you're in on the big, incomprehensible joke that life is... a twisted funny thing that should bring us all a bit more joy, a bit more laughter.","这样,你进入一个大, 无法理解的笑话 生活是... 一个扭曲的滑稽的东西,应该带给我们 更多的欢乐, 更多的笑声。",这样，你也能领会人生这个巨大又莫名其妙的笑话……它扭曲又好笑，本来就该让我们多开心一点，多笑几声。
+english_events_endings:L844,ending_neutral_6,KEEP,Finally! %DESTINATION%!,终于来了!  %DESTINATION%!,终于来了!  %DESTINATION%!
+english_events_endings:L845,ending_neutral_6,KEEP,This is so important to you... it's hard to explain.,这对你很重要... 这很难解释。,这对你很重要... 这很难解释。
+english_events_endings:L846,ending_neutral_6,FIX,"Well, actually it's not. You see:","其实不是 你瞧,你应该知道,",不，其实挺好解释的。事情是这样：
+english_events_endings:L847,ending_neutral_6,FIX,"You've been holding in gas for the last three stops, since you didn't want to fart in front of your friends.",因为你不想在朋友面前放屁,前面三站，你一直在憋屁，因为不想在朋友面前放出来。
+english_events_endings:L848,ending_neutral_6,KEEP,"Hey, it's only normal!","嘿,这很正常!","嘿,这很正常!"
+english_events_endings:L849,ending_neutral_6,FIX,"But now you're here, and you can see your friends heading to %DESTINATION%...","但现在你在这里, 你可以看到你的朋友去 %DESTINATION%...",可现在终于到了，朋友们已经朝%DESTINATION%走去……
+english_events_endings:L850,ending_neutral_6,POLISH,They're so happy... and you will join them in a minute.,他们很快乐... 你马上就会加入他们。,他们很高兴……你也马上就会跟上。
+english_events_endings:L852,ending_neutral_6,FIX,But first you fart.,但首先你放屁。,可在那之前，你先放了个屁。
+english_events_endings:L853,ending_neutral_6,FIX,It's one of the most releasing things you will ever experience.,这是你所经历的最自由的东西之一。,这可能是你这辈子，最畅快的一次释放。
+english_events_endings:L854,ending_neutral_6,POLISH,Sometimes it's the little things that matter.,有时是小事重要.,有时候，重要的就是这些小事。
+english_events_endings:L855,ending_neutral_6,POLISH,You're also incredibly proud of yourself for holding it for this long. It shows much constraint and discipline.,你也为自己坚持了这么久而感到骄傲 它显示出许多约束和纪律。,能憋这么久，你也特别骄傲。这充分体现了你的克制和自律。
+english_events_endings:L856,ending_neutral_6,POLISH,You've truly grown up during this trip. You're now a different person.,这趟旅行你真的长大了 你现在是一个不同的人。,这趟旅行，真的让你成长了。现在，你已经不一样了。
+english_events_endings:L857,ending_neutral_6,FIX,A person with less gas.,气少之人.,变成了一个，肚子里少点气的人。
+english_events_endings:L863,ending_neutral_7,FIX,You're so happy to reach %DESTINATION%!,蔼砍 %DESTINATION%!,到%DESTINATION%了，你开心得不得了！
+english_events_endings:L864,ending_neutral_7,FIX,You realize this adventure has been much easier to enjoy.,你知道这次冒险比较容易享受,你发现，这次冒险，要玩得开心，轻松多了。
+english_events_endings:L865,ending_neutral_7,KEEP,School and summer camp were great... but there was so much pressure.,学校和夏令营都很棒... 但压力太大了,学校和夏令营都很棒... 但压力太大了
+english_events_endings:L866,ending_neutral_7,FIX,Would you get a date to prom? A date for the meteor shower? Always with the stressful countdown!,你能去参加舞会吗? 流星雨的约会? 总是在压力下倒计时!,能约到舞伴吗？流星雨那晚，有人约会吗？永远都有个让人紧张的倒计时！
+english_events_endings:L867,ending_neutral_7,FIX,"But here? Here, fuck all that!","但这里? 在这里,他妈的这一切!",可在这儿？去他妈的这些破事！
+english_events_endings:L869,ending_neutral_7,KEEP,It's just you and the road.,只有你和那条路,只有你和那条路
+english_events_endings:L870,ending_neutral_7,POLISH,You living adventures while kissing the sweet asphalt.,你一边去冒险一边去亲亲甜的沥青,你亲吻着那美妙的柏油路，一路冒险。
+english_events_endings:L871,ending_neutral_7,KEEP,"Ah, yes... the sexy, sexy road...","啊,对了... 性感又性感的马路...","啊,对了... 性感又性感的马路..."
+english_events_endings:L872,ending_neutral_7,POLISH,...you wonder if the road would agree to a date...,...你不知道这条路会不会同意约会...,……也不知道，这条路愿不愿意跟你约会……
+english_events_endings:L873,ending_neutral_7,POLISH,"...no! Wait! Ah, you're scarred for life... you need to stop trying to date everything...","...没有! 单单! 啊,你伤了一辈子... 你要停止尝试 约会的一切...",……不！等等！啊，过去的经历，都给你留下一辈子的阴影了……你得改改，别看见什么都想约会……
+english_events_endings:L874,ending_neutral_7,POLISH,"It will take time, but you'll get there.","它需要时间,但你会到达那里。",需要一点时间，可你会做到的。
+english_events_endings:L875,ending_neutral_7,POLISH,And this feels like a great start!,这感觉就像一个伟大的开始!,而这，就是个很好的开始！
+english_events_endings:L881,ending_neutral_8,KEEP,"%DESTINATION%, at last!",%DESTINATION%终于来了!,%DESTINATION%终于来了!
+english_events_endings:L882,ending_neutral_8,POLISH,For a moment you were sure you wouldn't make it.,"有那么一瞬间,你肯定不会成功的。",有那么一瞬，你还以为，自己没法活着到这儿。
+english_events_endings:L883,ending_neutral_8,KEEP,This has been a true feat of survival!,这真是生存的壮举!,这真是生存的壮举!
+english_events_endings:L884,ending_neutral_8,FIX,You almost ran out of %LOWRESOURCE%...,你差点没钱了 %LOWRESOURCE%...,你的%LOWRESOURCE%，差点就用光了……
+english_events_endings:L885,ending_neutral_8,FIX,...you survived a coyote attack...,你从狼人的攻击中活了下来...,……你从郊狼的攻击下，活了下来……
+english_events_endings:L886,ending_neutral_8,KEEP,...you ate a rock...,...你吃了一块石头...,...你吃了一块石头...
+english_events_endings:L888,ending_neutral_8,POLISH,"And yet, here you are!","然而,你在这里!",可最后，你还是到了！
+english_events_endings:L889,ending_neutral_8,POLISH,A more experienced version of yourself.,一个更有经验的版本你自己。,成为了更有经验的自己。
+english_events_endings:L890,ending_neutral_8,KEEP,"You're stronger, you're wiser, you're sexier!","你更坚强,你更聪明,你更性感!","你更坚强,你更聪明,你更性感!"
+english_events_endings:L891,ending_neutral_8,FIX,You can feel it in your blood.,以出出血能觉.,你能感觉到，血液里都有这股变化。
+english_events_endings:L892,ending_neutral_8,POLISH,(Although it might just be the rock you ate.),(虽然它可能只是岩石 你吃了。 ),（也可能，只是你吃的那块石头。）
+english_events_endings:L893,ending_neutral_8,FIX,Welcome to the new %CURRENTPLAYERNAME%! A new era begins!,欢迎光临新天地 %CURRENTPLAYERNAME%! 新时代开始了!,欢迎全新的%CURRENTPLAYERNAME%！一个新时代，开始了！
+english_events_endings:L899,ending_neutral_9,KEEP,Whoa! You're really here!,呜呼! 你真的在这里!,呜呼! 你真的在这里!
+english_events_endings:L900,ending_neutral_9,POLISH,You take a moment to reflect on all the wacky misadventures that have brought you here...,你花点时间思考一下 把你带到这里的所有疯狂的意外事件...,你稍稍停下来，回想那些把你带到这里的，荒唐又倒霉的冒险……
+english_events_endings:L902,ending_neutral_9,FIX,There's that time you almost lost your nose while stopping at the %LASTLOCATION%...,有一次你差点失去你的鼻子 在停下来的时候 %LASTLOCATION%...,在%LASTLOCATION%停留的时候，你差点把鼻子弄没了……
+english_events_endings:L903,ending_neutral_9,FIX,And that other time when you managed to fit A WHOLE LOT of pistachios in your mouth!,而另一时间 当你设法把 一大堆活塞 在你的嘴里!,还有一次，你居然往嘴里，塞进了一大堆开心果！
+english_events_endings:L904,ending_neutral_9,POLISH,"A truly impressive feat, especially considering your acute nut allergy.",一个令人印象深刻的壮举 尤其是考虑到你的坚果过敏症,考虑到你对坚果严重过敏，这确实是个了不起的壮举。
+english_events_endings:L905,ending_neutral_9,FIX,"There was also that time you went the whole day without wearing pants, because fuck pants.",还有一次你整天没穿裤子就走了 因为他妈的裤子,还有一回，你整整一天都没穿裤子，因为去他妈的裤子。
+english_events_endings:L906,ending_neutral_9,FIX,"Ah, yes... this has been a truly formative and life-changing experience.","啊,对了... 这是一个真正的成形和改变生命的经历。",啊，没错……这确实是段让人成长、改变人生的经历。
+english_events_endings:L907,ending_neutral_9,POLISH,You look back on all those important moments... they may stay with you for the rest of your life.,你回头看那些重要的时刻... 他们可能会和你在一起的余生。,你回望那些重要时刻……它们也许会陪你一辈子。
+english_events_endings:L908,ending_neutral_9,POLISH,"And in doing so, this road trip will last forever.","在这样做的时候,这次出行将永远地持续.",这样一来，这趟公路旅行，也就永远不会结束。
+english_events_endings:L914,ending_neutral_10,KEEP,"Ah, what a road trip!","啊,这趟路真不赖!","啊,这趟路真不赖!"
+english_events_endings:L915,ending_neutral_10,FIX,It has been profoundly enriching.,它非常丰富。,它让你受益匪浅。
+english_events_endings:L916,ending_neutral_10,POLISH,"You've learned a lot of lessons that have turned you into a different, better person.","你学到了很多教训, 把你变成一个不同的,更好的人。",你学到了那么多，让自己变成了一个更好、也不同于从前的人。
+english_events_endings:L917,ending_neutral_10,POLISH,You take a minute to look back and remember all those important lessons...,你花点时间回想一下 记住所有这些重要的教训...,你稍稍停下来，回味那些重要的人生道理……
+english_events_endings:L919,ending_neutral_10,POLISH,"Even in your lowest moments, you must remember: life just goes on.","即使在你最卑微的时刻,你也必须记住:生活只是继续.",再低落的时候，也要记得：生活还会继续。
+english_events_endings:L920,ending_neutral_10,FIX,Never eat a rock. Like... why did you that in the first place?,永不吃石头. 喜欢... 你一开始为什么这么做?,永远别吃石头。不是……你当时到底怎么想的？
+english_events_endings:L921,ending_neutral_10,FIX,Sometimes the solution to your problems was a taxi license all along!,有时候你的问题的解决方式 是出租车牌照一直!,有时候，解决问题的关键，其实一直都是一张出租车执照！
+english_events_endings:L922,ending_neutral_10,FIX,Horsies sometimes hide more than meets the eye.,霍斯有时会藏得比目所见还多.,小马有时候，可不像表面看起来那么简单。
+english_events_endings:L923,ending_neutral_10,FIX,A good skin care routine is VERY IMPORTANT.,一个很好的皮肤护理常规 非常重要。,好好护肤，非常重要。
+english_events_endings:L924,ending_neutral_10,FIX,"Saturn is, despite what you might have thought, a planet.","土星是,尽管你可能认为, 是一个星球。",不管你以前怎么想，土星，确实是一颗行星。
+english_events_endings:L925,ending_neutral_10,POLISH,It's important to know when to stop listing things.,要知道什么时候才能停止列举,知道什么时候该停止列举，也很重要。
+english_events_endings:L931,ending_neutral_11,FIX,"While your friends head towards %DESTINATION%, you hang back by the car for a bit.",你的朋友们朝我走来 %DESTINATION%你在车边挂了一会儿,朋友们走向%DESTINATION%，你却先留在车边，待了一会儿。
+english_events_endings:L932,ending_neutral_11,POLISH,"Ah, this car, this precious car! The true MVP of this road trip, despite what anyone else might say.","啊,这辆车,这辆珍贵的车! 这次出行的真正MVP,不顾其他人可能说的话.",啊，这辆车，这辆宝贝车！甭管别人怎么说，它才是这趟旅行真正的MVP。
+english_events_endings:L933,ending_neutral_11,POLISH,You pat your trusty metal steed in a gesture of deep appreciation.,你拍了你的可信赖的金属马 以深为赞赏的姿态。,你拍拍这位可靠的金属坐骑，表达满心谢意。
+english_events_endings:L935,ending_neutral_11,POLISH,"It's guided you through the long, inhospitable roads.",它指引你穿过了漫长而荒凉的道路.,是它，带你走过漫长又荒凉的道路。
+english_events_endings:L936,ending_neutral_11,POLISH,It's been with you during the many times you almost died.,在你差点死掉的很多次里 一直和你在一起,你那么多次差点没命，它都陪在身边。
+english_events_endings:L937,ending_neutral_11,KEEP,The car would never betray you. The car is reliable and durable and solid.,这辆车绝不会背叛你 车体可靠而耐用并坚固.,这辆车绝不会背叛你 车体可靠而耐用并坚固.
+english_events_endings:L938,ending_neutral_11,FIX,You get close to one of its many tubes and whisper:,你接近它的许多管子之一 然后悄悄地说:,你凑近它其中一根管子，轻声说：
+english_events_endings:L939,ending_neutral_11,KEEP,"""Thank you, Car.""","""谢谢你,汽车。""","""谢谢你,汽车。"""
+english_events_endings:L940,ending_neutral_11,KEEP,...,...,...
+english_events_endings:L941,ending_neutral_11,KEEP,...,...,...
+english_events_endings:L942,ending_neutral_11,FIX,"""You're welcome, %CURRENTPLAYERNAME%.""","""欢迎你,%CURRENTPLAYERNAME%"".",“不客气，%CURRENTPLAYERNAME%。”
+english_events_endings:L943,ending_neutral_11,KEEP,...,...,...
+english_events_endings:L944,ending_neutral_11,KEEP,...What?,什麽?,什麽?
+english_events_endings:L951,ending_neutral_coop_1,KEEP,"Yes, you did it!","对,你成功了!","对,你成功了!"
+english_events_endings:L952,ending_neutral_coop_1,FIX,"Not only that, you did it in true, full-balanced co-op!","不仅如此,你这样做是真实的, 完全平衡的合作!",而且，这是场真正贡献均衡的合作胜利！
+english_events_endings:L953,ending_neutral_coop_1,KEEP,"So nice, so fair...","这么好,那么公平...","这么好,那么公平..."
+english_events_endings:L955,ending_neutral_coop_1,KEEP,This fills you with joy.,这让你充满了欢乐。,这让你充满了欢乐。
+english_events_endings:L956,ending_neutral_coop_1,FIX,"But to be completely fair, it fills you with the exact same amount of joy as your friends'.","但是,完全公平, 它给你充斥着 与你的朋友同样多的快乐。",不过，为了绝对公平，这份快乐，跟朋友们得到的，得一模一样多。
+english_events_endings:L957,ending_neutral_coop_1,KEEP,"Not a drop more, not a drop less.","不多一滴,不少一滴.","不多一滴,不少一滴."
+english_events_endings:L958,ending_neutral_coop_1,POLISH,Your sense of accomplishment is in full balance with that of all the other people responsible for this victory.,你的成就感与为这场胜利负责的所有其他人的成就感是完全平衡的.,你的成就感，也和其他所有共同赢下这场胜利的人，分毫不差。
+english_events_endings:L959,ending_neutral_coop_1,FIX,"You're so perfectly balanced and in sync that after doing this, the only logical next step is to start a dance troupe together.","你是如此的完全平衡 并同步, 完成这个之后, 唯一合乎逻辑的下一步 是启动一个舞蹈团一起。",你们配合得如此均衡、如此同步，下一步唯一合乎逻辑的事，就是一起成立舞团。
+english_events_endings:L960,ending_neutral_coop_1,FIX,This way you can keep milking how in sync you all are.,这样你们才能保持同步,这样，就能继续靠这份默契，发挥余热。
+english_events_endings:L961,ending_neutral_coop_1,REVIEW,"Yes, you will do that! And the troupe's name will be ""The Kitchen Sync""!","是的,你会做到这一点! 而剧团名将""厨房同步""出炉!.",对，就这么办！舞团就叫“厨房同步团”（The Kitchen Sync）！
+english_events_endings:L962,ending_neutral_coop_1,FIX,Celebrate this by rehearsing your first dance number. Go!,排练你的第一个舞蹈号码来庆祝这个 快点!,排练第一支舞，庆祝一下吧。动起来！
+english_events_endings:L969,ending_neutral_coop_2,KEEP,"Yes, you did it!","对,你成功了!","对,你成功了!"
+english_events_endings:L970,ending_neutral_coop_2,FIX,This is the epitome of teamwork!,这是团队合作的缩写!,这就是团队合作的典范！
+english_events_endings:L971,ending_neutral_coop_2,POLISH,"Look at all of you, each of you essential to the victory of this wacky adventure!","看看你们每个人,你们每一个人 都对这场疯狂冒险的胜利至关重要!",看看你们，少了谁，这场荒唐的冒险，都赢不下来！
+english_events_endings:L973,ending_neutral_coop_2,KEEP,A toast to the greatest team ever!,为有史以来最伟大的团队干杯!,为有史以来最伟大的团队干杯!
+english_events_endings:L974,ending_neutral_coop_2,KEEP,...,...,...
+english_events_endings:L975,ending_neutral_coop_2,POLISH,...Wait. You need a team name!,. . . 等会. 你需要一个团队的名字!,……等等。你们得有个队名！
+english_events_endings:L976,ending_neutral_coop_2,FIX,"We asked you for your individual names, but who cares about your individual names?","我们问你个人的名字, 但谁在乎你的个人名字?",我们问了你们每个人的名字，可谁还在乎个人名字啊？
+english_events_endings:L977,ending_neutral_coop_2,FIX,"You didn't beat this as individuals, but AS A TEAM!","你没有像个人一样打败它,而是像一个团队一样!",赢下来的，可不是各自为战的你，而是整支队伍！
+english_events_endings:L978,ending_neutral_coop_2,REVIEW,"C'mon, come with your road trip team name. Not to confuse with your dance troupe name (""The Kitchen's Sync"").","来 带上你的公路旅行队的名字 不要与你的舞蹈剧团名称相混淆(""厨房的同步"").",来，给这趟公路旅行的小队起个名。别跟舞团名字“厨房同步团”（The Kitchen's Sync）搞混了。
+english_events_endings:L979,ending_neutral_coop_2,FIX,"It needs to be clever, sharp, awesome... probably a pun of sorts...","它需要聪明,锋利,真棒... 可能是一种双关语...",要机灵、要犀利、要酷……大概还得来点双关……
+english_events_endings:L980,ending_neutral_coop_2,KEEP,...,...,...
+english_events_endings:L981,ending_neutral_coop_2,FIX,(Five minute pause to brainstorm the road trip team name...),(5分钟暂停 脑震荡 道路出行团队名称... ),（暂停五分钟，想想公路旅行小队的名字……）
+english_events_endings:L982,ending_neutral_coop_2,POLISH,You got it? Perfect!,明白了吗? 完美无缺!,想到了？完美！
+english_events_endings:L983,ending_neutral_coop_2,FIX,"And remember: if you leave a good review (they help a lot), include your team's name and compare it to other players'.","并记住:如果你留下一个很好的回顾(他们帮了大忙),就包括你队的名字并与其他球员进行比较"".",记住，如果你们愿意留个好评，那真的帮大忙，把队名也写进去，跟其他玩家比比！
+english_events_endings:L984,ending_neutral_coop_2,FIX,"Now, again: A TOAST TO THE GREATEST TEAM EVER: (chant your team's name out loud)!","现在,再次:一个TOAST到最伟大的团队ever:(大声喊出你的团队的名字)!",现在，再来一次：敬史上最棒的队伍——大声喊出你们的队名！
+english_events_endings:L991,ending_neutral_coop_3,KEEP,"Yes, you did it!","对,你成功了!","对,你成功了!"
+english_events_endings:L992,ending_neutral_coop_3,POLISH,And what's more important: you did it together.,"更重要的是,你们一起做的。",而更重要的是，你们是一起做到的。
+english_events_endings:L993,ending_neutral_coop_3,POLISH,This has been the ultimate feat of friendship and teamwork.,这是友谊和团队精神的终极成就。,这就是友谊与团队合作的终极壮举。
+english_events_endings:L994,ending_neutral_coop_3,POLISH,"And as such, your friendship has officially ascended to the next level.","因此,你的友谊正式升入下一个层次。",因此，你们的友谊，正式升入了下一个等级。
+english_events_endings:L996,ending_neutral_coop_3,FIX,"Yeah, you heard me right: now your friendship is next level, so you must do the following things:","是的,你听到我说的了,现在你的友谊是下一个层次,所以你必须做以下的事情:",对，没听错。友谊升级了，所以下面这些事，你们必须做到：
+english_events_endings:L997,ending_neutral_coop_3,POLISH,Come up with a very secret handshake only for the people present today.,拿出一个非常秘密的握手 只为今天在场的人们。,想一套秘密握手动作，只有今天在场的人才会。
+english_events_endings:L998,ending_neutral_coop_3,POLISH,Buy something cheap and silly for all of you to keep as adorable mementos of this day.,买些便宜又蠢的东西 让你们都当做今天可爱的纪念品,买点便宜又傻气的小玩意儿，每人留一份，当作今天可爱的纪念品。
+english_events_endings:L999,ending_neutral_coop_3,FIX,"If you write a review for this game (they help a lot), include an ode to all the ways in which the other players were awesome and essential to the victory.","如果你为这款游戏写了一篇评论(他们帮了大忙),就包括一个代码来描述其他玩家出色,对胜利至关重要的方方面面.",如果你为这游戏写评论，那真的帮大忙，记得好好歌颂其他玩家：他们有多棒，对胜利有多不可或缺。

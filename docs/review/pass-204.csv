@@ -1,0 +1,139 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_maingame:L22407,tarottournament_stage3,POLISH,None of this matters anyway! Everything will be decided in the main phase: THE FORTUNE PHASE!,这一切都不重要! 将决定一切 主阶段:福特恩PHASE!,那些都不重要！真正决定胜负的主阶段，才刚要开始：占卜阶段！
+english_events_maingame:L22409,tarottournament_stage3,POLISH,Impossible! The Fortune Phase?!,绝对不可能! 福建阶段?,不可能！占卜阶段？！
+english_events_maingame:L22410,tarottournament_stage3,FIX,"(What's The Fortune Phase, Polly?)","(什么是财富阶段, 波莉?)",（波莉，占卜阶段是什么？）
+english_events_maingame:L22411,tarottournament_stage3,POLISH,No idea; but I'm pretty sure she'll explain now.,不知道 但我敢肯定她现在会解释的,不知道，不过她马上就会解释了。
+english_events_maingame:L22413,tarottournament_stage3,FIX,"In The Fortune Phase, you try to finish your opponent by arranging your cards into a successful tarot reading of your opponent.","在""财富""阶段,你试图通过将牌排列成对对手成功的塔罗读取来完成对手.",占卜阶段，要把手里的牌组成一次成功的塔罗占卜，解读对手，从而终结比赛。
+english_events_maingame:L22414,tarottournament_stage3,FIX,"You read their future, and you read them to filth!","你读他们的未来, 你读他们污秽!",既要看透对方的未来，也要把对方损到体无完肤！
+english_events_maingame:L22415,tarottournament_stage3,FIX,THIS IS COMPETITIVE TAROT AFTER ALL!,这是竞争的 塔罗特所有之后!,毕竟，这可是竞技塔罗！
+english_events_maingame:L22417,tarottournament_stage3,POLISH,"Okay, finally! All this time, I've been wondering why this game even has the word ""tarot"" in it.","好了,终于来了! 一直以来,我一直在想 为什么这个游戏里还有""tarot""这个词",行，终于来了！我还一直纳闷，这游戏名字里为什么有“塔罗”两个字呢。
+english_events_maingame:L22419,tarottournament_stage3,POLISH,"Be ready, %CURRENTPLAYERNAME%, because I've seen the future, and it doesn't look good for you...",准备好 %CURRENTPLAYERNAME%因为我已经看到了未来 对你来说也不好...,准备好，%CURRENTPLAYERNAME%。我已经看到了未来，而你的前景……不太妙。
+english_events_maingame:L22422,tarottournament_stage3,POLISH,First... The Enlightenment!,首先... 启蒙!,首先……启悟！
+english_events_maingame:L22423,tarottournament_stage3,REVIEW,It predicts %CURRENTPLAYERNAME% realizing and coming to terms with the fact that %HESHE% barely %VERB_KNOWS_KNOW% how to play this game!,它预言 %CURRENTPLAYERNAME% 实现并接受以下事实: %HESHE% 勉强 %VERB_KNOWS_KNOW% 如何玩这个游戏!,它预示着，%CURRENTPLAYERNAME%终于看清并接受了现实：%HESHE%几乎不%VERB_KNOWS_KNOW%这游戏该怎么玩！
+english_events_maingame:L22425,tarottournament_stage3,FIX,"Incredible, that's 100% true!","难以置信,这是100%的真理!",太神了，100%准确！
+english_events_maingame:L22428,tarottournament_stage3,FIX,Second... The Hole!,第二个... 洞门! 洞门! 洞门!,第二张……洞！
+english_events_maingame:L22429,tarottournament_stage3,REVIEW,It represents the fact that %CURRENTPLAYERNAME% is riddled with so much embarrassment that %HESHE% %VERB_WANTS_WANT% to dig a hole and bury %HIMSELFHERSELF% in it!,"这代表了这样一个事实: %CURRENTPLAYERNAME% 充满了这么多的尴尬,以至于 %HESHE%  %VERB_WANTS_WANT% 挖个洞埋起来 %HIMSELFHERSELF% 进去吧!",它代表，%CURRENTPLAYERNAME%已经尴尬得受不了，%HESHE% %VERB_WANTS_WANT%挖个洞，把%HIMSELFHERSELF%埋进去！
+english_events_maingame:L22430,tarottournament_stage3,POLISH,"And finally, the card with which I always destroy my opponents...","最后,我总是用这张牌来摧毁我的对手...",最后，是我用来击溃所有对手的那张牌……
+english_events_maingame:L22432,tarottournament_stage3,FIX,HOPE ALWAYS PREVAILS!!!,希望总是会预告!,希望女巫必胜！！！
+english_events_maingame:L22433,tarottournament_stage3,POLISH,It literally predicts %CURRENTPLAYERNAME% losing against me! Look at it!,它从字面上预测 %CURRENTPLAYERNAME% 输给我! 看这个!,它预言的就是%CURRENTPLAYERNAME%输给我！你们自己看！
+english_events_maingame:L22435,tarottournament_stage3,FIX,"Oh, no! It's a foolproof fortune! How could %CURRENTPLAYERNAME% defy such a specific fate?!","哦,没有! 万能的财富! 怎么会 %CURRENTPLAYERNAME% 违抗如此具体的命运?",糟了！这预言无懈可击！命运都说得这么具体了，%CURRENTPLAYERNAME%要怎么反抗？！
+english_events_maingame:L22437,tarottournament_stage3,REVIEW,Heh... exactly. One could say %HESHE% %VERB_IS_ARE%... hopeless.,哦... 准确的说 可以说 %HESHE%  %VERB_IS_ARE%... 没希望了。,呵……没错。可以说，%HESHE% %VERB_IS_ARE%……没“希望”了。
+english_events_maingame:L22438,tarottournament_stage3,FIX,You're finished... unless you find the perfect counterplay...,你完了... 说完了 You're finished... 除非你找到完美的反演... ... . . .,你完了……除非，能找到完美的反击手段……
+english_events_maingame:L22441,tarottournament_stage3,POLISH,Play any random sequence of cards and give a deep-sounding yet vague-enough prediction that you can't fail.,"任意打出任意的牌序,给出一个深沉而模糊的预测,即你不可能失败.",随便打一串牌，给个听起来高深、实际上足够模糊的预言，怎么说都不会错。
+english_events_maingame:L22442,tarottournament_stage3,FIX,"Hope can't defeat someone who's not even fighting her! Play ""The Birthday Card""!","希望无法打败一个甚至没有与她战斗的人! 玩""生日卡""! 玩""生日卡""!",希望女巫没法打败一个根本不跟她打的人！打出“生日贺卡”！
+english_events_maingame:L22446,tarottournament_stage3,POLISH,"Yeah, good idea... it's risky AF; but if you make your predictions vague enough it could actually work... let's see...","不错的主意... 可能很冒险,但如果你把预测弄得足够模糊, 那实际上可以奏效... 让我们看看...",对，好主意……风险大得要命，不过预言只要够模糊，也许真能行……试试看……
+english_events_maingame:L22447,tarottournament_stage3,FIX,"You play a random card""",你玩随机牌,你随便打出一张牌。
+english_events_maingame:L22450,tarottournament_stage3,FIX,THE FLOODED BASEMENT!,自由的仓库!,进水的地下室！
+english_events_maingame:L22451,tarottournament_stage3,FIX,"Ah, it signifies that even with your confident exterior, something's falling apart inside of you, Hope... in the deep end of your deepest inner depths.",意思是即使你自信的外表 东西在你体内会分崩离析 深处的深渊,啊，它说明，别看你外表自信，希望女巫，你内心已经有什么东西在崩塌了……就在你最深最深的内心深处。
+english_events_maingame:L22452,tarottournament_stage3,FIX,How long you can keep up your act until the whole house comes down?,多久你才能继续演下去 直到整个房子倒下?,整栋房子倒塌之前，你这出戏还能撑多久？
+english_events_maingame:L22453,tarottournament_stage3,FIX,This card predicts that everything you're trying to hide under your cool façade will soon come to light once the basement of your soul is flooded. The reckoning is near!,"这张卡片预言,一旦你的灵魂被淹没,你试图隐藏在你酷酷的外表下的一切,很快就会被揭开. 计数已经接近了!",这张牌预示着，一旦灵魂的地下室进了水，你藏在冷静外表下的一切，都会暴露在光天化日之下。清算之日将近！
+english_events_maingame:L22455,tarottournament_stage3,FIX,"Whooooa, I can see it now! Hope, your façade is falling apart!","呜呼,我看得出来! 希望,你的外表要崩溃了!",哇——看见了！希望女巫，你的伪装要崩塌了！
+english_events_maingame:L22456,tarottournament_stage3,POLISH,"It's okay, Hope! Stay positive; you can always turn the flooded basement into a nice indoor pool!","没事的,希望! 保持积极性,随时可以把被淹没的地下室变成一个漂亮的室内游泳池!",没关系，希望女巫！乐观点，地下室淹了，正好改成漂亮的室内泳池嘛！
+english_events_maingame:L22457,tarottournament_stage3,POLISH,"Whose side are you even on, Scott?",你站在谁一边? 斯科特?,斯科特，你到底站哪边啊？
+english_events_maingame:L22458,tarottournament_stage3,FIX,I don't take sides. I don't cheer for people; I cheer people up!,我不站在一边。 我不为人欢呼;我为人欢呼!,我不站队。我不是给谁助威的，我是给大家打气的！
+english_events_maingame:L22459,tarottournament_stage3,KEEP,Fair enough.,说得没错,说得没错
+english_events_maingame:L22460,tarottournament_stage3,POLISH,Next...,下一个...,下一张……
+english_events_maingame:L22462,tarottournament_stage3,FIX,...THE PEAR WITH A BROWN SPOT.,...用一束生出的声音来哭.,……长了褐斑的梨。
+english_events_maingame:L22463,tarottournament_stage3,POLISH,Undoubtedly an omen of decay.,无疑是衰败的预兆,毫无疑问，这是衰败的预兆。
+english_events_maingame:L22464,tarottournament_stage3,POLISH,"You thought of yourself as this fresh, delicious tarot champion, but you've shone in the sun for too long. Everything is eventually defeated by the passage of time.",你把自己当成这个新鲜又美味的塔罗牌冠军 但你在太阳下晒了太久了 时间的流逝最终使一切被打败.,你以为自己新鲜可口，是个塔罗冠军，可你在阳光下闪耀太久了。万物终将败给时间。
+english_events_maingame:L22465,tarottournament_stage3,FIX,"You know it's true, Hope. You can feel time taking chunks of you as the first brown spots will soon start to show in the pear of your power.","你知道这是真的,希望。 感觉你被打成碎片的时间 第一批棕色斑点很快会开始在你的能量之梨中显现出来",希望女巫，你知道这是真的。你能感觉到，时间正一口口啃掉你；象征你力量的这颗梨，很快就要长出第一块褐斑。
+english_events_maingame:L22466,tarottournament_stage3,POLISH,This card predicts you will succumb to the passage of time!,这张卡片预言你会屈服于时间的流逝,这张牌预示着，你终将屈服于时光流逝！
+english_events_maingame:L22467,tarottournament_stage3,FIX,Whoa! I can see that prediction happening!,"呜呼! 我看得出来,预言会发生!",哇！这预言肯定会成真！
+english_events_maingame:L22469,tarottournament_stage3,POLISH,"Of course, you dumbasses. Why the fuck wouldn't I be affected by the passage of time?","当然,你们这些蠢货 为什么我他妈的不会受到时间流逝的影响?",废话，白痴们。我他妈为什么不会受时间流逝影响？
+english_events_maingame:L22471,tarottournament_stage3,POLISH,Aha! So you admit %CURRENTPLAYERNAME% is correctly predicting your future!,摆! 所以你承认 %CURRENTPLAYERNAME% 正确的预测你的未来!,哈！所以你承认，%CURRENTPLAYERNAME%准确预言了你的未来！
+english_events_maingame:L22473,tarottournament_stage3,REVIEW,"Ugh, %HESHE% %VERB_IS_ARE% predicting anyone's future!",唉哟 %HESHE%  %VERB_IS_ARE% 预言着任何人的未来!,唉，%HESHE% %VERB_IS_ARE%预言的，是所有人都会遇到的未来！
+english_events_maingame:L22475,tarottournament_stage3,FIX,"ANYONE'S FUTURE?! That sounds even more powerful! What kind of wizard are you, %CURRENTPLAYERNAME%?!","任何人的未来! 这听起来更强大! 你是什么样的巫师, %CURRENTPLAYERNAME%?!",所有人的未来？！那不是更强了！%CURRENTPLAYERNAME%，你到底是什么大巫师？！
+english_events_maingame:L22476,tarottournament_stage3,FIX,"A powerful one, for you play your last card...","强势的,你最后的牌...",超强的那种。因为，你打出了最后一张牌……
+english_events_maingame:L22478,tarottournament_stage3,FIX,...THE STRANGER!!!,... 强盗!,……陌生人！！！
+english_events_maingame:L22479,tarottournament_stage3,POLISH,"This card predicts that you'll meet someone that will say or do something that will impact you in some way, changing the course of things!","这张牌预言你会遇到一个会说或者做一些会以某种方式影响你,改变事情发展过程的人!",这张牌预示着，你会遇到某个人，对方会说点什么，或者做点什么，以某种方式影响你，改变事情的走向！
+english_events_maingame:L22480,tarottournament_stage3,FIX,OMINOUS!,简直是太疯狂了!,不祥的预兆！
+english_events_maingame:L22482,tarottournament_stage3,FIX,That's fuckin' dumb!,简直是蠢货!,这他妈也太蠢了！
+english_events_maingame:L22484,tarottournament_stage3,FIX,"Oh, so now you're saying tarot is dumb, huh?","哦,现在你的意思是塔罗特是哑巴,是吧?",哦，所以你现在说塔罗很蠢，是吧？
+english_events_maingame:L22486,tarottournament_stage3,FIX,NO! I'm saying %CURRENTPLAYERNAME% is dumb! I WANNA PUNCH YOU!,没有! 我是说 %CURRENTPLAYERNAME% 哑巴! 我想打你一顿!,不是！我说%CURRENTPLAYERNAME%很蠢！我想揍你！
+english_events_maingame:L22488,tarottournament_stage3,FIX,"You wanna punch %HIMHER%? Dang, Hope. One might say that... today you met someone who has done something that has impacted you in some way... wouldn't you say?",你想揍 %HIMHER%？好家伙，希望。可以说……今天你遇到了一个人，对方做了某件事，以某种方式影响了你……你说对吧？,你想揍%HIMHER%？好家伙，希望女巫。可以说……今天你遇到了一个人，对方做了某件事，以某种方式影响了你……你说对吧？
+english_events_maingame:L22489,tarottournament_stage3,FIX,Oooooooooooooooooooh!!!,呜呼!,哦——！！！
+english_events_maingame:L22491,tarottournament_stage3,POLISH,ARGH!!! YOU SHUT UP!,亚瑟! 你闭嘴!,啊啊啊！你给我闭嘴！
+english_events_maingame:L22492,tarottournament_stage3,FIX,"She flips the table (which is saying something, since you were playing in a giant high-tech battlefield made of steel). Still, you win!","她翻了桌子(这话是说,因为你正在一个由钢铁所制造的庞大高科技战场上玩耍). 你还是赢了!",她直接掀了桌——你们可是在一个巨大的钢铁高科技战场上打牌，这就相当了不起了。总之，你赢了！
+english_events_maingame:L22496,tarottournament_stage3,FIX,"Later, Hope thanks you; fighting you has shown her she still has much practice to do.","以后,希望感谢你;战斗你已经向她展示了她仍然有很多练习要做.",后来，希望女巫向你道谢。这场对决让她明白，自己还有很多要练的地方。
+english_events_maingame:L22497,tarottournament_stage3,POLISH,(Especially in regards to excercising her patience against annoying dumbasses.),(特别是要激发她对烦人的蠢货的耐心),（尤其要练练，怎么耐心面对烦人的蠢货。）
+english_events_maingame:L22498,tarottournament_stage3,FIX,"For helping a friend, you get +5 SOUL.","帮助朋友,你得到+5 SOUL。",帮了朋友，你获得了 +5 灵魂。
+english_events_maingame:L22500,tarottournament_stage3,POLISH,"Hey, if you end up in the City of Vice, give me a call. We can all laugh this off and have a party after the tournament.","嘿,如果你最后在 副城,给我打电话。 比赛结束后我们可以开个派对",嘿，要是到了罪恶之城，给我打电话。锦标赛结束后，咱们开个派对，把这事一笑置之。
+english_events_maingame:L22501,tarottournament_stage3,FIX,"It's a deal, boo!","说定了,布!",说定了，宝贝！
+english_events_maingame:L22503,tarottournament_stage3,FIX,You part ways.,你分道扬镳,你们就此告别。
+english_events_maingame:L22504,tarottournament_stage3,FIX,Today you won... because you believed in the heart of the cards!,今天你赢了... 因为你相信牌心!,今天，你赢了……因为你相信卡牌之心！
+english_events_maingame:L22507,tarottournament_stage3,POLISH,"Yeah, good idea... it's risky AF; but if you make your predictions vague enough it could actually work... let's see...","不错的主意... 可能很冒险,但如果你把预测弄得足够模糊, 那实际上可以奏效... 让我们看看...",对，好主意……风险大得要命，不过预言只要够模糊，也许真能行……试试看……
+english_events_maingame:L22508,tarottournament_stage3,FIX,You play a random card.,你玩一个随机卡。,你随便打出一张牌。
+english_events_maingame:L22511,tarottournament_stage3,FIX,THE FLOODED BASEMENT.,被炸得飞起地底,进水的地下室。
+english_events_maingame:L22512,tarottournament_stage3,POLISH,Eh... yes... ah... this card represents the basement of your... soul?,额... 对... 摆... 这张卡片代表了您的地下室... 灵魂?,呃……对……啊……这张牌代表你……灵魂的地下室？
+english_events_maingame:L22514,tarottournament_stage3,FIX,What would that be?,那会是什么?,那是啥？
+english_events_maingame:L22515,tarottournament_stage3,POLISH,"Uhm... eh... okay, okay, it's just your basement. The basement of your soul is your actual basement. And it will be flooded soon!","额... 额... 好吧,好吧,这只是你的地下室。 你灵魂的地下室是真正的地下室 水很快就会被淹没了!",嗯……呃……好吧，就是你的地下室。灵魂的地下室，就是你家真正的地下室。而它马上就要进水了！
+english_events_maingame:L22517,tarottournament_stage3,POLISH,One: that's a terrible metaphor... if it's even a metaphor at all.,一:这比喻太可怕了...... 若乃至说一比喻.,第一，这比喻烂透了……如果这也能算比喻的话。
+english_events_maingame:L22518,tarottournament_stage3,POLISH,Two: I don't have a basement.,二:我没有地下室.,第二，我根本没有地下室。
+english_events_maingame:L22520,tarottournament_stage3,FIX,"Dang, %CURRENTPLAYERNAME%, not having a basement makes that flood prediction quite unlikely!",该死 %CURRENTPLAYERNAME%没有地下室 洪水预测就不太可能了!,哎呀，%CURRENTPLAYERNAME%，她连地下室都没有，你那进水的预言就不太可能成真了！
+english_events_maingame:L22521,tarottournament_stage3,FIX,"Sure, but what about...","当然,但是,怎么样...",是啊，可再看这张……
+english_events_maingame:L22523,tarottournament_stage3,FIX,THE PEAR WITH A BROWN SPOT.,哭着一个蓬勃的泉水。,长了褐斑的梨。
+english_events_maingame:L22524,tarottournament_stage3,FIX,This card foretells... eh... brown spots!,这张卡片预告... 额... 棕色斑点!,这张牌预示着……呃……褐斑！
+english_events_maingame:L22526,tarottournament_stage3,POLISH,...What?,什麽?,……什么？
+english_events_maingame:L22527,tarottournament_stage3,POLISH,Yes! You should visit your dermatologist!,没错! 你应该去看你的皮肤科医生!,对！你该去看看皮肤科！
+english_events_maingame:L22528,tarottournament_stage3,POLISH,"Hmmm, see, that's more like advice. Are you sure you know how predictions work?","嗯,你看,这更像是建议。 你确定你知道预测如何运作吗?",嗯，听着更像建议。你确定自己明白预言是怎么回事？
+english_events_maingame:L22530,tarottournament_stage3,POLISH,"Yeah, %CURRENTPLAYERNAME%. I want to root for you, but you're making this very hard.","对 %CURRENTPLAYERNAME%. 我想为你加油,但你使这非常困难。",对啊，%CURRENTPLAYERNAME%。我是想挺你，可你这表现，真让人挺不下去。
+english_events_maingame:L22531,tarottournament_stage3,FIX,"Remember, it's okay to not know the rules of the games as long as you play with your heart!",记住 只要用心玩游戏 就不会知道游戏规则,记住，就算不懂规则，只要用心玩游戏，也没关系！
+english_events_maingame:L22532,tarottournament_stage3,FIX,But also... consider knowing the rules of the games? It could be a great step toward winning the match... I think...,临Τ... 考虑知道游戏规则吗? 这可能是赢得比赛的伟大一步... 我觉得...,不过……要不还是考虑一下，弄懂规则？这样离赢下比赛，可能就更近一大步了……我想……
+english_events_maingame:L22533,tarottournament_stage3,POLISH,Uh... giving advice is so hard... I have no idea how Coach does it...,额... 给建议太难了... 我不知道教练是怎么...,呃……给人提建议好难啊……真不知道教练是怎么做到的……
+english_events_maingame:L22534,tarottournament_stage3,POLISH,Ugh... fine... but I have one last ace up my sleeve...,唉哟... 不错... 但我还有最后一张王牌...,唉……行吧……可我袖子里还藏着最后一张王牌……
+english_events_maingame:L22536,tarottournament_stage3,FIX,THE STRANGER!!!,长相!,陌生人！！！
+english_events_maingame:L22538,tarottournament_stage3,FIX,What about it?,怎么样?,这张又怎么了？
+english_events_maingame:L22539,tarottournament_stage3,POLISH,"Well, you want a prediction, huh? Have one! This card foretells the coming of a stranger who will interrupt this match to ask for... eh... the capital of Norway!","你想预测一下吗? 来一个! 这张卡片预示着一个陌生人会来 打断这场比赛,要求... 额... ! 挪威的首都!",想要预言，是吧？那就来！这张牌预示着，会有个陌生人来打断比赛，问……呃……挪威的首都！
+english_events_maingame:L22540,tarottournament_stage3,FIX,"I mean, that's a prediction, sure. A very weird one.","我的意思是,这是一个预测,当然。 很奇怪的一首歌 说起来很怪异",嗯，确实算预言。特别古怪的预言。
+english_events_maingame:L22541,tarottournament_stage3,POLISH,But the match is indeed interrupted by a stranger. Everyone is amazed.,但这场比赛确实被陌生人打断了. 每个人都很惊讶。,可比赛还真被一个陌生人打断了。大家都惊呆了。
+english_events_maingame:L22542,tarottournament_stage3,POLISH,"Ha! Idiots... you saw the stranger coming from afar and how he looked like wanting to ask you a question, heh.","白痴们... 你看到陌生人从远处来 他看起来想问你一个问题,呵呵。",哈！笨蛋们……你早就看见那人从远处过来，一副想问点什么的样子，嘿嘿。
+english_events_maingame:L22543,tarottournament_stage3,POLISH,The stranger interrupts you. He asks for directions. You help him and he leaves.,"陌生人打断你。 他问路。 你帮他,他就离开",陌生人打断你们，问了个路。你指点一番，他就走了。
+english_events_maingame:L22544,tarottournament_stage3,POLISH,"Dang it. Yeah, asking for directions now seems like a way more obvious possibility than asking for the capital of Norway. What were you thinking?","该死 是的,现在问路似乎比问挪威首都 更明显的可能性。 你当时在想什么?",可恶。现在想想，问路确实比问挪威首都合理多了。你刚才脑子里装的什么？
+english_events_maingame:L22545,tarottournament_stage3,FIX,"Hope ends up beating you big time... which was actually another much-safer prediction than ""a stranger asking for the capital of Norway"".",希望最终会打败你... 这其实是另一个更安全的预测 比“一个陌生人要求挪威首都”更安全。,最后，希望女巫把你虐惨了……说真的，这个结果，也比“陌生人来问挪威首都”好预测多了。
+english_events_maingame:L22549,tarottournament_stage3,FIX,"Not long after that, Hope's Oober finally arrives, and she leaves.","不久后,""希望""的""Oober""终于到来,她就离开了.",没过多久，希望女巫叫的 Oober 终于到了，她坐车离开。
+english_events_maingame:L22550,tarottournament_stage3,FIX,"You're left defeated, having lost -3 MIND from such a dumb plan.",你被一个愚蠢的计划打败了 3分,你惨败收场，这个蠢计划让你失去了 -3 头脑。
+english_events_maingame:L22555,tarottournament_stage3,POLISH,"Oh, that's so nice!","哦,这是如此的好!",哦，真贴心！
+english_events_maingame:L22557,tarottournament_stage3,FIX,But that's not a tarot card! It's a birthday card!,但这不是塔罗牌! 生日卡! 生日卡! 生日卡!,可这根本不是塔罗牌！这是生日贺卡！
+english_events_maingame:L22559,tarottournament_stage3,POLISH,"Hey, any card can be a tarot card if you want it to be.","嘿,任何卡都可以是塔罗牌,如果你想的话。",嗨，只要你愿意，什么卡都能当塔罗牌。
+english_events_maingame:L22561,tarottournament_stage3,POLISH,"No, that's literally and factually untrue. This is a birthday card, not a tool that can be used to make predictions.","不,这是字面上和事实上的不真实的。 这是生日卡,不是用来做预测的工具.",不，按字面意思和客观事实来说，都不成立。这是生日贺卡，不是用来预测未来的工具。
+english_events_maingame:L22563,tarottournament_stage3,FIX,"Well, don't be so close-minded, Hope! Isn't wishing you a happy birthday sort of... predicting a happy birthday?","别这么近了,希望! 祝你生日快乐是不是有点... 预言生日快乐?",希望女巫，别这么死板嘛！祝你生日快乐，不就有点像……预言你生日会快乐吗？
+english_events_maingame:L22565,tarottournament_stage3,FIX,No!,没有!,不是！
+english_events_maingame:L22567,tarottournament_stage3,FIX,"I mean, isn't it your birthday this year?","我是说,今年不是你的生日吗?",我是说，你今年不是要过生日吗？
+english_events_maingame:L22569,tarottournament_stage3,POLISH,I have a birthday every year!,我每年都有生日!,我每年都过生日！
+english_events_maingame:L22571,tarottournament_stage3,FIX,"Ah, and %CURRENTPLAYERNAME% knew this! So wise and thoughtful of %HIMHER%!","啊,还有 %CURRENTPLAYERNAME% 早知道这样! 如此聪明而周到 %HIMHER%!",对啊，%CURRENTPLAYERNAME%早就知道了！%HIMHER%真是既聪明，又体贴！
+english_events_maingame:L22573,tarottournament_stage3,FIX,"My birthday isn't today, though!","今天不是生日,不过!",可我今天不过生日！
+english_events_maingame:L22575,tarottournament_stage3,POLISH,"Well, of course: this is more like a prediction that you will have a birthday soon!","当然,这更像是一个预言,你很快就会有生日了!",那当然，这更像是在预言，你很快就要过生日了！
+english_events_maingame:L22577,tarottournament_stage3,POLISH,My birthday isn't soon.,我的生日还不到,我生日还早着呢。
+english_events_maingame:L22579,tarottournament_stage3,POLISH,"I mean... what's ""soon"", really? A year isn't that long anyway. Isn't your birthday less than a year away?","我是说... 什麽叫""快""? 一年也不是那么长。 你生日不是不到一年吗?",那……什么才算“很快”呢？反正一年也不长。离你生日总不到一年吧？
+english_events_maingame:L22581,tarottournament_stage3,POLISH,"Well, yes, but...","嗯,是的,但是... ... . . .",是没错，可是……
+english_events_maingame:L22583,tarottournament_stage3,POLISH,"Then close enough, if you ask me!","那再靠近点,如果你问我的话!",那在我看来，就够近了！
+english_events_maingame:L22584,tarottournament_stage3,FIX,"Happy birthday, Hope!","生日快乐,希望!",生日快乐，希望女巫！
+english_events_maingame:L22586,tarottournament_stage3,POLISH,IT'S NOT MY BIRTHDAY!,这不是我的生日!,今天不是我生日！
+english_events_maingame:L22588,tarottournament_stage3,FIX,"Hope, why so grumpy? Is it because you miss your birthday?","希望,为什么这么暴躁? 是因为你错过了生日吗?",希望女巫，怎么这么暴躁？想你的生日了？
+english_events_maingame:L22589,tarottournament_stage3,POLISH,Would you be less of a grumpy grump if we celebrated your birthday early this year?,如果我们今年早点庆祝你的生日 你会不会那么暴躁?,今年提前给你过个生日，你是不是就没这么气鼓鼓了？
+english_events_maingame:L22591,tarottournament_stage3,KEEP,...,...,...
+english_events_maingame:L22592,tarottournament_stage3,KEEP,...Maybe.,也许吧,也许吧
+english_events_maingame:L22596,tarottournament_stage3,FIX,And so you celebrate Hope's birthday.,所以你庆祝了希望的生日。,于是，你们给希望女巫过了个生日。
+english_events_maingame:L22597,tarottournament_stage3,FIX,"Later, Hope thanks you; fighting you has shown her she still has much practice to do.","以后,希望感谢你;战斗你已经向她展示了她仍然有很多练习要做.",后来，希望女巫向你道谢。这场对决让她明白，自己还有很多要练的地方。
+english_events_maingame:L22598,tarottournament_stage3,POLISH,(Especially in regards to practicing her patience against annoying dumbasses.),(特别是训练她耐心对付烦人的蠢货),（尤其要练练，怎么耐心面对烦人的蠢货。）
+english_events_maingame:L22599,tarottournament_stage3,FIX,"For helping a friend, you get +5 SOUL.","帮助朋友,你得到+5 SOUL。",帮了朋友，你获得了 +5 灵魂。
+english_events_maingame:L22601,tarottournament_stage3,POLISH,"Hey, if you end up in the City of Vice, give me a call. We can all laugh this off and have a party after the tournament.","嘿,如果你最后在 副城,给我打电话。 比赛结束后我们可以开个派对",嘿，要是到了罪恶之城，给我打电话。锦标赛结束后，咱们开个派对，把这事一笑置之。
+english_events_maingame:L22602,tarottournament_stage3,FIX,"It's a deal, boo!","说定了,布!",说定了，宝贝！
+english_events_maingame:L22604,tarottournament_stage3,FIX,You part ways.,你分道扬镳,你们就此告别。
+english_events_maingame:L22605,tarottournament_stage3,FIX,Today you won... because you believed in the heart of the cards!,今天你赢了... 因为你相信牌心!,今天，你赢了……因为你相信卡牌之心！
+english_events_maingame:L22608,tarottournament_stage3,FIX,"You give Hope the birthday card, but it's not her birthday!","你给Hope生日卡,但这不是她的生日!",你送了希望女巫一张生日贺卡，可今天不是她生日！
+english_events_maingame:L22610,tarottournament_stage3,FIX,"Dang, you didn't even need to be a fortune teller to nail that one; just a good friend!","唐,你甚至不需要做算命的,就当一个好朋友!",唉，这事都不用会占卜，当个称职的朋友就能答对！
+english_events_maingame:L22611,tarottournament_stage3,FIX,"No, but I'm close. I'm, like, foretelling her birthday.","没有,但我快到了 我,喜欢,预告她的生日。",不是，我猜得挺近了啊。我这是……在预言她的生日。
+english_events_maingame:L22613,tarottournament_stage3,FIX,"It's not close, you idiot.","离这里不近,你个白痴",一点都不近，白痴。
+english_events_maingame:L22614,tarottournament_stage3,POLISH,"Well, surely it's not that far! Less than a year away, at the very least!",肯定不是那么远! 离我们不到一年了 至少还有一年,那也不会远到哪儿去吧！至少，肯定不到一年！
+english_events_maingame:L22615,tarottournament_stage3,POLISH,...Do you even understand how birthdays work?,你甚至明白生日是怎么工作的吗?,……你真知道生日是怎么回事吗？
+english_events_maingame:L22616,tarottournament_stage3,FIX,...Yes?,是吗?,……知道？
+english_events_maingame:L22618,tarottournament_stage3,FIX,Debatable.,"令人不快的,你应该知道,",有待商榷。
+english_events_maingame:L22620,tarottournament_stage3,FIX,"Also, my name is HopE, with an E at the end.",还有 我叫HopE 结尾有E,还有，我叫希望女巫，英文名是 HopE，最后有个 E。
+english_events_maingame:L22621,tarottournament_stage3,FIX,"You wrote ""Happy Birthday, Hop"".","你写了""生日快乐,Hop""",你写的却是“生日快乐，Hop”。
+english_events_maingame:L22622,tarottournament_stage3,POLISH,...Are you sure about that E thing?,你确定E的事吗?,……你确定，真有那个 E？
+english_events_maingame:L22626,tarottournament_stage3,FIX,You lose for being a terrible fortune teller and an even worse friend (go lose -3 SOUL for that).,"成为一个糟糕的算命人和更糟的朋友(因此将失去 -3 Suul),",占卜师当得烂，朋友当得更烂，你输了。（为此失去 -3 灵魂，拿好。）
+english_events_maingame:L22627,tarottournament_stage3,POLISH,"Everyone is bummed by your lack of consideration. They decide that the best way to make up for it is to gift your next birthday to Hope, so it becomes Hope's second birthday!","每个人对你缺乏考虑都感到沮丧。 他们决定,最好的补偿方法是将你的下个生日送给希望,所以它成为希望的第二个生日!",你这么不体贴，大家都很失望。他们决定，把你的下一个生日送给希望女巫作补偿，给她多过一次生日！
+english_events_maingame:L22628,tarottournament_stage3,POLISH,"(But you're not invited to Hope's second birthday party, since you still were a terrible friend.)","(但你没有被邀请参加""希望""的第二个生日会,因为你还是个糟糕的朋友. )",（不过，希望女巫的第二场生日派对，你没被邀请。毕竟你这朋友当得太烂了。）
+english_events_maingame:L22629,tarottournament_stage3,FIX,"Hope's Oober finally arrives, and she leaves.","霍普的""Oober""终于到了,她离开了.",希望女巫叫的 Oober 终于到了，她坐车离开。
+english_events_maingame:L22630,tarottournament_stage3,FIX,You're left to reflect on your poor choices today.,让你思考你今天的糟糕选择,留下你独自反思，今天都做了些什么烂决定。

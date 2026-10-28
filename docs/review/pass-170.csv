@@ -1,0 +1,221 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_maingame:L15182,choosesoup,FIX,Soup time,汤时间,喝汤时间
+english_events_maingame:L15186,choosesoup,FIX,"WOOHOO, SOUP TIME! You and your friends enter the restaurant... only to be welcomed by a thing of nightmares.","呜呼,那么难熬的时间! 你和你的朋友进餐厅... 只会被噩梦所欢迎",呜呼，喝汤时间！你和朋友们走进餐馆……迎接你们的，却是噩梦般的东西。
+english_events_maingame:L15188,choosesoup,FIX,"Welcome to my SOUP-er diner, children! I'm your best veggie pal, Simon Soups!","欢迎来到我的SOUP -ER餐厅,孩子们! 我是你最好的蔬菜朋友,西蒙·苏普斯!",孩子们，欢迎来我的“汤当棒”餐馆！我是你们最好的蔬菜朋友，西蒙·汤！
+english_events_maingame:L15189,choosesoup,POLISH,"Nice to meet you, Simon Soup! What kind of food do you serve here? I'm unclear.","很高兴见到你,西蒙汤! 你在这里吃什么? 我不清楚,我还没说清楚",很高兴认识你，西蒙·汤！这里卖什么吃的？没太弄明白。
+english_events_maingame:L15190,choosesoup,POLISH,"Excellent question! C'mon gang, let's soak our new friend in the delicious broth of music and teach him the true meaning of the Simon Soups brand!",问得好! 来 伙计们 让我们的新朋友 浸泡在美味的音乐汤里 教他西蒙·苏普斯品牌的真正意义吧,好问题！来，各位，让新朋友泡进美味的音乐高汤，听听西蒙汤馆真正的品牌精神！
+english_events_maingame:L15191,choosesoup,FIX,<INITIATING_WHIMSICAL_THEME_SONG_WITH_NO_THREATENING_UNDERTONES_NO._87>,<INITIATING_WHIMSICAL_THEME_SONG_WITH_NO_THREATENING_UNDERTONES_NO._87>,<启动奇想主题曲，绝无威胁意味，编号87>
+english_events_maingame:L15192,choosesoup,FIX,"The animatronics' ancient, rusted speakers let out a metallic screech that you suppose must've sounded like banjo music forty years ago.",动画师的古老生常谈的演讲者 释放出金属的口水声 听起来一定是40年前的班卓音乐,机械玩偶陈旧生锈的扬声器，挤出刺耳的金属声。你猜，四十年前，这大概还像班卓琴的声音。
+english_events_maingame:L15193,choosesoup,FIX,"""I'm Simon Soups, welcome to my show! / There ain't a soup alive that I don't know!""","""我是西蒙·苏普斯 欢迎光临我的节目! /没有活着的汤,我不知道!""",“我叫西蒙·汤，欢迎来看我的场！/ 天下活着的汤，我全知道不说谎！”
+english_events_maingame:L15194,choosesoup,FIX,"""Gumbo, miso, children's blood, cream of wheat! / Soup's the yummy food that just can't be beat!""","""大通,出自""子""""出血""""出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出自"". 汤是美味的食物,只是不能被打败!""",“秋葵汤、味噌汤、童血、小麦奶糊香！/ 美味哪家强，谁也比不过汤！”
+english_events_maingame:L15195,choosesoup,POLISH,"Wait, what was that middle one--?","等等,中间那个是什么?",等等，中间那个是——？
+english_events_maingame:L15196,choosesoup,FIX,"""I'm Mr. Leek, and I'll be your best friend / until the inevitable bloody end!""","""我是罗先生. 利克,我会是你最好的朋友 /直到不可避免的血腥结局!""",“我是韭葱先生，要做你最好朋友！/ 直到必然降临的，血腥结局尽头！”
+english_events_maingame:L15197,choosesoup,FIX,"""Soup is my second-favorite thing to slurp / to a child's bone marrow as he screams 'THAT HURTS!'""","""汤是我第二喜欢的东西 口出血来 / 给孩子的骨髓 当他尖叫'THAT HURTS!""",“最爱吸孩子骨髓，听他喊‘好痛’！/ 再要数这碗汤，吸溜吸溜进腹中！”
+english_events_maingame:L15198,choosesoup,FIX,<I_AM_ONION_AND_I_HUNGER_FOR_YOUTHFUL_FLESH>,<I_AM_ONION_AND_I_HUNGER_FOR_YOUTHFUL_FLESH>,<我是洋葱_我渴求鲜嫩的血肉>
+english_events_maingame:L15201,choosesoup,POLISH,"Oops, sorry, I must've inserted the wrong song cassette. Let me fix that real quick...",抱歉 我一定是插错了曲子 让我来修一下...,哎呀，抱歉，应该放错歌曲磁带了。马上换一下……
+english_events_maingame:L15203,choosesoup,FIX,<I_AM_ONION_AND_I_DO_NOT_HUNGER_FOR_YOUTHFUL_FLESH_END_CHORUS>,<I_AM_ONION_AND_I_DO_NOT_HUNGER_FOR_YOUTHFUL_FLESH_END_CHORUS>,<我是洋葱_我并不渴求鲜嫩的血肉_副歌结束>
+english_events_maingame:L15205,choosesoup,POLISH,Oh... it just... ends? The song's over?,哦... 只不过... 结束? 歌结束了?,哦……就……结束了？歌唱完了？
+english_events_maingame:L15207,choosesoup,POLISH,"Yup, thank God.","是的,感谢上帝。",对，谢天谢地。
+english_events_maingame:L15208,choosesoup,FIX,"Is it just me, or were those animatronics giving off a weird vibe?",还是那些动画师 发出奇怪的氛围?,只有我觉得，这些机械玩偶有点怪怪的吗？
+english_events_maingame:L15209,choosesoup,FIX,"Yeah, they can be kinda off-putting. But corporate made it against the rules for them to kill customers during store hours, so they won't mess with you too much.","是啊,他们可以有点 关闭了。 但是公司却违反规则 让他们在商店里杀了客户 所以不会惹你太多麻烦",对，是挺瘆人的。不过公司规定营业时间不许杀顾客，不会太找你们麻烦。
+english_events_maingame:L15210,choosesoup,POLISH,"...I wouldn't recommend looking Mr. Leek in the eye, though. Just in case.",...我不会建议你去找先生 眼睛里有血迹 以防万一 以防万一 以防万一 以防万一 以防万一,……但最好别直视韭葱先生的眼睛。以防万一。
+english_events_maingame:L15211,choosesoup,POLISH,"Anyway, what would you like to order?","随便你,你想点什么?",总之，想点什么？
+english_events_maingame:L15214,choosesoup,POLISH,The Special Customer Soup! It's a soup made ONLY of our most special customers!,特别顾客汤! 这是只用我们最特别的顾客做的汤!,特别顾客汤！只用我们最特别的顾客熬制！
+english_events_maingame:L15215,choosesoup,POLISH,Delicious Breakfast Soup,美味的早餐汤,美味早餐汤
+english_events_maingame:L15216,choosesoup,FIX,"Deluxe Premium Soup Combo! It comes with soup fries, a soup soda, and a cool action figure of the soup.","豪华的苏普·孔博! 里面有汤薯条,一汤苏打水,还有汤里一个很酷的动作人物.",豪华尊享汤套餐！含汤薯条、汤汽水，还有一个酷炫的汤主题可动人偶。
+english_events_maingame:L15220,choosesoup,FIX,"You're ordering the soup made of souls, huh? Guess I should've expected that, edgelord.","你点的是灵魂所酿的汤,是吧? 我想我应该早料到的 上等爵",点灵魂熬的汤啊？也是，早该想到你会这样，中二病。
+english_events_maingame:L15221,choosesoup,FIX,"Oh, does that menu say ""made OF our most special customers?"" It should say ""made FOR our most special customers.""","哦,那菜单上说""是我们最特别的顾客做的?"" 它应该说""是我们最特别的顾客做的""",哦，菜单写的是“用最特别的顾客熬制”？应该是“为最特别的顾客熬制”。
+english_events_maingame:L15222,choosesoup,POLISH,"That, uh, must be a typo or something.",一定是打字之类的,呃，肯定是错别字，或者什么的。
+english_events_maingame:L15223,choosesoup,POLISH,"You can drop the act, boo. We get it, the soup's made of people. Just give us the goods.","你可以放弃这个表演了, 嘘. 我们得到它,汤是人做的。 给我们货就行了",亲爱的，别装了。懂，就是人熬的汤。端上来就行。
+english_events_maingame:L15224,choosesoup,POLISH,Uh... so you're not gonna sue?,额... 所以你不会起诉?,呃……所以，不会起诉？
+english_events_maingame:L15225,choosesoup,POLISH,Why would we?,为什么?,干吗要告？
+english_events_maingame:L15226,choosesoup,FIX,Because eating a soup made of people is sort of a crime against monstrosity?,因为吃人做的汤 是针对异性恋的犯罪吗?,因为吃人熬的汤，算是反怪物罪吧？
+english_events_maingame:L15227,choosesoup,POLISH,"Pfft, so? It's a little late in the road trip to stop committing crimes against monstrosity.","普夫特,怎么样? 路行相去来来来去来去去来迟了一点,以停止对僧道犯事.",嘁，那又怎样？公路旅行都到这份上，才想不再犯反怪物罪，不嫌晚？
+english_events_maingame:L15228,choosesoup,POLISH,"Honestly, after the nefarious shit I've seen %CURRENTPLAYERNAME% pull off, ""eating soul soup"" wouldn't even make our top ten worst deeds.","老实说,我见过的恶搞之后 %CURRENTPLAYERNAME% 拉起""吃灵魂汤"" 连我们十大坏事都做不了",见识过 %CURRENTPLAYERNAME% 干的那些坏事，“喝灵魂汤”，连最坏的前十名都排不上。
+english_events_maingame:L15229,choosesoup,POLISH,"Okay, I guess as long as you're cool with it. I'd also appreciate it if you didn't tell my manager we had this conversation.","好吧,我想只要你冷静下来。 如果你不告诉我的经理 我们有过这种对话,我也会很感激",好吧，你们不介意就行。不过这段话，最好别告诉我经理，感激不尽。
+english_events_maingame:L15230,choosesoup,POLISH,No problemo. Who's your manager?,没问题 你经理是谁?,没问题，谁是经理？
+english_events_maingame:L15231,choosesoup,FIX,Mr. Leek.,劳伦斯先生 利克 来,韭葱先生。
+english_events_maingame:L15233,choosesoup,KEEP,...,...,...
+english_events_maingame:L15234,choosesoup,FIX,"Even if it has souls in it, you still lose -N2 SOUL for eating a soup made of people... but you gain +N2 STAMINA!","即使里面有灵魂,你还是会因为吃人做的汤而失去N2 SOUL... 但你得到+N2 斯塔米娜!",就算里面有灵魂，喝人熬的汤，还是让你失去了 -N2 灵魂……不过，也获得了 +N2 体力！
+english_events_maingame:L15238,choosesoup,POLISH,What? But this is just cereal. Cereal isn't soup.,什麽? 但这只是麦片。 谷地不是汤.,什么？可这就是麦片。麦片不算汤。
+english_events_maingame:L15240,choosesoup,FIX,"Au contraire, my soup-deficient pal! Cereal has earned its place in the soup canon!","反之,我的汤用不足的伙计! 谷物在汤罐里赚了钱!",恰恰相反，我不懂汤的朋友！麦片早就跻身汤界正典了！
+english_events_maingame:L15241,choosesoup,POLISH,Uh... no. I don't care what your Soup Bible or whatever says; cereal and soup are two different things.,"额... 没有。 我不管你的""汤""圣经怎么说,麦片和汤是两样东西。",呃，不。管你《汤圣经》怎么写，麦片跟汤，就是两回事。
+english_events_maingame:L15242,choosesoup,FIX,"Cereal is the union of rich, creamy milk-broth and sweet, crunchy balls of cornmeal and high-fructose corn syrup floating on top. Therefore, it's technically soup!","谷物是富含奶油的奶油干酪和甜美的 玉米粉和高糖玉米糖浆的结晶 所以,这是技术上的汤!",浓郁顺滑的牛奶汤底，漂着玉米粉和高果糖玉米糖浆做的甜脆小球，两者合一就是麦片。所以从定义上说，它就是汤！
+english_events_maingame:L15243,choosesoup,POLISH,"That doesn't mean anything. Scott's insides are just blood with organs floating in it, but I'm not gonna call HIM soup.","这不意味着什么。  斯科特里面只有血,里面有器官 但我不会叫他汤",那算什么道理？斯科特肚子里也全是血，器官漂在里面，我也不叫他汤啊。
+english_events_maingame:L15244,choosesoup,POLISH,BUT I WILL!,但我会的!,但我会！
+english_events_maingame:L15245,choosesoup,FIX,<ADDING_SCOTT_SOUP_TO_MENU_REGISTRY...........>,<ADDING_SCOTT_SOUP_TO_MENU_REGISTRY...........>,<将斯科特汤加入菜单记录中…………>
+english_events_maingame:L15246,choosesoup,FIX,Thanks! I love being included!,谢谢! 我喜欢被包含在内!,谢谢！就喜欢有我一份！
+english_events_maingame:L15247,choosesoup,FIX,"You shouldn't dismiss my philo-soup-y out of hand, pals. Take a moment to simmer on this thought:","朋友,你不应该把我那套药弄得一团糟 慢慢地沉浸在这种想法中:",朋友，别急着否定我的“汤学”。让这念头在脑子里慢慢炖一会儿：
+english_events_maingame:L15248,choosesoup,POLISH,"Is cereal not a soup, or are you just afraid to think critically about the limits of what soup could be, because it makes you feel small, powerless, and mortal?","谷物不是汤, 还是你只是害怕批判性地思考汤的极限, 因为它让你觉得自己小,无力, 和凡人?",到底是麦片不算汤，还是你害怕批判性地思考，汤的边界能到哪里？因为那会让你觉得，自己渺小、无力，终有一死？
+english_events_maingame:L15249,choosesoup,FIX,Uh...,额...,呃……
+english_events_maingame:L15250,choosesoup,FIX,"Cereal is soup. Scott is soup. Even our reality -- a brothy mixture of overlapping timelines, magic, and water vapor -- is a soup!",谷为汤.  斯科特 汤 甚至我们的现实 -- -- 时间、魔法和水蒸气相互重叠的混合体 -- -- 也是汤!,麦片是汤，斯科特是汤。就连现实，把交叠的时间线、魔法、水蒸气炖成一锅，也是一碗汤！
+english_events_maingame:L15251,choosesoup,FIX,Is not everything in the universe secretly... a soup?,宇宙中不是一切秘密... 汤?,会不会，宇宙中的一切，其实都是……汤？
+english_events_maingame:L15252,choosesoup,POLISH,Shit... I don't even know anymore...,妈的... 我甚至不知道现在...,靠……我也不知道了……
+english_events_maingame:L15253,choosesoup,POLISH,My head hurts now.,我的头现在很疼了。,我脑袋疼了。
+english_events_maingame:L15254,choosesoup,FIX,"You lose -N2 MIND from the mental gymnastics of treating cereal as soup. But whether it's soup or not, the cereal still gives you +N2 STAMINA.","你输了N2 MIND 从精神体操 将谷物作为汤。 但不管是不是汤,麦片还是给你+N2 STAMINA.",硬把麦片想成汤，这番脑筋急转弯让你失去了 -N2 头脑。不过不管算不算汤，麦片还是带来了 +N2 体力。
+english_events_maingame:L15258,choosesoup,POLISH,"Whoa, is EVERYTHING in this combo made of soup?","哇,这组合里的一切都是汤做的吗?",哇，套餐里所有东西，都是汤做的？
+english_events_maingame:L15260,choosesoup,POLISH,Yes! It all goes back to our motto...,没错! 都回到我们的座右铭上...,对！还得说回我们的座右铭……
+english_events_maingame:L15261,choosesoup,FIX,"<""EXISTENCE_IS_PAIN_EVERYTHING_IS_SOUP"">","<""EXISTENCE_IS_PAIN_EVERYTHING_IS_SOUP"">",<“存在即痛苦_万物皆是汤”>
+english_events_maingame:L15262,choosesoup,FIX,"Wow, fries made of frozen soup! Do they come with special dipping sauce?","哇,炸薯条由冷冻汤做成! 他们来的时候有特别的调味汁吗?",哇，冻汤做的薯条！配什么特别蘸酱吗？
+english_events_maingame:L15263,choosesoup,POLISH,"You can dip them in your soup! For what is soup if not a more delicious, complex sauce?","你可以把它们浸入你的汤里! 汤如果不是一种更美味更复杂的酱汁,又是什么?",蘸你的汤就行！汤，不就是更美味、更复杂的酱汁吗？
+english_events_maingame:L15264,choosesoup,POLISH,"Even the soda is soup! Cold, carbonated soup!",苏打水也是汤! 冷又有碳酸的汤!,连汽水都是汤！冰的、碳酸的汤！
+english_events_maingame:L15265,choosesoup,POLISH,"Sounds kinda nasty, to be honest.","老实说,听起来有点恶心",说真的，听着有点恶心。
+english_events_maingame:L15266,choosesoup,FIX,(I will murder you in your sleep.),(我会杀了你在你的睡眠。 ),（我要趁你睡着，把你杀了。）
+english_events_maingame:L15267,choosesoup,POLISH,What?,什麽?,什么？
+english_events_maingame:L15268,choosesoup,FIX,SOUPS!,苏普斯!,汤！
+english_events_maingame:L15269,choosesoup,FIX,"Wow, this meal even comes with a collectible figurine. Awesome, bro!","哇,这顿饭甚至还有一束 收藏的花果。 真棒,兄弟! 不错!",哇，吃饭还送收藏公仔！太棒了，兄弟！
+english_events_maingame:L15270,choosesoup,FIX,"Which toy do you want: General Gazpacho, Comrade Borscht, Lieutenant Vichyssoise, or Ramen Ronin?","你想拿哪个玩具来? 加兹帕乔将军,博尔施特同志,维希索瓦斯中尉,还是拉门·罗宁?",想要哪个玩具？西班牙冷汤将军、红菜汤同志、维希冷汤中尉，还是拉面浪人？
+english_events_maingame:L15271,choosesoup,FIX,General Gazpacho please!,"伽斯帕乔将军,请!",请给我西班牙冷汤将军！
+english_events_maingame:L15273,choosesoup,FIX,"The waitress brings out your meal. General Gazpacho has a pull cord that spouts various phrases, such as:","女服务员给你带了餐 Gazpacho将军有一个拉绳,可以发出各种短语,例如:",女服务员端来饭菜。西班牙冷汤将军有根拉绳，一拉，就会说各种话，比如：
+english_events_maingame:L15274,choosesoup,FIX,"""¡Olé, mi arma!"" ""Illo, que te comas la sopa."" ""¡Pa' gazpacho el mío!""","""哦,哦,我的阿尔玛!"" ""Illo, que te 昏迷了拉索帕"" ""'Pa' gazpacho el mío!""",“好哇，亲爱的！”“老弟，把汤喝了。”“论冷汤，还得是我这碗！”
+english_events_maingame:L15275,choosesoup,FIX,"Soon enough, Scott is deep into the soup-verse. It was worth spending the -N2 MONEY on the deluxe combo if only to make Scott this happy.","很快,我就会... 斯科特 深入于汤之道. 值得花N2货币 豪华组合,如果只做 斯科特 这么开心",很快，斯科特彻底沉迷汤宇宙。光是能让他这么开心，花 -N2 金钱买豪华套餐，也值了。
+english_events_maingame:L15276,choosesoup,FIX,And you still get +N2 STAMINA from eating so much soup in so many different shapes.,吃这么多汤 形状各异 还能得到+N2 Stamina,各种形状的汤，吃了这么多，还让你获得 +N2 体力。
+english_events_maingame:L15284,birthdayprivilege,KEEP,Celebrate your birthday,庆祝你的生日,庆祝你的生日
+english_events_maingame:L15286,birthdayprivilege,POLISH,"As you walk inside, you see a sign that says you get special privileges if it's your birthday. Now there's an opportunity the Prank Masterz can't miss!","当你走进里面,你看到一个标志, 表示如果是你的生日,你可以得到特殊特权。 现在有种机会 恶作剧大师们不能错过!",进门，看见牌子上写着：生日当天有特别待遇。这种机会，恶作剧大师绝不能错过！
+english_events_maingame:L15289,birthdayprivilege,FIX,"Welcome to Simon Soups, where ""the broth of childhood and the vegetables of imagination are combined to create unforgettable magic.""","欢迎来到西蒙·汤普斯,在那里""童年的汤和想象的蔬菜结合在一起,创造出难忘的魔法"".",欢迎来到西蒙汤馆，这里“用童年的高汤，搭配想象力的蔬菜，创造难忘的魔法”。
+english_events_maingame:L15290,birthdayprivilege,FIX,I'd like a booth for me and my friends. Make sure to get a special seat for %CURRENTPLAYERNAME%. It's %HISHER% birthday!,欲为我等诸友作一亭. 确保为%CURRENTPLAYERNAME%获得一个特殊席位. 这是%HISHER%生日!,给我和朋友安排个卡座。%CURRENTPLAYERNAME% 的位子要特别点，今天是 %HISHER% 生日！
+english_events_maingame:L15291,birthdayprivilege,POLISH,"Wait, really? I had no idea! Happy birthday, bro!","等等,真的吗? 没想到! 生日快乐,兄弟!",等等，真的？都不知道！兄弟，生日快乐！
+english_events_maingame:L15292,birthdayprivilege,FIX,"Okay, your party can sit in the ""Birthday Souperstar Booth"" in front of the main stage. I'll boot up the birthday show.","好吧,你的派对可以坐在 ""Birthday Souperstar Booth"" 在主舞台前。 我会启动生日秀。",好，你们坐主舞台前的“生日汤巨星卡座”。我去启动生日表演。
+english_events_maingame:L15294,birthdayprivilege,POLISH,"Hiya, pal! We heard today is your soup-er special birthday! That means it's time for the birthday song!","嗨,伙计! 听说今天是你的特别生日! 也就是说该唱生日歌了!",嗨，朋友！听说今天是你“汤当特别”的生日！该唱生日歌了！
+english_events_maingame:L15295,birthdayprivilege,FIX,<INITIATING_NONCOPYRIGHTED_BIRTHDAY_SONG_NO._66.6:>,<INITIATING_NONCOPYRIGHTED_BIRTHDAY_SONG_NO._66.6:>,<启动无版权生日歌_编号66.6：>
+english_events_maingame:L15296,birthdayprivilege,FIX,"""Happy happy birthday! / From Simon Soups to you! / Happy happy birthday! / May all your dreams be soup!""","""生日快乐! 从西蒙汤普给你! 生日快乐! 愿你所有的梦想都变成汤""",“生日生日快乐！/ 西蒙汤馆送祝福！/ 生日生日快乐！/ 愿你梦想全成汤！”
+english_events_maingame:L15297,birthdayprivilege,FIX,"""Why were you born so succulent? / Why were you born at all? / Because you had no say in it / No say in it at all!""","""何以生出如此相生而为相生? - 你为什么出生? 因为你没有发言权 完全没有发言权!""",“为何生得如此鲜嫩？/ 为何非要生下来？/ 因为你无权过问，/ 一点也不能更改！”
+english_events_maingame:L15298,birthdayprivilege,FIX,"""Just know that on your birthday / You're my soup-er special pal! / Now be a good %BOYGIRL% this year...""","""你生日时就知道了"" ""你是我的汤 -er特别朋友"" 现在成为一个好%BOYGIRL% 今年...""",“生日这天记好了，/ 你是我的汤级好朋友！/ 今年当个乖 %BOYGIRL%……”
+english_events_maingame:L15299,birthdayprivilege,FIX,"""<OR_WE_WILL_HUNT_YOU_DOWN>""","""<OR_WE_WILL_HUNT_YOU_DOWN>""",“<否则我们将追杀你>”
+english_events_maingame:L15300,birthdayprivilege,FIX,Thanks for visiting your old pal Simon Soups for all your soup-endous birthday needs. See you next year!,谢谢你拜访你的老朋友西蒙·苏普斯 为你所有的汤末生日需要。 明年见!,谢谢来到老朋友西蒙·汤这里，满足你所有“汤当棒”的生日愿望。明年见！
+english_events_maingame:L15301,birthdayprivilege,POLISH,If you make it that long.,如果你能撑那么久的话,如果活得到那时候。
+english_events_maingame:L15302,birthdayprivilege,POLISH,What?,什麽?,什么？
+english_events_maingame:L15304,birthdayprivilege,POLISH,Hey again. Did you like the birthday show?,再来一次 你喜欢生日秀吗?,又见面啦，生日表演喜欢吗？
+english_events_maingame:L15305,birthdayprivilege,FIX,It was... threatening.,这是... 威胁。,挺……有威胁感的。
+english_events_maingame:L15306,birthdayprivilege,FIX,"Yup. Anyway, Simon Soups LLC would like to offer the birthday %BOYGIRL% a ""soup-er duper birthday perk"". You can pick anything off this list.","对 赛门·索普斯有限责任公司想给生日%BOYGIRL%提供""超级杜伯生日""的优惠. 你可以从名单上挑出任何东西",对。总之，西蒙汤馆有限公司，要送今天过生日的 %BOYGIRL% 一份“汤级无敌生日福利”。清单上随便选。
+english_events_maingame:L15307,birthdayprivilege,FIX,Be the first to cut a slice of the birthday soup!,做第一个切出一分生日汤!,第一个切生日汤！
+english_events_maingame:L15308,birthdayprivilege,FIX,A free brainstorming session for the creation of your very own soupsona.,免费集思广益会 创建自己的汤索纳。,免费来场头脑风暴，设计专属于你的汤版人设。
+english_events_maingame:L15309,birthdayprivilege,FIX,An exclusive lap dance from Simon himself!,赛门自己独家跳的腿舞!,西蒙本人，独家大腿舞！
+english_events_maingame:L15311,birthdayprivilege,POLISH,Okay. Here's your birthday-cake-flavored soup.,"好吧,我告诉你。 这是你的生日蛋糕味的汤",好，生日蛋糕味的汤来了。
+english_events_maingame:L15312,birthdayprivilege,FIX,"The waitress gets you a bowl of chicken broth full of rainbow sprinkles. She puts some birthday candles in it, but they just sink to the bottom of the bowl.","服务员给你一碗鸡汤 满是彩虹喷出。 她把一些生日蜡烛放进去,但只是沉入碗底.",服务员端来一碗洒满彩虹糖针的鸡汤，又往里放了几根生日蜡烛，全沉到碗底。
+english_events_maingame:L15314,birthdayprivilege,FIX,<INITIATING_BIRTHDAY_SOUP_CHANT_VER._38_[FINAL_FINAL!!_THIS_TIME_FOR_REAL_FINAL]:>,<INITIATING_BIRTHDAY_SOUP_CHANT_VER._38_[FINAL_FINAL!!_THIS_TIME_FOR_REAL_FINAL]:>,<启动生日汤颂歌_版本38_[最终最终！！这次真是最终版]：>
+english_events_maingame:L15315,birthdayprivilege,FIX,They sing yet another birthday song filled with soup puns and thinly-veiled death threats.,他们又唱了一首生日歌 里面充满了汤的双关语 还有微弱的死亡威胁,他们又唱生日歌，满篇都是汤的双关，还有几乎不加掩饰的死亡威胁。
+english_events_maingame:L15317,birthdayprivilege,FIX,"Kay, I got your Souper Sacred Soup-Cutting Knife (TM), %CURRENTPLAYERNAME%. Go nuts.","凯,我得到了你的苏普尔圣汤刀(TM),%CURRENTPLAYERNAME%。 疯了。",好了，%CURRENTPLAYERNAME%，超汤级神圣切汤刀 (TM) 给你。尽情切吧。
+english_events_maingame:L15318,birthdayprivilege,POLISH,Uh... what am I supposed to do with this? Soup is a liquid. It can't be cut.,额... 我该拿这个做什么? 汤是一剂出. 不可取而为割也.,呃……拿这个干什么？汤是液体，切不了。
+english_events_maingame:L15319,birthdayprivilege,POLISH,"C'mon, %CURRENTPLAYERNAME%, cut the soup! Don't be a little bitch!","来吧, %CURRENTPLAYERNAME%把汤切了! 别像个小婊子!",来嘛，%CURRENTPLAYERNAME%，切汤啊！别怂！
+english_events_maingame:L15320,birthdayprivilege,POLISH,"Okay, fine! You stick the knife in the soup and ""cut"" it...","好吧,没事的! 你用刀刺入汤里,""切""出. . .",好，行！你把刀插进汤里，“切”了一下……
+english_events_maingame:L15321,birthdayprivilege,FIX,And you actually get a solid slice of soup. What the fuck. What the fuck.,并且你得到一个扎实的一分汤。 何等为相. 何等为相.,居然真切下来一块固体汤。什么鬼。什么鬼。
+english_events_maingame:L15323,birthdayprivilege,FIX,"Hooray, birthday-soup time! Let's sing a song for our rapidly-aging friend!","万岁,生日大餐! 唱首歌给我们的快活朋友听!",万岁，生日汤时间！为这位飞速衰老的朋友，再唱首歌吧！
+english_events_maingame:L15324,birthdayprivilege,POLISH,"Ugh, ANOTHER song? Is that really necessary?","啊,另一首歌吗? 这真的有必要吗?",唉，又唱？真有必要吗？
+english_events_maingame:L15325,birthdayprivilege,FIX,<SINGING_IS_NONNEGOTIABLE>,<SINGING_IS_NONNEGOTIABLE>,<唱歌这事_没得商量>
+english_events_maingame:L15326,birthdayprivilege,FIX,<INITIATING_LIFE_CYCLE_OF_SOUP_SONG_[10_HOUR_LOOP]...>,<INITIATING_LIFE_CYCLE_OF_SOUP_SONG_[10_HOUR_LOOP]...>,<启动汤的生命循环之歌_[循环10小时]……>
+english_events_maingame:L15327,birthdayprivilege,FIX,"The animatronics sing again... and again... and again, their unblinking eyes staring into your soul with your every bite.","动画师又唱了一遍... 再说一遍... 再一次,他们的眼睛 无法眨动 凝视你的灵魂 用你的每一口。",机械玩偶唱了一遍，又一遍，再一遍。你每吃一口，那不眨的眼睛，就直勾勾望进灵魂里。
+english_events_maingame:L15328,birthdayprivilege,FIX,"You eat your baffling, physics-defying birthday soup at the cost of -N2 MIND... but gain +N2 STAMINA (because solid or not, it's still soup).","你吃你那令人困惑的 物理败坏的寿司汤 代价是N2 MIND... 但得到+N2 STAMINA(因为固体或非固体,仍是汤).",你吃下这份违反物理定律、莫名其妙的生日汤，失去了 -N2 头脑……不过，固体也好，液体也罢，汤就是汤，仍让你获得 +N2 体力。
+english_events_maingame:L15331,birthdayprivilege,POLISH,"That's great, pal! We'd love to have your soupsona permanently join the Simon Soups family. Let's get started!","棒极了,伙计! 我们想让汤索纳永久加入西蒙·苏普斯家族 开始吧!",太好了，朋友！我们很乐意让你的汤版人设，永久加入西蒙汤馆大家庭。开始吧！
+english_events_maingame:L15332,birthdayprivilege,FIX,<INITIATING_SOUPIFICATION_PROCEDURE_ED._[RESISTANCE_IS_FUTILE]:>,<INITIATING_SOUPIFICATION_PROCEDURE_ED._[RESISTANCE_IS_FUTILE]:>,<启动汤化流程_版本[反抗无效]：>
+english_events_maingame:L15334,birthdayprivilege,FIX,"No, no, stop -- Mr. Leek, put the ladle-shank down. We're not doing that procedure.","不,不,停下来... 李克,把拉链手帕放下来 我们不做那个程序。",不，不，停！韭葱先生，把勺子刀放下。不做那个流程。
+english_events_maingame:L15335,birthdayprivilege,FIX,"Sorry, sometimes the animatronics mistake the soupsona birthday perk with an old, now-very-illegal procedure they used to conduct. Silly robots...","抱歉,有时动画师会用他们以前 进行的很非法的旧手术 来错误地给汤松娜生日做生日礼物 傻机器人...",抱歉，机械玩偶有时会把汤版人设生日福利，跟以前那种如今已经严重违法的旧流程搞混。傻机器人……
+english_events_maingame:L15337,birthdayprivilege,FIX,<INITIATING_SOUPIFICATION_PROCEDURE_ED._[ABORT_VIOLENCE]:>,<INITIATING_SOUPIFICATION_PROCEDURE_ED._[ABORT_VIOLENCE]:>,<启动汤化流程_版本[停止暴力]：>
+english_events_maingame:L15338,birthdayprivilege,FIX,"That's great, pal! We'd love to have your soupsona [METAPHORICALLY] join the Simon Soups family [IN A NON-HARMFUL WAY]. Let's get started!","太棒了,伙计! 我们很想吃你的汤 [METAPHORICALLY] 加入赛门汤斯家族 [IN A NON-HARMFUL WAY]. 开始吧!",太好了，朋友！我们很乐意让你的汤版人设，在[比喻意义上]、[以不造成伤害的方式]加入西蒙汤馆大家庭。开始吧！
+english_events_maingame:L15339,birthdayprivilege,POLISH,"Tell us, what sort of soup lives at the core of your being, birthday %BOYGIRL%?","告诉我们,什么样的汤 生活的核心 你是什么,生日%BOYGIRL%?",来，今天过生日的 %BOYGIRL%，你的内心最深处，住着什么样的汤？
+english_events_maingame:L15340,birthdayprivilege,POLISH,"Hmm, good question. I like to think I'd be a free-spirited soup, with indomitable will and raw sex appeal... basically, a soup that fucks.","嗯,好问题。 我想做个自由自在的汤 意志和性欲的原创性吸引力 基本上,一个汤性交。",嗯，好问题。我觉得，该是一碗自由奔放、意志不屈，满身原始性魅力的汤……说白了，一碗很会搞的汤。
+english_events_maingame:L15341,birthdayprivilege,FIX,"Ohhh, I always thought soup was less into having sex and more into... spooning.","哦,我一直以为汤 不太喜欢做爱, 更多的喜欢... 勺子声。",哦——我还以为汤不太爱做爱，更喜欢……拿勺子挨着汤，贴贴抱抱。
+english_events_maingame:L15342,birthdayprivilege,POLISH,"Apparently not this soup, Scott. It will be a very wet soup that really needs to be eaten!","显然不是这个汤 斯科特. 这将是一个非常湿的汤, 真的需要吃!",斯科特，这碗显然不一样。它会特别湿，特别渴望被人吃！
+english_events_maingame:L15343,birthdayprivilege,FIX,Yum!,汤!,好吃！
+english_events_maingame:L15344,birthdayprivilege,FIX,"Over the next hour, you lose -N2 MIND brainstorming your soupsona, the most important representation of your inner self yet devised.","接下来的一小时里,你失去了N2 MIND集思广益 你的汤索纳,最重要的代表 你内心的自我 却设计。",接下来一小时，你绞尽脑汁，构思汤版人设，失去了 -N2 头脑。迄今为止，没什么比它更能代表你的内心了。
+english_events_maingame:L15345,birthdayprivilege,FIX,Seriously: MBTI tests? Zodiac signs? That shit's out. Soupsonas are THE personality indicator of the decade.,"认真的,MBTI测试? 黄道标志? 狗屎的出来。 苏普索纳斯是十年的个性指标.",真的，MBTI？星座？早过时了。汤版人设，才是这十年的性格指标。
+english_events_maingame:L15346,birthdayprivilege,FIX,"Congratulations, birthday %BOYGIRL%! Ladled straight out of your imagination, we present your very own soupsona!","恭喜你,生日%BOYGIRL%! 直接从你的想象中脱颖而出 我们介绍你的汤索纳!",恭喜，今天过生日的 %BOYGIRL%！从你的想象里直接舀出来，专属于你的汤版人设，登场！
+english_events_maingame:L15350,birthdayprivilege,POLISH,"Hey, it turned out pretty good! Best fake birthday ever! You gain +N2 HYPE.","嘿,结果还不错! 最好的假生日,有史以来! 得到+N2 HYPE.  You.",嘿，真不错！有史以来最棒的假生日！你获得 +N2 热度。
+english_events_maingame:L15352,birthdayprivilege,POLISH,Uh... that wasn't on the list.,额... 名单里没有这个,呃……清单上没有这个。
+english_events_maingame:L15354,birthdayprivilege,POLISH,"It's okay, I'll do it! Nothing gets my broth boiling like a good lap dance!","没关系,我来吧! 没有什么能让我的汤沸得像 跳个好腿舞一样!",没事，我来！没什么比一段大腿舞，更能让我汤汁沸腾！
+english_events_maingame:L15355,birthdayprivilege,POLISH,"Lap-dancing is my third-favorite thing, under ""soup"" and ""murder""!","跳拉普舞是我的第三喜事, 在""苏普""和""谋杀""下!",大腿舞，是我第三喜欢的东西，仅次于“汤”和“谋杀”！
+english_events_maingame:L15356,birthdayprivilege,POLISH,What?,什麽?,什么？
+english_events_maingame:L15358,birthdayprivilege,FIX,Mr. Leek...,劳伦斯先生 利克... 来,韭葱先生……
+english_events_maingame:L15360,birthdayprivilege,POLISH,"No, I said what I said! We're already off-script! CORPORATE CAN'T SILENCE ME!","不,我说了我说的话! 我们已经被解了 公司不能让我安静!",不，我就这么说了！都已经脱稿了，公司也别想堵我的嘴！
+english_events_maingame:L15361,birthdayprivilege,POLISH,Does this mean %CURRENTPLAYERNAME%'s actually gonna get a lap dance from an animatronic?! NO WAY!,这是否意味着 %CURRENTPLAYERNAME%真的要从动画师那里跳个大腿舞吗? 没门!,这意思是，%CURRENTPLAYERNAME% 真能享受机械玩偶的大腿舞？！不会吧！
+english_events_maingame:L15362,birthdayprivilege,FIX,<YES_WAY>,<YES_WAY>,<就是会>
+english_events_maingame:L15363,birthdayprivilege,FIX,<INITIATING_SEXUALLY_AROUSING_THEME_[!DO_NOT_RELEASE!]_NO._69_(NICE):>,<INITIATING_SEXUALLY_AROUSING_THEME_[!DO_NOT_RELEASE!]_NO._69_(NICE):>,<启动令人性兴奋的主题曲_[！禁止发布！]_编号69_（妙啊）：>
+english_events_maingame:L15364,birthdayprivilege,POLISH,"""Hey there pal, you're looking dreamy / Is that a carrot in your pocket, or are you happy to see me?""","""嘿,伙计,你看起来很梦幻"" ""那是你口袋里的胡萝卜吗,还是你很高兴看到我?""",“嘿，朋友，你看着真迷人／口袋里是胡萝卜，还是见我就来了精神？”
+english_events_maingame:L15365,birthdayprivilege,FIX,"""Your thighs are thiccer than cream-of-wheat / I'll grind on them as a birthday treat!""","""你的大腿比奶油小麦还粗"" ""我用它来做生日礼物""",“大腿比小麦奶糊还厚实／让我蹭一蹭，生日的福利！”
+english_events_maingame:L15366,birthdayprivilege,FIX,"""Like delicious ramen, we'll be spicy and leek-y! / Come on, gang! It's time to GET FREAKY!""","""像美味的拉面,我们会是辣和出彩! 来吧,伙计们! 是时候去吃快餐了!""",“像拉面一样，火辣又韭葱味！/ 来吧各位，该放浪一回！”
+english_events_maingame:L15367,birthdayprivilege,FIX,YAAAASSSS! FUCK YEEEEAH! TWERK THAT VEGGIE ASS! MAKE IT RAIN!,亚亚屁股! 他妈的YEEEAHA! 咬那个婊子屁股! 让它痛苦起来!,好耶！他妈的太棒了！扭那蔬菜屁股，撒钞票！
+english_events_maingame:L15368,birthdayprivilege,FIX,Polly showers the animatronics with -N6 MONEY. You see the waitress trying to sneakily scoop it all into her pockets.,波莉 给动画师们洗澡 给钱是N6 你看到那个服务员想偷偷地 把这些都塞进她的口袋里了,波莉朝机械玩偶撒出 -N6 金钱。你看见服务员正偷偷往口袋里搂钱。
+english_events_maingame:L15369,birthdayprivilege,FIX,We can make it rain too! Let's get this birthday %BOYGIRL% wet!,我们能让雨也下雨! 我们来过生日吧 %BOYGIRL% 湿了!,我们也会下雨！给今天过生日的 %BOYGIRL%，弄湿一身！
+english_events_maingame:L15370,birthdayprivilege,FIX,"Simon Soup pulls a cord from the ceiling and pours soup all over you, ""Flashdance""-style.","西蒙·汤从天花板上拉出一根绳子,并倒入汤来""花相""""花相""""花相""""花相"""".",西蒙·汤拉动天花板上的绳子，照《闪舞》那样，把汤浇了你一身。
+english_events_maingame:L15371,birthdayprivilege,FIX,BEST! FAKE! BIRTHDAY! EVER!,最好! 来点什么? 装作是假的! 生日快乐! 永远!,史上！最棒！假生日！
+english_events_maingame:L15372,birthdayprivilege,FIX,"You gain +N3 HYPE from the lap dance, and +N3 STAMINA from licking soup off Simon's pointy orange nub!",赛门尖尖橙色的花花花果上 和花花果上 的花花果上 的花果上 的花果上 的花果上 的花果上 的花果上 的花果上 的花果上 的花果上 的花果上 的花果上 的花果上 的花果上 的花果上 的花果上 的花果上 的花果上 的花果上 的花果上 的花果上 的花果上 的花果上 的花果上 的花果上 的花果上 的花上 的花果上 的花上 的花上 的花上 的花上 的花上 的花上 的花上 的花上 的花上 的花上 的花上 的花上 的花上 的花上 的花上 的花上 的花上 的花上 的花上 的花上 的花上 的花上 的花上 的花上 的花上 的,大腿舞让你获得 +N3 热度；从西蒙尖尖的橙色突起上舔汤，又让你获得 +N3 体力！
+english_events_maingame:L15380,howmanynights,POLISH,Work the night shift,上夜班 上夜班,打夜班工
+english_events_maingame:L15382,howmanynights,FIX,You and your friends walk into the restaurant. It smells like chicken stock with a hint of... blood?,你和你的朋友走进餐厅 闻起来像鸡肉的味道 有点... 血吗?,你和朋友们走进餐馆，闻到一股鸡汤味，还有点……血腥味？
+english_events_maingame:L15385,howmanynights,FIX,"Welcome to Simon Soups, where ""the broth of childhood and the vegetables of imagination are stirred together to create unforgettable magic.""","欢迎来到西蒙·汤普斯, 在那里,""童年的汤和想象的蔬菜 被激发在一起,创造出难忘的魔法""。",欢迎来到西蒙汤馆，这里“把童年的高汤，和想象力的蔬菜搅拌在一起，创造难忘的魔法”。
+english_events_maingame:L15386,howmanynights,FIX,"We wanted to ask about the ""Now Hiring"" sign out front. We could use some extra cash.","我们想问一下前面的""现在请客""牌子 我们能多用点现金",想问问门口那块“招聘中”的牌子。咱们想赚点外快。
+english_events_maingame:L15387,howmanynights,POLISH,"You're interested in the nightguard position? Sure, you're hired.","你对守夜人有兴趣吗? 当然,你被雇用了。",想当夜班保安？行，录用了。
+english_events_maingame:L15388,howmanynights,POLISH,"Oh, that's it? No interview? Sweet!","哦,就这样? 没有面试? 可爱!",哦，就这样？不面试？爽！
+english_events_maingame:L15389,howmanynights,POLISH,"Yeah, trust me, we're desperate. You just gotta sign a waiver first...","是的,相信我,我们很绝望。 你只要先签个弃权书...",对，相信我，真的缺人。先签个免责书就行……
+english_events_maingame:L15390,howmanynights,FIX,"...forfeiting your rights to sue Simon Soups if a ""soup-fueled animatronic murder"" happens during your shift.","...如果在轮班期间发生了""火上浇油的麻醉剂谋杀案"" 就会剥夺你起诉西蒙·汤普斯的权利",……同意上班时要是发生“喝汤驱动的机械玩偶谋杀案”，放弃起诉西蒙汤馆的权利。
+english_events_maingame:L15391,howmanynights,FIX,Uh...,额...,呃……
+english_events_maingame:L15392,howmanynights,POLISH,"Could you maybe tell me more about these ""soup-fueled murders"" before I make a snap judgment on that?","能不能先告诉我更多关于这些""燃料充沛的谋杀""的事 在我做出判断之前?",那在我仓促判断之前，能不能先说说，这种“喝汤驱动的谋杀”到底怎么回事？
+english_events_maingame:L15393,howmanynights,POLISH,Sure. Simon Soups was founded in the 1980s by a guy named Simon Shafton. He was a roboticist and a children's-entertainment genius.,"当然可以。 西蒙·索普斯由一位叫西蒙·沙夫顿的人于1980年代创立. 他是机器人学家,也是儿童娱乐天才.",行。西蒙汤馆创立于二十世纪八十年代，创始人叫西蒙·沙夫顿，是机器人专家，也是儿童娱乐业的天才。
+english_events_maingame:L15394,howmanynights,POLISH,"He also REALLY loved soup, and was honestly kind of a psycho about it.","他也很爱吃汤,而且很诚实地说,他是个疯子。",还特别爱汤，爱得都快变态了。
+english_events_maingame:L15395,howmanynights,FIX,Shafton designed the animatronics to carry out his aggressive soup agenda... meaning they do weird shit sometimes.,沙夫顿设计了动画术来进行他侵略性的汤计划...... 意思是有时候他们会做奇怪的事情,沙夫顿设计这些机械玩偶，就是为了执行他激进的汤大业……所以它们有时会干怪事。
+english_events_maingame:L15396,howmanynights,FIX,"The company got bought out a few years ago, and the new management's reprogrammed the animatronics for the most part...","公司几年前被收购,新管理层重新规划了动画片的大部分内容......",几年前公司被收购，新管理层已经给大部分机械玩偶重新编程……
+english_events_maingame:L15397,howmanynights,POLISH,But they still sometimes malfunction after dark. Hence the waiver.,"但是,它们有时在天黑后仍然会出故障. 因此,放弃。",可天黑后还是偶尔出故障。所以才要免责书。
+english_events_maingame:L15398,howmanynights,FIX,"Anyway, the job's yours if you want it; we'll basically take anybody. How many nights can I put you down for?","总之,如果你愿意,那份工作是你的;我们基本上要带走任何人。 多少个晚上可以让你失望?",总之，想干就来，基本谁都要。给你们排几个夜班？
+english_events_maingame:L15399,howmanynights,FIX,"Maybe just work one night; and maybe when you said ""work"", you sort of meant ""fool around"", not like ACTUAL WORKING, jeez.","也许只是工作一个晚上; 可能当你说""工作""的时候, 你有点意思是""在周围"", 不像 ACTUAL 工作,上帝。",也许就干一晚。而且，说“干活”，其实更像是“瞎玩”，又没说真干活，真是的。
+english_events_maingame:L15400,howmanynights,POLISH,"Dunno, these animatronics still used to be murderous. One night sounds like enough nights.",这些动画师以前还是杀人狂 一夜听起来足够了,不知道，这些机械玩偶以前毕竟会杀人。一晚就够了吧。
+english_events_maingame:L15401,howmanynights,FIX,Get the full experience: SIX NIGHTS AT SIMON'S!,获得全能体验:六夜在西蒙斯!.,完整体验：西蒙汤馆的六夜惊魂！
+english_events_maingame:L15403,howmanynights,POLISH,What? I'm confused. Do you want to work here or not?,什麽? 迷惑相见. 你到底想不想在这里工作?,什么？糊涂了。到底想不想上班？
+english_events_maingame:L15404,howmanynights,POLISH,"Oh, yeah, totally. We're hard workers. But we're even harder partiers, haha!","哦,是的,完全一样。 我们是勤奋的工人。 但我们更难玩,哈哈!",当然！咱们工作卖力，开趴更卖力，哈哈！
+english_events_maingame:L15405,howmanynights,POLISH,So... you DO want to work?,所以说... 你想工作吗?,所以……是想干活？
+english_events_maingame:L15406,howmanynights,POLISH,"Sure, but not in THAT way, you know?","当然,但不是这样,你知道吗?",当然，不过不是那种干法，懂吧？
+english_events_maingame:L15407,howmanynights,POLISH,"I literally don't know. Please, just say yes or no: are you taking the job?",我其实不知道。 请说是或否:你接受工作了吗?,完全不懂。直接说是或不是：这活，接不接？
+english_events_maingame:L15408,howmanynights,POLISH,"Hmm, well, if we leave a good review of Simon Soups, does that count as work?","嗯,如果我们留下一个很好的审查 西蒙汤普, 这算工作吗?",嗯，给西蒙汤馆写个好评，算干活吗？
+english_events_maingame:L15409,howmanynights,FIX,No.,没有。,不算。
+english_events_maingame:L15410,howmanynights,POLISH,"But it'd help you get a boost in sales! In a way, we're CREATING value for Simon Soups. You won't even have to pay us much!","但是这能帮你增加销售量! 某种程度上,我们给西蒙·汤普斯 带来了价值。 你甚至不用给我们很多钱!",可那能帮你提高销量！某种意义上，咱们在给西蒙汤馆创造价值。都不用付太多钱！
+english_events_maingame:L15411,howmanynights,POLISH,We wouldn't pay you anything for a good review. That would be illegal.,我们不会付你任何钱来做一个很好的审查的 那是非法的。,好评，我们一分钱也不会付。那违法。
+english_events_maingame:L15412,howmanynights,FIX,Then maybe we could test if the kiddie soup pool is working right. We'll be your soup pool testers!,也许我们可以测试 如果孩子的汤池是工作正确。 我们做你的汤池测试员!,那试试儿童汤泳池能不能正常用呢？我们当汤泳池测试员！
+english_events_maingame:L15413,howmanynights,POLISH,That isn't a job.,这不是工作。,那不是工作。
+english_events_maingame:L15414,howmanynights,POLISH,"Come onnnnn, it's for safety!","来啊,这是为了安全",拜托——为了安全嘛！
+english_events_maingame:L15415,howmanynights,FIX,You really think Simon Soups LLC values safety? Did you not hear the part about the murderous animatronic murder waiver?,你真的认为Simon Soups LLC重视安全吗? 你没听到关于谋杀的 幻象谋杀豁免的部分吗?,真觉得西蒙汤馆有限公司，在乎安全？刚才那个杀人机械玩偶谋杀免责书，没听见吗？
+english_events_maingame:L15416,howmanynights,POLISH,"Fine, fair enough... can we try the soup pool anyway?","好吧,公平一点... 我们能试试汤池吗?",行吧，有理……那汤泳池还能玩玩吗？
+english_events_maingame:L15417,howmanynights,FIX,If you want. It's -N2 MONEY for a swim.,若欲尔. -N2钱是游泳用的,想玩就玩，游一次 -N2 金钱。
+english_events_maingame:L15418,howmanynights,POLISH,Dang. Okay.,"该死 好吧,我告诉你。",哎，好吧。
+english_events_maingame:L15419,howmanynights,FIX,"Well, you failed to make any money today, but at least you gained +N2 HYPE doing the broth-backstroke!",你今天没赚到钱 但至少你得到了+N2 HYPE做回接活,今天钱是没赚到，不过你在高汤里练仰泳，还是获得了 +N2 热度！
+english_events_maingame:L15422,howmanynights,POLISH,You and your friends show up for your shift later that night.,那晚你和你的朋友来上班了,当天深夜，你和朋友们前来上班。
+english_events_maingame:L15423,howmanynights,FIX,"I'm scared, bros! What if the animatronics put us in a soup? I don't wanna be killed!","我害怕,兄弟们! 如果动画师把我们放入汤里怎么办? 我不想被杀死!",兄弟们，我害怕！万一机械玩偶把咱们炖成汤怎么办？不想被杀啊！
+english_events_maingame:L15425,howmanynights,FIX,SOUPRISE!!!,如此真实!,汤当惊喜吧！！！
+english_events_maingame:L15426,howmanynights,POLISH,WHOA! How long have you been lurking around that corner?,呜哇! 你潜伏在那个角落多久了?,哇！在那个拐角躲多久了？
+english_events_maingame:L15427,howmanynights,FIX,"Long enough to overhear that you think we want to peel the soft, tender flesh from your bones and make you into a delicious cream-of-nightguard soup!","足够久,你听到,你认为我们想剥取 从你的骨头软而柔软的肉 让你成为 一个美味的奶油夜警汤!",久到听见你们说，我们想把骨头上鲜嫩的肉剥下来，熬成一碗美味的奶油夜班保安汤！
+english_events_maingame:L15428,howmanynights,POLISH,"Well, the way you phrased that is NOT easing our worries.",你所说的方式 并不能减轻我们的忧虑,你这么措辞，可一点没让人放心。
+english_events_maingame:L15429,howmanynights,FIX,<BE_NOT_AFRAID_CHILDREN_WE_ARE_38.6%_HARMLESS>,<BE_NOT_AFRAID_CHILDREN_WE_ARE_38.6%_HARMLESS>,<孩子们别怕_我们的无害程度为38.6%>
+english_events_maingame:L15430,howmanynights,FIX,<INITIATING_CALMING_MELODY_[EVERY_SOUP_IN_ALPHABETICAL_ORDER.WAV]_TAPE_1_OF_6>,<INITIATING_CALMING_MELODY_[EVERY_SOUP_IN_ALPHABETICAL_ORDER.WAV]_TAPE_1_OF_6>,<启动安抚旋律_[按字母顺序列举所有汤.WAV]_第1/6盘>
+english_events_maingame:L15431,howmanynights,POLISH,"Oh, God. You're not gonna go through all six tapes, are you?",天呐 你不会把六盘磁带都翻一遍吧?,天啊，不是要把六盘磁带全放完吧？
+english_events_maingame:L15432,howmanynights,FIX,"""Gather round, pals! / It's time for Simon's troupe / To regale you with a song / Listing every single soup!""","""Gather回合,伙计! 是时候让西蒙的歌舞团 以一首歌来称呼你 列出每一个汤!""",“朋友们，围过来！/ 西蒙剧团要登台！/ 唱首歌，把汤数，/ 一种不漏，全唱出来！”
+english_events_maingame:L15433,howmanynights,FIX,"""A is for acquacotta, a traditional Italian dish! / B is for borscht, which can be eaten hot OR cold. Delish!""","""A是用于acquacotta,一种传统的意大利菜! / B为可被取用热活性或冷食的波许特. 烂透了!""",“A 是 acquacotta，意大利传统蔬菜汤！/ B 是 borscht，红菜汤冷热都好尝！”
+english_events_maingame:L15434,howmanynights,POLISH,"Yup, got it. You can stop now.","是的,明白了,我马上去 你现在可以停下来了。",嗯，明白，可以停了。
+english_events_maingame:L15435,howmanynights,FIX,"""C is for chicken noodle, which is great for curing a cold! / D is for dashi, a kelp stock that never gets old!""","""C是鸡面,这对治寒是很好的! D是用来买破烂的 海藻的股票 永远不老了!""",“C 是 chicken noodle，鸡汤面治感冒！/ D 是 dashi，昆布高汤永不过时了！”
+english_events_maingame:L15436,howmanynights,POLISH,"But this does. This song has gotten extremely old. Seriously, just go back to your stage and--","但这个是的。 这首歌已经变得非常老了。 说真的,回到你的舞台上...",可这个已经过时了。真听腻了。认真，回舞台去——
+english_events_maingame:L15437,howmanynights,FIX,"""E is for escudella, a beloved Catalan stew! / You eat it during the holidays! And F is for--""","""E是给埃斯库德拉的,一个可爱的加泰罗尼亚炖菜! 你放假的时候吃! F是用来...""",“E 是 escudella，加泰罗尼亚炖汤人人爱！/ 逢年过节要来喝，F 是——”
+english_events_maingame:L15438,howmanynights,POLISH,FUCK YOU! STOP LISTING SOUPS! I WOULD LITERALLY RATHER GET MURDERED THAN LISTEN TO THIS SONG!,你他妈的! 别吵了! 我甚至会让 被乱搞 而不是听这首歌!,去你妈的！别数汤了！我宁愿被杀，也不想再听这歌！
+english_events_maingame:L15439,howmanynights,FIX,"YOU ASKED FOR IT! SIMON, GIMME MY LADLE-SHANK!","你问它! 西蒙, 吉姆 我的妹妹桑克!",你自己要的！西蒙，把我的勺子刀拿来！
+english_events_maingame:L15441,howmanynights,FIX,"It's a good thing Polly is your least-murderable friend. You can see why this job is still hiring, though.",幸好这样 波莉 是你的最不杀人的朋友 你明白为什么这工作还在雇用吧,还好，波莉是朋友里最不容易再死一次的。不过，这份工怎么一直缺人，你算懂了。
+english_events_maingame:L15442,howmanynights,FIX,"You lose -N2 MIND listening to the animatronics list soups and chase you with sharpened ladles all night long, but at least you make +N2 MONEY!","你输了N2 MIND听动画列表汤 并用磨过的拉子追你一整晚, 但至少你赚了+N2 MONEY!",机械玩偶数着汤名，举磨尖的汤勺，追了你们一夜。你失去了 -N2 头脑，不过至少赚到 +N2 金钱！
+english_events_maingame:L15446,howmanynights,FIX,"You and your friends show up for your shift later that night. You go to the surveillance room, where the Soup Girl helps you get settled in for your first shift.","那晚你和你的朋友来上班了 你去监视室, 在那里,汤女孩帮助你安顿下来 你的第一班。",当天深夜，你们来上班。汤店姑娘带你们去监控室，帮忙安排第一班的工作。
+english_events_maingame:L15448,howmanynights,POLISH,See this camera? You just have to stare at it all night long... and not die. Those are your two main tasks.,看到这相机了吗? 你只要整晚盯着它看... 而不死不灭. 这是你的两个主要任务。,看见这个监控没？整晚盯着它看……再加上别死。主要就这两件事。
+english_events_maingame:L15449,howmanynights,POLISH,Just watching a camera and not dying... is this a great job... or a bad job?,"看着相机,不死... 这工作很棒... 还是工作不顺利?",只用看监控、不死……这工作……算好，还是坏？
+english_events_maingame:L15450,howmanynights,POLISH,"Well, that entirely depends on how murderous the animatronics feel...",这完全取决于 动画师们的杀人感受...,那就完全看机械玩偶，到底多想杀人了……
+english_events_maingame:L15451,howmanynights,POLISH,What?!,你说什么?,什么？！
+english_events_maingame:L15452,howmanynights,POLISH,Bye.,再见。,拜拜。
+english_events_maingame:L15454,howmanynights,POLISH,Polly... are we going to die?,波莉... 我们是不是要死了?,波莉……咱们会死吗？
+english_events_maingame:L15455,howmanynights,POLISH,Hmmm... maybe that murder waiver is just a standard thing in most jobs and we didn't know?,那个... 也许放弃谋杀只是大多数工作的标准 而我们不知道?,嗯……没准大部分工作，都有这种谋杀免责书，只是咱们不知道？
+english_events_maingame:L15456,howmanynights,POLISH,Oh... okay!,哦... 还好!,哦……好！
+english_events_maingame:L15458,howmanynights,KEEP,...,...,...
+english_events_maingame:L15459,howmanynights,POLISH,What was that?!,刚才是什么?,刚什么声音？！
+english_events_maingame:L15460,howmanynights,POLISH,"I think I saw something in that corner... go check the camera, Scott!","我想我看到角落里的东西... 去检查相机, 斯科特!",角落里好像有什么……斯科特，看看监控！
+english_events_maingame:L15461,howmanynights,FIX,"Phew, everything's okay, Polly. The animatronics even disappeared.","胡,一切都好,我没事, 波莉. 动画师甚至消失了。",呼，没事，波莉。机械玩偶都不见了。
+english_events_maingame:L15462,howmanynights,POLISH,WHY IS THAT A GOOD THING?!,为什么这是件好事?,那怎么会是好事？！
+english_events_maingame:L15463,howmanynights,POLISH,"They looked weird. It unsettled me. But it's okay, 'cause now they're gone!","他们看起来很奇怪。 令我不自在. 但是没关系,因为现在他们走了!",它们怪怪的，看着心慌。没事啦，现在都走了！
+english_events_maingame:L15465,howmanynights,POLISH,"SCOTT, THIS IS NOT A GOOD THING! SHUT THE DOOR!","斯科特,这不是一个好事情! 关上门!",斯科特，这可不是好事！关门！
+english_events_maingame:L15466,howmanynights,FIX,"You shut the door yourself, and as it closes you glimpse a nightmarish vision...","你自己关上门,当门关上时,你一眼就看到了夜梦...",你自己把门关上。就在合拢的瞬间，看见噩梦般的一幕……
+english_events_maingame:L15468,howmanynights,FIX,WHO WANTS SOME SOOOOOOOOOOUP?!,谁想要一些 suwooopoup!,谁想喝——汤——？！
+english_events_maingame:L15470,howmanynights,POLISH,"Polly, hear me out: what if they're legit offering us some soup? I'm sorta hungry.",波莉听着 如果他们能给我们一些汤呢? 我有点饿了,波莉，听我说。万一人家真是来送汤的呢？有点饿了。
+english_events_maingame:L15472,howmanynights,FIX,"""Hey there, pals! Welcome to my show! / I'm Simon Soups, and I'm ready to go! / So grab a spoon and open wide...""","""嘿,伙计! 欢迎光临我的节目! 我是西蒙·苏普斯 我准备好了! 抓住勺子,张开""",“嘿，朋友，欢迎来看场！/ 我叫西蒙·汤，随时准备上！/ 拿起勺子，嘴张大……”
+english_events_maingame:L15473,howmanynights,FIX,"""'CAUSE ME AND MY FRIENDS ARE COMING INSIDE!""","""因为我和我的朋友们要进去了!""",“因为我和朋友，都要进来啦！”
+english_events_maingame:L15475,howmanynights,FIX,"Scott and Polly shut the doors, and the three of you barricade yourselves in the surveillance room.","斯科特 财务报告和审定财务报表 波莉 关上门,你们三个在监视室里 自己挡住",斯科特和波莉关上门，你们三个把监控室堵得严严实实。
+english_events_maingame:L15476,howmanynights,FIX,You spend the entire six nights locked in there. Fun!,你花了整整六晚 锁在那里。 开心!,整整六夜，你们全锁在里面。好玩！
+english_events_maingame:L15477,howmanynights,FIX,"Working so much during the road trip drains your -N2 HYPE, and spending those nights keeping murderous robots at bay doesn't help either. You lose -N4 MIND.",路上工作太忙了 浪费了你的N2 HYPE 花那些晚上 将杀人机器人留在海湾也无济于事 你输了N4 mind.,旅行途中打这么多工，耗掉 -N2 热度；几个晚上还得挡住杀人机器人，更没好到哪儿去，又失去了 -N4 头脑。
+english_events_maingame:L15478,howmanynights,FIX,"But hey, you honored your contract, so you get +N5 MONEY, and +N1 STAMINA from some free soup you find in the surveillance room!","但是,嘿,你遵守了你的合同, 所以你得到+N5 钱,和+N1 STAMINA 从一些免费汤你发现 在监视室!",不过，你们履行合同，拿到了 +N5 金钱；还在监控室找到免费汤，吃出 +N1 体力！

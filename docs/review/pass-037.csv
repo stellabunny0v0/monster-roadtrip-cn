@@ -1,0 +1,67 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_pitstop:L1934,pitstop_passenger_lovefail_scott_1,POLISH,You find Scott doing some warm-up stretches.,你发现 斯科特 做一些热身伸展。,你发现斯科特正在拉伸热身。
+english_events_pitstop:L1935,pitstop_passenger_lovefail_scott_1,POLISH,Hey %CURRENTPLAYERNAME%! You need something? I was just about to go for a run.,顿 %CURRENTPLAYERNAME%! 需要什么吗? 我正准备去跑跑,嘿，%CURRENTPLAYERNAME%！找我有事吗？我正准备去跑步。
+english_events_pitstop:L1936,pitstop_passenger_lovefail_scott_1,FIX,"Oh, well, I wanted to hang out. Maybe I could join you on your run?","哦,好吧,我想挂出来。 也许我可以跟你一起跑?",哦，我想找你一起玩。要不，我跟你一起跑？
+english_events_pitstop:L1937,pitstop_passenger_lovefail_scott_1,POLISH,You can definitely try. Here we go!,你当然可以尝试。 开始了!,当然可以试试。出发喽！
+english_events_pitstop:L1939,pitstop_passenger_lovefail_scott_1,FIX,"Scott sprints away. You can't keep up, and end up collapsing in a puddle of your own vomit several minutes later.",斯科特 冲出跑道 你无法跟上 几分钟后在自己呕吐的泥潭中崩溃,斯科特飞奔而去。你跟不上，几分钟后就倒在了自己的呕吐物里。
+english_events_pitstop:L1940,pitstop_passenger_lovefail_scott_1,FIX,"Hopefully you weren't trying to impress Scott or anything, 'cause if so, you failed miserably. Sad trombone noise.","希望你不是想打动我 斯科特 或任何东西, 因为如果是这样, 你不幸失败了。 悲号出声.",希望你不是想给斯科特留下什么好印象，不然可就失败得太惨了。配上一声丧气的长号。
+english_events_pitstop:L1945,pitstop_passenger_lovefail_scott_2,FIX,"What's up, %CURRENTPLAYERNAME%? ...You wanna hang out?",怎么样? %CURRENTPLAYERNAME%? 你想出去玩玩吗?,嘿，%CURRENTPLAYERNAME%，怎么啦？……想找我玩？
+english_events_pitstop:L1946,pitstop_passenger_lovefail_scott_2,FIX,"Sorry, bro, but I already promised the stars that I'd spend some one-on-one time with them tonight.","对不起,兄弟,但我已经答应 明星们,我今晚会花一些 一对一的时间与他们在一起。",抱歉，兄弟，我已经答应星星了，今晚要单独陪陪它们。
+english_events_pitstop:L1947,pitstop_passenger_lovefail_scott_2,POLISH,"I've been so busy with the road trip, I haven't had any time to hang out with my favorite celestial buddies!",我一直忙于路途之行 没时间和我最爱的天体伙伴们玩了!,这趟公路旅行太忙了，我都没空陪我最喜欢的天上伙伴们玩！
+english_events_pitstop:L1948,pitstop_passenger_lovefail_scott_2,FIX,"Me and the stars have a lot of catching up to do. You understand, right?",我和星星们有很多事要做 你明白吗?,我跟星星们攒了好多话要聊呢。你能理解，对吧？
+english_events_pitstop:L1949,pitstop_passenger_lovefail_scott_2,FIX,"Uh... no. I don't understand your parasocial relationship with the stars at all, to be honest.","额... 没有。 老实说,我完全不明白你和星星的 准社会关系",呃……不能。说实话，我完全搞不懂，你怎么会跟星星有这种单方面的亲密关系。
+english_events_pitstop:L1950,pitstop_passenger_lovefail_scott_2,FIX,"Well, it's not MY fault you don't understand the magical friendship between a werewolf and his favorite stars. Look, I'll see you later.","你不明白狼人和他最爱的明星之间的神奇友谊 这不是我的错 听着,回头见。",你不懂狼人和他最爱的星星之间那神奇的友谊，这可不是我的错。总之，回头见。
+english_events_pitstop:L1955,pitstop_passenger_lovefail_polly_1,KEEP,"Oh, hey %CURRENTPLAYERNAME%... I'm guessing you wanna talk?",哦，嘿，%CURRENTPLAYERNAME%……我猜你想聊聊？,哦，嘿，%CURRENTPLAYERNAME%……我猜你想聊聊？
+english_events_pitstop:L1956,pitstop_passenger_lovefail_polly_1,FIX,"No offense, but I'm a little burnt out on socializing.",没别的意思，但我的社交电量快被榨干了。,无意冒犯，不过最近社交太多，我有点累了。
+english_events_pitstop:L1957,pitstop_passenger_lovefail_polly_1,KEEP,"This road trip's been fun, but it's been cutting into my Polly time, y'know?",这趟公路旅行挺好玩，可它一直在挤占我的‘波莉时间’，懂吧？,这趟公路旅行挺好玩，可它一直在挤占我的‘波莉时间’，懂吧？
+english_events_pitstop:L1958,pitstop_passenger_lovefail_polly_1,KEEP,"And I don't mean ""Polly time"" as in my fun, lovable catchphrase that means it's time to party; I mean it as in time with just Polly and no one else.",我说的‘波莉时间’不是那句可爱又好玩的口号——一听就知道该开趴了。我说的是只有波莉一个人的独处时间。,我说的‘波莉时间’不是那句可爱又好玩的口号——一听就知道该开趴了。我说的是只有波莉一个人的独处时间。
+english_events_pitstop:L1959,pitstop_passenger_lovefail_polly_1,KEEP,"So, if you don't mind, I'ma do some reading and silently judge people on Horny Dating App (TM). See you tomorrow.",所以，你要是不介意，我就看会儿书，再去‘饥渴交友软件™’上默默吐槽别人。明天见。,所以，你要是不介意，我就看会儿书，再去‘饥渴交友软件™’上默默吐槽别人。明天见。
+english_events_pitstop:L1964,pitstop_passenger_lovefail_polly_2,KEEP,You find Polly in the middle of a phone call.,你找到波莉时，她正在打电话。,你找到波莉时，她正在打电话。
+english_events_pitstop:L1965,pitstop_passenger_lovefail_polly_2,KEEP,"Yeah, Mom, it was INSANE. We pranked the entire convenience store into thinking slurpies were the ground-up bones of children! I've never laughed so hard!",对啊，妈，简直疯爆了。我们骗得整家便利店都以为冰沙是拿小孩的骨头磨出来的！我这辈子都没笑得这么狠过！,对啊，妈，简直疯爆了。我们骗得整家便利店都以为冰沙是拿小孩的骨头磨出来的！我这辈子都没笑得这么狠过！
+english_events_pitstop:L1966,pitstop_passenger_lovefail_polly_2,KEEP,"So yeah, the trip's been really fun... it hasn't been ALL fun and games, though.",所以啊，这趟旅行真的超好玩……不过也不全是嘻嘻哈哈。,所以啊，这趟旅行真的超好玩……不过也不全是嘻嘻哈哈。
+english_events_pitstop:L1967,pitstop_passenger_lovefail_polly_2,POLISH,"Like the other night, %CURRENTPLAYERNAME% and I had a conversation that completely turned me off -- sexually and otherwise.",比如前几天晚上，我跟 %CURRENTPLAYERNAME% 聊了一次，直接把我下头到彻底没感觉——性方面也是，其他方面也是。,比如前几天晚上，我跟%CURRENTPLAYERNAME%聊了一次，聊完什么兴致都没了——性方面也是，其他方面也是。
+english_events_pitstop:L1968,pitstop_passenger_lovefail_polly_2,KEEP,"Like, %HESHE%%VERB_'S_'RE% a good friend and I appreciate %HIMHER%, but dang... can't %HESHE% try not to murder my vibe?",就是说，%HESHE%%VERB_'S_'RE%个好朋友，我也很珍惜 %HIMHER%，但拜托……%HESHE%能不能别总把我的兴致一刀捅死？,就是说，%HESHE%%VERB_'S_'RE%个好朋友，我也很珍惜 %HIMHER%，但拜托……%HESHE%能不能别总把我的兴致一刀捅死？
+english_events_pitstop:L1969,pitstop_passenger_lovefail_polly_2,KEEP,"Oh... fuck... hey, %CURRENTPLAYERNAME%... uh, how much of that did you hear?",哦……操……嘿，%CURRENTPLAYERNAME%……呃，你听见多少？,哦……操……嘿，%CURRENTPLAYERNAME%……呃，你听见多少？
+english_events_pitstop:L1971,pitstop_passenger_lovefail_polly_2,KEEP,Definitely enough to teach you not to eavesdrop on others' conversations. You spend the rest of the night reflecting on how not to murder Polly's vibe.,听到的够让你长记性，别再偷听别人讲话了。剩下的夜晚，你都在反省怎样才能不扫波莉的兴。,听到的够让你长记性，别再偷听别人讲话了。剩下的夜晚，你都在反省怎样才能不扫波莉的兴。
+english_events_pitstop:L1976,pitstop_passenger_lovefail_aaravi_1,FIX,"No offense, but I'm a little burnt out on socializing.",无意冒犯 但我在社交上有点焦躁,无意冒犯，不过最近社交太多，我有点累了。
+english_events_pitstop:L1981,pitstop_passenger_lovefail_calculester_1,FIX,"No offense, but I'm a little burnt out on socializing.",无意冒犯 但我在社交上有点焦躁,无意冒犯，不过最近社交太多，我有点累了。
+english_events_pitstop:L1986,pitstop_passenger_lovefail_damien_1,FIX,"No offense, but I'm a little burnt out on socializing.",无意冒犯 但我在社交上有点焦躁,无意冒犯，不过最近社交太多，我有点累了。
+english_events_pitstop:L1991,pitstop_passenger_lovefail_joy_1,FIX,"No offense, but I'm a little burnt out on socializing.",无意冒犯 但我在社交上有点焦躁,无意冒犯，不过最近社交太多，我有点累了。
+english_events_pitstop:L1996,pitstop_passenger_lovefail_liam_1,FIX,"No offense, but I'm a little burnt out on socializing.",无意冒犯 但我在社交上有点焦躁,无意冒犯，不过最近社交太多，我有点累了。
+english_events_pitstop:L2001,pitstop_passenger_lovefail_milo_1,FIX,"No offense, but I'm a little burnt out on socializing.",无意冒犯 但我在社交上有点焦躁,无意冒犯，不过最近社交太多，我有点累了。
+english_events_pitstop:L2006,pitstop_passenger_lovefail_miranda_1,FIX,"No offense, but I'm a little burnt out on socializing.",无意冒犯 但我在社交上有点焦躁,无意冒犯，不过最近社交太多，我有点累了。
+english_events_pitstop:L2011,pitstop_passenger_lovefail_mothman_1,FIX,"No offense, but I'm a little burnt out on socializing.",无意冒犯 但我在社交上有点焦躁,无意冒犯，不过最近社交太多，我有点累了。
+english_events_pitstop:L2016,pitstop_passenger_lovefail_valerie_1,FIX,"No offense, but I'm a little burnt out on socializing.",无意冒犯 但我在社交上有点焦躁,无意冒犯，不过最近社交太多，我有点累了。
+english_events_pitstop:L2021,pitstop_passenger_lovefail_vera_1,FIX,"No offense, but I'm a little burnt out on socializing.",无意冒犯 但我在社交上有点焦躁,无意冒犯，不过最近社交太多，我有点累了。
+english_events_pitstop:L2026,pitstop_passenger_lovefail_zoe_1,FIX,"No offense, but I'm a little burnt out on socializing.",无意冒犯 但我在社交上有点焦躁,无意冒犯，不过最近社交太多，我有点累了。
+english_events_pitstop:L2031,pitstop_passenger_lovefail_stu_1,FIX,"No offense, but I'm a little burnt out on socializing.",无意冒犯 但我在社交上有点焦躁,无意冒犯，不过最近社交太多，我有点累了。
+english_events_pitstop:L2036,pitstop_passenger_lovefail_yellow_1,FIX,"No offense, but I'm a little burnt out on socializing.",无意冒犯 但我在社交上有点焦躁,无意冒犯，不过最近社交太多，我有点累了。
+english_events_pitstop:L2041,pitstop_passenger_lovefail_red_1,FIX,"No offense, but I'm a little burnt out on socializing.",无意冒犯 但我在社交上有点焦躁,无意冒犯，不过最近社交太多，我有点累了。
+english_events_pitstop:L2046,pitstop_passenger_lovefail_blue_1,FIX,"No offense, but I'm a little burnt out on socializing.",无意冒犯 但我在社交上有点焦躁,无意冒犯，不过最近社交太多，我有点累了。
+english_events_pitstop:L2051,pitstop_passenger_lovefail_green_1,FIX,"No offense, but I'm a little burnt out on socializing.",无意冒犯 但我在社交上有点焦躁,无意冒犯，不过最近社交太多，我有点累了。
+english_events_pitstop:L2056,pitstop_passenger_lovefail_adrien_1,FIX,"No offense, but I'm a little burnt out on socializing.",无意冒犯 但我在社交上有点焦躁,无意冒犯，不过最近社交太多，我有点累了。
+english_events_pitstop:L2061,pitstop_passenger_lovefail_hope_1,FIX,"No offense, but I'm a little burnt out on socializing.",无意冒犯 但我在社交上有点焦躁,无意冒犯，不过最近社交太多，我有点累了。
+english_events_pitstop:L2066,pitstop_passenger_lovefail_finn_1,FIX,"No offense, but I'm a little burnt out on socializing.",无意冒犯 但我在社交上有点焦躁,无意冒犯，不过最近社交太多，我有点累了。
+english_events_pitstop:L2071,pitstop_passenger_lovefail_dahliaappliance_1,FIX,"No offense, but I'm a little burnt out on socializing.",无意冒犯 但我在社交上有点焦躁,无意冒犯，不过最近社交太多，我有点累了。
+english_events_pitstop:L2076,pitstop_passenger_lovefail_lamb_1,FIX,"No offense, but I'm a little burnt out on socializing.",无意冒犯 但我在社交上有点焦躁,无意冒犯，不过最近社交太多，我有点累了。
+english_events_pitstop:L2081,pitstop_hitchhiker_changed_aaravi,FIX,Aaravi left the party!,阿拉薇 离开派对!,阿拉维离开了队伍！
+english_events_pitstop:L2086,pitstop_hitchhiker_changed_calculester,FIX,Calculester left the party!,卡库莱斯特 离开派对!,计算斯基离开了队伍！
+english_events_pitstop:L2091,pitstop_hitchhiker_changed_damien,FIX,Damien left the party!,达米恩 离开派对!,德魔离开了队伍！
+english_events_pitstop:L2096,pitstop_hitchhiker_changed_joy,FIX,Joy left the party!,乔伊离开了派对!,乔伊离开了队伍！
+english_events_pitstop:L2101,pitstop_hitchhiker_changed_liam,FIX,Liam left the party!,利亚姆 离开派对!,李姆离开了队伍！
+english_events_pitstop:L2106,pitstop_hitchhiker_changed_milo,FIX,Milo left the party!,迈洛 离开派对!,迈洛离开了队伍！
+english_events_pitstop:L2111,pitstop_hitchhiker_changed_miranda,FIX,Miranda left the party!,米兰达 离开派对!,米兰达离开了队伍！
+english_events_pitstop:L2116,pitstop_hitchhiker_changed_mothman,FIX,Moss Mann left the party!,莫斯曼离开了派对!,莫斯·曼离开了队伍！
+english_events_pitstop:L2121,pitstop_hitchhiker_changed_stu,FIX,Stu left the party!,斯图离开了派对!,斯图离开了队伍！
+english_events_pitstop:L2126,pitstop_hitchhiker_changed_valerie,FIX,Valerie left the party!,瓦莱丽离开了派对!,瓦莱丽离开了队伍！
+english_events_pitstop:L2131,pitstop_hitchhiker_changed_vera,FIX,Vera left the party!,维拉 离开派对!,薇拉离开了队伍！
+english_events_pitstop:L2136,pitstop_hitchhiker_changed_zoe,FIX,Zoe left the party!,佐伊 离开派对!,兹伊离开了队伍！
+english_events_pitstop:L2141,pitstop_hitchhiker_changed_yellow,FIX,Oz left the party!,奥兹 离开派对!,奥兹离开了队伍！
+english_events_pitstop:L2146,pitstop_hitchhiker_changed_red,FIX,Amira left the party!,阿米拉 离开派对!,阿米拉离开了队伍！
+english_events_pitstop:L2151,pitstop_hitchhiker_changed_blue,FIX,Vicky left the party!,维姬 离开派对!,薇姬离开了队伍！
+english_events_pitstop:L2156,pitstop_hitchhiker_changed_green,FIX,Brian left the party!,布莱恩 离开派对!,布赖恩离开了队伍！
+english_events_pitstop:L2161,pitstop_hitchhiker_changed_adrien,FIX,Adrien left the party!,阿德里安离开了派对!,阿德里安离开了队伍！
+english_events_pitstop:L2166,pitstop_hitchhiker_changed_hope,FIX,Hope left the party!,希望离开了派对!,希望女巫离开了队伍！
+english_events_pitstop:L2171,pitstop_hitchhiker_changed_finn,FIX,Finn left the party!,Finn离开派对了!,芬恩离开了队伍！
+english_events_pitstop:L2176,pitstop_hitchhiker_changed_dahliaappliance,FIX,Dahlia left the party!,达莉娅 离开派对!,达丽雅离开了队伍！
+english_events_pitstop:L2181,pitstop_hitchhiker_changed_lamb,FIX,The Lamb left the party!,羔羊离开了派对!,羔羊离开了队伍！

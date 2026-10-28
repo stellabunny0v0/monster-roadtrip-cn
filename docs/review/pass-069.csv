@@ -1,0 +1,95 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_pitstop:L7575,cdadrienchange,FIX,Changing the Merkingdom,改变默金多姆,改变人鱼王国
+english_events_pitstop:L7577,cdadrienchange,FIX,Changing the Merkingdom? That's easier said than done!,改变默金多姆? 说起来比做起来容易!,改变人鱼王国？说起来容易，做起来难！
+english_events_pitstop:L7578,cdadrienchange,POLISH,"Maybe; but if we don't challenge ourselves with the task, change might never happen!","也许;但如果我们不以任务挑战自己,改变就永远不会发生!",也许吧，可要是我们连试都不敢试，那就可能永远不会有改变！
+english_events_pitstop:L7579,cdadrienchange,KEEP,"You're not wrong, %CURRENTPLAYERNAME%.",你没有错 %CURRENTPLAYERNAME%.,你没有错 %CURRENTPLAYERNAME%.
+english_events_pitstop:L7580,cdadrienchange,POLISH,But how do you bring change to a place so rooted in tradition and so uncritical of the Crown's unethical practices?,"但是,你如何给一个根植于传统、不批评王室不道德做法的地方带来变化?",可一个地方，传统根深蒂固，人们对王室那些不道德的做法又毫无质疑，该怎么改变呢？
+english_events_pitstop:L7581,cdadrienchange,FIX,With the power of dance!,拥有舞蹈的力量!,靠舞蹈的力量！
+english_events_pitstop:L7582,cdadrienchange,POLISH,"You're silly... but no, for real: how do we bring about change?","你个傻子... 但是,不,真的:我们如何实现变革?",你可真逗……不过说真的，我们该怎么推动变革？
+english_events_pitstop:L7583,cdadrienchange,FIX,I've discussed this topic with some like-minded peers in court.,我和一些志同道合的同僚在法庭上讨论了这个话题.,我和宫廷里几位志同道合的同僚，讨论过这个问题。
+english_events_pitstop:L7584,cdadrienchange,FIX,"Navigating what we could do and what might happen is like travelling through a tortuous maze... which, more often than not, ends with our heads on a pike.","探索我们所能做的和可能发生的事情 就像穿越一个曲折的迷宫... 更常见的是,我们头朝上",想弄清能做什么、又会有什么后果，就像走进一座曲折的迷宫……而大多数路的尽头，都是我们的脑袋被插在长矛上。
+english_events_pitstop:L7585,cdadrienchange,KEEP,Not ideal.,不尽理想.,不尽理想.
+english_events_pitstop:L7586,cdadrienchange,KEEP,Not ideal indeed.,实在不理想,实在不理想
+english_events_pitstop:L7587,cdadrienchange,FIX,"Well, tell me what you've reflected on with these other people and let's work from there.","好吧,告诉我你有什么想法 与这些其他人,让我们从那里工作。",那就说说你们都想过些什么，我们再接着想。
+english_events_pitstop:L7588,cdadrienchange,FIX,There's nothing to be lost by two dreamers just discussing how things could be better...,没有什么可以让两个梦想家失去的 只是讨论事情会好起来...,两个怀抱理想的人，只是聊聊怎么让一切变得更好，又没什么损失……
+english_events_pitstop:L7589,cdadrienchange,POLISH,"Hmmm... well, it can't be a sudden change, that's for sure.","那个... 这不可能是突然的改变,这是肯定的。",嗯……首先，可以肯定，不能变得太突然。
+english_events_pitstop:L7590,cdadrienchange,FIX,"It sounds ideal, but the Merkingdom isn't ready for change, and trying to apply it bluntly and suddenly won't have a lasting effect.","这听起来很理想,但""默金多姆""还没有准备好进行变革,试图直截了当地应用它,突然无法产生持久的效果.",骤然变革听着很美好，可人鱼王国还没做好准备。强硬地一蹴而就，也不会有长久的效果。
+english_events_pitstop:L7591,cdadrienchange,FIX,"It needs to work long-term, gotcha.","它需要长期工作,Gotcha。",得从长远考虑，明白了。
+english_events_pitstop:L7592,cdadrienchange,POLISH,We also can't fight back by sacrificing our own principles and using the same horrible tactics we despise...,"我们也不能通过牺牲自己的原则,使用我们鄙视的同样可怕的战术来反击......",我们也不能牺牲自己的原则，用自己最鄙视的那些可怕手段去反抗……
+english_events_pitstop:L7593,cdadrienchange,KEEP,Otherwise we could lose ourselves in this crusade... and what would be the point then?,"否则,我们会在这场战役中失去自我... 那又有什么意义呢?","否则,我们会在这场战役中失去自我... 那又有什么意义呢?"
+english_events_pitstop:L7594,cdadrienchange,POLISH,"I've gotta say, Adrien: this already sounded like a tough endeavor... and all these caveats aren't making it any easier!",我得说 阿德里安 这听起来已经很辛苦了... 所有这些警告 并没有使它变得更容易!,不得不说，阿德里安，这事本来就够难了……再加上这些限制，更难了！
+english_events_pitstop:L7595,cdadrienchange,KEEP,No one said this was going to be easy...,没人说这很容易...,没人说这很容易...
+english_events_pitstop:L7596,cdadrienchange,KEEP,...but we can't give up.,但我们不能放弃。,但我们不能放弃。
+english_events_pitstop:L7597,cdadrienchange,FIX,I trust that change is possible. I trust that the Merkingdom can be better.,我相信改变是可能的。 我相信默金多姆会更好,我相信改变是可能的。我相信，人鱼王国可以变得更好。
+english_events_pitstop:L7598,cdadrienchange,FIX,It can! But how could you bring about such change...?,"它会的! 但是,你怎么能带来这样的变化?",当然可以！可是，要怎样才能带来这样的改变呢……？
+english_events_pitstop:L7599,cdadrienchange,FIX,The people won't listen to dissidents... but what if you could find someone in a place of power who would listen to reason and become the face of change?,"人民不会听持不同政见者的话... 但是,如果你能找到一个人 在权力的地方 谁会听 理性,成为变化的面孔?",民众听不进异议者的话……可要是能找到一位掌权的人，既听得进道理，又能站出来引领变革呢？
+english_events_pitstop:L7600,cdadrienchange,FIX,Don't overcomplicate it: go guillotine.,不要过于复杂:去断头台.,别想那么复杂：上断头台。
+english_events_pitstop:L7601,cdadrienchange,FIX,"You can't change the Merkingdom. Wisdom is accepting what you can't change. Apply for citizenship in Belgium, a place that's probably much nicer than the Merkingdom anyway.","你不能改变默金多姆。 智慧是接受你无法改变的东西 申请比利时国籍, 这个地方可能比默金多姆要好得多。",你改变不了人鱼王国。接受无法改变的事，才是智慧。去申请比利时国籍吧，反正那里大概比人鱼王国好多了。
+english_events_pitstop:L7603,cdadrienchange,POLISH,Um... that's... not a farfetched strategy.,那个... 这是... 不是牵强的策略,嗯……这个策略……倒不是异想天开。
+english_events_pitstop:L7604,cdadrienchange,FIX,"The biggest roadblock we face when deciding how to bring real, lasting change to the Merkingdom is how strong the Crown's grip over the people is.","在决定如何给默金多克带来真正,持久的变革时,我们面临的最大路障是王室对人民的控制有多强大.",我们想给人鱼王国带来真正、持久的变革，最大的障碍，就是王室对民众的掌控太牢了。
+english_events_pitstop:L7605,cdadrienchange,FIX,"They have mastered the art of propaganda, and they even weaponize religion expertly.","他们精通了宣传艺术,甚至把宗教武器化为专家。",他们深谙宣传之道，甚至能熟练地把宗教变成武器。
+english_events_pitstop:L7606,cdadrienchange,FIX,Most people are truly devoted to the Vanderbilts.,多数人真正致力于范德比尔特人.,大多数民众，都真心拥戴范德比尔特家族。
+english_events_pitstop:L7607,cdadrienchange,POLISH,"I mean... not that it matters... but they are a bunch of charming, sexy, powerful sisters...","我是说... 这并不重要... 但他们是一群迷人,性感,强大的姐妹...",我是说……虽然这不是重点……可那几位姐妹，确实又迷人、又性感、又强大啊……
+english_events_pitstop:L7608,cdadrienchange,FIX,"I may abhor their methods, but that doesn't mean I can disagree with you.","我可能讨厌他们的方法, 但这并不意味着我不能不同意你。",我厌恶她们的手段，但你这话，我还真没法反驳。
+english_events_pitstop:L7609,cdadrienchange,POLISH,"The thing is, you're right: perhaps the most clever way of circumventing this problem is by not completely toppling the Vanderbilt regime.","问题是,你说得对:也许绕过这个问题最聪明的方法 就是不完全推翻范德比尔特政权。",关键是，你说得对：要绕过这个难题，最聪明的办法，也许就是不把范德比尔特政权彻底推翻。
+english_events_pitstop:L7610,cdadrienchange,FIX,But... who could be our face for change?,不过... 谁能成为我们改变的面孔?,不过……谁能站出来引领这场变革呢？
+english_events_pitstop:L7611,cdadrienchange,POLISH,"I can't help but admire Bellanda's military prowess, but she has trained herself not to get too personal when waging war.","我不能不钦佩贝兰达的军事能干,但她训练自己在发动战争时不会变得过于个人化.",贝兰达的军事才能，确实让我钦佩。可她已经训练得在打仗时，不带太多个人感情。
+english_events_pitstop:L7612,cdadrienchange,POLISH,"She sees an army, not the individuals who form its ranks.","她看到一支军队,而不是组成军队的人。",她眼里是一支军队，不是组成军队的一个个活人。
+english_events_pitstop:L7613,cdadrienchange,POLISH,And Laudanda? She's playing the most complex game of chess in which we all are her pawns... she'd never accept change unless it directly benefitted her or the Crown.,劳丹达呢? 她在玩最复杂的一局棋 我们都是她的棋子... 她不会接受改变 除非它直接使她或王室受益,至于劳丹达？她下着一盘最复杂的棋，而我们全是她的棋子……除非能让她或王室直接获益，否则她绝不会接受变革。
+english_events_pitstop:L7614,cdadrienchange,FIX,What about Miranda?,怎么样 米兰达?,那米兰达呢？
+english_events_pitstop:L7615,cdadrienchange,KEEP,Miranda?,米兰达?,米兰达?
+english_events_pitstop:L7616,cdadrienchange,FIX,"Yes, think about it: she was sent to study in the Monster Realm, making her the one least influenced by the Vanderbilt ways.","是的,想想看:她被派去""魔兽王国""学习,使她成为受""范德比尔特""方法影响最小的一位.",对啊，你想想：她被送到怪物世界读书，受范德比尔特家那一套的影响最少。
+english_events_pitstop:L7617,cdadrienchange,FIX,And I've heard that she's recently started to question the ways of the Merkingdom!,我听说她最近开始质疑默金多姆的行踪!,而且，我听说她最近已经开始质疑人鱼王国的做法了！
+english_events_pitstop:L7618,cdadrienchange,KEEP,...Really?,...真的吗?,...真的吗?
+english_events_pitstop:L7619,cdadrienchange,POLISH,"It does make sense... she's obnoxious, but Miranda is undoubtedly charming and easy to love...","这确实有道理... 她很讨厌,但是... 米兰达 无疑是迷人和容易相爱的...",确实有道理……虽然她很招人烦，可米兰达无疑很有魅力，也很容易让人喜欢……
+english_events_pitstop:L7620,cdadrienchange,FIX,"...BY THE MERPEOPLE, THAT IS.","...亲爱的,这是。",……我是说，让人鱼民众喜欢。
+english_events_pitstop:L7621,cdadrienchange,FIX,See? It looks we have the seed of a plan for real change in the Merkingdom!,看到没? 看来我们有 真正改变默金多姆的计划的种子了!,看吧？我们好像已经有了个初步计划，能让人鱼王国真正发生改变！
+english_events_pitstop:L7622,cdadrienchange,POLISH,"Indeed, %CURRENTPLAYERNAME%. We can't rush this... it's still a delicate plan that should be executed perfectly.",确实 %CURRENTPLAYERNAME%. 我们不能急着... 它仍然是一个微妙的计划 应该被完美地执行。,是的，%CURRENTPLAYERNAME%。这件事不能急……计划依然需要小心处理，执行更得完美无缺。
+english_events_pitstop:L7623,cdadrienchange,FIX,But I could bring this idea to the other people craving change down there.,但我可以把这个想法带到其他人 渴望那里的变化。,不过，我可以把这个想法，带给水下那些同样渴望变革的人。
+english_events_pitstop:L7624,cdadrienchange,KEEP,I can't stress enough how grateful I am. Is there anything I can do for you?,我实在是太感激了 有什么我可以帮你的吗?,我实在是太感激了 有什么我可以帮你的吗?
+english_events_pitstop:L7625,cdadrienchange,FIX,"Well, your company is more than enough, Adrien. Let's watch the night sky together, shall we?",你的公司已经足够了 阿德里安 让我们一起看夜空吧?,有你陪着就足够了，阿德里安。一起看夜空吧，好吗？
+english_events_pitstop:L7626,cdadrienchange,KEEP,I'd love that.,我很乐意,我很乐意
+english_events_pitstop:L7627,cdadrienchange,POLISH,"And so you do. Adrien is full of hope and excitement. Change might not happen soon... but now, it looks more possible than ever before.","所以,你这样做。 阿德里安充满了希望和兴奋. 变化可能不会很快发生... 但现在,它看起来比以往更可能。",于是，你们一起仰望夜空。阿德里安满怀希望，激动不已。改变也许不会很快到来……但现在，它看起来比以往任何时候都更有可能。
+english_events_pitstop:L7628,cdadrienchange,KEEP,Huzzah!,万岁!,万岁!
+english_events_pitstop:L7630,cdadrienchange,FIX,Um... but that would be... quite the sudden change.,"那个... 但是,这将是... 突然变了",嗯……可是这样……变得也太突然了。
+english_events_pitstop:L7631,cdadrienchange,KEEP,The suddenest of changes!,最突然的变化!,最突然的变化!
+english_events_pitstop:L7632,cdadrienchange,POLISH,"Yet I made it quite clear that sudden changes are not good, ultimately.","然而,我非常明确地说,突然的改变最终并不好。",可我刚才说得很清楚，从长远看，骤然变革不是好事。
+english_events_pitstop:L7633,cdadrienchange,FIX,"Oh, did you? I have a pretty short attention span.","哦,是吗? 我有很短的注意力跨度。",哦，你说过吗？我这人注意力不太持久。
+english_events_pitstop:L7634,cdadrienchange,KEEP,...Right.,对,对
+english_events_pitstop:L7635,cdadrienchange,FIX,"The thing is, if we execute the ones in power -- which is a tall order in and of itself... soon someone will crawl up to take their place, and nothing will change.","问题是,如果我们执行那些掌权者——这本身就是一个很高的顺序—— 很快有人会爬上来取而代之 没有什么会改变的",问题是，就算我们处决了掌权者——光这件事本身就难得很——很快也会有别人爬上来取而代之，结果什么都没变。
+english_events_pitstop:L7636,cdadrienchange,KEEP,Well...,这个...,这个...
+english_events_pitstop:L7637,cdadrienchange,FIX,...you could guillotine them too.,...你也可以断了他们。,……那就把他们也送上断头台。
+english_events_pitstop:L7638,cdadrienchange,POLISH,"Sure. Then, following the same rationale, someone else would take their place.","当然可以。 然后,按照同样的理由,其他人将取代他们。",当然。可照这个逻辑，又会有人来接替他们。
+english_events_pitstop:L7639,cdadrienchange,POLISH,"Maybe, but then you guillotine them too!","也许吧,但你也会断了他们的头!",可能吧，那就再把这些人送上断头台！
+english_events_pitstop:L7640,cdadrienchange,FIX,"And should we keep doing this ad infinitum, or...?","我们应该继续做这个广告 无限,还是... ?",然后，我们就这样无穷无尽地继续下去，还是……？
+english_events_pitstop:L7641,cdadrienchange,FIX,"Until the Merkingdom is the fairest, most headless kingdom in the whole realm!","直到默金多姆成为整个王国中最美丽,最无头的王国!",一直到人鱼王国成为整个世界里，最公正、最没有脑袋的王国！
+english_events_pitstop:L7642,cdadrienchange,POLISH,"I trust you can see the inefficacy of your proposal, %CURRENTPLAYERNAME%.",我相信你能看出 你的提议是无效的 %CURRENTPLAYERNAME%.,%CURRENTPLAYERNAME%，我相信你也看得出，这个提议行不通。
+english_events_pitstop:L7643,cdadrienchange,KEEP,I do... it's just that I really like guillotines.,我确实... 只是我真的很喜欢断头台,我确实... 只是我真的很喜欢断头台
+english_events_pitstop:L7644,cdadrienchange,FIX,I hear you; but it's still a bad idea.,"我听见了,但还是个坏主意",我明白，可这依然不是个好主意。
+english_events_pitstop:L7645,cdadrienchange,POLISH,"Not to mention, it's basically jumping straight to using the same tactics the Crown uses.","更别提了,它基本上直接跳到使用与王室相同的战术.",更别说，这根本就是直接用上了王室那一套手段。
+english_events_pitstop:L7646,cdadrienchange,KEEP,...,...,...
+english_events_pitstop:L7647,cdadrienchange,POLISH,"I'm sure your intentions are good, but your advice is honestly terrible.","我敢肯定,你的意图是好的, 但你的建议是真正的可怕的。",我相信你是好意，可你的建议实在糟糕。
+english_events_pitstop:L7648,cdadrienchange,POLISH,I must depart now... this conversation has reminded me of the urgency of my many ventures.,我必须马上离开... 这次谈话让我想起我众多事业的迫切性.,我得告辞了……这次谈话提醒了我，手头许多事都得抓紧。
+english_events_pitstop:L7649,cdadrienchange,POLISH,"Farewell, %CURRENTPLAYERNAME%. Keep trying your best to give actually useful advice.","再见, %CURRENTPLAYERNAME%. 继续尽力给出实际有用的建议.",再会，%CURRENTPLAYERNAME%。继续努力，争取下次给出真正有用的建议。
+english_events_pitstop:L7650,cdadrienchange,FIX,Practice makes perfect!,练习很完美!,熟能生巧！
+english_events_pitstop:L7651,cdadrienchange,FIX,"Adrien leaves, heading toward his next quest. You wish him the best... but it still tastes a bit sour, being a failure and all.","阿德里安离开,前往他的下个征程。 你祝他一切顺利... 但它的味道还是有点酸, 是一个失败和所有。",阿德里安离开，踏上下一段征程。你祝他一切顺利……可毕竟这次搞砸了，心里还是有点不是滋味。
+english_events_pitstop:L7653,cdadrienchange,FIX,"That sounds like giving up on the Merkingdom, though.",这听起来就像放弃了默金多姆号。,可这听起来，就是放弃人鱼王国了。
+english_events_pitstop:L7654,cdadrienchange,POLISH,It's not giving up! It's just re-locating your efforts to a more promising kingdom: Belgium.,它不会放弃的! 它只是将你的努力重新投向一个更有希望的王国:比利时.,不是放弃！只是把你的努力，投入一个更有前途的王国：比利时。
+english_events_pitstop:L7655,cdadrienchange,POLISH,Is Belgium even a kingdom?,比利时甚至是一个王国吗?,比利时也是王国吗？
+english_events_pitstop:L7656,cdadrienchange,FIX,"As in, having a monarchy and all...?","就像,拥有君主制和所有...",就是，也有君主制什么的……？
+english_events_pitstop:L7657,cdadrienchange,KEEP,It is! Belgium is a hereditary parliamentary constitutional monarchy.,没错! 比利时是世袭的议会君主立宪制国家.,没错! 比利时是世袭的议会君主立宪制国家.
+english_events_pitstop:L7658,cdadrienchange,POLISH,"Fine, but still, I told you: I want to change my motherland for the better.","好吧,但还是,我告诉你:我想把祖国改好。",好吧，可我说了：我想让自己的祖国变得更好。
+english_events_pitstop:L7659,cdadrienchange,FIX,I refuse to give up on the Merkingdom.,我拒绝放弃默金多姆,我绝不放弃人鱼王国。
+english_events_pitstop:L7660,cdadrienchange,KEEP,But Belgium has tens of types of Belgian Waffles!,但比利时有数十种比利时华夫饼!,但比利时有数十种比利时华夫饼!
+english_events_pitstop:L7661,cdadrienchange,FIX,"BELGIAN WAFFLES, Adrien!","贝吉安・瓦夫斯,阿德里安!",比利时华夫饼啊，阿德里安！
+english_events_pitstop:L7662,cdadrienchange,POLISH,"Yes, I hear you, and yet...","是的,我听见了,然而...",是，我听到了，可是……
+english_events_pitstop:L7663,cdadrienchange,KEEP,Did you know Belgians invented French fries?,你知道比利时人发明了薯条吗?,你知道比利时人发明了薯条吗?
+english_events_pitstop:L7664,cdadrienchange,FIX,That can't be right.,这不可能是正确。,不对吧。
+english_events_pitstop:L7665,cdadrienchange,FIX,"I know. The name sounds very French, but Belgians claim they invented French fries.","我知道,我记得 I know. 这个名字听起来很法式,但比利时人声称他们发明了法式薯条.",我懂。名字听着很法国，可比利时人说，法式薯条是他们发明的。
+english_events_pitstop:L7666,cdadrienchange,FIX,"And I, for one, believe them.","而我,作为一个,相信他们。",反正，我信他们。
+english_events_pitstop:L7667,cdadrienchange,POLISH,"Stop, %CURRENTPLAYERNAME%.",停下来 %CURRENTPLAYERNAME%.,打住，%CURRENTPLAYERNAME%。
+english_events_pitstop:L7668,cdadrienchange,POLISH,"I was clear in my quest for change, and here you are, trying to seduce me with these factoids about Belgium.","我对变革的追求很明确,而你在这里,试图用这些关于比利时的事实片来引诱我。",我说得很清楚，我要的是变革，你却在这儿拿比利时的冷知识诱惑我。
+english_events_pitstop:L7669,cdadrienchange,POLISH,"Who are you? My friend, or some sort of influencer sponsored by the Belgian department of tourism?",你是谁? 我的朋友 还是比利时旅游部赞助的某种影响者?,你到底是谁？我的朋友，还是比利时旅游部赞助的网红？
+english_events_pitstop:L7670,cdadrienchange,POLISH,"I must depart now, before your Belgian spell manages to charm me.",在你的比利时咒语迷上我之前 我必须马上离开,趁你这比利时魔咒还没把我迷住，我得赶紧告辞。
+english_events_pitstop:L7671,cdadrienchange,FIX,Adrien leaves... probably not to go to Belgium.,阿德里安的叶子... 可能不是去比利时,阿德里安走了……大概不是去比利时。
+english_events_pitstop:L7672,cdadrienchange,FIX,Fuck. You lost his chivalrous company... and you won't get the commission money the Belgian department of tourism promised you.,"他妈的。 你失去了他的骑士陪伴... 比利时旅游部答应你,你拿不到佣金",操。你失去了这位骑士的陪伴……比利时旅游部答应给的佣金，也拿不到了。

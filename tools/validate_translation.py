@@ -3,7 +3,7 @@ from __future__ import annotations
 import argparse
 from pathlib import Path
 
-from translation_common import extract_tokens, load_rows
+from translation_common import extract_tokens, load_rows, load_display_literal_overrides, row_display_literals
 
 
 def main() -> int:
@@ -13,16 +13,27 @@ def main() -> int:
 
     errors: list[str] = []
     rows = load_rows(args.translation)
+    display_overrides = load_display_literal_overrides(args.translation)
+    for row_id in display_overrides:
+        if row_id not in rows:
+            errors.append(f"{row_id}: unknown row in display literal overrides")
     translated = 0
     for row_id, row in rows.items():
         target = row.get("target", "")
         if not target:
+            if row_id in display_overrides:
+                errors.append(f"{row_id}: approved display literal target is missing")
             continue
         translated += 1
         if "\t" in target or "\r" in target or "\n" in target:
             errors.append(f"{row_id}: target contains a literal tab or newline; use [n]")
-        source_tokens = extract_tokens(row["source"])
-        target_tokens = extract_tokens(target)
+        try:
+            literals = row_display_literals(row, display_overrides)
+        except ValueError as error:
+            errors.append(str(error))
+            continue
+        source_tokens = extract_tokens(row["source"], literals)
+        target_tokens = extract_tokens(target, literals)
         if source_tokens != target_tokens:
             errors.append(
                 f"{row_id}: placeholder mismatch: source={dict(source_tokens)}, "

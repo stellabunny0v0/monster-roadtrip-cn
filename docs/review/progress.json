@@ -1,65 +1,34 @@
 {
   "total_entries": 30255,
-  "human_reviewed_entries": 4124,
-  "pending_entries": 26106,
+  "human_reviewed_entries": 30255,
+  "pending_entries": 0,
   "pass_001": {
     "FIX": 427,
     "POLISH": 20,
     "KEEP": 33
   },
   "review_log": "docs/review/pass-001.csv",
-  "completion": "in_progress",
+  "completion": "language_review_complete_runtime_adapted_pending_ingame_validation",
   "pass_002": {
     "FIX": 198,
     "POLISH": 35,
     "KEEP": 55,
     "REVIEW": 1
   },
-  "flagged_entries": [
-    "english_events_standard:L495",
-    "english_metatexts:ITM_TTL_BLADEBLADE",
-    "english_metatexts:ITM_TTL_MOUTHSTUFF",
-    "english_metatexts:ITM_TTL_STRONGSTUFF",
-    "english_metatexts:RMD_CAVES",
-    "english_metatexts:RMD_LANDMARK_HOLE",
-    "english_metatexts:STK_TAB_CHS",
-    "english_metatexts:GLR_ECK_WARBOARDPIECE",
-    "english_metatexts:GLR_ACH_TTL_FIRSTFULLDESTINATION",
-    "english_metatexts:GLR_ECK_CODROUTE",
-    "english_metatexts:GLR_CHR_BATNISS",
-    "english_metatexts:GLR_CHR_HYPPERION",
-    "english_metatexts:GLR_CHR_OLDPOLLY",
-    "english_metatexts:GLR_CHR_OLDSCOTT",
-    "english_metatexts:GLR_CHR_OLDSCOTT2",
-    "english_metatexts:GLR_CHR_OLDSCOTT3",
-    "english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_Q",
-    "english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_M",
-    "english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_M1",
-    "english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_M2",
-    "english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_M3",
-    "english_metatexts:GLR_VAR_ENDING_MVP_SLIME_CRYPTID_CONVENTION",
-    "english_metatexts:GLR_VAR_IMAGE_BACKGROUND_LOCATION_DINER_DOOM_SPECIALCHAR_FAITH",
-    "english_metatexts:GLR_VAR_IMAGE_PC_PUMPKIN_KITE_TOURNAMENT",
-    "english_metatexts:GLR_VAR_IMAGE_PC_PUMPKIN_VILLAGE_ANIMALS"
-  ],
+  "flagged_entries": [],
   "pass_003": {
     "POLISH": 38,
     "FIX": 153,
     "KEEP": 59
   },
-  "human_inspected_entries": 4149,
-  "remaining_to_finalize_entries": 26131,
+  "human_inspected_entries": 30255,
+  "remaining_to_finalize_entries": 0,
   "pass_004": {
     "KEEP": 90,
     "FIX": 85,
     "POLISH": 11
   },
-  "pending_by_source_file": {
-    "english_events_bubbles.txt": 918,
-    "english_events_endings.txt": 1799,
-    "english_events_maingame.txt": 17989,
-    "english_events_pitstop.txt": 5400
-  },
+  "pending_by_source_file": {},
   "pass_005": {
     "KEEP": 267,
     "FIX": 261,
@@ -67,10 +36,10 @@
     "REVIEW": 6
   },
   "decisions_total": {
-    "FIX": 2867,
-    "POLISH": 253,
-    "KEEP": 1004,
-    "REVIEW": 25
+    "FIX": 17810,
+    "POLISH": 9270,
+    "KEEP": 3175,
+    "REVIEW": 0
   },
   "pass_006": {
     "FIX": 158,
@@ -124,5 +93,1416 @@
     "FIX": 92,
     "KEEP": 49,
     "POLISH": 9
+  },
+  "pass_016": {
+    "FIX": 59,
+    "POLISH": 17,
+    "KEEP": 13
+  },
+  "pass_017": {
+    "KEEP": 31,
+    "FIX": 55,
+    "POLISH": 13,
+    "REVIEW": 2
+  },
+  "pass_018": {
+    "FIX": 49,
+    "POLISH": 27,
+    "KEEP": 31
+  },
+  "pass_019": {
+    "FIX": 44,
+    "KEEP": 21,
+    "POLISH": 12
+  },
+  "pass_020": {
+    "FIX": 63,
+    "KEEP": 20,
+    "POLISH": 28
+  },
+  "pass_021": {
+    "FIX": 55,
+    "REVIEW": 2,
+    "KEEP": 18,
+    "POLISH": 19
+  },
+  "pass_022": {
+    "KEEP": 20,
+    "POLISH": 30,
+    "FIX": 57
+  },
+  "series_recheck": {
+    "status": "completed_with_open_items",
+    "scope_entries": 4835,
+    "full_context_rechecked_entries": 4835,
+    "remaining_full_context_entries": 0,
+    "name_scan_entries": 4835,
+    "name_fix_entries": 348,
+    "new_text_review_allowed": true,
+    "scope_file": "docs/review/series-recheck-scope.json",
+    "reference": "docs/series-reference/names.md",
+    "name_fix_log": "docs/review/series-name-fixes-001.csv",
+    "full_context_finalized_entries": 4806,
+    "recheck_decisions": {
+      "KEEP": 4624,
+      "FIX": 149,
+      "POLISH": 33,
+      "REVIEW": 29
+    },
+    "full_context_logs": [
+      "docs/review/series-recheck-001.csv",
+      "docs/review/series-recheck-002.csv",
+      "docs/review/series-recheck-003.csv",
+      "docs/review/series-recheck-004.csv",
+      "docs/review/series-recheck-005.csv",
+      "docs/review/series-recheck-006.csv",
+      "docs/review/series-recheck-007.csv",
+      "docs/review/series-recheck-008.csv",
+      "docs/review/series-recheck-009.csv",
+      "docs/review/series-recheck-010.csv",
+      "docs/review/series-recheck-011.csv",
+      "docs/review/series-recheck-012.csv",
+      "docs/review/series-recheck-013.csv",
+      "docs/review/series-recheck-014.csv",
+      "docs/review/series-recheck-015.csv"
+    ],
+    "unresolved_entries": [
+      "english_events_standard:L495",
+      "english_metatexts:ITM_TTL_BLADEBLADE",
+      "english_metatexts:ITM_TTL_MOUTHSTUFF",
+      "english_metatexts:ITM_TTL_STRONGSTUFF",
+      "english_metatexts:RMD_CAVES",
+      "english_metatexts:RMD_LANDMARK_HOLE",
+      "english_metatexts:STK_TAB_CHS",
+      "english_metatexts:GLR_ECK_WARBOARDPIECE",
+      "english_metatexts:GLR_ACH_TTL_FIRSTFULLDESTINATION",
+      "english_metatexts:GLR_ECK_CODROUTE",
+      "english_metatexts:GLR_CHR_BATNISS",
+      "english_metatexts:GLR_CHR_HYPPERION",
+      "english_metatexts:GLR_CHR_OLDPOLLY",
+      "english_metatexts:GLR_CHR_OLDSCOTT",
+      "english_metatexts:GLR_CHR_OLDSCOTT2",
+      "english_metatexts:GLR_CHR_OLDSCOTT3",
+      "english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_Q",
+      "english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_M",
+      "english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_M1",
+      "english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_M2",
+      "english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_M3",
+      "english_metatexts:GLR_VAR_ENDING_MVP_SLIME_CRYPTID_CONVENTION",
+      "english_metatexts:GLR_VAR_IMAGE_BACKGROUND_LOCATION_DINER_DOOM_SPECIALCHAR_FAITH",
+      "english_metatexts:GLR_VAR_IMAGE_PC_PUMPKIN_KITE_TOURNAMENT",
+      "english_metatexts:GLR_VAR_IMAGE_PC_PUMPKIN_VILLAGE_ANIMALS",
+      "english_events_pitstop:L2884",
+      "english_events_pitstop:L2896",
+      "english_events_pitstop:L3395",
+      "english_events_pitstop:L3460"
+    ],
+    "validation": "CSV, tokens, structural fields, overrides and runtime contracts passed; no in-game verification.",
+    "summary": "docs/review/series-recheck-summary.md"
+  },
+  "pass_023": {
+    "FIX": 79,
+    "POLISH": 18,
+    "KEEP": 4
+  },
+  "pass_024": {
+    "FIX": 74,
+    "POLISH": 26,
+    "KEEP": 1
+  },
+  "pass_025": {
+    "KEEP": 3,
+    "POLISH": 35,
+    "FIX": 72,
+    "REVIEW": 2
+  },
+  "pass_026": {
+    "FIX": 60,
+    "KEEP": 3,
+    "POLISH": 28
+  },
+  "pass_027": {
+    "POLISH": 29,
+    "FIX": 61,
+    "KEEP": 8
+  },
+  "active_skill": "monster-prom-series-zh",
+  "latest_new_review_pass": "223",
+  "pass_028": {
+    "FIX": 101,
+    "KEEP": 6,
+    "POLISH": 12,
+    "REVIEW": 2
+  },
+  "pass_029": {
+    "FIX": 35,
+    "KEEP": 4,
+    "POLISH": 12
+  },
+  "pass_030": {
+    "FIX": 95,
+    "POLISH": 15,
+    "KEEP": 37
+  },
+  "pass_031": {
+    "FIX": 85,
+    "POLISH": 40,
+    "KEEP": 1
+  },
+  "pass_032": {
+    "KEEP": 22,
+    "FIX": 72,
+    "POLISH": 39
+  },
+  "pass_033": {
+    "FIX": 89,
+    "KEEP": 9,
+    "POLISH": 24
+  },
+  "pass_034": {
+    "FIX": 44,
+    "KEEP": 16,
+    "POLISH": 29
+  },
+  "pass_035": {
+    "KEEP": 26,
+    "POLISH": 26,
+    "FIX": 42
+  },
+  "pass_036": {
+    "FIX": 49,
+    "POLISH": 20,
+    "KEEP": 20
+  },
+  "pass_037": {
+    "POLISH": 5,
+    "FIX": 51,
+    "KEEP": 10
+  },
+  "pass_038": {
+    "KEEP": 20,
+    "POLISH": 26,
+    "FIX": 51
+  },
+  "pass_039": {
+    "KEEP": 30,
+    "FIX": 45,
+    "POLISH": 30
+  },
+  "pass_040": {
+    "KEEP": 18,
+    "POLISH": 29,
+    "FIX": 62
+  },
+  "pass_041": {
+    "POLISH": 36,
+    "KEEP": 24,
+    "FIX": 53
+  },
+  "pass_042": {
+    "FIX": 46,
+    "KEEP": 17,
+    "POLISH": 42
+  },
+  "pass_043": {
+    "FIX": 66,
+    "POLISH": 28,
+    "KEEP": 12
+  },
+  "pass_044": {
+    "FIX": 31,
+    "POLISH": 16
+  },
+  "pass_045": {
+    "KEEP": 17,
+    "POLISH": 33,
+    "FIX": 57
+  },
+  "pass_046": {
+    "KEEP": 20,
+    "POLISH": 26,
+    "FIX": 27
+  },
+  "pass_047": {
+    "FIX": 30,
+    "KEEP": 12,
+    "POLISH": 14
+  },
+  "pass_048": {
+    "KEEP": 17,
+    "FIX": 48,
+    "POLISH": 28
+  },
+  "pass_049": {
+    "FIX": 36,
+    "POLISH": 28,
+    "KEEP": 12
+  },
+  "pass_050": {
+    "FIX": 45,
+    "POLISH": 28,
+    "KEEP": 13
+  },
+  "pass_051": {
+    "FIX": 45,
+    "KEEP": 25,
+    "POLISH": 26
+  },
+  "pass_052": {
+    "KEEP": 24,
+    "FIX": 41,
+    "POLISH": 24
+  },
+  "pass_053": {
+    "FIX": 44,
+    "POLISH": 22,
+    "KEEP": 8
+  },
+  "pass_054": {
+    "KEEP": 17,
+    "FIX": 37,
+    "POLISH": 32
+  },
+  "pass_055": {
+    "KEEP": 23,
+    "FIX": 44,
+    "POLISH": 19
+  },
+  "pass_056": {
+    "FIX": 31,
+    "KEEP": 10,
+    "POLISH": 27
+  },
+  "pass_057": {
+    "FIX": 38,
+    "KEEP": 25,
+    "POLISH": 27
+  },
+  "pass_058": {
+    "KEEP": 11,
+    "POLISH": 19,
+    "FIX": 54
+  },
+  "pass_059": {
+    "FIX": 30,
+    "POLISH": 20,
+    "REVIEW": 23,
+    "KEEP": 17
+  },
+  "pass_060": {
+    "FIX": 31,
+    "POLISH": 26,
+    "KEEP": 15
+  },
+  "pass_061": {
+    "KEEP": 20,
+    "FIX": 37,
+    "POLISH": 21
+  },
+  "pass_062": {
+    "KEEP": 26,
+    "FIX": 36,
+    "POLISH": 19
+  },
+  "pass_063": {
+    "KEEP": 11,
+    "POLISH": 20,
+    "FIX": 39
+  },
+  "pass_064": {
+    "FIX": 54,
+    "POLISH": 11,
+    "KEEP": 14
+  },
+  "pass_065": {
+    "KEEP": 15,
+    "FIX": 43,
+    "POLISH": 20
+  },
+  "pass_066": {
+    "FIX": 47,
+    "KEEP": 33,
+    "POLISH": 11
+  },
+  "pass_067": {
+    "FIX": 52,
+    "KEEP": 22,
+    "POLISH": 20
+  },
+  "pass_068": {
+    "KEEP": 26,
+    "POLISH": 22,
+    "FIX": 39
+  },
+  "pass_069": {
+    "FIX": 44,
+    "POLISH": 31,
+    "KEEP": 19
+  },
+  "pass_070": {
+    "KEEP": 15,
+    "FIX": 52,
+    "POLISH": 18
+  },
+  "pass_071": {
+    "FIX": 38,
+    "POLISH": 15,
+    "KEEP": 27
+  },
+  "pass_072": {
+    "FIX": 49,
+    "POLISH": 17,
+    "KEEP": 15
+  },
+  "pass_073": {
+    "KEEP": 18,
+    "FIX": 51,
+    "POLISH": 9
+  },
+  "pass_074": {
+    "POLISH": 32,
+    "FIX": 59,
+    "KEEP": 45
+  },
+  "pass_075": {
+    "KEEP": 51,
+    "POLISH": 13,
+    "FIX": 59,
+    "REVIEW": 1
+  },
+  "pass_076": {
+    "FIX": 59,
+    "KEEP": 53,
+    "POLISH": 8
+  },
+  "pass_077": {
+    "KEEP": 56,
+    "FIX": 70,
+    "POLISH": 9,
+    "REVIEW": 1
+  },
+  "pass_078": {
+    "FIX": 74,
+    "KEEP": 55,
+    "POLISH": 10,
+    "REVIEW": 2
+  },
+  "pass_079": {
+    "POLISH": 7,
+    "FIX": 66,
+    "KEEP": 48
+  },
+  "pass_080": {
+    "KEEP": 50,
+    "FIX": 84,
+    "POLISH": 12
+  },
+  "pass_081": {
+    "FIX": 56,
+    "KEEP": 64,
+    "POLISH": 9,
+    "REVIEW": 1
+  },
+  "resolved_flag_entries": [
+    "english_events_bubbles:L1473",
+    "english_events_bubbles:L1513",
+    "english_events_bubbles:L3096",
+    "english_events_pitstop:L4217",
+    "english_events_pitstop:L4285",
+    "english_events_pitstop:L6545",
+    "english_events_pitstop:L6566",
+    "english_events_pitstop:L6567",
+    "english_events_pitstop:L6571",
+    "english_events_pitstop:L6590",
+    "english_events_pitstop:L6594",
+    "english_events_pitstop:L6597",
+    "english_events_pitstop:L6598",
+    "english_events_pitstop:L6599",
+    "english_events_pitstop:L6600",
+    "english_events_pitstop:L6603",
+    "english_events_pitstop:L6604",
+    "english_events_pitstop:L6605",
+    "english_events_pitstop:L6606",
+    "english_events_pitstop:L6607",
+    "english_events_pitstop:L6614",
+    "english_events_pitstop:L6615",
+    "english_events_pitstop:L6616",
+    "english_events_pitstop:L6620",
+    "english_events_pitstop:L6621",
+    "english_events_pitstop:L6624",
+    "english_events_pitstop:L6625",
+    "english_events_pitstop:L6626",
+    "english_metatexts:GLR_CHR_HYPPERION",
+    "english_metatexts:GLR_ECK_WARBOARDPIECE",
+    "english_events_standard:L495",
+    "english_metatexts:ITM_TTL_BLADEBLADE",
+    "english_metatexts:ITM_TTL_MOUTHSTUFF",
+    "english_metatexts:ITM_TTL_STRONGSTUFF",
+    "english_metatexts:RMD_CAVES",
+    "english_metatexts:RMD_LANDMARK_HOLE",
+    "english_metatexts:STK_TAB_CHS",
+    "english_metatexts:GLR_ACH_TTL_FIRSTFULLDESTINATION",
+    "english_metatexts:GLR_ECK_CODROUTE",
+    "english_metatexts:GLR_CHR_BATNISS",
+    "english_metatexts:GLR_CHR_OLDPOLLY",
+    "english_metatexts:GLR_CHR_OLDSCOTT",
+    "english_metatexts:GLR_CHR_OLDSCOTT2",
+    "english_metatexts:GLR_CHR_OLDSCOTT3",
+    "english_metatexts:GLR_SK_GALLERY_SKETCH_CHIBIS_Q",
+    "english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_M",
+    "english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_M1",
+    "english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_M2",
+    "english_metatexts:GLR_SK_GALLERY_SKETCH_WIDE_M3",
+    "english_metatexts:GLR_VAR_ENDING_MVP_SLIME_CRYPTID_CONVENTION",
+    "english_metatexts:GLR_VAR_IMAGE_BACKGROUND_LOCATION_DINER_DOOM_SPECIALCHAR_FAITH",
+    "english_metatexts:GLR_VAR_IMAGE_PC_PUMPKIN_KITE_TOURNAMENT",
+    "english_metatexts:GLR_VAR_IMAGE_PC_PUMPKIN_VILLAGE_ANIMALS",
+    "english_events_pitstop:L2884",
+    "english_events_pitstop:L2896",
+    "english_events_pitstop:L3395",
+    "english_events_pitstop:L3460",
+    "english_events_pitstop:L148",
+    "english_events_pitstop:L159",
+    "english_events_bubbles:L354",
+    "english_events_bubbles:L909",
+    "english_events_endings:L961",
+    "english_events_endings:L978",
+    "english_events_endings:L1081",
+    "english_events_endings:L1082",
+    "english_events_endings:L2168",
+    "english_events_endings:L2378",
+    "english_events_maingame:L365",
+    "english_events_maingame:L413",
+    "english_events_maingame:L415",
+    "english_events_maingame:L564",
+    "english_events_maingame:L609",
+    "english_events_maingame:L851",
+    "english_events_maingame:L1100",
+    "english_events_maingame:L1528",
+    "english_events_maingame:L1536",
+    "english_events_maingame:L2051",
+    "english_events_maingame:L2054",
+    "english_events_maingame:L2118",
+    "english_events_maingame:L2142",
+    "english_events_maingame:L2207",
+    "english_events_maingame:L2208",
+    "english_events_maingame:L2728",
+    "english_events_maingame:L2738",
+    "english_events_maingame:L2776",
+    "english_events_maingame:L2969",
+    "english_events_maingame:L3725",
+    "english_events_maingame:L5032",
+    "english_events_maingame:L5034",
+    "english_events_maingame:L6016",
+    "english_events_maingame:L6752",
+    "english_events_maingame:L7497",
+    "english_events_maingame:L7984",
+    "english_events_maingame:L8414",
+    "english_events_maingame:L8415",
+    "english_events_maingame:L8416",
+    "english_events_maingame:L8994",
+    "english_events_maingame:L9495",
+    "english_events_maingame:L9706",
+    "english_events_maingame:L10002",
+    "english_events_maingame:L9990",
+    "english_events_maingame:L10771",
+    "english_events_maingame:L11008",
+    "english_events_maingame:L11095",
+    "english_events_maingame:L12194",
+    "english_events_maingame:L12283",
+    "english_events_maingame:L12379",
+    "english_events_maingame:L12439",
+    "english_events_maingame:L12477",
+    "english_events_maingame:L14403",
+    "english_events_maingame:L14460",
+    "english_events_maingame:L15128",
+    "english_events_maingame:L15625",
+    "english_events_maingame:L15628",
+    "english_events_maingame:L15629",
+    "english_events_maingame:L15636",
+    "english_events_maingame:L15796",
+    "english_events_maingame:L15839",
+    "english_events_maingame:L17971",
+    "english_events_maingame:L17989",
+    "english_events_maingame:L18382",
+    "english_events_maingame:L19138",
+    "english_events_maingame:L19174",
+    "english_events_maingame:L21131",
+    "english_events_maingame:L21749",
+    "english_events_maingame:L21776",
+    "english_events_maingame:L22010",
+    "english_events_maingame:L22089",
+    "english_events_maingame:L22114",
+    "english_events_maingame:L22423",
+    "english_events_maingame:L22429",
+    "english_events_maingame:L22437",
+    "english_events_maingame:L22473",
+    "english_events_maingame:L23552",
+    "english_events_maingame:L24211",
+    "english_events_maingame:L24220",
+    "english_events_maingame:L26171",
+    "english_events_maingame:L26172"
+  ],
+  "pass_082": {
+    "POLISH": 16,
+    "FIX": 61,
+    "KEEP": 3
+  },
+  "pass_083": {
+    "FIX": 88,
+    "POLISH": 25,
+    "KEEP": 18
+  },
+  "pass_084": {
+    "FIX": 59,
+    "KEEP": 15,
+    "POLISH": 23
+  },
+  "pass_085": {
+    "FIX": 76,
+    "KEEP": 9,
+    "POLISH": 25
+  },
+  "pass_086": {
+    "POLISH": 57,
+    "FIX": 85,
+    "KEEP": 35,
+    "REVIEW": 2
+  },
+  "pass_087": {
+    "FIX": 78,
+    "POLISH": 25,
+    "REVIEW": 2,
+    "KEEP": 3
+  },
+  "pass_088": {
+    "FIX": 70,
+    "POLISH": 17
+  },
+  "pass_089": {
+    "FIX": 57,
+    "POLISH": 13,
+    "KEEP": 1
+  },
+  "runtime_verb_hold_entries": [],
+  "pass_090": {
+    "FIX": 56,
+    "POLISH": 24,
+    "KEEP": 8
+  },
+  "pass_091": {
+    "FIX": 71,
+    "KEEP": 12,
+    "POLISH": 7
+  },
+  "pass_092": {
+    "FIX": 82,
+    "POLISH": 6,
+    "KEEP": 1
+  },
+  "pass_093": {
+    "FIX": 88,
+    "POLISH": 16,
+    "KEEP": 5
+  },
+  "pass_094": {
+    "FIX": 58,
+    "POLISH": 19,
+    "REVIEW": 1,
+    "KEEP": 19
+  },
+  "pass_095": {
+    "FIX": 73,
+    "KEEP": 10,
+    "POLISH": 30,
+    "REVIEW": 1
+  },
+  "pass_096": {
+    "FIX": 70,
+    "KEEP": 25,
+    "POLISH": 36
+  },
+  "pass_097": {
+    "FIX": 53,
+    "POLISH": 27,
+    "KEEP": 21
+  },
+  "pass_098": {
+    "FIX": 46,
+    "POLISH": 21,
+    "KEEP": 8
+  },
+  "pass_099": {
+    "FIX": 26,
+    "POLISH": 11,
+    "KEEP": 5
+  },
+  "pass_100": {
+    "FIX": 73,
+    "POLISH": 23,
+    "KEEP": 2
+  },
+  "pass_101": {
+    "POLISH": 41,
+    "FIX": 55,
+    "KEEP": 3
+  },
+  "pass_102": {
+    "POLISH": 53,
+    "FIX": 63,
+    "KEEP": 3,
+    "REVIEW": 3
+  },
+  "pass_103": {
+    "FIX": 66,
+    "POLISH": 38,
+    "KEEP": 1,
+    "REVIEW": 2
+  },
+  "pass_104": {
+    "FIX": 83,
+    "POLISH": 59,
+    "KEEP": 4
+  },
+  "pass_105": {
+    "FIX": 77,
+    "POLISH": 66,
+    "REVIEW": 1
+  },
+  "pass_106": {
+    "FIX": 59,
+    "POLISH": 45,
+    "REVIEW": 1,
+    "KEEP": 2
+  },
+  "pass_107": {
+    "KEEP": 4,
+    "POLISH": 54,
+    "FIX": 56
+  },
+  "pass_108": {
+    "POLISH": 65,
+    "FIX": 73,
+    "KEEP": 3,
+    "REVIEW": 2
+  },
+  "pass_109": {
+    "FIX": 80,
+    "POLISH": 69,
+    "KEEP": 6
+  },
+  "pass_110": {
+    "POLISH": 80,
+    "FIX": 72,
+    "KEEP": 2
+  },
+  "pass_111": {
+    "FIX": 83,
+    "POLISH": 59,
+    "REVIEW": 6,
+    "KEEP": 3
+  },
+  "pass_112": {
+    "FIX": 69,
+    "POLISH": 71,
+    "KEEP": 1
+  },
+  "pass_113": {
+    "FIX": 82,
+    "POLISH": 47
+  },
+  "pass_114": {
+    "FIX": 91,
+    "POLISH": 65,
+    "REVIEW": 3
+  },
+  "pass_115": {
+    "FIX": 59,
+    "POLISH": 63,
+    "KEEP": 4,
+    "REVIEW": 1
+  },
+  "pass_116": {
+    "FIX": 80,
+    "POLISH": 65,
+    "KEEP": 2
+  },
+  "pass_117": {
+    "FIX": 91,
+    "POLISH": 54,
+    "KEEP": 5
+  },
+  "pass_118": {
+    "KEEP": 2,
+    "FIX": 93,
+    "POLISH": 77,
+    "REVIEW": 1
+  },
+  "pass_119": {
+    "POLISH": 76,
+    "FIX": 86,
+    "KEEP": 3
+  },
+  "pass_120": {
+    "POLISH": 78,
+    "FIX": 89,
+    "KEEP": 4
+  },
+  "pass_121": {
+    "FIX": 88,
+    "POLISH": 73
+  },
+  "pass_122": {
+    "FIX": 77,
+    "POLISH": 78
+  },
+  "pass_123": {
+    "KEEP": 4,
+    "FIX": 121,
+    "POLISH": 17
+  },
+  "pass_124": {
+    "FIX": 102,
+    "POLISH": 33,
+    "REVIEW": 2,
+    "KEEP": 1
+  },
+  "pass_125": {
+    "FIX": 98,
+    "POLISH": 48,
+    "KEEP": 1
+  },
+  "pass_126": {
+    "FIX": 98,
+    "POLISH": 53,
+    "KEEP": 1
+  },
+  "pass_127": {
+    "FIX": 85,
+    "POLISH": 51,
+    "KEEP": 1
+  },
+  "pass_128": {
+    "FIX": 87,
+    "POLISH": 51,
+    "REVIEW": 1,
+    "KEEP": 8
+  },
+  "pass_129": {
+    "KEEP": 1,
+    "POLISH": 34,
+    "FIX": 58
+  },
+  "pass_130": {
+    "FIX": 98,
+    "POLISH": 54,
+    "KEEP": 1
+  },
+  "pass_131": {
+    "FIX": 104,
+    "POLISH": 49,
+    "KEEP": 2,
+    "REVIEW": 1
+  },
+  "pass_132": {
+    "FIX": 87,
+    "POLISH": 51
+  },
+  "pass_133": {
+    "FIX": 53,
+    "POLISH": 38
+  },
+  "pass_134": {
+    "FIX": 85,
+    "POLISH": 64,
+    "KEEP": 1
+  },
+  "pass_135": {
+    "KEEP": 2,
+    "POLISH": 35,
+    "FIX": 62,
+    "REVIEW": 1
+  },
+  "pass_136": {
+    "FIX": 78,
+    "POLISH": 34
+  },
+  "pass_137": {
+    "FIX": 96,
+    "POLISH": 58
+  },
+  "pass_138": {
+    "FIX": 62,
+    "POLISH": 44,
+    "REVIEW": 1
+  },
+  "pass_139": {
+    "FIX": 96,
+    "POLISH": 53,
+    "KEEP": 5,
+    "REVIEW": 3
+  },
+  "pass_140": {
+    "KEEP": 5,
+    "POLISH": 64,
+    "FIX": 87
+  },
+  "pass_141": {
+    "FIX": 71,
+    "POLISH": 72,
+    "KEEP": 2
+  },
+  "pass_142": {
+    "KEEP": 6,
+    "FIX": 74,
+    "POLISH": 75,
+    "REVIEW": 1
+  },
+  "pass_143": {
+    "FIX": 89,
+    "POLISH": 58
+  },
+  "pass_144": {
+    "FIX": 93,
+    "POLISH": 90,
+    "KEEP": 1,
+    "REVIEW": 1
+  },
+  "pass_145": {
+    "FIX": 71,
+    "POLISH": 72,
+    "KEEP": 2,
+    "REVIEW": 1
+  },
+  "pass_146": {
+    "FIX": 83,
+    "POLISH": 71,
+    "KEEP": 2
+  },
+  "pass_147": {
+    "FIX": 81,
+    "POLISH": 60,
+    "REVIEW": 2,
+    "KEEP": 2
+  },
+  "pass_148": {
+    "POLISH": 77,
+    "FIX": 86,
+    "KEEP": 5
+  },
+  "pass_149": {
+    "FIX": 91,
+    "POLISH": 80,
+    "KEEP": 3
+  },
+  "pass_150": {
+    "FIX": 131,
+    "POLISH": 102,
+    "KEEP": 13,
+    "REVIEW": 1
+  },
+  "pass_151": {
+    "KEEP": 2,
+    "POLISH": 84,
+    "FIX": 92,
+    "REVIEW": 2
+  },
+  "pass_152": {
+    "FIX": 81,
+    "POLISH": 58,
+    "KEEP": 2
+  },
+  "pass_153": {
+    "FIX": 103,
+    "POLISH": 77,
+    "KEEP": 1
+  },
+  "pass_154": {
+    "FIX": 86,
+    "POLISH": 78,
+    "KEEP": 1
+  },
+  "pass_155": {
+    "FIX": 54,
+    "POLISH": 51,
+    "KEEP": 5
+  },
+  "pass_156": {
+    "FIX": 73,
+    "POLISH": 36,
+    "KEEP": 2,
+    "REVIEW": 1
+  },
+  "pass_157": {
+    "FIX": 133,
+    "POLISH": 73,
+    "KEEP": 5,
+    "REVIEW": 4
+  },
+  "pass_158": {
+    "FIX": 80,
+    "POLISH": 43,
+    "KEEP": 1
+  },
+  "pass_159": {
+    "KEEP": 2,
+    "FIX": 59,
+    "POLISH": 48
+  },
+  "pass_160": {
+    "POLISH": 66,
+    "FIX": 87,
+    "KEEP": 1
+  },
+  "pass_161": {
+    "FIX": 89,
+    "POLISH": 58,
+    "KEEP": 5
+  },
+  "pass_162": {
+    "KEEP": 6,
+    "FIX": 94,
+    "POLISH": 69
+  },
+  "pass_163": {
+    "FIX": 87,
+    "POLISH": 89,
+    "KEEP": 8
+  },
+  "pass_164": {
+    "KEEP": 4,
+    "FIX": 89,
+    "POLISH": 78
+  },
+  "pass_165": {
+    "KEEP": 5,
+    "POLISH": 94,
+    "FIX": 72
+  },
+  "pass_166": {
+    "FIX": 91,
+    "POLISH": 67,
+    "KEEP": 2,
+    "REVIEW": 2
+  },
+  "pass_167": {
+    "FIX": 90,
+    "POLISH": 80
+  },
+  "pass_168": {
+    "FIX": 85,
+    "POLISH": 75,
+    "KEEP": 2
+  },
+  "pass_169": {
+    "FIX": 107,
+    "POLISH": 77,
+    "KEEP": 3,
+    "REVIEW": 1
+  },
+  "pass_170": {
+    "FIX": 121,
+    "POLISH": 96,
+    "KEEP": 3
+  },
+  "pass_171": {
+    "FIX": 76,
+    "POLISH": 79,
+    "KEEP": 2,
+    "REVIEW": 4
+  },
+  "pass_172": {
+    "FIX": 99,
+    "POLISH": 77,
+    "REVIEW": 2
+  },
+  "pass_173": {
+    "FIX": 85,
+    "POLISH": 56
+  },
+  "pass_174": {
+    "KEEP": 16,
+    "POLISH": 87,
+    "FIX": 91
+  },
+  "pass_175": {
+    "FIX": 96,
+    "POLISH": 70,
+    "KEEP": 1
+  },
+  "pass_176": {
+    "FIX": 44,
+    "POLISH": 22
+  },
+  "pass_177": {
+    "FIX": 135,
+    "POLISH": 57,
+    "KEEP": 7
+  },
+  "pass_178": {
+    "POLISH": 66,
+    "FIX": 93,
+    "KEEP": 3
+  },
+  "pass_179": {
+    "POLISH": 68,
+    "FIX": 87
+  },
+  "pass_180": {
+    "FIX": 114,
+    "POLISH": 74
+  },
+  "pass_181": {
+    "FIX": 122,
+    "POLISH": 75,
+    "KEEP": 3,
+    "REVIEW": 2
+  },
+  "pass_182": {
+    "POLISH": 100,
+    "FIX": 107,
+    "KEEP": 6,
+    "REVIEW": 1
+  },
+  "pass_183": {
+    "FIX": 119,
+    "POLISH": 79,
+    "KEEP": 3
+  },
+  "pass_184": {
+    "FIX": 101,
+    "POLISH": 100,
+    "KEEP": 6
+  },
+  "pass_185": {
+    "FIX": 109,
+    "POLISH": 102,
+    "REVIEW": 2
+  },
+  "pass_186": {
+    "FIX": 112,
+    "POLISH": 66
+  },
+  "pass_187": {
+    "FIX": 88,
+    "POLISH": 56
+  },
+  "pass_188": {
+    "FIX": 87,
+    "POLISH": 53
+  },
+  "pass_189": {
+    "FIX": 80,
+    "POLISH": 65
+  },
+  "pass_190": {
+    "FIX": 89,
+    "POLISH": 60,
+    "KEEP": 1
+  },
+  "pass_191": {
+    "FIX": 107,
+    "POLISH": 76,
+    "KEEP": 3
+  },
+  "pass_192": {
+    "POLISH": 87,
+    "FIX": 79,
+    "KEEP": 1
+  },
+  "pass_193": {
+    "FIX": 75,
+    "POLISH": 81,
+    "KEEP": 3,
+    "REVIEW": 1
+  },
+  "pass_194": {
+    "FIX": 36,
+    "POLISH": 37,
+    "KEEP": 2
+  },
+  "pass_195": {
+    "POLISH": 34,
+    "FIX": 29
+  },
+  "pass_196": {
+    "POLISH": 40,
+    "FIX": 20,
+    "KEEP": 7
+  },
+  "pass_197": {
+    "FIX": 51,
+    "POLISH": 56,
+    "KEEP": 2
+  },
+  "pass_198": {
+    "POLISH": 29,
+    "FIX": 35,
+    "KEEP": 1
+  },
+  "pass_199": {
+    "POLISH": 23,
+    "FIX": 34,
+    "REVIEW": 2
+  },
+  "pass_200": {
+    "POLISH": 37,
+    "FIX": 30,
+    "KEEP": 5
+  },
+  "pass_201": {
+    "FIX": 56,
+    "POLISH": 47,
+    "KEEP": 1,
+    "REVIEW": 1
+  },
+  "pass_202": {
+    "FIX": 48,
+    "POLISH": 37,
+    "REVIEW": 2
+  },
+  "pass_203": {
+    "FIX": 49,
+    "POLISH": 40,
+    "KEEP": 8
+  },
+  "pass_204": {
+    "POLISH": 56,
+    "FIX": 75,
+    "REVIEW": 4,
+    "KEEP": 3
+  },
+  "pass_205": {
+    "FIX": 56,
+    "POLISH": 49,
+    "KEEP": 2
+  },
+  "pass_206": {
+    "POLISH": 40,
+    "FIX": 59,
+    "KEEP": 11
+  },
+  "pass_207": {
+    "POLISH": 34,
+    "FIX": 53,
+    "KEEP": 14
+  },
+  "pass_208": {
+    "KEEP": 17,
+    "POLISH": 45,
+    "FIX": 57
+  },
+  "pass_209": {
+    "FIX": 62,
+    "KEEP": 2,
+    "POLISH": 29
+  },
+  "pass_210": {
+    "FIX": 34,
+    "POLISH": 32,
+    "REVIEW": 1,
+    "KEEP": 3
+  },
+  "pass_211": {
+    "FIX": 33,
+    "POLISH": 26,
+    "KEEP": 4
+  },
+  "pass_212": {
+    "FIX": 41,
+    "POLISH": 36,
+    "KEEP": 1
+  },
+  "pass_213": {
+    "FIX": 67,
+    "POLISH": 36,
+    "KEEP": 6
+  },
+  "pass_214": {
+    "FIX": 58,
+    "POLISH": 40,
+    "KEEP": 15
+  },
+  "pass_215": {
+    "FIX": 49,
+    "POLISH": 41,
+    "KEEP": 17,
+    "REVIEW": 2
+  },
+  "pass_216": {
+    "FIX": 52,
+    "POLISH": 33,
+    "KEEP": 9
+  },
+  "pass_217": {
+    "KEEP": 32,
+    "POLISH": 56,
+    "FIX": 70
+  },
+  "pass_218": {
+    "FIX": 99,
+    "POLISH": 69,
+    "KEEP": 20
+  },
+  "pass_219": {
+    "FIX": 95,
+    "POLISH": 105,
+    "KEEP": 26
+  },
+  "pass_220": {
+    "FIX": 152,
+    "KEEP": 9
+  },
+  "pass_221": {
+    "KEEP": 14,
+    "FIX": 211
+  },
+  "pass_222": {
+    "KEEP": 27,
+    "FIX": 160
+  },
+  "pass_223": {
+    "FIX": 189,
+    "KEEP": 28,
+    "REVIEW": 2
+  },
+  "pending_document_entries": 0,
+  "review_coverage_completed_at": "2026-10-21",
+  "pending_document": "docs/review/PENDING.md",
+  "runtime_verb_fixed_entries": [
+    "english_events_endings:L1081",
+    "english_events_endings:L1082",
+    "english_events_endings:L2168",
+    "english_events_endings:L2378",
+    "english_events_maingame:L365",
+    "english_events_maingame:L413",
+    "english_events_maingame:L415",
+    "english_events_maingame:L564",
+    "english_events_maingame:L609",
+    "english_events_maingame:L851",
+    "english_events_maingame:L1100",
+    "english_events_maingame:L1536",
+    "english_events_maingame:L2051",
+    "english_events_maingame:L2054",
+    "english_events_maingame:L2118",
+    "english_events_maingame:L2142",
+    "english_events_maingame:L2208",
+    "english_events_maingame:L2728",
+    "english_events_maingame:L2738",
+    "english_events_maingame:L2776",
+    "english_events_maingame:L3725",
+    "english_events_maingame:L5032",
+    "english_events_maingame:L5034",
+    "english_events_maingame:L6016",
+    "english_events_maingame:L6752",
+    "english_events_maingame:L7497",
+    "english_events_maingame:L9495",
+    "english_events_maingame:L10002",
+    "english_events_maingame:L12194",
+    "english_events_maingame:L12283",
+    "english_events_maingame:L12439",
+    "english_events_maingame:L12477",
+    "english_events_maingame:L14403",
+    "english_events_maingame:L14460",
+    "english_events_maingame:L15625",
+    "english_events_maingame:L15628",
+    "english_events_maingame:L15629",
+    "english_events_maingame:L15636",
+    "english_events_maingame:L15796",
+    "english_events_maingame:L15839",
+    "english_events_maingame:L17971",
+    "english_events_maingame:L17989",
+    "english_events_maingame:L18382",
+    "english_events_maingame:L19138",
+    "english_events_maingame:L19174",
+    "english_events_maingame:L21131",
+    "english_events_maingame:L21749",
+    "english_events_maingame:L21776",
+    "english_events_maingame:L22089",
+    "english_events_maingame:L22423",
+    "english_events_maingame:L22429",
+    "english_events_maingame:L22437",
+    "english_events_maingame:L22473",
+    "english_events_maingame:L23552",
+    "english_events_maingame:L24211",
+    "english_events_maingame:L24220",
+    "english_events_maingame:L26171",
+    "english_events_maingame:L26172",
+    "english_events_pitstop:L1968"
+  ],
+  "runtime_verb_ingame_pending_entries": [
+    "english_events_endings:L1081",
+    "english_events_endings:L1082",
+    "english_events_endings:L2168",
+    "english_events_endings:L2378",
+    "english_events_maingame:L365",
+    "english_events_maingame:L413",
+    "english_events_maingame:L415",
+    "english_events_maingame:L564",
+    "english_events_maingame:L609",
+    "english_events_maingame:L851",
+    "english_events_maingame:L1100",
+    "english_events_maingame:L1536",
+    "english_events_maingame:L2051",
+    "english_events_maingame:L2054",
+    "english_events_maingame:L2118",
+    "english_events_maingame:L2142",
+    "english_events_maingame:L2208",
+    "english_events_maingame:L2728",
+    "english_events_maingame:L2738",
+    "english_events_maingame:L2776",
+    "english_events_maingame:L3725",
+    "english_events_maingame:L5032",
+    "english_events_maingame:L5034",
+    "english_events_maingame:L6016",
+    "english_events_maingame:L6752",
+    "english_events_maingame:L7497",
+    "english_events_maingame:L9495",
+    "english_events_maingame:L10002",
+    "english_events_maingame:L12194",
+    "english_events_maingame:L12283",
+    "english_events_maingame:L12439",
+    "english_events_maingame:L12477",
+    "english_events_maingame:L14403",
+    "english_events_maingame:L14460",
+    "english_events_maingame:L15625",
+    "english_events_maingame:L15628",
+    "english_events_maingame:L15629",
+    "english_events_maingame:L15636",
+    "english_events_maingame:L15796",
+    "english_events_maingame:L15839",
+    "english_events_maingame:L17971",
+    "english_events_maingame:L17989",
+    "english_events_maingame:L18382",
+    "english_events_maingame:L19138",
+    "english_events_maingame:L19174",
+    "english_events_maingame:L21131",
+    "english_events_maingame:L21749",
+    "english_events_maingame:L21776",
+    "english_events_maingame:L22089",
+    "english_events_maingame:L22423",
+    "english_events_maingame:L22429",
+    "english_events_maingame:L22437",
+    "english_events_maingame:L22473",
+    "english_events_maingame:L23552",
+    "english_events_maingame:L24211",
+    "english_events_maingame:L24220",
+    "english_events_maingame:L26171",
+    "english_events_maingame:L26172",
+    "english_events_pitstop:L1968"
+  ],
+  "pending_review_109": {
+    "date": "2026-10-22",
+    "entries": 109,
+    "decisions": {
+      "KEEP": 56,
+      "FIX": 25,
+      "POLISH": 28
+    },
+    "runtime_adapted_entries": 59,
+    "ingame_verified": false,
+    "log": "docs/review/pending-review-109.csv",
+    "report": "docs/review/pending-review-109.md",
+    "new_coverage_entries": 0
   }
 }

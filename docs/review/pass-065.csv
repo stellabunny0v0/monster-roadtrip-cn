@@ -1,0 +1,79 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_pitstop:L7175,cdredchallenge,KEEP,Her goals,她的目标,她的目标
+english_events_pitstop:L7177,cdredchallenge,KEEP,Hm... goals...,那个... 目标...,那个... 目标...
+english_events_pitstop:L7178,cdredchallenge,FIX,I don't have any right now.,我现在没有权利。,我现在没什么目标。
+english_events_pitstop:L7179,cdredchallenge,POLISH,"I'm always challenging myself in new, dumb ways... but I get bored easily.","我总是挑战自己 以新的,愚蠢的方式... 但我很容易变得无聊。",我总会换着花样，挑战各种傻事……可我很容易就腻了。
+english_events_pitstop:L7180,cdredchallenge,FIX,"Amira Rashid always needs a new, thrilling challenge!","阿米拉 拉希德总是需要一个新的,令人兴奋的挑战!",我阿米拉·拉希德，永远需要新鲜刺激的挑战！
+english_events_pitstop:L7181,cdredchallenge,FIX,"And... hey! Why don't I challenge YOU to come up with my newest, dumbest challenge yet?","还有... 嘿 为什么我不挑战你 提出我最新的,最愚蠢的挑战呢?",而且……嘿！不如我来挑战你，让你给我想出最新、最蠢的挑战？
+english_events_pitstop:L7182,cdredchallenge,FIX,I mean... I'm game.,我是说... 我是游戏。,这个嘛……我接招。
+english_events_pitstop:L7183,cdredchallenge,FIX,That's the spirit!,这就是精神!,就该这样！
+english_events_pitstop:L7184,cdredchallenge,POLISH,"But finding a fitting challenge for me will be hard, for I am the best there ever was.",但找到合适的挑战对我来说是很难的 因为我是有史以来最好的,不过，想找个适合我的挑战可不容易，毕竟我可是史上最强。
+english_events_pitstop:L7185,cdredchallenge,FIX,"Okay... so what would really bring thrill back in your life? Gimme some clues, and I'll throw you a curveball like no other.","好吧,我说... 那么,什么会真正带 刺激回你的生活? 给我一些线索, 我会给你一个曲线球 像其他的一样。",好吧……那什么才能让你的生活重新刺激起来？给点线索，我给你出道谁也想不到的难题。
+english_events_pitstop:L7186,cdredchallenge,POLISH,It can't be something too easy... because I need THRILL.,这不可能是一件太容易的事... 因为我需要THRILL。,不能太简单……因为我要的是刺激。
+english_events_pitstop:L7187,cdredchallenge,POLISH,It can't be something too boring... because I need THRILL.,这不可能太无聊... 因为我需要THRILL。,不能太无聊……因为我要的是刺激。
+english_events_pitstop:L7188,cdredchallenge,POLISH,It can't be something too dumb and dangerous...,这不可能是太愚蠢和危险的东西...,也不能又蠢又危险……
+english_events_pitstop:L7189,cdredchallenge,KEEP,Because you need thrill?,因为你需要刺激?,因为你需要刺激?
+english_events_pitstop:L7190,cdredchallenge,POLISH,"Nah, it's just that I've been to the hospital one too many times lately.",不 只是最近我去过医院很多次了,不是，主要是最近进医院的次数有点多。
+english_events_pitstop:L7191,cdredchallenge,FIX,I'm starting to suspect it might be because I have no filter for these things.,我开始怀疑这可能是 因为我没有过滤器处理这些东西。,我开始怀疑，是不是因为我玩这些的时候，根本不知道该收着点。
+english_events_pitstop:L7192,cdredchallenge,POLISH,But that's what you're here for!,但是这就是你来这里的目的!,不过，这不就有你了嘛！
+english_events_pitstop:L7193,cdredchallenge,POLISH,"C'mon, %CURRENTPLAYERNAME%, give me your best shot! I'm ready!","来吧, %CURRENTPLAYERNAME%尽你最大努力! 我准备好了!",来吧，%CURRENTPLAYERNAME%，把你最棒的点子拿出来！我准备好了！
+english_events_pitstop:L7194,cdredchallenge,FIX,You've got this: punch Amira (figuratively) with the best new goal you can think of!,你有这个: 出击 阿米拉 (图解)有你能够想到的最好的新目标!,你能行：把你想得到的最佳新目标，狠狠砸向阿米拉吧——用语言砸！
+english_events_pitstop:L7195,cdredchallenge,FIX,Master something foreign to you: become left-handed!,教你们一些陌生的东西:当左撇子吧!,掌握你不熟悉的本事：练成左撇子！
+english_events_pitstop:L7196,cdredchallenge,FIX,Coach a group of charming rascals to become the underdog competitors in the upcoming hockey cup.,教练一群迷人的流氓 成为即将到来的曲棍球杯的弱者竞争者,带领一群讨人喜欢的捣蛋鬼，作为不被看好的队伍，参加即将到来的冰球杯赛。
+english_events_pitstop:L7197,cdredchallenge,FIX,"Headbutt a wall... but, like, really hard and a lot of times!","撞倒一堵墙... 但是,像,真的硬 和很多时候!",用头撞墙……要撞得特别狠，而且连撞好多下！
+english_events_pitstop:L7199,cdredchallenge,FIX,Become... left-handed?,成为... 左手吗?,练成……左撇子？
+english_events_pitstop:L7200,cdredchallenge,FIX,BECOME LEFT-HANDED!,左后卫!,练成左撇子！
+english_events_pitstop:L7201,cdredchallenge,FIX,"I dunno, %CURRENTPLAYERNAME%... it doesn't sound especially thrilling or fun...","我不知道,我说... ... I don't... %CURRENTPLAYERNAME%... 听起来并不特别刺激或有趣...",我不太确定，%CURRENTPLAYERNAME%……听起来既不刺激，也不好玩啊……
+english_events_pitstop:L7202,cdredchallenge,FIX,LEFT-HANDED!!!,左转!,左撇子！！！
+english_events_pitstop:L7203,cdredchallenge,KEEP,"Yeah, I heard you.","是的,我听见了。","是的,我听见了。"
+english_events_pitstop:L7204,cdredchallenge,POLISH,But I'm not sure that it'll become more thrilling just 'cause you yelled it really loud.,但我不肯定它会变得更令人兴奋 只是因为你大声地喊了它。,可你喊得再大声，也不见得就能变刺激吧。
+english_events_pitstop:L7205,cdredchallenge,KEEP,Um... maybe.,那个... 也许吧。,那个... 也许吧。
+english_events_pitstop:L7206,cdredchallenge,FIX,"To be fair, it COULD work like that. The yelling and such.","公平地说,它可以这样工作。 这么大声的叫声",不过说真的，搞不好还真有用。就是大喊之类的。
+english_events_pitstop:L7207,cdredchallenge,KEEP,Wanna try one more time?,再来一次?,再来一次?
+english_events_pitstop:L7208,cdredchallenge,FIX,BECOME LEFT-HANDED!!!!!,向左转!,练成左撇子！！！！！
+english_events_pitstop:L7209,cdredchallenge,POLISH,"Yeah... no, it still sounds boring as hell.",对... 不 听起来还是很无聊,嗯……不行，还是无聊透了。
+english_events_pitstop:L7210,cdredchallenge,POLISH,"It's so boring that it actually made me crave more thrill just thinking about it... so I'm gonna get going now, okay?","这太无聊了,让我更渴望刺激... 所以我现在要走了,好吗?",无聊到我光是想想，就更想找刺激了……所以我先走了，好吗？
+english_events_pitstop:L7211,cdredchallenge,KEEP,Where will you go?,你会去哪儿?,你会去哪儿?
+english_events_pitstop:L7212,cdredchallenge,FIX,No idea... maybe I'll find a tiger to arm wrestle or a big wall to headbutt. Who knows!,"不知道,你觉得呢? 也许我会找到一只老虎来武装摔跤 或是一堵大墙来打头球 谁知道呢!",不知道……也许找只老虎掰手腕，或者找堵大墙用头撞。谁知道呢！
+english_events_pitstop:L7213,cdredchallenge,FIX,"C'ya, %CURRENTPLAYERNAME%... no hard feelings!","克亚, %CURRENTPLAYERNAME%... 没有难受的感情!",回见，%CURRENTPLAYERNAME%……别往心里去！
+english_events_pitstop:L7214,cdredchallenge,FIX,"And there she goes: Amira Rashid, professional thrillseeker. What a woman!","然后她就说: 阿米拉 拉希德,专业的惊悚爱好者。 真是个女人!",她就这样走了：阿米拉·拉希德，专业刺激追寻者。真是个了不起的女人！
+english_events_pitstop:L7216,cdredchallenge,FIX,Amira Rashid... in a position that requires being a role model for other people?,阿米拉 拉希德... 拉希德... Rashid... 需要成为别人的榜样吗?,让我阿米拉·拉希德……去当别人的榜样？
+english_events_pitstop:L7217,cdredchallenge,KEEP,Bold!,大胆!,大胆!
+english_events_pitstop:L7218,cdredchallenge,FIX,It's well known that you rock; now the question is... can you make other people rock?,"众所周知,你摇滚;现在的问题是... 你能让别人摇滚吗?",谁都知道你厉害。现在的问题是……你能让别人也厉害起来吗？
+english_events_pitstop:L7219,cdredchallenge,POLISH,"And objectively speaking, there's no cooler story than one about an underdog sports team making it through a competition.","客观上讲,没有比一个更酷的故事 说一个弱小的体育队通过比赛。",客观地说，一支不被看好的球队一路杀出重围，还有比这更酷的故事吗？
+english_events_pitstop:L7220,cdredchallenge,KEEP,"You're a genius, %CURRENTPLAYERNAME%.","你是个天才,%CURRENTPLAYERNAME%。","你是个天才,%CURRENTPLAYERNAME%。"
+english_events_pitstop:L7221,cdredchallenge,FIX,I've been told that before.,这话我以前就说过了,以前也有人这么说过。
+english_events_pitstop:L7222,cdredchallenge,FIX,"I can see it now: the training montages, the seemingly-lame-yet-charming rascals, the unavoidable eventual bonding...","我现在可以看到了: 训练的蒙塔克人, 貌似迷幻的流氓, 不可避免的最终的结合...",我已经看到了：训练蒙太奇、一群看着不怎么样却挺讨喜的捣蛋鬼，还有最后必然建立起来的感情……
+english_events_pitstop:L7223,cdredchallenge,FIX,It's surely a movie I would watch.,我肯定会看一部电影的,这要拍成电影，我肯定看。
+english_events_pitstop:L7224,cdredchallenge,FIX,"Ah, picture it:","啊, 想象一下: 想象一下:",啊，想象一下：
+english_events_pitstop:L7226,cdredchallenge,POLISH,"Against all odds, we win the finals against the overpowered team of snotty rich kids with top-notch equipment.",面对一切险阻 我们赢得了决赛 对手是那些有顶尖装备的富人,我们克服万难，在决赛打败了那支强得离谱的队伍——全是趾高气扬、装备顶尖的富家子弟。
+english_events_pitstop:L7227,cdredchallenge,FIX,The audience roars at such an unexpected twist.,观众在如此出人意料的曲折下咆哮.,观众全被这意想不到的逆转点燃，欢声雷动。
+english_events_pitstop:L7228,cdredchallenge,POLISH,"Deep down, they know it's all thanks to ME, the one who coached those rascals to excellence.","在内心深处,他们知道这一切的功劳都归功于我,那个把那些流氓训练成优秀的人.",他们心里都清楚，这全是我的功劳，是我把那帮捣蛋鬼带成了高手。
+english_events_pitstop:L7229,cdredchallenge,FIX,"Everyone cheers: ""A-MI-RA! A-MI-RA! A-MI-RA!""","众人欢呼道:""A-MI-RA! A -MI -RA(英语:A -MI A-MI-RA(英语:A-MI-RA)"".",全场高呼：“阿—米—拉！阿—米—拉！阿—米—拉！”
+english_events_pitstop:L7230,cdredchallenge,POLISH,"I'm unsure about the audience specifically cheering for the winning team's coach... but hey, who knows?","我不确定观众会特别为获胜的球队教练欢呼... 但是,嘿,谁知道?",观众会专门给冠军队的教练欢呼吗？我不太确定……不过，谁知道呢？
+english_events_pitstop:L7231,cdredchallenge,POLISH,Maybe that's just because the winning team's coach was never this cool before.,也许那只是因为获胜的球队的教练 从来没有这么酷过,可能是因为，以前的冠军队教练都没这么酷吧。
+english_events_pitstop:L7232,cdredchallenge,KEEP,Maybe!,也许吧!,也许吧!
+english_events_pitstop:L7233,cdredchallenge,POLISH,"Hey, I can be there, cheering specifically for you.","嘿,我可以在那里, 特别为你欢呼。",嘿，到时候我可以去，专门给你加油。
+english_events_pitstop:L7234,cdredchallenge,FIX,Are you the best or what?,你是最棒的还是什么?,你也太棒了吧？
+english_events_pitstop:L7235,cdredchallenge,POLISH,"And with such great advice-giving skills, I may have to get you front row tickets to the game in order to keep you close!","凭着如此出色的授意技巧,我也许得给你拿前排的比赛入场券,才能让你保持亲近!",你这么会出主意，我得给你弄张比赛前排票，把你留在身边才行！
+english_events_pitstop:L7236,cdredchallenge,FIX,I'd be down for that.,我会为这个而失望的。,那我可乐意了。
+english_events_pitstop:L7237,cdredchallenge,FIX,"You spend the rest of the night learning how hockey is played, a very important step in becoming the very best hockey coach.","你用剩下的时间学习冰球的演奏方式, 这是成为最佳冰球教练的非常重要的一步。",夜里剩下的时间，你们都在学习冰球的玩法。这可是成为最棒的冰球教练，非常重要的一步。
+english_events_pitstop:L7238,cdredchallenge,FIX,Did you know it's usually played on ice?!,你知道它通常在冰上玩吗?,你知道吗，冰球通常是在冰上打的？！
+english_events_pitstop:L7240,cdredchallenge,KEEP,"Hmmm... I hear you, %CURRENTPLAYERNAME%...",那个... 我听见了 %CURRENTPLAYERNAME%...,那个... 我听见了 %CURRENTPLAYERNAME%...
+english_events_pitstop:L7241,cdredchallenge,FIX,"Don't get me wrong: I am a woman of good taste, and I love headbutting random stuff as much as the next guy...","不要误会:我是一个品味好的女人,我和下一个男人一样,喜欢乱打头部的东西. .",别误会：我可是个有品位的女人，跟大家一样，喜欢拿头乱撞东西……
+english_events_pitstop:L7242,cdredchallenge,FIX,But I told you specifically that I need to cool it with the dumb dangerous stuff.,"但我告诉你,我需要 冷却它与愚蠢的危险的东西。",可我刚刚特地说了，那些又蠢又危险的事，我得先收着点。
+english_events_pitstop:L7243,cdredchallenge,FIX,"At least until we have public healthcare, anyway.","至少直到我们得到公共保健,反正。",反正，至少得等有了公共医疗保障再说。
+english_events_pitstop:L7244,cdredchallenge,KEEP,"Sounds like a sensible thought, yes.","听起来是个明智的想法,是的。","听起来是个明智的想法,是的。"
+english_events_pitstop:L7245,cdredchallenge,POLISH,It is... and do you know why I'm (still) capable of producing sensible thoughts?,这是... 你知道我为什么(仍然)能够 提出明智的想法吗?,是啊……你知道我为什么现在还说得出明智的话吗？
+english_events_pitstop:L7246,cdredchallenge,KEEP,...,...,...
+english_events_pitstop:L7247,cdredchallenge,FIX,...Because you haven't headbutted a wall?,...因为你没有撞到墙?,……因为你没用头撞墙？
+english_events_pitstop:L7248,cdredchallenge,FIX,Because I haven't headbutted a wall (in a while).,因为我没撞过墙头(一段时间内),因为我已经有一阵没用头撞墙了。
+english_events_pitstop:L7249,cdredchallenge,FIX,"Let's keep it that way, okay?","让我们保持它的方式,好吗?",咱们就继续保持这样，好吗？
+english_events_pitstop:L7250,cdredchallenge,KEEP,...Okay.,...当然了。,...当然了。
+english_events_pitstop:L7251,cdredchallenge,FIX,The problem is now I have this itch I haven't scratched...,"问题是,现在我有这个痒 我还没有抓...",问题是，我现在这股想挑战的劲儿还没消下去……
+english_events_pitstop:L7252,cdredchallenge,POLISH,"I need to find a cool challenge... and you, my friend, haven't provided one for me today.","我需要找到一个很酷的挑战... 而你,我的朋友, 还没有给我一个今天。",我得找个够酷的挑战……而你，我的朋友，今天可没给我想出来。
+english_events_pitstop:L7253,cdredchallenge,FIX,"So off I go, on a new and exciting journey for Amira Rashid, thrillseeker extraordinaire!","所以,我走了, 在一个新的和令人兴奋的旅程为 阿米拉 拉希德,超凡的惊悚爱好者!",所以我出发啦！我阿米拉·拉希德，顶尖刺激追寻者，要开启一段新鲜又刺激的旅程！
+english_events_pitstop:L7254,cdredchallenge,FIX,"She leaves, running epically into the sunset.","她离开, 奔向夕阳。",她走了，以史诗般的气势向夕阳奔去。
+english_events_pitstop:L7255,cdredchallenge,KEEP,Dang...,可恶...,可恶...
+english_events_pitstop:L7256,cdredchallenge,FIX,"Since you seem incapable of producing sensible thoughts today, you try headbutting a wall to see if two negatives make a positive.","既然你今天似乎无法提出明智的想法, 你试图头撞一堵墙,看看两个负片是否产生正面效果。",既然你今天似乎怎么也想不出个明智的念头，那就干脆用头撞墙，看看能不能负负得正。
+english_events_pitstop:L7257,cdredchallenge,FIX,They don't.,他们没有。,不能。

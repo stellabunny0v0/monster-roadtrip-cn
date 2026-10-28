@@ -1,0 +1,6 @@
+﻿row_id,before,after,reason
+english_events_maingame:L564,这明显说明，%HESHE%%VERB_'S_'RE%在省着%HISHER%的体力，留到晚点自慰。,这明显说明，%HESHE%%VERB_'S_'RE%在省着%HISHER%体力，留到晚点自慰。,PRN_HIS already includes 的; preserve variable and remove duplicate possessive particle.
+english_events_maingame:L609,……%HESHE%%VERB_'S_'VE%一直把斯科特的棍子，藏在%HISHER%的后裤袋里。,……%HESHE%%VERB_'S_'VE%一直把斯科特的棍子，藏在%HISHER%后裤袋里。,PRN_HIS already includes 的; preserve variable and remove duplicate possessive particle.
+english_events_maingame:L1355,行，那我要先占了%CURRENTPLAYERNAME%。这种难做的决定，就是%HISHER%的专长。,行，那我要先占了%CURRENTPLAYERNAME%。这种难做的决定，就是%HISHER%专长。,PRN_HIS already includes 的; preserve variable and remove duplicate possessive particle.
+english_events_maingame:L2075,记住，兄弟，再好的运动员，也得靠%HISHER%的装备。给你准备的，就是这个我从厕所搬来的马桶。,记住，兄弟，再好的运动员，也得靠%HISHER%装备。给你准备的，就是这个我从厕所搬来的马桶。,PRN_HIS already includes 的; preserve variable and remove duplicate possessive particle.
+english_events_maingame:L3654,真不懂规矩！怎么能让魔术师，泄露%HISHER%的秘密！,真不懂规矩！怎么能让魔术师，泄露%HISHER%秘密！,PRN_HIS already includes 的; preserve variable and remove duplicate possessive particle.

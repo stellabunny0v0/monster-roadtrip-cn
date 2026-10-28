@@ -1,27 +1,27 @@
 ﻿row_id,source_file,source_line,event_id,speaker_or_key,mood,source,target,status,notes
-english_events_prologue:L8,english_events_prologue.txt,8,tutorial_prologue_missions,narrator,,"Ah, wait, before I forget! This mode includes a new big mechanic: PRANK DARES.",啊，等等，差点忘了！这个模式有个重要的新机制：恶作剧挑战。,reviewed,polish pass 001: FIX
-english_events_prologue:L9,english_events_prologue.txt,9,tutorial_prologue_missions,narrator,,They're like missions to gain personal points for you to get better endings.,它们就像任务，完成后能赚取个人积分，争取更好的结局。,reviewed,polish pass 001: FIX
-english_events_prologue:L10,english_events_prologue.txt,10,tutorial_prologue_missions,narrator,,We'll explain it in more detail in a minute.,具体怎么玩，等会儿再说。,reviewed,polish pass 001: FIX
-english_events_prologue:L11,english_events_prologue.txt,11,tutorial_prologue_missions,narrator,,"For now, choose a PRANK DARE:",现在，选一个恶作剧挑战吧：,reviewed,polish pass 001: FIX
-english_events_prologue:L19,english_events_prologue.txt,19,prologue_1,narrator,,"Ah, the road... that mythical beast of asphalt...",啊，道路……那头由沥青铺成的神话巨兽……,reviewed,polish pass 001: KEEP
-english_events_prologue:L20,english_events_prologue.txt,20,prologue_1,narrator,,"We once tamed it in what became one of the strangest, most wonderful journeys of our lives...",我们曾经驯服过它，踏上了人生中最离奇、最精彩的旅程之一……,reviewed,polish pass 001: KEEP
-english_events_prologue:L21,english_events_prologue.txt,21,prologue_1,narrator,,"...back then, when we were young and unafraid.",……那时，我们年轻，无所畏惧。,reviewed,polish pass 001: KEEP
-english_events_prologue:L22,english_events_prologue.txt,22,prologue_1,narrator,,Summer was coming to an end when Polly and Scott planned a road trip.,夏日将尽，波莉和斯科特计划来一场公路旅行。,reviewed,polish pass 001: KEEP
-english_events_prologue:L23,english_events_prologue.txt,23,prologue_1,narrator,,"The whole thing was bound to go off rails; this was the Prank Masterz, after all:",整件事注定会彻底失控——毕竟，主谋可是这两位恶作剧大师：,reviewed,polish pass 001: KEEP
-english_events_prologue:L24,english_events_prologue.txt,24,prologue_1,narrator,,"Scott Howl (22), a werewolf athlete who compensated for his rather small brain with a stupidly huge heart.",斯科特·豪尔（22 岁），狼人运动健将；脑容量虽小，却有一颗大得离谱的心。,reviewed,polish pass 001: KEEP
-english_events_prologue:L25,english_events_prologue.txt,25,prologue_1,narrator,,"And Polly Geist (23?), a party ghost with an insatiable hunger for all the wrong things.",以及波莉·盖斯特（23 岁？），派对幽灵，对各种不该碰的东西都有着无穷无尽的渴望。,reviewed,polish pass 001: KEEP
-english_events_prologue:L26,english_events_prologue.txt,26,prologue_1,narrator,,"Each of them were, by themselves, an agent of chaos...",单独看，他们每一个都是混乱的化身……,reviewed,polish pass 001: KEEP
-english_events_prologue:L27,english_events_prologue.txt,27,prologue_1,narrator,,"...but together? Together, they were the perfect combo for hijinks to ensue.",……可凑到一起呢？他们简直是胡闹惹事的完美组合。,reviewed,polish pass 001: KEEP
-english_events_prologue:L28,english_events_prologue.txt,28,prologue_1,narrator,,Who in their right mind would have agreed to join them on such a trip?,究竟哪个脑子正常的人，会答应和他们一起上路？,reviewed,polish pass 001: KEEP
-english_events_prologue:L37,english_events_prologue.txt,37,prologue_2_missions,narrator,,Was the road trip a dangerous idea? Yes.,这趟公路旅行危险吗？危险。,reviewed,polish pass 001: FIX
-english_events_prologue:L38,english_events_prologue.txt,38,prologue_2_missions,narrator,,Was it poorly planned? Yes.,计划得很糟吗？很糟。,reviewed,polish pass 001: FIX
-english_events_prologue:L39,english_events_prologue.txt,39,prologue_2_missions,narrator,,Did we do it anyway? Fuck yes.,那我们还去吗？他妈的，当然去。,reviewed,polish pass 001: FIX
-english_events_prologue:L40,english_events_prologue.txt,40,prologue_2_missions,narrator,,For in the end...,因为说到底……,reviewed,polish pass 001: FIX
-english_events_prologue:L41,english_events_prologue.txt,41,prologue_2_missions,narrator,,...we were young and unafraid...,……我们年轻，无所畏惧……,reviewed,polish pass 001: FIX
-english_events_prologue:L42,english_events_prologue.txt,42,prologue_2_missions,narrator,,...and we were ready to start.,……而且，我们已经准备好出发了。,reviewed,polish pass 001: FIX
-english_events_prologue:L51,english_events_prologue.txt,51,prologue_2_nomissions,narrator,,Was the road trip a dangerous idea? Yes.,这趟公路旅行危险吗？危险。,reviewed,polish pass 001: FIX
-english_events_prologue:L52,english_events_prologue.txt,52,prologue_2_nomissions,narrator,,Was it poorly planned? Yes.,计划得很糟吗？很糟。,reviewed,polish pass 001: FIX
-english_events_prologue:L53,english_events_prologue.txt,53,prologue_2_nomissions,narrator,,Did we do it anyway? Fuck yes.,那我们还去吗？他妈的，当然去。,reviewed,polish pass 001: FIX
-english_events_prologue:L54,english_events_prologue.txt,54,prologue_2_nomissions,narrator,,For in the end...,因为说到底……,reviewed,polish pass 001: FIX
-english_events_prologue:L55,english_events_prologue.txt,55,prologue_2_nomissions,narrator,,...we were young and unafraid...,……我们年轻，无所畏惧……,reviewed,polish pass 001: FIX
-english_events_prologue:L56,english_events_prologue.txt,56,prologue_2_nomissions,narrator,,...and we were ready to start.,……而且，我们已经准备好出发了。,reviewed,polish pass 001: FIX
+english_events_prologue:L8,english_events_prologue.txt,8,tutorial_prologue_missions,narrator,,"Ah, wait, before I forget! This mode includes a new big mechanic: PRANK DARES.",啊，等等，差点忘了！这个模式有个重要的新机制：恶作剧挑战。,reviewed,polish pass 001: FIX; series recheck 010: KEEP
+english_events_prologue:L9,english_events_prologue.txt,9,tutorial_prologue_missions,narrator,,They're like missions to gain personal points for you to get better endings.,它们就像任务，完成后能赚取个人积分，争取更好的结局。,reviewed,polish pass 001: FIX; series recheck 010: KEEP
+english_events_prologue:L10,english_events_prologue.txt,10,tutorial_prologue_missions,narrator,,We'll explain it in more detail in a minute.,具体怎么玩，等会儿再说。,reviewed,polish pass 001: FIX; series recheck 010: KEEP
+english_events_prologue:L11,english_events_prologue.txt,11,tutorial_prologue_missions,narrator,,"For now, choose a PRANK DARE:",现在，选一个恶作剧挑战吧：,reviewed,polish pass 001: FIX; series recheck 010: KEEP
+english_events_prologue:L19,english_events_prologue.txt,19,prologue_1,narrator,,"Ah, the road... that mythical beast of asphalt...",啊，道路……那头由沥青铺成的神话巨兽……,reviewed,polish pass 001: KEEP; series recheck 010: KEEP
+english_events_prologue:L20,english_events_prologue.txt,20,prologue_1,narrator,,"We once tamed it in what became one of the strangest, most wonderful journeys of our lives...",我们曾经驯服过它，踏上了人生中最离奇、最精彩的旅程之一……,reviewed,polish pass 001: KEEP; series recheck 010: KEEP
+english_events_prologue:L21,english_events_prologue.txt,21,prologue_1,narrator,,"...back then, when we were young and unafraid.",……那时，我们年轻，无所畏惧。,reviewed,polish pass 001: KEEP; series recheck 010: KEEP
+english_events_prologue:L22,english_events_prologue.txt,22,prologue_1,narrator,,Summer was coming to an end when Polly and Scott planned a road trip.,夏日将尽，波莉和斯科特计划来一场公路旅行。,reviewed,polish pass 001: KEEP; series recheck 010: KEEP
+english_events_prologue:L23,english_events_prologue.txt,23,prologue_1,narrator,,"The whole thing was bound to go off rails; this was the Prank Masterz, after all:",整件事注定会彻底失控——毕竟，主谋可是这两位恶作剧大师：,reviewed,polish pass 001: KEEP; series recheck 010: KEEP
+english_events_prologue:L24,english_events_prologue.txt,24,prologue_1,narrator,,"Scott Howl (22), a werewolf athlete who compensated for his rather small brain with a stupidly huge heart.",斯科特·嚎尔（22 岁），狼人运动健将；脑容量虽小，却有一颗大得离谱的心。,reviewed,polish pass 001: KEEP; series recheck 010: FIX
+english_events_prologue:L25,english_events_prologue.txt,25,prologue_1,narrator,,"And Polly Geist (23?), a party ghost with an insatiable hunger for all the wrong things.",以及波莉·鬼斯特（23 岁？），派对幽灵，对各种不该碰的东西都有着无穷无尽的渴望。,reviewed,polish pass 001: KEEP; series recheck 010: FIX
+english_events_prologue:L26,english_events_prologue.txt,26,prologue_1,narrator,,"Each of them were, by themselves, an agent of chaos...",单独看，他们每一个都是混乱的化身……,reviewed,polish pass 001: KEEP; series recheck 010: KEEP
+english_events_prologue:L27,english_events_prologue.txt,27,prologue_1,narrator,,"...but together? Together, they were the perfect combo for hijinks to ensue.",……可凑到一起呢？他们简直是胡闹惹事的完美组合。,reviewed,polish pass 001: KEEP; series recheck 010: KEEP
+english_events_prologue:L28,english_events_prologue.txt,28,prologue_1,narrator,,Who in their right mind would have agreed to join them on such a trip?,究竟哪个脑子正常的人，会答应和他们一起上路？,reviewed,polish pass 001: KEEP; series recheck 010: KEEP
+english_events_prologue:L37,english_events_prologue.txt,37,prologue_2_missions,narrator,,Was the road trip a dangerous idea? Yes.,这趟公路旅行危险吗？危险。,reviewed,polish pass 001: FIX; series recheck 010: KEEP
+english_events_prologue:L38,english_events_prologue.txt,38,prologue_2_missions,narrator,,Was it poorly planned? Yes.,计划得很糟吗？很糟。,reviewed,polish pass 001: FIX; series recheck 010: KEEP
+english_events_prologue:L39,english_events_prologue.txt,39,prologue_2_missions,narrator,,Did we do it anyway? Fuck yes.,那我们还去吗？他妈的，当然去。,reviewed,polish pass 001: FIX; series recheck 010: KEEP
+english_events_prologue:L40,english_events_prologue.txt,40,prologue_2_missions,narrator,,For in the end...,因为说到底……,reviewed,polish pass 001: FIX; series recheck 010: KEEP
+english_events_prologue:L41,english_events_prologue.txt,41,prologue_2_missions,narrator,,...we were young and unafraid...,……我们年轻，无所畏惧……,reviewed,polish pass 001: FIX; series recheck 010: KEEP
+english_events_prologue:L42,english_events_prologue.txt,42,prologue_2_missions,narrator,,...and we were ready to start.,……而且，我们已经准备好出发了。,reviewed,polish pass 001: FIX; series recheck 010: KEEP
+english_events_prologue:L51,english_events_prologue.txt,51,prologue_2_nomissions,narrator,,Was the road trip a dangerous idea? Yes.,这趟公路旅行危险吗？危险。,reviewed,polish pass 001: FIX; series recheck 010: KEEP
+english_events_prologue:L52,english_events_prologue.txt,52,prologue_2_nomissions,narrator,,Was it poorly planned? Yes.,计划得很糟吗？很糟。,reviewed,polish pass 001: FIX; series recheck 010: KEEP
+english_events_prologue:L53,english_events_prologue.txt,53,prologue_2_nomissions,narrator,,Did we do it anyway? Fuck yes.,那我们还去吗？他妈的，当然去。,reviewed,polish pass 001: FIX; series recheck 010: KEEP
+english_events_prologue:L54,english_events_prologue.txt,54,prologue_2_nomissions,narrator,,For in the end...,因为说到底……,reviewed,polish pass 001: FIX; series recheck 010: KEEP
+english_events_prologue:L55,english_events_prologue.txt,55,prologue_2_nomissions,narrator,,...we were young and unafraid...,……我们年轻，无所畏惧……,reviewed,polish pass 001: FIX; series recheck 010: KEEP
+english_events_prologue:L56,english_events_prologue.txt,56,prologue_2_nomissions,narrator,,...and we were ready to start.,……而且，我们已经准备好出发了。,reviewed,polish pass 001: FIX; series recheck 010: KEEP

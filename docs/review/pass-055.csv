@@ -1,0 +1,87 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_pitstop:L6161,cdliamnextlife,KEEP,His plans for the future,他对未来的计划,他对未来的计划
+english_events_pitstop:L6163,cdliamnextlife,FIX,What's next for Liam de Lioncourt?,接下来要做什么? 利亚姆 德・利昂考特?,李姆·堂·莱昂卡特，接下来该何去何从？
+english_events_pitstop:L6164,cdliamnextlife,POLISH,Ha... that's a good question.,那个... 问得好,哈……问得好。
+english_events_pitstop:L6165,cdliamnextlife,FIX,"I've lived so many lives, %CURRENTPLAYERNAME%...",我活了这么多年 %CURRENTPLAYERNAME%...,%CURRENTPLAYERNAME%，我已经活过太多种人生……
+english_events_pitstop:L6166,cdliamnextlife,FIX,"I have been a musician, a surgeon, an artist, a wanderer...","我是一个音乐家,一个外科医生,一个艺术家,一个流浪者...",我当过音乐家、外科医生、艺术家、流浪者……
+english_events_pitstop:L6167,cdliamnextlife,POLISH,...then I lived so much that I grew so numb that I ended up a powerful dark lord.,"...然后我活得如此之多,我变得如此麻木,最终成为了一位强大的黑暗领主.",……后来，经历得太多，逐渐麻木，最终成了一个强大的黑暗领主。
+english_events_pitstop:L6168,cdliamnextlife,FIX,"Then Joy opened my eyes, and I became a Coven member, and in doing so I joined Spooky Academy.","之后乔伊睁开眼睛,我成为了""巫师""成员,在这样做的时候,我加入了""斯波克学院""(Spoky Academy).",再后来，乔伊让我醒悟。我加入女巫会，也因此进入了惊悚学院。
+english_events_pitstop:L6169,cdliamnextlife,FIX,"But now that I'm done with Spooky Academy... what's next, indeed?",但是既然我和史波克学院的事结束了... 接下来要做什么?,可如今，惊悚学院的生活已经结束……接下来，究竟该做什么？
+english_events_pitstop:L6170,cdliamnextlife,KEEP,Haven't you ever thought of this before?,你以前没想过吗?,你以前没想过吗?
+english_events_pitstop:L6171,cdliamnextlife,POLISH,"I think I've been avoiding that question out of fear that, in not finding the answer, I may fall once again into the heart of darkness...","我觉得我一直回避这个问题 是出于恐惧,因为没有找到答案, 我可能再次陷入黑暗的心脏...",我想，我一直在回避这个问题，怕找不到答案，自己就会再次陷入黑暗深处……
+english_events_pitstop:L6172,cdliamnextlife,FIX,"But alas, I think I've danced this tango for too long... and what better moment to make a decision than right now, as I talk to my good friend %CURRENTPLAYERNAME%?","可惜,我想我跳探戈已经太久了... 以及现在做决定的最好时机 我和我的好朋友谈过了 %CURRENTPLAYERNAME%?",不过，这支探戈，我也跳得太久了……现在正和我的好友%CURRENTPLAYERNAME%聊天，还有比此刻更适合做决定的时候吗？
+english_events_pitstop:L6173,cdliamnextlife,FIX,Yeah! Let's decide tonight! No holds barred! No looking back!,对! 让我们决定今晚! 没有禁区! 不许回头看!,对！今晚就决定！放开想，不回头！
+english_events_pitstop:L6174,cdliamnextlife,KEEP,Well said!,说得好!,说得好!
+english_events_pitstop:L6175,cdliamnextlife,FIX,"But here's the thing... wherever I go next, I must remain authentic to my brand.","但问题是... 无论我到哪里,我必须保持真实的我的品牌。",可问题是……无论接下来去哪儿，我都必须忠于自己的个人品牌。
+english_events_pitstop:L6176,cdliamnextlife,POLISH,"My brand is, of course, many things: the eternal pursuit of beauty; the relentless defense of the arts; the constant search for innovation...","当然,我的品牌是很多事情:永远追求美;不懈地捍卫艺术;不断地寻求创新......",当然，我的品牌包含许多东西：对美永恒的追求，对艺术不懈的捍卫，对创新不断的探索……
+english_events_pitstop:L6177,cdliamnextlife,KEEP,I must challenge myself!,我必须挑战自己!,我必须挑战自己!
+english_events_pitstop:L6178,cdliamnextlife,KEEP,I must embrace the future!,我必须拥抱未来!,我必须拥抱未来!
+english_events_pitstop:L6179,cdliamnextlife,KEEP,I must surprise everyone!,我要给大家惊喜!,我要给大家惊喜!
+english_events_pitstop:L6180,cdliamnextlife,FIX,I must defy the expectations of what Liam can and cannot be!,我必须违背什么的预期 利亚姆 绝对不能!,我要打破大家对“李姆能是什么、不能是什么”的一切预设！
+english_events_pitstop:L6181,cdliamnextlife,FIX,You didn't want to interrupt Liam because he's sort of adorable when he gets this passionate and dorky.,你本来不想打断的 利亚姆 因为他有点可爱 当他得到这种热情和愚蠢。,你不想打断李姆。他这么满怀热情、又有点呆的样子，还挺可爱的。
+english_events_pitstop:L6182,cdliamnextlife,FIX,But maybe it's time to help your friend with a resounding idea that defines the fate of Liam de Lioncourt:,但也许是时候帮助你的朋友 一个响亮的想法 确定命运 利亚姆 莱昂科特:,不过，也许该抛出一个响当当的点子，帮朋友决定李姆·堂·莱昂卡特接下来的人生了：
+english_events_pitstop:L6183,cdliamnextlife,FIX,"""Liam has always flown alone. Maybe it's time for that to change. Maybe it's time for... pairs-figure-skating Liam!""","""利亚姆 总是独自飞行。 也许是时候改变这一切了 也许是时候... 双相图滑动 利亚姆!""",“李姆总是独来独往，也许该变一变了。也许该让……双人花滑版李姆登场了！”
+english_events_pitstop:L6184,cdliamnextlife,FIX,"""Become something Liam has never been: Larry. Legally change your name. Do it now!""","""做点什么"" 利亚姆 从来没有,拉里。 依法改名为相. 现在就动手!""",“成为李姆从没成为过的人：拉里。去正式改名，现在就去！”
+english_events_pitstop:L6185,cdliamnextlife,FIX,"""Bring poetry into the future so the kids appreciate it again: AI-generated poems; F2P (Free to Poetry); sonnets written in meta-verses; stuff like that!""","""把诗词带入未来,让孩子们再次欣赏:AI出自诗;F2P(自由去诗"";用元相写作的相声;类似的东西""!",“把诗歌带进未来，让年轻人重新爱上它：AI生成诗、F2P（免费吟诗）、写在‘元诗宙’里的十四行诗，诸如此类！”
+english_events_pitstop:L6187,cdliamnextlife,POLISH,"Intriguing... it is true I tend to fly solo, especially when it comes to art.",令人着迷... 我的确喜欢独飞 特别是在艺术方面,有意思……我的确习惯单打独斗，尤其在艺术方面。
+english_events_pitstop:L6188,cdliamnextlife,POLISH,Creating beauty is such a subjective and individual activity.,创造美丽是这种主观和个人的活动.,创造美，是极其主观、极其个人的活动。
+english_events_pitstop:L6189,cdliamnextlife,POLISH,"A cleansing of the soul, which vomits its intimate insides upon the canvas, on the stage, anywhere that's needed.","对灵魂的清洗, 吐出它的亲密内心 在画布上,在舞台上, 任何需要的地方。",是灵魂的涤荡，将最私密的内在倾吐于画布、舞台，任何需要它的地方。
+english_events_pitstop:L6190,cdliamnextlife,KEEP,But pairs figure skating...?,但双人花样滑冰...,但双人花样滑冰...
+english_events_pitstop:L6191,cdliamnextlife,FIX,How you do something so painfully personal... with someone else?,你怎么做这么痛苦的私人事情... 和别人?,如此私密，私密得近乎痛苦的事……要怎么与另一个人共同完成？
+english_events_pitstop:L6192,cdliamnextlife,POLISH,Yes... YES. A true challenge! I can feel passion gurgling from the bottom of my heart already.,对... 对。 真正的挑战! 我能感觉到激情从我内心深处涌出,是啊……没错。真正的挑战！我已经能感觉到，热情正从心底涌上来。
+english_events_pitstop:L6193,cdliamnextlife,FIX,But who could be the one capable of meeting my dedication... my fervor... my fire?!,但谁能满足我的献身精神... 我的爱人... 我的火吗?,可谁能配得上我的投入、我的狂热、我的火焰？！
+english_events_pitstop:L6194,cdliamnextlife,POLISH,I mean...  I wouldn't mind...,我是说...  我不介意你这样...,我是说……我倒是愿意……
+english_events_pitstop:L6195,cdliamnextlife,POLISH,But... and I don't mean to be rude... do you even know how to skate?,不过... 我不想无礼... 你会滑冰吗?,不过……恕我冒昧……你会滑冰吗？
+english_events_pitstop:L6196,cdliamnextlife,KEEP,...,...,...
+english_events_pitstop:L6197,cdliamnextlife,POLISH,...No.,...没有。,……不会。
+english_events_pitstop:L6198,cdliamnextlife,KEEP,Then...?,那麽... ?,那麽... ?
+english_events_pitstop:L6199,cdliamnextlife,FIX,I don't know. Is it dumb if I just wanted you to hold me and do pretty pirouettes?,师曰. 如果我只想你抱住我 做漂亮的花花公子 会不会太蠢了?,不知道。要是我只是想让你抱着我，转几个漂亮的圈，会不会很傻？
+english_events_pitstop:L6200,cdliamnextlife,FIX,But %CURRENTPLAYERNAME%!,不过 %CURRENTPLAYERNAME%!,可是，%CURRENTPLAYERNAME%！
+english_events_pitstop:L6201,cdliamnextlife,FIX,I need to find someone of my stature if I want this to re-ignite my passion for afterlife.,我需要找到一个有我地位的人 如果我想这重新燃起我对来生的热情的话,要借此重新点燃对死后生活的热情，我得找一个与自己旗鼓相当的人。
+english_events_pitstop:L6202,cdliamnextlife,KEEP,It's okay.,没关系。,没关系。
+english_events_pitstop:L6203,cdliamnextlife,POLISH,And all that stuff you wanted to do... we can still do all that anyway.,"和所有的东西,你想做的... 反正我们还是可以做到这些的",不过，你想做的那些事……咱们照样可以做。
+english_events_pitstop:L6204,cdliamnextlife,KEEP,Really?,真的吗?,真的吗?
+english_events_pitstop:L6205,cdliamnextlife,FIX,"Evidently. In the end, you're the one who came up with such an inspiring idea.","显相相相相. 最终,你提出了这样一个鼓舞人心的想法.",当然。毕竟，是你想出了这么令人振奋的主意。
+english_events_pitstop:L6206,cdliamnextlife,KEEP,I am forever grateful to you.,我永远感激你,我永远感激你
+english_events_pitstop:L6207,cdliamnextlife,FIX,Let's do it: I will look for my figure-skating partner... my true figure-skating equal!,"开始吧,我去找我的花花公子搭档... 我真正的花样滑冰平等!",就这么办：我要去找我的花滑搭档……一个真正能与我在花滑上比肩的人！
+english_events_pitstop:L6208,cdliamnextlife,FIX,"But in the meantime, I can go through a figure skating mentor/pupil arc with you.","但与此同时,我可以通过一个 花样滑冰导师/学生弧与你。",与此同时，咱们也可以先展开一段花滑师徒篇章。
+english_events_pitstop:L6209,cdliamnextlife,KEEP,Sound good?,听起来不错吧?,听起来不错吧?
+english_events_pitstop:L6210,cdliamnextlife,KEEP,Sounds marvelous.,听起来很棒。,听起来很棒。
+english_events_pitstop:L6211,cdliamnextlife,FIX,"You spend the rest of the night practicing pirouettes. Needless to say, you get to be held by Liam an awful lot. It's nice.","你整晚都在练习修道会 不用说,你被牵着走 利亚姆 非常惨重。 赞曰.",接下来的时间，你一直在练习旋转。不用说，李姆抱着你的次数可不少。真不错。
+english_events_pitstop:L6213,cdliamnextlife,FIX,Whoa... that's... truly disruptive.,珃... 这是... 真正具有破坏性。,哇……这可真是……颠覆性的。
+english_events_pitstop:L6214,cdliamnextlife,FIX,"Me, Liam de Lioncourt... becoming Larry de Lioncourt?!","我... 来,来... 利亚姆 莱昂考特... 成为拉里·德·利昂考特?",我，李姆·堂·莱昂卡特……变成拉里·堂·莱昂卡特？！
+english_events_pitstop:L6215,cdliamnextlife,FIX,I was thinking more of a full name-lift. Larry de Lollipop.,我在想一个完整的升起名字。 拉里·德·洛利波普(英语:Larry de Lollipop).,我想的是，给整套名字做次整容。拉里·堂·棒棒糖。
+english_events_pitstop:L6216,cdliamnextlife,POLISH,What an obvious yet blunt way of leaving everything that Liam was behind and embracing what comes next.,"多么明显而钝利的方式 离开所有的东西 利亚姆 在后面,并拥抱接下来的事物。",这倒是个直白又干脆的办法，告别李姆的一切，迎接未来。
+english_events_pitstop:L6217,cdliamnextlife,FIX,"A new chapter in Liam's biography, that tome full of pathos and growth.",一个新的章节 利亚姆传记 充满了病原体和成长,给李姆那部充满悲怆与成长的传记，写下新的一章。
+english_events_pitstop:L6218,cdliamnextlife,POLISH,"It'd be so groundbreaking, %CURRENTPLAYERNAME%. I don't know if you noticed, but I've been referring to myself in the third person a lot lately.","这将是如此突破性, %CURRENTPLAYERNAME%. 我不知道你有没有注意到 但我最近经常在第三人称中提及自己",这真是开天辟地的突破，%CURRENTPLAYERNAME%。不知道你有没有注意到，我最近经常用第三人称称呼自己。
+english_events_pitstop:L6219,cdliamnextlife,FIX,...I noticed.,...我注意到了。 ...... I noticed.,……注意到了。
+english_events_pitstop:L6220,cdliamnextlife,FIX,"Yes; it was a step towards re-affirmation, towards making the name Liam de Lioncourt settle in the minds of the people.",是;这是朝向重新确认和命名迈出的一步。 利亚姆 狮子会安顿在人们的心目中,对，那是为了重新确立自我，让“李姆·堂·莱昂卡特”这个名字深入人心。
+english_events_pitstop:L6221,cdliamnextlife,FIX,"So, to change that... no one will see it coming!","所以,为了改变这个... 没有人会预见到的!",所以，如果现在改名……谁都想不到！
+english_events_pitstop:L6222,cdliamnextlife,FIX,Yeah! A new chapter begins for Larry de Lollipop!,对! Larry de Lollipop的新篇章开始了!,对！拉里·堂·棒棒糖的新篇章开始了！
+english_events_pitstop:L6223,cdliamnextlife,KEEP,Ugh...,唉哟...,唉哟...
+english_events_pitstop:L6224,cdliamnextlife,KEEP,What?,什麽?,什麽?
+english_events_pitstop:L6225,cdliamnextlife,POLISH,I don't know. I think... look: I love being an enfant terrible who defies every preconception people have.,"师曰. 我觉得... 看,我喜欢做一个叛逆所有先入为主的人",怎么说呢……我喜欢做个离经叛道的家伙，打破大家的一切成见。
+english_events_pitstop:L6226,cdliamnextlife,POLISH,But shouldn't there be a limit somewhere?,"但是,不应该有一个限制的地方吗?",可总该有个界限吧？
+english_events_pitstop:L6227,cdliamnextlife,FIX,How can I remain authentic to my brand if I am re-branding this hard?,我怎么能保持真实的品牌 如果我重塑了这么难的品牌?,连品牌都改成这样了，我还怎么忠于自己的品牌？
+english_events_pitstop:L6228,cdliamnextlife,FIX,I think you have found the line that Liam de Lioncourt (and not Larry de Lollipop) draws.,我想你找到了一条线 利亚姆 由Lioncourt(而不是Larry de Lollipop)绘制.,我想，你找到了李姆·堂·莱昂卡特——而不是拉里·堂·棒棒糖——的底线。
+english_events_pitstop:L6229,cdliamnextlife,POLISH,"Because if you don't draw the line somewhere, how will you know where you stand?","因为如果你不在某处划出界线,你怎么知道自己站在哪?",毕竟，连界限都不划清，又怎么知道自己站在哪里？
+english_events_pitstop:L6230,cdliamnextlife,KEEP,Makes sense...,说得通...,说得通...
+english_events_pitstop:L6231,cdliamnextlife,KEEP,"Yes, it makes perhaps too much sense.","是的,这也许太合理了。","是的,这也许太合理了。"
+english_events_pitstop:L6232,cdliamnextlife,FIX,"%CURRENTPLAYERNAME%, with your incredibly dumb idea, you've given me a lot to think about what means to be Liam de Lioncourt.",%CURRENTPLAYERNAME%带着你的愚蠢想法 你给了我很多时间来思考 利亚姆 德·利昂考特 我就是那个,%CURRENTPLAYERNAME%，你这蠢得惊人的点子，倒让我开始认真思考，成为李姆·堂·莱昂卡特，究竟意味着什么。
+english_events_pitstop:L6233,cdliamnextlife,KEEP,Thanks!,谢谢!,谢谢!
+english_events_pitstop:L6234,cdliamnextlife,FIX,"And so Liam disappears in the night, starting a new journey... maybe a new chapter will begin for Liam de Lioncourt after all.","所以说 利亚姆 在夜里消失,开始新的旅程... 也许新的篇章会开始 利亚姆 毕竟是德·利昂考特",李姆消失在夜色中，踏上新的旅途……也许，李姆·堂·莱昂卡特的人生，终究还是要翻开新的一章。
+english_events_pitstop:L6236,cdliamnextlife,FIX,Saving poetry by making it cool for the kids?,"拯救诗歌,为孩子们做凉快?",让诗歌变得够酷，好让年轻人重新爱上它？
+english_events_pitstop:L6237,cdliamnextlife,KEEP,"It's a noble cause, %CURRENTPLAYERNAME%...","这是一个崇高的事业, %CURRENTPLAYERNAME%...","这是一个崇高的事业, %CURRENTPLAYERNAME%..."
+english_events_pitstop:L6238,cdliamnextlife,KEEP,...but at what cost?,...但是要付出什么代价?,...但是要付出什么代价?
+english_events_pitstop:L6239,cdliamnextlife,FIX,Commodifying poetry?,翻译诗歌?,把诗歌变成商品？
+english_events_pitstop:L6240,cdliamnextlife,FIX,Aggressive micro-transactions?,侵略性微交易?,肆无忌惮地搞内购？
+english_events_pitstop:L6241,cdliamnextlife,FIX,Selling smoke by using buzz words?,用出声词来卖烟?,靠堆砌热词卖空气？
+english_events_pitstop:L6242,cdliamnextlife,KEEP,Yes?,是吗?,是吗?
+english_events_pitstop:L6243,cdliamnextlife,FIX,"No, %CURRENTPLAYERNAME%.",没有 %CURRENTPLAYERNAME%.,不行，%CURRENTPLAYERNAME%。
+english_events_pitstop:L6244,cdliamnextlife,KEEP,"Oh, okay.","哦,还好。","哦,还好。"
+english_events_pitstop:L6245,cdliamnextlife,FIX,I didn't leave behind a life of evil in the dark side just to jump into a new form of evil.,我离开邪恶的生活 在黑暗的一面 只是为了跳入 新的邪恶形式。,我离开黑暗面的邪恶生活，可不是为了投身另一种邪恶。
+english_events_pitstop:L6246,cdliamnextlife,FIX,Not even for poetry?,连诗都不写?,为了诗歌，也不行？
+english_events_pitstop:L6247,cdliamnextlife,FIX,Not even for poetry!,连诗都不行!,为了诗歌，也不行！
+english_events_pitstop:L6248,cdliamnextlife,POLISH,"Ugh, %CURRENTPLAYERNAME%, you're so alluring and sexy... but it's clear to me now that you're a dark temptation.",唉哟 %CURRENTPLAYERNAME%你是如此迷人又性感... 但现在我很清楚你是个黑暗的诱惑,唉，%CURRENTPLAYERNAME%，你这么迷人、这么性感……可我现在看清了，你就是一道黑暗的诱惑。
+english_events_pitstop:L6249,cdliamnextlife,POLISH,I must avoid this temptation! I must leave and spend some time writing poetry... but poetry for good!,我一定要避免这种诱惑! 我必须离开 花点时间写诗... 但诗歌为善!,我必须远离这诱惑！我要走了，花点时间写诗……不过，要写出向善的诗！
+english_events_pitstop:L6250,cdliamnextlife,FIX,"Liam disappears into the night, reciting verses of pain and sorrow, leaving you alone to reflect on your dumb ideas.","利亚姆 消失在黑夜中, 诵读痛苦和悲伤的诗句, 离开你独自思考 你愚蠢的想法。",李姆消失在夜色中，吟诵着痛苦与哀伤的诗句，留你独自反思那些蠢主意。

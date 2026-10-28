@@ -6,6 +6,7 @@ import re
 from pathlib import Path
 
 from translation_common import load_rows
+from runtime_verbs import build_overrides
 
 
 META_RE = re.compile(
@@ -84,7 +85,8 @@ def main() -> int:
             continue
         print(f"Built {destination}")
         built += 1
-    print(f"Built {built} localization files")
+    build_overrides(args.translation, rows, args.output)
+    print(f"Built {built} localization files and reviewed Chinese verb sidecar")
     return 0
 
 

@@ -1,0 +1,128 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_maingame:L2855,holefun,FIX,The room that's just a hole in the floor,房间只是地板上的一个洞,只有一个地洞的房间
+english_events_maingame:L2859,holefun,POLISH,Nice choice! You joyfully lead your friends to the room you're staying in for the night.,不错的选择! 你高兴地带你的朋友去你住的房间过夜。,选得好！你兴高采烈地带着朋友们，来到今晚的住处。
+english_events_maingame:L2861,holefun,POLISH,"We're sleeping in a hole? You're joking, right?",我们睡在洞里? 你在开玩笑吧?,我们睡洞里？你开玩笑吧？
+english_events_maingame:L2862,holefun,POLISH,"Nope, no jokes! This hole is now our overnight home. Isn't it great?","不,没有笑话! 这个洞现在是我们过夜的家了 是不是很棒吗?",没开玩笑！今晚，这个洞就是我们的家。是不是很棒？
+english_events_maingame:L2863,holefun,FIX,It's... uh...,这是... 额...,是……呃……
+english_events_maingame:L2864,holefun,FIX,"(C'mon, Polly, you can put a positive spin on this somehow...)","(来吧, 波莉你可以用一个积极的旋转 这个... )",（想想，波莉，总能找个角度，夸它两句……）
+english_events_maingame:L2865,holefun,POLISH,I like how being six feet underground... reminds me of home? Is that anything?,我喜欢在地下六英尺的地方... 让我想起了家? 还有什么吗?,睡在地下六英尺……挺有家的感觉？这算优点吗？
+english_events_maingame:L2866,holefun,POLISH,I like how there are no beds down here. I'm gonna practice sleeping standing up like a horse.,我喜欢这里没有床 我要像马一样站着睡觉,没有床，我挺喜欢。正好练练像马一样，站着睡觉。
+english_events_maingame:L2867,holefun,POLISH,"Good for you, buddy! What do you wanna do until bed?","好样的,伙计! 你想在睡觉前做什么?",真棒，伙计！睡前想干点什么？
+english_events_maingame:L2868,holefun,FIX,Wanna play a sport you can play in a hole?,想在洞里玩游戏吗?,玩个洞里能玩的运动，怎么样？
+english_events_maingame:L2869,holefun,KEEP,Like what?,比如说?,比如说?
+english_events_maingame:L2870,holefun,FIX,Like... hmmm... which sports use holes...?,喜欢... 垛... 什么运动用孔... ?,比如……嗯……哪些运动用得到洞……？
+english_events_maingame:L2871,holefun,POLISH,"I can only think of golf, but I think you have to be OUT of the hole to play that one.","我只能想到高尔夫球, 但我认为你必须走出洞去打那个。",只想得出高尔夫，可打那个，好像得待在洞外面。
+english_events_maingame:L2872,holefun,POLISH,Maybe we could watch TV? Do holes have TVs?,也许我们可以看电视? 洞里有电视吗?,要不看电视？洞里有电视吗？
+english_events_maingame:L2873,holefun,POLISH,"No, Scott. To be honest, the only things this hole has are dirt, worms, and disappointment.","没有 斯科特. 老实说,这个洞里唯一的东西是泥土,蠕虫和失望.",没有，斯科特。说真的，这洞里只有土、虫子，还有失望。
+english_events_maingame:L2874,holefun,POLISH,"Oh... %CURRENTPLAYERNAME%, it's getting hard to get excited about this hole...",哦...  %CURRENTPLAYERNAME%很难对这个洞感到兴奋...,哦……%CURRENTPLAYERNAME%，这洞，越来越让人兴奋不起来了……
+english_events_maingame:L2875,holefun,POLISH,You're getting the vibe that your friends don't love the hole. Point out something that'll make them love the hole!,你得到一种感觉 你的朋友不喜欢这个洞。 说点能让他们喜欢洞的东西!,你感觉，朋友们好像不太爱这个洞。快指出点优点，让他们爱上它！
+english_events_maingame:L2876,holefun,POLISH,"Where your friends see a hole, you see an opportunity for a treasure hunt. Grab your shovels!","在你的朋友看到一个洞的地方,你会看到一个寻找宝藏的机会. 拿起你的铲子!",朋友们看见的是地洞，你看见的是寻宝机会。拿铲子来！
+english_events_maingame:L2877,holefun,FIX,"Who needs TV? Pass the time by staring into complete darkness all night, gazing into the bottom of your own soul.","谁需要电视? 穿越时间 通过凝视整个夜晚的黑暗, 凝视在自己灵魂的底部。",还看什么电视？整晚凝视漆黑，直探灵魂深处，就能打发时间。
+english_events_maingame:L2879,holefun,FIX,"WE CAN DIG HERE?! I changed my mind, this is the BEST HOLE EVER!","我们能在这里! 我改变主意了,这里是最佳避难所!",这里能挖？！我改主意了，这洞，全世界最棒！
+english_events_maingame:L2881,holefun,FIX,"You, Polly, and Scott get busy digging for treasure. Scott declines to use a shovel; he's just as fast with his hands and face anyhow.","你,你是谁? 波莉,以及 斯科特 忙于挖掘宝藏.  斯科特 拒绝使用铲子;他手和脸都一样快。",你、波莉和斯科特开始挖宝。斯科特不用铲子，反正靠手和脸挖，也一样快。
+english_events_maingame:L2883,holefun,FIX,Housekeeping.,户部侍从.,客房清洁。
+english_events_maingame:L2884,holefun,KEEP,...,...,...
+english_events_maingame:L2887,holefun,FIX,"...Am I losing it, or is this thing getting even deeper?",我是不是弄丢了 还是这玩意更深了?,……是我疯了，还是这洞，又变深了？
+english_events_maingame:L2889,holefun,FIX,"Yeah, but don't worry! It's all in the PURSUIT OF TREASURE!","是的,但别担心! 都写在《条约》里了!",是啊，别担心！一切都是为了寻宝！
+english_events_maingame:L2890,holefun,POLISH,We're gonna be rich!,我们会发财的!,我们要发财了！
+english_events_maingame:L2891,holefun,FIX,...Is the hole filling up with water?,洞里有水吗?,……洞里是不是开始进水了？
+english_events_maingame:L2892,holefun,POLISH,"Yeah, Scott chewed up a water line 'cause he thought it was a snake. He got a little spooked, but he's all better now, aren't you buddy?","对 斯科特 咬了一条水线 因为他觉得是条蛇 他有点害怕,但他现在好多了,不是吗?",嗯，斯科特把水管当蛇，咬破了。有点吓着，不过现在好多了，对吧，伙计？
+english_events_maingame:L2893,holefun,FIX,It was so long... so chrome...,这么长的时间... 所以铬...,那么长……银闪闪的……
+english_events_maingame:L2894,holefun,KEEP,...,...,...
+english_events_maingame:L2895,holefun,POLISH,"Fuck it, this is so far above my pay grade. Carry on.","他妈的,这已经超过我的薪级了。 继续",妈的，这活儿，我这点工资可管不了。你们继续。
+english_events_maingame:L2898,holefun,FIX,"Copy that! You dig all night, losing -N2 STAMINA, and actually do find some buried coins! You gain +N2 MONEY.","听到没有? 你挖了一整夜,输了N2 STAMINA, 并且真的找到一些被埋了的硬币! 你得到+N2 钱。",收到！挖了一整夜，你损失-N2体力，还真找到了埋藏的硬币，获得+N2金钱！
+english_events_maingame:L2900,holefun,POLISH,"How do you ""gaze into the bottom of your own soul""? Is it like watching TV?","你怎么""沉入灵魂深处""呢? 就像看电视一样吗?",怎么“直探灵魂深处”？跟看电视差不多吗？
+english_events_maingame:L2901,holefun,POLISH,"No, no... maybe you'd better demonstrate. You get comfy and start staring unblinkingly into the place where the hole swallows all light.","没有,没有... 或许你最好示范一下 慢慢地凝视着洞口 吞下光线的地方",不是，不是……你还是示范一下吧。你找个舒服的姿势坐好，盯着洞里吞没一切光线的黑暗，眼睛也不眨。
+english_events_maingame:L2904,holefun,POLISH,You reflect on yourself. Your triumphs. Your failures. Your lowest moments.,你反省着自己。 你们的胜利。 你的失败。 你的低调时刻。,你审视自己：你的胜利，你的失败，你人生最低谷的时刻。
+english_events_maingame:L2905,holefun,POLISH,"That time your waitress said ""enjoy your meal"" and you said ""you too."" Shudder.","当时你的女服务员说""吃得开心"" 而你说""你也是"" 舒德",比如，服务员说“用餐愉快”，你回了句“你也是”。想想都哆嗦。
+english_events_maingame:L2906,holefun,FIX,You dig a new hole: the one opening in your chest. You normally try to fill it with distractions like material goods or illusions of purpose...,你挖了个新洞 打开胸口的那个 你通常会试图用像物质货物或目的幻觉之类的分心来填补它...,你挖出了另一个洞：心里的空洞。平时，你总拿物质，或是人生有目标的幻觉之类的东西，分散注意，填补那里……
+english_events_maingame:L2907,holefun,FIX,There's no escaping that pit now. You plunder deeper into it until you reach it...,现在没法逃出那个坑了 你更深入地掠夺它 直到你到达它...,现在，再也避不开了。你往那个深坑，一路下探，终于抵达……
+english_events_maingame:L2908,holefun,FIX,THE DARKEST PIT OF YOUR SOUL.,最黑暗的你的灵魂。,灵魂中最黑暗的深渊。
+english_events_maingame:L2910,holefun,FIX,"There, you find two cute little birbs dancing! Awwww!","在那里,你发现两个可爱的小birbs跳舞! 呜呼!",那里，有两只可爱的小鸟，正跳着舞！哎呀！
+english_events_maingame:L2912,holefun,POLISH,...I still don't see how this is better than watching TV.,我还是不明白这比看电视好多少,……还是不懂，这怎么比看电视强了。
+english_events_maingame:L2913,holefun,FIX,"Yeah, introspection is fuckin' boring. Just watching %CURRENTPLAYERNAME% do all that character development made me lose -N2 HYPE.","是啊,反省是他妈的'无聊。 只是看着而已 %CURRENTPLAYERNAME% 做所有的字符开发 让我失去了 -N2 HYPE。",是啊，反省他妈的好无聊。光看%CURRENTPLAYERNAME%完成这么一大段角色成长，都让我-N2热度了。
+english_events_maingame:L2914,holefun,FIX,"Whatever; if they don't want to achieve enlightenment by finding their inner soul birbs, so be it. You gain +N2 MIND all the same!","随便吧,如果他们不想通过找到内在灵魂的birbs 来获得启蒙,那么它就是了。 你得到的+N2 MIND都一样!",随便吧。他们不愿找到灵魂里的小鸟，悟透人生，就算了。你照样获得了+N2头脑！
+english_events_maingame:L2922,cursedroom,FIX,The haunted room where someone was totally murdered,鬼屋里有人被谋杀,绝对死过人的闹鬼客房
+english_events_maingame:L2925,cursedroom,FIX,"You get to your room. It's haunted. Say what you want about this motel, but you can't accuse them of false advertisement.","你去你的房间。 鬼来作么生. 说说你想要的汽车旅馆, 但你不能指责他们虚假的广告。",你进了房间。确实闹鬼。这旅馆，别的随你怎么骂，虚假宣传是真算不上。
+english_events_maingame:L2927,cursedroom,POLISH,Welcome to your room. Hope you don't mind if my fellow curses and I unravel your sanity tonight! MWAHAHAHA!!,欢迎来到你的房间。 希望你们不介意 我和我的同伴今晚诅咒你们 玛莎哈哈!,欢迎入住。今晚，我和其他诅咒，要把你们逼疯，希望别介意！哇哈哈哈！！
+english_events_maingame:L2928,cursedroom,POLISH,"Yeah, go ham. I'm already dead, so most curses don't fuck me up too much.","对,去火腿。 我已经死了,所以大多数的诅咒 不要把我弄砸太多。",行，随便来。我已经死了，大部分诅咒，对我没什么用。
+english_events_maingame:L2929,cursedroom,POLISH,"You're not even afraid of Spaghetti Sergei, the Italian chef who drowned in the bathtub? He cursed all the faucets to only dispense cold, creepy pasta!","你甚至不怕意大利厨师 在浴缸里淹死的意大利面条谢尔盖? 他咒骂了所有的水龙头 只施放冷,令人毛骨悚然的面条!",连意面谢尔盖都不怕？那个意大利厨师，在浴缸里淹死了。他诅咒了所有水龙头，打开就只能流出冰凉诡异的意面！
+english_events_maingame:L2930,cursedroom,FIX,"Wait, we get a room with unlimited pasta faucets?! This RULES! Do any of the other appliances dispense garlic bread?","等一等,我们的房间有无限的面条? 这条规矩! 其他电器有放蒜面包吗?",等等，我们这房间，能无限放意面？！太棒了！别的电器，能放蒜香面包吗？
+english_events_maingame:L2931,cursedroom,KEEP,NO!,没有!,没有!
+english_events_maingame:L2932,cursedroom,POLISH,"But we have Mirror Mary, the spirit trapped in the mirror who wails funeral dirges through the night!","但我们有Mirl Mary, 被困在镜子里的灵魂 谁哭泣葬礼 迪尔格通宵!",还有镜中玛丽！困在镜子里的幽灵，整晚唱挽歌，哭个不停！
+english_events_maingame:L2933,cursedroom,FIX,"Aww, sick! I was JUST SAYING I wanted to do 4 a.m. karaoke, but %CURRENTPLAYERNAME% said we couldn't if we didn't have backup vocalists! This is great!","啊,恶心! 我只是说 我想做凌晨4点。 卡拉OK,但%CURRENTPLAYERNAME%表示,如果我们没有后备的相声师,我们就不能! 这太棒了!",哇，酷！我刚还说，想凌晨四点唱卡拉 OK，可%CURRENTPLAYERNAME%说，没伴唱就不行。这下好了！
+english_events_maingame:L2934,cursedroom,POLISH,"Yeah, it's just fucking super.","是啊,它只是他妈的超级。",是啊，真他妈太棒了。
+english_events_maingame:L2935,cursedroom,POLISH,"We've got two backup singers, actually. Check out that guy staring at us in the corner! I bet he's got a great singing voice and a bubbly personality.","我们有两个伴唱,其实。 看看角落里那个盯着我们的家伙! 我敢打赌,他有一个伟大的 唱歌的声音和一个 bubbly个性。",其实，咱们有两个伴唱。看，角落里那家伙，一直盯着我们！我赌他歌声好听，个性也很开朗。
+english_events_maingame:L2936,cursedroom,POLISH,"Oh, uh... that's actually super unsettling. Who the hell are you?","哦,呃... ... 说说看... 这实在是太让人不安了 你到底是谁?",哦，呃……这倒真的有点瘆人。你到底谁啊？
+english_events_maingame:L2937,cursedroom,POLISH,"""I'm Tanner,"" says the creep. ""I was killed in this corner by a guest I was watching sleep. She stabbed me, can you believe it?""","""我叫坦纳"",那个变态说. ""我在这个角落里被一个我看着睡觉的客人所杀. 她刺伤我,你相信吗?""",“我叫坦纳。”怪人说，“我就在这角落，被一个客人杀了。当时我在看她睡觉，她居然捅我，你敢信？”
+english_events_maingame:L2938,cursedroom,POLISH,"Your death was a total injustice, Tan. It's your given right to haunt this room in revenge and stare at guests all night long.","你的死是完全不公正的,谭 你有权为复仇而缠绕这房间 整晚盯着客人看",小坦，你死得真冤。在这房间闹鬼报仇，整晚盯着客人，是你的天赋权利。
+english_events_maingame:L2939,cursedroom,FIX,"Um, no. Spooky spaghetti I can handle, but creepy men staring at me while I sleep is NOT allowed. Do something, %CURRENTPLAYERNAME%!","嗯,没有。 斯波克的意大利面我可以处理, 但令人毛骨悚然的人盯着我,而我睡觉是不允许的。 做点什么吧 %CURRENTPLAYERNAME%!",呃，不行。鬼意面，我受得了，可睡觉时，有个怪男人盯着我，绝对不行。%CURRENTPLAYERNAME%，想想办法！
+english_events_maingame:L2940,cursedroom,FIX,Break the curse by helping Tanner complete his unfinished business: listing EVERY BIRD known to man aloud.,通过帮助坦纳完成他未完成的事业来打破诅咒:列出被人类大声所熟知的EveryY BIRD.,帮坦纳完成未了的心愿，解除诅咒：大声念出人类所知的每一种鸟。
+english_events_maingame:L2941,cursedroom,POLISH,Upgrade your curse! See if the ghost of the guy who drowned in champagne and now vomits free champagne is available.,升级你的诅咒! 看看那个在香槟中淹死的人的鬼魂 现在又呕吐出免费香槟了,升级诅咒！看看那个淹死在香槟里、现在能吐免费香槟的鬼，有没有空。
+english_events_maingame:L2943,cursedroom,POLISH,"""You want me to list ALL of the birds?"" asks Tanner. ""Okay, if you really think that'll work...""","""你想让我列出所有的鸟吗?"" 坦纳问 ""好吧,如果你真的认为那会工作...""",“要我把所有鸟，都念出来？”坦纳问，“好吧，你要真觉得有用……”
+english_events_maingame:L2944,cursedroom,FIX,"""Albatross, auklet, bittern, blackbird, bluebird, bunting, bushtit, canvasback, cardinal, chickadee...""","""信天翁,阿克来特,苦艾酒,黑鸟,青鸟,被打倒了"" ""被打倒了"" ""被打倒了""",“信天翁、海雀、麻鳽、乌鸫、蓝鸲、鹀、丛山雀、帆背潜鸭、红雀、山雀……”
+english_events_maingame:L2945,cursedroom,POLISH,"Is he really gonna list every bird in alphabetical order? Isn't this gonna take, like, forever?","他真的要按字母顺序列出每只鸟吗? 难道这不需要,喜欢,永远?",他真要按英文字母顺序，把所有鸟都念一遍？不得念到天荒地老？
+english_events_maingame:L2946,cursedroom,FIX,"Yeah, we'll probably be here a while. Don't worry, though, it'll be worth it to get rid of him.","是啊,我们可能会在这里呆一阵子。 虽取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取出取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取.",嗯，大概得等一阵。不过别担心，只要能送走他，就值得。
+english_events_maingame:L2947,cursedroom,FIX,"""Dipper, dotterel, dove, dowitcher, duck, American black duck, falcated duck, fulvous whistling-duck...""","""Dipper,多特丽尔,鸽子,道克"",""鸭子"",""美国黑鸭"",""可口的鸭子"",""可口的口哨""...",“河乌、鸻、鸽子、半蹼鹬、鸭子、北美黑鸭、罗纹鸭、草黄树鸭……”
+english_events_maingame:L2948,cursedroom,FIX,Oh my God. He's gonna list SUBTYPES of each bird too?!,须菩提. 他会把每只鸟的SUBTYPES都列出来吗?,我的天，连每种鸟的细分类别，也要念？！
+english_events_maingame:L2949,cursedroom,POLISH,"It's okay, Polly, just cover your ears and it'll be over soon!","没关系 波莉盖住耳朵,很快就结束了!",没事，波莉，捂住耳朵，很快就过去了！
+english_events_maingame:L2950,cursedroom,FIX,"""Eagle, falcon, finch, flycatcher, godwit, goldeneye, goldfinch, goose, Canadian goose, gull, hawk, grey hawk, red hawk, white hawk, blue hawk--""","""猎鹰,猎鹰,鳍克,捕蝇者,神智,金眼,金指,鹅,加拿大鹅,海鸥,鹰,灰鹰,红鹰,白鹰,蓝鹰""",“鹰、隼、雀、鹟、塍鹬、鹊鸭、金翅雀、雁、加拿大雁、鸥、鹰、灰鹰、红鹰、白鹰、蓝鹰——”
+english_events_maingame:L2951,cursedroom,FIX,THERE IS NO SUCH THING AS A BLUE HAWK!,没有什么比这更丑陋的了!,根本没有蓝鹰这种东西！
+english_events_maingame:L2952,cursedroom,FIX,"""Oops, I think you're right... dammit, now I lost my place! I gotta start over. Albatross--""","""Oops, 我想你是对的... 该死的,现在我失去了我的位置! 我要重新开始。 ""信天翁号...""",“哦，好像是……妈的，念到哪儿来着？得重来了。信天翁——”
+english_events_maingame:L2953,cursedroom,FIX,AHHHHHHHHHHHHHHHH!!!,"嘘,嘘,嘘,嘘!",啊啊啊啊啊啊啊！！！
+english_events_maingame:L2954,cursedroom,FIX,"Scott hugs Polly while she goes insane. The list of birds seems to spiral on forever, and then suddenly it's over. Tanner ascends into the sky.","斯科特 拥抱 波莉 她会疯掉的 鸟类的列表似乎永远地螺旋,然后突然就结束了. 坦纳升入了天空.",波莉快疯了，斯科特抱着她。鸟名仿佛永远念不完，却又突然结束。坦纳升上了天空。
+english_events_maingame:L2955,cursedroom,POLISH,"Ugh... that seriously worked? Do you think if I listed all the birds, I'd leave the physical realm too?","唉哟... 那真的有用吗? 你觉得如果我列出所有的鸟, 我也会离开物理领域吗?",呃……还真管用？要是我也把所有鸟念一遍，是不是也能离开物质世界？
+english_events_maingame:L2956,cursedroom,FIX,"Hopefully you never find out, 'cause you never want to go through that bushtit -- I mean bullshit again.",希望你永远不要发现 因为你再也不想穿过那片灌木丛 -- 我说的是废话了。,最好永远别知道。毕竟，这通鸟话——我是说，屁话，你可不想再听一遍了。
+english_events_maingame:L2957,cursedroom,FIX,"You gain +N2 SOUL for helping the weird spirit move on, but you lost -N2 HYPE listening to that exhaustive list.","你因为帮助怪魂继续前进而获得+N2 SOUL,但是你输掉了 -N2 HYPE听了这个详尽的清单.",帮这个怪幽灵往生，让你获得+N2灵魂。不过，听完那份巨长无比的鸟名清单，也让你损失-N2热度。
+english_events_maingame:L2959,cursedroom,POLISH,"""You're trading me for that champagne guy? Why?!""","""你用我换那个香槟男的? 为什么?""",“你们要拿我，换那个香槟男？为什么？！”
+english_events_maingame:L2960,cursedroom,POLISH,"""All he does is create endless free booze! I can offer you endless uncomfortable staring contests!""","""他所做的就是创造出无尽的免费酒! 我可以给你无休止的 不舒服的看比赛!""",“他只会变出喝不完的免费酒！我可是能无休无止地，跟你们尴尬对视！”
+english_events_maingame:L2961,cursedroom,FIX,"...Make the call, %CURRENTPLAYERNAME%.",打电话吧 %CURRENTPLAYERNAME%.,……打电话，%CURRENTPLAYERNAME%。
+english_events_maingame:L2964,cursedroom,POLISH,"Room service... yeah, you can upgrade. The champagne-vomiting ghost is available, but he's one of our premium options.","客房服务... 是的,你可以升级。 开香槟的鬼魂是可用的 但他是我们的高价选择之一",客房服务……嗯，可以升级。吐香槟的鬼，现在有空，不过，属于高级付费项目。
+english_events_maingame:L2965,cursedroom,FIX,Anything to get rid of Creepy McNeverblinks. You pay -N2 MONEY and have the ghost of Sir Chandon Büble visit your room.,任何要摆脱 恐怖的麦克尼布林克斯。 你付钱给N2 MONEY 让钱登·布布尔爵士的鬼魂来你房间,能送走这个死盯着人不眨眼的怪胎，怎样都行。你付出-N2金钱，请尚东·布布尔爵士的幽灵，到房间里来。
+english_events_maingame:L2967,cursedroom,FIX,"Sup, Bubbles? So do you, like, vomit the champagne into a glass on command, or should we keep a bucket with some crazy straws under you at all times?","苏普,泡泡? 所以,你喜欢,呕出香槟 在一玻璃上命令, 还是我们应该保持一个桶 与一些疯狂的稻草 下你在任何时候?",嗨，泡泡。你是听指令，就能往杯子里吐香槟？还是说，我们得一直在你下面，放个桶，插好弯弯吸管？
+english_events_maingame:L2968,cursedroom,FIX,"""It comes at random... it's a horrible reminder of my untimely -- BLAAAARGH! -- death.""","""随机而来. 这是可怕的提醒 我的不及时 - BLAAARGH! - 死亡 - 死亡 - 死亡 - Death.",“随机的……每次都让我痛苦地想起，我那过早——呕——！的死亡。”
+english_events_maingame:L2969,cursedroom,REVIEW,"""It happened on my golden yacht in 1974. I was -- HURK! -- cruising my wealthy father's champagne lake with -- BLAAARGH! -- Count Murr D. Erer on the moonlit waves--""","""1974年发生在我的金色游艇上. 我当时... HURK! - 在我父亲的香槟湖上游走 - BLAARGH! - 穆尔伯爵D。 月光波浪上喷出烈火...""",“1974年，在我的黄金游艇上。我正——呕！——跟穆尔·D.厄勒伯爵，泛舟在父亲的香槟湖上——呕——！月光照着波浪——”
+english_events_maingame:L2970,cursedroom,POLISH,"LOL, sorry dude but I can't take you seriously when you're comically vomiting like that. But hey, cheers to unlimited booze!","LOL,对不起,伙计 但我不能认真对待你 当你的漫画 呕吐这样的。 但是,嘿,欢呼 无限制的酒!",哈哈，抱歉，哥们，你这么吐，实在太滑稽，没法让人严肃起来。不过，敬无限供应的美酒！
+english_events_maingame:L2972,cursedroom,FIX,Cheers indeed. You and your friends have a great time and you gain +N2 STAMINA!,"爱狹痷 你和你的朋友玩得很开心,你得到+N2 STAMINA!",确实该干杯。你和朋友们玩得很开心，获得+N2体力！
+english_events_maingame:L2974,cursedroom,FIX,"Cheers indeed. You and your friends have a great time getting wasted on the byproduct of this ghost's misery, and you gain +N2 STAMINA!",爱狹痷 你和你的朋友 玩得很开心 浪费在这鬼魂的痛苦的副产品上 而你得到了+N2 STAMINA!,确实该干杯。你和朋友们喝着这个幽灵痛苦的副产物，醉得不亦乐乎，获得+N2体力！
+english_events_maingame:L2982,onebed,FIX,The room with only one bed,只有一个床的房间,只有一张床的房间
+english_events_maingame:L2986,onebed,POLISH,You horny fuck.,你这个淫荡的混蛋,你这满脑子色情的混蛋。
+english_events_maingame:L2988,onebed,POLISH,Nice! I'd love to share a bed with you guys! It'll be nice to have the bros keeping me warm at night.,不错! 我想和你们共用一张床! 让兄弟们晚上帮我取暖会很好,好耶！超想跟大家挤一张床。晚上有兄弟们暖着，肯定很舒服。
+english_events_maingame:L2989,onebed,POLISH,"I wish everyone had good bros to share their beds with. If I could, I'd share our bed with the whole world so everyone can experience this joy!","我希望每个人都有好兄弟 分享他们的床。 如果我可以,我会分享我们的床 与整个世界,这样每个人都可以体验这种快乐!",真希望，人人都有好兄弟陪着睡。可以的话，我想把我们的床，分享给全世界，让大家都感受这份快乐！
+english_events_maingame:L2990,onebed,FIX,"Eh, fuck it, wish granted. Let's share our bed with the world, Scotty!","嗯,他妈的它,许愿。 让我们和世界分享我们的床, 斯科特哟!",嗨，管他呢，这就帮你实现愿望。小斯科特，咱们把床，分享给全世界！
+english_events_maingame:L2991,onebed,FIX,"Polly posts a Gregslist ad saying, ""BED-SHARING PARTY! ALL ARE WELCOME!"" Soon, you've got a line of potential bed-sharers outside your door!","波莉 贴出Gregslist广告称:""分享派对! 大家欢迎!"" 很快,你们门外就有一行潜在的打床者了!",波莉在 Gregslist 发广告：“拼床派对！所有人都欢迎！”很快，门外就排满了想来拼床的人！
+english_events_maingame:L2993,onebed,FIX,"Is this the free bed? I'm in. I was hotboxing in the parking lot, and a nap sounds real nice right now.",这是免费的床吗? 我进去了。 我在停车场放热箱 睡个午觉听起来不错,这里是免费睡觉的床？我来。刚在停车场的车里闷着抽了一阵，正想睡一觉。
+english_events_maingame:L2996,onebed,FIX,"Free nap, huh? ...Fuck it, I was planning to come back from my break late anyway.","免费入睡,是吧? 他妈的,我本来打算回来 从我的休息迟到反正。",免费午觉，是吧？……妈的，反正我休息完，也没打算准时回去。
+english_events_maingame:L2998,onebed,FIX,Ghosts of Parties Past in da house! Let's slumber the HELL out of this party!,派对的幽灵过去在dahouse! 让我们从这个派对上睡个痛快吧!,昔日派对幽灵，闪亮登场！来把这场派对，睡个痛快！
+english_events_maingame:L3000,onebed,POLISH,"This is the police! We heard about the free bed. We're, uh... here to confirm you haven't torn off the tag on your mattress.","这是警察! 我们听说了免费床的事 我们,呃... 来确认你没有撕掉床垫上的标签",警察！我们听说，有免费床。呃……来查查，你们有没有撕掉床垫标签。
+english_events_maingame:L3001,onebed,POLISH,We are? I thought we were here to take a nap on duty.,是吗? 我以为我们是来值班午睡的,是吗？我以为，我们是来上班摸鱼，睡午觉的。
+english_events_maingame:L3002,onebed,POLISH,"Dammit, partner! I told you not to blow our cover!","该死,伙计! 我告诉过你不要暴露我们的身份!",妈的，搭档！不是说了，别露馅吗！
+english_events_maingame:L3004,onebed,POLISH,"Polly, I think we were a little overconfident trying to fit the whole world in our bed. We pretty much only have room for one more person.",波莉我认为我们有点太自信了 试图让整个世界都融入我们的床上 我们几乎只有一个人的空间。,波莉，想把全世界塞进这张床，好像是有点自信过头了。差不多，只能再挤一个人。
+english_events_maingame:L3005,onebed,POLISH,"Then we have a big decision to make! %CURRENTPLAYERNAME%, who should be the last person we let in our bed?",那我们得做个大决定了!  %CURRENTPLAYERNAME%谁是我们最后让在床上的人?,那得好好选了！%CURRENTPLAYERNAME%，最后让谁上床？
+english_events_maingame:L3008,onebed,FIX,"Warm Walter, big spoon for hire","暖暖华特,大勺子请客",暖暖沃尔特，收费提供背后抱睡服务
+english_events_maingame:L3009,onebed,FIX,"Commander Night-Night, survivor of the Pillow Wars",夜间司令 枕头之战的幸存者,晚安指挥官，枕头战争的幸存者
+english_events_maingame:L3013,onebed,POLISH,"Great choice, honey. You won't regret hiring me; I've got LOTS of experience sharing a bed.","伟大的选择,亲爱的。 你不会后悔雇我,我有很多经验",选得好，亲爱的。雇我，绝不后悔。跟人同床，我经验多得很。
+english_events_maingame:L3014,onebed,FIX,"Momma likes what she hears. What credentials are you bringing to the bedroom, Walter?","妈妈喜欢她听到的 你带什么证件到卧室去,沃尔特?",听着就喜欢。沃尔特，你给卧室，带来了什么专业资历？
+english_events_maingame:L3015,onebed,POLISH,"My body has the perfect size, shape, and soft-to-firmness ratio to provide the optimal cuddling experience.","我的身体有完美的体型,外形, 和柔软与体弱的比 来提供最好的拥抱经验。",我的身材大小、体形，还有软硬比例，都恰到好处，能提供最佳的抱睡体验。
+english_events_maingame:L3016,onebed,POLISH,I'm also an expert in pillow-talk therapy if you need to sort out any thoughts or feelings before you drift off into blissful slumber.,我也是个枕头治疗专家 如果你需要整理任何想法或感觉 在你陷入快乐的睡梦之前,我还擅长枕边谈心疗法。你要有什么想法和情绪，需要理清，我可以帮你，然后，让你安安稳稳入睡。
+english_events_maingame:L3017,onebed,POLISH,"And if you get hungry or thirsty before bed, my PJ pockets are filled with snacks and hot cocoa to share!","如果你在睡觉前饿了或者渴了, 我的PJ口袋里装满了点心和热可可来分享!",睡前饿了、渴了，也没事。我的睡衣口袋里，全是能分享的零食和热可可！
+english_events_maingame:L3018,onebed,POLISH,Cuddling AND snacks? Is there anything you can't do?!,拥抱和点心? 有什么不能做的吗?,能抱，还带零食？你还有什么不会的？！
+english_events_maingame:L3019,onebed,POLISH,Yes... the one thing I can't do is leave you unsatisfied!,对... 我唯一不能做的就是让你不满意!,有……唯一不会的，就是让你不满意！
+english_events_maingame:L3020,onebed,FIX,"And it seems I've arrived just in time... %CURRENTPLAYERNAME%, it's been a while since I've seen eye-bags as big and stress-induced as yours.",看来我及时赶到...  %CURRENTPLAYERNAME%我好久没看到你的眼袋这么大 压力很大了,而且，我来得正是时候。%CURRENTPLAYERNAME%，很久没见过，有人压力大到眼袋像你这么重了。
+english_events_maingame:L3021,onebed,POLISH,"Are you, by chance, on a wacky road trip with volatile, unpredictable friends?",你是偶然地 和不稳定的 无法预测的朋友 一起在疯狂的路上旅行吗,你该不会，正跟几个脾气反复、难以捉摸的朋友，来场古怪的公路旅行吧？
+english_events_maingame:L3022,onebed,POLISH,"Damn, is it that obvious?","该死,这么明显吗?",妈的，有这么明显？
+english_events_maingame:L3023,onebed,FIX,"Yes, but don't worry, honey. My deep-tissue snuggle therapy will fix you right up!","是的,但不用担心,亲爱的。 我的""深层问题""会治好你的!",有，不过别担心，亲爱的。我的深层拥抱疗法，包你满血复活！
+english_events_maingame:L3025,onebed,FIX,"Holy shit. Warm Walter gives you the spooning of a lifetime. Never have you felt so rested, so relaxed, so... LOVED.",妈的。 温暖的沃尔特给你一生的勺子。 你从没这么放松过 所以... 爱。,卧槽。暖暖沃尔特从背后把你搂着，给了你这辈子最棒的抱睡。你从没这么安心、这么放松，这么……被爱着。
+english_events_maingame:L3026,onebed,FIX,"He charges you -N2 MONEY for his services, but it's worth every penny for the +N2 MIND you gained.",他收你N2MONEY的服务费 但每分钱都值你得到的+N2MIND,服务费-N2金钱，不过，获得的+N2头脑，让你觉得每分钱都值。
+english_events_maingame:L3030,onebed,POLISH,"I appreciate that. It'll be nice to be with others tonight, rather than alone with my memories of the dreaded Pillow Wars.",我很感激。 今晚和别人在一起会很好 而不是独自回忆可怕的枕头之战,谢谢。今晚有人陪着真好，不用独自面对，那场可怕枕头战争的回忆。
+english_events_maingame:L3031,onebed,POLISH,I've never heard of the Pillow Wars. Were they scary?,未闻枕花之战. 他们害怕吗?,没听过枕头战争。很吓人吗？
+english_events_maingame:L3032,onebed,POLISH,"They were absolute hell. I was just a girl then, starry-eyed and ready to protect the Mattress Kingdom with my life.",他们是绝对的地狱。 当时我还只是个女孩 满眼星星 准备用我的生命来保护马特里斯王国,简直是地狱。当年，我还只是个满眼憧憬的女孩，随时准备，为床垫王国献出生命。
+english_events_maingame:L3033,onebed,POLISH,But war changes you. We lost so many good soldiers. My pillowcase was soaked in the blood of friends and foes alike.,但战争会改变你 我们失去了这么多优秀的士兵。 我的枕头被朋友和敌人的血浸透了,可战争会改变人。我们失去了太多优秀的战士，我的枕套，被战友和敌人的鲜血浸透。
+english_events_maingame:L3034,onebed,POLISH,"Wait, did you literally fight the war with... pillows?","等等,你到底有没有跟... 枕头?",等等，你们还真拿……枕头打仗？
+english_events_maingame:L3035,onebed,POLISH,"Yes. It's an old tradition in my kingdom, steeped in blood and feather stuffing.","对 这是我王国的古老传统, 血和羽毛都塞满了.",对，那是我国古老的传统，浸透了鲜血，还有羽毛填充物。
+english_events_maingame:L3036,onebed,FIX,It was terrible. I can barely even look at a pillow now without hearing my comrades' screams...,这是可怕的。 我现在连枕头都看不惯 连同志们的叫声都听不见,太惨了。现在，我几乎一看见枕头，耳边就响起战友的惨叫……
+english_events_maingame:L3037,onebed,POLISH,"But pillow fights are fun! When we go on away games, me and the other sportsball players have pillow fights in our underwear! It's a bonding experience.","但枕头斗是好玩的! 当我们去玩游戏, 我和其他运动球员 有枕头打架 在我们的内衣! 亲相相相接相相相相.",可枕头仗很好玩！打客场时，我跟其他打球的队员，都只穿内衣，互相拿枕头打。可增进感情了。
+english_events_maingame:L3038,onebed,POLISH,Sounds sexy. Wanna show me how it's done? TAKE THIS!,听起来很性感。 想教我怎么做吗? 拿着!,听起来很性感。教教我？接招！
+english_events_maingame:L3039,onebed,FIX,"Polly swings a pillow in Scott's face. Feathers explode everywhere. Oh, it is ON.","波莉 摇枕入地 斯科特'是脸相. 羽毛到处会爆炸 哦,这是在。",波莉抡起枕头，朝斯科特脸上砸去，羽毛四处飞散。哦，开战了。
+english_events_maingame:L3040,onebed,POLISH,"Foolish kids. You play-fight now, because you don't understand the horrors of war. But if you were there...","愚蠢的孩子们。 你现在玩游戏, 因为你不明白战争的恐怖。 但如果你当时在场... ...",愚蠢的孩子。现在拿打仗玩，是因为你们不懂战争的恐怖。要是当年，你们也在……
+english_events_maingame:L3041,onebed,FIX,"Night-Night stares broodingly into the distance. Meanwhile, you and your new bed buddies have an epic pillow fight! You lose -N2 STAMINA and gain +N2 HYPE.","夜幕凝视在远处。 同时,你和你的新床友们 还要打一场史诗般的枕头会! 你输了 -N2 Stamina 和获得+N2 HYPE.",晚安凝望远方，满眼阴郁。与此同时，你和新床友们，来了一场史诗般的枕头大战！你损失-N2体力，获得+N2热度。

@@ -4,6 +4,8 @@ import argparse
 import json
 import re
 from pathlib import Path
+from translation_common import load_rows
+from runtime_verbs import validate_overrides
 
 
 # These values double as parser identifiers. Translating them makes every stat
@@ -90,6 +92,7 @@ def main() -> int:
         description="Validate runtime-sensitive localization file structure"
     )
     parser.add_argument("--source", default=Path("extracted/original"), type=Path)
+    parser.add_argument("--translation", default=Path("translation"), type=Path)
     parser.add_argument(
         "--output",
         default=Path("build/package/BepInEx/plugins/MonsterRoadtripChinese/Translation"),
@@ -99,6 +102,7 @@ def main() -> int:
 
     errors = validate_events(args.source, args.output)
     errors.extend(validate_metatexts(args.output))
+    errors.extend(validate_overrides(args.translation, load_rows(args.translation), args.output))
     if errors:
         print(f"Runtime contract validation failed with {len(errors)} error(s):")
         for error in errors[:100]:

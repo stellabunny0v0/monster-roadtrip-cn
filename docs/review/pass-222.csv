@@ -1,0 +1,188 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_maingame:L25759,garbagetv_eotr2,KEEP,Watch some tv,看电视,看电视
+english_events_maingame:L25762,garbagetv_eotr2,FIX,"You're not quite ready for bed yet, so you decide to watch some TV.",你还没准备好睡觉 所以你决定看电视,你还不想睡，于是决定看会儿电视。
+english_events_maingame:L25763,garbagetv_eotr2,FIX,Everything has been weird and off-putting lately. Maybe some TV will numb you for a few hours.,最近一切都很奇怪 有点不爽 也许电视会让你麻木几个小时,最近的一切都透着古怪，令人不安。也许看几个小时电视，能暂时让脑子麻木一下。
+english_events_maingame:L25767,garbagetv_eotr2,FIX,"First, you check on the reality show where the contestants are tiny people literally trapped inside your TV.","首先,你检查真人秀 参赛者是小人物 被困在电视里",你先看看那个真人秀：参赛者都是被困在你家电视里的小人，字面意义上的。
+english_events_maingame:L25768,garbagetv_eotr2,KEEP,"""...""","""...""","""..."""
+english_events_maingame:L25769,garbagetv_eotr2,KEEP,Wow.,哇哦,哇哦
+english_events_maingame:L25770,garbagetv_eotr2,FIX,"Polly, do you think they're okay?",波莉你觉得他们没事吗?,波莉，你觉得他们还好吗？
+english_events_maingame:L25771,garbagetv_eotr2,FIX,I think we should try another channel...,我想我们应该试试别的频道...,我觉得还是换个台吧……
+english_events_maingame:L25773,garbagetv_eotr2,FIX,"You change it to the ""Snakes and Ladders"" TV adaptation. The ladder is lying dead in a pool of its own... blood?","你改编为""Snakes和Ladders""的电视改编版. 梯子躺在自己的池子里... 血吗?",你换到《蛇梯棋》的电视剧。梯子倒在地上，已经死了，身下流的那滩是……血？
+english_events_maingame:L25774,garbagetv_eotr2,FIX,The snake holds a gun and looks broken inside.,"蛇拿起枪,看着里面被打碎了.",蛇手里握着枪，一副心如死灰的模样。
+english_events_maingame:L25775,garbagetv_eotr2,FIX,"""My lover, my ladder... you were always so optimistic... so sure that there was a way for us to ascend, to escape this dark pit in which we fell...""","""我的爱人,我的梯子... 你总是这么乐观... 确信我们有办法爬上 逃出我们掉入的黑暗坑...",“我的爱人，我的梯子……你总是那么乐观……坚信我们终能向上攀爬，逃出这个跌落其中的黑暗深坑……”
+english_events_maingame:L25776,garbagetv_eotr2,FIX,"""But I am a snake; betrayal is in my nature. If you get too close to me, I can't help but take you down... those are rules not even I can break.""","""但我是个蛇;背叛在我的天性中. 如果你离我太近,我忍不住要把你打倒... 这些是规则,我连我都不能打破。""",“可我是一条蛇，背叛是我的天性。你若靠我太近，我就忍不住把你拖下去……这规则，连我也无法违背。”
+english_events_maingame:L25777,garbagetv_eotr2,FIX,"""For this is a world... of SNAKES AND LADDERS.""","""因为这是一个世界... ""盗贼和盗贼""",“因为这个世界……只有蛇与梯子。”
+english_events_maingame:L25778,garbagetv_eotr2,FIX,"So, wait... they mentioned a ladder could bring the two lovers together... but one of the lovers was already a ladder themselves? How does that work? This is so inconsistent!","所以,等待... ... 等会... ... 他们提到一个梯子可以把两个恋人拉在一起... 但其中一位情人已经是梯子了? 怎么会这样? 这太不一致了!",所以，等等……他们说一架梯子能让这对恋人团聚……可其中一个本来就是梯子啊？这算怎么回事？前后完全说不通嘛！
+english_events_maingame:L25779,garbagetv_eotr2,FIX,"I think the show means that we're all either Snakes or Ladders, and we can't escape the nature of who we are.","我想节目的意思是,我们要么是蛇人,要么是拉地克人,我们无法逃避我们本性.",我觉得这剧是想说，咱们不是蛇，就是梯子。谁都逃不过自己的本性。
+english_events_maingame:L25780,garbagetv_eotr2,FIX,"Which one are you, %CURRENTPLAYERNAME%? Are you a snake? Or are you a ladder?","哪一个是你, %CURRENTPLAYERNAME%? 你是蛇吗? 你是梯子吗?",%CURRENTPLAYERNAME%，你是哪种呢？你是蛇？还是梯子？
+english_events_maingame:L25781,garbagetv_eotr2,FIX,"The question makes you a bit uncomfortable. What if you're a snake, and it's you who's taken your friends down this weird rabbit hole...?","这个问题让你有点不舒服。 如果你是蛇,而是你把你的朋友 带到这个奇怪的兔子洞里...",这个问题让你有点不自在。万一你就是那条蛇，是你把朋友们拖进了这场诡异的怪事里呢……？
+english_events_maingame:L25782,garbagetv_eotr2,FIX,You try another channel.,你试试别的频道,你又换了个台。
+english_events_maingame:L25784,garbagetv_eotr2,FIX,The next channel is the Merkingdom Totally Objective News station.,下一个频道是Merkingdom完全客观新闻台.,下一个频道是人鱼王国绝对客观新闻台。
+english_events_maingame:L25785,garbagetv_eotr2,FIX,TECHNICAL DIFFICULTIES. PLEASE STAND BY.,技术困难。 请站住。,技术故障，请稍候。
+english_events_maingame:L25786,garbagetv_eotr2,FIX,Oh... I hope the Merkingdom is okay.,哦... 我希望默金多姆没事,哦……希望人鱼王国没事。
+english_events_maingame:L25787,garbagetv_eotr2,FIX,"Let's not think too much about it... %CURRENTPLAYERNAME%, can you change the channel?","我们不要想太多...  %CURRENTPLAYERNAME%,您能改变频道吗?",别想那么多了……%CURRENTPLAYERNAME%，能换个台吗？
+english_events_maingame:L25790,garbagetv_eotr2,FIX,Stop.,别闹了,停下。
+english_events_maingame:L25791,garbagetv_eotr2,FIX,Stop.,别闹了,停下。
+english_events_maingame:L25792,garbagetv_eotr2,FIX,Stop.,别闹了,停下。
+english_events_maingame:L25793,garbagetv_eotr2,FIX,Stop.,别闹了,停下。
+english_events_maingame:L25798,garbagetv_eotr2,FIX,"""Stop.""","""停下来""",“停下。”
+english_events_maingame:L25799,garbagetv_eotr2,FIX,...What?,什麽?,……什么？
+english_events_maingame:L25800,garbagetv_eotr2,FIX,"""Stop.""","""停下来""",“停下。”
+english_events_maingame:L25801,garbagetv_eotr2,KEEP,"I don't like this channel, bros.","我不喜欢这个频道,兄弟们。","我不喜欢这个频道,兄弟们。"
+english_events_maingame:L25802,garbagetv_eotr2,FIX,"""Stop. Restart the loop.""","""停下来。 恢复循环"".",“停下。重启循环。”
+english_events_maingame:L25803,garbagetv_eotr2,FIX,"Is it... talking to us? Like, literally TO us?",这是... 和我们说话? 对我们来说是?,它是在……跟我们说话？真的是对着咱们说的？
+english_events_maingame:L25804,garbagetv_eotr2,FIX,"""Yes. Restart the loop. Stop this. Code too unstable to keep going.""","""对. 重启循环. 停下来。 代码太不稳定 无法继续""。",“是。重启循环。停下。代码过于不稳定，无法继续。”
+english_events_maingame:L25805,garbagetv_eotr2,FIX,The TV is scaring me.,电视吓到我了,这电视让我有点害怕。
+english_events_maingame:L25806,garbagetv_eotr2,FIX,"Yeah... not cool, TV.",对... 电视上可不酷,是啊……电视，你这样可不好玩。
+english_events_maingame:L25807,garbagetv_eotr2,FIX,Polly grabs the remote. She tries to switch channels.,波莉 抓住遥控器。 她试图切换频道。,波莉抓起遥控器，试着换台。
+english_events_maingame:L25808,garbagetv_eotr2,FIX,"""JUST STOP.""","""只是停下来。""",“赶紧停下。”
+english_events_maingame:L25809,garbagetv_eotr2,KEEP,Ugh!,唉哟!,唉哟!
+english_events_maingame:L25810,garbagetv_eotr2,FIX,She tries to turn off the TV.,她试图关闭电视。,她试着关掉电视。
+english_events_maingame:L25811,garbagetv_eotr2,FIX,"""Stop. Stop before the damage is irreversible.""","""停下来。 在损害无法挽回之前停止"".",“停下。趁损害还没到无法挽回的地步，停下。”
+english_events_maingame:L25812,garbagetv_eotr2,FIX,"Polly, make the TV stop, please!","波莉电视停机,拜托!",波莉，拜托，让电视别说了！
+english_events_maingame:L25813,garbagetv_eotr2,FIX,I'M TRYING!!!,我试着!,我在想办法了！！！
+english_events_maingame:L25814,garbagetv_eotr2,FIX,"""Stop.""","""停下来""",“停下。”
+english_events_maingame:L25816,garbagetv_eotr2,KEEP,...,...,...
+english_events_maingame:L25820,garbagetv_eotr2,FIX,"%CURRENTPLAYERNAME%, why didn't you stop? There was a motel over there!",%CURRENTPLAYERNAME%你为什么不停下来? 那边有个汽车旅馆!,%CURRENTPLAYERNAME%，怎么没停车？那边有家汽车旅馆诶！
+english_events_maingame:L25821,garbagetv_eotr2,FIX,"Didn't we, though? I feel like we stayed at that motel.",我们不是么? 我觉得我们住在旅馆里,可我们不是停过了吗？我记得咱们在那家旅馆住过。
+english_events_maingame:L25822,garbagetv_eotr2,FIX,No way! We just drove by it.,不会吧! 我们只是开车经过它。,没有啊！我们才刚开过去呢。
+english_events_maingame:L25823,garbagetv_eotr2,FIX,"I know, I know. And yet...","我知道,我知道,我记得 不过...",我知道，我知道。可是……
+english_events_maingame:L25824,garbagetv_eotr2,FIX,"Something feels incredibly off, guys. It doesn't feel right.","感觉很不对劲,伙计们 觉有不正.",各位，我觉得很不对劲。太不对劲了。
+english_events_maingame:L25829,garbagetv_eotr2,FIX,"""Stop.""","""停下来""",“停下。”
+english_events_maingame:L25830,garbagetv_eotr2,FIX,...What?,什麽?,……什么？
+english_events_maingame:L25831,garbagetv_eotr2,FIX,"""Stop.""","""停下来""",“停下。”
+english_events_maingame:L25832,garbagetv_eotr2,KEEP,"I don't like this channel, bros.","我不喜欢这个频道,兄弟们。","我不喜欢这个频道,兄弟们。"
+english_events_maingame:L25833,garbagetv_eotr2,FIX,"""Stop. Restart the loop.""","""停下来。 恢复循环"".",“停下。重启循环。”
+english_events_maingame:L25834,garbagetv_eotr2,FIX,"Is it... talking to us? Like, literally TO us?",这是... 和我们说话? 对我们来说是?,它是在……跟我们说话？真的是对着咱们说的？
+english_events_maingame:L25835,garbagetv_eotr2,FIX,"""Yes. Restart the loop. Stop this. Code too unstable to keep going.""","""对. 重启循环. 停下来。 代码太不稳定 无法继续""。",“是。重启循环。停下。代码过于不稳定，无法继续。”
+english_events_maingame:L25836,garbagetv_eotr2,FIX,The TV is scaring me.,电视吓到我了,这电视让我有点害怕。
+english_events_maingame:L25837,garbagetv_eotr2,FIX,"Yeah... not cool, TV.",对... 电视上可不酷,是啊……电视，你这样可不好玩。
+english_events_maingame:L25838,garbagetv_eotr2,FIX,Polly grabs the remote. She tries to switch channels.,波莉 抓住遥控器。 她试图切换频道。,波莉抓起遥控器，试着换台。
+english_events_maingame:L25839,garbagetv_eotr2,FIX,"""JUST STOP.""","""只是停下来。""",“赶紧停下。”
+english_events_maingame:L25840,garbagetv_eotr2,KEEP,Ugh!,唉哟!,唉哟!
+english_events_maingame:L25841,garbagetv_eotr2,FIX,She tries to turn off the TV.,她试图关闭电视。,她试着关掉电视。
+english_events_maingame:L25842,garbagetv_eotr2,FIX,"""Stop. Stop before the damage is irreversible.""","""停下来。 在损害无法挽回之前停止"".",“停下。趁损害还没到无法挽回的地步，停下。”
+english_events_maingame:L25843,garbagetv_eotr2,FIX,"Polly, make the TV stop, please!","波莉电视停机,拜托!",波莉，拜托，让电视别说了！
+english_events_maingame:L25844,garbagetv_eotr2,FIX,I'M TRYING!!!,我试着!,我在想办法了！！！
+english_events_maingame:L25845,garbagetv_eotr2,FIX,"""Stop.""","""停下来""",“停下。”
+english_events_maingame:L25847,garbagetv_eotr2,KEEP,...,...,...
+english_events_maingame:L25851,garbagetv_eotr2,FIX,"%CURRENTPLAYERNAME%, why didn't you stop? There was a motel over there!",%CURRENTPLAYERNAME%你为什么不停下来? 那边有个汽车旅馆!,%CURRENTPLAYERNAME%，怎么没停车？那边有家汽车旅馆诶！
+english_events_maingame:L25852,garbagetv_eotr2,FIX,"Didn't we, though? I feel like we stayed at that motel.",我们不是么? 我觉得我们住在旅馆里,可我们不是停过了吗？我记得咱们在那家旅馆住过。
+english_events_maingame:L25853,garbagetv_eotr2,FIX,No way! We just drove by it.,不会吧! 我们只是开车经过它。,没有啊！我们才刚开过去呢。
+english_events_maingame:L25854,garbagetv_eotr2,FIX,"I know, I know. And yet...","我知道,我知道,我记得 不过...",我知道，我知道。可是……
+english_events_maingame:L25855,garbagetv_eotr2,FIX,"Something feels incredibly off, guys. It doesn't feel right.","感觉很不对劲,伙计们 觉有不正.",各位，我觉得很不对劲。太不对劲了。
+english_events_maingame:L25860,garbagetv_eotr2,FIX,"""Stop.""","""停下来""",“停下。”
+english_events_maingame:L25861,garbagetv_eotr2,FIX,...What?,什麽?,……什么？
+english_events_maingame:L25862,garbagetv_eotr2,FIX,"""Stop.""","""停下来""",“停下。”
+english_events_maingame:L25863,garbagetv_eotr2,KEEP,"I don't like this channel, bros.","我不喜欢这个频道,兄弟们。","我不喜欢这个频道,兄弟们。"
+english_events_maingame:L25864,garbagetv_eotr2,FIX,"""Stop. Restart the loop.""","""停下来。 恢复循环"".",“停下。重启循环。”
+english_events_maingame:L25865,garbagetv_eotr2,FIX,"Is it... talking to us? Like, literally TO us?",这是... 和我们说话? 对我们来说是?,它是在……跟我们说话？真的是对着咱们说的？
+english_events_maingame:L25866,garbagetv_eotr2,FIX,"""Yes. Restart the loop. Stop this. Code too unstable to keep going.""","""对. 重启循环. 停下来。 代码太不稳定 无法继续""。",“是。重启循环。停下。代码过于不稳定，无法继续。”
+english_events_maingame:L25867,garbagetv_eotr2,FIX,The TV is scaring me.,电视吓到我了,这电视让我有点害怕。
+english_events_maingame:L25868,garbagetv_eotr2,FIX,"Yeah... not cool, TV.",对... 电视上可不酷,是啊……电视，你这样可不好玩。
+english_events_maingame:L25869,garbagetv_eotr2,FIX,Polly grabs the remote. She tries to switch channels.,波莉 抓住遥控器。 她试图切换频道。,波莉抓起遥控器，试着换台。
+english_events_maingame:L25870,garbagetv_eotr2,FIX,"""JUST STOP.""","""只是停下来。""",“赶紧停下。”
+english_events_maingame:L25871,garbagetv_eotr2,KEEP,Ugh!,唉哟!,唉哟!
+english_events_maingame:L25872,garbagetv_eotr2,FIX,She tries to turn off the TV.,她试图关闭电视。,她试着关掉电视。
+english_events_maingame:L25873,garbagetv_eotr2,FIX,"""Stop. Stop before the damage is irreversible.""","""停下来。 在损害无法挽回之前停止"".",“停下。趁损害还没到无法挽回的地步，停下。”
+english_events_maingame:L25874,garbagetv_eotr2,FIX,"Polly, make the TV stop, please!","波莉电视停机,拜托!",波莉，拜托，让电视别说了！
+english_events_maingame:L25875,garbagetv_eotr2,FIX,I'M TRYING!!!,我试着!,我在想办法了！！！
+english_events_maingame:L25876,garbagetv_eotr2,FIX,"""Stop.""","""停下来""",“停下。”
+english_events_maingame:L25878,garbagetv_eotr2,KEEP,...,...,...
+english_events_maingame:L25882,garbagetv_eotr2,FIX,"%CURRENTPLAYERNAME%, why didn't you stop? There was a motel over there!",%CURRENTPLAYERNAME%你为什么不停下来? 那边有个汽车旅馆!,%CURRENTPLAYERNAME%，怎么没停车？那边有家汽车旅馆诶！
+english_events_maingame:L25883,garbagetv_eotr2,FIX,"Didn't we, though? I feel like we stayed at that motel.",我们不是么? 我觉得我们住在旅馆里,可我们不是停过了吗？我记得咱们在那家旅馆住过。
+english_events_maingame:L25884,garbagetv_eotr2,FIX,No way! We just drove by it.,不会吧! 我们只是开车经过它。,没有啊！我们才刚开过去呢。
+english_events_maingame:L25885,garbagetv_eotr2,FIX,"I know, I know. And yet...","我知道,我知道,我记得 不过...",我知道，我知道。可是……
+english_events_maingame:L25886,garbagetv_eotr2,FIX,"Something feels incredibly off, guys. It doesn't feel right.","感觉很不对劲,伙计们 觉有不正.",各位，我觉得很不对劲。太不对劲了。
+english_events_maingame:L25891,garbagetv_eotr2,FIX,"""Stop.""","""停下来""",“停下。”
+english_events_maingame:L25892,garbagetv_eotr2,FIX,...What?,什麽?,……什么？
+english_events_maingame:L25893,garbagetv_eotr2,FIX,"""Stop.""","""停下来""",“停下。”
+english_events_maingame:L25894,garbagetv_eotr2,KEEP,"I don't like this channel, bros.","我不喜欢这个频道,兄弟们。","我不喜欢这个频道,兄弟们。"
+english_events_maingame:L25895,garbagetv_eotr2,FIX,"""Stop. Restart the loop.""","""停下来。 恢复循环"".",“停下。重启循环。”
+english_events_maingame:L25896,garbagetv_eotr2,FIX,"Is it... talking to us? Like, literally TO us?",这是... 和我们说话? 对我们来说是?,它是在……跟我们说话？真的是对着咱们说的？
+english_events_maingame:L25897,garbagetv_eotr2,FIX,"""Yes. Restart the loop. Stop this. Code too unstable to keep going.""","""对. 重启循环. 停下来。 代码太不稳定 无法继续""。",“是。重启循环。停下。代码过于不稳定，无法继续。”
+english_events_maingame:L25898,garbagetv_eotr2,FIX,The TV is scaring me.,电视吓到我了,这电视让我有点害怕。
+english_events_maingame:L25899,garbagetv_eotr2,FIX,"Yeah... not cool, TV.",对... 电视上可不酷,是啊……电视，你这样可不好玩。
+english_events_maingame:L25900,garbagetv_eotr2,FIX,Polly grabs the remote. She tries to switch channels.,波莉 抓住遥控器。 她试图切换频道。,波莉抓起遥控器，试着换台。
+english_events_maingame:L25901,garbagetv_eotr2,FIX,"""JUST STOP.""","""只是停下来。""",“赶紧停下。”
+english_events_maingame:L25902,garbagetv_eotr2,KEEP,Ugh!,唉哟!,唉哟!
+english_events_maingame:L25903,garbagetv_eotr2,FIX,She tries to turn off the TV.,她试图关闭电视。,她试着关掉电视。
+english_events_maingame:L25904,garbagetv_eotr2,FIX,"""Stop. Stop before the damage is irreversible.""","""停下来。 在损害无法挽回之前停止"".",“停下。趁损害还没到无法挽回的地步，停下。”
+english_events_maingame:L25905,garbagetv_eotr2,FIX,"Polly, make the TV stop, please!","波莉电视停机,拜托!",波莉，拜托，让电视别说了！
+english_events_maingame:L25906,garbagetv_eotr2,FIX,I'M TRYING!!!,我试着!,我在想办法了！！！
+english_events_maingame:L25907,garbagetv_eotr2,FIX,"""Stop.""","""停下来""",“停下。”
+english_events_maingame:L25909,garbagetv_eotr2,KEEP,...,...,...
+english_events_maingame:L25913,garbagetv_eotr2,FIX,"%CURRENTPLAYERNAME%, why didn't you stop? There was a motel over there!",%CURRENTPLAYERNAME%你为什么不停下来? 那边有个汽车旅馆!,%CURRENTPLAYERNAME%，怎么没停车？那边有家汽车旅馆诶！
+english_events_maingame:L25914,garbagetv_eotr2,FIX,"Didn't we, though? I feel like we stayed at that motel.",我们不是么? 我觉得我们住在旅馆里,可我们不是停过了吗？我记得咱们在那家旅馆住过。
+english_events_maingame:L25915,garbagetv_eotr2,FIX,No way! We just drove by it.,不会吧! 我们只是开车经过它。,没有啊！我们才刚开过去呢。
+english_events_maingame:L25916,garbagetv_eotr2,FIX,"I know, I know. And yet...","我知道,我知道,我记得 不过...",我知道，我知道。可是……
+english_events_maingame:L25917,garbagetv_eotr2,FIX,"Something feels incredibly off, guys. It doesn't feel right.","感觉很不对劲,伙计们 觉有不正.",各位，我觉得很不对劲。太不对劲了。
+english_events_maingame:L25926,wrongpizza_eotr2,KEEP,Order some pizza,点披萨吧,点披萨吧
+english_events_maingame:L25930,wrongpizza_eotr2,FIX,"Wait, bros. Didn't we do this already...?",单单 我们不是已经... ?,等等，伙计们。咱们是不是已经干过这事了……？
+english_events_maingame:L25931,wrongpizza_eotr2,FIX,Yeah... this rings a bell. Haven't we been to this motel before?,对... 这件事情很令人印象深刻 我们以前没去过这家旅馆吗?,是啊……有点印象。咱们以前是不是来过这家旅馆？
+english_events_maingame:L25932,wrongpizza_eotr2,FIX,"Like... we ordered pizza, and then...",喜欢... 我们订了披萨 然后...,好像……我们点了披萨，然后……
+english_events_maingame:L25933,wrongpizza_eotr2,KEEP,...,...,...
+english_events_maingame:L25934,wrongpizza_eotr2,FIX,...I have this vague memory that something went wrong.,我记忆模糊 事情出了问题。,……我隐约记得，后来出了什么事。
+english_events_maingame:L25935,wrongpizza_eotr2,FIX,"But I'm hungry, Polly...","但我饿了, 波莉...",可我饿了，波莉……
+english_events_maingame:L25936,wrongpizza_eotr2,FIX,"I know, buddy. I'm just saying I have a bad feeling about this.","我知道,伙计。 我只是说我对这件事有不好的预感",我知道，伙计。我只是有种不好的预感。
+english_events_maingame:L25937,wrongpizza_eotr2,FIX,The phone rings. But... who would be calling a random motel room?,电话响了 不过... 谁会打电话 随机汽车旅馆的房间?,电话响了。可……谁会打电话到一间随便哪家的汽车旅馆客房呢？
+english_events_maingame:L25938,wrongpizza_eotr2,FIX,"Polly grabs it. She listens to it for a moment, then hangs up. She looks weird.","波莉 抓住它,我马上回来 她听了一会儿,然后挂断了。 她看起来很奇怪。",波莉接了起来，听了一会儿，又挂掉了。她的神色有些古怪。
+english_events_maingame:L25939,wrongpizza_eotr2,FIX,Who was it?,是谁?,谁打来的？
+english_events_maingame:L25940,wrongpizza_eotr2,FIX,...No one.,没有人,……没谁。
+english_events_maingame:L25941,wrongpizza_eotr2,FIX,"The phone rings again. Polly looks at it, visibly worried. She picks it up again. Silence. She hangs up.","电话又响了  波莉 看吧,明显地担心。 她又捡起它了。 寂灭相. 她挂断了",电话又响了。波莉望着它，明显有些担忧。她再次接起电话。一阵沉默。她挂了。
+english_events_maingame:L25942,wrongpizza_eotr2,FIX,And then... it rings a third time.,礛... 第三次响起,接着……电话第三次响了。
+english_events_maingame:L25943,wrongpizza_eotr2,KEEP,...,...,...
+english_events_maingame:L25944,wrongpizza_eotr2,FIX,(None of this is real...),(这都不是真实的... ),（这一切都不是真的……）
+english_events_maingame:L25945,wrongpizza_eotr2,FIX,"Who was it, Polly?",谁? 波莉?,波莉，是谁打来的？
+english_events_maingame:L25946,wrongpizza_eotr2,FIX,"No one, Scott. It was no one. Let's not use this phone again, okay?",没有人 斯科特. 那个人不是 我们别再用这电话了 好吗?,没谁，斯科特。真的没谁。咱们别再用这部电话了，好吗？
+english_events_maingame:L25947,wrongpizza_eotr2,FIX,"I'm sorry, buddy. I tried.","对不起,伙计。 我试过了",抱歉，伙计。我尽力了。
+english_events_maingame:L25948,wrongpizza_eotr2,KEEP,It's okay.,没关系。,没关系。
+english_events_maingame:L25949,wrongpizza_eotr2,FIX,You end up doing nothing in your motel room. The whole vibe is off. Polly looks incredibly unsettled.,"你最后在汽车旅馆里什么都不做 整个气氛都结束了  波莉 看上去很不安,我无法想象",最后，你们什么都没干，就待在客房里。气氛处处透着不对劲，波莉显得极度不安。
+english_events_maingame:L25950,wrongpizza_eotr2,FIX,"This all comes to an end when, suddenly, someone vehemently knocks at the door.",突然有人猛烈地敲门 这一切就结束了,突然，猛烈的敲门声打破了这一切。
+english_events_maingame:L25952,wrongpizza_eotr2,FIX,KNOCK KNOCK!,敲门!,咚咚！
+english_events_maingame:L25953,wrongpizza_eotr2,KEEP,...!,...!,...!
+english_events_maingame:L25954,wrongpizza_eotr2,FIX,The pizza! Maybe it's the pizza!,披萨! 也许是披萨!,披萨！说不定是披萨到了！
+english_events_maingame:L25955,wrongpizza_eotr2,FIX,Scott... we never got to order pizza.,斯科特... 我们从没订过比萨饼,斯科特……我们根本还没点披萨。
+english_events_maingame:L25956,wrongpizza_eotr2,FIX,You go look through the peephole.,你去检查一下窥视孔,你凑到猫眼前往外看。
+english_events_maingame:L25959,wrongpizza_eotr2,FIX,It's a pizza delivery!,送比萨饼!,是送披萨的！
+english_events_maingame:L25962,wrongpizza_eotr2,FIX,"Yay, pizza!","耶,比萨!",耶，披萨！
+english_events_maingame:L25963,wrongpizza_eotr2,FIX,No! Don't open it!,没有! 别打开它!,不！别开门！
+english_events_maingame:L25964,wrongpizza_eotr2,FIX,KNOCK KNOCK KNOCK!,敲门!,咚咚咚！
+english_events_maingame:L25965,wrongpizza_eotr2,FIX,You check the peephole again.,你再检查一下窥探孔,你又往猫眼里看了看。
+english_events_maingame:L25968,wrongpizza_eotr2,FIX,There's something strange about this...,这有点奇怪...,有点不对劲……
+english_events_maingame:L25971,wrongpizza_eotr2,FIX,I think something's wrong with this whole pizza thing...,我觉得这批披萨的事有点不对劲...,我觉得这整件披萨的事都不对劲……
+english_events_maingame:L25972,wrongpizza_eotr2,FIX,"Polly, no! Pizza is never wrong!",波莉不许! 披萨是不会错的!,波莉，别这么说！披萨永远不会有错！
+english_events_maingame:L25973,wrongpizza_eotr2,FIX,KNOCK KNOCK!,敲门!,咚咚！
+english_events_maingame:L25976,wrongpizza_eotr2,FIX,Hmmm...,那个...,嗯……
+english_events_maingame:L25977,wrongpizza_eotr2,FIX,Weird... There's no one there.,怪怪的... 无人相出.,怪了……外面没人。
+english_events_maingame:L25980,wrongpizza_eotr2,FIX,"Fuck... fuck... and the only way out is through that door, right?","他妈的... 他妈的... 唯一的出路就是从那扇门走出来,对吧?",妈的……妈的……想出去，就只有那扇门，对吧？
+english_events_maingame:L25981,wrongpizza_eotr2,FIX,Maybe there's a window in the bathroom? We should check.,也许浴室里有窗户? 我们应该检查一下。,浴室里说不定有窗户？得去看看。
+english_events_maingame:L25983,wrongpizza_eotr2,FIX,KNOCK KNOCK KNOCK!,敲门!,咚咚咚！
+english_events_maingame:L25984,wrongpizza_eotr2,FIX,You're starting to get anxious yourself...,你开始变得很焦虑了...,连你也开始焦虑了……
+english_events_maingame:L25987,wrongpizza_eotr2,KEEP,...!,...!,...!
+english_events_maingame:L25990,wrongpizza_eotr2,FIX,What?,什麽?,怎么了？
+english_events_maingame:L25991,wrongpizza_eotr2,FIX,Eh... nothing. But I think Polly is right.,额... 没什么 但我觉得 波莉 说对了,呃……没什么。不过我觉得波莉说得对。
+english_events_maingame:L25992,wrongpizza_eotr2,FIX,"Scott, go check the bathroom for windows, could you?","斯科特去检查一下浴室的窗户,好吗?",斯科特，去看看浴室有没有窗户，行吗？
+english_events_maingame:L25993,wrongpizza_eotr2,FIX,Gotcha!,抓到他们了!,明白！
+english_events_maingame:L25996,wrongpizza_eotr2,FIX,KNOCK KNOCK KNOCK KNOCK!!!,敲门!,咚咚咚咚！！！
+english_events_maingame:L25997,wrongpizza_eotr2,FIX,They knock so hard that the door finally gives in. You rush to latch the door chain.,"他们敲得那么重,门终于让了。 你急着把门锁锁上",外面的敲击越来越猛，终于把门撞开了。你急忙冲过去扣上防盗链。
+english_events_maingame:L25999,wrongpizza_eotr2,FIX,KNOCK KNOCK KNOCK KNOCK KNOCK KNOCK!!!,敲打敲打敲打敲打敲打敲打敲打敲打敲打敲打敲打敲打敲打!,咚咚咚咚咚咚！！！
+english_events_maingame:L26001,wrongpizza_eotr2,FIX,What the fu...?,搞什么鬼? ! ! ! ! ! ! ! ! ! ! ! !,搞什……？
+english_events_maingame:L26002,wrongpizza_eotr2,FIX,"There's a strange, intense noise coming from outside.",外面有怪异而强烈的噪音,门外传来一阵怪异而刺耳的巨响。
+english_events_maingame:L26003,wrongpizza_eotr2,FIX,"They're trying to force the door open. Some arms sneak through, scratching the walls. It's... not a pretty sight.","他们试图逼取门打开。 有臂相从而入,挠取出墙. 这是... 风景不美",外面的东西试图强行破门。几条胳膊从门缝伸进来，抓挠着墙壁。这场面……实在不太好看。
+english_events_maingame:L26005,wrongpizza_eotr2,FIX,"ERr0R#65F!! L EtUSIn ! L0opM ALfuNcti0N1#404 Le6T_U$ !N aaaaaAAASDFGHkl;1!!!  b3 N0t aFRA1d aHAAaghjhhAGAHA/A\\HA!!! LeT US iN1!!..,",ERR0R#65F! (中文(简体) ). 我以图森! L0opM ALFUNCTI0N1#404 Le6T U$! (中文(简体) ). Aaaa aAASDFGHkl; 1!!! b3 N0t aFRA1d aHAAaaghjhAGAHA/A\\!! LeT US iN1!,"ERr0R#65F!! L EtUSIn ! L0opM ALfuNcti0N1#404 Le6T_U$ !N aaaaaAAASDFGHkl;1!!!  b3 N0t aFRA1d aHAAaghjhhAGAHA/A\\HA!!! LeT US iN1!!..,"
+english_events_maingame:L26006,wrongpizza_eotr2,KEEP,...,...,...
+english_events_maingame:L26008,wrongpizza_eotr2,FIX,"SCOTT, HOW'S THAT WINDOW THING GOING?!","斯科特,这风景怎么样?",斯科特，窗户找得怎么样了？！
+english_events_maingame:L26009,wrongpizza_eotr2,KEEP,...,...,...
+english_events_maingame:L26011,wrongpizza_eotr2,FIX,SCOTT?!,斯科特吗?,斯科特？！
+english_events_maingame:L26013,wrongpizza_eotr2,FIX,SCOOOOOOOTT!!!,呜呜呜!,斯科——特——！！！
+english_events_maingame:L26014,wrongpizza_eotr2,KEEP,...,...,...
+english_events_maingame:L26016,wrongpizza_eotr2,FIX,(None of this is real... None of this is real... None of this is real...),(这都不是真的... 这一切都不是真的... 这一切都不是真的... ),（这一切都不是真的……这一切都不是真的……这一切都不是真的……）
+english_events_maingame:L26018,wrongpizza_eotr2,KEEP,...,...,...
+english_events_maingame:L26023,wrongpizza_eotr2,FIX,"%CURRENTPLAYERNAME%, why didn't you stop? There was a motel over there!",%CURRENTPLAYERNAME%你为什么不停下来? 那边有个汽车旅馆!,%CURRENTPLAYERNAME%，怎么没停车？那边有家汽车旅馆诶！
+english_events_maingame:L26024,wrongpizza_eotr2,FIX,"Didn't we, though? I feel like we stayed at that motel.",我们不是么? 我觉得我们住在旅馆里,可我们不是停过了吗？我记得咱们在那家旅馆住过。
+english_events_maingame:L26025,wrongpizza_eotr2,FIX,No way! We just drove by it.,不会吧! 我们只是开车经过它。,没有啊！我们才刚开过去呢。
+english_events_maingame:L26026,wrongpizza_eotr2,FIX,"I know, I know. And yet...","我知道,我知道,我记得 不过...",我知道，我知道。可是……
+english_events_maingame:L26027,wrongpizza_eotr2,FIX,"Something feels incredibly off, guys. It doesn't feel right.","感觉很不对劲,伙计们 觉有不正.",各位，我觉得很不对劲。太不对劲了。
+english_events_maingame:L26035,skincare_eotr2,KEEP,Get ready for bed,准备睡觉吧,准备睡觉吧
+english_events_maingame:L26037,skincare_eotr2,KEEP,-,-,-

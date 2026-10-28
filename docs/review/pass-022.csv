@@ -1,0 +1,108 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_pitstop:L3523,cvalerieitems,KEEP,The Items she sells,她卖的东西,她卖的东西
+english_events_pitstop:L3525,cvalerieitems,POLISH,My items? Which ones?,我的东西? 哪一个?,我的货？哪件？
+english_events_pitstop:L3526,cvalerieitems,POLISH,Dunno... what about the dumbest thing you've sold?,不知道... 说不定... 你卖过的最蠢的东西呢?,不知道……你卖过最蠢的东西是什么？
+english_events_pitstop:L3527,cvalerieitems,FIX,Easy: I once sold a used tampon. Some weirdo wanted the blood in it to perform a blood ritual.,网易:我曾经卖过一款用过的棉条. 一些怪人希望里面的血来进行血祭.,这还用想？我卖过一根用过的卫生棉条。有个怪人想用里面的血做血祭。
+english_events_pitstop:L3528,cvalerieitems,FIX,"It indirectly helped my sister, so I'm quite okay with it.","它间接地帮助了我妹妹, 所以我相当同意它。",还间接帮了维拉一把，所以我觉得挺好。
+english_events_pitstop:L3529,cvalerieitems,KEEP,What about the strangest thing you've sold?,你卖过的最奇怪的东西呢?,你卖过的最奇怪的东西呢?
+english_events_pitstop:L3530,cvalerieitems,KEEP,I once had this powerful totem that had some sort of entity trapped inside of it.,"我曾经有一个强大的图腾, 它有某种实体困在里面。","我曾经有一个强大的图腾, 它有某种实体困在里面。"
+english_events_pitstop:L3531,cvalerieitems,POLISH,I tried to do some research to properly appraise it.,我试图做一些研究来正确评估它。,我查了些资料，想好好估个价。
+english_events_pitstop:L3532,cvalerieitems,POLISH,It turns out the entity inside the totem may or may not have been one of the most powerful beings in the universe.,原来图腾内部的实体可能是也可能不是宇宙中最强大的生物之一.,结果发现，里面那个存在，搞不好是全宇宙最强大的存在之一。
+english_events_pitstop:L3533,cvalerieitems,FIX,"Uh, so you made some big bucks off of it, didn't you?","呃,所以你赚了一些大钱 从它,不是吗?",哇，那你肯定靠它赚了不少吧？
+english_events_pitstop:L3534,cvalerieitems,KEEP,Not really!,没有!,没有!
+english_events_pitstop:L3535,cvalerieitems,POLISH,"The moment I realized I had something that dangerous in my shop, I did the sensible thing and sold it for a low price to get rid of it.",当我意识到我店里有危险的东西时 我做了明智的事 以低价卖掉它,一发现店里有这么危险的东西，我就明智地低价出手，赶紧甩掉了。
+english_events_pitstop:L3536,cvalerieitems,FIX,"Next thing I knew, that thing was melting people's faces and making birds fall out of the sky.","接下来我知道的是,那东西正在融化人们的面孔,使鸟从天空中倒出.",再听到消息时，那玩意儿已经在融化别人的脸，让鸟儿从天上掉下来了。
+english_events_pitstop:L3537,cvalerieitems,FIX,Good riddance.,善解脱相.,甩掉就好。
+english_events_pitstop:L3538,cvalerieitems,KEEP,You betcha.,当然,当然
+english_events_pitstop:L3539,cvalerieitems,POLISH,What's the biggest scam you've run in your shop?,你店里最大的骗局是什么?,你在店里搞过最大的骗局是什么？
+english_events_pitstop:L3540,cvalerieitems,FIX,"Uh, bold of you to ask.","呃,大胆的问你。",哟，还挺敢问。
+english_events_pitstop:L3541,cvalerieitems,FIX,Vera and I once ran a great scam selling some rando cheap rings and said they were membership rings for a super exclusive cult.,"维拉 我曾经经营一个伟大的骗局 卖出一些兰多便宜的戒指, 并说他们是会员圈 一个超级独家邪教。",我和维拉搞过一场绝妙的骗局：把随便找来的廉价戒指，卖成一个超级神秘邪教的入会戒指。
+english_events_pitstop:L3542,cvalerieitems,FIX,Almost everyone in school got one.,几乎每个学校都有,学校里几乎人手一个。
+english_events_pitstop:L3543,cvalerieitems,POLISH,"I made good money out of it, and Vera controlled all those fools by posing as the cult leader in the shadows.",我从中赚了大钱 维拉 控制了所有那些傻瓜 通过假扮邪教领袖 在阴影中。,我赚了不少，维拉则躲在幕后扮邪教领袖，控制那帮傻子。
+english_events_pitstop:L3544,cvalerieitems,FIX,"People can be really gullible, huh?","人会很狡猾的,是吧?",人可真好骗，对吧？
+english_events_pitstop:L3545,cvalerieitems,KEEP,"Hahaha, totally!","哈哈哈,绝对的!","哈哈哈,绝对的!"
+english_events_pitstop:L3546,cvalerieitems,POLISH,"(I definitely don't own one of those rings, heh heh...)","(我绝对没有这些戒指之一,heh heh...)",（我绝对没有买过那种戒指，呵呵……）
+english_events_pitstop:L3547,cvalerieitems,KEEP,What?,什麽?,什麽?
+english_events_pitstop:L3548,cvalerieitems,POLISH,Nothing! Tell me more stories! I like them!,没什么! 告诉我更多故事! 我喜欢他们!,没什么！再给我讲几个故事！我爱听！
+english_events_pitstop:L3550,cvalerieitems,KEEP,My pleasure.,我的荣幸。,我的荣幸。
+english_events_pitstop:L3551,cvalerieitems,FIX,And so Valerie spends the rest of the night sharing some of the wackiest stories you can imagine. This girl has lived an eventful life!,所以瓦莱丽在夜里 分享一些你能想象到的最糟糕的故事 这个女孩过着多事的生活!,于是，剩下的夜晚，瓦莱丽都在讲那些荒唐得超乎想象的故事。这姑娘的人生可真精彩！
+english_events_pitstop:L3560,cvalerieshop,KEEP,Her Shop Business,她的店铺生意,她的店铺生意
+english_events_pitstop:L3562,cvalerieshop,POLISH,"Ah, my good ol' shop!","啊,我的好店铺!",啊，我那家老店！
+english_events_pitstop:L3563,cvalerieshop,KEEP,Why did you decide to open a shop within the school?,你为什么决定在学校里开个店?,你为什么决定在学校里开个店?
+english_events_pitstop:L3564,cvalerieshop,FIX,"Because people are stupid and will pay for any dumb shit, and who am I to deny them that?","因为人们是愚蠢的,会付出代价 任何愚蠢的狗屎, 我是谁来否认他们呢?",因为人都很蠢，什么傻逼玩意儿都愿意掏钱买。我哪有理由不满足他们？
+english_events_pitstop:L3565,cvalerieshop,FIX,So I just provide and make a nice buck out of it.,"所以,我只是提供 和做一个好的钱出来。",我就负责供货，顺便赚上一笔。
+english_events_pitstop:L3566,cvalerieshop,FIX,"Dang, girl!","该死的,女孩!",哇，姐妹！
+english_events_pitstop:L3567,cvalerieshop,POLISH,"No, but for real. Everyone's going through their own personal ordeal.","不,但真实的。 每个人都在经历个人的折磨",不过，说真的，谁都有自己要过的难关。
+english_events_pitstop:L3568,cvalerieshop,POLISH,"You know: we all have our little goals and our personal dozen insecurities, and sometimes life looks so incredibly confusing and difficult.","你知道,我们都有自己的小目标 和我们的十几个不安全感, 有时生活看起来如此令人难以置信的混乱和困难。",大家都有些小目标，也有一堆不安。有时候，生活真是让人又迷茫又头疼。
+english_events_pitstop:L3569,cvalerieshop,POLISH,"In the end, I think people just want to believe there's some magical ointment that'll make everything suddenly make sense.","最后,我想人们只是想相信 有一些神奇的药膏,会让一切突然变得有意义。",说到底，我觉得大家只是想相信，有种神奇的药膏，能让一切突然都说得通。
+english_events_pitstop:L3570,cvalerieshop,POLISH,"A trick to figure life out, you know?","一个把生活弄明白的把戏,你知道吗?",能让人一下子搞懂生活的诀窍，明白吗？
+english_events_pitstop:L3571,cvalerieshop,FIX,"Ugh, I'd kill for such a trick.","唉,我会杀了这样的把戏。",唉，真有这种诀窍，让我杀个人去换都行。
+english_events_pitstop:L3572,cvalerieshop,FIX,"You and many more! We wish for it so fuckin' hard, most people will take anything that promises to make life easier.","你还有更多的人! 我们希望它如此他妈的'艰难, 大多数人会采取任何 承诺使生活更容易。",不止你一个！我们他妈太想要了，所以只要有东西号称能让生活轻松点，大多数人就会照单全收。
+english_events_pitstop:L3573,cvalerieshop,FIX,"Here, have these impractical-yet-kinda-funny glasses! They may or may not make you more FUN!",拿着这些不切实际的眼镜! 他们可能或不会让你更有趣!,来，看看这副没什么用、倒挺好玩的眼镜！戴上它，也许你就会更有趣！也许不会。
+english_events_pitstop:L3574,cvalerieshop,FIX,"Look at this fake badass tattoo! Get it, and people might think you're a BOLD motherfucker.","看看这个假的坏蛋纹身! 得到它,人们可能会认为 你是一个BOLD的混蛋。",看看这张酷炫的假纹身贴！买了它，别人说不定就觉得你他妈胆大包天。
+english_events_pitstop:L3575,cvalerieshop,POLISH,I think deep down people can see how ludicrous all that is.,我想在内心深处人们可以看到 这一切是多么可笑。,我觉得，大家心里其实都知道这有多荒唐。
+english_events_pitstop:L3576,cvalerieshop,FIX,But what if...?,"但是,如果,如果... ? ,那会怎么样?",可万一呢……？
+english_events_pitstop:L3577,cvalerieshop,FIX,You get so desperate to find a cure to feeling so clueless all the time that you force yourself to believe.,你如此绝望地寻找解药 以感到如此无稽之谈 你强迫自己相信。,你太想找到一种办法，不用再整天摸不着头脑，就逼着自己去相信。
+english_events_pitstop:L3578,cvalerieshop,FIX,"So, if life is not getting easier any time soon... maybe a placebo is the next best thing.","所以,如果生活没有 变得容易任何时间很快... 也许安慰剂是下一个最好的事情。",所以，如果生活一时半会儿不会轻松……那有个安慰剂，或许也不错。
+english_events_pitstop:L3579,cvalerieshop,POLISH,Yeah... maybe a placebo is not that bad of a solution to help you get on with life when it gets hard?,对... 也许安慰剂不是那么糟糕的解决方案 在生活变得困难的时候帮助你继续生活?,是啊……生活难熬的时候，靠个安慰剂撑下去，也许也没那么坏？
+english_events_pitstop:L3580,cvalerieshop,FIX,Who knows? Not me for sure! I'm just the humble shopkeeper that sells dumb shit to make people feel a tiny bit more in control.,谁知道呢? 我肯定不会! 我只是一个谦卑的店主 卖出愚蠢的东西 让人们感觉更控制。,谁知道？反正我不知道！我就是个小小店主，卖些傻玩意儿，让大家觉得自己稍微能掌控点什么。
+english_events_pitstop:L3581,cvalerieshop,KEEP,No refunds!,不退钱!,不退钱!
+english_events_pitstop:L3582,cvalerieshop,POLISH,"Yeah, I get it. You saw the demand and just provided some supply.","对,我懂了 你看到了需求,只是提供了一些供给。",嗯，我懂了。有需求，你就供货。
+english_events_pitstop:L3583,cvalerieshop,FIX,"That, and sometimes the strangest stuff falls in my hands and I gotta dispose of it somehow.","这,有时最奇怪的东西 落入我手中,我必须处理它 不知如何。",而且，有时候最奇怪的东西会落到我手里，总得想个办法处理掉。
+english_events_pitstop:L3584,cvalerieshop,FIX,"Blankets with holes, old floppy disks, the blood of an angel... there's always someone weird enough to take it off my hands.",有洞 有软盘 有天使的血迹... 总是有人怪怪的 把它从我手上取走,破了洞的毯子、旧软盘、天使之血……总有怪人愿意买走。
+english_events_pitstop:L3585,cvalerieshop,FIX,I'm sure you have anecdotes by the dozen!,"我敢肯定,你有 传闻由十几个!",你的趣事肯定一抓一大把！
+english_events_pitstop:L3586,cvalerieshop,FIX,She does! You spend the rest of the night listening to Val's many stories. She has seen some shit!,没错! 你整晚都在听瓦尔的很多故事 她已经看到了一些狗屎!,可不是！剩下的夜晚，你都在听瓦莱丽讲故事。她可真是什么破事都见过！
+english_events_pitstop:L3595,CValerieItemOrigins,FIX,Where does she get the items she sells,她从哪里买到卖出的物品的,她卖的东西从哪来
+english_events_pitstop:L3597,CValerieItemOrigins,POLISH,Where do I get the items I sell?,我从哪里得到我卖的东西?,我卖的东西从哪来？
+english_events_pitstop:L3598,CValerieItemOrigins,POLISH,A shopkeeper never reveals her suppliers!,一个店主从来不透露她的供应商!,店主可不会透露自己的供货商！
+english_events_pitstop:L3599,CValerieItemOrigins,KEEP,"Oh, sorry...","哦,对不起...","哦,对不起..."
+english_events_pitstop:L3600,CValerieItemOrigins,FIX,"Nah, I was kidding. It's still a weird question, but I'm game.","不,我开玩笑的。 这还是个奇怪的问题 但我在玩游戏",没有啦，开玩笑的。这问题还是挺怪，不过我愿意聊。
+english_events_pitstop:L3601,CValerieItemOrigins,KEEP,Let's see...,让我看看...,让我看看...
+english_events_pitstop:L3602,CValerieItemOrigins,FIX,A lot of my items I get from bartering.,我从易货那里得到很多东西,很多都是交换来的。
+english_events_pitstop:L3603,CValerieItemOrigins,FIX,I barter and barter until I get stuff that seems valuable enough to be sold for a good price.,我交换和交换 直到我得到的东西 似乎足够贵重 被出售一个好的价格。,换啊换，换到看起来足够值钱、能卖个好价的东西为止。
+english_events_pitstop:L3604,CValerieItemOrigins,POLISH,I tell you what: our school is a strange place to barter items.,我告诉你 我们的学校是用来交换物品的奇怪地方,我跟你说，在我们学校交换东西，可真够奇怪的。
+english_events_pitstop:L3605,CValerieItemOrigins,KEEP,How so?,怎么会这样?,怎么会这样?
+english_events_pitstop:L3606,CValerieItemOrigins,FIX,You start with an old pair of jeans and somehow end up with the blood of an angel.,你从一条老牛仔裤开始 不知怎么的 以天使之血而来,拿一条旧牛仔裤去换，不知怎么，最后竟能换到天使之血。
+english_events_pitstop:L3607,CValerieItemOrigins,FIX,You have some lipstick you may or may have not shoplifted? Barter away until you get an ancient tome of forbidden arts.,"你有一些口红 你可能或可能没有 商店盗窃? 交换,直到你得到一个古老的 禁止艺术的玩具。",手上有支可能偷来的，也可能没偷来的口红？一直换，说不定就换来一本记载禁忌法术的古籍。
+english_events_pitstop:L3608,CValerieItemOrigins,FIX,That sounds like a deal!,这听起来像一个协议!,这买卖划算啊！
+english_events_pitstop:L3609,CValerieItemOrigins,FIX,"It is. Sometimes I get suspicious of how I get such good deals for items that often end up ALMOST destroying reality, and shit like that.","没错 有时我怀疑 我如何得到这样的好交易 物品 往往最终 ALMOST 破坏现实, 和狗屎 像这样。",是啊。有时我都怀疑，怎么能这么便宜地换到这些东西？明明它们最后往往“差点”就毁灭现实之类的。
+english_events_pitstop:L3610,CValerieItemOrigins,FIX,"Then again, I make a quick buck out of it... and the quick buck outweighs my suspicions.","再说一次,我赚了快钱... 速战速决胜于我的猜想",不过，我靠它们赚快钱……快钱的分量，压过了疑心。
+english_events_pitstop:L3611,CValerieItemOrigins,FIX,"No, yeah, that makes sense.","不,是的,这有道理。",嗯，也是，有道理。
+english_events_pitstop:L3612,CValerieItemOrigins,KEEP,Then there's some stuff that's just scams. But don't tell anyone! Shhhh!,还有一些只是骗局的东西。 但不要告诉任何人! 嘘!,还有一些只是骗局的东西。 但不要告诉任何人! 嘘!
+english_events_pitstop:L3613,CValerieItemOrigins,FIX,Like the time I cut two holes on a blanket and sold it as... dunno... some sort of fashion statement for dumb people?,就像我把毯子上两个洞 卖掉的时候... 不知道... ... 说不定... 给傻子的时尚声明?,比如，我在毯子上剪了两个洞，然后就卖成了……不知道……傻子专用的时尚宣言？
+english_events_pitstop:L3614,CValerieItemOrigins,POLISH,"Or one time I had to dispose of a corpse, so I just put a price tag on it and... sold!",或者有一次我不得不处理一具尸体 所以我在尸体上贴了个价格标签 然后... 卖了!,还有一次，我得处理一具尸体，就往上贴了个价签……卖掉了！
+english_events_pitstop:L3615,CValerieItemOrigins,KEEP,"People will buy anything, won't they?","人们会买任何东西,不是吗?","人们会买任何东西,不是吗?"
+english_events_pitstop:L3616,CValerieItemOrigins,KEEP,YES!,没错!,没错!
+english_events_pitstop:L3617,CValerieItemOrigins,FIX,"And where there's demand, there's Valerie Oberlin with an endless supply of whatever dumb shit people are willing to pay for.","在有需求的地方,有瓦莱丽·奥伯林 与无休止的供应 任何愚蠢的狗屎 人们愿意支付。",只要有需求，就有瓦莱丽·奥伯林。大家愿意花钱买的傻逼玩意儿，我要多少有多少。
+english_events_pitstop:L3618,CValerieItemOrigins,POLISH,Once it was a lemon. A weirdo bought a single lemon from me. Haven't people heard of fruit stores?,曾经是柠檬. 一个怪人从我这里买了个柠檬 人们没听说过水果店吗?,有一次，是个柠檬。有个怪人就从我这儿买了一颗柠檬。他们没听说过水果店吗？
+english_events_pitstop:L3619,CValerieItemOrigins,KEEP,Amazing!,厉害!,厉害!
+english_events_pitstop:L3620,CValerieItemOrigins,POLISH,Valerie keeps telling you secrets about shopkeeping. Some of them truly blow your mind. What a night you two share!,瓦莱丽一直告诉你店里的秘密 有些真的让你大开眼界 你们俩共度了多么美好的一晚!,瓦莱丽继续讲开店的秘密。有些真让你大开眼界。你们度过了精彩的一晚！
+english_events_pitstop:L3629,CValerieNonShop,FIX,Her life beyond the shop,她的人生在店外的某个地方,店铺之外的生活
+english_events_pitstop:L3631,CValerieNonShop,FIX,My life beyond my shop? What sort of weird topic is that?,我的生活在我店外吗? 这算什么奇怪话题?,我在店铺之外的生活？这是什么怪话题？
+english_events_pitstop:L3632,CValerieNonShop,POLISH,"Yeah, I mean... in school, everyone just knows you as the one who sells just about everything.","对,我是说... 学校里,每个人都知道你是卖东西的",我是说……学校里，大家都知道你什么都卖。
+english_events_pitstop:L3633,CValerieNonShop,FIX,"It's so cool that sometimes it feels like you get overshadowed by your role as ""shopkeeper"".","这太酷了,有时感觉好像被""店主""的角色所蒙蔽了.",这点是很酷，可有时候，你这个人好像反而被“店主”这个身份盖住了。
+english_events_pitstop:L3634,CValerieNonShop,FIX,Fair. I am indeed too cool to only be known as a shopkeeper. So let's see... who's Valerie Oberlin?,"公平 公平 公平 公平 公平 公平 公平 我实在太酷了,不能只被称作一个店主。 所以让我们看看... 谁是瓦莱丽·奥伯林?",有道理。我确实酷得不该只被当成店主。那就看看吧……瓦莱丽·奥伯林是谁？
+english_events_pitstop:L3635,CValerieNonShop,FIX,"Well, I like vibing and minding my own business, you know?","我喜欢振动和管闲事,你知道吗?",嗯，我喜欢随意过日子，也不爱管闲事，懂吧？
+english_events_pitstop:L3636,CValerieNonShop,POLISH,"Other than that... nothing too out of the blue: I like going to concerts, partying every now and then, watching movies, etc.","除此之外... 没什么大不了的:我喜欢去参加音乐会,偶尔参加派对,看电影等.",除此之外，没什么出人意料的：看演唱会，偶尔去派对，看电影什么的。
+english_events_pitstop:L3637,CValerieNonShop,FIX,The sort of things everyone likes.,那种人喜欢的东西,大家都喜欢的那些事。
+english_events_pitstop:L3638,CValerieNonShop,KEEP,What kind of movies?,什么样的电影?,什么样的电影?
+english_events_pitstop:L3639,CValerieNonShop,FIX,Hmmm... a bit of everything. I sometimes go through phases. I love watching super old movies. It soothes me a bit.,那个... 一点点的一切。 我有时会经历阶段。 我喜欢看超老电影 有点安慰我,嗯……什么都看一点。有时候会阶段性迷上某类片子。我喜欢看特别老的电影，感觉很安宁。
+english_events_pitstop:L3640,CValerieNonShop,POLISH,And I also love watching B movies! It does... whatever the opposite of soothing me is. Those movies are wild!,我也喜欢看B电影! 这确实... 不管与安慰我相反的是什么 那些电影是疯狂的!,我也爱看 B级片！感觉……跟安宁完全相反。那些电影可太疯了！
+english_events_pitstop:L3641,CValerieNonShop,FIX,"If a movie has a super dumb B movie title, you can be sure I will be down to watch it.","如果电影有超级哑B的电影标题,你可以肯定我会看它。",只要是片名傻得要命的 B级片，我肯定乐意看。
+english_events_pitstop:L3642,CValerieNonShop,FIX,"You know, like ""Surfer Ninjas from Outer Space"" or ""The Year I Swapped Minds with a Cantaloupe 3"".","比如""探索外太空的忍者"" 或者""我用Cantaloupe 3洗脑的那一年""",比如《外太空来的冲浪忍者》，或者《我与甜瓜互换心智的那一年 3》。
+english_events_pitstop:L3643,CValerieNonShop,FIX,"There are a ""The Year I Swapped Minds with a Cantaloupe"" 1 and 2?","有""我用可口可乐洗脑的一年""一和二?.",《我与甜瓜互换心智的那一年》还有第一部和第二部？
+english_events_pitstop:L3644,CValerieNonShop,FIX,"Not exactly. The first sequel was ""The Year I Swapped Minds with a Cauliflower"".","不尽然。 第一部续集是""我用花椰菜洗脑的那一年"".",也不全是。第一部续集叫《我与花椰菜互换心智的那一年》。
+english_events_pitstop:L3645,CValerieNonShop,FIX,"I guess the cauliflower wasn't clicking with the audience, so they went back with the cantaloupe for the third one.","我猜花椰菜没有和观众一起点击, 所以他们回去了 与cantaloupe为第三个。",大概观众不太喜欢花椰菜，所以第三部又换回甜瓜了。
+english_events_pitstop:L3646,CValerieNonShop,FIX,The more you know!,越多你就会知道!,又长见识了！
+english_events_pitstop:L3647,CValerieNonShop,KEEP,You betcha.,当然,当然
+english_events_pitstop:L3648,CValerieNonShop,FIX,I also have lots of gigs other than the shop.,"除了店铺,我还有很多演出",除了开店，我还干不少零工。
+english_events_pitstop:L3649,CValerieNonShop,POLISH,"You see, our dad taught Vera and me to be resourceful and hard-working.","你看,我们的爸爸教的 维拉 和我会是 机智和辛勤工作。",我们爸爸从小就教我和维拉，要勤奋，也要懂得想办法。
+english_events_pitstop:L3650,CValerieNonShop,POLISH,"Vera uses that to fly as high as she can. She wants to be the best and conquer life, as she usually says.","维拉 用它飞得越高越好 她希望成为最好的,并征服生活,就像她通常所说的.",维拉靠这个一路往上爬。她想成为最好的，用她常说的话讲，就是“征服生活”。
+english_events_pitstop:L3651,CValerieNonShop,FIX,I prefer to be resourceful and hard-working as a way to get just enough to get by and buy some concert tickets and B movies.,"我更喜欢有才智和辛勤工作,以此来获得足够多的路程,并购买一些音乐会入场券和B电影.",我就想靠这些本事和努力，挣点够过日子的钱，再买些演唱会门票和 B级片。
+english_events_pitstop:L3652,CValerieNonShop,FIX,"So, well, I get more than enough through my shop and some random gigs I have.",我从我的店里拿到的足够多 和一些零星的演出,所以，靠店里的收入，再加上一些零工，我就已经赚得绰绰有余。
+english_events_pitstop:L3653,CValerieNonShop,FIX,I walk some dogs; I'm a line-stander-for-hire; I proofread and ghostwrite dating profiles; you name it!,我走狗走狗走狗走狗走狗走狗走狗走狗走狗走狗走狗,我给人遛狗、收钱替人排队、给交友简介校对和代笔……什么都干！
+english_events_pitstop:L3654,CValerieNonShop,POLISH,You and Vera are so similar and so different at the same time.,"你和 维拉 如此相似,如此不同 同时。",你和维拉又像，又不一样。
+english_events_pitstop:L3655,CValerieNonShop,FIX,"We are, aren't we? I love Vera. She's the best sister I could ever ask for.","我们是,不是吗? 我爱 维拉. 她是我最想要的姐姐了",是吧？我爱维拉。能和她做姐妹，真是再好不过了。
+english_events_pitstop:L3656,CValerieNonShop,POLISH,"Anyway, that's a scoop on who Valerie Oberlin is. Satisfied now?","总之,这是关于瓦莱丽·奥伯林是谁的独家消息 满意了吗?",总之，这就是瓦莱丽·奥伯林的独家内幕。现在满意了？
+english_events_pitstop:L3657,CValerieNonShop,FIX,Pretty much!,相当多!,差不多啦！
+english_events_pitstop:L3658,CValerieNonShop,FIX,"You spend the rest of the night watching the ""The Year I Swapped Minds with a Cantaloupe"" trilogy. Valerie was right: these movies are wild!","你整晚都在看""我用Cantaloupe洗脑的那一年""三部曲 瓦莱丽说得对,这些电影很疯狂!",剩下的夜晚，你们一起看完了《我与甜瓜互换心智的那一年》三部曲。瓦莱丽说得没错：这些电影真是疯得很！

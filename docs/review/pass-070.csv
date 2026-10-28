@@ -1,0 +1,86 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_pitstop:L7681,cdhopev,KEEP,Preparing for the Future,筹备未来,筹备未来
+english_events_pitstop:L7683,cdhopev,FIX,"Nah, Joy and Faith are the boring ones that do the planning and all that.","不,乔伊和费斯是那些无聊的人 做计划 和这一切。",才不呢，乔伊和信念女巫才是负责做计划、忙这忙那的无聊家伙。
+english_events_pitstop:L7684,cdhopev,KEEP,Me? I've died three times already; who says I won't die a fourth time next week?,我吗? 我已经死了三次了 谁说我下星期不会第四次死了?,我吗? 我已经死了三次了 谁说我下星期不会第四次死了?
+english_events_pitstop:L7685,cdhopev,FIX,"Yikes, Hope...","哎哟,希望...",这话听着怪吓人的，希望女巫……
+english_events_pitstop:L7686,cdhopev,POLISH,"Hey, the facts speak for themselves!","嘿,事实本身就说明了!",嘿，事实就摆在这儿！
+english_events_pitstop:L7687,cdhopev,FIX,"Well, still!","好吧,还是!",可就算这样……！
+english_events_pitstop:L7688,cdhopev,FIX,Still?,还是?,就算这样，怎么了？
+english_events_pitstop:L7689,cdhopev,FIX,I mean... I don't want to sound morbid: but what if you DO die soon? Have you planned for that?,"我是说... 我不想听病态,但如果你死了呢? 你计划好了吗?",我的意思是……我不是故意聊这么阴森的话题，可要是你真很快就死了呢？你为这事做过准备吗？
+english_events_pitstop:L7690,cdhopev,POLISH,"Dang, %CURRENTPLAYERNAME%! I didn't know you were this hardcore!",该死 %CURRENTPLAYERNAME%! 我没想到你这么厉害!,哇，%CURRENTPLAYERNAME%！没想到你这么狠啊！
+english_events_pitstop:L7691,cdhopev,POLISH,"Oh, sorry, I didn't want to overstep.","哦,对不起,我不想越位。",哦，对不起，我不是想冒犯你。
+english_events_pitstop:L7692,cdhopev,FIX,Don't sweat it... you're not wrong.,不要发汗... 你没有错。,别紧张……你说得没错。
+english_events_pitstop:L7693,cdhopev,FIX,"I have this funny habit of dying, and it'd be very cool if I could leave something to the next Hope so she doesn't feel so lost or unready...","我有一个可笑的死亡习惯, 如果我能留下一些东西给下一个希望,这样她就不会觉得迷茫或没有准备好... ...",我有个怪毛病，就是老死。要是能给下一任希望女巫留点东西，让她不至于那么迷茫、那么没准备，那倒挺酷的……
+english_events_pitstop:L7694,cdhopev,FIX,"Whoa, that's a bit dark.","哇,这有点黑。",哇，这话题有点沉重。
+english_events_pitstop:L7695,cdhopev,POLISH,"Dark, but necessary... but I'm still an awful planner...","黑暗,但必须... 但我还是个糟糕的策划者...",是沉重，可也得想……但我还是特别不会做计划……
+english_events_pitstop:L7696,cdhopev,POLISH,"But hey, you brought us here, so now you'll help me with this, right?","但是,嘿,你把我们带到这里, 所以现在你会帮助我 这一点,对不对?",不过，嘿，话题是你提的，现在得帮我想想了，对吧？
+english_events_pitstop:L7697,cdhopev,FIX,"If that's what you want, I'm game.","如果你想这样,我就是游戏。",你想的话，我当然奉陪。
+english_events_pitstop:L7698,cdhopev,FIX,That's the spirit!,这就是精神!,这才对嘛！
+english_events_pitstop:L7699,cdhopev,FIX,"It must be something actually useful, as in no sentimental bullshit.","这一定是一些实际有用的东西, 像在没有多愁善感的废话。",得是真正有用的东西，别搞那些煽情的屁话。
+english_events_pitstop:L7700,cdhopev,FIX,"I want to help this hypothetical Hope... but at the same time it's a bit about me, y'know?","我想帮助这个假想的希望... 但与此同时,它有点 关于我,你知道吗?",我想帮到假设中的那位希望女巫……可同时，这事也跟我自己有关，懂吧？
+english_events_pitstop:L7701,cdhopev,FIX,How so?,怎么会这样?,怎么说？
+english_events_pitstop:L7702,cdhopev,FIX,"Well, this Hope will still be Hope. She will represent all of us Hopes!","嗯,这个希望仍然是希望。 她会代表我们所有人的希望!",不管怎样，她还是希望女巫。她代表的，是我们所有历代希望女巫！
+english_events_pitstop:L7703,cdhopev,FIX,I worked too hard and kicked too much ass only for an uncool gal to mess that up.,我太努力了 踢了太多的屁股 只为了一个不酷的女孩来搅乱这一切,我拼死拼活，揍翻了那么多对手，可不能让个不酷的姑娘，把这一切全搞砸。
+english_events_pitstop:L7704,cdhopev,FIX,"So my legacy should be a powerful message from beyond that tells the new Hope: ""you'd better be cool"".","因此,我的遗产应该是一个来自外部的强大信息,它告诉新的希望:""你最好冷静"".",所以，我留下的东西得像从另一个世界传来的强硬宣言，告诉新任希望女巫：“你最好给我酷一点。”
+english_events_pitstop:L7705,cdhopev,FIX,"Dang, who's the hardcore one now?",赣瞷琌街,嚯，现在是谁更狠啊？
+english_events_pitstop:L7706,cdhopev,FIX,I was born hardcore; I will die hardcore... and my next me should be hardcore too.,我生来就是硬核 我会死活的... 我的下一个我也应该是硬核。,我生来够狠，死也得够狠……下一个我，照样得狠。
+english_events_pitstop:L7707,cdhopev,KEEP,The question is: are you truly hardcore enough?,问题是:你真的够狠吗?,问题是:你真的够狠吗?
+english_events_pitstop:L7708,cdhopev,FIX,"You brought up this weird topic, so it's time to put your money where your mouth is: gimme your best idea, %CURRENTPLAYERNAME%.",你提起这个怪事 所以是时候把你的钱放在嘴边了 给我你最好的主意 %CURRENTPLAYERNAME%.,这么怪的话题是你提的，该拿出真本事了：%CURRENTPLAYERNAME%，把你最棒的点子说来听听。
+english_events_pitstop:L7709,cdhopev,FIX,"Your iconic shoes, so she can learn to... walk in your shoes.","你的标志性鞋, 这样她可以学会... 穿着你的鞋走。",留下你那双标志性的鞋，让她学着……穿上你的鞋，走过你走过的路。
+english_events_pitstop:L7710,cdhopev,FIX,Never trust anyone to be as cool as you... not even future you! Write a comprehensive style-book on the Hope brand.,"永远不要相信任何人 像你一样酷... 甚至没有未来你! 在""希望""品牌上写出全面的风格手册.",别指望谁都能跟你一样酷……哪怕是未来的你！给“希望女巫”这个品牌，写一份详尽的风格手册。
+english_events_pitstop:L7711,cdhopev,FIX,A bag of fortune cookies with mysterious nonsensical fortunes... just to fuck with her.,一袋幸运饼干 有神秘的无意识的财富... 只是想他妈的她。,留一袋幸运饼干，签语写得神神秘秘、莫名其妙……就为了耍耍她。
+english_events_pitstop:L7713,cdhopev,KEEP,Wow...,哗...,哗...
+english_events_pitstop:L7714,cdhopev,FIX,That's like... super corny.,这就像... 超级古老。,这也……太老土了。
+english_events_pitstop:L7715,cdhopev,FIX,Which is a good thing?,哪个是好事?,所以，是好事？
+english_events_pitstop:L7716,cdhopev,KEEP,Nah.,没有。,没有。
+english_events_pitstop:L7717,cdhopev,FIX,Aside from the fact that it's a cheesy-AF motivational quote...,"除此外,这是一首俗取-AF动机的引文. .",先不说，这句励志名言他妈的俗到家了……
+english_events_pitstop:L7718,cdhopev,FIX,"...the ""metaphor"" doesn't even hold.","...""美塔克""甚至无法维持。",……就连这个“比喻”，也根本说不通。
+english_events_pitstop:L7719,cdhopev,POLISH,"Like, as charming as it sounds (which isn't much anyway), it actually means nothing.","就像,虽然听起来很迷人(反正也没什么大不了的),但实际上毫无意义。",就算它听着挺动人——其实也没多动人——也根本没什么实际意义。
+english_events_pitstop:L7720,cdhopev,POLISH,I am effectively just leaving her some shoes.,我只是给她留了几双鞋,说到底，我只是给她留了几双鞋。
+english_events_pitstop:L7721,cdhopev,FIX,"I don't know, it sounded smart in my head.","我不知道,这听起来很聪明在我的头上。",不知道啊，在我脑子里的时候，听着还挺聪明的。
+english_events_pitstop:L7722,cdhopev,POLISH,"Well, it sure didn't sound smart when it got out of your head, pal.","好吧,这听起来并不聪明 当它从你的脑子里出来,伙计。",可它一出你的脑子，就一点也不聪明了，朋友。
+english_events_pitstop:L7723,cdhopev,FIX,"But hey, you tried!","但是,嘿,你试图!",不过，嘿，至少你努力过了！
+english_events_pitstop:L7724,cdhopev,KEEP,"Here, have this.","来,拿着这个","来,拿着这个"
+english_events_pitstop:L7725,cdhopev,FIX,She puts something on your forehead and leaves into the dark of the night.,"她把东西放在你的前额上, 离开进入黑夜。",她往你额头上贴了个东西，便走进夜色里。
+english_events_pitstop:L7726,cdhopev,FIX,"When you check the thingie, it turns out to be a sticker depicting a smiling Hope saying ""you tried!""","当你检查这个东西, 发现它是一个贴纸 描绘一个微笑的希望说 ""你试过了!""",你拿下来一看，原来是张贴纸：希望女巫笑眯眯地说着“你努力过了！”
+english_events_pitstop:L7728,cdhopev,FIX,You're onto something here.,你发现什么了,你这点子有门儿。
+english_events_pitstop:L7729,cdhopev,FIX,I am indeed very cool... maybe so cool that not even future me can match my coolness.,"我确实很酷... 可能太酷了,甚至未来我都不能满足我的酷。",我确实很酷……说不定酷到连未来的我，都赶不上。
+english_events_pitstop:L7730,cdhopev,FIX,It's a craft refined over the last four lifetimes.,这是过去四生以来精炼出的一种工艺.,这可是我花了四辈子，才打磨出来的本事。
+english_events_pitstop:L7731,cdhopev,FIX,I can't risk the next Hope not taking on my coolness and having to start all over again.,我不能冒下一个希望的险 不采取我的冷静 和不得不重新开始。,我可不能冒险，让下一任希望女巫接不住我的酷劲儿，结果一切又得从头来。
+english_events_pitstop:L7732,cdhopev,FIX,"She should continue this saga of cool Hopes, starting where I left off.",她应该继续这种酷酷的希望 从我离开的地方开始,她得接着我走到的地方，继续谱写历代希望女巫的酷炫传奇。
+english_events_pitstop:L7733,cdhopev,FIX,"Yeah, it's like they say: ""on the shoulders of giants"".","是啊,就像他们说:""在巨人的肩膀上""。",是啊，就像那句话说的：“站在巨人的肩膀上”。
+english_events_pitstop:L7734,cdhopev,FIX,"Except, I guess this giant is just four Hopes, one on top of the other.","除了,我想这个巨人只是四个希望, 一个在另一个之上。",只不过，我猜这个巨人，是四个希望女巫，一个叠一个摞起来的。
+english_events_pitstop:L7735,cdhopev,POLISH,"Which, you must admit, sounds like a pretty cool giant.",你必须承认 听起来是个很酷的巨人,你得承认，这巨人听着就挺酷的。
+english_events_pitstop:L7736,cdhopev,KEEP,"It does, yes.","没错,是的。","没错,是的。"
+english_events_pitstop:L7737,cdhopev,POLISH,"Look, I know this all sounds a bit silly, but for real:","听着,我知道这听起来有点傻, 但实际上:",听着，我知道这听上去有点傻，可说真的：
+english_events_pitstop:L7738,cdhopev,POLISH,"It's frustrating to know I could die soon while fighting evil, and everything I built could suddenly turn into nothing.","令人沮丧的是,我知道在与邪恶作斗争时,我可以很快地死去,而我所建造的一切却会突然变成一无所有.",一想到自己可能很快就会在对抗邪恶时死去，辛苦建立的一切，也会突然化为乌有，真的很难受。
+english_events_pitstop:L7739,cdhopev,FIX,I made my peace with that when I joined the Coven. It is what it is.,我加入巫师团时就和他讲和了 这是它是什么。,加入女巫会的时候，我就接受这件事了。事实就是这样。
+english_events_pitstop:L7740,cdhopev,FIX,"But if I could pass the baton, so to speak...","但是,如果我能通过 警棍,所以说...",不过，如果能把接力棒传下去……
+english_events_pitstop:L7741,cdhopev,FIX,...at least it wouldn't feel like building a house of cards only for a gust of wind to blow it all away forever.,...至少它不会觉得 仅仅为了一阵风来盖一栋牌楼 来永远把它吹走。,……至少就不会像用纸牌搭了间房，结果一阵风吹来，就永远什么都不剩了。
+english_events_pitstop:L7742,cdhopev,POLISH,"Yeah, I get it. I think we all want to leave this Earth feeling like we left something behind.","对,我懂了 我想我们都想离开这个地球 就像我们留下了东西一样",嗯，我明白。我想，我们都希望离开这个世界时，觉得自己曾留下过什么。
+english_events_pitstop:L7743,cdhopev,FIX,"Yes, like a style-book on the Hope brand.","是的,就像一本关于""希望""品牌的风格书",对，比如一本“希望女巫”品牌风格手册。
+english_events_pitstop:L7744,cdhopev,FIX,Goddess forbid the next Hope even consider wearing something that's not black or black-adjacent.,"女神禁止下一个""希望""甚至考虑穿一件不是黑色或黑色相邻的东西.",女神保佑，可千万别让下一任希望女巫，动起穿黑色、近黑色以外衣服的念头。
+english_events_pitstop:L7745,cdhopev,FIX,The horror!,恐怖! 恐惧! 恐怖!,那可太可怕了！
+english_events_pitstop:L7746,cdhopev,KEEP,Right?,对吧?,对吧?
+english_events_pitstop:L7747,cdhopev,FIX,You spend the night writing a first draft of the style-book. It's a bonding experience that teaches you what Hope holds most dear about her own identity.,你整晚都在写一本风格书的初稿 这是一种亲身经历 教会你希望最珍惜的 关于她自己的身份。,这一晚，你们一起写下了风格手册的初稿。你们的关系更近了，你也了解了希望女巫最珍视的、自己身上的那些特质。
+english_events_pitstop:L7749,cdhopev,KEEP,...Why?,为什么?,为什么?
+english_events_pitstop:L7750,cdhopev,KEEP,It'd be fun!,会很有趣的!,会很有趣的!
+english_events_pitstop:L7751,cdhopev,FIX,Except it wouldn't?,除了它不会吗?,可一点也不好玩啊？
+english_events_pitstop:L7752,cdhopev,KEEP,"Also, what's the point at all?","还有,有什么意义呢?","还有,有什么意义呢?"
+english_events_pitstop:L7753,cdhopev,POLISH,I want to leave some legacy to help future me...,我想留下一些遗产 来帮助未来我...,我想留点东西，帮帮未来的自己……
+english_events_pitstop:L7754,cdhopev,FIX,...not some random fortunes to prank her.,...不是随便找点钱来骗她,……不是留几条莫名其妙的签语，恶作剧整她。
+english_events_pitstop:L7755,cdhopev,FIX,"One could say ""beware of that which is blue"".","人们可以说""注意蓝色的""",比如有一条可以写：“当心一切蓝色之物。”
+english_events_pitstop:L7756,cdhopev,POLISH,"She wouldn't know what the fuck this ""blue danger"" is, and she'd get frightened by all things blue!","她不会知道这他妈的什么是""蓝色危险"", 她会因为一切被蓝色所吓倒!",她哪知道这“蓝色危险”他妈的是什么，就会被所有蓝色的东西吓到！
+english_events_pitstop:L7757,cdhopev,KEEP,...,...,...
+english_events_pitstop:L7758,cdhopev,FIX,"Oh, and another one could say ""NEVER VISIT FRANCE"".","哦,还有一个可以说 ""NEVERVISIT FRANCE""。",哦，另一条可以写：“绝对别去法国。”
+english_events_pitstop:L7759,cdhopev,POLISH,"And she would be all like, ""but why?"", and maybe she was planning a trip to France, but then she wouldn't be so sure about it.","她会想,“为什么呢?” 也许她计划去法国, 但是她不会这么确定。",她肯定会想：“可为什么啊？”说不定本来正计划去法国，这下就拿不准主意了。
+english_events_pitstop:L7760,cdhopev,FIX,"Believe me, %CURRENTPLAYERNAME%, all of this is way less funny than you think.","相信我,%CURRENTPLAYERNAME%, 所有这一切 比你想象的有趣。",相信我，%CURRENTPLAYERNAME%，这事远没有你想的那么好笑。
+english_events_pitstop:L7761,cdhopev,POLISH,It's just dumb... and a bit annoying when I'm a fortune teller myself.,这太蠢了... 有点烦 当我自己是算命的。,就是蠢……而且我自己就是预言师，听着还有点烦。
+english_events_pitstop:L7762,cdhopev,POLISH,"Oh, right. Then I guess the prank wouldn't work.","哦,没错。 那我猜恶作剧是行不通的",哦，对。那这恶作剧大概也骗不了她。
+english_events_pitstop:L7763,cdhopev,KEEP,"It wouldn't, no.","不会的,不会的。","不会的,不会的。"
+english_events_pitstop:L7764,cdhopev,FIX,And... wait... I am having a vision of the future.,还有... 单单... 我对未来有远见。,还有……等等……我看到未来的景象了。
+english_events_pitstop:L7765,cdhopev,FIX,It's me... and I'm at risk... if I stay here any longer... I'm in danger... of listening to more of your dumb ideas.,是我... 我... 我... 我... 我... 我... 我身处险境... 如果我再呆在这里... 我有危险... 倾听你更多愚蠢的想法。,是我……我有危险……要是再待下去……我就有可能……听到你更多的蠢主意。
+english_events_pitstop:L7766,cdhopev,POLISH,"Dang, %CURRENTPLAYERNAME%... I can't take that risk. I'm sure you understand.","该死 %CURRENTPLAYERNAME%... 我不能冒这个险。 我敢肯定,你明白这一点。",唉，%CURRENTPLAYERNAME%……这个险我可冒不起。我相信你能理解。
+english_events_pitstop:L7767,cdhopev,KEEP,Bye.,再见。,再见。
+english_events_pitstop:L7768,cdhopev,KEEP,She leaves into the dark of the night.,她走入了黑暗的夜晚。,她走入了黑暗的夜晚。
+english_events_pitstop:L7769,cdhopev,FIX,"She was probably not wrong, as you had a couple more ideas for what the fortune cookies could say.","她可能没说错,因为你对幸运饼干有什么想法。",她大概没说错，毕竟你还想了好几条，能写进幸运饼干里的签语。

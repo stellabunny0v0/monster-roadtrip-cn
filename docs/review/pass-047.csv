@@ -1,0 +1,57 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_pitstop:L5459,clamb4,FIX,Doctrine,理论,教义
+english_events_pitstop:L5461,clamb4,FIX,"Ah, yeah, being an all-powerful cult leader isn't all fun and games and murder!","啊,是的,作为一个全能的邪教领袖 不是所有的乐趣和游戏和谋杀!",啊，对。当个无所不能的邪教教主，可不只是吃喝玩乐、杀杀人！
+english_events_pitstop:L5462,clamb4,KEEP,"Sometimes, I have to use my brain.","有时候,我必须用我的大脑。","有时候,我必须用我的大脑。"
+english_events_pitstop:L5463,clamb4,POLISH,"I can only imagine, with so many followers looking up to you.","我只能想象, 这么多的追随者 仰望着你。",想也知道，毕竟有那么多信徒指望着你。
+english_events_pitstop:L5464,clamb4,FIX,"Totally! They kneel before me and go: ""O almighty Lamb, enlighten us with your timeless wisdom"".",绝对! 他们跪在我面前说:万能的羔羊啊!你应当以你的智慧启示我们。,可不是！他们跪在我面前，说：“哦，万能的羔羊，请用您永恒的智慧启迪我们。”
+english_events_pitstop:L5465,clamb4,FIX,"Way to put me on the spot, guys!","如何把我放在现场,伙计们!",伙计们，这不是把我架上去了吗！
+english_events_pitstop:L5466,clamb4,FIX,That's why I have these tablets.,这就是为什么我有这些平板电脑。,所以，我才带着这些石板。
+english_events_pitstop:L5467,clamb4,POLISH,"Huh, yeah, I was actually curious about them. How do they work exactly?","嗯,是的,其实我很好奇他们。 他们到底怎么工作的?",哦，对，我还真挺好奇的。这些石板具体怎么用？
+english_events_pitstop:L5468,clamb4,FIX,"Well, I carry them around and write my doctrines there when I'm in a thinky mood.","好吧,我带着它们到处走, 写我的理论在那里 当我有思想的心情。",我随身带着它们，哪天想动动脑筋，就往上面写教义。
+english_events_pitstop:L5469,clamb4,FIX,My guys will do ANYTHING these tablets tell them to do!,我的人会做任何事情 这些平板上让他们做的!,只要是石板上写的，我的信徒什么都肯干！
+english_events_pitstop:L5470,clamb4,KEEP,Really?,真的吗?,真的吗?
+english_events_pitstop:L5471,clamb4,KEEP,"Yeah! Like, one time I came back from an adventure and everyone was starving!",对! 有一次我从一次冒险中回来 大家都在挨饿!,对! 有一次我从一次冒险中回来 大家都在挨饿!
+english_events_pitstop:L5472,clamb4,FIX,"They're all like, ""Bwaaa, we're hungry! If you're so all-powerful, why don't you make us a delicious fish bowl? We're tired of eating grass!""","他们都说:""布瓦阿,我们饿了! 如果你这么全能,为什么不给我们做个美味的鱼碗呢? 我们厌倦吃草了!""",他们一个劲地说：“呜呜，我们饿了！你不是无所不能吗，怎么不给我们做碗好吃的鱼？我们都吃腻草了！”
+english_events_pitstop:L5473,clamb4,POLISH,"Everyone is a food critic these days, amirite?",现在每个人都是食品评论家吗?,现在人人都是美食评论家，是吧？
+english_events_pitstop:L5474,clamb4,FIX,"Yup. So I go over to the temple, I declare a 3-day ritual fast, and BOOM! Suddenly everybody's happy as a clam!","对 所以我去庙会,我宣布一个3天的仪式快,还有BOOM! 突然间大家都像只蛤蛤一样快乐!",就是啊。于是，我走进神殿，宣布举行三天斋戒仪式。嘿，立竿见影！大家立刻都开心得不得了！
+english_events_pitstop:L5475,clamb4,KEEP,Wow!,哗!,哗!
+english_events_pitstop:L5476,clamb4,POLISH,"Well, not everybody. There was this follower who was plotting to murder me.","嗯,不是每个人。 有个追随者想谋杀我",好吧，也不是所有人。有个信徒居然在策划谋杀我。
+english_events_pitstop:L5477,clamb4,POLISH,"I'm blessing him every day, and there he is, spouting hatred... through a megaphone! Like... really?","我每天都在祝福他,而他在那里, 喷出仇恨... 通过扩音器! 喜欢... 真的吗?",我每天都祝福他，他却在那里宣扬仇恨……还用上了扩音器！不是，至于吗？
+english_events_pitstop:L5478,clamb4,FIX,Rude!,鲁德!,真没礼貌！
+english_events_pitstop:L5479,clamb4,FIX,"And then it hits me: of course, the tablets!","然后它打我: 当然,平板电脑!",然后，我灵光一闪：对啊，石板！
+english_events_pitstop:L5480,clamb4,FIX,"I get one of them and I write ""Sacrificing a follower is A-OK"".","我得到了其中之一,我写""牺牲一个追随者是A -OK""。",我拿过一块，写上“献祭信徒完全没问题”。
+english_events_pitstop:L5481,clamb4,FIX,Then I grab my knife and RIP! SLASH! SPLATTER!,"然后,我拿起我的刀 和RIP! SLASH(英语:SLSH)! 开枪!",再抓起刀，撕啦！唰！血花四溅！
+english_events_pitstop:L5482,clamb4,KEEP,...,...,...
+english_events_pitstop:L5483,clamb4,FIX,The sounds are meant to be murder sounds. I murdered him.,这些声音是谋杀的声音。 我杀了他。,这些是杀人时的声音。意思就是，我把他杀了。
+english_events_pitstop:L5484,clamb4,POLISH,"Yeah, I got that. Dang, you play hard, don't you?","是的,我得到了这一点。 该死,你玩得挺硬的,不是吗?",嗯，这我听懂了。天哪，你是真下狠手啊？
+english_events_pitstop:L5485,clamb4,FIX,You betcha! And with these tablets I also play smart! No more traitors and the followers had no issue with it since it was all within the doctrines.,"当然了! 用这些平板电脑,我也会玩聪明的! 不再有叛徒和追随者对它有任何异议,因为这一切都属于理论范畴。",那当然！有这些石板，我还能用巧招！叛徒没了，其他信徒也没意见，毕竟一切都符合教义嘛。
+english_events_pitstop:L5486,clamb4,FIX,"Ah, if only I could use the tablets to teach my followers how to cook...","啊,如果我能用平板电脑 教我的追随者如何烹饪...",唉，要是还能用石板教会信徒做饭就好了……
+english_events_pitstop:L5487,clamb4,FIX,I guess there're miracles even the Lamb can't perform!,我猜有奇迹 即使是羔羊也不能表演!,看来，有些奇迹连羔羊也办不到！
+english_events_pitstop:L5488,clamb4,FIX,"Oh, whatever! I can just tell them to eat each other! Hehe!","哦,随便啦! 我可以叫他们互相吃东西! 热!",哦，无所谓！我直接让他们互相吃掉就行了！嘿嘿！
+english_events_pitstop:L5489,clamb4,POLISH,You spend the rest of the night learning about the Cult's doctrine. You hope the Lamb doesn't resort to cannibalism just yet: it'd be nice to visit and not be part of the menu.,"你彻夜学习邪教的教义 你希望羔羊不要采取吃人的做法, 只是:这是很好的参观,而不是成为菜单的一部分。",接下来的时间，你一直在了解邪教的教义。你希望羔羊暂时还别搞同类相食：能去做客，又不用成为菜单上的菜，就挺好的。
+english_events_pitstop:L5498,clamb5,FIX,Death,死亡情况,死亡
+english_events_pitstop:L5500,clamb5,FIX,"You want to talk about death? That's heavy, %CURRENTPLAYERNAME%!","你想谈论死亡吗? 这很重, %CURRENTPLAYERNAME%!",你想聊死亡？这话题可够沉重的，%CURRENTPLAYERNAME%！
+english_events_pitstop:L5501,clamb5,FIX,You can say I'm not your standard conversationalist!,你可以说我不是你的标准对话家!,可以说，我不是那种按常理聊天的人！
+english_events_pitstop:L5502,clamb5,KEEP,(Some say it's part of my charm.),(有人说这是我魅力的一部分),(有人说这是我魅力的一部分)
+english_events_pitstop:L5503,clamb5,FIX,Fair!,公平点!,有道理！
+english_events_pitstop:L5504,clamb5,FIX,"I know a thing or two about death: I've been sacrificed, bled out, mangled, eaten, burnt to a crisp, crushed by a giant frog tongue...","我知道一两件事 关于死亡: 我牺牲了,流血出血, 被干燥,被吃,被烧成焦土,被一个巨大的青蛙舌头压碎... ...",对死亡，我多少懂一点：被献祭、失血而死、被撕得稀烂、被吃掉、烧成焦炭、被巨蛙的舌头压碎……
+english_events_pitstop:L5505,clamb5,KEEP,Ouch.,哎哟。,哎哟。
+english_events_pitstop:L5506,clamb5,POLISH,Ouch indeed.,"哦,确实。",确实疼。
+english_events_pitstop:L5507,clamb5,POLISH,But at least I can come back after I die. My followers don't have that luxury.,但至少我死后可以回来 我的追随者没有那种奢侈,不过，至少我死了还能回来。我的信徒可没这待遇。
+english_events_pitstop:L5508,clamb5,POLISH,"Ah, a cult member dying is never good news, my friend.","啊,一个邪教成员死了 永远不会是好消息,我的朋友。",朋友，死了个信徒，绝对不是什么好消息。
+english_events_pitstop:L5509,clamb5,FIX,"For one, seeing a corpse really kills my living followers' vibes.","首先,看到一具尸体 真正杀死了我活着的追随者的气息。",首先，看见尸体，活着的信徒就全没了兴致。
+english_events_pitstop:L5510,clamb5,FIX,"If that wasn't enough, dead people smell! Did you know?","如果还不够的话,死人会闻到的! 你知道吗?",这还不算完，死人还会臭！你知道吗？
+english_events_pitstop:L5511,clamb5,KEEP,I've noticed.,我已经注意到了。,我已经注意到了。
+english_events_pitstop:L5512,clamb5,FIX,Yeah... it was a big improvement the day I discovered you could actually bury the corpses to cover the smell.,对... 那天我发现你能够埋下尸体 以掩盖气味 这是一种很大的改进,是啊……后来我发现，把尸体埋起来就能盖住臭味，生活一下子改善了不少。
+english_events_pitstop:L5513,clamb5,KEEP,But wanna know a little trick?,但想知道一个小把戏吗?,但想知道一个小把戏吗?
+english_events_pitstop:L5514,clamb5,FIX,"If one day you don't feel like digging, you can just harvest the corpse meat and serve it as a nutritious, funky meal!",如果有一天你不想挖 就只能把尸体取出 做成有营养的美味一餐,哪天懒得挖坑，只要从尸体上取下肉，就能做出营养丰富、风味独特的一餐！
+english_events_pitstop:L5515,clamb5,POLISH,Wait... you mean you EAT your followers' remains?,单单... 你是说你吃了你的追随者的遗体?,等等……你是说，你会吃掉信徒的遗体？
+english_events_pitstop:L5516,clamb5,POLISH,"Noooo, silly, that'd be gross!","不,傻子,那太恶心了!",才不会呢，傻瓜，那多恶心啊！
+english_events_pitstop:L5517,clamb5,FIX,I have my FOLLOWERS eat their remains.,我有我的追随者 吃他们的遗体。,我会让其他信徒吃掉那些遗体。
+english_events_pitstop:L5518,clamb5,FIX,"A cult has a lot of mouths to feed, y'know!","一个邪教有很多口吃,你知道的!",邪教里可是有好多张嘴等着吃饭呢，你懂吧！
+english_events_pitstop:L5519,clamb5,KEEP,...,...,...
+english_events_pitstop:L5520,clamb5,KEEP,...,...,...
+english_events_pitstop:L5521,clamb5,KEEP,...,...,...
+english_events_pitstop:L5522,clamb5,POLISH,"Okay, I can't help but wonder now: if I happened to die, what meal would you cook with my remains?","好吧,我现在不禁要问:如果我死了,你会用我的遗体做哪一餐?",好吧，我现在忍不住好奇：要是我不小心死了，你会把我的遗体做成什么菜？
+english_events_pitstop:L5523,clamb5,FIX,"Oh, %CURRENTPLAYERNAME%, you truly aren't your everyday standard conversationalist!","哦,%CURRENTPLAYERNAME%, 你真的不是你的日常标准谈话家!",哦，%CURRENTPLAYERNAME%，你这聊天方式，确实太不一般了！
+english_events_pitstop:L5524,clamb5,POLISH,You two spend the rest of the night discussing potential recipes for your corpse in the event you died. You will call your lawyer next week to add it to your will.,你们俩过夜 讨论你尸体的潜在食谱 以防你死 你下周会打电话给你的律师 加入你的遗嘱,接下来的时间，你们一直在讨论，万一你死了，可以拿你的尸体做哪些菜。下周，你就要打电话给律师，把这些加进遗嘱。

@@ -1,0 +1,549 @@
+{
+  "version": 1,
+  "source": "用户提供的 Monster Prom 本地安装文本；非整个系列官方术语认证",
+  "priority": "用户新指示 > 本表的系列沿用决定 > 旧项目同名词条；英文决定语义，技术字段保持原样",
+  "entries": [
+    {
+      "en": "Polly",
+      "zh": "波莉",
+      "avoid": [
+        "波利"
+      ],
+      "evidence": [
+        "level2:976:14420"
+      ],
+      "status": "user-confirmed",
+      "note": "用户明确指定；旧作角色介绍与正文"
+    },
+    {
+      "en": "Liam",
+      "zh": "李姆",
+      "avoid": [
+        "利亚姆",
+        "李亚姆",
+        "利姆"
+      ],
+      "evidence": [
+        "level2:976:13004"
+      ],
+      "status": "user-confirmed",
+      "note": "用户明确指定；旧作角色介绍与正文"
+    },
+    {
+      "en": "Scott",
+      "zh": "斯科特",
+      "avoid": [],
+      "evidence": [
+        "level2:976:11584"
+      ],
+      "status": "source-backed-project-default",
+      "note": "旧作角色介绍"
+    },
+    {
+      "en": "Damien",
+      "zh": "德魔",
+      "avoid": [
+        "达米恩",
+        "达米安"
+      ],
+      "evidence": [
+        "level2:976:10292"
+      ],
+      "status": "source-backed-project-default",
+      "note": "旧作角色介绍与正文"
+    },
+    {
+      "en": "Vera",
+      "zh": "薇拉",
+      "avoid": [
+        "维拉",
+        "薇娜"
+      ],
+      "evidence": [
+        "level2:976:15816"
+      ],
+      "status": "user-confirmed",
+      "note": "用户明确指定薇拉，覆盖旧作正文薇娜；片尾亦见薇拉"
+    },
+    {
+      "en": "Miranda",
+      "zh": "米兰达",
+      "avoid": [],
+      "evidence": [
+        "level2:976:8968"
+      ],
+      "status": "source-backed-project-default",
+      "note": "旧作角色介绍"
+    },
+    {
+      "en": "Calculester",
+      "zh": "计算斯基",
+      "avoid": [
+        "卡库莱斯特"
+      ],
+      "evidence": [
+        "level2:976:38568"
+      ],
+      "status": "source-backed-project-default",
+      "note": "旧作角色介绍与正文"
+    },
+    {
+      "en": "Zoe",
+      "zh": "兹伊",
+      "avoid": [
+        "佐伊"
+      ],
+      "evidence": [
+        "level2:976:41148"
+      ],
+      "status": "source-backed-project-default",
+      "note": "旧作角色介绍与正文"
+    },
+    {
+      "en": "Oz",
+      "zh": "奥兹",
+      "avoid": [],
+      "evidence": [
+        "resources.assets:Prologue_Start:L10"
+      ],
+      "status": "source-backed-project-default",
+      "note": "可选主角预设姓名字段；不要匹配重量单位 oz"
+    },
+    {
+      "en": "Amira",
+      "zh": "阿米拉",
+      "avoid": [],
+      "evidence": [
+        "resources.assets:Prologue_Start:L63"
+      ],
+      "status": "source-backed-project-default",
+      "note": "可选主角预设姓名字段"
+    },
+    {
+      "en": "Brian",
+      "zh": "布赖恩",
+      "avoid": [
+        "布莱恩"
+      ],
+      "evidence": [
+        "resources.assets:Prologue_Start:L30"
+      ],
+      "status": "source-backed-project-default",
+      "note": "可选主角预设姓名字段"
+    },
+    {
+      "en": "Vicky",
+      "zh": "薇姬",
+      "avoid": [
+        "维姬"
+      ],
+      "evidence": [
+        "resources.assets:Prologue_Start:L33"
+      ],
+      "status": "source-backed-project-default",
+      "note": "可选主角预设姓名字段；不要把 Vikki 自动当作同一人"
+    },
+    {
+      "en": "Dahlia",
+      "zh": "达丽雅",
+      "avoid": [
+        "达莉娅"
+      ],
+      "evidence": [
+        "level6:2888:38370076"
+      ],
+      "status": "source-backed-project-default",
+      "note": "正文具名 NPC"
+    },
+    {
+      "en": "Aaravi",
+      "zh": "阿拉维",
+      "avoid": [
+        "阿拉薇"
+      ],
+      "evidence": [
+        "level6:2888:27440160"
+      ],
+      "status": "source-backed-project-default",
+      "note": "正文具名 NPC；与称号 Slayer 区分"
+    },
+    {
+      "en": "Valerie",
+      "zh": "瓦莱丽",
+      "avoid": [
+        "瓦勒丽"
+      ],
+      "evidence": [
+        "level6:3368:20448"
+      ],
+      "status": "source-backed-project-default",
+      "note": "物品名与正文；片尾瓦勒丽不作为首选"
+    },
+    {
+      "en": "Joy",
+      "zh": "乔伊",
+      "avoid": [
+        "欢愉女巫",
+        "卓伊"
+      ],
+      "evidence": [
+        "level6:2888:34402288"
+      ],
+      "status": "user-confirmed",
+      "note": "用户明确指定 Joy 人名统一为乔伊，覆盖旧作欢愉女巫；普通 joy 仍按语境翻译。"
+    },
+    {
+      "en": "Hope",
+      "zh": "希望女巫",
+      "avoid": [
+        "霍普"
+      ],
+      "evidence": [
+        "level6:2888:34604676"
+      ],
+      "status": "source-backed-project-default",
+      "note": "人物专名；普通 hope 不是人名"
+    },
+    {
+      "en": "Faith",
+      "zh": "信念女巫",
+      "avoid": [
+        "费丝"
+      ],
+      "evidence": [
+        "level6:2888:26124284"
+      ],
+      "status": "source-backed-project-default",
+      "note": "人物专名；普通 faith 不是人名"
+    },
+    {
+      "en": "Evil Faith",
+      "zh": "邪恶信念女巫",
+      "avoid": [
+        "邪恶费丝"
+      ],
+      "evidence": [
+        "level6:2888:34953348"
+      ],
+      "status": "source-backed-project-default",
+      "note": "人物变体；长名称优先匹配"
+    },
+    {
+      "en": "Coach",
+      "zh": "教练",
+      "avoid": [],
+      "evidence": [
+        "level6:2888:27162324"
+      ],
+      "status": "source-backed-project-default",
+      "note": "角色称号；普通 coach 依语境"
+    },
+    {
+      "en": "Leonard",
+      "zh": "莱纳德",
+      "avoid": [
+        "伦纳德"
+      ],
+      "evidence": [
+        "level6:2888:30619028"
+      ],
+      "status": "source-backed-project-default",
+      "note": "正文具名 NPC"
+    },
+    {
+      "en": "Dmitri",
+      "zh": "迪米特里",
+      "avoid": [],
+      "evidence": [
+        "level6:2888:29687536"
+      ],
+      "status": "source-backed-project-default",
+      "note": "正文具名 NPC"
+    },
+    {
+      "en": "Juan",
+      "zh": "胡安",
+      "avoid": [],
+      "evidence": [
+        "level6:2888:287812"
+      ],
+      "status": "source-backed-project-default",
+      "note": "拉美魔法小猫"
+    },
+    {
+      "en": "Bellanda",
+      "zh": "贝兰达",
+      "avoid": [],
+      "evidence": [
+        "level6:2888:35223368"
+      ],
+      "status": "source-backed-project-default",
+      "note": "正文具名 NPC"
+    },
+    {
+      "en": "Salil",
+      "zh": "萨利尔",
+      "avoid": [],
+      "evidence": [
+        "level6:2888:14367860"
+      ],
+      "status": "source-backed-project-default",
+      "note": "正文具名 NPC"
+    },
+    {
+      "en": "Blobert",
+      "zh": "泡泡",
+      "avoid": [
+        "泡伯特"
+      ],
+      "evidence": [
+        "level6:2888:23958016"
+      ],
+      "status": "source-backed-project-default",
+      "note": "正文称名；泡泡一词本身也可能是普通名词"
+    },
+    {
+      "en": "Wolfpack",
+      "zh": "狼队",
+      "avoid": [
+        "狼群"
+      ],
+      "evidence": [
+        "level6:2888:15025676"
+      ],
+      "status": "source-backed-project-default",
+      "note": "特指该组合；正文狼队 67 条、狼群 9 条；不替换普通狼群"
+    },
+    {
+      "en": "Interdimensional Prince",
+      "zh": "跨次元王子",
+      "avoid": [
+        "异次元王子"
+      ],
+      "evidence": [
+        "level6:2888:15627740"
+      ],
+      "status": "source-backed-project-default",
+      "note": "正文跨次元王子 49 条、异次元王子 8 条"
+    },
+    {
+      "en": "Slayer",
+      "zh": "屠戮者",
+      "avoid": [
+        "杀手"
+      ],
+      "evidence": [
+        "level6:2888:14349132"
+      ],
+      "status": "source-backed-project-default",
+      "note": "角色称号；不能把一般 killer 或 slayer 全替换"
+    },
+    {
+      "en": "Mr. Pheel the Eel",
+      "zh": "鳗鱼菲尔先生",
+      "avoid": [
+        "鳗鱼先生菲尔"
+      ],
+      "evidence": [
+        "level6:2888:24304216"
+      ],
+      "status": "source-backed-project-default",
+      "note": "完整称呼"
+    },
+    {
+      "en": "Violet",
+      "zh": "维奥莱",
+      "avoid": [],
+      "evidence": [
+        "level6:2888:27704720"
+      ],
+      "status": "source-backed-project-default",
+      "note": "人物专名；非颜色或花名"
+    },
+    {
+      "en": "Tate",
+      "zh": "泰特",
+      "avoid": [],
+      "evidence": [
+        "level6:2888:36158200"
+      ],
+      "status": "source-backed-project-default",
+      "note": "正文具名 NPC"
+    },
+    {
+      "en": "Norah",
+      "zh": "诺拉",
+      "avoid": [],
+      "evidence": [
+        "level6:2888:33716520"
+      ],
+      "status": "source-backed-project-default",
+      "note": "正文具名 NPC"
+    },
+    {
+      "en": "Miri",
+      "zh": "小米",
+      "avoid": [
+        "阿米"
+      ],
+      "evidence": [
+        "level6:2888:3137044"
+      ],
+      "status": "source-backed-project-default",
+      "note": "Miranda 昵称；仅原文使用昵称时沿用"
+    },
+    {
+      "en": "Spooky High",
+      "zh": "魔物学园",
+      "avoid": [
+        "惊悚高中",
+        "惊悚学院"
+      ],
+      "evidence": [
+        "level6:2888:14813896"
+      ],
+      "status": "source-backed-project-default",
+      "note": "学校专名；Spooky High School 同名"
+    },
+    {
+      "en": "Spooky High School",
+      "zh": "魔物学园",
+      "avoid": [
+        "惊悚高中",
+        "惊悚学院"
+      ],
+      "evidence": [
+        "level2:976:1284"
+      ],
+      "status": "source-backed-project-default",
+      "note": "学校全称"
+    },
+    {
+      "en": "Coven",
+      "zh": "女巫会",
+      "avoid": [
+        "女巫团"
+      ],
+      "evidence": [
+        "level6:2888:30795664"
+      ],
+      "status": "source-backed-project-default",
+      "note": "特指该角色团体；普通 coven 依语境"
+    },
+    {
+      "en": "Merkingdom",
+      "zh": "人鱼王国",
+      "avoid": [],
+      "evidence": [
+        "level6:2888:24701280"
+      ],
+      "status": "source-backed-project-default",
+      "note": "世界观专名"
+    },
+    {
+      "en": "Airpeople",
+      "zh": "羽族",
+      "avoid": [],
+      "evidence": [
+        "level6:2888:35527952"
+      ],
+      "status": "source-backed-project-default",
+      "note": "世界观专名；勿继承个别句子的飞行员误译"
+    },
+    {
+      "en": "Prank Masterz",
+      "zh": "恶作剧大师",
+      "avoid": [
+        "恶作剧达人"
+      ],
+      "evidence": [
+        "level6:2888:15081564"
+      ],
+      "status": "source-backed-project-default",
+      "note": "旧作两译接近；为本项目选择大师统一，非声称旧作唯一用法"
+    },
+    {
+      "en": "Polly Geist",
+      "zh": "波莉·鬼斯特",
+      "avoid": [],
+      "evidence": [
+        "level2:976:14420"
+      ],
+      "status": "source-backed-project-default",
+      "note": "全名按旧作；不要自行补姓，短称仍用短称"
+    },
+    {
+      "en": "Liam de Lioncourt",
+      "zh": "李姆·堂·莱昂卡特",
+      "avoid": [],
+      "evidence": [
+        "level2:976:13004"
+      ],
+      "status": "source-backed-project-default",
+      "note": "全名按旧作；不要自行补姓，短称仍用短称"
+    },
+    {
+      "en": "Scott Howl",
+      "zh": "斯科特·嚎尔",
+      "avoid": [],
+      "evidence": [
+        "level2:976:11584"
+      ],
+      "status": "source-backed-project-default",
+      "note": "全名按旧作；不要自行补姓，短称仍用短称"
+    },
+    {
+      "en": "Damien LaVey",
+      "zh": "德魔·拉维",
+      "avoid": [],
+      "evidence": [
+        "level2:976:10292"
+      ],
+      "status": "source-backed-project-default",
+      "note": "全名按旧作；不要自行补姓，短称仍用短称"
+    },
+    {
+      "en": "Vera Oberlin",
+      "zh": "薇拉·奥伯林",
+      "avoid": [],
+      "evidence": [
+        "level2:976:15816"
+      ],
+      "status": "user-name-plus-source-surname",
+      "note": "名按用户指定、姓沿用旧作"
+    },
+    {
+      "en": "Miranda Vanderbilt",
+      "zh": "米兰达·范德比尔特",
+      "avoid": [],
+      "evidence": [
+        "level2:976:8968"
+      ],
+      "status": "source-backed-project-default",
+      "note": "全名按旧作；不要自行补姓，短称仍用短称"
+    },
+    {
+      "en": "Calculester Hewlett-Packard",
+      "zh": "计算斯基·休莱特-派克德",
+      "avoid": [],
+      "evidence": [
+        "level2:976:38568"
+      ],
+      "status": "source-backed-project-default",
+      "note": "全名按旧作；不要自行补姓，短称仍用短称"
+    }
+  ],
+  "not_verified_in_old_game": [
+    "Milo",
+    "Moss",
+    "Moss Mann",
+    "Finn",
+    "Adrien",
+    "Noodles",
+    "Hex",
+    "Summer",
+    "Macarena",
+    "Cheese",
+    "Batniss"
+  ]
+}

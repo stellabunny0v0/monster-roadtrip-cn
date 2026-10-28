@@ -1,0 +1,88 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_maingame:L22065,tarottournament_stage1,FIX,You stop the car when you see none other than Hope waiting on the side of the road!,你看见只有希望在路边等着你 就停车!,看见路边等车的竟然是希望女巫，你们停下了车！
+english_events_maingame:L22067,tarottournament_stage1,FIX,"Hoooope! Where you goin', gurl?","呜呼! 你要去哪里,Gurl? ! 你要去哪里,Gurl?",希望女巫——！姐妹，上哪儿去？
+english_events_maingame:L22068,tarottournament_stage1,POLISH,"Oh, it's you. Hey.","哦,这是你。 顿",哦，是你们啊。嗨。
+english_events_maingame:L22069,tarottournament_stage1,POLISH,"I'm en route to the City of Vice to enter the annual world ""Competitive Tarot Championship"".","前往副市参加""竞技塔罗牌""年度世界赛.",我要去罪恶之城，参加一年一度的世界竞技塔罗锦标赛。
+english_events_maingame:L22070,tarottournament_stage1,POLISH,We might be going to the City of Vice too! Wanna join us?,我们可能也要去副城了! 要不要加入我们?,我们可能也去罪恶之城！要不要一起？
+english_events_maingame:L22071,tarottournament_stage1,POLISH,"No, it's okay, I'm already waiting for my Oober. You can help me in a different way, though...","不,没关系,我已经在等我的Oober了。 你可以用不同的方式帮助我,虽然...",不用，没事，我已经在等 Oober 了。不过，你们倒是可以帮点别的忙……
+english_events_maingame:L22072,tarottournament_stage1,POLISH,She throws a deck of cards to you.,她给你扔了一副牌,她把一副牌抛给你。
+english_events_maingame:L22073,tarottournament_stage1,FIX,"Wanna spar with me, %CURRENTPLAYERNAME%?","想要和我做爱, %CURRENTPLAYERNAME%?",%CURRENTPLAYERNAME%，陪我切磋一局？
+english_events_maingame:L22074,tarottournament_stage1,FIX,GAME ON!,继续比赛!,来战！
+english_events_maingame:L22075,tarottournament_stage1,POLISH,But... how are you supposed to play competitive tarot?,不过... 你怎么玩有竞争力的塔罗牌?,可……竞技塔罗怎么玩啊？
+english_events_maingame:L22076,tarottournament_stage1,FIX,By being... VERY ANIME.,被... 被... 非常的爱。,玩得……特别热血动漫就行。
+english_events_maingame:L22077,tarottournament_stage1,FIX,The ground below you starts moving. A strange structure rises from the dirt. You and Hope stand on opposing platforms across a sort of battlefield.,地下起动. 出自出土的奇特结构. 你和希望站在对立的平台上 越过战场,脚下的地面开始移动，一座奇异的装置破土升起。你和希望女巫各站一座平台，隔着像是战场的地方遥遥相对。
+english_events_maingame:L22079,tarottournament_stage1,FIX,"Polly, Scott: you'll be the info-dumping side characters.","波莉, 斯科特:你会成为信息倾销的侧面角色.",波莉，斯科特：你们负责当解说设定的配角。
+english_events_maingame:L22081,tarottournament_stage1,POLISH,"What does that mean, Polly?","这是什么意思, 波莉?",波莉，什么意思？
+english_events_maingame:L22082,tarottournament_stage1,FIX,I'm guessing it means the action will occasionally cut to us commenting on the match and providing useful information about this very complicated card game.,我猜这意味着 动作偶尔会减少我们评论比赛 并提供这个非常复杂的牌局的有用信息,我猜，就是镜头偶尔会切到咱们这边，听我们点评战况，顺便解释这款复杂得要命的卡牌游戏怎么玩。
+english_events_maingame:L22083,tarottournament_stage1,FIX,Holy moly!,神圣的莫利! 神圣的莫利!,我的天！
+english_events_maingame:L22084,tarottournament_stage1,FIX,Your hand starts glowing as you hold the deck of cards.,手在握牌时会发光,你握着牌组，手忽然开始发光。
+english_events_maingame:L22086,tarottournament_stage1,POLISH,"%CURRENTPLAYERNAME%, now those cards are bound to you: their effectiveness will depend directly on the nature of your spirit!","%CURRENTPLAYERNAME%,现在,这些牌被捆绑在你身上:它们的效力将直接取决于你精神的性质!",%CURRENTPLAYERNAME%，这些牌已经与你绑定，能发挥多大威力，直接取决于你的精神特质！
+english_events_maingame:L22088,tarottournament_stage1,FIX,"So it's like %CURRENTPLAYERNAME%'s spirit is divided into different aspects, kinda like stats... or RESOURCES!","所以,它就像%CURRENTPLAYERNAME%的精神 被分为不同的方面, 有点像统计... 资源!",所以，%CURRENTPLAYERNAME%的精神分成了不同方面，有点像属性……或者说，资源！
+english_events_maingame:L22089,tarottournament_stage1,REVIEW,I see... %HESHE% only %VERB_NEEDS_NEED% to use cards that play into a strong aspect of %HISHER% spirit... %HESHE% must be true to %HIMSELFHERSELF%!,原来如此...  %HESHE% 仅限 %VERB_NEEDS_NEED% 使用打入强度的牌 %HISHER% 灵魂...  %HESHE% 必须是真实的 %HIMSELFHERSELF%!,明白了……%HESHE%只%VERB_NEEDS_NEED%打出符合%HISHER%精神强项的牌……%HESHE%必须忠于%HIMSELFHERSELF%！
+english_events_maingame:L22091,tarottournament_stage1,FIX,That's right! And the first phase of competitive tarot is... THE ASTRAL INFLUENCE PHASE.,没错! 第一阶段的塔罗牌竞争是... 戏剧性电影。,没错！竞技塔罗的第一阶段，就是……星体影响阶段！
+english_events_maingame:L22093,tarottournament_stage1,FIX,THE ASTRAL INFLUENCE PHASE?!,戏剧性电影片?,星体影响阶段？！
+english_events_maingame:L22095,tarottournament_stage1,POLISH,We each choose a celestial body that will grant us its favor and boons.,我们各自选择一个天体 给我们带来好处和好处,双方各选一个天体，获得它的眷顾和赐福。
+english_events_maingame:L22096,tarottournament_stage1,FIX,Good luck defeating me when I'm supported by... THE MOON!,祝你在支持我的时候打败我 月球! 月球! 月球! 月球! 月球! 月球! 月球!,想打赢我？先过我背后的……月亮这一关吧！
+english_events_maingame:L22099,tarottournament_stage1,POLISH,It's a mysterious Celestial Body of Many Faces.,"是一个神秘的""多面人""的""天体""(Celestal Body of Many Faces).",它是一颗神秘的千面天体。
+english_events_maingame:L22100,tarottournament_stage1,FIX,"The Moon controls the Tides and influences not only all of our fates, but the Earth's fate too, as both Celestial Bodies dance a cosmic tango of gravity.",月球控制了地盘 不仅影响我们的命运 也影响着地球的命运 天体都跳出引力的宇宙探戈,月亮掌控潮汐，影响着我们每个人，乃至地球本身的命运。两颗天体以引力为纽带，在宇宙中共舞探戈。
+english_events_maingame:L22102,tarottournament_stage1,FIX,"Oh no, not THE MOON! I've only known the rules of this game for like five full minutes, but I already know that's a very powerful card!","哦,不,不是月亮! ! 月亮! 月亮! 月亮! 月亮! 月亮! 月亮! 月亮! 月亮! 月亮! 我只有五分钟的时间才知道比赛规则 但我已经知道这牌很厉害了!",糟了，竟然是月亮！虽然我才学了整整五分钟规则，但已经知道，这张牌非常强！
+english_events_maingame:L22103,tarottournament_stage1,FIX,How will %CURRENTPLAYERNAME% outplay Hope?!,如何会 %CURRENTPLAYERNAME% 输掉希望?,%CURRENTPLAYERNAME%要怎么出招，才能胜过希望女巫？！
+english_events_maingame:L22104,tarottournament_stage1,FIX,Exactly... what's your play here?,没错... 你在这里干什么?,没错……这一手，你打算怎么下？
+english_events_maingame:L22107,tarottournament_stage1,POLISH,"MARS! The favorite celestial body of billionaires, who want to colonize it once they finish destroying Earth.","玛尔斯! 亿万富翁最喜爱的天体,他们想在完成毁灭地球后将其殖民.",火星！亿万富翁最爱的天体，等他们把地球毁完，就要去殖民那里了。
+english_events_maingame:L22108,tarottournament_stage1,FIX,"URANUS, the celestial body of... heh... you know...","乌兰斯,天体... 哦... 你知道吗...",天王星，URANUS。它掌管的嘛……嘿……你懂的……
+english_events_maingame:L22112,tarottournament_stage1,FIX,MARS?!,玛尔斯!,火星？！
+english_events_maingame:L22113,tarottournament_stage1,POLISH,That's a great investment from %CURRENTPLAYERNAME%.,这是来自%CURRENTPLAYERNAME%的巨型投资.,%CURRENTPLAYERNAME%这笔投资，眼光不错。
+english_events_maingame:L22114,tarottournament_stage1,REVIEW,"Hope's Moon can twerk at the Earth as much as it wants... Earth will be rendered inhabitable pretty soon, anyway.",希望之月可以随意向地球转动... 地球很快就会变得可以居住了,希望女巫的月亮想冲着地球怎么扭屁股都行……反正地球很快就会变得适合居住了。
+english_events_maingame:L22116,tarottournament_stage1,POLISH,What the fuck are you saying? Mars is the celestial body of war and aggression!,你他妈在说什么? 火星是战争和侵略的天体!,你们他妈在说什么？火星代表的是战争和侵略！
+english_events_maingame:L22118,tarottournament_stage1,POLISH,That is literally based on nothing but myths.,这其实是基于神话。,那全是根据神话编出来的。
+english_events_maingame:L22119,tarottournament_stage1,POLISH,Billionaires trying to colonize Mars on the other hand? That's cold hard facts.,亿万富翁试图殖民火星呢? 这是冷酷的硬事实。,可亿万富翁想殖民火星，这才是铁打的事实。
+english_events_maingame:L22120,tarottournament_stage1,FIX,Now all of %CURRENTPLAYERNAME%'s cards will be cheaper to play because Mars will soon become the next hot tax haven for all the fierce capitalists to flee to!,"现在所有%CURRENTPLAYERNAME%的牌都比较便宜了,因为火星很快会成为所有激烈的资本家逃到的下个热税地!",火星很快就会变成最热门的避税天堂，供那些凶狠的资本家逃过去！所以，%CURRENTPLAYERNAME%所有牌的出牌费用都降低了！
+english_events_maingame:L22122,tarottournament_stage1,POLISH,"That's not how the card works, you idiots!","牌不是那样的,白痴!",这牌不是这么用的，你们这群白痴！
+english_events_maingame:L22124,tarottournament_stage1,FIX,%CURRENTPLAYERNAME% doesn't give a fuck!,%CURRENTPLAYERNAME% 不给他妈的!,%CURRENTPLAYERNAME%才不在乎！
+english_events_maingame:L22125,tarottournament_stage1,FIX,"With the power of Mars, %HESHE% can form colonies with %HISHER% own dystopian private law! NEW RULES, BABYYYY!","利用火星的力量,%HESHE%可以和%HISHER% 拥有的二重力私法形成殖民地! 新规则,宝贝!",有了火星的力量，%HESHE%就能建立殖民地，按%HISHER%私家恶法统治那里的反乌托邦！新规则来啦，宝贝！
+english_events_maingame:L22126,tarottournament_stage1,POLISH,"Yeah, bro! NEW RULES! We didn't completely understand the old ones anyway!","对,兄弟! 新规则! 反正我们也不完全理解那些老的!",对，兄弟！新规则！反正旧的咱们也没完全搞懂！
+english_events_maingame:L22127,tarottournament_stage1,POLISH,"What's wrong, Hope? Are you scared?","怎么了,希望吗? 你害怕吗?",怎么，希望女巫，怕了？
+english_events_maingame:L22129,tarottournament_stage1,POLISH,Tch...,嘘...,啧……
+english_events_maingame:L22134,tarottournament_stage1,FIX,"Pfffffft, good luck playing that when you're broke AF!","普夫夫特,祝你玩得开心 当你的AF破产了!",噗，你穷成那样，还想打这张牌？做梦去吧！
+english_events_maingame:L22135,tarottournament_stage1,POLISH,You're just another doofus who thinks you're the one benefitting from predatory laws and tax cuts instead of the billonaires destroying the country and the planet.,你只是另一个傻瓜 谁认为你 受益于掠夺性法律和减税 而不是 破坏国家和地球的暴君。,又一个傻子，以为掠夺性法律和减税政策惠及的是自己，不是那帮正在毁掉国家、毁掉地球的亿万富翁。
+english_events_maingame:L22137,tarottournament_stage1,FIX,"Yeah, %CURRENTPLAYERNAME%: not a good look.",对 %CURRENTPLAYERNAME%曰:相貌不善. 师曰.,对啊，%CURRENTPLAYERNAME%，这可不怎么体面。
+english_events_maingame:L22138,tarottournament_stage1,POLISH,"I don't think you'll have a ticket to Mars when the time comes, boo...","我想你不会有去火星的机票 当时间来临,嘘...",宝贝，真到了那天，你恐怕买不到去火星的船票……
+english_events_maingame:L22140,tarottournament_stage1,POLISH,"It's true that playing Mars could benefit you if your other cards were from the right class (""High Income Class""), and if you had enough Privilege Stacks...","玩火星真的会给你带来好处 如果你的牌是属于合适的阶层(""高收入阶层""), 如果你有足够的Privilege Stacks...",你其他的牌要是职业选对了——“高收入阶层”——再叠够特权层数，打火星确实能有好处……
+english_events_maingame:L22142,tarottournament_stage1,FIX,That's not %CURRENTPLAYERNAME%. I saw %HIMHER% pay for a milkshake the other day only using ten-cent coins.,不是那样的 %CURRENTPLAYERNAME%. 我看见了 %HIMHER% 前几天只用十美分硬币付奶昔,那肯定不是%CURRENTPLAYERNAME%。前两天我亲眼看见，%HIMHER%买杯奶昔，掏的全是十美分硬币。
+english_events_maingame:L22143,tarottournament_stage1,FIX,"Yeah... with this card, your future plays will need to abide by dystopian private laws created by the wealthy that will only put you at a greater disadvantage.","对... 有了这张牌,你未来的剧情 需要遵守由富人创造的 只会使你处于更不利境地的 底特律私法。",没错……用了这张牌，之后出牌就得服从富人制定的反乌托邦私法，而这些规定只会让你越来越吃亏。
+english_events_maingame:L22144,tarottournament_stage1,FIX,"There's no winning the rat race, boo!","老鼠比赛没有赢,嘘!",宝贝，这场你追我赶的“老鼠赛跑”，根本赢不了！
+english_events_maingame:L22145,tarottournament_stage1,FIX,There's a Competitive Tarot stage where they make rats race? Cool!,有个竞争的塔罗舞厅 他们让老鼠参赛? 凉爽!,竞技塔罗还有让老鼠赛跑的阶段？酷啊！
+english_events_maingame:L22146,tarottournament_stage1,POLISH,"Scott, no...","斯科特,没有...",斯科特，不是啦……
+english_events_maingame:L22147,tarottournament_stage1,POLISH,"Your friends aren't wrong, though.",不过你的朋友们没搞错,不过，朋友们确实没说错。
+english_events_maingame:L22148,tarottournament_stage1,FIX,You spend the rest of the match trying unsuccessfully to survive in a dog-eat-dog capitalist cycle where the cards are never stacked in your favor.,你剩下的比赛都花在了 吃狗狗的资本主义周期里 却一直没有成功 连牌都压不下来,剩下的比赛，你都在弱肉强食的资本主义循环里拼命挣扎，却怎么也活不下去；这副牌，从一开始就不站在你这边。
+english_events_maingame:L22149,tarottournament_stage1,FIX,"Needless to say, Hope beats your ass. It's quite dire.","不用说,希望会打倒你的屁股。 相当惨痛",不用说，希望女巫把你揍惨了。场面相当凄凉。
+english_events_maingame:L22151,tarottournament_stage1,POLISH,"Not long after that, Hope's Oober finally arrives, and she leaves.","不久后,""希望""的""Oober""终于到来,她就离开了.",没过多久，希望女巫叫的 Oober 终于到了，她坐车离开。
+english_events_maingame:L22152,tarottournament_stage1,FIX,"You're left defeated, having lost -3 MONEY you were apparently gambling on this match.",你输了3分钱 输了这场比赛你赌了,你惨败收场，还失去了 -3 金钱——看来你们这局居然还赌了钱。
+english_events_maingame:L22156,tarottournament_stage1,FIX,URANUS?!,乌兰纳斯!,天王星 URANUS？！
+english_events_maingame:L22157,tarottournament_stage1,FIX,Uranus? Pffft....hahahaha!,天王星吗? 菲夫特... 来啊!,Uranus？噗……哈哈哈哈！
+english_events_maingame:L22158,tarottournament_stage1,POLISH,"Why is Uranus so powerful, Polly?",天王星为什么如此强大 波莉?,波莉，天王星为什么这么强？
+english_events_maingame:L22160,tarottournament_stage1,POLISH,"Uranus is known as the ""Awakener,"" since...","天王星被称为""觉醒者"",因为...",天王星被称为“觉醒者”，因为……
+english_events_maingame:L22162,tarottournament_stage1,FIX,URANUS! HAHAHAHAHA!,乌兰纳斯! 哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈!,URANUS！哈哈哈哈！
+english_events_maingame:L22164,tarottournament_stage1,FIX,...since its aspects and transits bring sudden...,...因为它的方面和转口 突然...,……因为它的相位和行运，会带来突然的……
+english_events_maingame:L22166,tarottournament_stage1,FIX,"UR-ANUS! Get it, Scott? UR-ANUS! HAHAHA!",UR -ANUS(英语:Ur -ANUS)! 来啊! 斯科特? UR -ANUS(英语:Ur -ANUS)! 哈哈! 哈哈! 哈哈! 哈哈!,UR-ANUS！斯科特，懂了没？UR-ANUS！哈哈哈！
+english_events_maingame:L22168,tarottournament_stage1,POLISH,...sudden changes and shocks.,...突然的改变和冲击,……突然的改变和冲击。
+english_events_maingame:L22170,tarottournament_stage1,FIX,"It's like ""YOUR ANUS"", you see? ""URANUS"" -- ""YOUR ANUS"", HAHAHAHA!","这就像""YOUR ANUS"",你看到了吗? ""乌拉纳斯""——""Your ANUS"",哈哈哈!",念起来像“YOUR ANUS”，就是“你的屁眼”，懂吧？“URANUS”——“YOUR ANUS”，哈哈哈哈！
+english_events_maingame:L22172,tarottournament_stage1,POLISH,"WHAT ARE YOU, FIVE?!?!","你是什么,五号!",你们几岁了，五岁吗？！？！
+english_events_maingame:L22174,tarottournament_stage1,FIX,"Ohhhhhhhhhh, I get it now! It's very funny!","哦,我明白了! 现在! 痷琌!",哦——懂了！确实很好笑！
+english_events_maingame:L22175,tarottournament_stage1,FIX,"Why'd %CURRENTPLAYERNAME% play URANUS, Hope? Did %HESHE% steal it when you weren't looking? Hahahaha!","为什么 %CURRENTPLAYERNAME% 玩URANUS,希望吗? 已经 %HESHE% 偷的时候你不看? 哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈!",希望女巫，%CURRENTPLAYERNAME%干吗要出“你的屁眼”？是%HESHE%趁你没看见，偷来的吗？哈哈哈哈！
+english_events_maingame:L22177,tarottournament_stage1,POLISH,Goddammit...,该死的...,妈的……
+english_events_maingame:L22179,tarottournament_stage1,FIX,"What's wrong, Hope? Are you scared that you now must face URANUS?! HAHAHAHAHA!","怎么了,希望吗? 你害怕现在面对URANAUS吗? 哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈!",怎么了，希望女巫？现在要面对“你的屁眼”，害怕了？哈哈哈哈！
+english_events_maingame:L22181,tarottournament_stage1,POLISH,Tch...,嘘...,啧……
+english_events_maingame:L22186,tarottournament_stage1,POLISH,"...What? Uranus is a very bad card, %CURRENTPLAYERNAME%! Why would you play that?","什麽? 天王星是一张非常糟糕的牌,%CURRENTPLAYERNAME%! 你为什么要弹?",……什么？天王星是张烂牌，%CURRENTPLAYERNAME%！你为什么要出这张？
+english_events_maingame:L22187,tarottournament_stage1,FIX,You know... heehee... because... URANUS!,你知道吗... 嘿... 因为... 乌兰纳斯!,你懂的……嘿嘿……因为……URANUS 嘛！
+english_events_maingame:L22188,tarottournament_stage1,POLISH,"Because what? Did you read the card? It says it right there: ""Very bad card, do not play.""","因为什么? 你看过卡片了吗? 上面写着:""非常糟糕的牌,不要玩""",因为什么？你看牌了吗？上面明明写着：“这牌很烂，不要打。”
+english_events_maingame:L22189,tarottournament_stage1,FIX,But... but... URANUS!,不过... 不过... 乌兰纳斯!,可……可是……URANUS 啊！
+english_events_maingame:L22190,tarottournament_stage1,FIX,"""URANUS""! ""YOUR ANUS""! Pfff...","""乌拉纳斯""! ""你的屁股""! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! P...  P...",“URANUS”！“你的屁眼”！噗……
+english_events_maingame:L22191,tarottournament_stage1,POLISH,"What are you, five?","你几岁了,五岁?",你几岁了，五岁？
+english_events_maingame:L22192,tarottournament_stage1,FIX,Heeheehee... Uranus...,"熙熙... 熙熙,你好吗? 天王星...",嘿嘿嘿……Uranus……
+english_events_maingame:L22193,tarottournament_stage1,POLISH,"Well, beating someone who is essentially a five-year-old shouldn't be too hard...",殴打一个基本上5岁的孩子 应该不会太难...,行吧，打赢一个跟五岁小孩差不多的人，应该没多难……
+english_events_maingame:L22194,tarottournament_stage1,POLISH,"No, it most definitely isn't.","不,绝对不是。",嗯，当然没多难。
+english_events_maingame:L22195,tarottournament_stage1,FIX,Hope beats your ass.,愿能胜汝等诸相.,希望女巫把你揍惨了。
+english_events_maingame:L22196,tarottournament_stage1,FIX,(Or you could say she beats... you know... Uranus.),(或者你可以说她打... ) 你知道吗... 天王星 (中文(简体) ).,（或者也可以说，她揍的是……你懂的……Uranus。）
+english_events_maingame:L22198,tarottournament_stage1,POLISH,"Not long after that, Hope's Oober finally arrives, and she leaves.","不久后,""希望""的""Oober""终于到来,她就离开了.",没过多久，希望女巫叫的 Oober 终于到了，她坐车离开。
+english_events_maingame:L22199,tarottournament_stage1,FIX,"You're left defeated, having lost -3 HYPE out of being lame.",你因为瘸子而输了3个HYPE,你惨败收场，失去了 -3 热度——因为你实在太逊了。

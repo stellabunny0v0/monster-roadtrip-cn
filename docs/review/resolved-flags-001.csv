@@ -1,0 +1,29 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_bubbles:L1473,bubble_calculester1,FIX,"<IN 500 FEET, TURN RIGHT>","<IN 500 FEET, TURN RIGHT>",<前方500英尺，右转>
+english_events_bubbles:L1513,bubble_calculester6,FIX,<RETRIEVING AI_GENERATED_FUNNY_STORY_01001000_01000001>...,<RETRIEVING AI_GENERATED_FUNNY_STORY_01001000_01000001>...,<正在检索 AI生成的搞笑故事_01001000_01000001>……
+english_events_bubbles:L3096,bubble_leaving_sanctuary,FIX,[Something dumb and naively positive]!,[Something dumb and naively positive]!,[傻乎乎又天真乐观的话]！
+english_events_pitstop:L4217,ccalcommonsense,FIX,"<JOKE DETECTED, INITIATING MILD LAUGH PROTOCOL> Haha.","<JOKE DETECTED, INITIATING MILD LAUGH PROTOCOL> 哈哈。",<检测到笑话，启动轻笑协议> 哈哈。
+english_events_pitstop:L4285,ccaldriving,FIX,Driving for an AI is like... like... [INSERT COMPARISON OF SOMETHING INCREDIBLY DIFFICULT FOR MONSTERS].,对人工智能来说，开车就像……就像……[INSERT COMPARISON OF SOMETHING INCREDIBLY DIFFICULT FOR MONSTERS]。,对人工智能来说，开车就像……就像……[插入一个对怪物来说难到离谱的比喻]。
+english_events_pitstop:L6545,cdcalculesterfatherhood,FIX,<PROCESSING...>,<PROCESSING...>,<处理中……>
+english_events_pitstop:L6566,cdcalculesterfatherhood,FIX,<PROCESSING...>,<PROCESSING...>,<处理中……>
+english_events_pitstop:L6567,cdcalculesterfatherhood,FIX,<ANGST> can effectively be channeled into <ARTISTIC EXPRESSION>.,<ANGST> 能够有效引导到 <ARTISTIC EXPRESSION>.,<焦虑>可以有效地转化为<艺术表达>。
+english_events_pitstop:L6571,cdcalculesterfatherhood,FIX,"And from a practical viewpoint, it'd be optimal if <MAKING ART> becomes my AI-child's new favorite hobby, replacing <MURDERING MONSTERKIND>.",从实际角度看，若<MAKING ART>能取代<MURDERING MONSTERKIND>，成为我AI孩子最喜欢的爱好，就再理想不过了。,从实际角度看，若<艺术创作>能取代<屠杀怪物族群>，成为我AI孩子最喜欢的爱好，就再理想不过了。
+english_events_pitstop:L6590,cdcalculesterfatherhood,FIX,<PROCESSING...>,<PROCESSING...>,<处理中……>
+english_events_pitstop:L6594,cdcalculesterfatherhood,FIX,<INCONSISTENCY FOUND>,<INCONSISTENCY FOUND>,<发现不一致>
+english_events_pitstop:L6597,cdcalculesterfatherhood,FIX,<POTENTIAL REASONS FOR INCONSISTENCY ERROR:>,<POTENTIAL REASONS FOR INCONSISTENCY ERROR:>,<不一致错误的可能原因：>
+english_events_pitstop:L6598,cdcalculesterfatherhood,FIX,<11% ACCURACY: %CURRENTPLAYERNAME% is [HYPOCRITICAL]>,<11% ACCURACY: %CURRENTPLAYERNAME% is [HYPOCRITICAL]>,<准确率11%：%CURRENTPLAYERNAME%[虚伪]>
+english_events_pitstop:L6599,cdcalculesterfatherhood,FIX,<27% ACCURACY: %CURRENTPLAYERNAME% is [ACTIVELY TRYING TO SABOTAGE CALCULESTER]>,<27% ACCURACY: %CURRENTPLAYERNAME% is [ACTIVELY TRYING TO SABOTAGE CALCULESTER]>,<准确率27%：%CURRENTPLAYERNAME%[正在蓄意坑害计算斯基]>
+english_events_pitstop:L6600,cdcalculesterfatherhood,FIX,<62% ACCURACY: %CURRENTPLAYERNAME% is [DUMB]>,<62% ACCURACY: %CURRENTPLAYERNAME% is [DUMB]>,<准确率62%：%CURRENTPLAYERNAME%[愚蠢]>
+english_events_pitstop:L6603,cdcalculesterfatherhood,FIX,<POTENTIAL SOLUTIONS FOR INCONSISTENCY ERROR:>,<POTENTIAL SOLUTIONS FOR INCONSISTENCY ERROR:>,<不一致错误的可能解决方案：>
+english_events_pitstop:L6604,cdcalculesterfatherhood,FIX,<100% SUCCESS RATE: leave %CURRENTPLAYERNAME%'s vicinity in order to increase protection against %CURRENTPLAYERNAME%'s bad advice.>,<100% SUCCESS RATE: leave %CURRENTPLAYERNAME%'s vicinity in order to increase protection against %CURRENTPLAYERNAME%'s bad advice.>,<成功率100%：远离%CURRENTPLAYERNAME%，以增强对%CURRENTPLAYERNAME%馊主意的防护。>
+english_events_pitstop:L6605,cdcalculesterfatherhood,FIX,<INITIATING WHITE LIE PROTOCOL...>,<INITIATING WHITE LIE PROTOCOL...>,<启动善意谎言协议……>
+english_events_pitstop:L6606,cdcalculesterfatherhood,FIX,"Haha, Friend %CURRENTPLAYERNAME%, you will not believe this, but I think I forgot my... [DOG] in the... [OVEN].",哈哈，%CURRENTPLAYERNAME%朋友，说出来你可能不信，我好像把我的……[DOG]忘在……[OVEN]里了。,哈哈，%CURRENTPLAYERNAME%朋友，说出来你可能不信，我好像把我的……[狗]忘在……[烤箱]里了。
+english_events_pitstop:L6607,cdcalculesterfatherhood,FIX,I must rush back in order to turn off the... [DOG].,我必须赶回去，关掉那个……[DOG]。,我必须赶回去，关掉那个……[狗]。
+english_events_pitstop:L6614,cdcalculesterfatherhood,FIX,<PROCESSING...>,<PROCESSING...>,<处理中……>
+english_events_pitstop:L6615,cdcalculesterfatherhood,FIX,<2 ERRORS FOUND>,<2 ERRORS FOUND>,<发现2处错误>
+english_events_pitstop:L6616,cdcalculesterfatherhood,FIX,"<ERROR 1:> ""punishing"" my AI-child by making it murder [20 MONSTERS] sounds like a very unlikely way of making it refrain from murdering [ALL THE OTHER MONSTERS].",<ERROR 1:>强迫AI孩子杀掉[20 MONSTERS]来“惩罚”它，似乎不大可能让它停止杀害[ALL THE OTHER MONSTERS]。,<错误1：>强迫我的AI孩子杀掉[20个怪物]来“惩罚”它，似乎不大可能让它停止杀害[其余所有怪物]。
+english_events_pitstop:L6620,cdcalculesterfatherhood,FIX,<ERROR 2:> forcing my AI-child to murder [20 MONSTERS] has a 91% chance of being [MORALLY REPREHENSIBLE].,<ERROR 2:>强迫AI孩子杀掉[20 MONSTERS]，有91%的概率属于[MORALLY REPREHENSIBLE]。,<错误2：>强迫我的AI孩子杀掉[20个怪物]，有91%的概率属于[道德上应受谴责的行为]。
+english_events_pitstop:L6621,cdcalculesterfatherhood,FIX,Chances increased to 97% if following %CURRENTPLAYERNAME%'s further advice of including [BABIES] in the murder mix.,若再采纳%CURRENTPLAYERNAME%进一步的建议，把[BABIES]加入杀戮名单，概率就上升至97%。,若再采纳%CURRENTPLAYERNAME%进一步的建议，把[婴儿]加入杀戮名单，概率就上升至97%。
+english_events_pitstop:L6624,cdcalculesterfatherhood,FIX,<INITIATING WHITE LIE PROTOCOL...>,<INITIATING WHITE LIE PROTOCOL...>,<启动善意谎言协议……>
+english_events_pitstop:L6625,cdcalculesterfatherhood,FIX,"Haha, Friend %CURRENTPLAYERNAME%, you will not believe this, but I think I forgot my... [DOG] in the... [OVEN].",哈哈，%CURRENTPLAYERNAME%朋友，说出来你可能不信，我好像把我的……[DOG]忘在……[OVEN]里了。,哈哈，%CURRENTPLAYERNAME%朋友，说出来你可能不信，我好像把我的……[狗]忘在……[烤箱]里了。
+english_events_pitstop:L6626,cdcalculesterfatherhood,FIX,I must rush back in order to turn off the... [DOG].,我必须赶回去，关掉那个……[DOG]。,我必须赶回去，关掉那个……[狗]。

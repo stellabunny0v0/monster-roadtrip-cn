@@ -1,0 +1,120 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_maingame:L23195,laudandadiplomacy_stage3,KEEP,"With everything agreed upon and a commitment clause in place, it seems the diplomatic meeting has been a huge success.","随着所有协议和一项承诺条款的落实,外交会议似乎取得了巨大成功。","随着所有协议和一项承诺条款的落实,外交会议似乎取得了巨大成功。"
+english_events_maingame:L23196,laudandadiplomacy_stage3,POLISH,Or it would be if it wasn't for what happens next...,"或者,如果不是接下来发生的事...",本该如此，要不是接下来发生了这件事……
+english_events_maingame:L23198,laudandadiplomacy_stage3,FIX,What... ANGELS?!,这... 讨厌!,什么……天使？！
+english_events_maingame:L23199,laudandadiplomacy_stage3,KEEP,How did they know about this gathering?,他们怎么知道这次集会的?,他们怎么知道这次集会的?
+english_events_maingame:L23200,laudandadiplomacy_stage3,POLISH,Heh... I might have told them...,哦... 我可能已经告诉他们...,呵……可能是我告诉他们的……
+english_events_maingame:L23201,laudandadiplomacy_stage3,FIX,Barbatos?! How could you?,芭芭拉图斯? 你怎么能这样?,巴巴托斯？！你怎么能这样？
+english_events_maingame:L23202,laudandadiplomacy_stage3,FIX,"How could YOU assume I was game for an alliance with other Circles of Hell? Much less an alliance with these filthy, fish-faced outsiders?!",你怎么能认为我是在跟地狱其他圈子结盟呢? 更不要说跟这些肮脏的外人结盟了?,你凭什么以为，我愿意跟地狱其他层结盟？更何况，还要跟这帮肮脏的鱼脸外族结盟？！
+english_events_maingame:L23203,laudandadiplomacy_stage3,FIX,"No, no... better to cut a deal with Heaven. We had to bring you to this vulnerable state for them to end you.","没有,没有... 最好和天堂做个交易 我们不得不把你带到这个脆弱状态 让他们杀了你",不，不……还是跟天堂交易更划算。先让你们毫无防备，他们才能一举消灭你们。
+english_events_maingame:L23204,laudandadiplomacy_stage3,FIX,"Either we'll take over your Circles... or if Heaven comes to conquer Hell, we've been promised a good portion of it, to act as representatives for God.","要么我们接管你的圈子... 或者如果天堂要征服地狱, 我们得到承诺,其中很大一部分, 做上帝的代表。",要么由我们接管你们的地盘……要么，天堂攻陷地狱后，我们也能分到大块领土，替上帝代管。
+english_events_maingame:L23205,laudandadiplomacy_stage3,POLISH,You treacherous bastard...,你这个狡猾的混蛋...,你这背信弃义的混蛋……
+english_events_maingame:L23206,laudandadiplomacy_stage3,KEEP,...,...,...
+english_events_maingame:L23207,laudandadiplomacy_stage3,POLISH,You need to do something fast if you want to avoid... you know... dying.,"你要是想避免的话,就得快点做点什么... 你知道吗... 临终时.",想避免……你懂的……死掉，就得赶紧想办法。
+english_events_maingame:L23208,laudandadiplomacy_stage3,FIX,Violence is not the answer... RELEASE THE DIPLOMACY DOLPHINS!,暴力不是答案... ... 暴力是无法解决的... 解除导弹多尔平斯!,暴力解决不了问题……放出外交海豚！
+english_events_maingame:L23209,laudandadiplomacy_stage3,FIX,Conjure some extraordinary ventriloquism skills to pretend you're the voice of God coming from nowhere.,利用一些非凡的口技 假装你是上帝的声音 从哪里来的。,使出非凡的腹语功夫，假装自己是凭空响起的上帝之声。
+english_events_maingame:L23212,laudandadiplomacy_stage3,POLISH,"Oh, that's such a sensible idea, yes.","哦,这是一个明智的主意,是的。",哦，对，真是明智的主意。
+english_events_maingame:L23213,laudandadiplomacy_stage3,KEEP,Release the Diplomacy Dolphins.,释放外交海豚。,释放外交海豚。
+english_events_maingame:L23214,laudandadiplomacy_stage3,POLISH,"Lots of dolphins are dropped from the ceiling, where they were kept hidden as a safety measure.","许多海豚从天花板上掉下来, 在那里它们被藏起来作为安全措施。",大群海豚从天花板上落下——先前就被藏在那儿，以防万一。
+english_events_maingame:L23215,laudandadiplomacy_stage3,FIX,(Good thing you were paying attention when Miranda was blabbering to you about how they do things in the Merkingdom.),(幸好你当时很注意) 米兰达 说他们如何在默金多姆做事情。,（幸亏米兰达跟你唠叨人鱼王国的处事方式时，你认真听了。）
+english_events_maingame:L23216,laudandadiplomacy_stage3,FIX,Dolphins! So silly!,海豚队! 这么傻!,海豚！傻乎乎的真可爱！
+english_events_maingame:L23217,laudandadiplomacy_stage3,POLISH,Will they do diplomacy now?,他们现在会做外交吗?,现在它们要搞外交了吗？
+english_events_maingame:L23218,laudandadiplomacy_stage3,POLISH,"Yes, they'll probably negotiate our release.","是的,他们可能会谈判我们释放。",对，应该会谈判，让我们获释。
+english_events_maingame:L23219,laudandadiplomacy_stage3,POLISH,The dolphins start violently massacring the traitors and the angels.,海豚们开始暴力地屠杀叛徒和天使.,海豚开始疯狂屠杀叛徒和天使。
+english_events_maingame:L23220,laudandadiplomacy_stage3,FIX,"(Well, guess you weren't paying THAT much attention when Miranda was talking about this... intention is all that matters, maybe?)","(你大概没有那么注意,当 米兰达 刚才在说这个... 意图是最重要的,也许? )",（好吧，看来米兰达讲的时候，你也没那么认真……也许，有这份心就够了？）
+english_events_maingame:L23222,laudandadiplomacy_stage3,POLISH,"...Polly, this is not so nice.","...波莉,这是不好的。",……波莉，这可不太友好。
+english_events_maingame:L23223,laudandadiplomacy_stage3,POLISH,Maybe this is how dolphins do diplomacy?,也许海豚是这么外交的?,没准海豚就是这么搞外交的？
+english_events_maingame:L23224,laudandadiplomacy_stage3,FIX,We only call them that because of the alliteration. It rolls better off the tongue.,"我们之所以这样叫他们,只是因为有爱 更能从舌上出出出.",因为英文叫“Diplomacy Dolphins”，押头韵，念着顺口才这么叫的。
+english_events_maingame:L23225,laudandadiplomacy_stage3,KEEP,It actually does.,确实是,确实是
+english_events_maingame:L23226,laudandadiplomacy_stage3,POLISH,You witness the dolphins murdering everyone in a horrible manner.,你目击到海豚以可怕的方式杀害所有人,你亲眼看着海豚，用惨不忍睹的方式大开杀戒。
+english_events_maingame:L23227,laudandadiplomacy_stage3,FIX,"Ah. That was a splendid sight, no doubt.","摆. 无疑,这是一幅精彩的景象。",啊，毫无疑问，真是赏心悦目。
+english_events_maingame:L23228,laudandadiplomacy_stage3,POLISH,We apologize for the treacherous ways of our former ally. We hope the fact that we were also targeted is proof that we're loyal to this treaty between us.,"我们为我们以前的盟友的狡猾方式道歉。 我们希望我们同样被作为目标的事实,证明了我们忠于我们之间的这个条约.",昔日盟友的背叛行径，我们深感抱歉。我们同样遭到袭击，想必足以证明，我们对这份条约的忠诚。
+english_events_maingame:L23229,laudandadiplomacy_stage3,POLISH,Don't fret. We trust your loyalty to this alliance.,别担心 我们相信你对这个联盟的忠诚,不必担心，我们相信贵方对同盟的忠心。
+english_events_maingame:L23230,laudandadiplomacy_stage3,FIX,"Otherwise, this tactic of ours has most likely shown you how we deal with traitors in the Merkingdom.","否则,我们的战术 很可能已经告诉你 我们如何对付叛徒 在默金多克。",否则，想必刚才的手段，也已让贵方见识到，人鱼王国是如何处置叛徒的。
+english_events_maingame:L23231,laudandadiplomacy_stage3,POLISH,With a beautiful display of violence... truly admirable.,以美丽的暴力表现... 真的很令人钦佩,一场美丽的暴力盛宴……实在令人钦佩。
+english_events_maingame:L23232,laudandadiplomacy_stage3,POLISH,"Should we sign these accords? If anything, this has confirmed how essential it is for us to deal with the threat of Heaven.","我们要不要签署这些协议? 如果有什么,这已经证实,我们处理天堂的威胁是多么重要。",现在签署协议吧？刚才的事恰好证明，联手应对天堂的威胁，有多么必要。
+english_events_maingame:L23233,laudandadiplomacy_stage3,FIX,Laudanda shakes hand with the Hell Commanders. Diplomatic documents are signed.,劳丹达与地狱指挥握手. 外交文件由签字人签署。,劳丹达与地狱指挥官握手，签下了外交文件。
+english_events_maingame:L23234,laudandadiplomacy_stage3,FIX,Her Royal Highness pardons you all for your obvious costumes and for the murder of the real merdiplomats thanks to your crucial role in this negotiation.,殿下赦免你们所有人 以你们明显的服装 和谋杀真正的美德洛马特人 感谢你们在这场谈判中的关键作用,你们在谈判中起了关键作用，殿下赦免了你们那些一眼就能看穿的伪装，还有杀害真正人鱼外交官的罪行。
+english_events_maingame:L23235,laudandadiplomacy_stage3,FIX,She pays you +5 MONEY and even mentions she'd be pleased to welcome you in the Merkingdom if you were to visit. Hooray!,她付你钱5分 甚至提到如果你能来美林道 一定会很高兴欢迎你 万岁!,她付给你 +5 金钱，还说若你们来人鱼王国，一定热烈欢迎。好耶！
+english_events_maingame:L23237,laudandadiplomacy_stage3,FIX,"Yeah, release the Diplomacy Dolphins!","对,放出海豚外交!",对，放出外交海豚！
+english_events_maingame:L23238,laudandadiplomacy_stage3,POLISH,"Good, sensible idea! We'll avoid bloodshed with diplomacy!","好主意,明智的主意! ! ! ! ! ! ! ! ! ! ! ! 我们避免外交流血!",好主意，明智！用外交避免流血！
+english_events_maingame:L23239,laudandadiplomacy_stage3,POLISH,Why would we store a pod of dolphins somewhere secret for... diplomacy reasons?,为什么我们把一舱海豚藏在秘密的地方... 外交原因?,我们为什么要偷偷藏一群海豚……就为了外交？
+english_events_maingame:L23240,laudandadiplomacy_stage3,FIX,We're already doing diplomacy ourselves.,我们自己已经在做外交了,外交，我们自己就在做。
+english_events_maingame:L23241,laudandadiplomacy_stage3,FIX,Dunno... for reasons?,不知道... 说不定... 原因吗?,不知道……总得有点理由吧？
+english_events_maingame:L23242,laudandadiplomacy_stage3,POLISH,Your idea is quite stupid.,"你的想法很蠢,你觉得你很蠢",你的点子很蠢。
+english_events_maingame:L23243,laudandadiplomacy_stage3,FIX,NO IT ISN'T.,"不,它没有。",才不蠢。
+english_events_maingame:L23244,laudandadiplomacy_stage3,POLISH,"We do not have Diplomacy Dolphins, but...","我们没有外交海豚,但是...",我们没有外交海豚，不过……
+english_events_maingame:L23245,laudandadiplomacy_stage3,FIX,...release the Murder Killer Whales.,释放杀人凶手鲸鱼,……放出杀戮虎鲸。
+english_events_maingame:L23246,laudandadiplomacy_stage3,FIX,The... what now?,那个... 现在怎么办?,什么……你说什么？
+english_events_maingame:L23247,laudandadiplomacy_stage3,FIX,"No time to explain. The merfolk drop the killer whales they had secretly stored in the ceiling for... murder reasons, I wanna say?","没时间解释了 默福克把秘密存放在天花板上的虎鲸丢掉... 谋杀原因,我想说?",没时间解释了。人鱼们放下暗藏在天花板里的虎鲸——事先藏起来，大概就是为了……杀人吧？
+english_events_maingame:L23248,laudandadiplomacy_stage3,FIX,You never know when you'll get double crossed!,你永远不知道什么时候会被双倍的越出!,谁知道什么时候，就会有人背后捅刀呢！
+english_events_maingame:L23250,laudandadiplomacy_stage3,POLISH,"Dang, these killer whales really are good at killing. Look at all that blood!","可恶,这些虎鲸很会杀人 看看这些血!",哇，这些虎鲸真是杀人高手。看这血！
+english_events_maingame:L23251,laudandadiplomacy_stage3,FIX,The day has been saved!,一天已经救了!,危机解除！
+english_events_maingame:L23252,laudandadiplomacy_stage3,POLISH,"But not by your dumb idea. If it was up to you, everyone would be murdered by now.","但不是你的蠢主意 说不定你还得去 如果由你决定,现在每个人都会被谋杀了",可不是靠你的蠢主意。真听你的，大家早被杀光了。
+english_events_maingame:L23253,laudandadiplomacy_stage3,POLISH,You're a disgrace. Leave this meeting immediately.,你是一个耻辱。 立刻离开这个会议,真丢脸。立刻离开会场。
+english_events_maingame:L23254,laudandadiplomacy_stage3,FIX,And do it in shame.,而作是相惭愧相.,带着羞愧离开。
+english_events_maingame:L23255,laudandadiplomacy_stage3,POLISH,Sigh...,叹...,唉……
+english_events_maingame:L23256,laudandadiplomacy_stage3,FIX,You lose -3 HYPE for leaving... in shame.,-你离开时输了3个HYPE... 羞耻地,你因为……灰溜溜地离场，失去了 -3 热度。
+english_events_maingame:L23259,laudandadiplomacy_stage3,FIX,"Thanks to your MAGIC prowess, you can amp up your ventriloquism skills.","感谢您的 MAGIC 的能耐, 你可以提升你的口技。",凭着出色的魔力，你的腹语功夫更上一层楼。
+english_events_maingame:L23260,laudandadiplomacy_stage3,FIX,You project your voice as if it's a deep voice coming from nowhere... maybe from Above?!,你的声音好像从哪儿来的深层声音一样... 也许是从上面来的?,你将声音投射出去，听起来像一阵不知从何而来的低沉嗓音……也许，是来自天上？！
+english_events_maingame:L23261,laudandadiplomacy_stage3,FIX,STOP THIS NOW.,停止这个现在。,立刻住手。
+english_events_maingame:L23263,laudandadiplomacy_stage3,KEEP,Who was that?,那是谁?,那是谁?
+english_events_maingame:L23264,laudandadiplomacy_stage3,FIX,IT'S ME: GOD.,"是我,上帝,我来了。",是我：上帝。
+english_events_maingame:L23266,laudandadiplomacy_stage3,FIX,God...? Is that... you?,天呐... 这是... 你吗?,上帝……？是……您吗？
+english_events_maingame:L23268,laudandadiplomacy_stage3,POLISH,"No, you moron. Of course it isn't God!","不,你这个白痴。 当然不是上帝!",不是，白痴，当然不是上帝！
+english_events_maingame:L23269,laudandadiplomacy_stage3,KEEP,Prove you're God!,证明你是上帝!,证明你是上帝!
+english_events_maingame:L23270,laudandadiplomacy_stage3,KEEP,...,...,...
+english_events_maingame:L23271,laudandadiplomacy_stage3,FIX,I DON'T NEED TO PROVE ANYTHING. MY WHOLE THING IS NEVER PROVING ANYTHING!,我不需要证明任何东西。 我的全部事情是从来没有 证明任何东西!,我无需证明什么。从不证明什么，就是我的一贯风格！
+english_events_maingame:L23272,laudandadiplomacy_stage3,FIX,YOU MUST BELIEVE. DON'T YOU HAVE FAITH?!,你必须相信。 你没有发作!,你们必须相信。难道没有信仰吗？！
+english_events_maingame:L23273,laudandadiplomacy_stage3,KEEP,...,...,...
+english_events_maingame:L23275,laudandadiplomacy_stage3,FIX,"...I mean, they got you there. Faith is like a big thing for us.",...他们把你抓了起来 信仰对我们来说是件大事,……这话你还真反驳不了。信仰对咱们来说，可是头等大事。
+english_events_maingame:L23277,laudandadiplomacy_stage3,POLISH,Shucks! They're right...,可恶! 他们说得对...,可恶！说得对……
+english_events_maingame:L23279,laudandadiplomacy_stage3,POLISH,I bet this is one of God's tests.,我敢打赌这是上帝的测试之一。,肯定是上帝的又一次考验。
+english_events_maingame:L23281,laudandadiplomacy_stage3,POLISH,Maybe. They're ALWAYS testing people.,也许吧 他们总是在测试别人,也许。上帝总爱考验人。
+english_events_maingame:L23283,laudandadiplomacy_stage3,FIX,Like that one time they tricked that random dude into almost killing his own son.,碞钩êΩ ê random趁... ...  trick炳ㄠ,比如那次，骗了个男的，差点让他杀掉亲生儿子。
+english_events_maingame:L23284,laudandadiplomacy_stage3,KEEP,A classic.,经典.,经典.
+english_events_maingame:L23285,laudandadiplomacy_stage3,POLISH,"SILENCE! LISTEN TO ME, OR I WILL MAKE YOU ALL KILL YOUR OWN SONS!","安静! 听我说,否则我会让你们都杀了自己的儿子!",安静！听我的话，否则就让你们全去杀自己的儿子！
+english_events_maingame:L23287,laudandadiplomacy_stage3,FIX,I think we should abide by God's word.,我认为我们应该遵守上帝的诺言。,我觉得，还是听上帝的话吧。
+english_events_maingame:L23289,laudandadiplomacy_stage3,KEEP,...,...,...
+english_events_maingame:L23291,laudandadiplomacy_stage3,FIX,...Fuck.,他妈的。,……操。
+english_events_maingame:L23293,laudandadiplomacy_stage3,FIX,"Yeah, I think we should call it a day.","是的,我想我们应该 结束了。",对，今天就到这儿吧。
+english_events_maingame:L23294,laudandadiplomacy_stage3,POLISH,"Yes, these Hell scum were probably going to double-cross us eventually anyway.","是的,这些地狱的混蛋 可能最终会出卖我们。",是啊，反正地狱这帮渣滓，迟早也要出卖我们。
+english_events_maingame:L23295,laudandadiplomacy_stage3,KEEP,Hey!,嘿,嘿
+english_events_maingame:L23296,laudandadiplomacy_stage3,POLISH,"(They aren't wrong, though.)","(他们没有错,虽然。 )",（倒也没说错。）
+english_events_maingame:L23298,laudandadiplomacy_stage3,KEEP,Fuck you all.,操你们,操你们
+english_events_maingame:L23299,laudandadiplomacy_stage3,KEEP,The angels leave.,天使们离开。,天使们离开。
+english_events_maingame:L23300,laudandadiplomacy_stage3,POLISH,This gives you the upper hand to overwhelm the Hell traitors and murder them.,这让你能战胜地狱叛徒 并杀死他们,天使一走，你们便占了上风，将地狱叛徒压制、杀死。
+english_events_maingame:L23302,laudandadiplomacy_stage3,POLISH,We apologize for the treacherous ways of our former ally. We hope the fact that we were also targeted is proof that we're loyal to this treaty between us.,"我们为我们以前的盟友的狡猾方式道歉。 我们希望我们同样被作为目标的事实,证明了我们忠于我们之间的这个条约.",昔日盟友的背叛行径，我们深感抱歉。我们同样遭到袭击，想必足以证明，我们对这份条约的忠诚。
+english_events_maingame:L23303,laudandadiplomacy_stage3,POLISH,Don't fret. We trust your loyalty to this alliance.,别担心 我们相信你对这个联盟的忠诚,不必担心，我们相信贵方对同盟的忠心。
+english_events_maingame:L23304,laudandadiplomacy_stage3,FIX,"Otherwise, this tactic of ours has most likely shown you how we deal with traitors in the Merkingdom.","否则,我们的战术 很可能已经告诉你 我们如何对付叛徒 在默金多克。",否则，想必刚才的手段，也已让贵方见识到，人鱼王国是如何处置叛徒的。
+english_events_maingame:L23305,laudandadiplomacy_stage3,POLISH,With a beautiful display of violence... truly admirable.,以美丽的暴力表现... 真的很令人钦佩,一场美丽的暴力盛宴……实在令人钦佩。
+english_events_maingame:L23306,laudandadiplomacy_stage3,POLISH,"Should we sign these accords? If anything, this has confirmed how essential it is for us to deal with the threat of Heaven.","我们要不要签署这些协议? 如果有什么,这已经证实,我们处理天堂的威胁是多么重要。",现在签署协议吧？刚才的事恰好证明，联手应对天堂的威胁，有多么必要。
+english_events_maingame:L23307,laudandadiplomacy_stage3,FIX,Laudanda shakes hand with the Hell Commanders. Diplomatic documents are signed.,劳丹达与地狱指挥握手. 外交文件由签字人签署。,劳丹达与地狱指挥官握手，签下了外交文件。
+english_events_maingame:L23308,laudandadiplomacy_stage3,FIX,Her Royal Highness pardons you all for your obvious costumes and for the murder of the real merdiplomats thanks to your crucial role in this negotiation.,殿下赦免你们所有人 以你们明显的服装 和谋杀真正的美德洛马特人 感谢你们在这场谈判中的关键作用,你们在谈判中起了关键作用，殿下赦免了你们那些一眼就能看穿的伪装，还有杀害真正人鱼外交官的罪行。
+english_events_maingame:L23309,laudandadiplomacy_stage3,FIX,She pays you +5 MONEY and even mentions she'd be pleased to welcome you in the Merkingdom if you were to visit. Hooray!,她付你钱5分 甚至提到如果你能来美林道 一定会很高兴欢迎你 万岁!,她付给你 +5 金钱，还说若你们来人鱼王国，一定热烈欢迎。好耶！
+english_events_maingame:L23311,laudandadiplomacy_stage3,FIX,"Thanks to your MAGIC prowess, you can amp up your ventriloquism skills.","感谢您的 MAGIC 的能耐, 你可以提升你的口技。",凭着出色的魔力，你的腹语功夫更上一层楼。
+english_events_maingame:L23312,laudandadiplomacy_stage3,FIX,You project your voice as if it's a deep voice coming from nowhere... maybe from Above?!,你的声音好像从哪儿来的深层声音一样... 也许是从上面来的?,你将声音投射出去，听起来像一阵不知从何而来的低沉嗓音……也许，是来自天上？！
+english_events_maingame:L23313,laudandadiplomacy_stage3,FIX,STOP THIS NOW.,停止这个现在。,立刻住手。
+english_events_maingame:L23315,laudandadiplomacy_stage3,KEEP,Who was that?,那是谁?,那是谁?
+english_events_maingame:L23316,laudandadiplomacy_stage3,FIX,IT'S ME: GOD.,"是我,上帝,我来了。",是我：上帝。
+english_events_maingame:L23318,laudandadiplomacy_stage3,POLISH,Eh...?,额... ?,呃……？
+english_events_maingame:L23319,laudandadiplomacy_stage3,FIX,GOOOOOD!,不错!,上——帝——！
+english_events_maingame:L23321,laudandadiplomacy_stage3,FIX,You're not God.,"你不是上帝,你不是上帝,你不是上帝吗? You're not God.",你不是上帝。
+english_events_maingame:L23322,laudandadiplomacy_stage3,FIX,"I AM! BOW TO ME, PUNY ANGEL.","我当然是 向我投球, 便便安吉尔。",我就是！渺小的天使，跪拜我！
+english_events_maingame:L23324,laudandadiplomacy_stage3,POLISH,(Eh... is it God?),(Eh... ) (英语: 是上帝吗? ),（呃……真是上帝？）
+english_events_maingame:L23326,laudandadiplomacy_stage3,KEEP,"(No, it clearly isn't.)","(不,显然不是。)","(不,显然不是。)"
+english_events_maingame:L23327,laudandadiplomacy_stage3,FIX,I AM GOD.,"我是上帝,我是个混蛋 I am God.",是我：上帝。
+english_events_maingame:L23329,laudandadiplomacy_stage3,POLISH,"Look, it's that one there.","看,就是那个",看，就是那个人。
+english_events_maingame:L23330,laudandadiplomacy_stage3,POLISH,"NO, IT'S ME, GOD.","不,这是我,上帝。",不，是我，上帝。
+english_events_maingame:L23332,laudandadiplomacy_stage3,FIX,"Yes, you can clearly tell the voice is coming from them.","是的,你可以清楚地告诉 声音来自他们。",对，明明就是那个人在说话。
+english_events_maingame:L23333,laudandadiplomacy_stage3,FIX,"NO YOU CAN'T! IT'S NOT ME, IT'S GOD!","不,你不能这样! 不是我,这是上帝!",才不是！不是我说的，是上帝！
+english_events_maingame:L23335,laudandadiplomacy_stage3,POLISH,Now you're not even trying.,现在你甚至没有尝试。,都懒得装了是吧。
+english_events_maingame:L23336,laudandadiplomacy_stage3,KEEP,SHUT UP!,闭嘴!,闭嘴!
+english_events_maingame:L23337,laudandadiplomacy_stage3,POLISH,They stab you.,他们刺伤了你们,他们捅了你。
+english_events_maingame:L23338,laudandadiplomacy_stage3,FIX,Laudanda uses your stabbing as a distraction to allow the Merkingdom soldiers to valiantly overwhelm the angels.,劳丹达利用你的刺伤来分散注意力 让默金多姆士兵勇敢地征服天使,趁你挨捅、吸引了注意力，劳丹达指挥人鱼王国士兵勇猛出击，压倒了天使。
+english_events_maingame:L23340,laudandadiplomacy_stage3,FIX,The day has been saved!,一天已经救了!,危机解除！
+english_events_maingame:L23341,laudandadiplomacy_stage3,POLISH,"But not by your dumb idea. If it was up to you, everyone would be murdered by now.","但不是你的蠢主意 说不定你还得去 如果由你决定,现在每个人都会被谋杀了",可不是靠你的蠢主意。真听你的，大家早被杀光了。
+english_events_maingame:L23342,laudandadiplomacy_stage3,POLISH,You're a disgrace. Leave this meeting immediately.,你是一个耻辱。 立刻离开这个会议,真丢脸。立刻离开会场。
+english_events_maingame:L23343,laudandadiplomacy_stage3,FIX,And do it in shame.,而作是相惭愧相.,带着羞愧离开。
+english_events_maingame:L23344,laudandadiplomacy_stage3,POLISH,Sigh...,叹...,唉……
+english_events_maingame:L23345,laudandadiplomacy_stage3,FIX,You lose -3 HYPE for leaving... in shame.,-你离开时输了3个HYPE... 羞耻地,你因为……灰溜溜地离场，失去了 -3 热度。

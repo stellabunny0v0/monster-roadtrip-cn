@@ -1,0 +1,137 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_bubbles:L1003,bubble_leaving_landmark_potato,KEEP,They wouldn't let me take a bite of the potato...,他们不让我吃一口土豆...,他们不让我吃一口土豆...
+english_events_bubbles:L1004,bubble_leaving_landmark_potato,KEEP,"Maybe next time, buddy.","也许下一次,伙计。","也许下一次,伙计。"
+english_events_bubbles:L1010,bubble_leaving_ranch2,FIX,There were so many horsies!,有这么多的蜂巢!,那儿好多小马啊！
+english_events_bubbles:L1011,bubble_leaving_ranch2,FIX,Indeed. There were a LOT of horsies.,确实如此 有一大堆的热心。,没错。小马，多得很。
+english_events_bubbles:L1017,bubble_leaving_rave,FIX,THAT. WAS. SO. FUN.,那个。 曾经是。 所以说。 乐趣。,刚。才。太。好。玩。了。
+english_events_bubbles:L1018,bubble_leaving_rave,FIX,I! CAN'T! HEAR! YOU!,我来了! 不能这样! 听见了! 你个!,我！听！不！见！你！说！话！
+english_events_bubbles:L1024,bubble_leaving_motel_fancy,FIX,That place sure was fancy!,那个地方真的很棒!,那地方可真豪华！
+english_events_bubbles:L1025,bubble_leaving_motel_fancy,KEEP,The bathrooms even had free candy!,洗手间甚至有免费糖果!,洗手间甚至有免费糖果!
+english_events_bubbles:L1026,bubble_leaving_motel_fancy,KEEP,Those were decorative soaps...,这些是装饰性的肥皂...,这些是装饰性的肥皂...
+english_events_bubbles:L1032,bubble_leaving_shady_property,FIX,That Jerry guy sure seemed nice!,那个Jerry看起来不错!,那个贾利，人看着真不错！
+english_events_bubbles:L1033,bubble_leaving_shady_property,FIX,And he knew SO MUCH about chainsaws!,他对铁锯很了解!,而且，他懂好多电锯知识！
+english_events_bubbles:L1039,bubble_leaving_art_exhibition,FIX,Polly... I don't think I get art.,波莉... 我不认为我得到艺术。,波莉……我好像不懂艺术。
+english_events_bubbles:L1040,bubble_leaving_art_exhibition,POLISH,It's okay. Nobody does.,没关系。 没有人知道。,没事，没人懂。
+english_events_bubbles:L1046,bubble_leaving_circus,FIX,"How much did the ringmaster pay us, Polly?",掌门人给了我们多少钱? 波莉?,波莉，马戏团团长给了咱们多少钱？
+english_events_bubbles:L1047,bubble_leaving_circus,KEEP,Not enough.,不够。,不够。
+english_events_bubbles:L1053,bubble_leaving_circus2,KEEP,That was fun!,这很有趣!,这很有趣!
+english_events_bubbles:L1054,bubble_leaving_circus2,FIX,"We should clown together more often, bros!","我们应该经常一起玩玩,兄弟们!",兄弟们，咱们以后应该多一起当当小丑！
+english_events_bubbles:L1060,bubble_leaving_gas_basic,FIX,"Why do monster cars run on magic, anyway?","怪兽车为什么跑 魔法,反正?",话说，怪物的车为什么靠魔力驱动啊？
+english_events_bubbles:L1061,bubble_leaving_gas_basic,FIX,A wizard did it.,一个巫师做到了。,都是巫师干的。
+english_events_bubbles:L1062,bubble_leaving_gas_basic,KEEP,Ah.,啊。,啊。
+english_events_bubbles:L1068,bubble_leaving_landmark_hole,FIX,Byyyye hole!,拜伊耶洞 拜伊耶洞 拜伊耶洞 拜伊耶洞,拜——拜，大洞！
+english_events_bubbles:L1069,bubble_leaving_landmark_hole,POLISH,I wish I could've gone inside you!,我真希望我能进你体内去!,真希望能钻进你里面！
+english_events_bubbles:L1075,bubble_leaving_landmark_wedding,KEEP,Love is so beautiful...,爱是如此美丽...,爱是如此美丽...
+english_events_bubbles:L1076,bubble_leaving_landmark_wedding,KEEP,And so is chaos!,混乱也一样!,混乱也一样!
+english_events_bubbles:L1082,bubble_leaving_biker_bar,KEEP,I liked everyone's leather jackets!,我喜欢每个人的皮夹克!,我喜欢每个人的皮夹克!
+english_events_bubbles:L1083,bubble_leaving_biker_bar,FIX,"Can we get matching jackets, bros?","我们可以得到匹配的夹克,兄弟们?",兄弟们，咱们也买配套的夹克吧？
+english_events_bubbles:L1089,bubble_leaving_graveyard,KEEP,That was a nice graveyard.,这是一个不错的墓地。,这是一个不错的墓地。
+english_events_bubbles:L1090,bubble_leaving_graveyard,KEEP,Almost made me homesick.,差点让我想家了,差点让我想家了
+english_events_bubbles:L1096,bubble_leaving_village_west,POLISH,That town wasn't big enough for all of us.,"那个镇子不够大,对我们所有人来说。",那镇子太小，容不下咱们所有人。
+english_events_bubbles:L1102,bubble_leaving_space_station,KEEP,That was so cool!,这太酷了!,这太酷了!
+english_events_bubbles:L1103,bubble_leaving_space_station,KEEP,"Can we go to space, Polly?",我们可以去太空吗? 波莉?,我们可以去太空吗? 波莉?
+english_events_bubbles:L1104,bubble_leaving_space_station,KEEP,Maybe next road trip.,也许下一次的公路旅行。,也许下一次的公路旅行。
+english_events_bubbles:L1110,bubble_leaving_landmark_foot,KEEP,That was fun!,这很有趣!,这很有趣!
+english_events_bubbles:L1111,bubble_leaving_landmark_foot,POLISH,I hope we see more desert body parts.,我希望我们能看到更多的沙漠身体部位。,希望以后还能看到更多沙漠里的身体部位。
+english_events_bubbles:L1117,bubble_leaving_village_charming,KEEP,That village was so nice.,那个村子太美了,那个村子太美了
+english_events_bubbles:L1118,bubble_leaving_village_charming,KEEP,"Let's get a house there, Polly!",我们在那里买个房子 波莉!,我们在那里买个房子 波莉!
+english_events_bubbles:L1119,bubble_leaving_village_charming,FIX,Eh... pass.,额... 过.,呃……算了吧。
+english_events_bubbles:L1125,bubble_leaving_village_kaiju,FIX,Kaiju? More like BYE-ju!,开州? 更像是拜珠! 拜珠! 拜珠!,巨兽？是“再见兽”才对！
+english_events_bubbles:L1126,bubble_leaving_village_kaiju,FIX,Haha! I get it!,哈哈! 哈哈! 哈哈! 哈哈! 我懂了! 说吧! I get it!,哈哈！这个我懂！
+english_events_bubbles:L1132,bubble_leaving_movie_set,FIX,"What was that movie even about, Polly?",那部电影到底是为了什么? 波莉?,波莉，那电影到底讲了什么啊？
+english_events_bubbles:L1133,bubble_leaving_movie_set,KEEP,Who knows?,谁知道呢?,谁知道呢?
+english_events_bubbles:L1139,bubble_leaving_spa,KEEP,That was so relaxing...,这太放松了...,这太放松了...
+english_events_bubbles:L1140,bubble_leaving_spa,FIX,I'm refreshed and ready for CHAOS!,我准备好了CHAOS!,我又精神了，准备好制造混乱啦！
+english_events_bubbles:L1146,bubble_leaving_merkingdom_outpost,KEEP,That was fun!,这很有趣!,这很有趣!
+english_events_bubbles:L1147,bubble_leaving_merkingdom_outpost,FIX,"Can we live in the Merkingdom, Polly?",我们能住在默金多姆吗? 波莉?,波莉，咱们能住在人鱼王国吗？
+english_events_bubbles:L1148,bubble_leaving_merkingdom_outpost,FIX,Absolutely not.,绝对不是。,绝对不行。
+english_events_bubbles:L1154,bubble_leaving_farm,FIX,Byyyye cows!,拜伊耶奶牛! 拜伊耶奶牛!,拜——拜，牛牛！
+english_events_bubbles:L1160,bubble_leaving_village_abandoned,POLISH,I hope that village finds its people soon.,我希望那个村庄能很快找到它的人民。,希望那个村子，能早点找回它的人们。
+english_events_bubbles:L1161,bubble_leaving_village_abandoned,KEEP,It must be lonely...,一定很孤独...,一定很孤独...
+english_events_bubbles:L1167,bubble_leaving_gift_shop,KEEP,Look what I bought!,看我买了什么!,看我买了什么!
+english_events_bubbles:L1168,bubble_leaving_gift_shop,KEEP,Nice! What is it?,不错! 这是什么?,不错! 这是什么?
+english_events_bubbles:L1169,bubble_leaving_gift_shop,FIX,Uh... I was hoping you'd know...,额... 我希望你会知道...,呃……我还指望你知道呢……
+english_events_bubbles:L1175,bubble_leaving_national_park,KEEP,"Ugh, I got dirt on my shoes.","呃,我的鞋子上沾了脏东西。","呃,我的鞋子上沾了脏东西。"
+english_events_bubbles:L1176,bubble_leaving_national_park,KEEP,This is why I prefer floating.,所以我更喜欢漂浮,所以我更喜欢漂浮
+english_events_bubbles:L1182,bubble_leaving_monster_truck,KEEP,"Can we get a monster truck, Polly?",我们能买辆怪兽卡车吗? 波莉?,我们能买辆怪兽卡车吗? 波莉?
+english_events_bubbles:L1183,bubble_leaving_monster_truck,FIX,Nah. They get terrible gas mileage.,没有。 他们得到可怕的汽油里程。,不行，太费油了。
+english_events_bubbles:L1189,bubble_leaving_cult_place,KEEP,What a lame cult...,多么无聊的邪教...,多么无聊的邪教...
+english_events_bubbles:L1190,bubble_leaving_cult_place,FIX,Definitely subpar ritual orgies.,绝对是次于仪式的狂欢,他们的仪式群交，绝对不及格。
+english_events_bubbles:L1196,bubble_leaving_weird_factory,KEEP,"Can we build a factory, Polly?",我们可以建个工厂吗? 波莉?,我们可以建个工厂吗? 波莉?
+english_events_bubbles:L1197,bubble_leaving_weird_factory,FIX,What would we make?,我们能赚多少?,那咱们造什么？
+english_events_bubbles:L1198,bubble_leaving_weird_factory,KEEP,Hmmm... I'm good at making friends!,那个... 我擅长交朋友!,那个... 我擅长交朋友!
+english_events_bubbles:L1204,bubble_leaving_mirage,KEEP,Was that place even real?,那地方是真的吗?,那地方是真的吗?
+english_events_bubbles:L1205,bubble_leaving_mirage,FIX,Probably not.,可能不会。,大概不是真的。
+english_events_bubbles:L1206,bubble_leaving_mirage,FIX,...Cool!,凉爽!,……酷！
+english_events_bubbles:L1212,bubble_leaving_dungeon,FIX,"Dungeon? More like FUN-geon, amirite?","敦煌(? 更像FUN -GEON,闪电?",地牢？是“乐牢”才对吧？
+english_events_bubbles:L1213,bubble_leaving_dungeon,FIX,...I don't get it.,...我不明白这一点。,……没听懂。
+english_events_bubbles:L1219,bubble_leaving_battle_royale,KEEP,I can't believe we made it out of there!,真不敢相信我们逃出来了!,真不敢相信我们逃出来了!
+english_events_bubbles:L1220,bubble_leaving_battle_royale,FIX,It's good to be alive.,活活活的不错.,活着真好。
+english_events_bubbles:L1221,bubble_leaving_battle_royale,FIX,RUDE!,鲁德!,太没礼貌了！
+english_events_bubbles:L1227,bubble_leaving_city_90s,FIX,At least it wasn't a 60s city.,至少它不是一个60多岁的城市。,至少不是六十年代的城。
+english_events_bubbles:L1228,bubble_leaving_city_90s,KEEP,Too much asbestos...,太多的石棉...,太多的石棉...
+english_events_bubbles:L1234,bubble_leaving_prison,FIX,YAAASSS! PRISON BREAK!,亚亚西斯! 监狱的裂缝!,好耶！越狱啦！
+english_events_bubbles:L1240,bubble_leaving_border,KEEP,I can't believe we went to Europe!,真不敢相信我们去了欧洲!,真不敢相信我们去了欧洲!
+english_events_bubbles:L1241,bubble_leaving_border,FIX,I'm so well-traveled now!,我现在好舒服啊!,我现在也是见过世面的人啦！
+english_events_bubbles:L1247,bubble_liam1,KEEP,Should I recite some poetry to raise morale?,我应该背诵一些诗歌来提高士气吗?,我应该背诵一些诗歌来提高士气吗?
+english_events_bubbles:L1248,bubble_liam1,FIX,No.,没有。,不要。
+english_events_bubbles:L1254,bubble_liam2,FIX,Look at the sunset! It's beautiful!,看看夕阳! 美极了! 美极了! 美极了 美极了!,看那落日，多美啊！
+english_events_bubbles:L1255,bubble_liam2,FIX,Can we pull over so I can paint an oil of it?,我们能靠边停车让我画出油吗?,能靠边停一下，让我给它画幅油画吗？
+english_events_bubbles:L1256,bubble_liam2,FIX,No.,没有。,不要。
+english_events_bubbles:L1262,bubble_liam3,FIX,I've been thinking... should I go blonde?,我一直在考虑... 我应该去金发?,我一直在想……要不要把头发染成金色？
+english_events_bubbles:L1263,bubble_liam3,FIX,No.,没有。,不要。
+english_events_bubbles:L1269,bubble_liam4,KEEP,This trip would be better if we all learned to play the flute.,"如果我们都学会吹笛子,这次旅行会更好。","如果我们都学会吹笛子,这次旅行会更好。"
+english_events_bubbles:L1270,bubble_liam4,FIX,No.,没有。,不要。
+english_events_bubbles:L1276,bubble_damien1,FIX,"Damien, stop trying to set the car on fire.",达米恩别再放火烧了,德魔，别再试着把车点着了。
+english_events_bubbles:L1277,bubble_damien1,FIX,"Polly, stop being a BUZZKILL.",波莉停止作为一个BUZZKIL。,波莉，别再扫兴了。
+english_events_bubbles:L1283,bubble_damien2,FIX,"Damien, stop stabbing the car.",达米恩停止刺伤汽车。,德魔，别拿刀捅车了。
+english_events_bubbles:L1284,bubble_damien2,FIX,What is this? A dictatorship on wheels?,这是什么? 轮子上的独裁统治?,搞什么？这是装了轮子的独裁政权吗？
+english_events_bubbles:L829,bubble_going_casino4,KEEP,"Woohoo, time for some roulette!","呜呼,该轮盘了!","呜呼,该轮盘了!"
+english_events_bubbles:L830,bubble_going_casino4,FIX,I prefer blackjack; I know at least a few numbers below 21!,"我更喜欢21分,我知道至少21分以下的几个数字!",我更喜欢二十一点，至少二十一以下的数字，我还认识几个！
+english_events_bubbles:L836,bubble_going_larp,POLISH,"Not my favorite kind of roleplay, but sure!","不是我喜欢的角色扮演,但肯定的!",不是我最爱的那种角色扮演，不过也行！
+english_events_bubbles:L842,bubble_going_movieset,KEEP,We might meet a movie star!,我们可能会遇到一个电影明星!,我们可能会遇到一个电影明星!
+english_events_bubbles:L843,bubble_going_movieset,POLISH,"Whoa, I'd love to meet Old Yeller!","哇,我很想见见""老叶勒""!",哇，我超想见见Old Yeller！
+english_events_bubbles:L849,bubble_going_space_station2,FIX,"Finally, a chance to get LITERALLY high!","最后,一个机会 得到利特利高!",终于能来点字面意义上的“嗨上天”了！
+english_events_bubbles:L855,bubble_going_space_station3,FIX,"A space station? Like a gas station, but for space?","空间站? 像加油站,但为了空间?",空间站？跟加油站差不多，不过是加空间的？
+english_events_bubbles:L856,bubble_going_space_station3,KEEP,Does our car need more space? Is our car shrinking?!,我们的车需要更多的空间吗? 我们的车在缩小吗?,我们的车需要更多的空间吗? 我们的车在缩小吗?
+english_events_bubbles:L857,bubble_going_space_station3,FIX,"Scott, that's not what... never mind.",斯科特这不是什么... 没关系。,斯科特，不是那个意思……算了。
+english_events_bubbles:L863,bubble_going_lab,KEEP,"But if it's a secret lab, how do we know where it is?",但是如果这是个秘密实验室 我们怎么知道它在哪里?,但是如果这是个秘密实验室 我们怎么知道它在哪里?
+english_events_bubbles:L869,bubble_going_lab2,FIX,A secret lab? It's a lab that makes... secrets?!,"秘密实验室? 这是一个实验室,它使... 秘密吗?",秘密实验室？就是专门制造……秘密的实验室？！
+english_events_bubbles:L875,bubble_going_weird_factory,FIX,"Polly, if factories make stuff, where do they make factories?","波莉如果工厂制造的东西, 他们在哪里制造的工厂?",波莉，工厂能造东西，那工厂又是在哪儿造的？
+english_events_bubbles:L876,bubble_going_weird_factory,KEEP,"That's a pretty good question, Scott.",问得好 斯科特.,问得好 斯科特.
+english_events_bubbles:L882,bubble_going_wedding,KEEP,I didn't know you liked weddings!,我不知道你喜欢婚礼!,我不知道你喜欢婚礼!
+english_events_bubbles:L883,bubble_going_wedding,FIX,"It's not the wedding, Scott: it's the wedding PARTY!","这不是婚礼, 斯科特这是婚礼派对!",我喜欢的不是婚礼，斯科特，是婚礼派对！
+english_events_bubbles:L889,bubble_going_road_warriors,FIX,"What does ""post-alpacalyptic"" mean?","""催眠后""是什么意思?",“后末日羊驼”是什么意思？
+english_events_bubbles:L895,bubble_going_road_warriors2,FIX,A post-apocalyptic settlement?,危机后和解?,后末日聚居地？
+english_events_bubbles:L896,bubble_going_road_warriors2,KEEP,"Dang, I must have been napping for a long time!","糟了,我一定睡了很久了!","糟了,我一定睡了很久了!"
+english_events_bubbles:L902,bubble_going_biz_summit2,KEEP,"Whoa, a business summit!","哇,一个商业峰会!","哇,一个商业峰会!"
+english_events_bubbles:L903,bubble_going_biz_summit2,FIX,"We can finally get some funding for Prank Masterz, Inc.!",我们终于能为恶作剧马斯特兹公司争取到一些资金了!,终于能给恶作剧大师有限公司，拉点投资了！
+english_events_bubbles:L909,bubble_going_con2,REVIEW,"I hope you like hanging around fans, Scott!",我希望你喜欢在粉丝身边闲逛 斯科特!,希望你喜欢跟一堆“fan”待在一起，斯科特！
+english_events_bubbles:L910,bubble_going_con2,KEEP,Sure! I love fresh air!,当然! 我喜欢新鲜空气!,当然! 我喜欢新鲜空气!
+english_events_bubbles:L916,bubble_going_battle_royale3,FIX,Is battle royale a sport?,皇家战场是运动吗?,大逃杀是体育运动吗？
+english_events_bubbles:L917,bubble_going_battle_royale3,POLISH,"Well, it's a bit like dodgeball, but there's bullets instead of balls.","嗯,这有点像躲避球, 但有子弹而不是球。",嗯，有点像躲避球，不过躲的是子弹，不是球。
+english_events_bubbles:L918,bubble_going_battle_royale3,KEEP,Aw... I like balls...,哦... 我喜欢球...,哦... 我喜欢球...
+english_events_bubbles:L924,bubble_going_city_90s3,KEEP,"Ahh, back to the olden days before the XXIst century!","啊,回到二十一世纪前的旧时代!","啊,回到二十一世纪前的旧时代!"
+english_events_bubbles:L925,bubble_going_city_90s3,FIX,When computers were huge and explosions were... also huge!,当电脑大而爆炸时... 还有大块头!,那时候的电脑很大，爆炸也……很大！
+english_events_bubbles:L931,bubble_going_prison3,FIX,Oh no! Did we do something wrong?,"哦,不,不,不,不,不,不。 我们做错什么了吗?",哦，不！我们做错什么了吗？
+english_events_bubbles:L932,bubble_going_prison3,KEEP,"Don't worry Scott, we're just visiting.",别担心 斯科特我们只是来拜访一下,别担心 斯科特我们只是来拜访一下
+english_events_bubbles:L938,bubble_going_dungeon3,FIX,"Oooh, kinky!","哦,恶心!",哦，有点特殊情趣嘛！
+english_events_bubbles:L944,bubble_going_cult_place2,KEEP,Be careful Scott: they will do anything to recruit you.,小心点 斯科特他们会不择手段地招募你,小心点 斯科特他们会不择手段地招募你
+english_events_bubbles:L945,bubble_going_cult_place2,KEEP,"Don't worry, I'll always be loyal to my team!","别担心,我永远忠于我的团队!","别担心,我永远忠于我的团队!"
+english_events_bubbles:L951,bubble_going_gift_shop2,KEEP,"Oooh, I can finally buy you guys gifts!","哦,我终于可以给你们买礼物了!","哦,我终于可以给你们买礼物了!"
+english_events_bubbles:L952,bubble_going_gift_shop2,POLISH,"Uhhhh, not sure if THIS gift shop is the best place for that...","呃,不知道这家礼品店是不是最好的...",呃……买礼物，这家店恐怕不太合适……
+english_events_bubbles:L958,bubble_going_mirage2,FIX,"Does everyone else see what I see, or am I tripping?","其他人看到我看到什么, 还是我在绊倒?",你们也看见了吧？还是我嗑出幻觉了？
+english_events_bubbles:L959,bubble_going_mirage2,FIX,Both?,两者?,两个都有？
+english_events_bubbles:L960,bubble_going_mirage2,KEEP,"Yeah, that makes sense.","是啊,这是有道理的。","是啊,这是有道理的。"
+english_events_bubbles:L966,bubble_leaving_motel1,FIX,"Ugh, my mattress was so lumpy...","呃,我的床垫太肿了...",呃，我那床垫，坑坑洼洼的……
+english_events_bubbles:L967,bubble_leaving_motel1,KEEP,"Wait, you guys got mattresses?","等等,你们有床垫吗?","等等,你们有床垫吗?"
+english_events_bubbles:L973,bubble_leaving_motel2,KEEP,Did you remember to tip the doorman?,你记得给门卫小费吗?,你记得给门卫小费吗?
+english_events_bubbles:L974,bubble_leaving_motel2,FIX,"Yeah, I gave him a tip:","是的,我给了他一个小费:",给啦，我给他的建议是：
+english_events_bubbles:L975,bubble_leaving_motel2,FIX,"""Be the best doorman you can be!""","""做你最好的门卫!""",“努力做最棒的门童！”
+english_events_bubbles:L981,bubble_leaving_motel3,KEEP,"Scott, I can't believe you clogged the drain.",斯科特我不敢相信你把排水沟堵了,斯科特我不敢相信你把排水沟堵了
+english_events_bubbles:L982,bubble_leaving_motel3,FIX,Sorry... shedding season...,对不起... 谢丁季节...,对不起……换毛季……
+english_events_bubbles:L988,bubble_leaving_gas_hitech,FIX,That was some hi-tech fuel...,那是一些高科技燃料...,那油可真够高科技的……
+english_events_bubbles:L989,bubble_leaving_gas_hitech,FIX,I wonder if it'll turn our car into technology!,不知道它会不会把我们的车变成技术!,不知道，会不会把咱们的车也变成高科技！
+english_events_bubbles:L990,bubble_leaving_gas_hitech,FIX,Our car is already... never mind.,我们的车已经... 没关系。,咱们这车本来就……算了。
+english_events_bubbles:L996,bubble_leaving_diner_doom,FIX,"The real ""curse"" of that diner was the nasty restroom.","那家餐厅真正的""诅咒""就是下流的洗手间",那餐厅真正的“诅咒”，是脏得要命的厕所。
+english_events_bubbles:L997,bubble_leaving_diner_doom,KEEP,Yuck.,恶心。,恶心。

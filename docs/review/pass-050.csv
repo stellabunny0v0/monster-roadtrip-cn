@@ -1,0 +1,87 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_pitstop:L5755,cdpollynovel,FIX,Her projects,她的项目,她的创作计划
+english_events_pitstop:L5757,cdpollynovel,FIX,Projects?,计划?,计划？
+english_events_pitstop:L5758,cdpollynovel,POLISH,"Well... don't laugh, but I sometimes wonder... what if I wrote something myself?","这个... 别笑,但我有时会想... 如果我自己写了什么呢?",嗯……别笑，我有时候会想……要不，我也自己写点东西？
+english_events_pitstop:L5759,cdpollynovel,POLISH,"Like, I LOVE devouring literature... so what if I vomited a bit of it too? Imagine!",我喜欢吞噬文学... 如果我也吐了点呢? 试想一下!,我是说，我这么爱狼吞虎咽地读文学……那也往外吐一点，怎么样？想想看！
+english_events_pitstop:L5760,cdpollynovel,FIX,Barf!,滚开!,呕！
+english_events_pitstop:L5761,cdpollynovel,KEEP,What would your novel be about?,你的小说会讲什么?,你的小说会讲什么?
+english_events_pitstop:L5762,cdpollynovel,KEEP,"Uhhh, I don't know yet. I've thought of several ideas, but I'm not sure yet.","呃,我还不知道 我考虑过几个想法,但还不确定.","呃,我还不知道 我考虑过几个想法,但还不确定."
+english_events_pitstop:L5763,cdpollynovel,FIX,"I sort of tend to avoid genre fiction myself, so I'd probably do the same for my own stuff.","我有点倾向于避免 流派虚构自己, 所以我可能做 同样的东西我自己。",我自己不怎么爱读类型小说，所以真写起来，大概也会避开这类。
+english_events_pitstop:L5764,cdpollynovel,FIX,"I've read some kick-ass genre fiction, but oftentimes I find it focuses so much on adhering to tropes and conventions...","我读过一些踢屁股的流派小说, 但经常我发现它 如此专注于遵守tropes和常规...",当然，我也读过特别牛的类型小说，可很多时候，它们太执着于照着套路和惯例来……
+english_events_pitstop:L5765,cdpollynovel,POLISH,"Sure, some amazing novels dare to go beyond all that, but most of the time it bores me a bit.","当然,一些惊人的小说 敢于超越这一切, 但大多数时候 它让我有点烦恼。",有些厉害的作品敢跳出框框，可大多数时候，看得我有点无聊。
+english_events_pitstop:L5766,cdpollynovel,POLISH,"Like... I respect it, but it's not my thing.","喜欢... 我尊重它,但这不是我的事。",我尊重这些作品，只是不对我的胃口。
+english_events_pitstop:L5767,cdpollynovel,FIX,Valid.,正当.,理解。
+english_events_pitstop:L5768,cdpollynovel,FIX,"And please, spare me the obvious metaphors that go for a message that is thrown at your face with the subtlety of a brick.",请别用那明显的比喻 来暗示一个字 用砖头的花花样砸你的脸,还有，别用那种一眼就能看穿的比喻讲道理，生硬得像拿砖头往我脸上砸。
+english_events_pitstop:L5769,cdpollynovel,POLISH,Good literature doesn't pretend to give you answers; it asks questions for you to ruminate about.,好文学不会假装给你答案;它让你反省一些问题。,好的文学，不是装作能给你答案，而是提出问题，让你慢慢琢磨。
+english_events_pitstop:L5770,cdpollynovel,FIX,And don't get me started on the characters! You know what Momma likes about them novel characters?,不要让我开始在角色! 你知道妈妈喜欢那些小说人物吗?,还有角色！这个我可有得说了！知道老娘喜欢什么样的小说人物吗？
+english_events_pitstop:L5771,cdpollynovel,FIX,For them to be hot?,要他们热吗?,性感的？
+english_events_pitstop:L5772,cdpollynovel,FIX,"No! I mean, yes... but the most important thing is for them to be relatable.","没有! 我是说,是的... 但最重要的事情是 他们可以重塑。",不是！我是说，是……可最重要的，是让人产生共鸣。
+english_events_pitstop:L5773,cdpollynovel,POLISH,"Gimme beautiful, complex, flawed characters that I can connect with.","给我漂亮,复杂,有缺陷的字符,我可以连接。",给我美好、复杂、有缺陷，又能让我共情的角色。
+english_events_pitstop:L5774,cdpollynovel,FIX,But also make them hot?,也让他们热吗?,但也得性感？
+english_events_pitstop:L5775,cdpollynovel,FIX,But also make them hot.,但也让他们发热。,但也得性感。
+english_events_pitstop:L5776,cdpollynovel,FIX,"Ugh, so many ideas of what I want in a novel... so little ideas of what the actual novel should be!","呃,这么多的想法 我想在一本小说中... 对这部小说应该是什么 想法太小了",唉，想在小说里看到什么，我有一大堆主意……真要自己写什么，倒没几个想法！
+english_events_pitstop:L5777,cdpollynovel,FIX,"Care to spare a girl some novel ideas, my friend?","想不想给一个女孩留点小点子,我的朋友?",朋友，要不要帮我这姑娘想几个小说点子？
+english_events_pitstop:L5778,cdpollynovel,POLISH,"""There's this sexy, brooding, cynical chainsmoker who survives in a city riddled by crime while reluctantly helping people in need... for money!""","""有一个性感,挑剔,愤世嫉俗的连锁店商,在充满犯罪之谜的城市活了下来,却不情愿地帮助有需要的人. . 为了钱!""",“一个性感、阴郁、愤世嫉俗的老烟枪，在罪恶横行的城市里挣扎求生，勉为其难地帮助有需要的人……为了钱！”
+english_events_pitstop:L5779,cdpollynovel,FIX,"""An intimacy coordinator that's so good at their craft, they're now on a journey to reconnect with their own intimacy in a way that's less intellectual.""","""一个非常擅长他们的作风的亲密协调者,他们现在正在以知识较少的方式与自己的亲密关系重新相通"".",“一位业务精湛的亲密戏协调员，开始尝试用不那么理性的方式，重新感受自己生活中的亲密。”
+english_events_pitstop:L5780,cdpollynovel,FIX,"""The gods gift everyone powerful magic rectangles that can connect all monsterkind... but what if they made monsterkind lonelier than ever?""","""众神赐予每个人强大的魔法矩能连接出所有怪物"" 但是如果他们让怪物变得比以往更孤独呢?""",“众神赐给每个人强大的魔法长方块，能让所有怪物彼此相连……可要是，它们反而让怪物们变得前所未有地孤独呢？”
+english_events_pitstop:L5782,cdpollynovel,FIX,Boo... that's a noir novel.,嘘... 这是一部小说,亲爱的……这是黑色小说啊。
+english_events_pitstop:L5783,cdpollynovel,FIX,Which is... you know... genre fiction.,这... 你知道吗... 流派小说.,也就是……你懂的……类型小说。
+english_events_pitstop:L5784,cdpollynovel,FIX,"No, no, it's totally not a noir novel.","不,不,这完全不是小说。",不，不，绝对不是黑色小说。
+english_events_pitstop:L5785,cdpollynovel,KEEP,How so?,怎么会这样?,怎么会这样?
+english_events_pitstop:L5786,cdpollynovel,POLISH,"Well, you may have assumed this chainsmoker was a detective. Little did you know, he smokes... a magical pipe!","你可能以为这个连锁店主是个侦探 你知道,他抽烟... 神奇的烟斗!",你可能以为这个老烟枪是个侦探，可你不知道，他抽的是……魔法烟斗！
+english_events_pitstop:L5787,cdpollynovel,KEEP,Eh... okay.,额... 还好。,额... 还好。
+english_events_pitstop:L5788,cdpollynovel,FIX,"Yes, for he is a wizard! NO, a wizard-slash-bounty hunter!","是的,他是个巫师! 不,一个巫师的猎人!",没错，因为他是个巫师！不，是兼任赏金猎人的巫师！
+english_events_pitstop:L5789,cdpollynovel,KEEP,Okay...,"好吧,我说...","好吧,我说..."
+english_events_pitstop:L5790,cdpollynovel,POLISH,Yes! He accepts missions in exchange for money. All sort of missions: from slaying dragons to saving kingdoms in need. A true brooding hero!,没错! 他接受任务以换取金钱. 各种任务: 从屠龙到拯救有需要的王国. 一个真正的英雄!,对！他接任务赚钱，什么任务都有：屠龙，拯救危难中的王国。多阴郁的一位英雄！
+english_events_pitstop:L5791,cdpollynovel,POLISH,So... let me get this straight...,所以说... 让我直说吧...,所以……我捋捋啊……
+english_events_pitstop:L5792,cdpollynovel,FIX,"Your novel idea looks like a noir novel, which is genre fiction.",你的小说 看起来像是小说 这是流派小说,你这个小说点子，看着像黑色小说，是类型小说。
+english_events_pitstop:L5793,cdpollynovel,FIX,"But when you look closer into it, it happens not to be a noir novel...","但当你仔细观察, 它碰巧不是一部小说...",可仔细一看，发现它其实不是黑色小说……
+english_events_pitstop:L5794,cdpollynovel,KEEP,Yes...,对...,对...
+english_events_pitstop:L5795,cdpollynovel,FIX,...but a fantasy adventure novel... which still is genre fiction.,但幻想冒险小说... 仍然是流派的虚构。,……而是奇幻冒险小说……但还是类型小说。
+english_events_pitstop:L5796,cdpollynovel,KEEP,...,...,...
+english_events_pitstop:L5797,cdpollynovel,POLISH,"...well, when you put it like that...",...当你这样说的时候...,……好吧，你这么一说……
+english_events_pitstop:L5798,cdpollynovel,KEEP,Yep.,没错。,没错。
+english_events_pitstop:L5799,cdpollynovel,FIX,"I'm giving you an ""A"" for ""Absolutely ignoring everything I just said before"".","我给了你一个""A"",因为""绝对忽略了我刚才所说的一切"".",给你打个A——“啊，我刚才说的话，你一句都没听”的A。
+english_events_pitstop:L5800,cdpollynovel,FIX,"You know how to make a girl feel heard, boo.","你知道如何让一个女孩 感觉听到,嘘。",你可真会让一个姑娘觉得，你在认真听她说话啊，亲爱的。
+english_events_pitstop:L5801,cdpollynovel,FIX,On that note... I'm out. Bye.,在这点上... 我出来了。 再见。,既然这样……我走了。拜。
+english_events_pitstop:L5802,cdpollynovel,FIX,"Your noir detective's next case could be the mystery of how you could fuck this up so badly... but then again, he's apparently a wizard-slash-bounty hunter, so what would he know?",你的NOER侦探的下个案子 可能是你如何把事情搞砸的谜团... 但是他还是个巫师的猎人 他又知道些什么?,你的黑色小说侦探，下一个案子可以查查，你怎么能搞砸到这种地步……不过，他好像是个兼任赏金猎人的巫师，又能懂什么呢？
+english_events_pitstop:L5804,cdpollynovel,POLISH,"That's actually... a really good idea, boo! I'm legit surprised.","这其实... 真是个好主意,嘘! 我感到很惊讶",这其实……真是个好点子，宝贝！我真没想到。
+english_events_pitstop:L5805,cdpollynovel,KEEP,Uh... thanks?,额... 谢谢?,额... 谢谢?
+english_events_pitstop:L5806,cdpollynovel,POLISH,"Like, intimacy is a subject I find super interesting.","像,亲密性是一个话题 我发现超级有趣。",亲密这件事，我一直觉得特别有意思。
+english_events_pitstop:L5807,cdpollynovel,FIX,It sort of transcends sex or love... it's incredibly universal; undeniably relatable.,"这有点超越了性或爱... 它非常普遍,不可否认是可重复的。",它不只关乎性或者爱情……几乎人人都会经历，也人人都能产生共鸣。
+english_events_pitstop:L5808,cdpollynovel,FIX,I would have to do extensive research on the work of intimacy coordinators to be faithful to the character...,"我不得不对亲密关系协调员的工作进行广泛的研究,以便忠实于这个性格......",要把这个角色写得真实，我得好好研究一下亲密戏协调员的工作……
+english_events_pitstop:L5809,cdpollynovel,POLISH,"...but at the same time, I can draw a lot from personal experience. It's a lovely mix!","但与此同时,我可以从个人经验中汲取很多东西。 这是一个可爱的组合!",……同时，又能借鉴很多自己的经历。这种结合，挺美妙的！
+english_events_pitstop:L5810,cdpollynovel,POLISH,And I could write it in a way that doesn't pack obvious answers.,我可以用不带明显答案的方式写出来。,而且，我可以写得不去强塞什么现成答案。
+english_events_pitstop:L5811,cdpollynovel,FIX,An exploration of intimacy from someone who needs to balance their technical expertise with their subjective experience...,探索与需要兼顾其技术专长与主观经验的人的亲密关系. .,从一个人的角度探索亲密：这个人，得在专业知识和自身感受之间，寻找平衡……
+english_events_pitstop:L5812,cdpollynovel,POLISH,I should aim for people to reflect on their own relationship with intimacy.,我的目标应该是让人们反思自己与亲密的关系.,我想让读者反思，自己是怎么面对亲密关系的。
+english_events_pitstop:L5813,cdpollynovel,FIX,"%CURRENTPLAYERNAME%, you're a fuckin' genius.",%CURRENTPLAYERNAME%你是个天才,%CURRENTPLAYERNAME%，你他妈真是个天才。
+english_events_pitstop:L5814,cdpollynovel,POLISH,I've heard it before. I cannot confirm nor deny that statement.,前所闻已. 我无法确认或否认这一声明。,这话听过。我对此既不承认，也不否认。
+english_events_pitstop:L5815,cdpollynovel,FIX,"Heh, you dog!","嘿,你这个狗!",嘿，你这坏家伙！
+english_events_pitstop:L5816,cdpollynovel,POLISH,"Listen, I think this could be it. I might explore this idea further once we're back from this road trip.","听着,我想这可能是它。 我可能会进一步探索这个想法 一旦我们从这趟公路旅行回来。",说真的，这点子没准真行。等公路旅行结束，我可能会继续琢磨下去。
+english_events_pitstop:L5817,cdpollynovel,POLISH,Would you be up for reading the manuscript and tossing some feedback at me?,你能帮我读一下手稿 并给我一些反馈吗?,你愿不愿意帮我读读手稿，提点意见？
+english_events_pitstop:L5818,cdpollynovel,KEEP,Sure thing!,没问题!,没问题!
+english_events_pitstop:L5819,cdpollynovel,POLISH,We could even... exchange notes on intimacy.,我们甚至可以... 交换关于亲密关系的笔记。,咱们甚至可以……交流一下亲密关系的心得。
+english_events_pitstop:L5820,cdpollynovel,POLISH,Ah... I mean... uh... eh...,摆... 我是说... 额... 额...,啊……我是说……呃……嗯……
+english_events_pitstop:L5821,cdpollynovel,FIX,And so you spent the night exchanging notes on intimacy. It was incredibly edifying AND arousing... the best combination!,所以你花了一夜的时间 交换关于亲密关系的说明。 它令人难以置信地振奋和振奋... 最好的组合!,于是，这一晚，你们一直在交流亲密关系的心得。既长见识，又勾起了欲望……最棒的组合！
+english_events_pitstop:L5822,cdpollynovel,POLISH,Helping your friends can be fun!,帮你的朋友会很有趣的!,帮助朋友，也可以很好玩！
+english_events_pitstop:L5824,cdpollynovel,FIX,Whoa... that's legit...,珃... 这是合法的...,哇……这可真是……
+english_events_pitstop:L5825,cdpollynovel,FIX,...lazy writing.,...懒散地写作。,……偷懒的写法。
+english_events_pitstop:L5826,cdpollynovel,FIX,Whaaaa...!,"哇,哇,哇,哇,哇,哇!",什——么……！
+english_events_pitstop:L5827,cdpollynovel,FIX,"I mean, it's basically ""phones bad""?","我的意思是,它基本上是""电话坏""?",这基本就是在说“手机有害”吧？
+english_events_pitstop:L5828,cdpollynovel,POLISH,"Well, Polly, no one said the magic rectangles are meant to represent phones.",这个嘛 波莉没人说魔法矩是用来代表手机的,波莉，可没人说那些魔法长方块代表手机。
+english_events_pitstop:L5829,cdpollynovel,KEEP,Eh...,额...,额...
+english_events_pitstop:L5830,cdpollynovel,POLISH,"You see: that's you, as a reader, making your own interpretation.","你看,那是你,作为一个读者, 做你自己的解释。",你看，这就是你作为读者，作出的个人解读。
+english_events_pitstop:L5831,cdpollynovel,FIX,"Yes, I see... powerful magic rectangles made to connect all monsterkind, yes.","对,我明白了... 强大的魔法矩形 用来连接所有怪物,是的。",嗯，明白了……能让所有怪物彼此相连的强大魔法长方块，是吧。
+english_events_pitstop:L5832,cdpollynovel,POLISH,"Tell me, boo: what's another potential interpretation, then?","告诉我,布:还有什么可能的解释呢?",那你说说，亲爱的，还有什么别的可能解读？
+english_events_pitstop:L5833,cdpollynovel,FIX,Hmmm... walkie-talkies!,那个... 对讲机!,嗯……对讲机！
+english_events_pitstop:L5834,cdpollynovel,KEEP,Ah.,啊。,啊。
+english_events_pitstop:L5835,cdpollynovel,POLISH,"So, phones (or maybe walkie-talkies) are this incredible gift built to connect monsterkind, and yet they make us more lonely.","所以,电话(或可能是对讲机)是用来连接怪物的不可思议的天赋,然而它们却让我们更加孤独.",所以，手机（也可能是对讲机）是为了连接怪物们而造的奇妙礼物，结果却让我们更孤独。
+english_events_pitstop:L5836,cdpollynovel,POLISH,"That's your interpretation, which is one of many!","这就是你的解释,这是很多解释之一!",这只是你的解读，众多解读中的一种！
+english_events_pitstop:L5837,cdpollynovel,FIX,You've truly hit a three-in-one:,你确实打出三分之一:,你真是一口气凑齐了三样：
+english_events_pitstop:L5838,cdpollynovel,FIX,Obvious metaphors.,显相相喻相.,一眼就看穿的比喻。
+english_events_pitstop:L5839,cdpollynovel,FIX,"Unsubtle, preachy message.","虚而通之,道教相传.",生硬、说教的主题。
+english_events_pitstop:L5840,cdpollynovel,FIX,And treating me like I'm dumb.,并待我为哑.,还把我当傻子。
+english_events_pitstop:L5841,cdpollynovel,POLISH,I'm positively baffled.,我非常困惑。,我可真是服了。
+english_events_pitstop:L5842,cdpollynovel,FIX,"Now, if you excuse me, I will disengage from this awful convo and check my powerful magic rectangle instead.","现在,如果你原谅我,我会 脱离这个可怕的召集 并检查我的强大的魔法矩取而代之。",恕不奉陪，我要退出这场烂对话，去看看自己的强大魔法长方块了。
+english_events_pitstop:L5843,cdpollynovel,KEEP,Bye.,再见。,再见。
+english_events_pitstop:L5844,cdpollynovel,FIX,Damned powerful magic rectangles! Once again making monsterkind (and more specifically you) feel lonely.,"该死的强大的魔力矩! 再次使怪物(更具体地说,你)感到孤独.",该死的强大魔法长方块！又让怪物们——尤其是你——感到孤独了。

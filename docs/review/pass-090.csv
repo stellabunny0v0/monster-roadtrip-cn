@@ -1,0 +1,89 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_endings:L1488,ending_mvp_cryptid_convention_blue,FIX,You win everyone's hearts at Cryptid Prom.,你在Cryptid Prom赢得了每个人的心,你在神秘生物舞会上，俘获了所有人的心。
+english_events_endings:L1489,ending_mvp_cryptid_convention_blue,FIX,Is it your sick dance moves? Your intoxicating confidence? Your cool hairdo?,是你的病态舞蹈动作吗? 你沉醉的信心吗? 你的凉快发型?,是因为你酷炫的舞步？令人沉醉的自信？还是那个超酷的发型？
+english_events_endings:L1490,ending_mvp_cryptid_convention_blue,POLISH,Probably a blend of all that!,可能就是这些的混合体!,多半都占了点！
+english_events_endings:L1491,ending_mvp_cryptid_convention_blue,FIX,It's one of those nights when you feel like the center of the fuckin' universe -- and people can feel it!,"这是一个夜晚,当你感觉自己像 宇宙的中心—— 人们可以感觉到它!",这样的夜晚，你真觉得，自己就是他妈的宇宙中心。而且，所有人都感受得到！
+english_events_endings:L1492,ending_mvp_cryptid_convention_blue,FIX,You become so wildly popular that the cryptids insist that you become a cryptid too.,你变得非常受欢迎 以至于地窖里的人 坚持要你成为地窖里的人,你受欢迎到，神秘生物们非要让你，也成为他们的一员。
+english_events_endings:L1493,ending_mvp_cryptid_convention_blue,FIX,And who are you to refuse?,那你是谁拒绝的?,这你还怎么拒绝？
+english_events_endings:L1495,ending_mvp_cryptid_convention_blue,FIX,You use your signature aloofness to surround yourself in sexy mystery.,你用你的标志 冷漠 包围自己 在性感的神秘。,你摆出招牌式的高冷范儿，让自己笼上一层性感的神秘感。
+english_events_endings:L1496,ending_mvp_cryptid_convention_blue,KEEP,"Soon, everyone is talking about you.","很快,每个人都在谈论你。","很快,每个人都在谈论你。"
+english_events_endings:L1497,ending_mvp_cryptid_convention_blue,POLISH,"""What is that creature? Is it even real?""","""这是什么生物? 这是真的吗?""",“那是什么生物？真的存在吗？”
+english_events_endings:L1498,ending_mvp_cryptid_convention_blue,POLISH,"It's no wonder this happens. You're so awesome, it was only a matter of time before people became completely obsessed with you.","难怪会这样 你这么棒,只是时间问题 人们开始完全迷上你。",会这样一点也不奇怪。你这么棒，大家迟早会彻底迷上你。
+english_events_endings:L1499,ending_mvp_cryptid_convention_blue,FIX,"It really feels like you not only won ""Monster Roadtrip"", but also ""Cryptid Prom"".","感觉你不仅赢了怪物公路旅行"",但同时也是""Cryptid Prom"".",你感觉，不光《怪物公路旅行》赢了，《神秘生物舞会》也拿下了。
+english_events_endings:L1507,ending_mvp_cryptid_convention_green,FIX,You win everyone's hearts at Cryptid Prom.,你在Cryptid Prom赢得了每个人的心,你在神秘生物舞会上，俘获了所有人的心。
+english_events_endings:L1508,ending_mvp_cryptid_convention_green,FIX,Is it your sick dance moves? Your intoxicating confidence? Your cool hairdo?,是你的病态舞蹈动作吗? 你沉醉的信心吗? 你的凉快发型?,是因为你酷炫的舞步？令人沉醉的自信？还是那个超酷的发型？
+english_events_endings:L1509,ending_mvp_cryptid_convention_green,POLISH,Probably a blend of all that!,可能就是这些的混合体!,多半都占了点！
+english_events_endings:L1510,ending_mvp_cryptid_convention_green,FIX,It's one of those nights when you feel like the center of the fuckin' universe -- and people can feel it!,"这是一个夜晚,当你感觉自己像 宇宙的中心—— 人们可以感觉到它!",这样的夜晚，你真觉得，自己就是他妈的宇宙中心。而且，所有人都感受得到！
+english_events_endings:L1511,ending_mvp_cryptid_convention_green,FIX,You become so wildly popular that the cryptids insist that you become a cryptid too.,你变得非常受欢迎 以至于地窖里的人 坚持要你成为地窖里的人,你受欢迎到，神秘生物们非要让你，也成为他们的一员。
+english_events_endings:L1512,ending_mvp_cryptid_convention_green,FIX,And who are you to refuse?,那你是谁拒绝的?,这你还怎么拒绝？
+english_events_endings:L1514,ending_mvp_cryptid_convention_green,FIX,You use your signature aloofness to surround yourself in sexy mystery.,你用你的标志 冷漠 包围自己 在性感的神秘。,你摆出招牌式的高冷范儿，让自己笼上一层性感的神秘感。
+english_events_endings:L1515,ending_mvp_cryptid_convention_green,KEEP,"Soon, everyone is talking about you.","很快,每个人都在谈论你。","很快,每个人都在谈论你。"
+english_events_endings:L1516,ending_mvp_cryptid_convention_green,POLISH,"""What is that creature? Is it even real?""","""这是什么生物? 这是真的吗?""",“那是什么生物？真的存在吗？”
+english_events_endings:L1517,ending_mvp_cryptid_convention_green,POLISH,"It's no wonder this happens. You're so awesome, it was only a matter of time before people became completely obsessed with you.","难怪会这样 你这么棒,只是时间问题 人们开始完全迷上你。",会这样一点也不奇怪。你这么棒，大家迟早会彻底迷上你。
+english_events_endings:L1518,ending_mvp_cryptid_convention_green,FIX,"It really feels like you not only won ""Monster Roadtrip"", but also ""Cryptid Prom"".","感觉你不仅赢了怪物公路旅行"",但同时也是""Cryptid Prom"".",你感觉，不光《怪物公路旅行》赢了，《神秘生物舞会》也拿下了。
+english_events_endings:L1526,ending_mvp_cryptid_convention_red,FIX,You win everyone's hearts at Cryptid Prom.,你在Cryptid Prom赢得了每个人的心,你在神秘生物舞会上，俘获了所有人的心。
+english_events_endings:L1527,ending_mvp_cryptid_convention_red,FIX,Is it your sick dance moves? Your intoxicating confidence? Your cool hairdo?,是你的病态舞蹈动作吗? 你沉醉的信心吗? 你的凉快发型?,是因为你酷炫的舞步？令人沉醉的自信？还是那个超酷的发型？
+english_events_endings:L1528,ending_mvp_cryptid_convention_red,POLISH,Probably a blend of all that!,可能就是这些的混合体!,多半都占了点！
+english_events_endings:L1529,ending_mvp_cryptid_convention_red,FIX,It's one of those nights when you feel like the center of the fuckin' universe -- and people can feel it!,"这是一个夜晚,当你感觉自己像 宇宙的中心—— 人们可以感觉到它!",这样的夜晚，你真觉得，自己就是他妈的宇宙中心。而且，所有人都感受得到！
+english_events_endings:L1530,ending_mvp_cryptid_convention_red,FIX,You become so wildly popular that the cryptids insist that you become a cryptid too.,你变得非常受欢迎 以至于地窖里的人 坚持要你成为地窖里的人,你受欢迎到，神秘生物们非要让你，也成为他们的一员。
+english_events_endings:L1531,ending_mvp_cryptid_convention_red,FIX,And who are you to refuse?,那你是谁拒绝的?,这你还怎么拒绝？
+english_events_endings:L1533,ending_mvp_cryptid_convention_red,FIX,You use your signature aloofness to surround yourself in sexy mystery.,你用你的标志 冷漠 包围自己 在性感的神秘。,你摆出招牌式的高冷范儿，让自己笼上一层性感的神秘感。
+english_events_endings:L1534,ending_mvp_cryptid_convention_red,KEEP,"Soon, everyone is talking about you.","很快,每个人都在谈论你。","很快,每个人都在谈论你。"
+english_events_endings:L1535,ending_mvp_cryptid_convention_red,POLISH,"""What is that creature? Is it even real?""","""这是什么生物? 这是真的吗?""",“那是什么生物？真的存在吗？”
+english_events_endings:L1536,ending_mvp_cryptid_convention_red,POLISH,"It's no wonder this happens. You're so awesome, it was only a matter of time before people became completely obsessed with you.","难怪会这样 你这么棒,只是时间问题 人们开始完全迷上你。",会这样一点也不奇怪。你这么棒，大家迟早会彻底迷上你。
+english_events_endings:L1537,ending_mvp_cryptid_convention_red,FIX,"It really feels like you not only won ""Monster Roadtrip"", but also ""Cryptid Prom"".","感觉你不仅赢了怪物公路旅行"",但同时也是""Cryptid Prom"".",你感觉，不光《怪物公路旅行》赢了，《神秘生物舞会》也拿下了。
+english_events_endings:L1545,ending_mvp_cryptid_convention_yellow,FIX,You win everyone's hearts at Cryptid Prom.,你在Cryptid Prom赢得了每个人的心,你在神秘生物舞会上，俘获了所有人的心。
+english_events_endings:L1546,ending_mvp_cryptid_convention_yellow,FIX,Is it your sick dance moves? Your intoxicating confidence? Your cool hairdo?,是你的病态舞蹈动作吗? 你沉醉的信心吗? 你的凉快发型?,是因为你酷炫的舞步？令人沉醉的自信？还是那个超酷的发型？
+english_events_endings:L1547,ending_mvp_cryptid_convention_yellow,POLISH,Probably a blend of all that!,可能就是这些的混合体!,多半都占了点！
+english_events_endings:L1548,ending_mvp_cryptid_convention_yellow,FIX,It's one of those nights when you feel like the center of the fuckin' universe -- and people can feel it!,"这是一个夜晚,当你感觉自己像 宇宙的中心—— 人们可以感觉到它!",这样的夜晚，你真觉得，自己就是他妈的宇宙中心。而且，所有人都感受得到！
+english_events_endings:L1549,ending_mvp_cryptid_convention_yellow,FIX,You become so wildly popular that the cryptids insist that you become a cryptid too.,你变得非常受欢迎 以至于地窖里的人 坚持要你成为地窖里的人,你受欢迎到，神秘生物们非要让你，也成为他们的一员。
+english_events_endings:L1550,ending_mvp_cryptid_convention_yellow,FIX,And who are you to refuse?,那你是谁拒绝的?,这你还怎么拒绝？
+english_events_endings:L1552,ending_mvp_cryptid_convention_yellow,FIX,You use your signature aloofness to surround yourself in sexy mystery.,你用你的标志 冷漠 包围自己 在性感的神秘。,你摆出招牌式的高冷范儿，让自己笼上一层性感的神秘感。
+english_events_endings:L1553,ending_mvp_cryptid_convention_yellow,KEEP,"Soon, everyone is talking about you.","很快,每个人都在谈论你。","很快,每个人都在谈论你。"
+english_events_endings:L1554,ending_mvp_cryptid_convention_yellow,POLISH,"""What is that creature? Is it even real?""","""这是什么生物? 这是真的吗?""",“那是什么生物？真的存在吗？”
+english_events_endings:L1555,ending_mvp_cryptid_convention_yellow,POLISH,"It's no wonder this happens. You're so awesome, it was only a matter of time before people became completely obsessed with you.","难怪会这样 你这么棒,只是时间问题 人们开始完全迷上你。",会这样一点也不奇怪。你这么棒，大家迟早会彻底迷上你。
+english_events_endings:L1556,ending_mvp_cryptid_convention_yellow,FIX,"It really feels like you not only won ""Monster Roadtrip"", but also ""Cryptid Prom"".","感觉你不仅赢了怪物公路旅行"",但同时也是""Cryptid Prom"".",你感觉，不光《怪物公路旅行》赢了，《神秘生物舞会》也拿下了。
+english_events_endings:L1564,ending_mvp_cryptid_convention_zoe,FIX,You win everyone's hearts at Cryptid Prom.,你在Cryptid Prom赢得了每个人的心,你在神秘生物舞会上，俘获了所有人的心。
+english_events_endings:L1565,ending_mvp_cryptid_convention_zoe,FIX,Is it your sick dance moves? Your intoxicating confidence? Your cool hairdo?,是你的病态舞蹈动作吗? 你沉醉的信心吗? 你的凉快发型?,是因为你酷炫的舞步？令人沉醉的自信？还是那个超酷的发型？
+english_events_endings:L1566,ending_mvp_cryptid_convention_zoe,POLISH,Probably a blend of all that!,可能就是这些的混合体!,多半都占了点！
+english_events_endings:L1567,ending_mvp_cryptid_convention_zoe,FIX,It's one of those nights when you feel like the center of the fuckin' universe -- and people can feel it!,"这是一个夜晚,当你感觉自己像 宇宙的中心—— 人们可以感觉到它!",这样的夜晚，你真觉得，自己就是他妈的宇宙中心。而且，所有人都感受得到！
+english_events_endings:L1568,ending_mvp_cryptid_convention_zoe,FIX,You become so wildly popular that the cryptids insist that you become a cryptid too.,你变得非常受欢迎 以至于地窖里的人 坚持要你成为地窖里的人,你受欢迎到，神秘生物们非要让你，也成为他们的一员。
+english_events_endings:L1569,ending_mvp_cryptid_convention_zoe,FIX,And who are you to refuse?,那你是谁拒绝的?,这你还怎么拒绝？
+english_events_endings:L1571,ending_mvp_cryptid_convention_zoe,FIX,You use your signature aloofness to surround yourself in sexy mystery.,你用你的标志 冷漠 包围自己 在性感的神秘。,你摆出招牌式的高冷范儿，让自己笼上一层性感的神秘感。
+english_events_endings:L1572,ending_mvp_cryptid_convention_zoe,KEEP,"Soon, everyone is talking about you.","很快,每个人都在谈论你。","很快,每个人都在谈论你。"
+english_events_endings:L1573,ending_mvp_cryptid_convention_zoe,POLISH,"""What is that creature? Is it even real?""","""这是什么生物? 这是真的吗?""",“那是什么生物？真的存在吗？”
+english_events_endings:L1574,ending_mvp_cryptid_convention_zoe,POLISH,"It's no wonder this happens. You're so awesome, it was only a matter of time before people became completely obsessed with you.","难怪会这样 你这么棒,只是时间问题 人们开始完全迷上你。",会这样一点也不奇怪。你这么棒，大家迟早会彻底迷上你。
+english_events_endings:L1575,ending_mvp_cryptid_convention_zoe,FIX,"It really feels like you not only won ""Monster Roadtrip"", but also ""Cryptid Prom"".","感觉你不仅赢了怪物公路旅行"",但同时也是""Cryptid Prom"".",你感觉，不光《怪物公路旅行》赢了，《神秘生物舞会》也拿下了。
+english_events_endings:L1583,ending_mvp_cryptid_convention_juan,FIX,You win everyone's hearts at Cryptid Prom.,你在Cryptid Prom赢得了每个人的心,你在神秘生物舞会上，俘获了所有人的心。
+english_events_endings:L1584,ending_mvp_cryptid_convention_juan,FIX,Is it your sick dance moves? Your intoxicating confidence? Your cool hairdo?,是你的病态舞蹈动作吗? 你沉醉的信心吗? 你的凉快发型?,是因为你酷炫的舞步？令人沉醉的自信？还是那个超酷的发型？
+english_events_endings:L1585,ending_mvp_cryptid_convention_juan,POLISH,Probably a blend of all that!,可能就是这些的混合体!,多半都占了点！
+english_events_endings:L1586,ending_mvp_cryptid_convention_juan,FIX,It's one of those nights when you feel like the center of the fuckin' universe -- and people can feel it!,"这是一个夜晚,当你感觉自己像 宇宙的中心—— 人们可以感觉到它!",这样的夜晚，你真觉得，自己就是他妈的宇宙中心。而且，所有人都感受得到！
+english_events_endings:L1587,ending_mvp_cryptid_convention_juan,FIX,You become so wildly popular that the cryptids insist that you become a cryptid too.,你变得非常受欢迎 以至于地窖里的人 坚持要你成为地窖里的人,你受欢迎到，神秘生物们非要让你，也成为他们的一员。
+english_events_endings:L1588,ending_mvp_cryptid_convention_juan,FIX,And who are you to refuse?,那你是谁拒绝的?,这你还怎么拒绝？
+english_events_endings:L1590,ending_mvp_cryptid_convention_juan,FIX,You use your signature aloofness to surround yourself in sexy mystery.,你用你的标志 冷漠 包围自己 在性感的神秘。,你摆出招牌式的高冷范儿，让自己笼上一层性感的神秘感。
+english_events_endings:L1591,ending_mvp_cryptid_convention_juan,KEEP,"Soon, everyone is talking about you.","很快,每个人都在谈论你。","很快,每个人都在谈论你。"
+english_events_endings:L1592,ending_mvp_cryptid_convention_juan,POLISH,"""What is that creature? Is it even real?""","""这是什么生物? 这是真的吗?""",“那是什么生物？真的存在吗？”
+english_events_endings:L1593,ending_mvp_cryptid_convention_juan,POLISH,"It's no wonder this happens. You're so awesome, it was only a matter of time before people became completely obsessed with you.","难怪会这样 你这么棒,只是时间问题 人们开始完全迷上你。",会这样一点也不奇怪。你这么棒，大家迟早会彻底迷上你。
+english_events_endings:L1594,ending_mvp_cryptid_convention_juan,FIX,"It really feels like you not only won ""Monster Roadtrip"", but also ""Cryptid Prom"".","感觉你不仅赢了怪物公路旅行"",但同时也是""Cryptid Prom"".",你感觉，不光《怪物公路旅行》赢了，《神秘生物舞会》也拿下了。
+english_events_endings:L1602,ending_mvp_cryptid_convention_cinnamon,FIX,You win everyone's hearts at Cryptid Prom.,你在Cryptid Prom赢得了每个人的心,你在神秘生物舞会上，俘获了所有人的心。
+english_events_endings:L1603,ending_mvp_cryptid_convention_cinnamon,FIX,Is it your sick dance moves? Your intoxicating confidence? Your cool hairdo?,是你的病态舞蹈动作吗? 你沉醉的信心吗? 你的凉快发型?,是因为你酷炫的舞步？令人沉醉的自信？还是那个超酷的发型？
+english_events_endings:L1604,ending_mvp_cryptid_convention_cinnamon,POLISH,Probably a blend of all that!,可能就是这些的混合体!,多半都占了点！
+english_events_endings:L1605,ending_mvp_cryptid_convention_cinnamon,FIX,It's one of those nights when you feel like the center of the fuckin' universe -- and people can feel it!,"这是一个夜晚,当你感觉自己像 宇宙的中心—— 人们可以感觉到它!",这样的夜晚，你真觉得，自己就是他妈的宇宙中心。而且，所有人都感受得到！
+english_events_endings:L1606,ending_mvp_cryptid_convention_cinnamon,FIX,You become so wildly popular that the cryptids insist that you become a cryptid too.,你变得非常受欢迎 以至于地窖里的人 坚持要你成为地窖里的人,你受欢迎到，神秘生物们非要让你，也成为他们的一员。
+english_events_endings:L1607,ending_mvp_cryptid_convention_cinnamon,FIX,And who are you to refuse?,那你是谁拒绝的?,这你还怎么拒绝？
+english_events_endings:L1609,ending_mvp_cryptid_convention_cinnamon,FIX,You use your signature aloofness to surround yourself in sexy mystery.,你用你的标志 冷漠 包围自己 在性感的神秘。,你摆出招牌式的高冷范儿，让自己笼上一层性感的神秘感。
+english_events_endings:L1610,ending_mvp_cryptid_convention_cinnamon,KEEP,"Soon, everyone is talking about you.","很快,每个人都在谈论你。","很快,每个人都在谈论你。"
+english_events_endings:L1611,ending_mvp_cryptid_convention_cinnamon,POLISH,"""What is that creature? Is it even real?""","""这是什么生物? 这是真的吗?""",“那是什么生物？真的存在吗？”
+english_events_endings:L1612,ending_mvp_cryptid_convention_cinnamon,POLISH,"It's no wonder this happens. You're so awesome, it was only a matter of time before people became completely obsessed with you.","难怪会这样 你这么棒,只是时间问题 人们开始完全迷上你。",会这样一点也不奇怪。你这么棒，大家迟早会彻底迷上你。
+english_events_endings:L1613,ending_mvp_cryptid_convention_cinnamon,FIX,"It really feels like you not only won ""Monster Roadtrip"", but also ""Cryptid Prom"".","感觉你不仅赢了怪物公路旅行"",但同时也是""Cryptid Prom"".",你感觉，不光《怪物公路旅行》赢了，《神秘生物舞会》也拿下了。
+english_events_endings:L1621,ending_mvp_cryptid_convention_glitch,FIX,You win everyone's hearts at Cryptid Prom.,你在Cryptid Prom赢得了每个人的心,你在神秘生物舞会上，俘获了所有人的心。
+english_events_endings:L1622,ending_mvp_cryptid_convention_glitch,FIX,Is it your sick dance moves? Your intoxicating confidence? Your cool hairdo?,是你的病态舞蹈动作吗? 你沉醉的信心吗? 你的凉快发型?,是因为你酷炫的舞步？令人沉醉的自信？还是那个超酷的发型？
+english_events_endings:L1623,ending_mvp_cryptid_convention_glitch,POLISH,Probably a blend of all that!,可能就是这些的混合体!,多半都占了点！
+english_events_endings:L1624,ending_mvp_cryptid_convention_glitch,FIX,It's one of those nights when you feel like the center of the fuckin' universe -- and people can feel it!,"这是一个夜晚,当你感觉自己像 宇宙的中心—— 人们可以感觉到它!",这样的夜晚，你真觉得，自己就是他妈的宇宙中心。而且，所有人都感受得到！
+english_events_endings:L1625,ending_mvp_cryptid_convention_glitch,FIX,You become so wildly popular that the cryptids insist that you become a cryptid too.,你变得非常受欢迎 以至于地窖里的人 坚持要你成为地窖里的人,你受欢迎到，神秘生物们非要让你，也成为他们的一员。
+english_events_endings:L1626,ending_mvp_cryptid_convention_glitch,FIX,And who are you to refuse?,那你是谁拒绝的?,这你还怎么拒绝？
+english_events_endings:L1628,ending_mvp_cryptid_convention_glitch,FIX,You use your signature aloofness to surround yourself in sexy mystery.,你用你的标志 冷漠 包围自己 在性感的神秘。,你摆出招牌式的高冷范儿，让自己笼上一层性感的神秘感。
+english_events_endings:L1629,ending_mvp_cryptid_convention_glitch,KEEP,"Soon, everyone is talking about you.","很快,每个人都在谈论你。","很快,每个人都在谈论你。"
+english_events_endings:L1630,ending_mvp_cryptid_convention_glitch,POLISH,"""What is that creature? Is it even real?""","""这是什么生物? 这是真的吗?""",“那是什么生物？真的存在吗？”
+english_events_endings:L1631,ending_mvp_cryptid_convention_glitch,POLISH,"It's no wonder this happens. You're so awesome, it was only a matter of time before people became completely obsessed with you.","难怪会这样 你这么棒,只是时间问题 人们开始完全迷上你。",会这样一点也不奇怪。你这么棒，大家迟早会彻底迷上你。
+english_events_endings:L1632,ending_mvp_cryptid_convention_glitch,FIX,"It really feels like you not only won ""Monster Roadtrip"", but also ""Cryptid Prom"".","感觉你不仅赢了怪物公路旅行"",但同时也是""Cryptid Prom"".",你感觉，不光《怪物公路旅行》赢了，《神秘生物舞会》也拿下了。

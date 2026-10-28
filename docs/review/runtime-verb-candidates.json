@@ -1,0 +1,419 @@
+[
+  {
+    "row_id": "english_events_endings:L1081",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_'S_'RE%"
+    ]
+  },
+  {
+    "row_id": "english_events_endings:L1082",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_IS_ARE%"
+    ]
+  },
+  {
+    "row_id": "english_events_endings:L2168",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_IS_ARE%"
+    ]
+  },
+  {
+    "row_id": "english_events_endings:L2378",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_AMUSES_AMUSE%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L365",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_INHALES_INHALE%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L413",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_DOES_DO%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L415",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_GOES_GO%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L564",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_'S_'RE%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L609",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_'S_'VE%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L851",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_'S_'VE%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L1100",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_DOES_DO%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L1536",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_'S_'RE%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L2051",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_HAS_HAVE%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L2054",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_DOES_DO%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L2118",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_'S_'RE%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L2142",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_WANTS_WANT%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L2208",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_'S_'VE%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L2728",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_LEAVES_LEAVE%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L2738",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_'S_'VE%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L2776",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_LETS_LET%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L3725",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_'S_'RE%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L5032",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_IS_ARE%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L5034",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_'S_'RE%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L6016",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_WANTS_WANT%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L6752",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_NEEDS_NEED%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L7497",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_FUCKS_FUCK%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L9495",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_ESCAPES_ESCAPE%",
+      "%VERB_KEEPS_KEEP%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L10002",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_'S_'VE%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L12194",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_'S_'RE%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L12283",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_'S_'RE%",
+      "%VERB_WINS_WIN%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L12439",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_HAS_HAD%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L12477",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_HAS_HAD%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L14403",
+    "language_inspected": true,
+    "tokens": [
+      "%VERBCAPS_DIES_DIE%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L14460",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_'S_'RE%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L15625",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_IS_ARE%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L15628",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_MEANS_MEAN%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L15629",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_WAS_WERE%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L15636",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_WAS_WERE%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L15796",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_'S_'VE%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L15839",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_HAS_HAVE%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L17971",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_'S_'RE%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L17989",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_'S_'RE%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L18382",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_KNOWS_KNOW%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L19138",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_'S_'VE%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L19174",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_DRINKS_DRINK%",
+      "%VERB_OPENS_OPEN%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L21131",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_'S_'RE%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L21749",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_DOESN'T_DON'T%",
+      "%VERB_'S_'RE%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L21776",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_'S_'RE%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L22089",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_NEEDS_NEED%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L22423",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_KNOWS_KNOW%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L22429",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_WANTS_WANT%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L22437",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_IS_ARE%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L22473",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_IS_ARE%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L23552",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_'S_'RE%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L24211",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_GETS_GET%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L24220",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_IS_ARE%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L26171",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_IS_ARE%"
+    ]
+  },
+  {
+    "row_id": "english_events_maingame:L26172",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_'S_'RE%"
+    ]
+  },
+  {
+    "row_id": "english_events_pitstop:L1968",
+    "language_inspected": true,
+    "tokens": [
+      "%VERB_'S_'RE%"
+    ]
+  }
+]

@@ -1,0 +1,123 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_maingame:L280,evilmenu,POLISH,Order something,点点什么,点点吃的
+english_events_maingame:L284,evilmenu,POLISH,You all enter the diner and sit down to order.,"你们都进餐厅,坐下来点菜",你们走进餐厅，坐下来点餐。
+english_events_maingame:L285,evilmenu,FIX,Your waiter appears in a cloud of baleful energy and French fry smell.,你的服务生出现在一团 粗糙的能量和法国油炸的气味中。,一团不祥的能量裹着炸薯条的气味，你们的服务员从中现身。
+english_events_maingame:L288,evilmenu,FIX,"Welcome to Doom's Diner. Behold a den of shadow and rot, heavy with the weight of curses handed down from generation to--","欢迎光临末日餐厅 看一个阴暗而腐烂的洞穴, 沉重的诅咒的重量 一代又一代地...",欢迎光临末日餐厅。请看这阴影与腐朽的巢穴，背负着代代相传的沉重诅——
+english_events_maingame:L289,evilmenu,FIX,"Yeah, yeah, we already heard it from your greeter. He's in the parking lot with his dick out screaming that the end of all diners is nigh.","是的,是的,我们已经听到 从你的问候者。 他在停车场里 带着他的老二出门 尖叫着所有餐馆的尽头都快到了",行了行了，门口迎宾的已经说过了。他在停车场露着老二，大喊所有餐厅的末日就要来了。
+english_events_maingame:L290,evilmenu,POLISH,"Oh, you mean Naked Dave? He doesn't work here.","哦,你是说裸体戴夫? 他不在这里工作。",哦，你说裸男戴夫？他不是这里的员工。
+english_events_maingame:L291,evilmenu,POLISH,Oh. Does he act like that 'cause he's cursed now?,哦. 他是不是因为现在被诅咒就那样了?,哦。他这样，是因为被诅咒了吗？
+english_events_maingame:L292,evilmenu,FIX,Nah. Took the wrong kind of shrooms.,没有。 拿走了错误的洗手间,不是，蘑菇嗑错了。
+english_events_maingame:L293,evilmenu,FIX,"But this place CAN and WILL curse you. Even the menu items harbor dark, forbidden magic that will permanently ruin you if you consume it.",但这个地方CAN和会诅咒你。 连菜单都暗藏了被禁的魔法 如果你食用的话 魔法会永远毁掉你,不过，这地方确实能诅咒你们，而且一定会。连菜单上的菜都藏着黑暗的禁忌魔法，吃下去就会彻底毁了你们。
+english_events_maingame:L294,evilmenu,FIX,"Yeah, speaking of the menu: if I order the ""Doomburger Meal Deal"", can I replace my side with a beer? And also my entrée? Actually, I think I just want three beers.","是的,说到菜单: 如果我订购""Doomburger Meal Deal"", 我能用啤酒代替我的一面吗? 还有我的女演员? 其实,我想我只是想要 三杯啤酒。",对了，说到菜单：要是我点“末日汉堡超值套餐”，能把配菜换成啤酒吗？主菜也换掉行不行？其实，我好像就是想要三杯啤酒。
+english_events_maingame:L295,evilmenu,FIX,"I want hot wings please! Which sauce do you recommend, ""Miedo y Tabasco en Las Vegas"" or ""Literal Blood Maybe""?","我要热活的翅膀! 你推荐什么""拉斯维加斯的米多和塔巴斯克"" 或""Literal Blood Maybe""?",我要辣鸡翅，谢谢！酱汁你推荐哪款？“拉斯维加斯的恐惧与塔巴斯科”，还是“搞不好真的是血”？
+english_events_maingame:L296,evilmenu,POLISH,Haven't you people ever heard of heeding a goddamn warning?! THIS. FOOD. IS. CURSED.,你们难道从没听说过‘听从该死的警告’吗？！这。食物。被。诅咒。了。,你们他妈就不知道听劝吗？！这些。食物。全都。被诅咒了。
+english_events_maingame:L297,evilmenu,FIX,"If you eat it, it'll corrode you like a beast in repose. It'll twist your mind and sell your soul to the highest bidder. It--","如果你吃了它, 它会腐蚀你 像一只野兽在休眠。 它会扭曲你的心思 把你的灵魂卖给出价最高的人 这...",吃下去，它就会像蛰伏的野兽般侵蚀你们，扭曲你们的心智，把你们的灵魂卖给出价最高的人。它——
+english_events_maingame:L298,evilmenu,FIX,"Shouldn't you -- as a waiter and all -- be selling us on the idea of eating at this diner? You don't seem to be very good at your job, boo.","难道你不应该 -- 作为一个服务员和所有 -- 卖我们的想法 在这个餐厅吃饭? 你似乎不太擅长你的工作,嘘。",亲爱的，你好歹是个服务员，不该劝我们多吃点吗？你这工作做得不怎么样啊。
+english_events_maingame:L299,evilmenu,FIX,Tch...,嘘...,嘁……
+english_events_maingame:L300,evilmenu,POLISH,"So, %CURRENTPLAYERNAME%, what are YOU gonna order?",这么说吧 %CURRENTPLAYERNAME%你要点什么?,所以，%CURRENTPLAYERNAME%，你要点什么？
+english_events_maingame:L303,evilmenu,FIX,"An evil milkshake and deviled eggs, extra devilish ;)","邪恶的奶昔和邪恶的鸡蛋, 额外的魔鬼;",邪恶奶昔加恶魔蛋，要特别魔鬼的那种 ;)
+english_events_maingame:L304,evilmenu,FIX,The EVERYTHING BURGER,一切的燃烧器,万物汉堡
+english_events_maingame:L305,evilmenu,KEEP,Soup,汤,汤
+english_events_maingame:L310,evilmenu,POLISH,You're ordering the evil milkshake? Do you WANT to die?!,你点了邪恶的奶昔? 你想死吗?,你要点邪恶奶昔？你想死吗？！
+english_events_maingame:L311,evilmenu,FIX,"I dunno about this, %CURRENTPLAYERNAME%... the evil milkshake looks so scary, with those soulless, wobbly eyes!","我不知道关于这个, %CURRENTPLAYERNAME%... 邪恶的奶昔看起来如此可怕, 与那些无灵魂,摇晃的眼睛!",%CURRENTPLAYERNAME%，我觉得不太行……邪恶奶昔那双晃来晃去、没有灵魂的眼睛，好吓人啊！
+english_events_maingame:L312,evilmenu,FIX,"Uh, you think you've got this. You're honestly surprised your friends aren't more impressed with the ""extra devilish eggs"" part.","呃,你认为你得到了这个。 你真的很惊讶你的朋友们 对""超邪恶的蛋""部分的印象不大",呃，你觉得自己能搞定。说实话，你还挺惊讶，朋友们居然对“特别魔鬼的蛋”没什么反应。
+english_events_maingame:L313,evilmenu,FIX,"Oh, I mean, that's cool. I wouldn't personally eat the devil's eggs, but I don't kinkshame.","哦,我的意思是,这很酷。 我个人不会吃魔鬼的蛋 但我不会吃金克沙姆",哦，我是说，那也挺酷的。我自己是不会吃魔鬼的蛋，不过我尊重别人的性癖。
+english_events_maingame:L315,evilmenu,POLISH,"A few minutes later, you have your highly-anticipated evil milkshake. You take a sip. Tastes pretty good!","几分钟后,你有了你期待已久的邪恶奶昔。 你喝一口,好吗? 味道不错!",几分钟后，期待已久的邪恶奶昔上桌了。你喝了一口。味道还不错！
+english_events_maingame:L318,evilmenu,FIX,"LOOK AT THE MILKSHAKE, POLLY! You can tell this milkshake isn't a good boi. It spooks me a little.","看这迷幻片, Polly! 你可以知道这个奶昔不是好东西 有点吓到我了",波莉，看这杯奶昔！一看就知道它不是个乖孩子。我有点怕。
+english_events_maingame:L320,evilmenu,POLISH,"Yeah, this milkshake is sort of wicked... well, it's just a glass of contained liquid, but it's sorta obvious that this milkshake would stab you if it could.","是啊,这个奶昔有点邪恶... 嗯,这只是一杯装有液体的酒, 但是这个奶昔显然会刺伤你,如果可以的话。",是啊，这奶昔有点邪恶……虽然它只是一杯液体，但看着就觉得，要是它做得到，肯定会捅你一刀。
+english_events_maingame:L322,evilmenu,POLISH,"Do you think the milkshake is thinking about stabbing me right now, Polly?",你觉得奶昔现在想刺我吗? 波莉?,波莉，你说这奶昔现在是不是正想着捅我啊？
+english_events_maingame:L324,evilmenu,POLISH,"Look, Scott. You're my friend and I love you, but I gotta be real with you: this milkshake is 100% thinking about stabbing you. THE LOOK IN ITS EYES!","听着, 斯科特. 你是我的朋友,我爱你, 但我必须是真的和你在一起: 这个奶昔是100% 想刺你。 看着它的眼睛!",听着，斯科特。你是我朋友，我爱你，但我得说实话：这奶昔百分之百在想着捅你。你看它那眼神！
+english_events_maingame:L325,evilmenu,FIX,"Okay, this is getting out of hand. You chug the friggin' milkshake, gaining +N2 STAMINA in the process.","好吧,这是失控了。 你吸了他妈的奶昔, 得到+N2 STAMINA在这个过程中。",好吧，再聊下去就没完了。你一口气灌下那杯破奶昔，获得了+N2体力。
+english_events_maingame:L328,evilmenu,FIX,"Phew! Thanks for saving us, %CURRENTPLAYERNAME%. Could you taste the milkshake's evil, rotten core?","嘘! 谢谢你救了我们 %CURRENTPLAYERNAME%. 你能尝尝奶昔的邪恶吗,烂核?",呼！谢谢你救了我们，%CURRENTPLAYERNAME%。你喝出奶昔那邪恶腐烂的内心了吗？
+english_events_maingame:L329,evilmenu,POLISH,Eh... sure. You nod.,额... 当然可以。 你点头。,呃……当然。你点点头。
+english_events_maingame:L330,evilmenu,FIX,You're such a good friend for enduring a showdown with what was possibly the root of all evil. It must be corroding your soul.,"你是一个好朋友,因为你忍受了一场盛会 与可能是所有邪恶的根源。 一定是在腐蚀你的灵魂",你真是个好朋友，居然为了我们，去对抗那可能是万恶之源的东西。它肯定正在侵蚀你的灵魂。
+english_events_maingame:L331,evilmenu,POLISH,"Nah, it was just a regular milkshake.","不,这只是一个正常的奶昔。",才没有，就是杯普通奶昔而已。
+english_events_maingame:L332,evilmenu,POLISH,...Or was it?,...还是?,……真的是吗？
+english_events_maingame:L333,evilmenu,FIX,You lose -N2 SOUL.,你输了 -N2 SOUL。,你损失了-N2灵魂。
+english_events_maingame:L338,evilmenu,POLISH,Do you even understand the danger you're putting yourself in? That burger has EVERYTHING on it.,你甚至明白你把自己置于何种危险之中吗? 汉堡包里有东西,你到底知不知道自己在冒多大的险？那个汉堡，什么都有。
+english_events_maingame:L339,evilmenu,POLISH,That sounds like a challenge! Does it have pineapple on it?,这听起来像一个挑战! 上面有菠萝吗?,听着像个挑战！里面有菠萝吗？
+english_events_maingame:L340,evilmenu,FIX,Yes.,对,有。
+english_events_maingame:L341,evilmenu,FIX,"Does it have ""Baphomet's Butthole Assault"" hot sauce on it?","上面有""巴菲米特的屁眼攻击""的辣酱吗?",有“巴风特屁眼突袭”辣酱吗？
+english_events_maingame:L342,evilmenu,POLISH,"Yes, it does. And every other sauce in the world. It has everything.","是的,确实如此。 和世界上其他的酱汁。 它拥有一切。",有。全世界其他的酱也有。它什么都有。
+english_events_maingame:L343,evilmenu,FIX,Does it have dog treats? Even the high-end ones from the good pet store uptown?,它有养狗吗? 连城外好宠物店的高档店都卖吗?,有狗零食吗？连城北那家高级宠物店里的高档货都有？
+english_events_maingame:L344,evilmenu,FIX,What about Scott's butt? Does the burger have Scott's butt on it?!,怎么样 斯科特屁股吗? 汉堡有吗? 斯科特屁股在上面吗?,那斯科特的屁股呢？汉堡里有斯科特的屁股吗？！
+english_events_maingame:L345,evilmenu,POLISH,Does it have this one specific brownie my grandma made me in 4th grade that was so good it created a core memory?!,我奶奶在四年级时给我做的布朗尼 造就了核心记忆吗?,还有我四年级时，奶奶给我做的那一块布朗尼？好吃到成了我核心记忆的那块？！
+english_events_maingame:L346,evilmenu,FIX,YES! IT HAS ALL THAT SHIT! I CANNOT MAKE IT CLEARER THAT THIS BURGER HAS EVERYTHING!!!,没错! 它有所有这些狗屎! 我不能让它更清楚 这堡垒拥有的一切!,有！那些破玩意儿全都有！这个汉堡什么都有，我还能说得更清楚吗！！！
+english_events_maingame:L347,evilmenu,POLISH,"If I bring you the damn burger, will you stop asking dumb questions?!","如果我把该死的汉堡给你, 你会停止问愚蠢的问题吗?",我把那破汉堡端来，你们就能别问蠢问题了吗？！
+english_events_maingame:L348,evilmenu,POLISH,Uh... hmmm... probably not.,额... 垛... 可能不会。,呃……嗯……大概不能。
+english_events_maingame:L349,evilmenu,POLISH,But you can try!,但你可以试试看!,不过你可以试试！
+english_events_maingame:L351,evilmenu,FIX,Gerard brings you the everything burger. You take a bite... and holy shit.,Gerard把汉堡都带来了 你吃一顿... 和神圣的狗屎。,杰拉德端来万物汉堡。你咬了一口……卧槽。
+english_events_maingame:L352,evilmenu,FIX,It really does have all those ingredients Polly and Scott mentioned... and many more. You surely gain +N2 STAMINA.,它真的有所有这些成分 波莉 财务报告和审定财务报表 斯科特 提到... 还有更多 你肯定会得到+N2 STAMINA。,波莉和斯科特提到的那些配料，还真都有……而且远不止这些。你当然获得了+N2体力。
+english_events_maingame:L353,evilmenu,FIX,"It even has... yuck, are those PICKLES?! You hate pickles! Damn, why do you always forget to ask for no pickles?","甚至还有... 臭小子,那些是夹克吗? 你讨厌泡菜! 妈的,为什么你总是忘记 要求没有腌菜?",甚至还有……呸，那是酸黄瓜？！你讨厌酸黄瓜！妈的，你怎么总忘了说不要酸黄瓜？
+english_events_maingame:L354,evilmenu,POLISH,How can all these ingredients even fit on this burger anyway?,这些配料怎么会都配在这个汉堡上呢?,话说，这汉堡到底怎么装下这么多配料的？
+english_events_maingame:L355,evilmenu,POLISH,"And what's this taste? Could it be... Scott's butt? Nah, it can't be... or can it?","这是什么味道? 会不会是...  斯科特屁股吗? 不,这不可能... 也可以吗?",还有，这是什么味？难道是……斯科特的屁股？不，不可能吧……还是说，真有可能？
+english_events_maingame:L356,evilmenu,FIX,"All these questions and more plague your brain without answers, the same way the ingredients plague this burger without logic. You lose -N2 MIND.","所有这些问题和更多的问题 困扰你的大脑 没有答案, 同样的方式 成份 困扰这个汉堡 没有逻辑。 你输了 - N2 MIND.",一堆没有答案的问题挤满了你的脑子，就像一堆毫无逻辑的配料挤满了这个汉堡。你损失了-N2头脑。
+english_events_maingame:L361,evilmenu,FIX,Fine.,精细。,行。
+english_events_maingame:L362,evilmenu,POLISH,"What, no fun warnings for this one? What ""hOrRiBlE cUrSe"" does this soup have on it?","什么,没有有趣的警告 对于这个? 这汤里有什么""HOREBLE CURSE""?",什么，这次没好玩的警告了？这碗汤又中了什么“可怕的诅咒”啊？
+english_events_maingame:L363,evilmenu,POLISH,Is it a soup that an evil forest hag used to boil a child?,一个邪恶的森林巫婆用来煮小孩的汤吗?,是邪恶森林女巫用来煮小孩的汤吗？
+english_events_maingame:L364,evilmenu,POLISH,Was this soup the last meal of an 18th century archbishop who died under mysterious circumstances?,这汤是18世纪 死在神秘环境中的大主教的最后一餐吗?,是某个十八世纪大主教离奇死亡前，喝的最后一碗汤吗？
+english_events_maingame:L365,evilmenu,REVIEW,Will the soup turn %CURRENTPLAYERNAME%'s nostrils inside out when %HESHE% %VERB_INHALES_INHALE% its delicious smell?!,汤会转过来吗? %CURRENTPLAYERNAME%鼻孔的内出 %HESHE%  %VERB_INHALES_INHALE% 它的美味气味吗?,%CURRENTPLAYERNAME%一%VERB_INHALES_INHALE%到它的香气，这汤就会把%HESHE%的鼻孔翻个面吗？！
+english_events_maingame:L366,evilmenu,FIX,Nah. It's just an onion soup.,没有。 以葱汤取之.,不是，就是洋葱汤。
+english_events_maingame:L367,evilmenu,POLISH,Oh... are the onions cursed at least?,哦... 洋葱至少被诅咒了吗?,哦……那至少洋葱被诅咒了吧？
+english_events_maingame:L368,evilmenu,KEEP,Nope.,没有。,没有。
+english_events_maingame:L369,evilmenu,POLISH,Well. That's kind of a letdown.,这个嘛 这有点让人失望。,好吧。有点失望。
+english_events_maingame:L370,evilmenu,FIX,"Man, everyone's a critic. You lose -N2 HYPE with your lame soup -- but it still tastes pretty good, so you gain +N2 STAMINA.","男人,每个人都是一个批评者。 -N2 HYPE和你的跛脚汤一起输了 -但是味道还是不错的,所以你得到了+N2 STAMINA.",唉，人人都能当美食评论家。这碗无趣的汤让你损失-N2热度，不过味道还是挺不错的，你获得了+N2体力。
+english_events_maingame:L378,findbooth,FIX,Look for a booth,找一个摊位,找个卡座
+english_events_maingame:L383,findbooth,FIX,"You and your friends enter the diner. Your heart is full of hope -- and if this meal goes your way, it'll soon be full of cholesterol too!","你和你的朋友进入餐厅。 你的心充满了希望——如果这顿饭走入你的道路,它很快也会充满胆固醇!",你和朋友们走进餐厅，心中充满希望。如果这顿饭吃得顺心，很快就也要充满胆固醇了！
+english_events_maingame:L386,findbooth,FIX,"Welcome to Doom's Diner, where we've been in the business of misery since 1952. How may I help you?","欢迎来到Doom's Dinner, 我们从1952年开始从事痛苦的事业. 有什么需要帮忙的吗?",欢迎光临末日餐厅，我们从1952年起，就专营痛苦。有何贵干？
+english_events_maingame:L387,findbooth,POLISH,"One group-sized booth, please! Can you bring us three extra bottles of ketchup too?","一个小组大小的摊位,请! 你能给我们多拿三瓶番茄酱吗?",请给我们一个坐得下所有人的卡座！再多拿三瓶番茄酱，行吗？
+english_events_maingame:L388,findbooth,FIX,"I like ketchup as my appetizer, and Polly keeps the rest in plastic baggies to throw at cars on the highway.","我喜欢番茄酱作为我的开胃菜,和 波莉 剩下的留在塑料袋里 扔汽车在高速公路上。",我喜欢喝番茄酱开胃。波莉会把剩下的装进塑料袋，在高速公路上扔过往的车。
+english_events_maingame:L389,findbooth,POLISH,"Don't care, didn't ask. It's dead as a morgue in here, so you guys can sit wherever you want.","别管了,没问过 这里像停尸房一样死了 这样你们就可以随便坐哪儿了",不在乎，没问你。这里冷清得跟停尸房一样，你们爱坐哪儿坐哪儿。
+english_events_maingame:L390,findbooth,FIX,Tight. You head for the closest booth.,紧. 你往最靠近的摊位去,好耶。你走向最近的卡座。
+english_events_maingame:L392,findbooth,POLISH,%CURRENTPLAYERNAME%! Are you crazy? We can't just pick any old booth like that!,%CURRENTPLAYERNAME%! 你疯了吗? 我们不能随便挑一个这样的老摊位!,%CURRENTPLAYERNAME%！你疯了？卡座怎么能这么随便选！
+english_events_maingame:L393,findbooth,FIX,"Picking a diner booth is MASSIVELY IMPORTANT. You gotta think about jukebox proximity, drafts in the building, lingering bad vibes...",选一个餐厅的摊位 是非常重要的。 你得考虑一下点唱机的相近性 大楼里的草稿 挥之不去的坏气氛,选餐厅卡座，可是天大的事。得考虑离点唱机有多近、哪里漏风，还有挥之不去的晦气……
+english_events_maingame:L394,findbooth,POLISH,It's like that time Coach said:,就像那个时候教练说:,就像教练有次说过的：
+english_events_maingame:L398,findbooth,FIX,"""If you ever find yourself in someone else's flashback, make sure to be of assistance by providing a wise and useful piece of advice!""","""如果你发现自己在别人的闪回, 确保通过提供 明智和有用的建议帮助!""",“要是你发现自己出现在别人的回忆片段里，记得帮个忙，说点明智又实用的建议！”
+english_events_maingame:L401,findbooth,POLISH,"I don't know what that means, but it felt appropriate to say here.","我不知道这意味着什么,但我觉得应该在这里说。",我不知道这是什么意思，不过感觉现在说挺合适。
+english_events_maingame:L402,findbooth,POLISH,"Fine, if it's that important to them. You start searching the diner for the ideal place to sit.","好吧,如果这对他们很重要的话。 你开始搜索餐厅 寻找最理想的地方坐。",好吧，既然他们这么在乎。你开始在餐厅里寻找理想的座位。
+english_events_maingame:L403,findbooth,FIX,"Something strange starts to happen. No matter how much you walk, the surroundings keep repeating, as if this diner was the background of an old cartoon.",奇怪的事情开始发生。 无论你走多远 周围的人都在重复 好像这餐馆是旧漫画的背景,怪事发生了。不管走多远，周围的景象都在重复，就像老动画里循环播放的背景。
+english_events_maingame:L404,findbooth,FIX,Minutes become hours. You're still walking. Booths and neon signs become reminders of your venture into an inescapable 50s-themed nightmare full of grease and despair.,分钟变成小时。 你还在走。 Booths和Neon标志 成为你冒险的回忆 进入一个无可避免的50分主题的噩梦 充满了油脂和绝望,几分钟变成了几小时，你还在走。一排排卡座和霓虹灯牌提醒着你：你闯进了一场走不出去的五十年代噩梦，满是油腻与绝望。
+english_events_maingame:L405,findbooth,POLISH,"All right, guys, we're lost. I know when I'm beat. But let's all be adults here and avoid looking for someone to blame, okay?","好了,伙计们,我们迷路了 我知道当我被打败。 但是,让我们在这里都成年人 并避免寻找 某人的责备,好吗?",好了，各位，我们迷路了。我认输。不过大家都是成年人，就别追究谁的责任了，好吗？
+english_events_maingame:L406,findbooth,FIX,It's Polly. Polly is the one to blame.,这是 波莉.  波莉 罪有应得.,是波莉。都怪波莉。
+english_events_maingame:L407,findbooth,FIX,But that's not important. The important thing here is being the person to thank once you lead your friends out of this diner!,"但这不重要 最重要的是,一旦你带你的朋友离开这家餐厅 就要感谢的人!",不过这不重要。重要的是，等你带朋友们走出餐厅，大家就该感谢你了！
+english_events_maingame:L408,findbooth,FIX,Make a blood sacrifice to the Diner God for assistance.,"献出鲜血献给餐厅之神,以示援助.",向餐厅之神献上血祭，求祂帮忙。
+english_events_maingame:L409,findbooth,FIX,Hire a diner sherpa to guide you.,聘请一家餐馆Sherpa指导你。,雇个餐厅夏尔巴人，给你们带路。
+english_events_maingame:L411,findbooth,POLISH,No time to lose! You stab yourself in the leg to get some of that sweet sacrificial blood.,没时间了! 你刺到自己腿上 是为了得到一些甜蜜的牺牲性血液。,没时间耽搁了！你一刀扎进自己腿里，取出香甜的祭祀用血。
+english_events_maingame:L412,findbooth,POLISH,"%CURRENTPLAYERNAME%, you seriously need to stop solving all your problems with blood sacrifices. You can only offer so much blood!",%CURRENTPLAYERNAME%你真的需要停止用献血来解决你所有的问题 你只能献出这么多的血!,%CURRENTPLAYERNAME%，你真不能再遇事就搞血祭了。你哪有那么多血可流啊！
+english_events_maingame:L413,findbooth,REVIEW,"I like when %HESHE% %VERB_DOES_DO% the chanting part, though. It's sort of soothing!","我喜欢什么时候 %HESHE%  %VERB_DOES_DO% 高呼的部分,虽然。 有点舒缓!",不过，我挺喜欢听%HESHE%%VERB_DOES_DO%念咒那段。还挺舒心的！
+english_events_maingame:L414,findbooth,FIX,"YES, EXACTLY! THE CHANTING!","是的,当然了! 变化!",对，没错！就是念咒！
+english_events_maingame:L415,findbooth,REVIEW,"There %HESHE% %VERB_GOES_GO% again. I'm telling you: if you're not keeping all that blood, we could at least be doing way funnier things with it.","那边 %HESHE%  %VERB_GOES_GO% 再来一次。 告诉你,如果你不保持所有的血, 我们至少可以做一些更有趣的事情。",%HESHE%又%VERB_GOES_GO%开始了。我说啊，既然这些血你也不打算留着，咱们至少能拿来玩点更有意思的。
+english_events_maingame:L416,findbooth,FIX,"Polly is eye-rolling while Scott hums in sync with your chants, and... is he dipping a fry in your blood?","波莉 眼卷起,而眼卷起, 斯科特 和你的圣歌同步哼哼,还有... 他是不是在你的血液里浸了个煎饼?",波莉翻了个白眼，斯科特则跟着你念咒的节奏哼了起来……他是不是在拿你的血蘸薯条？
+english_events_maingame:L417,findbooth,POLISH,"Fools, they do not appreciate your sacrifice! The Diner God will surely forgive their lack of faith when he sees your bountiful offering.","傻瓜,他们不欣赏你的牺牲! 当他们看见你们的丰厚的供献时,餐饮之神一定会原谅他们的失信.",愚蠢！他们根本不懂你的牺牲！餐厅之神看到如此丰厚的供品，想必会原谅他们信仰不够虔诚。
+english_events_maingame:L420,findbooth,POLISH,What's happening? Why are you bleeding everywhere? You're not allowed to bring outside blood in; we're trying to run a business here.,发生什么事了? 你为什么到处出血? 你不能把外面的血带进来 我们想在这里做生意,怎么回事？你为什么流得到处都是？本店不许自带血液，我们还要做生意呢。
+english_events_maingame:L421,findbooth,FIX,"The Diner God! He has come! You throw yourself at his feet, begging for assistance in finding the Booth Most Holy.","餐厅之神! 他来了! 你把自己扔在他的脚上,乞求 帮助寻找布斯最神圣。",餐厅之神！祂来了！你扑到祂脚边，恳求祂帮忙，寻找那至圣的卡座。
+english_events_maingame:L422,findbooth,POLISH,"Don't mind %CURRENTPLAYERNAME%, it's just blood loss hallucinations. This happens a lot.",别介意 %CURRENTPLAYERNAME%只是失血的幻觉 这种事经常发生,别管%CURRENTPLAYERNAME%，就是失血过多产生幻觉了。经常这样。
+english_events_maingame:L423,findbooth,POLISH,"Ugh. If I show you guys the exit and give you some free burgers, will you just get out of here?",唉哟。 如果我带你们去出口 给你们一些免费的汉堡 你们能离开这里吗?,呃。要是我带你们去出口，再免费送几个汉堡，你们能不能赶紧走？
+english_events_maingame:L424,findbooth,FIX,"Praise the Diner God's boundless kindness! You get out, which gives you +N2 MIND as you escaped the diner maze, but you lose -N2 STAMINA from all your blood loss.","赞美餐厅的上帝无所不包的仁慈! 你离开,这给你+N2 mind 当你逃离了餐厅迷宫, 但你失去了 -N2 STAMINA 从你所有的失血。",赞美餐厅之神无边的仁慈！你们逃出了餐厅迷宫，获得+N2头脑；不过失血太多，也让你损失了-N2体力。
+english_events_maingame:L426,findbooth,KEEP,Good idea!,不错的主意!,不错的主意!
+english_events_maingame:L427,findbooth,FIX,"Hey, you, in the checkered booth! Are you a sherpa?","嘿,你,在支票亭里! 你是夏尔巴人吗?",嘿，坐格子纹卡座那位！你是夏尔巴人吗？
+english_events_maingame:L428,findbooth,FIX,"Ah, let me guess: you're assuming that a 'sherpa' is a person who can guide you through a dangerous foreign environment, yes?","啊,让我猜猜,你假设一个""sherpa""是一个人 谁可以引导你 通过一个危险的外国环境,是吗?",啊，我猜猜：你以为“夏尔巴人”就是能带你穿越危险陌生环境的向导，对吗？
+english_events_maingame:L429,findbooth,FIX,"A sherpa is actually a Tibetan ethnic group, and reducing that group to a mere profession is a bit of a stereotype. You don't want a 'sherpa', you want a guide.","舍尔巴人其实是一个藏族,将那群人简化为一个简单的职业是有点刻板印象. 你不想要一个'sherpa', 你想要一个向导。",夏尔巴人其实是藏区的一个族群，把整个族群等同于一种职业，多少有点刻板印象。你要找的不是“夏尔巴人”，是向导。
+english_events_maingame:L430,findbooth,POLISH,"Oh! Sorry, my bad. I'm guessing you're not a sherpa, then.","哦 对不起,我的错。 我猜你不是夏尔巴人了",哦！对不起，是我搞错了。那我猜你不是夏尔巴人吧。
+english_events_maingame:L431,findbooth,POLISH,"Well, I happen to actually be a sherpa, but that's beside the point. The important thing here is you're looking for a guide, okay?","好吧,我碰巧是一个夏尔巴人, 但这不是重点。 重要的是你要找一个向导,好吗?",嗯，我还真是夏尔巴人，不过这不是重点。重点是你们在找向导，明白吗？
+english_events_maingame:L432,findbooth,POLISH,"Yeah, got it. Do you know where to find a guide who could lead us out of this diner, then?","对,明白了。 你知道哪里可以找到一个导师 带领我们离开这家餐厅吗?",嗯，明白了。那你知道去哪儿找向导，能带我们走出这家餐厅吗？
+english_events_maingame:L433,findbooth,POLISH,"As a matter of fact, I'm a regular here, so I could act as your guide too.","事实上,我是这里的常客,所以我也可以做你的向导.",巧了，我是这里的常客，可以给你们带路。
+english_events_maingame:L434,findbooth,POLISH,"So, in this specific case, I am both a sherpa AND a guide. But let's not allow this coincidence to inform your future use of the term, okay?","因此,在这个具体案例中,我既是一位夏尔巴人,又是一位向导。 但是,让我们不要让这种巧合 告诉你将来使用这个词,好吗?",所以，恰好在这个例子里，我既是夏尔巴人，又是向导。但别因为这次巧合，以后就把这两个词混用了，好吗？
+english_events_maingame:L435,findbooth,FIX,Gotcha!,抓到他们了!,懂了！
+english_events_maingame:L436,findbooth,POLISH,Then follow me. I'll lead you out of here.,那就跟我来。 我会带你离开这里。,那就跟我来。我带你们出去。
+english_events_maingame:L437,findbooth,FIX,"Perfect! You pay your new guide -N2 MONEY, and he leads you on a harrowing journey through Doom's Diner.","完美无缺! 你付你的新导游费 N2 MONEY 他带领你踏上痛苦的旅程 通过""末日餐厅""",太好了！你付给新向导-N2金钱，他带着你们，踏上了穿越末日餐厅的惊险旅程。
+english_events_maingame:L438,findbooth,FIX,"What was once a tedious, never-ending diner soon becomes something actually dangerous.",曾经是乏味的 永无止境的餐馆 很快会变得非常危险,原本只是乏味、走不到头的餐厅，很快就真的变得危险起来。
+english_events_maingame:L439,findbooth,FIX,The architecture of the place starts to break into Escherian structures that defy all logic.,"该地的建筑结构开始分解入艾舍里亚结构,这些结构无视一切逻辑.",建筑结构开始扭曲，变成埃舍尔画作里那种不合逻辑的空间。
+english_events_maingame:L440,findbooth,FIX,"It's almost as if the diner was never a diner at all, but a sentient creature trying to pass as a diner! It's very unsettling...","它几乎就像餐厅 从来不是一个餐厅, 但一个有意识的生物试图通过作为一个餐厅! 这是非常不安的...",简直就像这地方从来不是什么餐厅，而是某种有意识的生物，正在假扮餐厅！太瘆人了……
+english_events_maingame:L441,findbooth,FIX,"Like when the floor rapidly recedes, presenting a bottomless pit. You all jump back, but the guide falls short. He manages to grab to an edge... but it doesn't look good.","就像地板迅速退后时,呈现出一个无底坑. 你们都跳回来,但引导不足。 他设法抓住了一个边缘... 但它看起来并不好。",比如，地板突然缩了回去，露出无底深坑。你们都往后跳，向导却没跳过去。他勉强抓住边缘……情况不太妙。
+english_events_maingame:L442,findbooth,POLISH,Quick! Take my hand!,快点! 握着我的手!,快！抓住我的手！
+english_events_maingame:L443,findbooth,POLISH,"No, you must run! Don't worry, I always knew the risks of coming to this cursed diner. It's just... you can't beat their fried pickles. They're really goo--","不,你必须跑! 别担心,我总是知道 来到这个被诅咒的餐厅的风险。 这只是... 你打不过他们炸的泡菜 他们真的好...",不，你们快跑！别担心，我一直都知道来这家诅咒餐厅有多危险。只是……他们的炸酸黄瓜，实在没人比得上。真的好好——
+english_events_maingame:L444,findbooth,FIX,"Before he can finish that sentence, he falls into the abyss as you run for your lives.","在他能完成这句话之前,他陷入了深渊,而你却在逃命.",他还没说完，就掉进了深渊。你们则拼命逃命。
+english_events_maingame:L447,findbooth,POLISH,Hey! No running in the diner!,嘿 不要在餐厅跑步!,嘿！餐厅里不许跑！
+english_events_maingame:L448,findbooth,FIX,"What?! As if the diner accepted your guide as an offering, the interior of the place is back to normal! You tell everything to Gerard.",你说什么? 好像餐厅接受你的向导作为献礼一样 这地方的内部已经恢复正常了! 你把一切都告诉杰拉德,什么？！这地方竟然恢复了正常，仿佛餐厅已经接受了向导这份祭品！你把事情的经过告诉了杰拉德。
+english_events_maingame:L449,findbooth,FIX,"Ugh, so that happened...","呃,所以发生了...",呃，行吧……
+english_events_maingame:L450,findbooth,FIX,"Can I interest you in a special daily offer? Burgers with a side of fried pickles, and the price is signing this agreement stating you can't sue Doom's Diner.","我能给你一个特别的每日报价吗? 汉堡加了一面炸腌菜,价格正在签署这份协议,声明你不能起诉""多姆""餐厅.",要不要看看今日特惠？汉堡配炸酸黄瓜。只要签份协议，保证不起诉末日餐厅，就能免费享用。
+english_events_maingame:L452,findbooth,FIX,Deal! You eat your burgers while you mourn your friend. You gain +N2 MIND from freeing yourselves from that nightmarish maze.,说定了! 你一边吃汉堡一边哀悼朋友 你从那个噩梦迷宫中解放出来 得到+N2 MID,成交！你们一边吃汉堡，一边悼念朋友。逃出那噩梦般的迷宫，让你获得了+N2头脑。
+english_events_maingame:L453,findbooth,POLISH,"I'm still kinda sad, bros. That guide was really nice.","我还是有点伤心,兄弟们。 那个向导真的很好",兄弟们，我还是有点难过。那个向导人真好。
+english_events_maingame:L454,findbooth,POLISH,"Don't be sad, Scott. If you think about it, our Tibetan friend didn't die in vain. We got these burgers out of it!","别伤心了 斯科特. 如果你考虑一下,我们的西藏朋友不是白白地死去的. 我们把这些汉堡都弄出来了!",别难过，斯科特。想想看，我们的藏区朋友也没白死。这不，换来了这些汉堡！
+english_events_maingame:L455,findbooth,POLISH,Yeah... and he was right: these fried pickles are really good.,"对... 他说的对,这些炸腌菜真的很好吃。",是啊……而且他说得对，这炸酸黄瓜真的很好吃。

@@ -1,0 +1,73 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_maingame:L21796,parkworkers_stage3,POLISH,"Now we're onto the final hiring stage, and it's a big one: role-playing!","现在我们进入了最后的雇佣阶段,这是个大角色扮演!",现在进入最后一轮招聘，也是重头戏：角色扮演！
+english_events_maingame:L21797,parkworkers_stage3,FIX,"Wait, really?! Best job interview EVER!",单单痷盾 最佳工作面试!,等等，真的？！史上最棒的面试！
+english_events_maingame:L21798,parkworkers_stage3,POLISH,"I don't think it's that kinda role-playing, gurl.","我觉得这不是那种角色扮演,gurl。",姐妹，我觉得不是你想的那种角色扮演。
+english_events_maingame:L21799,parkworkers_stage3,POLISH,"In this scenario, you've spotted a crying child who can't find their parents. I'll be the child.","在这种情景下,你已经看到一个哭着的孩子,他找不到自己的父母. 我当为子.",假设你发现一个哭泣的孩子，找不到父母了。由我来扮演这个孩子。
+english_events_maingame:L21800,parkworkers_stage3,POLISH,"Waah, help me!! I can't find my mommy!","华,救我! 我找不到我妈妈了!",呜哇，救救我！！我找不到妈妈了！
+english_events_maingame:L21801,parkworkers_stage3,FIX,"""Knife"" to meet you, kiddo! I'm Knifey, your sharpest pal. I'll find your mom lickety-split!","来见你的""刀"",孩子! 我是小刀,你最聪明的朋友。 我会找到你妈妈的 舔了!",小朋友，先跟你“刀”声好！我是小刀，你最锋利的小伙伴。马上帮你找到妈妈，快刀斩乱麻！
+english_events_maingame:L21802,parkworkers_stage3,FIX,"Shh, don't cry, it's okay. Flailard's here. Flailard's got you.","嘘,别哭,没事的 弗莱尔来了 弗莱尔抓住你了",嘘，别哭，没事的。弗莱拉德来了，弗莱拉德会照顾你。
+english_events_maingame:L21803,parkworkers_stage3,POLISH,"Good work, you two! Way to calm the child and take charge of the situation. Now, %CURRENTPLAYERNAME%, how would you respond?","干得好,你们两个! 如何让孩子平静下来, 并控制局面。 现在 %CURRENTPLAYERNAME%,你会如何回应?",你们俩做得很好！既安抚了孩子，也控制住了局面。%CURRENTPLAYERNAME%，换成你会怎么办？
+english_events_maingame:L21804,parkworkers_stage3,FIX,"""We show the lost child on the park's big screen... then we threaten to cut them in half so the real parents reveal themselves. Parents hate when their children are cut in half!""","""我们把失落的孩子展示在公园的大屏幕上...... 然后我们威胁要把他们切成两半 这样真正的父母才会露出面面 父母恨孩子被砍成两半!""",“把走失的孩子投到乐园大屏幕上，再威胁把人切成两半，亲生父母就会现身了。父母最受不了孩子被切成两半！”
+english_events_maingame:L21805,parkworkers_stage3,FIX,"""No shenanigans this time. We should always honor the park rule: finders keepers.""","""这次没有"" 我们应该永远遵守公园规则:寻找者守护者"".",“这次不胡闹了。必须遵守乐园的规则：谁捡到，就归谁。”
+english_events_maingame:L21808,parkworkers_stage3,POLISH,"Before any objections can be made, you've pulled out a sword and are holding it over HR rep's chest.",在有人反对之前 你拔出一把剑 把它放在HR代表的胸口,还没等人提出异议，你已经拔出剑，悬在人事代表胸前。
+english_events_maingame:L21809,parkworkers_stage3,FIX,"THIS GIRL'S PARENTS HAD BETTER COME CLAIM HER, OR SHE'S GETTIN' BISECTED!","这女孩的父母 最好来 要求她,或她得到 被感染!",这女孩的父母最好赶紧来认领，不然我可要把她切成两半了！
+english_events_maingame:L21810,parkworkers_stage3,POLISH,"WAIT! We're... uh... we're actually this child's parents. So don't cut her in half, maybe?","等会儿! Wait! 我们... 额... 我们其实是这个孩子的父母。 所以别把她切成两半,也许吧?",等等！我们……呃……其实是这孩子的父母。所以，能不能别把她切成两半？
+english_events_maingame:L21811,parkworkers_stage3,POLISH,"Yeah. Also, just to add: I don't think murdering the HR rep would help us get this job.",对 也只是补充一下:我认为谋杀HR代表不会帮助我们获得这份工作.,对。另外，补充一句，我不觉得杀了人事代表能帮我们找到工作。
+english_events_maingame:L21812,parkworkers_stage3,POLISH,I'M ALSO THIS CHILD'S MOTHER!,我也是这个孩子的母亲!,我也是这孩子的妈妈！
+english_events_maingame:L21813,parkworkers_stage3,POLISH,What?!,你说什么?,什么？！
+english_events_maingame:L21814,parkworkers_stage3,FIX,THE PLOT THICKENS!,炸弹的喉咙!,剧情越来越复杂了！
+english_events_maingame:L21815,parkworkers_stage3,POLISH,"Gertrude... I suppose you never told Hugh that he wasn't Wilma's real father. I understand you were trying to save your marriage, but I can't take it anymore.",格特鲁德... 我想你从没告诉休 他不是威尔玛的亲生父亲 我知道你想挽救你的婚姻 但我受不了了,格特鲁德……看来你始终没告诉休，他不是威尔玛的亲生父亲。我知道你想保住婚姻，可我实在忍不下去了。
+english_events_maingame:L21816,parkworkers_stage3,FIX,"Seeing %CURRENTPLAYERNAME% almost cut little Wilma in half opened my eyes: this child is mine, and I want to be part of her life!","见取取出. %CURRENTPLAYERNAME% 差点把小威尔玛割成两半睁开眼睛:这孩子是我的,我想成为她生活的一部分!",看见%CURRENTPLAYERNAME%差点把小威尔玛切成两半，我才恍然大悟：这是我的孩子，我想参与她的人生！
+english_events_maingame:L21817,parkworkers_stage3,FIX,Eh... uh...,额... 额...,呃……嗯……
+english_events_maingame:L21818,parkworkers_stage3,POLISH,Umm... it's okay... Gertrude. I forgive you for having an affair; I know I wasn't a perfect partner to you either...,"额... 没关系... 格特鲁德. 我原谅你有外遇,我知道我也不是你完美的伴侣...",嗯……没事……格特鲁德。我原谅你出轨了。我知道，我也没当好你的伴侣……
+english_events_maingame:L21819,parkworkers_stage3,POLISH,"If... eh... Paul here wants to be part of Wilma's life, I know we'll make it work, right?","如果... ... 说吧... 额... 保罗想成为威尔玛生活的一部分 我知道我们会成功的,对吧?",如果……呃……这位保罗想参与威尔玛的人生，那咱们一定能安排好的，对吧？
+english_events_maingame:L21820,parkworkers_stage3,POLISH,Uh... okay?,额... 好吗?,呃……好？
+english_events_maingame:L21821,parkworkers_stage3,FIX,AND SCENE!,和斯凯内!,好，收戏！
+english_events_maingame:L21822,parkworkers_stage3,POLISH,"Bravo! Excellent role-play session; such pathos, such character development! I'm ready to make my decision.","好样的! 精彩的角色扮演会话;如此的曲折,如此的人物发展! 我准备好做决定了",精彩！这场角色扮演真棒，多么深切的情感，多么丰富的人物成长！我已经可以做决定了。
+english_events_maingame:L21823,parkworkers_stage3,POLISH,"%CURRENTPLAYERNAME%, sorry, but we can't hire you. You just don't have that 'spark' we're looking for, and threatening to kill me wasn't a plus.","%CURRENTPLAYERNAME%抱歉 但我们不能雇你 你只是没有我们要找的""沙克"" 威胁要杀我不是好处",%CURRENTPLAYERNAME%，抱歉，我们不能录用你。你缺少我们想要的那点“灵气”，而且威胁杀掉我，也不算加分项。
+english_events_maingame:L21824,parkworkers_stage3,POLISH,"But Sawyer, Mamimi: you seem like a perfect fit, knowing the few park rules we have and not jumping to commit crimes at every chance. You're hired!","索伊尔,玛米米:你看起来很适合,知道我们拥有的少数公园规则,而不是在任何机会中跳跃犯罪。 你被雇佣了!",不过，索伊尔、马美美，你们很合适。既懂得乐园为数不多的规则，也不会一有机会就去犯罪。你们被录用了！
+english_events_maingame:L21825,parkworkers_stage3,KEEP,Cool.,酷毙了,酷毙了
+english_events_maingame:L21826,parkworkers_stage3,FIX,"Despite your best efforts, you somehow succeeded at helping Mamimi and Sawyer get this job. You gain +5 HYPE!","尽管你尽了最大努力,你还是成功地帮助了马美美和索伊尔获得了这份工作. 5HYPE 得分了 5HYPE 得分了",明明你都这么折腾了，居然还是帮马美美和索伊尔拿到了工作。你获得了 +5 热度！
+english_events_maingame:L21828,parkworkers_stage3,POLISH,"Before any objections can be made, you've pulled out a sword and are holding it over HR rep's chest.",在有人反对之前 你拔出一把剑 把它放在HR代表的胸口,还没等人提出异议，你已经拔出剑，悬在人事代表胸前。
+english_events_maingame:L21829,parkworkers_stage3,FIX,"THIS GIRL'S PARENTS HAD BETTER COME CLAIM HER, OR SHE'S GETTIN' BISECTED!","这女孩的父母 最好来 要求她,或她得到 被感染!",这女孩的父母最好赶紧来认领，不然我可要把她切成两半了！
+english_events_maingame:L21830,parkworkers_stage3,FIX,"Silence. Not even a whimper of fear from the HR rep. Damn, you thought you were at least a LITTLE intimidating...","寂灭相. 甚至连HR代表的恐惧都不敢说 可恶,你以为你至少有点吓人...",一片寂静。人事代表连声害怕的哼唧都没发出来。靠，你还以为自己多少有点威慑力呢……
+english_events_maingame:L21831,parkworkers_stage3,POLISH,"You're doing this all wrong, boo. You're not holding your sword with any conviction; I don't buy your murderous intent at all.","你做错了,妈 你没有持剑的信念,我完全不相信你的杀人意图.",宝贝，你这演得全错了。拿剑一点狠劲儿都没有，谁信你真想杀人啊。
+english_events_maingame:L21832,parkworkers_stage3,FIX,"You gotta really sell it or the threat isn't convincing. Let me demonstrate. The trick's all in how you move your wrists, look...","你要卖掉它 否则威胁就无法说服 让我来证明一下 诀窍在于你如何移动你的手腕,看...",得演像一点，威胁才有用。我给你示范。诀窍全在手腕的动作，看……
+english_events_maingame:L21833,parkworkers_stage3,POLISH,"Polly takes the sword, twists her wrists, and accidentally cuts the HR rep cleanly in half.","波莉 拿走了剑,扭动了她的手腕, 意外地把HR代表 切成两半。",波莉接过剑，转了转手腕，不小心干净利落地把人事代表切成了两半。
+english_events_maingame:L21834,parkworkers_stage3,KEEP,...,...,...
+english_events_maingame:L21835,parkworkers_stage3,KEEP,...,...,...
+english_events_maingame:L21836,parkworkers_stage3,KEEP,...,...,...
+english_events_maingame:L21837,parkworkers_stage3,POLISH,"You're right, Polly! That DOES look convincing!","你说得对, 波莉! 看上去很有说服力!",你说得对，波莉！这看起来可有说服力了！
+english_events_maingame:L21838,parkworkers_stage3,FIX,WELL I THINK THAT'S OUR CUE TO LEAVE,我觉得我们该离开,好我看咱们该走了
+english_events_maingame:L21839,parkworkers_stage3,POLISH,But--!,不过...,可——！
+english_events_maingame:L21840,parkworkers_stage3,FIX,YOU GUYS HOLD ONTO THIS SWORD AND IF THE COPS ASK WE WERE NEVER HERE OKAY BYE,你们坚持着这话 如果警察问我们永远不好吗?,你们拿好这把剑警察要问就说我们没来过好吗拜拜
+english_events_maingame:L21842,parkworkers_stage3,FIX,"You all GTFO before anyone can get another word in. You manage to evade arrest, but not the -3 SOUL loss.","你们GTFO在别人进来之前就都说得通了 你设法逃避逮捕,但不能 3SOUL损失。",还没等别人再说一个字，你们就全溜了。逮捕是躲过了，-3 灵魂可没躲过。
+english_events_maingame:L21845,parkworkers_stage3,POLISH,"That's not a park rule, though.",这不是公园规则,可乐园没有这条规定啊。
+english_events_maingame:L21846,parkworkers_stage3,POLISH,I'm pretty sure it is.,"我敢肯定,这是。",我很确定，有的。
+english_events_maingame:L21847,parkworkers_stage3,POLISH,Nope. Definitely not.,没有。 绝对不是,没有。绝对没有。
+english_events_maingame:L21848,parkworkers_stage3,POLISH,"True, it isn't. Way to know the rulebook, Sawyer and Mamimi, and thanks for exercising general common sense!","没错,它不是。 索伊尔和马美美 都了解规则书 感谢你们运用了一般的常识",没错，确实没有。索伊尔、马美美，看来你们熟读了规则手册，谢谢你们运用了基本常识！
+english_events_maingame:L21849,parkworkers_stage3,FIX,Well maybe it should be a rule! Have you considered the upsides to finders-keepers?,也许这应该是一个规则! 你有没有考虑过 找寻者的人的颠倒?,那就该加上这条！想过“谁捡到就归谁”能有多少好处吗？
+english_events_maingame:L21850,parkworkers_stage3,FIX,As in... the upsides of kidnapping random children?,说到这里... 绑架随机儿童带来的反面?,你是说……随便绑架小孩的好处？
+english_events_maingame:L21851,parkworkers_stage3,KEEP,Exactly!,没错!,没错!
+english_events_maingame:L21852,parkworkers_stage3,POLISH,"For instance, you could put all the kids in a boy band and have them perform at the park. You could call them ""The Lost Children""!","比如,你可以把所有的孩子 在一个男孩乐队 让他们在公园演出。 你可以叫他们""迷失的孩子""!",比如，把小孩全编进一个男子组合，让他们在乐园演出。名字就叫“走失儿童”！
+english_events_maingame:L21853,parkworkers_stage3,POLISH,"Hmm, having our own boy band WOULD be good for the Knife Land brand... but not the kidnapping idea you proposed. That'd be a PR nightmare, unfortunately.","嗯,拥有我们自己的男孩乐队 将会对刀地品牌有好处... 但不是你提出的绑架想法 可惜那会是公关噩梦",嗯，有自己的男子组合，的确有助于刀子乐园的品牌形象……可不能用你那套绑架办法。很遗憾，那会是场公关噩梦。
+english_events_maingame:L21854,parkworkers_stage3,POLISH,"%CURRENTPLAYERNAME%, you and your friends do have some charming ideas, but most of your ideas are just crimes. We'll have to pass on you.","%CURRENTPLAYERNAME%你和你的朋友确实有一些迷人的想法, 但你的大部分想法只是犯罪。 得相传相.",%CURRENTPLAYERNAME%，你和朋友的点子确实有点意思，可大部分都是犯罪。我们没法录用你。
+english_events_maingame:L21855,parkworkers_stage3,FIX,"But Sawyer and Mamimi... I don't know if it's just those three setting the bar so low, but you seem like a perfect fit. You're hired!",但是索伊尔和玛米米... 我不知道是不是那三个人把酒吧设得这么低 但你看起来很合身 你被雇佣了!,不过索伊尔和马美美……不知道是不是那三位把标准拉得太低了，总之，你们非常合适。录用了！
+english_events_maingame:L21856,parkworkers_stage3,FIX,Awesome!,厉害!,太棒了！
+english_events_maingame:L21857,parkworkers_stage3,FIX,"Despite your best efforts, you somehow succeeded at helping Mamimi and Sawyer get this job. You gain +5 HYPE!","尽管你尽了最大努力,你还是成功地帮助了马美美和索伊尔获得了这份工作. 5HYPE 得分了 5HYPE 得分了",明明你都这么折腾了，居然还是帮马美美和索伊尔拿到了工作。你获得了 +5 热度！
+english_events_maingame:L21859,parkworkers_stage3,FIX,"That's not a park rule, though.",这不是公园规则,可乐园没有这条规定啊。
+english_events_maingame:L21860,parkworkers_stage3,POLISH,I'm pretty sure it is. I'd even go as far as to say it's an unspoken rule in general.,"我敢肯定,这是。 我甚至会说,这是一条没有语言的规则",我很确定，有的。甚至可以说，这是大家默认的规矩。
+english_events_maingame:L21861,parkworkers_stage3,FIX,"Maybe for, like, a lighter you found on the floor, but not a whole-ass kid.","也许是为了,就像,一个打火机 你发现在地上,但不是 一个整屁股的孩子。",地上捡个打火机，可能还算。可那是个活生生的小孩啊。
+english_events_maingame:L21862,parkworkers_stage3,FIX,Bullshit! Then explain how I have this baby I found the other day!,胡说八道! 那就解释我那天找到的这个孩子是怎么生出来的!,放屁！那怎么解释，我前两天捡的这个宝宝，现在还在我这儿！
+english_events_maingame:L21863,parkworkers_stage3,POLISH,WHAT?! Where did that baby even come from?!,什麽? 那个孩子从哪里来的?,什么？！这宝宝到底哪来的？！
+english_events_maingame:L21864,parkworkers_stage3,FIX,"Not from my coochie, that's for sure!","不是从我的克西,这是肯定的!",反正肯定不是从我裆里出来的！
+english_events_maingame:L21865,parkworkers_stage3,POLISH,"Polly, finders-keepers is NOT a thing. What you've done is actually a crime.",波莉寻找者守护者不是什么事情 你所做的其实是犯罪,波莉，没有“谁捡到就归谁”这回事。你这叫犯罪。
+english_events_maingame:L21866,parkworkers_stage3,FIX,Oh... yikes.,哦... 亚克丝。,哦……糟糕。
+english_events_maingame:L21867,parkworkers_stage3,POLISH,This is horrifying. I'm definitely required to call the police.,这太可怕了 我绝对需要报警。,太可怕了，我必须报警。
+english_events_maingame:L21868,parkworkers_stage3,FIX,"NOPE! SCOTT, GO LONG!","没有! 斯科特,走长!",不行！斯科特，跑远点接球！
+english_events_maingame:L21869,parkworkers_stage3,FIX,On it!,来!,收到！
+english_events_maingame:L21870,parkworkers_stage3,POLISH,"Scott grabs the baby and throws it like a football at the HR rep. Miraculously, she catches it!","斯科特 抓住孩子,像足球一样扔到HR代表处 神奇地,她抓住了它! ! ! ! ! ! ! ! ! !",斯科特抓起宝宝，像传橄榄球一样朝人事代表扔了过去。奇迹般地，她接住了！
+english_events_maingame:L21871,parkworkers_stage3,POLISH,"Welp, you were the last person to touch the baby, so it's yours now!","韦尔普,你是最后一个接触孩子的人,所以现在是你的了!",好了，你是最后碰到宝宝的人，现在归你啦！
+english_events_maingame:L21872,parkworkers_stage3,POLISH,That's not how that works either.,事情也不是这样的,也没这规矩。
+english_events_maingame:L21873,parkworkers_stage3,POLISH,"Sorry, can't hear you! We're too busy running back to our car!","对不起,听不到你说话! 我们忙着回我们的车!",抱歉，听不见！我们忙着跑回车里呢！
+english_events_maingame:L21875,parkworkers_stage3,FIX,"You all GTFO before anyone can get another word in. You manage to evade arrest, but not the -3 SOUL loss.","你们GTFO在别人进来之前就都说得通了 你设法逃避逮捕,但不能 3SOUL损失。",还没等别人再说一个字，你们就全溜了。逮捕是躲过了，-3 灵魂可没躲过。

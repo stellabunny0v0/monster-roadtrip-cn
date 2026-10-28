@@ -2,7 +2,9 @@
 
 适用于 Steam Windows 版 **Monster Prom 3 - Monster Roadtrip** 的简体中文 Mod。
 
-当前版本：**v0.3.2**。本版本已经修复设置界面返回时的报错、UI 消失和部分事件文本解析问题，并加入启动前自动备份存档。现有译文以机器翻译初稿为基础，系统文本及 Polly 的部分夜间对话已经人工润色，其他内容仍会继续校对。
+当前源码版本：**v0.3.3**。30,255 条文本已完成语言审校，原 PENDING 的 109 条疑难项已逐条裁决，其中 56 条保留、25 条纠错、28 条润色。59 条英文动词变量新增按行中文展开适配，已通过离线测试及编译，尚待实机验收。详见 [审校明细](docs/review/pending-review-109.md)。
+
+本轮更新源码，尚未发布新版安装包。以下安装步骤对应原 v0.3.2 发行包；本轮译文及动词适配需使用 v0.3.3 源码构建的插件和同批次翻译文件。
 
 ## 汉化效果
 
@@ -89,6 +91,15 @@ $env:MONSTER_ROADTRIP_GAME_DIR = 'D:\SteamLibrary\steamapps\common\Monster Prom 
 ```
 
 人物口吻和术语规则见 `docs/STYLE_GUIDE_ZH.md`。
+
+动词展开配置在 `translation/runtime_verb_overrides_zh.json`。构建生成的 `Translation/schinese_verb_overrides.tsv` 必须随插件和翻译表一起打包，不能只更新 DLL。翻译 CSV 与事件表保留源文变量；插件在加载中文事件时按行号、完整文本匹配应用已审的展开结果。
+
+额外离线验证：
+
+```powershell
+python -m unittest discover -s tools/tests -p 'test_*.py'
+.\tools\tests\test-runtime-verbs.ps1
+```
 
 ## 第三方组件
 

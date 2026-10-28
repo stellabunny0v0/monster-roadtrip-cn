@@ -1,0 +1,52 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_pitstop:L261,pitstop_noodles_intro_1,FIX,Howdy-doodly! Welcome to Noodles' swap shop!,哈罗 - 杜德! 欢迎来到面条的交换店!,你好呀——欢迎来到面条的交换摊！
+english_events_pitstop:L262,pitstop_noodles_intro_1,FIX,"I've got all sorts of kooky crap to trade you, if you've got anything worth trading me.",如果你有什么值得交易的 我有很多蠢事要跟你交换,我这儿有各种古怪破烂。只要你有值得我换的东西，就能成交。
+english_events_pitstop:L268,pitstop_noodles_intro_2,FIX,"How's it going, meat-sack? Welcome to my swap shop!","怎么样,肉袋? 欢迎来到我的交换店!",怎么样啊，肉袋？欢迎来到我的交换摊！
+english_events_pitstop:L269,pitstop_noodles_intro_2,KEEP,See anything you like? I'd love to make a trade!,看到喜欢的东西了吗? 我很想做个交易!,看到喜欢的东西了吗? 我很想做个交易!
+english_events_pitstop:L275,pitstop_noodles_intro_3,FIX,"Howdy! Still got all those pesky worldly possessions, huh?","哈罗! 仍然有那些肮脏的世界财产,是吧?",你好！还抱着那些烦人的身外之物不放呢？
+english_events_pitstop:L276,pitstop_noodles_intro_3,FIX,Why not trade 'em to me for some of the weird crap I've got? Nothing matters anyway!,为什么不用它们换我一些奇怪的东西呢? 反正没什么大不了的!,不如拿来换我这些怪玩意儿？反正什么都没有意义！
+english_events_pitstop:L282,pitstop_noodles_intro_4,POLISH,"Let's face it, this road trip is just a one-way ticket to your painful demise...","面对现实吧,这次出行只是你痛苦地死去的单程票...",面对现实吧，这趟公路旅行，就是通向你痛苦死亡的单程票……
+english_events_pitstop:L283,pitstop_noodles_intro_4,FIX,"But hey, why not prolong the inevitable with one of my products?","但是,嘿,为什么不延长不可避免的 与我的产品之一?",不过，何不买件我的商品，拖一拖那不可避免的结局呢？
+english_events_pitstop:L289,pitstop_noodles_intro_5,POLISH,"Howdy-doodly, %CURRENTPLAYERNAME%! Are you here to make a trade?","哈罗-杜德利, %CURRENTPLAYERNAME%! 你是来做交易的吗?",你好呀——%CURRENTPLAYERNAME%！来换东西的？
+english_events_pitstop:L290,pitstop_noodles_intro_5,FIX,"I just stole -- er, ""found"" all this stuff in a chaotic dimension beyond the breadth of mortal understanding...","我刚刚偷了 -- 呃,""发现""所有这些东西 在混乱的维度 超出凡人理解的广度...",这些东西都是我刚偷——呃，“找到”的，来自一个凡人根本无法理解的混乱维度……
+english_events_pitstop:L291,pitstop_noodles_intro_5,POLISH,Feel free to take anything that catches your eye!,随便拿任何吸引你眼睛的东西吧!,看中什么，尽管拿！
+english_events_pitstop:L297,pitstop_noodles_intro_6,FIX,"Hey, %CURRENTPLAYERNAME%! I'm running a special just for you:",顿 %CURRENTPLAYERNAME%! 我在为你办一个特别节目:,嘿，%CURRENTPLAYERNAME%！专门给你准备了一项优惠：
+english_events_pitstop:L298,pitstop_noodles_intro_6,FIX,You can have EVERYTHING ON THESE SHELVES if you just trade me that pesky liver of yours!,"如果你用你那肮脏的肝脏 来交换我,你就可以拥有所有的东西了!",只要拿你那烦人的肝脏来换，货架上所有东西都归你！
+english_events_pitstop:L299,pitstop_noodles_intro_6,FIX,"What do I need it for? You don't need to know! Less talking, more liver-removing!",我为什么需要它? 你没必要知道! 少说话多动肝脏!,我要肝干吗？不用你知道！少说话，快摘肝！
+english_events_pitstop:L300,pitstop_noodles_intro_6,FIX,"...Fine, but I'll get'cha next time. Do you have anything else to trade?","好吧,但我会得到'你下次。 你还有什么要交换的吗?",……行，下次再收拾你。还有别的东西能换吗？
+english_events_pitstop:L306,pitstop_noodles_intro_7,FIX,"Welcome to Noodles' swap shop, where every customer leaves satisfied!*",欢迎光临面条的互换店 店里每个顾客都满意!,欢迎来到面条的交换摊，每位顾客都能满意而归！*
+english_events_pitstop:L307,pitstop_noodles_intro_7,FIX,"(*Noodles' swap shop is not responsible for dissatisfaction, dissociation, early-onset dementia, involuntary dimension-hopping, or rapid exoskeleton growth.)","(*面条的互换店不负责不满,分离,早期发作的痴呆症,非自愿的尺寸购物,或迅速外骨骼生长. )",（*面条的交换摊不对以下情况负责：不满、解离、早发性痴呆、不受控制的维度穿越，或外骨骼快速生长。）
+english_events_pitstop:L308,pitstop_noodles_intro_7,POLISH,"Sorry, my dumb lawyer makes me say that. Anyway, see anything you like?","对不起,我的哑律师让我这么说。 无论如何,看到什么 你喜欢吗?",抱歉，我那蠢律师非让我说这个。总之，有看中的东西吗？
+english_events_pitstop:L314,pitstop_noodles_intro_8,FIX,"Howdy! Welcome to Noodles' swap shop, available by invitation only.","哈罗! 欢迎来到面条的互换店,只有邀请才能买到.",你好！欢迎来到面条的交换摊，这里只接待受邀客人。
+english_events_pitstop:L315,pitstop_noodles_intro_8,POLISH,"Oh... but I didn't receive an invitation... eh, who cares, really?","哦... 但我没收到邀请函... 嗯,谁在乎,真的?",哦……可我没收到邀请……算了，谁在乎？
+english_events_pitstop:L316,pitstop_noodles_intro_8,FIX,"Anyway, choose something already!","总之,已经选了!",总之，快挑一个吧！
+english_events_pitstop:L322,pitstop_noodles_intro_9,FIX,"Welcome to Noodles' swap shop, where friends get a discount and cops pay double!",欢迎来到面条的互换店 朋友可以打折扣 警察可以付双倍!,欢迎来到面条的交换摊，朋友打折，条子付双倍！
+english_events_pitstop:L323,pitstop_noodles_intro_9,FIX,"But you're neither of those things, so let's settle for regular price, yeah?","但你不是那些东西,所以让我们解决 正常价格,是吗?",不过，你两边都不沾，就按原价来吧？
+english_events_pitstop:L329,pitstop_noodles_intro_10,FIX,"I SWEAR, SERGEI, I'LL HAVE YOUR MONEY SOON! I JUST NEED MORE--","我发誓,塞吉,我马上就要你的钱了! 我只是需要多一点...",我发誓，塞吉，很快就还你钱！只要再多一点——
+english_events_pitstop:L330,pitstop_noodles_intro_10,FIX,"Oh, haha, it's just you. Please ignore that outburst. Are you here to make a trade?","哦,哈哈,这只是你。 请不要理会那场暴动 你是来做交易的吗?",哦，哈哈，原来是你。刚才那阵发飙，当没听见吧。来换东西的？
+english_events_pitstop:L336,pitstop_noodles_outro_1,FIX,Thank you for your business! See you in your darkest dreams!,谢谢你的生意! 在你最黑暗的梦中见到你!,谢谢惠顾！你最黑暗的梦里见！
+english_events_pitstop:L342,pitstop_noodles_outro_2,FIX,"Ooh, great choice. Wanna know how I got that thing? It's pretty funny!","哦,伟大的选择。 想知道我是怎么得到那个东西的吗? 这很有趣!",哦，选得不错。想知道这玩意儿怎么到我手里的吗？可好笑了！
+english_events_pitstop:L343,pitstop_noodles_outro_2,FIX,"Noodles proceeds to tell you the most fucked-up, soul-withering anecdote you've ever heard.",面条会告诉你你听过的最烂的 灵魂耗尽的传闻,面条接着讲了个故事，变态到极点，听得你灵魂都快枯萎了。
+english_events_pitstop:L344,pitstop_noodles_outro_2,FIX,"...and NONE OF THE CHILDREN SURVIVED! Haha, good times. Anyway, enjoy your purchase!","...没有儿童幸存! 哈哈,好时光。 无论如何,享受你的购买!",……然后，一个孩子都没活下来！哈哈，真是好时光。总之，好好享用买到的东西吧！
+english_events_pitstop:L350,pitstop_noodles_outro_3,FIX,"Jeez, you actually took that? I just set that out to make all my other products look better by comparison.","天哪,你真的拿了那个? 我这么说是为了让我的所有其他产品都看起来更好。",天啊，你真选了那个？我摆它出来，只是为了显得其他商品更好。
+english_events_pitstop:L351,pitstop_noodles_outro_3,FIX,"But hey, not my fault you're a sucker. NO REFUNDS!","但是,嘿,不是我的错 你是一个混蛋。 没有反应!",不过，你好骗也不怪我。概不退款！
+english_events_pitstop:L357,pitstop_noodles_outro_4,FIX,Enjoy your purchase! And remember the first rule of shop club...,好好享受你的买家! 记住商店俱乐部的第一条规则...,好好享用买到的东西！还有，别忘了购物俱乐部的第一条规矩……
+english_events_pitstop:L358,pitstop_noodles_outro_4,FIX,No refunds?,没有退款?,概不退款？
+english_events_pitstop:L359,pitstop_noodles_outro_4,POLISH,"Oh, it's actually ""never wear underwear on Wednesdays."" But that's a good rule too!","哦,其实是""周三从不穿内衣"",但这也是一条好规则!",哦，其实是“星期三绝不穿内裤”。不过，你说的也挺好！
+english_events_pitstop:L365,pitstop_noodles_outro_5,FIX,Thanks for stopping by! Tell your sleep paralysis demons I said hi!,谢谢你过来! 告诉你睡眠瘫痪的恶魔 我说了你好!,谢谢光临！替你鬼压床时见到的恶魔问个好！
+english_events_pitstop:L371,pitstop_noodles_outro_6,FIX,Great choice! Thanks for stopping by!,伟大的选择! 谢谢你过来!,选得好！谢谢光临！
+english_events_pitstop:L372,pitstop_noodles_outro_6,POLISH,"And remember, if I see you reselling any of my products online, I'm not afraid to go back to jail!","记住,如果我看到你在网上转售我的任何产品, 我不怕回到监狱去!",记住，要是让我发现你在网上倒卖我的商品，我可不怕再进一次监狱！
+english_events_pitstop:L378,pitstop_noodles_outro_7,FIX,"Excellent choice! Safe travels, and remember the Noodles' swap shop motto:","不错的选择! 安全出行,记住面条的互换店口:",选得妙！一路平安，别忘了面条交换摊的座右铭：
+english_events_pitstop:L379,pitstop_noodles_outro_7,POLISH,"""No prison can hold me, no rules can govern me, I am chaos incarnate, and I know where you live.""","""没有监狱可以关押我,没有规则可以统治我,我是混乱的化身,我知道你住在哪里""",“监狱关不住我，规则管不了我，我是混乱的化身，而且我知道你住哪儿。”
+english_events_pitstop:L380,pitstop_noodles_outro_7,FIX,Enjoy your purchase!,好好享受你的买家!,好好享用买到的东西吧！
+english_events_pitstop:L386,pitstop_noodles_outro_8,POLISH,Nice choice! I actually got that at your twelfth birthday party!,不错的选择! 我在你十二岁生日派对上得到了这个!,选得不错！这东西其实是我在你十二岁生日派对上拿的！
+english_events_pitstop:L387,pitstop_noodles_outro_8,FIX,You... WHAT?!,你们... 什麽?,你……什么？！
+english_events_pitstop:L388,pitstop_noodles_outro_8,FIX,Teehee! Have a good night!,田晓! 田晓! 玩得开心点!,嘻嘻！晚安！
+english_events_pitstop:L394,pitstop_noodles_outro_9,POLISH,Thanks for stopping by! See you at the next rest stop!,谢谢你过来! 下一站见!,谢谢光临！下个休息站见！
+english_events_pitstop:L395,pitstop_noodles_outro_9,KEEP,How do you know I'll be at the next rest stop?,你怎么知道我会在下一个休息站?,你怎么知道我会在下一个休息站?
+english_events_pitstop:L396,pitstop_noodles_outro_9,FIX,"Because we're in an endless time loop, silly. See you in four more turns!","因为我们处于无尽的时空循环中,傻瓜。 4个转弯再见!",因为我们困在无尽的时间循环里啊，傻瓜。再过四个回合见！
+english_events_pitstop:L402,pitstop_noodles_outro_10,POLISH,"Oof, are you sure you want that?","哦,你真的想这样吗?",唉，你确定要那个？
+english_events_pitstop:L403,pitstop_noodles_outro_10,FIX,Uh... could I choose a different item if I don't?,额... 如果我不选另一件呢?,呃……不确定的话，能换件别的东西吗？
+english_events_pitstop:L404,pitstop_noodles_outro_10,POLISH,Nope! Bye!,没有! 再见!,不能！再见！
+english_events_pitstop:L410,pitstop_noodles_gameover_1,KEEP,Oopsie!,哎哟!,哎哟!
+english_events_pitstop:L416,pitstop_noodles_gameover_weirdtrinket,KEEP,...why?,为什么?,为什么?

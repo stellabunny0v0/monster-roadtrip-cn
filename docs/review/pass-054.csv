@@ -1,0 +1,87 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_pitstop:L6063,cddamienresume,KEEP,His plans for the future,他对未来的计划,他对未来的计划
+english_events_pitstop:L6065,cddamienresume,FIX,"Well, now that you ask, I do have plans for what comes next after school!","既然你问了,我确实有计划 接下来放学以后要做什么!",既然你问了，毕业以后要干什么，我还真有计划！
+english_events_pitstop:L6066,cddamienresume,POLISH,"Lately I've been thinking... being the Prince of Hell is cool and all that, but that's my birthright.","最近我一直在想... 做地狱王子是很酷的,但这是我的天生权利。",最近我一直在想……地狱王子是挺酷的，可那是生下来就有的身份。
+english_events_pitstop:L6067,cddamienresume,FIX,"My dads are the fuckin' best... but what if Dahlia has a point in calling me ""Spoiled Little Prince""?","我爸爸是他妈的最好的... 但是,如果 达莉娅 叫我""被骗的小王子""有道理吗?",我那两位老爸他妈的最棒了……可达丽雅叫我“被宠坏的小王子”，万一还真有点道理呢？
+english_events_pitstop:L6068,cddamienresume,POLISH,I might end up wanting to reign over Hell... but what if I wanted to do something else?,我可能会想统治地狱... 但如果我想做别的事呢?,最后我也许还是想统治地狱……可要是我想干点别的呢？
+english_events_pitstop:L6069,cddamienresume,POLISH,"I need to leave the royal nest and explore who I want to be, by myself. But paying rent with the gold from the family warchest sounds like cheating.","我需要离开皇家巢穴 探索我想成为谁, 独自一人。 但是用家族军士的金子付房租 听起来像是作弊",我得离开王室这个窝，自己弄明白想成为什么人。可拿家里金库的钱交房租，总觉得像作弊。
+english_events_pitstop:L6070,cddamienresume,POLISH,"So the first step is getting a job, then.","所以第一步是找到工作,然后。",所以，第一步得先找份工作。
+english_events_pitstop:L6071,cddamienresume,FIX,Nothing royal; a true entry-level job in Hell that I could get even if I wasn't a LaVey!,"真正的入门工作 地狱,即使我不是拉维人,我也能得到!",不靠王室身份，就是地狱里一份真正的基层工作。就算不姓拉维，我也能找到的那种！
+english_events_pitstop:L6072,cddamienresume,FIX,Damien's little big adventure!,达米恩小小的冒险!,德魔的小小大冒险！
+english_events_pitstop:L6073,cddamienresume,FIX,Hehe... exactly!,热... 没错!,嘿嘿……没错！
+english_events_pitstop:L6074,cddamienresume,POLISH,So... recently I started working on my resumé. I need to nail that if I want to get a decent job.,"所以说... 最近我开始做我的简历。 如果我想得到一份体面的工作,我需要钉上它。",所以，最近我开始写简历了。想找份像样的工作，这东西就得弄好。
+english_events_pitstop:L6075,cddamienresume,FIX,"But most of my past experience is ""Crimes"" and ""Arson""...","但我过去的大部分经历是""犯罪""和""阿森""...",可我以前的经历，大部分都是“犯罪”和“纵火”……
+english_events_pitstop:L6076,cddamienresume,POLISH,"The resumé needs to set some boundaries, so they don't take advantage of me and push for horrible work conditions.","简历需要设定一些界限,这样他们就不会利用我,推动恶劣的工作条件.",还得在简历里划清界限，免得他们占我便宜，让我忍受一堆烂工作条件。
+english_events_pitstop:L6077,cddamienresume,FIX,You give them your hand and they munch your whole friggin' arm... sometimes literally.,"你把手给他们,然后把整个该死的手臂... 有时是字面上的。",你给他们一只手，他们能把整条胳膊都啃了……有时候，真就是啃。
+english_events_pitstop:L6078,cddamienresume,FIX,"Doing this right is like a science... and I am more of a butcher than a surgeon, if you get me.",做这个权利就像一个科学... 我比外科医生更像屠夫 如果你抓到我的话,这可是一门学问……而我更像屠夫，不像外科医生，懂吧？
+english_events_pitstop:L6079,cddamienresume,POLISH,I could lend you a hand... as long as you don't munch my whole arm.,我可以帮你一把... 只要你不咬我的整个手臂。,我可以帮你一把……只要你别把我整条胳膊都啃了。
+english_events_pitstop:L6080,cddamienresume,POLISH,I would never do that unless it was a sex thing with previous consent!,我绝对不会那么做 除非是之前同意的性行为,我才不会，除非是事先商量好的性玩法！
+english_events_pitstop:L6081,cddamienresume,FIX,Good to know.,很高兴知道。,那我放心了。
+english_events_pitstop:L6082,cddamienresume,KEEP,"But seriously, %CURRENTPLAYERNAME%, you're the best.","但说真的, %CURRENTPLAYERNAME%你是最厉害的","但说真的, %CURRENTPLAYERNAME%你是最厉害的"
+english_events_pitstop:L6083,cddamienresume,FIX,"I know. Okay, let me take a look...","我知道,我记得 I know. 好吧,让我看看...",我知道。行，让我看看……
+english_events_pitstop:L6084,cddamienresume,FIX,"For ""Education"", you put ""Street Smarts""...","""教育"",你放 ""街头智能""...",“教育经历”这一栏，你写的是“街头智慧”……
+english_events_pitstop:L6085,cddamienresume,FIX,The best kind of smarts!,最好的聪明人!,最棒的智慧！
+english_events_pitstop:L6086,cddamienresume,KEEP,"What do you think of my ""Special Skills"" section?","你觉得我的""特殊技能""部分怎么样?","你觉得我的""特殊技能""部分怎么样?"
+english_events_pitstop:L6087,cddamienresume,FIX,"""Survived in nature for MORE than two weeks. Yes, even pooped in the woods...""","""在大自然中生存了两周多"" 是的,甚至大便在树林里...""",“在野外生存超过两周。没错，连树林里拉屎都试过……”
+english_events_pitstop:L6088,cddamienresume,FIX,"""...can PROBABLY survive in the workplace for more than two weeks too. Would poop in the workplace, if necessary.""","""... . . . . 必要时会在工作场所拉屎"".",“……大概也能在职场生存超过两周。必要时，愿意在工作场所拉屎。”
+english_events_pitstop:L6089,cddamienresume,KEEP,...,...,...
+english_events_pitstop:L6090,cddamienresume,POLISH,"...okay, yes, definitely let me help you.","好吧,是的,绝对让我帮你。",……好，没错，这事必须让我帮你。
+english_events_pitstop:L6091,cddamienresume,POLISH,Fuck yeah! What else should I put on my resumé?,他妈的是的! 我还能写什么履历?,他妈的，好啊！简历上还能写点什么？
+english_events_pitstop:L6092,cddamienresume,POLISH,"""Best Trait: passionate about everything I do. I would murder for this job! Yes, I will murder if you need me to. I may murder even if you don't need me to.""","""最精彩的特雷特:对我所做的一切充满激情. 我会为这份工作而杀人的! 是的,我会谋杀,如果你需要我。 就算你不需要我,我也会杀人"".",“最大优点：做什么都充满热情。为了这份工作，我愿意杀人！没错，有需要我就杀。没需要，我也可能杀。”
+english_events_pitstop:L6093,cddamienresume,FIX,"""Past Jobs: Prince of Hell. So young and in such a high position already!""","""过去的工作:地狱王子"". 如此年轻 身处如此高的地位!""",“工作经历：地狱王子。年纪轻轻，就身居高位！”
+english_events_pitstop:L6094,cddamienresume,FIX,"""Languages: Native-level speaker of Infernal Enochian, Abyssal, and Bellsybabble. Fluent in Common Monster and Swearing.""","""语言:地狱以诺克语,阿比萨尔语和贝尔西巴伯语的土著级演说家. 流利地在常见的怪物和发誓"".",“语言：地狱以诺语、深渊语、贝尔西巴伯语均为母语水平。怪物通用语和脏话使用流利。”
+english_events_pitstop:L6096,cddamienresume,KEEP,"Uh, that's true! I love murdering!","嗯,这是真的! 我喜欢杀人!","嗯,这是真的! 我喜欢杀人!"
+english_events_pitstop:L6097,cddamienresume,POLISH,And I am passionate. That part is good too.,我很热情 这部分也是好的。,而且，我是挺有热情的。这部分也没错。
+english_events_pitstop:L6098,cddamienresume,KEEP,"This way, they might ask for me to murder people as part of the job!","这样,他们可能会要求我杀人,作为工作的一部分!","这样,他们可能会要求我杀人,作为工作的一部分!"
+english_events_pitstop:L6099,cddamienresume,KEEP,Imagine that!,试想一下!,试想一下!
+english_events_pitstop:L6100,cddamienresume,FIX,"Well, you know what they say: ""Choose a job you love, and you'll never work a day in your life"".","嗯,你知道他们说:""选择一个你爱的工作, 你永远不会工作一天在你的生活中""。",毕竟，老话说得好：“找份自己热爱的工作，这辈子就一天班都不用上了。”
+english_events_pitstop:L6101,cddamienresume,POLISH,They say that? Ugh...,他们说的? 唉哟...,还有这种话？啧……
+english_events_pitstop:L6102,cddamienresume,FIX,What's wrong?,或?,怎么了？
+english_events_pitstop:L6103,cddamienresume,POLISH,"It sounds nice, but it also sounds like the sort of bullshit they shove down your throat to make you comply with ANYTHING.","听起来不错,但也听起来像一种废话 他们推入你的喉咙 让你遵守任何东西。",听着是不错，可也像是他们硬灌给你的那种屁话，好让你什么都肯答应。
+english_events_pitstop:L6104,cddamienresume,POLISH,Like when a company tells you that you're a family.,就像一个公司告诉你 你是一个家庭。,就像公司跟你说，咱们都是一家人。
+english_events_pitstop:L6105,cddamienresume,POLISH,"It does sound nice... but many times it leads to them asking everything from you and pushing your boundaries because... y'know... you're ""family"".","听起来不错... 但很多时候,它导致他们 问你的一切 和推进你的界限,因为... 你知道吗... 你是一个""家庭""。",听着挺暖心……结果，什么都要你干，什么界限都能越，毕竟……你懂的，你是“家人”嘛。
+english_events_pitstop:L6106,cddamienresume,FIX,Then before you know it... arm munched. Bye bye arm.,在你还没知道之前... 手臂被擦伤了。 再见,回过神来……胳膊没了。拜拜，胳膊。
+english_events_pitstop:L6107,cddamienresume,POLISH,"This is the same, now that I think about it. I tell them I'm passionate... hmph... not a good start.","现在我想起来了,这是同样的事情。 我告诉他们我很热情... 哼... 哼... 哼... 不是一个好的开始。",仔细想想，这不也一样。我告诉他们，我充满热情……哼……这可不是个好开头。
+english_events_pitstop:L6108,cddamienresume,POLISH,"I am passionate, that much is true. But I'm passionate as a lover, in my hobbies, when murdering for fun...","我充满了激情,这是事实。 但我很热情的爱人, 在我的爱好中, 当谋杀的乐趣...",我是有热情，没错。谈恋爱、搞爱好、杀人取乐，这些我都充满热情……
+english_events_pitstop:L6109,cddamienresume,POLISH,"But work should be work. There's nothing wrong with that, you noob.","但工作应该是工作。 没有什么不对的,你这个新手。",可工作就该是工作。这有什么不对，菜鸟。
+english_events_pitstop:L6110,cddamienresume,FIX,Nah... a resumé is no place for passion.,没有... 简历不是激情的地方。,不行……简历上，不该放什么热情。
+english_events_pitstop:L6111,cddamienresume,FIX,And giving me such weak-ass life advice... I don't think tonight is a place for passion with you either.,并给我这样的弱屁股 生活建议... 我也不认为今晚是激情与你同在的地方,你给的这点人生建议也太烂了……今晚，我也不想跟你有什么激情了。
+english_events_pitstop:L6112,cddamienresume,FIX,"Oof, that hurt.","哦,这很疼。",嘶，这话真伤人。
+english_events_pitstop:L6114,cddamienresume,POLISH,"Hmph... I guess being the Prince of Hell is better job experience than ""Crimes"" and ""Arson"".","额... 我想做地狱王子 比""犯罪""和""阿森""更适合工作",哼……地狱王子，确实比“犯罪”和“纵火”更像正经工作经历。
+english_events_pitstop:L6115,cddamienresume,KEEP,Right?,对吧?,对吧?
+english_events_pitstop:L6116,cddamienresume,FIX,"But... I mean... what's the fuckin' point of pushing for a normal job if I play the ""BTW, I'm royalty"" card?","不过... 我是说... 如果我玩""BTW,我是皇室皇室""的牌, 推进正常工作有什么意义?",可我要是打出“顺便一提，我是王室”这张牌，费劲找份普通工作，他妈的还有什么意义？
+english_events_pitstop:L6117,cddamienresume,FIX,"At least when I did ""Crimes"" and ""Arson"" I did it as my own person, not because I was the kings' son.","至少当我做""犯罪""和""阿森""的时候,我做它作为我自己的人,而不是因为我是国王的儿子.",至少“犯罪”和“纵火”都是我自己干的，不是靠两位国王的儿子这个身份。
+english_events_pitstop:L6118,cddamienresume,POLISH,"Although... being the son of the kings may have helped me not spend my life in prison for all those ""Crimes"" and ""Arson""...","虽然. 作为国王的儿子 可能帮助我 不在监狱里度过我的一生 对于所有这些""罪行""和""阿森""...",虽然……犯了那么多“罪”、放了那么多“火”，却不用在牢里待一辈子，可能也多亏我是两位国王的儿子……
+english_events_pitstop:L6119,cddamienresume,KEEP,...,...,...
+english_events_pitstop:L6120,cddamienresume,FIX,...fuck.,他妈的。,……操。
+english_events_pitstop:L6121,cddamienresume,FIX,"Am I a ""Little Prince"" taking advantage of my privilege even when I try to be metal by doing ""Crimes"" and ""Arson""?","难道我是一个""小王子"" 利用我的特权 即使我试图成为金属 通过做""犯罪""和""Arson""?",难道，我为了显得硬核，跑去“犯罪”“纵火”，到头来还是个占着特权的小王子？
+english_events_pitstop:L6122,cddamienresume,FIX,"That's, like... absolutely NOT metal!",这就像... 绝对不是金属!,这也太……不硬核了！
+english_events_pitstop:L6123,cddamienresume,POLISH,"Agh, fuck. This is the worst!","啊,他妈的。 这是最糟糕的!",啊，操。糟透了！
+english_events_pitstop:L6124,cddamienresume,KEEP,It's not that bad...,没那么糟...,没那么糟...
+english_events_pitstop:L6125,cddamienresume,POLISH,SHUT UP! I REALLY NEED TO START BEING MY OWN PERSON WITHOUT MY DADS HELPING ME ALL THE TIME!,闭嘴! 我真的需要开始做我自己的人 没有我的花花公子 帮助我所有的时间!,闭嘴！我得靠自己活，不能总让两个老爸帮我！
+english_events_pitstop:L6126,cddamienresume,FIX,"And your weak-ass advice isn't helping, you noob!","你那弱小的忠告也帮不了你,你个笨蛋!",你那点烂建议，一点忙都帮不上，菜鸟！
+english_events_pitstop:L6127,cddamienresume,FIX,Putting that I am the son of the kings in my resumé... so metal of me...,在我的履历中说我是国王之子... 如此的金属我...,在简历里写我是国王的儿子……可真够硬核的啊……
+english_events_pitstop:L6128,cddamienresume,POLISH,Fuck you and your dumb ideas.,去你妈的和你的蠢主意。,去你的，带上你的蠢主意一起滚。
+english_events_pitstop:L6129,cddamienresume,KEEP,Bye.,再见。,再见。
+english_events_pitstop:L6130,cddamienresume,KEEP,Ouch.,哎哟。,哎哟。
+english_events_pitstop:L6132,cddamienresume,KEEP,"Hey, that's true!","嘿,这是真的!","嘿,这是真的!"
+english_events_pitstop:L6133,cddamienresume,POLISH,And it's not a bad idea either... speaking several languages is always impressive.,也不是个坏主意... 说几种语言总是令人印象深刻。,而且，这主意不错……会好几门语言，总能让人眼前一亮。
+english_events_pitstop:L6134,cddamienresume,POLISH,I was raised on all three Hell languages for diplomacy purposes. That can prove useful on a job.,"为了外交目的,我用三种地狱语言长大。 这可以证明对工作有用。",为了将来搞外交，我从小就学了地狱的三种语言。工作时应该用得上。
+english_events_pitstop:L6135,cddamienresume,FIX,And speaking Common Monster is no small feat either.,说普通怪兽也不是什么小功绩,会说怪物通用语，也算是项本事。
+english_events_pitstop:L6136,cddamienresume,FIX,"Since Hell has been opening its borders to the Monster Realm, tourism has flourished.","由于地狱一直向""魔兽王国""开放边界,旅游业蓬勃发展.",自从地狱向怪物世界开放边境，旅游业就发展起来了。
+english_events_pitstop:L6137,cddamienresume,POLISH,I can only imagine that understanding the culture and language of the Monster Realm is quickly becoming a great asset!,"我只能想象,理解""魔兽王国""的文化和语言,正在迅速成为伟大的资产!",懂怪物世界的文化和语言，肯定越来越吃香！
+english_events_pitstop:L6138,cddamienresume,FIX,"So, I may have an ace up my sleeve by studying over here.","所以,我可能有一个王牌 在我的袖子上,在这里学习。",所以，来这边读书，没准真成了我的优势。
+english_events_pitstop:L6139,cddamienresume,FIX,"Good catch, %CURRENTPLAYERNAME%!","接得好 接得还不错 Good catch, %CURRENTPLAYERNAME%!",%CURRENTPLAYERNAME%，你提醒得好！
+english_events_pitstop:L6140,cddamienresume,POLISH,Of course. I totally suggested it because I understand the current socioeconomics of Hell.,"当然 我完全建议这么做,是因为我理解当前地狱的社会经济因素。",当然。我提这建议，完全是因为了解地狱当前的社会经济状况。
+english_events_pitstop:L6141,cddamienresume,FIX,"(...and not because, out of all my dumb ideas, this one was the only one that didn't fuck with the presented criteria.)","(...... 而不是因为,从我所有愚蠢的想法中,这个是唯一一个没有搞砸所提出的标准. )",（……才不是因为，我那一堆蠢主意里，只有这个没违背刚才说的要求。）
+english_events_pitstop:L6142,cddamienresume,KEEP,What?,什麽?,什麽?
+english_events_pitstop:L6143,cddamienresume,KEEP,Nothing!,没什么!,没什么!
+english_events_pitstop:L6144,cddamienresume,FIX,"Also, thanks for noticing I'm proficient in Swearing!","还有,谢谢你注意到我精通发誓!",还有，谢谢你注意到，我很擅长说脏话！
+english_events_pitstop:L6145,cddamienresume,FIX,No prob. It's a charming aspect of you. Like... you could... practice with me... you know... if you wanted.,没有专业的。 这是你迷人的一面。 喜欢... 你可以... ... 说说看... 跟我练习... 你知道吗... 如果你想的话。,不客气。这也是你迷人的地方。比如……你可以……跟我练练……你懂的……如果你愿意的话。
+english_events_pitstop:L6146,cddamienresume,KEEP,...,...,...
+english_events_pitstop:L6147,cddamienresume,POLISH,"...You're trying to imply it as part of a sex thing, aren't you.","你试图暗示这是性爱的一部分,不是吗?",……你是在暗示，想把这当成性玩法的一部分，对吧。
+english_events_pitstop:L6148,cddamienresume,KEEP,...,...,...
+english_events_pitstop:L6149,cddamienresume,POLISH,...Yes?,是吗?,……是？
+english_events_pitstop:L6150,cddamienresume,POLISH,"Heh... we'll see, you silly dumbass.",哦... 等着瞧吧 你这个蠢货,嘿……再说吧，你这傻蛋。
+english_events_pitstop:L6151,cddamienresume,FIX,"For the rest of the night, Damien tries to teach you how to say naughty things in Abyssal Tongue. It uses... a lot of tongue.",余夜相续. 达米恩 试图教你如何在阿比萨尔语中说出淘气的话。 它使用... 口口口口口口口口口口口舌口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口相口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口口,接下来的时间，德魔一直在教你用深渊语说些下流话。说起来……可真费舌头。
+english_events_pitstop:L6152,cddamienresume,POLISH,"You wonder if you could eventually put it to use with him, one day. Ah... who knows?","你怀疑你最终能不能 和他一起使用它,有一天。 摆... 谁知道呢?",你琢磨着，也许哪天，真能在他身上派上用场。啊……谁知道呢？

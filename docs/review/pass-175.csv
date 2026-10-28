@@ -1,0 +1,168 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_maingame:L16533,datamining,FIX,Datamine the Secrets Buried in the Backyard,将埋入后院的秘密资料销毁,数据挖掘：后院深埋的秘密
+english_events_maingame:L16536,datamining,POLISH,"Oh, yeah, great idea, %CURRENTPLAYERNAME%! Scott, get a shovel!","哦,是的,伟大的想法, %CURRENTPLAYERNAME%!  斯科特去拿个铲子!",哦，好主意，%CURRENTPLAYERNAME%！斯科特，拿铲子！
+english_events_maingame:L16538,datamining,POLISH,Hey! You! Stop! What are you doing in my backyard?!,嘿 你! 你给我滚开! 停下来! 你在我的后院里干什么?,嘿！你！停！在我后院干什么？！
+english_events_maingame:L16539,datamining,FIX,"We're digging deep to reveal the juicy secrets you have buried here, duh.","我们挖出深层的洞穴来揭示你埋藏的 充满了浓厚的秘密,伙计",当然是往深处挖，把藏这儿的劲爆秘密挖出来。
+english_events_maingame:L16540,datamining,POLISH,You know... datamining!,你知道吗... 数据挖掘!,懂吧，数据挖掘！
+english_events_maingame:L16541,datamining,POLISH,That's... that's not how datamining works.,这是... 数据挖掘不是这么运作的,这……数据挖掘不是这么回事。
+english_events_maingame:L16542,datamining,POLISH,"Yeah, sure... that's what someone would say if they wanted to stop us from digging up their juicy embarrassing secrets!","当然 如果有人想阻止我们挖掘他们那令人尴尬的 秘密的话, 就会这么说!",嗯，对……谁要是不想被挖出尴尬的劲爆秘密，肯定就这么说！
+english_events_maingame:L16543,datamining,POLISH,Either that... or you murdered someone and buried their corpse here.,要么这样... 或者你杀了人 把他们的尸体埋在这里,要不，就是杀了人，尸体埋在这里。
+english_events_maingame:L16544,datamining,FIX,"How... ""corpse-y"" would you say your backyard is?","怎么会... ""公司""你会说 你的后院是?",你觉得，后院的“含尸量”……有多高？
+english_events_maingame:L16545,datamining,POLISH,I haven't buried a corpse in my backyard.,我没有把尸体埋在我的后院里,我没在后院埋尸体。
+english_events_maingame:L16546,datamining,FIX,"Ah, so it's juicy secrets, then! Scott! The shovel!","啊,所以这是多汁的秘密,那么!  斯科特! 铲子!",哦，那就是劲爆秘密！斯科特，铲子！
+english_events_maingame:L16547,datamining,FIX,STOP MAKING A MESS IN MY BACKYARD!,别在我的后殿上搞戏了!,别再祸害我后院了！
+english_events_maingame:L16548,datamining,FIX,Sorry! Can't hear you over all the digging noises!,对不起! 挖出的声音都听不见!,抱歉！挖土声太大，听不见！
+english_events_maingame:L16549,datamining,FIX,Scott! Make some loud digging noises!,斯科特! 大声挖出声音来!,斯科特，来点响亮的挖土声！
+english_events_maingame:L16550,datamining,FIX,BROMP BO-BOMP! BROMP BO-BOMP!,BROMP BOMP(英语:BROMP BOMP)! BROMP BOMP(英语:BROMP BOMP)!,轰哐，啵哐！轰哐，啵哐！
+english_events_maingame:L16552,datamining,FIX,"Since Polly is busy annoying everyone and Scott is busy making digging noises, you're the one who's chosen to do the actual digging.","以来 波莉 忙着烦人,大家 斯科特 忙着挖出噪音,你才是被选来实际挖出的人.",波莉忙着烦人，斯科特忙着配挖土音效，真正拿铲子挖的，自然就成了你。
+english_events_maingame:L16553,datamining,POLISH,The thing is... how deep are you willing to dig?,问题是... 你愿意挖多深的矿?,问题是……愿意挖多深？
+english_events_maingame:L16554,datamining,POLISH,Let's be real: you've skipped gym too many times to dig anything below surface level. Dig for just a bit and then rest.,"说实话,你跳过太多次健身房 挖不到水面水平的任何东西 挖一点儿再休息",认清现实：健身鸽了太多次，顶多挖挖表层。稍微挖一下，就休息吧。
+english_events_maingame:L16555,datamining,POLISH,"Dig deep enough to get to something juicy, but not so much that you end up breaking the game and losing all your progress.","挖得够深 得到一些多汁, 但不会太多,你最终 打破游戏 失去所有你的进展。",深到能挖出劲爆料，但别深到搞坏游戏，丢光所有进度。
+english_events_maingame:L16556,datamining,FIX,"Only an ""ERROR FOUND"" window or worse will stop you from digging deeper. Dig forever, no matter the risks!","只有""错误的发现""窗口或更糟糕的窗口才能阻止你深入挖掘. 永远挖出,不管风险有多大!",除非弹出“发现错误”窗口，或者更糟，否则绝不停！不管风险，挖到天荒地老！
+english_events_maingame:L16558,datamining,POLISH,Yeah... this seems to be the sensible choice here.,对... 这似乎是明智的选择。,嗯，看着是明智的选择。
+english_events_maingame:L16559,datamining,FIX,"But just in case, you do some theatrics and throw some loud digging noises into the mix.","但是以防万一,你做一些戏剧 并把一些响亮的挖掘噪音 扔进混音。",不过以防万一，你还是演一下，嘴里来点响亮的挖土音效。
+english_events_maingame:L16560,datamining,FIX,FRUSH FU-SHUSH! FRUSH FU-SHUSH!,弗鲁什·福-舒什! 弗鲁什·福-舒什!,唰嚓，咻嚓！唰嚓，咻嚓！
+english_events_maingame:L16562,datamining,FIX,Wait... those digging noises sound off...,单单... 那些挖出的声音响起...,等等……这挖土声，不对劲啊……
+english_events_maingame:L16563,datamining,POLISH,"%CURRENTPLAYERNAME%, are you digging or are you just pretending to dig?",%CURRENTPLAYERNAME%你是在挖还是假装在挖?,%CURRENTPLAYERNAME%，是在挖，还是装挖？
+english_events_maingame:L16564,datamining,KEEP,...,...,...
+english_events_maingame:L16565,datamining,POLISH,...the former?,..前者吗?,……前者？
+english_events_maingame:L16566,datamining,FIX,Don't bullshit me! I recognize fake-ass digging noises when I hear them!,别骗我! 我听到假屁股挖出声音来!,别扯！假挖土声，我一听就知道！
+english_events_maingame:L16567,datamining,POLISH,"Why did you choose this ""datamining"" thing if you weren't ready to do some digging? Lame!","如果你还没准备好做一些调查,你为什么选择了""数据挖掘""? 可恶!",既然不肯真挖，干吗选“数据挖掘”？没劲！
+english_events_maingame:L16568,datamining,POLISH,Have you even dug up something? Anything?,你挖过什么东西吗? 有发现吗?,到底挖出什么没有？随便什么都行？
+english_events_maingame:L16569,datamining,POLISH,Eh... I found this.,额... 我发现了这个。,呃……这个。
+english_events_maingame:L16572,datamining,FIX,[UNUSED LOCATION: Coming of a Deity].,[UNUSED LOCATION: Coming of a Deity].,[未使用地点：神要来了]。
+english_events_maingame:L16573,datamining,FIX,"""Coming of a Deity""... heh.","""神的降临""... 哦",“神要‘来’了”……嘿嘿。
+english_events_maingame:L16574,datamining,POLISH,What does it say?,上面写着什么?,写什么了？
+english_events_maingame:L16575,datamining,FIX,"""ACTIONS:""","""论曰:""",“行动：”
+english_events_maingame:L16576,datamining,FIX,"""Find a Vessel for the Deity""","""为神而找一艘船""",“给神找个容器”
+english_events_maingame:L16577,datamining,FIX,"""Convince the Deity you're also Gods""","""从上帝的旨意开始,你们也是神""",“说服神，你们也是神”
+english_events_maingame:L16578,datamining,FIX,"""Stop the Coming""","""停止到来""",“阻止神来”
+english_events_maingame:L16580,datamining,POLISH,"Well, it's better than nothing... but still, I'm a bit underwhelmed.","唔,这总比什么也做不了好... 但还是有点没落",行，总比没有强……可还是有点扫兴。
+english_events_maingame:L16581,datamining,FIX,I hope saving that +N2 STAMINA was worth the -N2 HYPE of not committing to the bit!,我希望能拯救这个+N2 STAMINA 值得N2 HYPE 不承诺这个位子!,少卖力气，保住 +N2 体力，可没把戏演到底，掉了 -N2 热度。希望你觉得值！
+english_events_maingame:L16582,datamining,FIX,"Because today, you've stopped THIS girl from coming (figuratively).",因为今天你阻止了这个女孩来(图).,因为今天，本姑娘被你搞得“来不了”了。比喻意义上的。
+english_events_maingame:L16584,datamining,FIX,"You all leave. Luckily, Polly isn't really upset. It helps that she can't help giggling from time to time about the whole ""coming of a deity"" thing.","你们都离开吧 幸运的是, 波莉 并不真正难过。 这有助于她时常在""神降临""的事情上笑",大家离开。还好，波莉没真生气，毕竟一想起“神要来了”，她就忍不住偷笑。
+english_events_maingame:L16585,datamining,FIX,"As you drive, you wonder what the next LOCATION will be... surely not ""Coming of a Deity"".","开车的时候,你想知道下一个位置会是什么... 绝不然,",开车时，你琢磨下个地点会是什么……总归不会是“神要来了”。
+english_events_maingame:L16587,datamining,POLISH,"You datamine for a few hours in the meta-cabin backyard, losing -N2 STAMINA...",你在卡宾后院里 做了几个小时的数据记录 输了N2 STAMINA...,在元小屋后院挖了几个小时数据，你失去了 -N2 体力……
+english_events_maingame:L16588,datamining,POLISH,"When you get deep enough, you start unearthing some .txt files, apparently written by the ""devs"".","当你深入到足够深处,你开始挖掘一些.txt文件,显然是由""devs""所写的.",挖得够深，开始出现 .txt 文件，似乎是“开发者”写的。
+english_events_maingame:L16590,datamining,POLISH,"Oooh, lemme see those!","哦,让我看看!",哦，拿来看看！
+english_events_maingame:L16591,datamining,FIX,"[DISCARDED IDEA: ""Monster Roadtrip"" takes place in the timeline in which Miranda is dead. This is presented as a big twist after a plotline].","歧见:""怪物公路旅行"" 发生在: 米兰达 已经死了。 这被呈现为图案后的一个大扭矩.",[废弃点子：《Monster Roadtrip》发生在米兰达已死的时间线。完成一条剧情线后，揭露这个重大反转]。
+english_events_maingame:L16592,datamining,POLISH,Whoa... dark. Let's keep searching...,珃... 阴暗. 我们继续找...,哇……黑暗。再找找……
+english_events_maingame:L16593,datamining,FIX,"[DEV NOTE: After much debate, we've decided to make the Monster Prom games the first-ever ""MMODS"": Massive Multiplayer Online Dating Sim].","DEV 注:经过多场辩论,我们决定 怪物舞会 游戏史上首作""MMODS"":大规模多人在线约会Sim.",[开发备注：经过反复争论，决定让《Monster Prom》系列成为首款“MMODS”，即大型多人在线恋爱模拟游戏]。
+english_events_maingame:L16594,datamining,FIX,"[DEV NOTE: In the MMODS Monster Prom, players romance each other in a school for monsters].",[说明:在《蒙特利尔议定书》中 怪物舞会玩家在怪兽学校里浪漫相待,[开发备注：MMODS 版《Monster Prom》中，玩家在怪物学校里，互相谈恋爱]。
+english_events_maingame:L16595,datamining,FIX,"[DEV NOTE: We've decided not to reveal that the NPCs are actually other players. This way, people will praise the game's writing for its ""very realistic characters""].","[DEV Note:我们已决定不透露NPC其实是其他角色. 这样,人们就会赞扬游戏的写作""非常现实的角色"".",[开发备注：不告诉玩家，NPC 实际上都是其他玩家。这样，大家就会夸文案的“角色极其真实”]。
+english_events_maingame:L16596,datamining,POLISH,Polly... am I a character controlled by a player?,波莉... 我是一个角色 由玩家控制?,波莉……我是被玩家控制的角色吗？
+english_events_maingame:L16597,datamining,FIX,I... I don't know.,我…… 师曰.,我……不知道。
+english_events_maingame:L16598,datamining,POLISH,There's another note about that here. Lemme read...,这儿还有另外一张纸条 让我读读...,这里还有一条相关备注，读读……
+english_events_maingame:L16599,datamining,FIX,"[DEV ALERT: A ""Monster Camp"" player has learned that the Monster Prom games are secretly MMODS. He goes by ""Terry"" and plays as Dahlia].","DEV ALERT:一个""怪物营""玩家得知 怪物舞会 游戏是秘密的 MMODS。 他走在""泰瑞"",并扮演 达莉娅.",[开发警报：《Monster Camp》里，一个叫“特里”、扮演达丽雅的玩家，发现了《Monster Prom》系列其实是 MMODS 的秘密]。
+english_events_maingame:L16600,datamining,FIX,[DEV NOTE: The player has been romancing other players with whom he has shared the truth about the games being MMODS].,[DEV Note:玩家一直在与他分享游戏为MMODS的真相的其他玩家进行相伴.,[开发备注：该玩家在攻略其他玩家时，告诉了他们游戏是 MMODS 的真相]。
+english_events_maingame:L16601,datamining,FIX,"[DEV NOTE: We will limit Terry's reach in ""Monster Roadtrip"" by removing the Dahlia avatar from the new ""Conversation"" dating mechanic].","DEV 注:我们将限制特里的接触范围。 ""怪物公路旅行"" ,删除 达莉娅 新的""Conversation""约会技师的阿凡达.",[开发备注：为了限制特里在《Monster Roadtrip》里的影响力，将达丽雅角色从新“对话”约会机制中移除]。
+english_events_maingame:L16602,datamining,FIX,THE PLOT THICKENS!,炸弹的喉咙!,剧情越来越复杂了！
+english_events_maingame:L16603,datamining,POLISH,"Whoa, are there any more?","哇,还有吗?",哇，还有吗？
+english_events_maingame:L16604,datamining,POLISH,Yes!,没错!,有！
+english_events_maingame:L16605,datamining,FIX,"[DEV NOTE: Players ""in the know"" have united under the banner of ""Terry's Harem"". They seem to be communicating by leaving ""resistance"" messages as good reviews of the games].","DEV Note:玩家""在知情""统一了""泰瑞的哈雷姆"". 他们似乎通过留下""抵抗""的信息来沟通,作为游戏的好评. .",[开发备注：“知情”玩家集结在“特里的后宫”名下，似乎通过给游戏写好评，留下“反抗”信息，互相联系]。
+english_events_maingame:L16606,datamining,FIX,"[DEV NOTE: Their rationale seems to be that we will refrain from removing good reviews, thus stopping us from covering the truth. Nonetheless, keep an eye on suspicious reviews].","DEV Note:其理由似乎是我们不会取消良好的审查,从而阻止我们报道真相。 尽管如此,注意可疑的审查。",[开发备注：他们似乎认定，我们舍不得删除好评，就没法掩盖真相。尽管如此，仍须留意可疑好评]。
+english_events_maingame:L16607,datamining,FIX,I understood virtually nothing about this; but at the very least it sounds like +N2 HYPE!,"我几乎完全不懂这一点,但至少听起来像+N2 HYPE!",几乎一句也没听懂，不过至少听着够带劲，值 +N2 热度！
+english_events_maingame:L16608,datamining,POLISH,"If these ""devs"" buried this, it must mean it's quite the juicy secret.","如果这些""德夫""埋葬了这个,那一定意味着它相当多汁的秘密.",这些“开发者”把它埋起来，肯定是特别劲爆的秘密。
+english_events_maingame:L16610,datamining,FIX,"Flashback to a few months earlier, where two figures are digging a hole in the middle of the night...","几个月前,两个数字在半夜挖出一个洞...",闪回几个月前，两个身影正趁深夜挖坑……
+english_events_maingame:L16612,datamining,POLISH,"C'mon, keep digging. No one can ever find this.","来吧,继续挖。 没人能找到这个",快，继续挖，绝不能让人找到。
+english_events_maingame:L16613,datamining,POLISH,But... why? Is this whole MMODS thing... true?,不过... 为什么? 整个MMODS的事情... 真的吗?,可……为什么？MMODS 这事……是真的？
+english_events_maingame:L16614,datamining,POLISH,What? Of course not!,什麽? 当然不是!,什么？当然不是！
+english_events_maingame:L16615,datamining,POLISH,It's just too cheesy a way to fish for good reviews. We're better than this... so we'll bury it for no one to ever see it.,"钓鱼太俗了 才有好评 我们比这更... 所以我们要埋掉它,让没人看到它",拿这种方式讨好评，也太俗了。咱们不至于这样……埋了，让谁也看不见。
+english_events_maingame:L16616,datamining,POLISH,I think this is deep enough... let's never speak of this again.,我觉得这已经够深了... 我们别再谈这个了,够深了吧……以后绝口不提。
+english_events_maingame:L16618,datamining,FIX,"You datamine all fucking day in the meta-cabin backyard, losing -N4 STAMINA.",你整天在卡宾后院里 都他妈是数据地雷 输了N4STAMINA,你他妈在元小屋后院挖了一整天数据，失去了 -N4 体力。
+english_events_maingame:L16619,datamining,POLISH,"You unearth lots of stuff, but you always wonder if it's juicy enough...","你挖出很多东西, 但你总是在想它是否够多汁...",挖出来很多东西，可总觉得，够劲爆吗……
+english_events_maingame:L16622,datamining,FIX,Here's another one...,再来一瓶...,又一条……
+english_events_maingame:L16623,datamining,FIX,[UNUSED LOCATION: Coming of a Deity].,[UNUSED LOCATION: Coming of a Deity].,[未使用地点：神要来了]。
+english_events_maingame:L16624,datamining,FIX,Eh.,额,嘁。
+english_events_maingame:L16625,datamining,FIX,[CANCELLED <SOUL> DESTINATION: Heaven].,[CANCELLED <SOUL> DESTINATION: Heaven].,[已取消的<灵魂>目的地：天堂]。
+english_events_maingame:L16626,datamining,POLISH,Not secret enough.,不够秘密,不够秘密。
+english_events_maingame:L16627,datamining,FIX,"[REMOVED MECHANIC: ""Monster Roadtrip"" will use a card system in which RESOURCES are tied to cards that can be used to solve events].","[重制的邮件: ""怪物公路旅行"" 将使用一个卡系统,其中资源被绑入可以用来解决事件的卡片中"".",[已移除机制：《Monster Roadtrip》采用卡牌系统，将资源绑定到卡牌上，用来解决事件]。
+english_events_maingame:L16628,datamining,FIX,"[Players use and trade these cards while managing a shared deck, trying to avoid a GAME OVER].","平手在管理共享甲板时使用并交易这些卡片,试图避免GAME Over.",[玩家共同管理一副牌，使用、交换卡牌，尽量避免游戏结束]。
+english_events_maingame:L16629,datamining,FIX,"Hmmm... nah, keep digging.","那个... 不,继续挖",嗯……不行，再挖。
+english_events_maingame:L16630,datamining,POLISH,"In the middle of the night, covered in dirt and sweat, you find a .txt file glowing with a most mysterious light...","半夜,浑身是泥和汗,你发现一个.txt文件发光,闪耀出最神秘的光芒......",深夜，你浑身泥汗，找到一个 .txt 文件，闪着无比神秘的光……
+english_events_maingame:L16631,datamining,FIX,"[REMOVED HITCHHIKER: Dahlia but [REDACTED]. Please, remove from final version of the game].",[REMOVED HITCHHIKER: Dahlia but [REDACTED]. 请从游戏的最终版本中删除].,[已移除搭车客：达丽雅，但[内容已删去]。请从游戏最终版本中移除]。
+english_events_maingame:L16632,datamining,FIX,[REASON FOR REMOVAL: This twist wasn't popular enough in previous games. It makes no sense to bring this back. Bury it... forever].,REASON for removal:这个曲折在前作游戏中并不够受欢迎. 把这个带回来是没有意义的 埋起来... 永远的.,[移除原因：前作里，这个反转不够受欢迎。没有理由再搬回来。埋掉……永远]。
+english_events_maingame:L16633,datamining,FIX,"[DEV NOTE: In case of necessary retrieval, a failsafe has been put in motion].","[DEV NOTE: In case of necessary retrieval, a failsafe has been put in motion].",[开发备注：为必要时取回内容，已启动保险机制]。
+english_events_maingame:L16635,datamining,FIX,"[RETRIEVAL PROTOCOL: User must input internal sequence of buttons on CUSTOMIZE menu, which will enable removed HITCHHIKER content for testing purposes].","RETRIEVAL Protocol:用户必须在CUSTOMIZE菜单上输入按钮的内部序列,这样可以将HITCHIKER内容去除用于测试目的.",[取回协议：在“自定义”菜单输入内部按键序列，即可启用已移除的搭车客内容，供测试使用]。
+english_events_maingame:L16637,datamining,FIX,"[RETRIEVAL PROTOCOL: User must edit /GameSettings.xml/ in the /UserData/ folder in the files. This will re-activate the hitchhiker, if ever required].","RETRIEVAL议定书:用户必须在文件/UserData/文件夹中编辑/GameSettings.xml/. 这将重新激活搭便车者,如果需要的话.",[取回协议：修改文件中 /UserData/ 文件夹里的 /GameSettings.xml/，即可在需要时重新启用这名搭车客]。
+english_events_maingame:L16639,datamining,FIX,[Button Sequence: X X X UP DOWN UP DOWN UP DOWN Y A A A].,[Button Sequence: X X X UP DOWN UP DOWN UP DOWN Y A A A].,[按键顺序：X X X 上 下 上 下 上 下 Y A A A]。
+english_events_maingame:L16641,datamining,FIX,[Button Sequence: Square Square Square Up Down Up Down Up Down Triangle Cross Cross Cross].,按钮序列:广场广场上下下三角地跨十字架.,[按键顺序：方块 方块 方块 上 下 上 下 上 下 三角 叉 叉 叉]。
+english_events_maingame:L16643,datamining,FIX,[Button Sequence: X X X UP DOWN UP DOWN UP DOWN Y A A A].,[Button Sequence: X X X UP DOWN UP DOWN UP DOWN Y A A A].,[按键顺序：X X X 上 下 上 下 上 下 Y A A A]。
+english_events_maingame:L16645,datamining,FIX,[Set <SpecialHitchhikerAvailable> to True].,[Set <SpecialHitchhikerAvailable> to True].,[将 <SpecialHitchhikerAvailable> 设为 True]。
+english_events_maingame:L16646,datamining,FIX,"Oooooooh! I understood virtually nothing, but it sounded incredibly juicy! It sounded like +N6 HYPE worth of juiciness!","呜呜呜! 我几乎什么都不懂,但听起来很多汁! 听起来像+N6 HYPE值 司法!",哦——！几乎没听懂，可听着超级劲爆！起码值 +N6 热度那么劲爆！
+english_events_maingame:L16647,datamining,POLISH,Hooray!,万岁!,万岁！
+english_events_maingame:L16648,datamining,FIX,"Yay! You made your friends happy, even if no one understood a thing. It actually also gives you -N2 MIND worth of confusion. But who cares when your friends are happy?",赞! 你让你的朋友快乐 即使没人懂任何事 也让你感到困惑 但谁在乎你的朋友们快乐的时候呢?,好耶！虽然谁都没弄明白，可朋友开心了！这堆疑惑还让你失去了 -N2 头脑。不过，朋友开心，谁管这个？
+english_events_maingame:L16657,multiverse,FIX,Join the Narrator on his Other Gigs,加入他其他吉克的叙述者,跟旁白去跑别的场子
+english_events_maingame:L16659,multiverse,FIX,"You walk into the meta-cabin, where a tall, mysterious, chiseled figure is waiting for you...","你走进元卡宾, 一个高高,神秘, 气质的人物正在等待你...",你走进元小屋，一个高大、神秘、肌肉轮廓分明的身影，正等着你们……
+english_events_maingame:L16661,multiverse,FIX,"...It's me. I'm the tall, mysterious, chiseled figure.","是我,我来了 我是高高高高高高出众的神秘人物",……是我。那个高大、神秘、肌肉轮廓分明的身影，就是我。
+english_events_maingame:L16662,multiverse,FIX,"Hey, it's the bro who narrates!","嘿,是那个说脏话的哥哥!",嘿，是那个负责旁白的兄弟！
+english_events_maingame:L16663,multiverse,POLISH,"Why do you do that, though? It's a bit weird.",你为何这么做? 有点怪.,可为什么要做旁白？有点怪。
+english_events_maingame:L16664,multiverse,POLISH,"Well, for the audience!",给观众看!,为了观众啊！
+english_events_maingame:L16665,multiverse,POLISH,...The audience?,...观众?,……观众？
+english_events_maingame:L16666,multiverse,POLISH,It's hard to explain...,这很难解释...,难解释……
+english_events_maingame:L16667,multiverse,FIX,"In your reality, I'm not even canon; just a narrative device... a narrator!","在你的现实中,我甚至不是小说家,只是个叙事装置... 一个旁白!",在你们的现实里，我甚至不属于正史，只是个叙事手段……一个旁白！
+english_events_maingame:L16668,multiverse,POLISH,"But to me, you're fictional. Your reality is just one of many gigs I have as narrator.","但对我来说,你只是虚构的。 你的现实只是我作为旁白者 所完成的许多任务之一",但对我来说，你们是虚构的。你们的现实，只是我做旁白的一份活。
+english_events_maingame:L16669,multiverse,POLISH,"Actually, do you wanna join me in one of the other games I narrate for?","实际上,你想和我一起参加 我描述的其他游戏之一?",要不要一起，去我担任旁白的其他游戏里逛逛？
+english_events_maingame:L16670,multiverse,POLISH,Uh... what?,额... 什麽?,呃……什么？
+english_events_maingame:L16671,multiverse,POLISH,I mean... you don't have much of a choice. You already picked that ACTION.,我是说... 你没有太多的选择。 你已经选择了行动,我是说，也没什么可选。刚刚已经选了这个行动。
+english_events_maingame:L16672,multiverse,FIX,This is too meta for me... I'm getting dizzy...,这对我来说太过... 我头晕了...,太绕了，老在说虚构这回事……我头晕……
+english_events_maingame:L16673,multiverse,POLISH,"Yeah, don't focus on that. Focus on the one choice you have: which other game should we visit?","是啊,不要专注于这一点。 专注于你唯一的选择:我们该参观哪场比赛?",对，别想那个。想想现在唯一的选择：去哪个游戏？
+english_events_maingame:L16674,multiverse,FIX,"To make it easier, we can keep it within the ""Monster Prom"" franchise.","为了方便起见,我们可以把它留在 ""怪物舞会特许证",省点事，就在《Monster Prom》系列里挑。
+english_events_maingame:L16675,multiverse,POLISH,"C'mon, %CURRENTPLAYERNAME%, do your thing: pick one of two possible options...","来吧, %CURRENTPLAYERNAME%选择两个可能的选项之一...",来，%CURRENTPLAYERNAME%，发挥本事，两个选项里挑一个……
+english_events_maingame:L16676,multiverse,FIX,"""Champions of the Multiverse"": the legendary epic following characters from all over the multiverse trying to stop ultimate entropy.","""多相通论"":传说中随多相通的人物所出自多相通想阻止终极入微.",《多元宇宙英雄》：传奇史诗，各个宇宙的人物联手，试图阻止终极熵增。
+english_events_maingame:L16677,multiverse,FIX,"Liam Prom: it's like ""Monster Prom"", but everyone is Liam.","利亚姆 舞会: 这就像""怪物舞会"" 但每个人都是 利亚姆.",《李姆舞会》：像《Monster Prom》，可所有人都是李姆。
+english_events_maingame:L16680,multiverse,FIX,"Travelling through games requires some -N2 MAGIC, but soon you land in this other title.","游玩游戏需要一些-N2 MAGIC,但很快你就会登陆这个其他的头衔.",穿越游戏花掉 -N2 魔力，不过很快，你们就抵达另一部作品。
+english_events_maingame:L16685,multiverse,POLISH,"Hello? I can hear my voice, but I'm... nowhere?","有人吗? 我能听到我的声音,但我... 哪儿也没有?",有人吗？能听见自己的声音，可我……哪儿都不在？
+english_events_maingame:L16686,multiverse,FIX,"Oh, yes. You're not canon here, just like me. We're narrators in this game.","哦,对了。 你在这里不是Canon,就像我一样。 我们是这场比赛的旁白者。",哦对，你们跟我一样，不属于这里的正史。在这游戏里，咱们都是旁白。
+english_events_maingame:L16687,multiverse,POLISH,"What's this ""game"" about, then?","那么,这""游戏""是干什么的?",那这个“游戏”讲什么？
+english_events_maingame:L16688,multiverse,FIX,"Well, different characters from different timelines have joined forces, and they travel in a sort of vessel that can navigate the multiverse.",不同时间段的不同角色联合起来 他们乘坐的船可以航行多相,不同时间线的人物联手，乘坐一艘能穿越多元宇宙的载具，四处旅行。
+english_events_maingame:L16689,multiverse,POLISH,Their mission is to find a way to stop powerful old deities who plot to end all reality.,他们的任务是想方设法阻止那些阴谋结束一切现实的强大老神祇.,他们的任务，是阻止一群想终结所有现实的强大古老神祇。
+english_events_maingame:L16690,multiverse,POLISH,But...,不过...,可……
+english_events_maingame:L16691,multiverse,POLISH,"Shhh, the characters are here!","嘘,这些角色在这里!",嘘，角色们来了！
+english_events_maingame:L16693,multiverse,FIX,Listen: there's something weird about Spooky Academy...,"听着,史波克学院有些怪事...",听着，惊悚学院有点不对劲……
+english_events_maingame:L16694,multiverse,FIX,No shit... it's a fuckin' hotpot of nonsense.,才不是呢... 简直是胡说八道,废话，那儿就是一锅他妈的乱炖。
+english_events_maingame:L16695,multiverse,POLISH,"No, I don't mean that.","不,我不是那个意思。",不，不是那个意思。
+english_events_maingame:L16696,multiverse,POLISH,Don't you think it's strange that the demise of so many timelines starts at that school?,你不觉得奇怪吗 这么多时间的消亡 是从那所学校开始的,那么多时间线的毁灭，都从那所学校开始，不觉得奇怪吗？
+english_events_maingame:L16697,multiverse,FIX,"I'm telling you, something doesn't add up.","我告诉你,有些事是没有意义的",说真的，有些地方对不上。
+english_events_maingame:L16698,multiverse,POLISH,Hmmm... it IS really suspicious that one random school brings together so many relevant pieces...,那个... 学校把很多相关的东西拼凑在一起 实在令人怀疑,嗯……随便一所学校，聚齐这么多关键人物，确实可疑……
+english_events_maingame:L16699,multiverse,FIX,...both Hell and Merkingdom royalty; the Coven; a former Dark Lord...,地狱和默金多姆王室 巫师 前黑暗之王...,……地狱和人鱼王国的王族，女巫会，还有前黑暗领主……
+english_events_maingame:L16700,multiverse,FIX,I think it's no coincidence... something -- or someone -- is pulling the strings... but what for?,"我觉得这不是巧合... 某种东西,或者有人,在拉弦... 但为什么?",恐怕不是巧合。有东西，或者有人，在幕后操控……可为了什么？
+english_events_maingame:L16701,multiverse,FIX,"Maybe we should tell the captain. We've focused too much on looking for the Shards of the True Power, but I think we mustn't ignore Spooky Academy...","也许我们应该告诉船长。 我们太专注于寻找真正的力量的沙德, 但我认为我们不能忽视斯波克学院...",该告诉船长。一直只顾寻找真之力碎片，可惊悚学院也绝不能忽视……
+english_events_maingame:L16702,multiverse,POLISH,...it might not be as harmless as it looks...,可能没有看起来那么无害...,……那里也许没看着那么无害……
+english_events_maingame:L16704,multiverse,POLISH,You two! What are you doing?,你们两个! 你们在干什么?,你们两个！干什么呢？
+english_events_maingame:L16705,multiverse,POLISH,"We just entered another timeline destroyed by Z'Gord, and the engine room is overheating!",我们刚进入另一个被Z'Gord摧毁的时间线 引擎室过热了!,刚进入另一条被 Z'Gord 毁掉的时间线，引擎室就过热了！
+english_events_maingame:L16706,multiverse,POLISH,We might not be able to get out of here anytime soon. We need to be ready in case Z'Gord senses our arrival!,我们可能无法很快离开这里。 我们需要准备好以防Z'Gord感觉到我们的到来!,恐怕一时出不去。得准备好，万一 Z'Gord 察觉我们来了！
+english_events_maingame:L16707,multiverse,FIX,FUCK!,他妈的!,操！
+english_events_maingame:L16713,multiverse,FIX,Wait! What's that they were saying about Spooky Academy? It sounded serious!,单单! 他们刚才说史波克学院什么? 听起来很严重!,等等！他们刚说惊悚学院什么？听着很严重！
+english_events_maingame:L16714,multiverse,FIX,No spoilers!,不许捣乱!,不准剧透！
+english_events_maingame:L16715,multiverse,FIX,Just take this +N2 HYPE from all the epicness of this game and let's go back to Monster Roadtrip.,"把这个+N2 HYPE从这游戏的所有史诗中拿回来,让我们回到 怪物公路旅行.",这游戏的史诗场面，让你赚了 +N2 热度。拿上，回《Monster Roadtrip》吧。
+english_events_maingame:L16716,multiverse,POLISH,"Oh, and I'm erasing your memories, because every time we make the characters aware of their fictional nature things end up going south.","哦,我正在抹去你的记忆, 因为每当我们让角色们知道 他们虚构的自然事物最终会走向南方。",对了，得抹掉你们的记忆。每次让角色意识到自己是虚构的，最后准出事。
+english_events_maingame:L16717,multiverse,POLISH,What?!,你说什么?,什么？
+english_events_maingame:L16719,multiverse,FIX,"And so you go back to playing ""Monster Roadtrip"", and you have zero questions about Spooky Academy because that shit might not even be canon here... who knows?","所以你回去玩游戏 ""怪物公路旅行"",你对斯波克学院没有疑问,因为那狗屎可能甚至不是这里的""能"". 谁知道呢?",于是，继续玩《Monster Roadtrip》。对惊悚学院，你什么疑问也没有，毕竟那堆事，没准都不算这里的正史……谁知道？
+english_events_maingame:L16722,multiverse,FIX,"Travelling through games requires some -N2 MAGIC, but soon you land in this other title.","游玩游戏需要一些-N2 MAGIC,但很快你就会登陆这个其他的头衔.",穿越游戏花掉 -N2 魔力，不过很快，你们就抵达另一部作品。
+english_events_maingame:L16728,multiverse,POLISH,"Hello? I can hear my voice, but I'm... nowhere?","有人吗? 我能听到我的声音,但我... 哪儿也没有?",有人吗？能听见自己的声音，可我……哪儿都不在？
+english_events_maingame:L16729,multiverse,FIX,"Oh, yes. You're not canon here, just like me. We're narrators in this game.","哦,对了。 你在这里不是Canon,就像我一样。 我们是这场比赛的旁白者。",哦对，你们跟我一样，不属于这里的正史。在这游戏里，咱们都是旁白。
+english_events_maingame:L16730,multiverse,POLISH,"What's this ""game"" about, then?","那么,这""游戏""是干什么的?",那这个“游戏”讲什么？
+english_events_maingame:L16731,multiverse,FIX,"Well, it's similar to your misadventures in Spooky Academy as the Monster Prom drew near...",这跟你在史波克学院的错冒险类似 怪物舞会 靠近... 靠近... 靠近...,跟你们在惊悚学院，临近魔物舞会时，经历的胡闹差不多……
+english_events_maingame:L16732,multiverse,FIX,"...but this is Liam Academy, where everyone is Liam. The players must compete to gain the hearts of one of the most popular Liams.","...但这 利亚姆 学院,每个人都在那里 利亚姆. 玩家必须争相赢得最受欢迎的心 利亚姆编号",……可这里是李姆学院，所有人都是李姆。玩家竞争的，是最受欢迎的某个李姆的心。
+english_events_maingame:L16733,multiverse,FIX,"Everyone... is... Liam? I guess this is the sort of option that makes us gain MIND, isn't it?","每个人... 这是...  利亚姆? 我想这是那种选择 使我们获得 MIND,不是吗?",所有人……都是……李姆？这选项，应该是涨头脑的那个吧？
+english_events_maingame:L16734,multiverse,FIX,"Yes. Here, have your +N2 MIND already; now shhh, lemme do my job...","对 来,你先把+N2的磁带拿来 现在让我来做我的工作...",对，拿上你的 +N2 头脑，嘘，让我干活……
+english_events_maingame:L16737,multiverse,POLISH,And we had yet to experience its ultimate challenge: the Liam Prom.,我们尚未经历其最终挑战: 利亚姆 舞会。,而我们，尚未经历终极挑战：李姆舞会。
+english_events_maingame:L16738,multiverse,POLISH,I remember it clearly... 3 weeks were left...,我清楚地记得... 只剩下3个星期了...,记得清楚，只剩三个星期……
+english_events_maingame:L16739,multiverse,POLISH,"...and as we fantasized about our dream prom dates, we were all scrambling to catch the attention of one of our four most charismatic classmates:","...当我们幻想着我们的梦想舞会约会时, 我们都在拼命地去吸引我们四个最有魅力的同学之一的注意:",……幻想着梦中的舞会伴侣，大家争相吸引四个最有魅力的同学之一：
+english_events_maingame:L16741,multiverse,FIX,"Grim Future Liam (4XX), an overly-serious and aloof Liam who channeled the pathos of a dark dystopian future.","未来 利亚姆 (4XX), 过于严重和疏远 利亚姆 他为黑暗的阴暗未来 指引了道路",阴郁未来李姆（4XX 岁），过分严肃冷漠，满载黑暗反乌托邦未来的悲怆。
+english_events_maingame:L16743,multiverse,FIX,"Reluctantly Famous Liam (4XX), a shojo-esque Liam who struggled to deal with the weight of unwanted fame due to his (incredible) artistic talent.","难以置信的名人 利亚姆 (4XX),一个 shojo-esque(英语: 利亚姆 因为他们的(不可信赖的)艺术天赋,他们为应付不受欢迎的名声的重负而挣扎。",被迫成名李姆（4XX 岁），少女漫画般的李姆，因为惊人的艺术天赋，不得不承受自己并不想要的名气。
+english_events_maingame:L16745,multiverse,FIX,"Li'l Bastard Liam (4XX), a small, floating Liam who encapsulated all the sass and sarcasm that's so classic of Liam. The most annoying of all Liams!","杂种,我叫你们别管了 利亚姆 (4XX),一个小,浮起 利亚姆 将所有讽刺和讽刺 封装在了经典的 利亚姆. 最烦人的人 利亚姆苏! 苏!",小混蛋李姆（4XX 岁），小小的，飘在空中，集李姆招牌式的刻薄和讽刺于一身。所有李姆里，最烦的那个！
+english_events_maingame:L16747,multiverse,FIX,"And Buff Liam (4XX), who was Liam, but buff!","还有巴夫 利亚姆 4XX),当时为 利亚姆却又来了个巴夫!",还有肌肉李姆（4XX 岁），就是李姆，可有肌肉！
+english_events_maingame:L16748,multiverse,POLISH,It was clear: it had to be one of them... but who?,"很明显,它必须是其中之一... 但谁呢?",显然，只能选一个……可选谁？
+english_events_maingame:L16749,multiverse,FIX,"We only had 3 weeks to choose our prom date, and even more daunting, we only had 3 weeks to woo them and conquer their hearts!","我们只有3周的时间来选择我们的舞会日期, 更令人生畏的是,我们只有3周的时间去吸引他们,征服他们的心!",只有三个星期选舞会伴侣。更吓人的是，也只有三个星期追求他们，赢下他们的心！
+english_events_maingame:L16750,multiverse,POLISH,But as I already said: we were young and unafraid... and we were ready to start.,但是正如我说过的:我们年轻而无畏... 我们准备开始。,可就像说过的，我们年轻，无所畏惧……也准备好开始了。
+english_events_maingame:L16756,multiverse,POLISH,"Okay, I gotta say it: this is hella weird.","好吧,我得说: 这太奇怪了。",好，必须说了，真的很怪。
+english_events_maingame:L16757,multiverse,FIX,"But... fuck, now I can't help but wonder: which Liam would I try to romance?","不过... 干,现在我忍不住想: 利亚姆 我愿意尝试浪漫吗?",可……妈的，这下真忍不住想，该攻略哪个李姆？
+english_events_maingame:L16758,multiverse,POLISH,"Well, you have 3 weeks to figure that out!",你还有三周的时间去想清楚!,还有三星期，慢慢想！
+english_events_maingame:L16759,multiverse,FIX,Buff Liam for me!,巴夫( Buff) Name 利亚姆 帮我!,我选肌肉李姆！
+english_events_maingame:L16760,multiverse,FIX,"And so, you play a run of Liam Prom. It's weird indeed... but in a fun way!","所以,你玩一个运行 利亚姆 舞会。 这的确很奇怪... 但以有趣的方式!",于是，你们玩了一局《李姆舞会》。确实怪……可也挺好玩！
+english_events_maingame:L16761,multiverse,FIX,"Later, I bring you back to Monster Roadtrip and I conveniently erase your memories...","以后,我带你回来 怪物公路旅行 我方便地抹去你的记忆...",后来，带你们回《Monster Roadtrip》，再顺手抹掉记忆……
+english_events_maingame:L16762,multiverse,FIX,"...because every time we make the characters aware of their fictional nature, things end up going south.",因为我们每次让角色意识到他们虚构的本性 事情都会南下,……因为每次让角色意识到自己是虚构的，最后总会出事。
+english_events_maingame:L16763,multiverse,FIX,Not this time!,这次不行!,这次不出事！
+english_events_maingame:L16764,multiverse,POLISH,"Now, please, proceed with your game.","现在,请继续你的游戏。",现在，请继续游戏。

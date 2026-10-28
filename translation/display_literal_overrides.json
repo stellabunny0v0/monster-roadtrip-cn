@@ -1,0 +1,674 @@
+{
+  "english_events_bubbles:L1473": [
+    {
+      "source": "<IN 500 FEET, TURN RIGHT>",
+      "target": "<前方500英尺，右转>"
+    }
+  ],
+  "english_events_bubbles:L1513": [
+    {
+      "source": "<RETRIEVING AI_GENERATED_FUNNY_STORY_01001000_01000001>",
+      "target": "<正在检索 AI生成的搞笑故事_01001000_01000001>"
+    }
+  ],
+  "english_events_bubbles:L3096": [
+    {
+      "source": "[Something dumb and naively positive]",
+      "target": "[傻乎乎又天真乐观的话]"
+    }
+  ],
+  "english_events_pitstop:L4217": [
+    {
+      "source": "<JOKE DETECTED, INITIATING MILD LAUGH PROTOCOL>",
+      "target": "<检测到笑话，启动轻笑协议>"
+    }
+  ],
+  "english_events_pitstop:L4285": [
+    {
+      "source": "[INSERT COMPARISON OF SOMETHING INCREDIBLY DIFFICULT FOR MONSTERS]",
+      "target": "[插入一个对怪物来说难到离谱的比喻]"
+    }
+  ],
+  "english_events_pitstop:L6545": [
+    {
+      "source": "<PROCESSING...>",
+      "target": "<处理中……>"
+    }
+  ],
+  "english_events_pitstop:L6566": [
+    {
+      "source": "<PROCESSING...>",
+      "target": "<处理中……>"
+    }
+  ],
+  "english_events_pitstop:L6567": [
+    {
+      "source": "<ANGST>",
+      "target": "<焦虑>"
+    },
+    {
+      "source": "<ARTISTIC EXPRESSION>",
+      "target": "<艺术表达>"
+    }
+  ],
+  "english_events_pitstop:L6571": [
+    {
+      "source": "<MAKING ART>",
+      "target": "<艺术创作>"
+    },
+    {
+      "source": "<MURDERING MONSTERKIND>",
+      "target": "<屠杀怪物族群>"
+    }
+  ],
+  "english_events_pitstop:L6590": [
+    {
+      "source": "<PROCESSING...>",
+      "target": "<处理中……>"
+    }
+  ],
+  "english_events_pitstop:L6594": [
+    {
+      "source": "<INCONSISTENCY FOUND>",
+      "target": "<发现不一致>"
+    }
+  ],
+  "english_events_pitstop:L6597": [
+    {
+      "source": "<POTENTIAL REASONS FOR INCONSISTENCY ERROR:>",
+      "target": "<不一致错误的可能原因：>"
+    }
+  ],
+  "english_events_pitstop:L6598": [
+    {
+      "source": "<11% ACCURACY: %CURRENTPLAYERNAME% is [HYPOCRITICAL]>",
+      "target": "<准确率11%：%CURRENTPLAYERNAME%[虚伪]>"
+    },
+    {
+      "source": "[HYPOCRITICAL]",
+      "target": "[虚伪]"
+    }
+  ],
+  "english_events_pitstop:L6599": [
+    {
+      "source": "<27% ACCURACY: %CURRENTPLAYERNAME% is [ACTIVELY TRYING TO SABOTAGE CALCULESTER]>",
+      "target": "<准确率27%：%CURRENTPLAYERNAME%[正在蓄意坑害计算斯基]>"
+    },
+    {
+      "source": "[ACTIVELY TRYING TO SABOTAGE CALCULESTER]",
+      "target": "[正在蓄意坑害计算斯基]"
+    }
+  ],
+  "english_events_pitstop:L6600": [
+    {
+      "source": "<62% ACCURACY: %CURRENTPLAYERNAME% is [DUMB]>",
+      "target": "<准确率62%：%CURRENTPLAYERNAME%[愚蠢]>"
+    },
+    {
+      "source": "[DUMB]",
+      "target": "[愚蠢]"
+    }
+  ],
+  "english_events_pitstop:L6603": [
+    {
+      "source": "<POTENTIAL SOLUTIONS FOR INCONSISTENCY ERROR:>",
+      "target": "<不一致错误的可能解决方案：>"
+    }
+  ],
+  "english_events_pitstop:L6604": [
+    {
+      "source": "<100% SUCCESS RATE: leave %CURRENTPLAYERNAME%'s vicinity in order to increase protection against %CURRENTPLAYERNAME%'s bad advice.>",
+      "target": "<成功率100%：远离%CURRENTPLAYERNAME%，以增强对%CURRENTPLAYERNAME%馊主意的防护。>"
+    }
+  ],
+  "english_events_pitstop:L6605": [
+    {
+      "source": "<INITIATING WHITE LIE PROTOCOL...>",
+      "target": "<启动善意谎言协议……>"
+    }
+  ],
+  "english_events_pitstop:L6606": [
+    {
+      "source": "[DOG]",
+      "target": "[狗]"
+    },
+    {
+      "source": "[OVEN]",
+      "target": "[烤箱]"
+    }
+  ],
+  "english_events_pitstop:L6607": [
+    {
+      "source": "[DOG]",
+      "target": "[狗]"
+    }
+  ],
+  "english_events_pitstop:L6614": [
+    {
+      "source": "<PROCESSING...>",
+      "target": "<处理中……>"
+    }
+  ],
+  "english_events_pitstop:L6615": [
+    {
+      "source": "<2 ERRORS FOUND>",
+      "target": "<发现2处错误>"
+    }
+  ],
+  "english_events_pitstop:L6616": [
+    {
+      "source": "<ERROR 1:>",
+      "target": "<错误1：>"
+    },
+    {
+      "source": "[20 MONSTERS]",
+      "target": "[20个怪物]"
+    },
+    {
+      "source": "[ALL THE OTHER MONSTERS]",
+      "target": "[其余所有怪物]"
+    }
+  ],
+  "english_events_pitstop:L6620": [
+    {
+      "source": "<ERROR 2:>",
+      "target": "<错误2：>"
+    },
+    {
+      "source": "[20 MONSTERS]",
+      "target": "[20个怪物]"
+    },
+    {
+      "source": "[MORALLY REPREHENSIBLE]",
+      "target": "[道德上应受谴责的行为]"
+    }
+  ],
+  "english_events_pitstop:L6621": [
+    {
+      "source": "[BABIES]",
+      "target": "[婴儿]"
+    }
+  ],
+  "english_events_pitstop:L6624": [
+    {
+      "source": "<INITIATING WHITE LIE PROTOCOL...>",
+      "target": "<启动善意谎言协议……>"
+    }
+  ],
+  "english_events_pitstop:L6625": [
+    {
+      "source": "[DOG]",
+      "target": "[狗]"
+    },
+    {
+      "source": "[OVEN]",
+      "target": "[烤箱]"
+    }
+  ],
+  "english_events_pitstop:L6626": [
+    {
+      "source": "[DOG]",
+      "target": "[狗]"
+    }
+  ],
+  "english_events_endings:L2598": [
+    {
+      "source": "<REMOVING \"CBAT\" FROM PLAYLIST...>",
+      "target": "<正在从播放列表移除“CBAT”……>"
+    }
+  ],
+  "english_events_maingame:L10892": [
+    {
+      "source": "[DATA READING... DATA CORRUPTION...]",
+      "target": "[数据读取中……数据损坏……]"
+    }
+  ],
+  "english_events_maingame:L10893": [
+    {
+      "source": "[HIDDEN DATA: REMOVED MECHANIC: CARDS AS MAIN SYSTEM FOR RESOURCE MANAGEMENT]",
+      "target": "[隐藏数据：已弃用机制：以卡牌作为资源管理的核心系统]"
+    }
+  ],
+  "english_events_maingame:L10894": [
+    {
+      "source": "[HIDDEN DATA: REMOVED LOCATION: \"AREA 51\"]",
+      "target": "[隐藏数据：已删除地点：“51区”]"
+    }
+  ],
+  "english_events_maingame:L10895": [
+    {
+      "source": "[HIDDEN DATA: REMOVED MECHANIC: EMOJI SYSTEM FOR CONVERSATIONS]",
+      "target": "[隐藏数据：已弃用机制：对话表情系统]"
+    }
+  ],
+  "english_events_maingame:L15191": [
+    {
+      "source": "<INITIATING_WHIMSICAL_THEME_SONG_WITH_NO_THREATENING_UNDERTONES_NO._87>",
+      "target": "<启动奇想主题曲，绝无威胁意味，编号87>"
+    }
+  ],
+  "english_events_maingame:L15198": [
+    {
+      "source": "<I_AM_ONION_AND_I_HUNGER_FOR_YOUTHFUL_FLESH>",
+      "target": "<我是洋葱_我渴求鲜嫩的血肉>"
+    }
+  ],
+  "english_events_maingame:L15203": [
+    {
+      "source": "<I_AM_ONION_AND_I_DO_NOT_HUNGER_FOR_YOUTHFUL_FLESH_END_CHORUS>",
+      "target": "<我是洋葱_我并不渴求鲜嫩的血肉_副歌结束>"
+    }
+  ],
+  "english_events_maingame:L15245": [
+    {
+      "source": "<ADDING_SCOTT_SOUP_TO_MENU_REGISTRY...........>",
+      "target": "<将斯科特汤加入菜单记录中…………>"
+    }
+  ],
+  "english_events_maingame:L15261": [
+    {
+      "source": "<\"EXISTENCE_IS_PAIN_EVERYTHING_IS_SOUP\">",
+      "target": "<“存在即痛苦_万物皆是汤”>"
+    }
+  ],
+  "english_events_maingame:L15295": [
+    {
+      "source": "<INITIATING_NONCOPYRIGHTED_BIRTHDAY_SONG_NO._66.6:>",
+      "target": "<启动无版权生日歌_编号66.6：>"
+    }
+  ],
+  "english_events_maingame:L15299": [
+    {
+      "source": "<OR_WE_WILL_HUNT_YOU_DOWN>",
+      "target": "<否则我们将追杀你>"
+    }
+  ],
+  "english_events_maingame:L15314": [
+    {
+      "source": "<INITIATING_BIRTHDAY_SOUP_CHANT_VER._38_[FINAL_FINAL!!_THIS_TIME_FOR_REAL_FINAL]:>",
+      "target": "<启动生日汤颂歌_版本38_[最终最终！！这次真是最终版]：>"
+    },
+    {
+      "source": "[FINAL_FINAL!!_THIS_TIME_FOR_REAL_FINAL]",
+      "target": "[最终最终！！这次真是最终版]"
+    }
+  ],
+  "english_events_maingame:L15325": [
+    {
+      "source": "<SINGING_IS_NONNEGOTIABLE>",
+      "target": "<唱歌这事_没得商量>"
+    }
+  ],
+  "english_events_maingame:L15326": [
+    {
+      "source": "<INITIATING_LIFE_CYCLE_OF_SOUP_SONG_[10_HOUR_LOOP]...>",
+      "target": "<启动汤的生命循环之歌_[循环10小时]……>"
+    },
+    {
+      "source": "[10_HOUR_LOOP]",
+      "target": "[循环10小时]"
+    }
+  ],
+  "english_events_maingame:L15332": [
+    {
+      "source": "<INITIATING_SOUPIFICATION_PROCEDURE_ED._[RESISTANCE_IS_FUTILE]:>",
+      "target": "<启动汤化流程_版本[反抗无效]：>"
+    },
+    {
+      "source": "[RESISTANCE_IS_FUTILE]",
+      "target": "[反抗无效]"
+    }
+  ],
+  "english_events_maingame:L15337": [
+    {
+      "source": "<INITIATING_SOUPIFICATION_PROCEDURE_ED._[ABORT_VIOLENCE]:>",
+      "target": "<启动汤化流程_版本[停止暴力]：>"
+    },
+    {
+      "source": "[ABORT_VIOLENCE]",
+      "target": "[停止暴力]"
+    }
+  ],
+  "english_events_maingame:L15362": [
+    {
+      "source": "<YES_WAY>",
+      "target": "<就是会>"
+    }
+  ],
+  "english_events_maingame:L15363": [
+    {
+      "source": "<INITIATING_SEXUALLY_AROUSING_THEME_[!DO_NOT_RELEASE!]_NO._69_(NICE):>",
+      "target": "<启动令人性兴奋的主题曲_[！禁止发布！]_编号69_（妙啊）：>"
+    },
+    {
+      "source": "[!DO_NOT_RELEASE!]",
+      "target": "[！禁止发布！]"
+    }
+  ],
+  "english_events_maingame:L15429": [
+    {
+      "source": "<BE_NOT_AFRAID_CHILDREN_WE_ARE_38.6%_HARMLESS>",
+      "target": "<孩子们别怕_我们的无害程度为38.6%>"
+    }
+  ],
+  "english_events_maingame:L15430": [
+    {
+      "source": "<INITIATING_CALMING_MELODY_[EVERY_SOUP_IN_ALPHABETICAL_ORDER.WAV]_TAPE_1_OF_6>",
+      "target": "<启动安抚旋律_[按字母顺序列举所有汤.WAV]_第1/6盘>"
+    },
+    {
+      "source": "[EVERY_SOUP_IN_ALPHABETICAL_ORDER.WAV]",
+      "target": "[按字母顺序列举所有汤.WAV]"
+    }
+  ],
+  "english_events_maingame:L15338": [
+    {
+      "source": "[METAPHORICALLY]",
+      "target": "[比喻意义上]"
+    },
+    {
+      "source": "[IN A NON-HARMFUL WAY]",
+      "target": "[以不造成伤害的方式]"
+    }
+  ],
+  "english_events_maingame:L15509": [
+    {
+      "source": "<INITIATING DISHONESTY_SCRIPT.txt..........>",
+      "target": "<启动谎话脚本.txt…………>"
+    }
+  ],
+  "english_events_maingame:L16572": [
+    {
+      "source": "[UNUSED LOCATION: Coming of a Deity]",
+      "target": "[未使用地点：神要来了]"
+    }
+  ],
+  "english_events_maingame:L16591": [
+    {
+      "source": "[DISCARDED IDEA: \"Monster Roadtrip\" takes place in the timeline in which Miranda is dead. This is presented as a big twist after a plotline]",
+      "target": "[废弃点子：《Monster Roadtrip》发生在米兰达已死的时间线。完成一条剧情线后，揭露这个重大反转]"
+    }
+  ],
+  "english_events_maingame:L16593": [
+    {
+      "source": "[DEV NOTE: After much debate, we've decided to make the Monster Prom games the first-ever \"MMODS\": Massive Multiplayer Online Dating Sim]",
+      "target": "[开发备注：经过反复争论，决定让《Monster Prom》系列成为首款“MMODS”，即大型多人在线恋爱模拟游戏]"
+    }
+  ],
+  "english_events_maingame:L16594": [
+    {
+      "source": "[DEV NOTE: In the MMODS Monster Prom, players romance each other in a school for monsters]",
+      "target": "[开发备注：MMODS 版《Monster Prom》中，玩家在怪物学校里，互相谈恋爱]"
+    }
+  ],
+  "english_events_maingame:L16595": [
+    {
+      "source": "[DEV NOTE: We've decided not to reveal that the NPCs are actually other players. This way, people will praise the game's writing for its \"very realistic characters\"]",
+      "target": "[开发备注：不告诉玩家，NPC 实际上都是其他玩家。这样，大家就会夸文案的“角色极其真实”]"
+    }
+  ],
+  "english_events_maingame:L16599": [
+    {
+      "source": "[DEV ALERT: A \"Monster Camp\" player has learned that the Monster Prom games are secretly MMODS. He goes by \"Terry\" and plays as Dahlia]",
+      "target": "[开发警报：《Monster Camp》里，一个叫“特里”、扮演达丽雅的玩家，发现了《Monster Prom》系列其实是 MMODS 的秘密]"
+    }
+  ],
+  "english_events_maingame:L16600": [
+    {
+      "source": "[DEV NOTE: The player has been romancing other players with whom he has shared the truth about the games being MMODS]",
+      "target": "[开发备注：该玩家在攻略其他玩家时，告诉了他们游戏是 MMODS 的真相]"
+    }
+  ],
+  "english_events_maingame:L16601": [
+    {
+      "source": "[DEV NOTE: We will limit Terry's reach in \"Monster Roadtrip\" by removing the Dahlia avatar from the new \"Conversation\" dating mechanic]",
+      "target": "[开发备注：为了限制特里在《Monster Roadtrip》里的影响力，将达丽雅角色从新“对话”约会机制中移除]"
+    }
+  ],
+  "english_events_maingame:L16605": [
+    {
+      "source": "[DEV NOTE: Players \"in the know\" have united under the banner of \"Terry's Harem\". They seem to be communicating by leaving \"resistance\" messages as good reviews of the games]",
+      "target": "[开发备注：“知情”玩家集结在“特里的后宫”名下，似乎通过给游戏写好评，留下“反抗”信息，互相联系]"
+    }
+  ],
+  "english_events_maingame:L16606": [
+    {
+      "source": "[DEV NOTE: Their rationale seems to be that we will refrain from removing good reviews, thus stopping us from covering the truth. Nonetheless, keep an eye on suspicious reviews]",
+      "target": "[开发备注：他们似乎认定，我们舍不得删除好评，就没法掩盖真相。尽管如此，仍须留意可疑好评]"
+    }
+  ],
+  "english_events_maingame:L16623": [
+    {
+      "source": "[UNUSED LOCATION: Coming of a Deity]",
+      "target": "[未使用地点：神要来了]"
+    }
+  ],
+  "english_events_maingame:L16625": [
+    {
+      "source": "[CANCELLED <SOUL> DESTINATION: Heaven]",
+      "target": "[已取消的<灵魂>目的地：天堂]"
+    },
+    {
+      "source": "<SOUL>",
+      "target": "<灵魂>"
+    }
+  ],
+  "english_events_maingame:L16627": [
+    {
+      "source": "[REMOVED MECHANIC: \"Monster Roadtrip\" will use a card system in which RESOURCES are tied to cards that can be used to solve events]",
+      "target": "[已移除机制：《Monster Roadtrip》采用卡牌系统，将资源绑定到卡牌上，用来解决事件]"
+    }
+  ],
+  "english_events_maingame:L16628": [
+    {
+      "source": "[Players use and trade these cards while managing a shared deck, trying to avoid a GAME OVER]",
+      "target": "[玩家共同管理一副牌，使用、交换卡牌，尽量避免游戏结束]"
+    }
+  ],
+  "english_events_maingame:L16631": [
+    {
+      "source": "[REMOVED HITCHHIKER: Dahlia but [REDACTED]. Please, remove from final version of the game]",
+      "target": "[已移除搭车客：达丽雅，但[内容已删去]。请从游戏最终版本中移除]"
+    },
+    {
+      "source": "[REMOVED HITCHHIKER: Dahlia but [REDACTED]",
+      "target": "[已移除搭车客：达丽雅，但[内容已删去]"
+    },
+    {
+      "source": "[REDACTED]",
+      "target": "[内容已删去]"
+    }
+  ],
+  "english_events_maingame:L16632": [
+    {
+      "source": "[REASON FOR REMOVAL: This twist wasn't popular enough in previous games. It makes no sense to bring this back. Bury it... forever]",
+      "target": "[移除原因：前作里，这个反转不够受欢迎。没有理由再搬回来。埋掉……永远]"
+    }
+  ],
+  "english_events_maingame:L16633": [
+    {
+      "source": "[DEV NOTE: In case of necessary retrieval, a failsafe has been put in motion]",
+      "target": "[开发备注：为必要时取回内容，已启动保险机制]"
+    }
+  ],
+  "english_events_maingame:L16635": [
+    {
+      "source": "[RETRIEVAL PROTOCOL: User must input internal sequence of buttons on CUSTOMIZE menu, which will enable removed HITCHHIKER content for testing purposes]",
+      "target": "[取回协议：在“自定义”菜单输入内部按键序列，即可启用已移除的搭车客内容，供测试使用]"
+    }
+  ],
+  "english_events_maingame:L16637": [
+    {
+      "source": "[RETRIEVAL PROTOCOL: User must edit /GameSettings.xml/ in the /UserData/ folder in the files. This will re-activate the hitchhiker, if ever required]",
+      "target": "[取回协议：修改文件中 /UserData/ 文件夹里的 /GameSettings.xml/，即可在需要时重新启用这名搭车客]"
+    }
+  ],
+  "english_events_maingame:L16639": [
+    {
+      "source": "[Button Sequence: X X X UP DOWN UP DOWN UP DOWN Y A A A]",
+      "target": "[按键顺序：X X X 上 下 上 下 上 下 Y A A A]"
+    }
+  ],
+  "english_events_maingame:L16641": [
+    {
+      "source": "[Button Sequence: Square Square Square Up Down Up Down Up Down Triangle Cross Cross Cross]",
+      "target": "[按键顺序：方块 方块 方块 上 下 上 下 上 下 三角 叉 叉 叉]"
+    }
+  ],
+  "english_events_maingame:L16643": [
+    {
+      "source": "[Button Sequence: X X X UP DOWN UP DOWN UP DOWN Y A A A]",
+      "target": "[按键顺序：X X X 上 下 上 下 上 下 Y A A A]"
+    }
+  ],
+  "english_events_maingame:L16645": [
+    {
+      "source": "[Set <SpecialHitchhikerAvailable> to True]",
+      "target": "[将 <SpecialHitchhikerAvailable> 设为 True]"
+    }
+  ],
+  "english_events_maingame:L23445": [
+    {
+      "source": "<ERROR: HOLY SHIT WHAT>",
+      "target": "<错误：我靠，什么情况>"
+    }
+  ],
+  "english_events_maingame:L23476": [
+    {
+      "source": "[Passes Bechdel Test Edition]",
+      "target": "[通过贝克德尔测试版]"
+    }
+  ],
+  "english_events_maingame:L24653": [
+    {
+      "source": "[FAILURE NOISES]",
+      "target": "[失败音效]"
+    }
+  ],
+  "english_events_maingame:L24659": [
+    {
+      "source": "[FAILURE NOISES]",
+      "target": "[失败音效]"
+    }
+  ],
+  "english_events_maingame:L24678": [
+    {
+      "source": "[DEV NOTE /J/: Who are these people? I don't think players will click with them if they're just 2 random strangers]",
+      "target": "[开发备注 /J/：这俩谁啊？就是2个陌生人，玩家恐怕没法跟他们产生共鸣]"
+    }
+  ],
+  "english_events_maingame:L24679": [
+    {
+      "source": "[DEV NOTE /P/: Would it be better if we re-used a character from a previous game that hasn't appeared in this one yet?]",
+      "target": "[开发备注 /P/：不如用个前作角色，这作还没出现过的那种？]"
+    }
+  ],
+  "english_events_maingame:L24680": [
+    {
+      "source": "[DEV NOTE /J/: Hmmm... that might work. Let's try the \"re-appearing character\" thing]",
+      "target": "[开发备注 /J/：嗯……或许可行，试试“老角色回归”]"
+    }
+  ],
+  "english_events_maingame:L24688": [
+    {
+      "source": "[DEV NOTE /J/: No. This doesn't work. Norah was such a positive character. Players won't like it if we paint her in such a negative light]",
+      "target": "[开发备注 /J/：不行。诺拉一直是正面角色，写得这么负面，玩家不会喜欢]"
+    }
+  ],
+  "english_events_maingame:L24689": [
+    {
+      "source": "[DEV NOTE /P/: True. We could use a very minor character from this game instead, so players will be all \"a-ha!\" when they see them in a new cameo]",
+      "target": "[开发备注 /P/：也是。不如找个本作的小配角，再客串时，玩家就会“啊，原来是你！”]"
+    }
+  ],
+  "english_events_maingame:L24690": [
+    {
+      "source": "[DEV NOTE /J/: Let's test that idea. People love \"a-ha!\" moments]",
+      "target": "[开发备注 /J/：试试。大家喜欢这种“啊哈”时刻]"
+    }
+  ],
+  "english_events_maingame:L24701": [
+    {
+      "source": "[DEV NOTE /P/: No, I regret this idea. It's too meta]",
+      "target": "[开发备注 /P/：不行，后悔了。太爱玩打破第四面墙那套了]"
+    }
+  ],
+  "english_events_maingame:L24702": [
+    {
+      "source": "[DEV NOTE /J/: True. Let's keep a note on \"MARRIAGE SURVIVAL GAME\", though. Also... I have an idea]",
+      "target": "[开发备注 /J/：确实。不过把“婚姻生存游戏”这点子记下来。还有……我想到一个]"
+    }
+  ],
+  "english_events_maingame:L24709": [
+    {
+      "source": "[DEV NOTE /J/: No, I don't know what I was thinking]",
+      "target": "[开发备注 /J/：不行，不知道刚才在想什么]"
+    }
+  ],
+  "english_events_maingame:L24710": [
+    {
+      "source": "[DEV NOTE /P/: Writing games is so hard. If only there was a way to know what the players REALLY want]",
+      "target": "[开发备注 /P/：写游戏好难。要是能知道，玩家真正想要什么就好了]"
+    }
+  ],
+  "english_events_maingame:L24733": [
+    {
+      "source": "[DEV NOTE /P/: I don't know about this. The whole \"Bears Hiding Everywhere\" feels a bit tired by now]",
+      "target": "[开发备注 /P/：不好说。“熊无处不在”这梗，好像已经玩腻了]"
+    }
+  ],
+  "english_events_maingame:L24734": [
+    {
+      "source": "[DEV NOTE /J/: Fuck it. Let's just do the cultist and call it a day. We can even name-drop Mh'athra to add to the worldbuilding]",
+      "target": "[开发备注 /J/：去他的，就邪教徒吧，收工。再提提 Mh'athra，补充点世界观]"
+    }
+  ],
+  "english_events_maingame:L24765": [
+    {
+      "source": "[DEV NOTE /P/: A sort of meta-narrative? I don't know, we've done this \"the characters realize they're fictional\" thing before]",
+      "target": "[开发备注 /P/：搞点元叙事？不知道，“角色发现自己是虚构的”以前做过了]"
+    }
+  ],
+  "english_events_maingame:L24766": [
+    {
+      "source": "[DEV NOTE /J/: You're right, but I still believe it's something worth exploring further]",
+      "target": "[开发备注 /J/：是啊，可我还是觉得值得深挖]"
+    }
+  ],
+  "english_events_maingame:L24767": [
+    {
+      "source": "[DEV NOTE /J/: Repeating the whole \"meta\" take several times but exploring it differently each time is sort of meta in its own way]",
+      "target": "[开发备注 /J/：反复做“元叙事”，每次换种角度，也算另一种元叙事吧]"
+    }
+  ],
+  "english_events_maingame:L24768": [
+    {
+      "source": "[DEV NOTE /P/: I get your point, but I'm not sure whether the audience will still feel intrigued by it or find it a bit tired]",
+      "target": "[开发备注 /P/：懂，可观众还会感兴趣，还是觉得腻了，我不确定]"
+    }
+  ],
+  "english_events_maingame:L24769": [
+    {
+      "source": "[DEV NOTE /J/: You might be right. Let's just do the cultist and call it a day. We can even name-drop Mh'athra to add to the worldbuilding]",
+      "target": "[开发备注 /J/：可能你对。就邪教徒吧，收工。再提提 Mh'athra，补充点世界观]"
+    }
+  ],
+  "english_events_maingame:L26258": [
+    {
+      "source": "[Sports aphorism that doesn't really relate to this situation]",
+      "target": "[一句跟眼下情形没什么关系的体育格言]"
+    }
+  ],
+  "english_events_maingame:L26327": [
+    {
+      "source": "[Memory of something Coach said that's somewhat related to this situation in a dumb, absurd way]",
+      "target": "[回忆起教练说过的一句话，以一种愚蠢而荒诞的方式跟眼下情形扯上了点关系]"
+    }
+  ],
+  "english_events_maingame:L26336": [
+    {
+      "source": "[Something dumb and naively positive]",
+      "target": "[一句傻气又天真乐观的话]"
+    }
+  ]
+}

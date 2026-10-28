@@ -1,0 +1,110 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_maingame:L24103,cryptidwtf_stage2,FIX,"Yeah, fuck y'all! PRANK MASTERZ: one, WTF: zero!","是啊,他妈的你们! 一,WTF:0! ! ! ! ! ! !",哈，去你们的！恶作剧大师，一分！WTF，零分！
+english_events_maingame:L24104,cryptidwtf_stage2,POLISH,"Now, show us the exit door. We're done here.","现在,给我们看出口门。 我们在这里结束了。",现在带我们去出口，完事了。
+english_events_maingame:L24105,cryptidwtf_stage2,POLISH,Ah... I... I can't. We need to... keep doing these tests.,摆... 我…… 我办不到 我们得... 继续做这些测试。,啊……我……不行。还得……继续测试。
+english_events_maingame:L24106,cryptidwtf_stage2,POLISH,"Are you kidding me? Lemme see those stupid tests. We're gonna speedrun those motherfuckers, if that's what it takes...",你在开玩笑吗? 让我看看那些愚蠢的测试。 我们要加快跑掉那些混蛋 如果需要的话...,逗我呢？破测试拿来看看。非做不可的话，就给它们全速通了……
+english_events_maingame:L24107,cryptidwtf_stage2,FIX,Polly takes the notepad from the human. The human jumps in what looks like an awkward mix of fear and arousal.,波莉 取出人类的音符 人类跳入了一种 恐惧和激动的尴尬的组合,波莉拿过人类的记事本。对方浑身一跳，像是害怕，又像动了情，尴尬地混在一起。
+english_events_maingame:L24108,cryptidwtf_stage2,POLISH,Hmmm... lemme see... eh...,那个... 让我看看... 额...,嗯……看看……呃……
+english_events_maingame:L24109,cryptidwtf_stage2,FIX,"Dude! Half of these tests are just ""what would happen if this cryptid fought that other cryptid?""","哥们! 一半的测试只是""如果这个密码与另一个密码发生战斗会怎样?""",喂，一半测试都是“这个神秘生物，跟那个打起来，谁会赢”！
+english_events_maingame:L24110,cryptidwtf_stage2,FIX,What's the scientific basis for that?,其科学依据何所出.,科学依据呢？
+english_events_maingame:L24111,cryptidwtf_stage2,POLISH,I... I'm sure the head scientists have very good reasons... like testing the resilience and aggressiveness of the different subjects...,我…… 科学家们肯定有很好的理由... 比如测试不同主体的韧性和攻击性...,我……主管科学家，肯定有很好的理由……比如，测试各受试者的耐受力和攻击性……
+english_events_maingame:L24112,cryptidwtf_stage2,FIX,"Meanwhile, in the main lab...","同时,在主实验室...",与此同时，主实验室里……
+english_events_maingame:L24114,cryptidwtf_stage2,FIX,"""I tell you what, no cryptid can beat WTF-173. Such a classic...""","""告诉你,没有密码可以打败WTF-173. 这么经典的"".",“我跟你说，谁也打不过 WTF-173。经典就是经典……”
+english_events_maingame:L24115,cryptidwtf_stage2,POLISH,"""Meh, that dumb statue is totally overrated. WTF-049 on the other hand... such a mysterious and brilliant creature!""","""""""那哑巴雕像被完全高估了. 则WTF-049所出之事. . 如此神秘而出众的生物!""",“得了吧，那破雕像被捧过头了。WTF-049 才叫神秘又出色！”
+english_events_maingame:L24116,cryptidwtf_stage2,POLISH,"""That plague doctor? Such a snobbish choice! WTF-173 would snap his neck in no time!""","""那个瘟疫医生? 这么自以为是的选择! WTF-173会很快地断断他的脖子"".",“瘟疫医生？选得够装。WTF-173 分分钟拧断它脖子！”
+english_events_maingame:L24117,cryptidwtf_stage2,POLISH,"""Wanna bet? Let's schedule a test for WTF-173 to fight WTF-049.""","""想打赌吗? 让我们安排WTF-173的测试,以对抗WTF-049"".",“赌不赌？安排 WTF-173 跟 WTF-049 打一场，做个测试。”
+english_events_maingame:L24118,cryptidwtf_stage2,FIX,"""Hypothesis to prove: WTF-049 would totally win in a fight against WTF-173.""","""Hypothesis to provid:WTF-049将在与WTF-173的对决中完全取胜"".",“待验证假设：WTF-049 会在对战 WTF-173 时大获全胜。”
+english_events_maingame:L24119,cryptidwtf_stage2,FIX,"""Man, I love science.""","""男人,我爱科学""",“哎呀，我爱科学。”
+english_events_maingame:L24121,cryptidwtf_stage2,FIX,This is scientific nonsense! Ugh!,这是科学的胡说八道! 唉哟!,什么破科学，胡扯！
+english_events_maingame:L24122,cryptidwtf_stage2,POLISH,Are you gonna... murder me...? Please don't murder me...,你会... 谋杀我... ? 请不要杀我...,你要……杀我吗……？求你别杀我……
+english_events_maingame:L24123,cryptidwtf_stage2,FIX,"Nah, we'd still be in the same predicament, and without a shivering, exposition-providing human.","不,我们仍会处于同样的困境, 并且没有抖动, 展示提供人类。",不杀。杀了也出不去，还少一个哆哆嗦嗦、负责解释设定的人类。
+english_events_maingame:L24124,cryptidwtf_stage2,FIX,So stupid fight it is...,这么愚蠢的战斗是...,行吧，那就打这破架……
+english_events_maingame:L24125,cryptidwtf_stage2,POLISH,"%CURRENTPLAYERNAME%, you know what to do: choose whichever cryptid on this list looks the least-likely to slaughter all of us.",%CURRENTPLAYERNAME%你们知道该怎么做吗? 选择这个名单上的密码 似乎最不可能杀死我们所有人。,%CURRENTPLAYERNAME%，知道怎么做了吧？挑个看起来，最不可能把我们全杀掉的。
+english_events_maingame:L24126,cryptidwtf_stage2,FIX,Gotcha...,抓到你了... ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !,明白……
+english_events_maingame:L24127,cryptidwtf_stage2,FIX,"WTF-096, the ""Shy Dude"". Once it decides to kill you, it never stops. Will you be the ones to figure out how to survive his relentless hunt?","WTF-096""""酷哥""(""Shy Dude""). 一旦它决定杀了你,它就永远不会停止。 你会是想出怎么活过他无情的猎杀的人吗?",WTF-096，“害羞哥”。一旦决定杀你，绝不罢休。你们能找到办法，躲过它不眠不休的追杀吗？
+english_events_maingame:L24128,cryptidwtf_stage2,FIX,"WTF-682, the ""Difficult-to-Destroy Dinosaur"". With that dumb name, you know you'll be in for a long, long fight... ready to test your resilience?","WTF-682""""从""到""""""""从""到""""""从""从""到""从""从""到""从""从""从""到""从""从""到""从""从""到""从""从""到""从""从""到""从""从""到""从""从""到""从""从""到""从""到""到""从""从""到""从""到""从""到""从""到""从""到""到""从""到""从""到""到""从""到""到""从""到""到""从""到""到""到""到""到""从""到""到""到""到""到""到""到""到""到""到""到""到""到""到""到""到""到""到""到""到""到""到""到""到""到""到""""""到""到""到""""到""到""到""到""到""到""到""到""到""""到""""""""到""到""""""""""""""到""""到""到"""""""""""""" 有了这个傻名字,你知道你会在 长时间的战斗... 准备好测试你的韧性了吗?",WTF-682，“难以摧毁的恐龙”。光听这蠢名字，就知道得打一场漫长、漫长的仗……准备好考验耐力了吗？
+english_events_maingame:L24130,cryptidwtf_stage2,POLISH,Just a shy dude? That sounds easy!,只是个害羞的家伙? 听起来很简单!,就一害羞哥？听着简单！
+english_events_maingame:L24131,cryptidwtf_stage2,FIX,"N-no... the ""Shy Dude"" is called like that because... the subject viciously preys upon and murders whoever sees its face.","不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不 ""Shy Dude""是这么叫的 因为... 被恶毒地猎取和谋杀了 任何人看到它的脸。",不、不……叫“害羞哥”，是因为……它会疯狂追杀，任何看见它脸的人。
+english_events_maingame:L24132,cryptidwtf_stage2,FIX,...Great.,伟大的。,……真棒。
+english_events_maingame:L24133,cryptidwtf_stage2,POLISH,"Soon after that, you're thrown in a room with WTF-096. It's a huge humanoid creature with long spooky arms.","不久后,被和WTF-096一起扔入一室. 这是一种巨大的人形生物,手臂长而诡异.",没多久，你们被扔进房间，和 WTF-096 共处一室。它是个巨大的人形生物，胳膊长得瘆人。
+english_events_maingame:L24135,cryptidwtf_stage2,FIX,"There's an awkward silence until brave, dumb Scott dares to start a conversation.","很难堪地沉默 直到勇敢,哑巴 斯科特 敢起一相相会.",尴尬地沉默了一会儿，勇敢又没脑子的斯科特，终于试着搭话。
+english_events_maingame:L24136,cryptidwtf_stage2,FIX,"Hey, bro...  wassup? I heard about that thing of murdering whoever sees your face... why is that?","嘿,兄弟... ... 哥们...  怎么样? 我听说了谋杀你的人的事... 为什么?",嘿，兄弟……最近怎么样？听说，看过你脸的人，你都会杀掉……为什么啊？
+english_events_maingame:L24137,cryptidwtf_stage2,KEEP,...,...,...
+english_events_maingame:L24138,cryptidwtf_stage2,POLISH,"It doesn't sound cool, bro. But I'm sure you have your reasons.","听起来不酷,兄弟 但我相信你有你的理由。",听着不太好，兄弟。不过，你肯定有自己的原因。
+english_events_maingame:L24139,cryptidwtf_stage2,KEEP,...,...,...
+english_events_maingame:L24140,cryptidwtf_stage2,FIX,...It's just... I am shy.,"...这只是... 我很害羞,我还不知道",……就是……我害羞。
+english_events_maingame:L24141,cryptidwtf_stage2,FIX,Yeah... but murdering people? Isn't that a bit of an... overkill?,对... 却杀人? 岂不是有点... 过度杀戮?,害羞归害羞，直接杀人，是不是有点……小题大杀？
+english_events_maingame:L24142,cryptidwtf_stage2,KEEP,...,...,...
+english_events_maingame:L24143,cryptidwtf_stage2,FIX,"Heehee, nice pun.","熙熙, 不错的双关语。",嘿嘿，好个双关。
+english_events_maingame:L24144,cryptidwtf_stage2,POLISH,But no... you're right... I don't know... what if people don't like my face? I don't want to risk it...,"但是没有... 你说得对... 我不知道... 我不知道... 我不知道,这是什么? 如果人们不喜欢我的脸呢? 我不想冒险...",不过……你说得对……我就是……怕别人不喜欢我的脸，不敢冒险……
+english_events_maingame:L24145,cryptidwtf_stage2,POLISH,Gosh... you couldn't imagine how hard online dating has been... I always end up murdering every person who sees my profile...,天呐... 你无法想象网上约会有多难... 我总是会谋杀所有看到我的档案的人...,天哪，网恋有多难，你们根本不知道……看了我个人资料的人，最后都被我杀了……
+english_events_maingame:L24146,cryptidwtf_stage2,KEEP,...,...,...
+english_events_maingame:L24147,cryptidwtf_stage2,POLISH,Have you tried uploading feet pics instead of face pics to your profile? Some people are into that!,你试过把脚相片而不是相相片上传到你的档案吗? 有人喜欢这样!,个人资料不放脸照，改放脚照，试过没？有人喜欢这个！
+english_events_maingame:L24148,cryptidwtf_stage2,KEEP,...,...,...
+english_events_maingame:L24149,cryptidwtf_stage2,KEEP,...Really?,...真的吗?,...真的吗?
+english_events_maingame:L24150,cryptidwtf_stage2,POLISH,That'd be great... I have been told I have pretty feet.,"那会很棒的... 有人告诉我,我的脚很漂亮。",那可太好了……有人夸过，我的脚很漂亮。
+english_events_maingame:L24151,cryptidwtf_stage2,FIX,"You actually do! And you know what, my shy friend? I have just the app for this. Lemme set you up a profile.","你确实有! 你知道吗,我害羞的朋友? 我只有这个应用软件 让我给你安排个简介",确实！害羞的朋友，我正好有个合适的软件，来，给你建个账号。
+english_events_maingame:L24152,cryptidwtf_stage2,FIX,"Polly sets up a profile for the ""Shy Dude"" on a dating app for people into feet. WTF-096 starts matching right away!","波莉 给""Shy Dude"" 拍个约会的相亲相亲的相亲相亲 WTF -096 立即开始匹配!",波莉在恋足交友软件上，给“害羞哥”建好资料。WTF-096 马上就配对成功了！
+english_events_maingame:L24153,cryptidwtf_stage2,KEEP,Yay!,赞!,赞!
+english_events_maingame:L24154,cryptidwtf_stage2,POLISH,So... no murdering us?,所以说... 没有谋杀我们?,所以……不杀我们了？
+english_events_maingame:L24155,cryptidwtf_stage2,FIX,Hmmm... I guess not... I'll be busy with all the action Imma be getting soon anyway...,那个... 我想不会... 我将忙着做所有动作 Imma 即将开始...,嗯……应该不杀了……反正马上就有大把艳遇，够我忙的……
+english_events_maingame:L24156,cryptidwtf_stage2,FIX,And that's how you survived the lethal WTF-096!,这就是你如何活过致命的WTF -096!,就这样，你们从致命的 WTF-096 手里活下来了！
+english_events_maingame:L24159,cryptidwtf_stage2,POLISH,Just a shy dude? That sounds easy!,只是个害羞的家伙? 听起来很简单!,就一害羞哥？听着简单！
+english_events_maingame:L24160,cryptidwtf_stage2,FIX,"N-no... the ""Shy Dude"" is called like that because... the subject viciously preys upon and murders whoever sees its face.","不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不 ""Shy Dude""是这么叫的 因为... 被恶毒地猎取和谋杀了 任何人看到它的脸。",不、不……叫“害羞哥”，是因为……它会疯狂追杀，任何看见它脸的人。
+english_events_maingame:L24161,cryptidwtf_stage2,FIX,...Great.,伟大的。,……真棒。
+english_events_maingame:L24162,cryptidwtf_stage2,POLISH,"Soon after that, you're thrown in a room with WTF-096. It's a huge humanoid creature with long spooky arms.","不久后,被和WTF-096一起扔入一室. 这是一种巨大的人形生物,手臂长而诡异.",没多久，你们被扔进房间，和 WTF-096 共处一室。它是个巨大的人形生物，胳膊长得瘆人。
+english_events_maingame:L24164,cryptidwtf_stage2,POLISH,You try to avoid eye contact to... you know... not get viciously murdered.,你尽量避免眼睛接触... 你知道吗... 而不是被残忍地谋杀,为了……你懂的……不被残忍杀死，你们尽量不跟它对视。
+english_events_maingame:L24165,cryptidwtf_stage2,FIX,A voice is heard over an intercom.,听到一个对讲机的声音,对讲机里，传来一个声音。
+english_events_maingame:L24166,cryptidwtf_stage2,POLISH,"""Do something! This is boring!""","""做点什么! 这太无聊了!""",“干点什么啊！好无聊！”
+english_events_maingame:L24167,cryptidwtf_stage2,POLISH,"""Yeah! Fight... fight for science!""","""对! 战斗... 为科学而战!""",“对！打起来……为了科学，打起来！”
+english_events_maingame:L24168,cryptidwtf_stage2,FIX,"Well, you are a firm believer in science, so you take one for the team and look at WTF-096's face.",你坚信科学 所以为团队取一个 看看WTF -096的表情,你坚定信奉科学，决定为团队牺牲一下，直视 WTF-096 的脸。
+english_events_maingame:L24169,cryptidwtf_stage2,KEEP,...,...,...
+english_events_maingame:L24170,cryptidwtf_stage2,KEEP,...,...,...
+english_events_maingame:L24171,cryptidwtf_stage2,KEEP,...,...,...
+english_events_maingame:L24172,cryptidwtf_stage2,POLISH,Aren't you gonna... like... murder %CURRENTPLAYERNAME%?,你不准备... 喜欢... 谋杀 %CURRENTPLAYERNAME%?,你不准备……杀了%CURRENTPLAYERNAME%吗？
+english_events_maingame:L24173,cryptidwtf_stage2,POLISH,I mean... I've always killed people who see my face because I get very insecure. I find my face to be very ugly.,我是说... 我总是杀了那些看到我的脸的人 因为我变得非常不安全。 我发现我的脸很丑,嗯……杀掉看见我脸的人，是因为我太自卑，觉得自己的脸很丑。
+english_events_maingame:L24174,cryptidwtf_stage2,FIX,But... I don't know... like... don't you prey on and murder everyone who sees YOUR face?,"不过... 我不知道... 我不知道... 我不知道,这是什么? 喜欢... 难道你不捕杀和谋杀所有看到你脸的人吗?",可……你呢……看过你这张脸的人，你难道不会全杀掉？
+english_events_maingame:L24175,cryptidwtf_stage2,POLISH,...No?,...没有?,……不会啊？
+english_events_maingame:L24176,cryptidwtf_stage2,POLISH,Whoa... this makes me reconsider my whole stance on murdering people who see my face.,珃... 这让我重新考虑我对谋杀看到我面相的人的 整个立场,哇……这让我重新思考起，杀掉所有看过我脸的人这件事。
+english_events_maingame:L24177,cryptidwtf_stage2,FIX,"I mean, if you can remain chill about people seeing YOUR face... then I guess I can too.",我是说 如果你能对别人看到你的脸保持冷静 那我也该走了,别人看了你的脸，你都能这么淡定……那我也该能。
+english_events_maingame:L24178,cryptidwtf_stage2,FIX,"In a way, you succeeded today... but at what cost? You lose -3 HYPE from the sick, unintended burn from WTF-096.","从某种意义上说,你今天成功了... 但以什么代价? 3个HYPE从WTF-096的病人中输了,意外被烧了.",某种意义上，今天成功了……可代价呢？WTF-096 无心的一句狠损，让你失去了 -3 热度。
+english_events_maingame:L24180,cryptidwtf_stage2,POLISH,"Shortly after that, they kick you out of the containment facility. You strongly suspect it's because they don't want to look at your face for a prolonged period of time.","不久后,他们把你赶出了隔离设施. 你强烈怀疑,因为 他们不想长时间地看你的脸。",随后，你们被赶出收容机构。你严重怀疑，他们只是实在不想长时间看着你这张脸。
+english_events_maingame:L24181,cryptidwtf_stage2,KEEP,:(,:(,:(
+english_events_maingame:L24183,cryptidwtf_stage2,FIX,"Ah, yes, ""Difficult-to-Destroy-Dinosaur""... this will be easy.","啊,是的,""困难到毁灭"" - -""恐龙""... 这会很容易。",啊，对，“难以摧毁的恐龙”……肯定轻松。
+english_events_maingame:L24184,cryptidwtf_stage2,FIX,"(...I sometimes call it ""Big D"" to abbreviate.)","(. 有的时候我把它叫""大D""来缩写.",（……我有时简称它“大 D”。）
+english_events_maingame:L24185,cryptidwtf_stage2,FIX,"Dang, girl.","可恶,女孩。",哇，姐妹。
+english_events_maingame:L24186,cryptidwtf_stage2,POLISH,"Soon after that, you're thrown in a room with WTF-682. It's a large, vaguely reptilian creature.","不久后,被和WTF-682一起扔入一室. 这是一种大型的,模糊的爬行动物生物.",很快，你们被扔进房间，跟 WTF-682 共处一室。它个头巨大，隐约像个爬行动物。
+english_events_maingame:L24188,cryptidwtf_stage2,POLISH,This is it... we're dead.,这是... 我们死定了。,完了……死定了。
+english_events_maingame:L24189,cryptidwtf_stage2,POLISH,"No, Polly... I think these scientists have focused too much on being smart and too little on being kind.","没有 波莉... 我认为这些科学家太注重于聪明,太少注重于善良.",不，波莉……这些科学家，是不是光顾着聪明，忘了善良？
+english_events_maingame:L24190,cryptidwtf_stage2,POLISH,"What do you mean, buddy?","你说什么,伙计?",什么意思，哥们儿？
+english_events_maingame:L24191,cryptidwtf_stage2,FIX,"Everyone is asking how to destroy the ""Difficult-to-Destroy-Dinosaur"", and yet no one is asking WHY to destroy the ""Difficult-to-Destroy-Dinosaur"".","人人问如何是灭""从难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到难到来来.",大家都在问，怎么摧毁“难以摧毁的恐龙”，可没人问，为什么要摧毁它。
+english_events_maingame:L24192,cryptidwtf_stage2,KEEP,...,...,...
+english_events_maingame:L24193,cryptidwtf_stage2,FIX,"...Whoa, that's nice. You're right, no one ever cares enough to ask!","不错 你说的对,没人会在乎你",……哇，这话真好。你说得对，从来没人关心到愿意问问！
+english_events_maingame:L24194,cryptidwtf_stage2,POLISH,"It's okay, bro! I care. We bros now!","没事的,兄弟! 我在乎 说吧 I care. 哥们儿们,我们兄弟们了!",没事，兄弟！我关心。从现在起，咱们就是兄弟！
+english_events_maingame:L24195,cryptidwtf_stage2,POLISH,"Eh, thanks, really. These people are always trying to destroy me, and I'm all like, ""Just... why?""","谢谢,真的。 这些人总是想摧毁我,我总说:""只是... 为什么?”",呃，真的，谢谢。他们老想摧毁我，我只想说：“不是……凭什么？”
+english_events_maingame:L24196,cryptidwtf_stage2,POLISH,I don't want to be destroyed... it's right there in my nickname. I am difficult to destroy for a reason.,我不想被摧毁... 在我的外号里 我很难摧毁有原因的。,我不想被摧毁……名字里写得明明白白。我难以摧毁，是有原因的。
+english_events_maingame:L24197,cryptidwtf_stage2,POLISH,Well... there is ONE way I wouldn't mind being destroyed... wink.,"这个... 有一种方法我不介意被摧毁... 眨眼,别乱动",不过……有一种被“摧毁”的方式，我倒不介意……眨眼。
+english_events_maingame:L24198,cryptidwtf_stage2,FIX,"WTF-682 takes a long, suggestive look at you, head to toe. A chill runs down your spine.","WTF-682需要长时间的,有建议性的看你,头到脚趾. 寒冷从你的脊椎里流出。",WTF-682 从头到脚，意味深长地打量了你一番。你背后一阵发凉。
+english_events_maingame:L24199,cryptidwtf_stage2,FIX,"Heh... I feel you, big D.","哦... 我感觉到了,大D。",呵呵……懂你，大 D。
+english_events_maingame:L24200,cryptidwtf_stage2,FIX,We were actually going to the Cryptid Prom before they captured us... maybe you could get destroyed there!,我们本来要去科普提德舞会的 在他们抓住我们之前... 也许你可以在那里被摧毁!,被抓之前，我们正要去神秘生物舞会……没准到那儿，你就能被“摧毁”一番！
+english_events_maingame:L24201,cryptidwtf_stage2,FIX,Uh... me likey!,额... 我喜欢!,呃……我喜欢！
+english_events_maingame:L24202,cryptidwtf_stage2,FIX,"Well, it seems you survived your encounter with legendary WTF-682 in the most unexpected way!",看来你以最出人意料的方式 活了下来了 和传说中的WTF -682的相遇,看来，你们以最出人意料的方式，从传说中的 WTF-682 面前活下来了！
+english_events_maingame:L24205,cryptidwtf_stage2,FIX,"Ah, yes, ""Difficult-to-Destroy-Dinosaur""... this will be easy.","啊,是的,""困难到毁灭"" - -""恐龙""... 这会很容易。",啊，对，“难以摧毁的恐龙”……肯定轻松。
+english_events_maingame:L24206,cryptidwtf_stage2,FIX,"(...I sometimes call it ""Big D"" to abbreviate.)","(. 有的时候我把它叫""大D""来缩写.",（……我有时简称它“大 D”。）
+english_events_maingame:L24207,cryptidwtf_stage2,FIX,"Dang, girl.","可恶,女孩。",哇，姐妹。
+english_events_maingame:L24208,cryptidwtf_stage2,POLISH,"Soon after that, you're thrown in a room with WTF-682. It's a large, vaguely reptilian creature.","不久后,被和WTF-682一起扔入一室. 这是一种大型的,模糊的爬行动物生物.",很快，你们被扔进房间，跟 WTF-682 共处一室。它个头巨大，隐约像个爬行动物。
+english_events_maingame:L24210,cryptidwtf_stage2,POLISH,This is it... we're dead.,这是... 我们死定了。,完了……死定了。
+english_events_maingame:L24211,cryptidwtf_stage2,REVIEW,"Well, I'd say since %CURRENTPLAYERNAME% made this super-smart choice, %HESHE% %VERB_GETS_GET% to fight this one.","嗯,我会说,从 %CURRENTPLAYERNAME% 做了这个超级聪明的选择, %HESHE%  %VERB_GETS_GET% 对抗这个。",既然是%CURRENTPLAYERNAME%做了这么聪明的选择，那就由%HESHE% %VERB_GETS_GET%来打吧。
+english_events_maingame:L24212,cryptidwtf_stage2,KEEP,"Good luck, %CURRENTPLAYERNAME%! You got this!",祝你好运 %CURRENTPLAYERNAME%! 你办得到的!,祝你好运 %CURRENTPLAYERNAME%! 你办得到的!
+english_events_maingame:L24213,cryptidwtf_stage2,FIX,"Nah, you don't.","不,你没有。",不，你办不到。
+english_events_maingame:L24214,cryptidwtf_stage2,POLISH,"Look, Polly, %CURRENTPLAYERNAME% is going for it!","听着, 波莉, %CURRENTPLAYERNAME% 准备上场了!",波莉，快看，%CURRENTPLAYERNAME%出手了！
+english_events_maingame:L24215,cryptidwtf_stage2,POLISH,Whoa... I've never heard the sound of so many fist bones breaking at the same time before.,珃... 我从来没有听到过如此多的拳骨同时被打碎的声音.,哇……这辈子没听过，那么多块手骨同时碎掉的声音。
+english_events_maingame:L24216,cryptidwtf_stage2,KEEP,"%CURRENTPLAYERNAME%, try hitting it with a bat!",%CURRENTPLAYERNAME%试试用球棒打它!,%CURRENTPLAYERNAME%试试用球棒打它!
+english_events_maingame:L24217,cryptidwtf_stage2,KEEP,...,...,...
+english_events_maingame:L24218,cryptidwtf_stage2,FIX,"Okay, new plan: try hitting it with two bats!","来,新计划,用两只蝙蝠来打它",好，新计划：两根球棒一起上！
+english_events_maingame:L24219,cryptidwtf_stage2,KEEP,...,...,...
+english_events_maingame:L24220,cryptidwtf_stage2,REVIEW,"Polly, look, %HESHE% %VERB_IS_ARE% getting devoured by the dinosaur. Do you think it's all part of a clever plan?","波莉听着, %HESHE%  %VERB_IS_ARE% 被恐龙吞噬了 你觉得这都是聪明计划的一部分吗?",波莉，你看，%HESHE% %VERB_IS_ARE%被恐龙吃了。你觉得，会不会是某个高明计划的一部分？
+english_events_maingame:L24221,cryptidwtf_stage2,KEEP,"Maybe, Scott... maybe.",也许吧 斯科特... 也许吧。,也许吧 斯科特... 也许吧。
+english_events_maingame:L24222,cryptidwtf_stage2,FIX,It's not.,岂不是.,不是。
+english_events_maingame:L24225,cryptidwtf_stage2,POLISH,"When WTF-682 poops you out days later, you smell so bad they end up kicking you all out of the facility.",几天后WTF -682把你拉出院时 你闻起来很臭 结果被他们踢出院门,几天后，WTF-682 把你拉了出来。臭得实在受不了，他们干脆把你们全赶出了设施。
+english_events_maingame:L24226,cryptidwtf_stage2,FIX,"In a way, you succeeded... but not really. You lose -3 STAMINA from being eaten.","从某种意义上说,你成功... 但不是真的,我说,我... 你从被吃中失去了 -3 Stamina。",某种意义上，你成功了……也没真成功。被吃了一回，你失去了 -3 体力。

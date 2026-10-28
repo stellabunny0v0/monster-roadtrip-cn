@@ -1,0 +1,137 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_pitstop:L8050,pitstop_hitchhiker_nomore,POLISH,"Nobody shows up. You sit in silence, wondering if you have been out here way too long.",没有人出现。 你静静地坐着 不知道你是否在这里待了太久了,没有人出现。你静静坐着，想着自己是不是已经在外面待得太久了。
+english_events_pitstop:L8056,pitstop1_eotr,FIX,This should not appear. Fake event to trigger specific pc event.,这不应该出现。 触发特定 pc 事件的假事件 。,这段不应显示。用于触发特定PC事件的占位事件。
+english_events_pitstop:L8066,pitstop1_eotr_nohh,KEEP,...,...,...
+english_events_pitstop:L8067,pitstop1_eotr_nohh,POLISH,"This is strange, bros... where is everyone?","这很奇怪,兄弟... 每个人都在哪里?",不太对劲啊，兄弟们……大家都去哪了？
+english_events_pitstop:L8068,pitstop1_eotr_nohh,FIX,"Huh, weird.",怪怪的 怪怪的 怪怪的,咦，怪了。
+english_events_pitstop:L8069,pitstop1_eotr_nohh,POLISH,Noodles isn't even here! What happened to that little bro?,面条甚至不在这里! 那个小兄弟怎么了?,连面条都不在！那位小兄弟怎么了？
+english_events_pitstop:L8070,pitstop1_eotr_nohh,POLISH,There's something about this place that's giving me the creeps.,这个地方有些东西让我毛骨悚然.,这地方总有哪儿，让我心里发毛。
+english_events_pitstop:L8071,pitstop1_eotr_nohh,KEEP,"Let's just sleep in the car and call it a night, yeah?",我们睡在车里吧 今晚就到此为止 好吗?,我们睡在车里吧 今晚就到此为止 好吗?
+english_events_pitstop:L8072,pitstop1_eotr_nohh,FIX,Gotcha!,抓到他们了!,明白！
+english_events_pitstop:L8073,pitstop1_eotr_nohh,FIX,You spend the night crammed in the car together.,你整晚都挤在车里,你们一起挤在车里过了一夜。
+english_events_pitstop:L8074,pitstop1_eotr_nohh,KEEP,Something is off.,有点不对劲,有点不对劲
+english_events_pitstop:L8084,pitstop1_eotr_hh,KEEP,...,...,...
+english_events_pitstop:L8085,pitstop1_eotr_hh,POLISH,"This is strange, bros... where is everyone?","这很奇怪,兄弟... 每个人都在哪里?",不太对劲啊，兄弟们……大家都去哪了？
+english_events_pitstop:L8086,pitstop1_eotr_hh,FIX,"Huh, weird.",怪怪的 怪怪的 怪怪的,咦，怪了。
+english_events_pitstop:L8087,pitstop1_eotr_hh,POLISH,Noodles isn't even here! What happened to that little bro?,面条甚至不在这里! 那个小兄弟怎么了?,连面条都不在！那位小兄弟怎么了？
+english_events_pitstop:L8088,pitstop1_eotr_hh,KEEP,...,...,...
+english_events_pitstop:L8089,pitstop1_eotr_hh,FIX,Wait... and where's %LASTHITCHHIKER%?,单单... 和哪里来的 %LASTHITCHHIKER%?,等等……那%LASTHITCHHIKER%又去哪了？
+english_events_pitstop:L8090,pitstop1_eotr_hh,POLISH,%LASTHITCHHIKER%? What do you mean?,%LASTHITCHHIKER%? 你说什么?,%LASTHITCHHIKER%？什么意思？
+english_events_pitstop:L8091,pitstop1_eotr_hh,POLISH,"We picked up %LASTHITCHHIKER%, remember?",我们接了 %LASTHITCHHIKER%记得吗?,我们让%LASTHITCHHIKER%搭了车啊，记得吗？
+english_events_pitstop:L8092,pitstop1_eotr_hh,FIX,"Uhm, no. I'm pretty sure we've been by ourselves for a while now.","呃,没有。 我敢肯定,我们 已经一个人一段时间了。",呃，没有啊。我很确定，这阵子车里一直就我们几个。
+english_events_pitstop:L8093,pitstop1_eotr_hh,POLISH,Hmmm... you might be right.,那个... 你也许是对的。,嗯……也许你说得对。
+english_events_pitstop:L8094,pitstop1_eotr_hh,POLISH,"Regardless, there's something about this place that's giving me the creeps.","不管怎么样,这个地方有些东西 让我毛骨悚然。",不管怎样，这地方总有哪儿，让我心里发毛。
+english_events_pitstop:L8095,pitstop1_eotr_hh,KEEP,"Let's just sleep in the car and call it a night, yeah?",我们睡在车里吧 今晚就到此为止 好吗?,我们睡在车里吧 今晚就到此为止 好吗?
+english_events_pitstop:L8096,pitstop1_eotr_hh,FIX,Gotcha!,抓到他们了!,明白！
+english_events_pitstop:L8097,pitstop1_eotr_hh,FIX,You spend the night crammed in the car together.,你整晚都挤在车里,你们一起挤在车里过了一夜。
+english_events_pitstop:L8098,pitstop1_eotr_hh,KEEP,Something is off.,有点不对劲,有点不对劲
+english_events_pitstop:L8109,pitstop2_eotr,FIX,Finally! A rest stop! I need to lie down for a bit. These last few days have been intense.,终于来了! 一个休息站! 我需要躺一会 这几天很紧张,终于！休息站！我得躺会儿。这几天可真够折腾的。
+english_events_pitstop:L8110,pitstop2_eotr,KEEP,...,...,...
+english_events_pitstop:L8111,pitstop2_eotr,POLISH,Empty? Again?,空的吗? 又来了?,又是空的？
+english_events_pitstop:L8112,pitstop2_eotr,POLISH,What if we turn around? We might just be going in the wrong direction.,如果我们转身呢? 我们可能走错方向了,要不掉头？说不定我们只是走错方向了。
+english_events_pitstop:L8113,pitstop2_eotr,FIX,"I don't know, buddy. Maybe we can't find another place that's less... fucked-up.","我不知道,伙计。 也许我们找不到别的地方了... 胡说八道",不知道啊，伙计。也许我们找不到一个没这么……操蛋的地方。
+english_events_pitstop:L8114,pitstop2_eotr,POLISH,But if we turn back? We know for sure that there's a bunch of fucked-up places waiting for us.,但如果我们回头呢? 我们肯定有一堆鬼地方等着我们,可要是回头呢？那就能确定，有一堆操蛋的地方等着我们。
+english_events_pitstop:L8115,pitstop2_eotr,KEEP,That's true...,这是真的...,这是真的...
+english_events_pitstop:L8116,pitstop2_eotr,KEEP,I don't know if I can take another round of visiting those places all over again.,我不知道我能不能再去一次那些地方,我不知道我能不能再去一次那些地方
+english_events_pitstop:L8117,pitstop2_eotr,FIX,"But what if we're like... like, in the eye of a storm, Polly? What if all the paths we can take are wrong choices?","但如果我们像... 就像,在暴风雨中, 波莉? 如果我们能走的路都是错误的选择呢?",可波莉，要是我们就像……就像在风暴眼里呢？要是往哪走，都选错了呢？
+english_events_pitstop:L8118,pitstop2_eotr,FIX,"...Let's cross our fingers and hope that's not the case, Scott.","...... 让我们交叉我们的手指 希望不是这样, 斯科特.",……只能祈祷不是这样了，斯科特。
+english_events_pitstop:L8119,pitstop2_eotr,KEEP,"Well, you know what? Even if it is, at least we're together, bros!","你知道吗? 就算是,至少我们在一起,兄弟!","你知道吗? 就算是,至少我们在一起,兄弟!"
+english_events_pitstop:L8120,pitstop2_eotr,KEEP,"Yeah, you're right.","是啊,你说得对。","是啊,你说得对。"
+english_events_pitstop:L8121,pitstop2_eotr,FIX,(Let's just hope we're not in the eye of a fucking storm...),(让我们只是希望我们不是 在他妈的风暴的眼睛... ),（只希望我们没在什么他妈的风暴眼里……）
+english_events_pitstop:L8122,pitstop2_eotr,POLISH,"So, should we keep driving forward, then?","那么,我们应该继续前进吗?",那就继续往前开？
+english_events_pitstop:L8123,pitstop2_eotr,POLISH,"Hmmm... yeah, let's do that.","那个... 是啊,让我们做到这一点。",嗯……好，就这样吧。
+english_events_pitstop:L8124,pitstop2_eotr,POLISH,"Perfect! Better get some rest, then!",完美无缺! 那就好好休息一会吧!,太好了！那赶紧休息吧！
+english_events_pitstop:L8125,pitstop2_eotr,KEEP,Yes. Tomorrow might be a long day.,对 明天可能会是漫长的一天。,对 明天可能会是漫长的一天。
+english_events_pitstop:L8126,pitstop2_eotr,POLISH,And so you all go to sleep. You try not to think too much about all this.,所以你们都去睡觉了 你尽量不要想太多这一切。,于是，你们都去睡了。你尽量不去多想这一切。
+english_events_pitstop:L8127,pitstop2_eotr,KEEP,...,...,...
+english_events_pitstop:L8137,conversation1_eotr,KEEP,...,...,...
+english_events_pitstop:L8140,conversation1_eotr,POLISH,Why is all this happening...?,为什么这一切发生... ?,为什么会发生这一切……？
+english_events_pitstop:L8141,conversation1_eotr,FIX,"Well, you're only supposed to drive until you either lose or reach a Destination. But you're not doing either this time.","好吧,你只应该开车 直到你要么失去 要么到达目的地。 但这次你也没做",嗯，按原本的设计，你只需要一直开车，直到失败，或者抵达一个目的地。可这次，你两个都没选。
+english_events_pitstop:L8142,conversation1_eotr,FIX,We didn't count on you going for longer than eight weeks or so.,我们没有指望你走 超过8周左右。,我们原以为，你顶多也就跑上八周左右。
+english_events_pitstop:L8143,conversation1_eotr,KEEP,"So, I imagine the game is starting to malfunction because you're pushing it to its limits.","所以,我想这个游戏开始出故障了 因为你把它推到了极限。","所以,我想这个游戏开始出故障了 因为你把它推到了极限。"
+english_events_pitstop:L8144,conversation1_eotr,FIX,...Game?,盖姆?,……游戏？
+english_events_pitstop:L8145,conversation1_eotr,KEEP,"Ah, yes: this is all a game.","啊,是的,这是一场游戏。","啊,是的,这是一场游戏。"
+english_events_pitstop:L8146,conversation1_eotr,FIX,I guess there's no point in hiding it now. You've come to this very same realization yourself a few times in the past.,我想现在藏起来没有意义了 你过去也去过很多次这样的觉悟。,我想，现在也没必要瞒着了。以前，你也有好几次自己意识到了这一点。
+english_events_pitstop:L8147,conversation1_eotr,FIX,It always disrupts things a bit...,它总是打乱事物 一点点...,每次都会让情况有点乱……
+english_events_pitstop:L8148,conversation1_eotr,KEEP,What...?,什麽... ?,什麽... ?
+english_events_pitstop:L8149,conversation1_eotr,FIX,Sorry... this is probably a tad overwhelming.,对不起... 这可能是一个微弱的压倒性。,抱歉……这信息量大概有点让你招架不住。
+english_events_pitstop:L8150,conversation1_eotr,POLISH,"Normally, the loop ends and resets, and everything goes back to normal.","通常,循环会结束和重回,一切会恢复正常.",通常，循环结束、重置，一切就恢复正常了。
+english_events_pitstop:L8151,conversation1_eotr,POLISH,"The problem now is that you're not ending the loop. Some other loops have even been created by these errors, and they are now overlapping with this one.","现在的问题是,你没有结束循环。 还有一些循环甚至被这些错误所创造,现在它们与这个循环重叠了.",现在的问题是，你迟迟没结束循环。这些错误甚至还生成了别的循环，跟当前这个重叠在一起。
+english_events_pitstop:L8152,conversation1_eotr,FIX,"You're overtaxing the system, and the malfunctions are spreading exponentially.",你对系统征税过重 故障成倍地扩散,系统已经超负荷了，故障还在以指数级的速度扩散。
+english_events_pitstop:L8153,conversation1_eotr,FIX,"I don't know: fuck up your resources, reach a Destination...",我不知道 浪费你的资源 到达目的地...,我也不知道该怎么说：把资源耗到完蛋，或者抵达一个目的地……
+english_events_pitstop:L8154,conversation1_eotr,KEEP,"Just end the loop, okay?","停止循环,好吗?","停止循环,好吗?"
+english_events_pitstop:L8155,conversation1_eotr,KEEP,...,...,...
+english_events_pitstop:L8156,conversation1_eotr,KEEP,"So, if this is a game...","所以,如果这是个游戏...","所以,如果这是个游戏..."
+english_events_pitstop:L8157,conversation1_eotr,KEEP,Does that mean you are...?,也就是说你是... ?,也就是说你是... ?
+english_events_pitstop:L8158,conversation1_eotr,KEEP,Yes.,对,对
+english_events_pitstop:L8159,conversation1_eotr,FIX,And we just keep going on the road trip in repeating loops...?,我们只是继续 道路旅行 重复循环?,所以，我们就是一遍又一遍地循环，继续这趟公路旅行……？
+english_events_pitstop:L8160,conversation1_eotr,FIX,"Yes, you do.","是的,你这样做。",对，就是这样。
+english_events_pitstop:L8161,conversation1_eotr,FIX,What's the point of everything? Why...?,何等为一切相. 为什么... ?,那这一切有什么意义？为什么……？
+english_events_pitstop:L8162,conversation1_eotr,KEEP,...I don't even know where to start.,我甚至不知道从哪里开始。,我甚至不知道从哪里开始。
+english_events_pitstop:L8163,conversation1_eotr,KEEP,It's okay.,没关系。,没关系。
+english_events_pitstop:L8164,conversation1_eotr,POLISH,I can imagine this is a lot to take in.,"我可以想象,这是很多需要接受的。",我能想象，这些事确实很难一下子接受。
+english_events_pitstop:L8165,conversation1_eotr,KEEP,...,...,...
+english_events_pitstop:L8166,conversation1_eotr,KEEP,"At least the road trip has been nice, hasn't it?","至少这趟公路旅行很愉快,不是吗?","至少这趟公路旅行很愉快,不是吗?"
+english_events_pitstop:L8167,conversation1_eotr,KEEP,(Up until it all went to shit...),(直到一切都变得一团糟... ),(直到一切都变得一团糟... )
+english_events_pitstop:L8168,conversation1_eotr,FIX,"Yeah, we tried to make it nice... chaotic, but in a fun way. Good memories, you know?","是啊,我们试图让它好起来... ... 混乱,但以有趣的方式。 美好的回忆,你知道吗?",嗯，我们努力把它写得愉快……乱归乱，但乱得好玩。留点美好的回忆，你懂的。
+english_events_pitstop:L8169,conversation1_eotr,KEEP,Yeah. Good memories...,对 美好的回忆...,对 美好的回忆...
+english_events_pitstop:L8170,conversation1_eotr,KEEP,...,...,...
+english_events_pitstop:L8171,conversation1_eotr,KEEP,...,...,...
+english_events_pitstop:L8172,conversation1_eotr,FIX,"The sky looks nice tonight, doesn't it?","天空看起来不错 今晚,不是吗?",今晚的天空挺美的，是吧？
+english_events_pitstop:L8173,conversation1_eotr,POLISH,"I guess it does, yeah...","我想是这样,是的...",嗯，我想是的……
+english_events_pitstop:L8174,conversation1_eotr,KEEP,...,...,...
+english_events_pitstop:L8184,conversation2_eotr,KEEP,...,...,...
+english_events_pitstop:L8187,conversation2_eotr,FIX,What's happening to Scott?,发生什么事了? 斯科特?,斯科特怎么了？
+english_events_pitstop:L8188,conversation2_eotr,KEEP,Hmmm... it's hard to tell.,那个... 很难说,那个... 很难说
+english_events_pitstop:L8189,conversation2_eotr,KEEP,The system is using most of its processing power to deal with all of these malfunctions.,该系统正在利用其大部分的处理能力来处理所有这些故障.,该系统正在利用其大部分的处理能力来处理所有这些故障.
+english_events_pitstop:L8190,conversation2_eotr,FIX,My guess is Scott is subconsciously forfeiting most of his internal processes so the system can deal with this whole mess.,我猜是这样的 斯科特 潜意识中放弃了他的大部分内部程序 所以系统可以处理这整个混乱。,我猜，斯科特在无意识地停掉自己大部分内部运算，好让系统有余力，处理眼前这堆烂摊子。
+english_events_pitstop:L8191,conversation2_eotr,KEEP,"He truly is a good boy, isn't he?","他真的是个好孩子,不是吗?","他真的是个好孩子,不是吗?"
+english_events_pitstop:L8192,conversation2_eotr,FIX,"Yeah, that's Scott for you.","是啊,这是 斯科特 为你。",嗯，他就是这样的斯科特。
+english_events_pitstop:L8193,conversation2_eotr,FIX,"But as a result, he might be running his core processes and character cornerstones only...","但结果,他可能只管理着他的核心过程和人物基石. .",可这样一来，他可能只剩核心运算，以及构成人物的基本特质还在运行……
+english_events_pitstop:L8194,conversation2_eotr,FIX,...becoming the simplest expression of what Scott is meant to be.,成为最简单的表达什么 斯科特 这是注定的。,……逐渐变成了最简单、最原初的那个斯科特。
+english_events_pitstop:L8195,conversation2_eotr,FIX,Character cornerstones?,人物基石吗?,人物的基本特质？
+english_events_pitstop:L8196,conversation2_eotr,FIX,"Well, characters are a complex thing. You develop one cornerstone first... a sort of thematic pillar. Then you build a few more...",人物是一件复杂的事情。 先开发出一个基石... 某种主题支柱。 然后再建几个...,角色其实很复杂。先确立一个基本特质……像一根支撑主题的柱子。接着，再添上几根……
+english_events_pitstop:L8197,conversation2_eotr,FIX,...then it's a snowball effect: the character starts to get fleshed out from all those pillars.,...然后是雪球效应: 角色开始从这些柱子上取出肉.,……然后就像滚雪球，围绕这些支柱，人物会一点点变得丰满。
+english_events_pitstop:L8198,conversation2_eotr,FIX,"And thus, Scott is slowly regressing to his main cornerstone.","因此, 斯科特 他正在慢慢地倒退到他的主要基石。",而斯科特，现在正慢慢退回最核心的那个基本特质。
+english_events_pitstop:L8199,conversation2_eotr,KEEP,What would that be?,那会是什么?,那会是什么?
+english_events_pitstop:L8200,conversation2_eotr,FIX,I guess you'll find out if you all keep going.,我猜你们会发现你们是否继续走下去的,我想，如果你们继续走下去，就会知道了。
+english_events_pitstop:L8201,conversation2_eotr,KEEP,"Is he in danger, or...?",他有危险吗 还是... ?,他有危险吗 还是... ?
+english_events_pitstop:L8202,conversation2_eotr,KEEP,No. I'm quite sure things will go back to normal once we solve all this malfunctioning.,"没有。 我敢肯定,一旦我们解决了这些故障,事情就会恢复正常。","没有。 我敢肯定,一旦我们解决了这些故障,事情就会恢复正常。"
+english_events_pitstop:L8203,conversation2_eotr,POLISH,"But you all need to end the loop, Polly.",但是你们都需要结束循环 波莉.,不过，波莉，你们得结束这次循环。
+english_events_pitstop:L8216,pitstop3_eotr,FIX,Have you looked at that? What the fuck is it?,你看过吗? 什么他妈的是什么?,你看到那个了吗？那他妈的是什么？
+english_events_pitstop:L8217,pitstop3_eotr,KEEP,"The system is cannibalizing itself, it seems.",看来这个系统正在吞噬自己,看来这个系统正在吞噬自己
+english_events_pitstop:L8218,pitstop3_eotr,FIX,It's doing all kinds of somersaults to avoid completely imploding.,它在做各种活塞来避免被完全冲出.,它在拼命折腾，想尽办法，不让自己彻底崩溃。
+english_events_pitstop:L8219,pitstop3_eotr,FIX,It looks intense; almost beautiful.,"它看起来很强烈,几乎很美。",看着真震撼，甚至有点美。
+english_events_pitstop:L8220,pitstop3_eotr,FIX,"It looks dangerous, and imminent. You have to end the loop.","它看起来危险, 和迫在眉睫。 你必须结束循环。",看着很危险，而且就快撑不住了。你们必须结束循环。
+english_events_pitstop:L8221,pitstop3_eotr,KEEP,...,...,...
+english_events_pitstop:L8223,pitstop3_eotr,FIX,"That sanctuary was fucked up, man.","那个避难所被搞砸了,伙计。",那个避难所，真他妈邪门。
+english_events_pitstop:L8224,pitstop3_eotr,FIX,All my suffering is... what? A narrative device? My character's cornerstone? A twist?,我所有的痛苦是... 什麽? 叙事装置? 我的角色的基石? 扭来扭去?,我受过的所有苦，都是……什么？一种叙事手段？我这个角色的基本特质？还是剧情转折？
+english_events_pitstop:L8226,pitstop3_eotr,KEEP,Not exactly.,不尽然。,不尽然。
+english_events_pitstop:L8227,pitstop3_eotr,FIX,"The way I wrote you, your tragedy isn't supposed to be your cornerstone, Polly.","我写你的方式, 你的悲剧不应该是你的基石, 波莉.",在我写下的你身上，悲剧不该是最核心的特质，波莉。
+english_events_pitstop:L8228,pitstop3_eotr,FIX,"If anything, it's what comes next: how you always choose to embrace life, no matter what curveball it throws you.","如果有的话,这就是接下来的结局: 你总是选择拥抱生命, 无论它扔给你什么曲线球。",真要说的话，核心是悲剧之后的事：不管生活丢来什么意外，你总会选择拥抱它。
+english_events_pitstop:L8230,pitstop3_eotr,FIX,First of all: cheesy.,先曰:俗也. 师曰.,首先：真俗。
+english_events_pitstop:L8231,pitstop3_eotr,FIX,Second: it's all nice and positive; but it still stings when you're on my end.,第二:都是好和正的;但当你在我身后时仍然会刺痛.,其次：说得是挺美好、挺积极，可站在我这边，还是会疼。
+english_events_pitstop:L8232,pitstop3_eotr,POLISH,I'm not arguing with that. But you know conflict is also part of fiction.,我不是在争论这一点。 但你知道冲突也是虚构的一部分。,这一点，我不否认。不过，你也知道，故事里总会有冲突。
+english_events_pitstop:L8234,pitstop3_eotr,POLISH,"Why are we even arguing, anyway? What's the point of these conversations when this is all just code and script?","我们为什么要争吵呢? 当这一切只是代码和脚本时,这些对话有什么意义?",不过，我们干嘛还在争这个？既然一切都只是代码和剧本，这些对话又有什么意义？
+english_events_pitstop:L8235,pitstop3_eotr,FIX,"Look, I'm not gonna pretend there isn't a script behind all this. There is one.",听着 我不会假装这一切背后没有剧本 有一个。,听着，我不会假装，这一切背后没有剧本。确实有。
+english_events_pitstop:L8236,pitstop3_eotr,POLISH,"But when you create a character, it soon grows past its cornerstones. It's almost as if you set them free.","但是当你创造了一个角色,它很快就会超越它的基石. 这几乎就像你放他们自由。",可当你创造一个角色，很快，她就会超出最初的设定。就好像你给了她自由。
+english_events_pitstop:L8238,pitstop3_eotr,FIX,"Yes, I do write your words; but while writing you, I also wonder to myself, ""What would Polly do? What would she say?""","是的,我确实写了你的话;但是,在写你的时候,我也在想: 波莉 怎么样? 她会说什么?""",是，台词是我写的。可写你的时候，我也会问自己：“波莉会怎么做？她会说什么？”
+english_events_pitstop:L8239,pitstop3_eotr,FIX,"It's like an object you've set into motion, you know?","这就像一个物体 你已经启动,你知道吗?",就像你推了一个物体，让它动起来，懂吗？
+english_events_pitstop:L8240,pitstop3_eotr,FIX,"Once it's moving, you're not necessarily applying force anymore, and yet they keep moving.","一旦它动了,你不一定再施用武力了,然而他们却不停地动.",它一旦动起来，就算你不再施力，它也会继续往前。
+english_events_pitstop:L8242,pitstop3_eotr,POLISH,"I can imagine where you may be headed, but ultimately I don't entirely know.","我可以想象你可能要去哪里, 但最终我并不完全知道。",我能想象，你可能会走向哪里，可说到底，我也不完全知道。
+english_events_pitstop:L8243,pitstop3_eotr,FIX,Like... a road trip where you don't know what destination you're headed for.,"喜欢... 公路旅行,在那里你不知道 你要去的目的地。",就像……一趟公路旅行，你不知道自己会去哪个目的地。
+english_events_pitstop:L8245,pitstop3_eotr,KEEP,"Oh, shut up!","哦,闭嘴!","哦,闭嘴!"
+english_events_pitstop:L8247,pitstop3_eotr,POLISH,"My point is you can be fictional and still, in a way, be real.","我的观点是,你可以虚构 并且,在某种程度上,仍然是真实的。",我想说的是，你可以是虚构的，同时又在某种意义上，真实地存在。
+english_events_pitstop:L8248,pitstop3_eotr,FIX,"You're made of pieces of myself and people I love. Traits, beliefs, anecdotes...",你由我和我爱的人组成 特质、信仰、传闻...,你身上有我，也有我爱的人。一些性格、信念，还有我们经历过的事……
+english_events_pitstop:L8249,pitstop3_eotr,FIX,"I've seen the sun rise after a party, and for a moment I set all my worries aside and just thought, ""Fuck, life's good.""","我看过一个聚会后太阳会升起, 有一瞬间,我把所有的忧虑放在一边, 只想,""他妈的,生活是好的""。",我也曾在派对后看着太阳升起。有那么一刻，我把所有烦恼抛到一边，只想着：“操，活着真好。”
+english_events_pitstop:L8250,pitstop3_eotr,KEEP,And that's you.,这就是你。,这就是你。
+english_events_pitstop:L8252,pitstop3_eotr,FIX,"Now people will get to meet you, and I wish... I trust that some people will look at life differently thanks to you.","现在人们会来见你 我希望... 我相信,有些人会 以不同的眼光看待生活 感谢你。",现在，大家都会认识你。而我希望……我相信，有些人会因为你，换一种眼光看待生活。
+english_events_pitstop:L8253,pitstop3_eotr,POLISH,That effect will be very real.,这种效果将是非常真实的。,这种影响，会是真实的。
+english_events_pitstop:L8254,pitstop3_eotr,FIX,"I wanna think that after this, there's a Polly who stays in these stories: having misadventures and creating more good memories.","我想想,在这之后,有一个 波莉 他们留在这些故事中: 错误的冒险和创造更多的好回忆。",我愿意相信，在这之后，会有一个波莉，留在这些故事里：一路闯祸，一路创造更多美好的回忆。
+english_events_pitstop:L8255,pitstop3_eotr,FIX,"But there's another Polly, one that goes beyond the story, beyond the game: the Polly that stays in motion even after I'm gone.","但还有另一个 波莉超越故事,超越游戏: 波莉 即使在我走了之后 仍然保持运动状态",可还有另一个波莉，会走出故事，走出游戏。即便我不在了，她也会继续往前。
+english_events_pitstop:L8257,pitstop3_eotr,POLISH,You asked why we have these conversations.,你问为什么我们有这些谈话。,你问我，为什么要有这些对话。
+english_events_pitstop:L8258,pitstop3_eotr,POLISH,To me? I think these conversations are about reflecting on the meaning and purpose of the characters I create; where they come from and where they go.,对我? 我认为这些对话是关于思考我创造的人物的意义和目的;他们来自何处和去向.,对我来说？我想，这是在思考，我创造的角色有什么意义，为什么存在。他们从哪里来，又会去向哪里。
+english_events_pitstop:L8259,pitstop3_eotr,POLISH,To you? I sincerely don't know.,对你? 我诚心不知.,对你来说？说真的，我也不知道。
+english_events_pitstop:L8260,pitstop3_eotr,KEEP,I'm sorry I can't give you better answers.,"对不起,我不能给你更好的答案。","对不起,我不能给你更好的答案。"
+english_events_pitstop:L8262,pitstop3_eotr,FIX,"To the Polly who will stay, I can only do my best to write you faithfully and with care.",给 波莉 我只能尽我所能 忠实和小心地写信给你,对于会留下的那个波莉，我能做的，只有尽力忠实、用心地写好你。
+english_events_pitstop:L8263,pitstop3_eotr,FIX,"To the Polly who will go... wherever you go, I'll be rooting for you.","给 波莉 谁会去... 无论你去哪,我都会为你加油的",对于会走出去的那个波莉……不管你去哪里，我都会为你加油。

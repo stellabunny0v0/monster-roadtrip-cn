@@ -1,0 +1,6 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_gachashop:L7,gachashop_tutorial,FIX,"Hey, player! It's me, the Narrat... I mean, the Meta-Shopkeeper!",嘿，玩家！是我，旁白……我是说，元商店店主！,嘿，玩家！是我，旁白……我是说，幕后商店店主！
+english_events_gachashop:L23,gachashop_intro1,FIX,"Greetings, player! Welcome back to the Meta-Shop.",你好，玩家！欢迎回到元商店。,你好，玩家！欢迎回到幕后商店。
+english_events_gachashop:L41,gachashop_intro3,FIX,"Good to see you, player! Welcome back to the Meta-Shop.",很高兴见到你，玩家！欢迎回到元商店。,很高兴见到你，玩家！欢迎回到幕后商店。
+english_events_gachashop:L51,gachashop_intro4,FIX,"Umm, something something welcome to the Meta-Shop, you can look around or whatever while I get caught up, yeah?",嗯，欢迎来到元商店，什么什么的……我找找词，你先随便逛逛，行吧？,嗯，欢迎来到幕后商店，什么什么的……我找找词，你先随便逛逛，行吧？
+english_metatexts:TIT_BTN_MET,metatext,FIX,Meta-Shop,元商店,幕后商店

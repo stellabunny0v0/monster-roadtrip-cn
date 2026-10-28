@@ -1,0 +1,200 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_maingame:L16889,sockvendetta,FIX,You're driving along when you hear the clip-clop of hooves catching up to your car.,你听到蹄子的夹克声 赶到车上就开车走了,你们正开着车，身后突然传来哒哒的马蹄声，离车子越来越近。
+english_events_maingame:L16892,sockvendetta,POLISH,What the... is that a little orc riding a horse?,这... 是一只骑马的小兽人吗?,什么鬼……那是个骑马的小兽人吗？
+english_events_maingame:L16893,sockvendetta,POLISH,"Oh no, not this fuckin' guy...","哦,不,不是这个他妈的家伙...",不是吧，又是这混蛋……
+english_events_maingame:L16894,sockvendetta,FIX,WASHING MACHINE DAHLIA! WE MEET AGAIN!,洗马可达莉亚! 我们又见面了!,洗衣机达丽雅！我们又见面了！
+english_events_maingame:L16895,sockvendetta,FIX,The little orc whips out a crossbow and shoots at Dahlia!,小兽人挥出一道弩来一枪 达莉娅!,小兽人掏出一把弩，朝达丽雅射去！
+english_events_maingame:L16896,sockvendetta,FIX,"But shooting a crossbow on horseback at a washing machine in a moving vehicle must be harder than it looks, 'cause he hits you instead. You lose -N2 STAMINA.",但是在移动车辆的洗衣机上用马背上打弩 肯定比看上去更难 因为反正他撞到你了 你输了 - N2 Stamina.,不过，骑着马射中行驶车辆里的洗衣机，显然比看上去难多了。他射中的反而是你。你损失了 -N2 体力。
+english_events_maingame:L16897,sockvendetta,FIX,"Ugh, seriously %CURRENTPLAYERNAME%? We JUST got all the bloodstains out of the upholstery.","唉,认真的 %CURRENTPLAYERNAME%? 我们刚刚把所有的血都从室内取出。",不是吧，%CURRENTPLAYERNAME%？我们才刚把座椅上的血渍全洗干净！
+english_events_maingame:L16898,sockvendetta,POLISH,"Why are you here, Gobbo?! You and I settled our debt, fair and square!","你为什么在这里,戈博? 我们两个还清了债务,公平而平和!",戈博，你来干什么？！咱俩的账早就公平公正地两清了！
+english_events_maingame:L16899,sockvendetta,FIX,NO WE DID NOT! You promised to do my laundry if I gave you my favorite axe...,"不,我们没有! 你答应过我要洗衣服 如果我给你我最喜欢的斧子...",才没有！你答应过，只要我把最喜欢的斧子给你，你就替我洗衣服……
+english_events_maingame:L16900,sockvendetta,FIX,"...but yesterday, when I was folding my clothes, I realized I was missing a sock! YOU TOOK IT!","...昨天我叠起衣服的时候, 我意识到我漏了一只袜子! 你来搞定吧!",……可我昨天叠衣服时，发现少了一只袜子！是你拿走的！
+english_events_maingame:L16901,sockvendetta,FIX,"I did not TAKE it; I LOST it. Not every sock makes it back from the battlefield... that's just the harsh reality of laundry, Gobbo.","我没有拿,我失去了它。 不是每个袜子都能从战场上回来 洗衣店的严酷现实就是如此 Gobbo",我没拿，我是把它弄丢了。不是每只袜子都能活着从战场回来……洗衣服就是这么残酷，戈博。
+english_events_maingame:L16902,sockvendetta,FIX,"And why does it matter, anyway? I did a subpar washing job in exchange for your subpar axe. That means we're even.",何必这很重要呢? 我做了次帕洗手 作为交换你的次帕斧子。 也就是说我们扯平了,再说，这有什么好计较的？我洗得不怎么样，你那斧子也不怎么样。这不就扯平了？
+english_events_maingame:L16903,sockvendetta,FIX,MY AXE WAS NOT SUBPAR! IT WAS WAY ABOVE PAR!,我的AXE不是潜水! 是一个更远的距离!,我的斧子才不是不怎么样！它好得很！
+english_events_maingame:L16904,sockvendetta,FIX,Was not! The grip was bad. I can't even hold it right!,没有! 抓的很紧 我甚至无法坚持到底!,才没有！握柄烂透了，我连握都握不稳！
+english_events_maingame:L16905,sockvendetta,FIX,YOU CAN'T HOLD ANYTHING! YOU'RE A FUCKING WASHING MACHINE!,你什么都不能拿着! 你他妈是个大混混!,你什么都握不住！你他妈是台洗衣机！
+english_events_maingame:L16906,sockvendetta,POLISH,GIVE ME BACK MY SOCK!,把我的袜子还给我!,把袜子还给我！
+english_events_maingame:L16907,sockvendetta,FIX,NO!,没有!,不还！
+english_events_maingame:L16908,sockvendetta,FIX,THEN GIVE ME BACK MY AXE!,那就给我回我的前科!,那就把斧子还给我！
+english_events_maingame:L16909,sockvendetta,FIX,ALSO NO!,也别!,也不还！
+english_events_maingame:L16910,sockvendetta,FIX,"You don't have all day to let Dahlia argue about this; you're kinda bleeding out. If the orc won't leave empty-handed, then maybe you can give him...","你没有一整天的时间 达莉娅 争吵这个,你有点出血了 如果兽人不会空手而出,那么也许你可以给他...",你可没一整天陪达丽雅吵架，毕竟你的血都快流干了。既然兽人不肯空手走人，不如送他……
+english_events_maingame:L16911,sockvendetta,FIX,One free ride inside Dahlia's rinse cycle,进去坐一程 达莉娅洗涤周期,免费钻进达丽雅体内，体验一轮漂洗。
+english_events_maingame:L16912,sockvendetta,POLISH,A hug,拥抱一下,一个拥抱。
+english_events_maingame:L16914,sockvendetta,POLISH,"Hmm... is that, like, a fun thing?",垛... 那样很好玩吗?,唔……这个很好玩吗？
+english_events_maingame:L16915,sockvendetta,FIX,"Totally, bro! I'd try it if I could fit in there!","绝对的,兄弟! 如果我能适应的话,我会试试的!",当然啦，兄弟！我要是钻得进去，肯定也想试试！
+english_events_maingame:L16916,sockvendetta,FIX,Eh... are you sure you don't just wanna give me my axe back and call it a day?,额... 你确定你不想把我的斧子还给我 一天就结束了吗?,呃……要不你还是把斧子还我，这事就算了？
+english_events_maingame:L16917,sockvendetta,FIX,"Look, dude: we get it, Dahlia lost your sock. But last time I checked, socks weren't made of gold. They're just lame foot-shaped pieces of fabric.","听着,伙计:我们明白了, 达莉娅 袜子掉了 但上次我检查时 袜子不是用金子做的 它们只是脚状的布料",听着，哥们，我们知道达丽雅弄丢了你的袜子。可袜子又不是金子做的，不就是块长得像脚的破布吗。
+english_events_maingame:L16918,sockvendetta,FIX,"So we're just gonna repay you with a rinse cycle and call it even, yeah?","所以我们就用洗涤循环回报你 并称它为平,是吗?",所以赔你一轮漂洗，咱们就两清，好吧？
+english_events_maingame:L16919,sockvendetta,FIX,"Without waiting for an answer, Polly plucks the little orc off his horse and throws him into Dahlia's drum.","而不等待一个答案, 波莉 将小兽人从马上拔出,扔入地上 达莉娅鼓声.",没等他回答，波莉就把小兽人从马上拎起来，扔进达丽雅的滚筒。
+english_events_maingame:L16920,sockvendetta,FIX,GET RINSED!,被枪决!,给老娘好好涮涮！
+english_events_maingame:L16921,sockvendetta,FIX,Dahlia starts laundering the FUCK out of that orc.,达莉娅 开始从兽人身上洗干净,达丽雅开足马力，把那兽人往死里洗。
+english_events_maingame:L16922,sockvendetta,FIX,"Hey, you were right! All this spinning IS kinda fun! Wheee!","嘿,你说得对! 转动起来有点好玩! 呜!",嘿，还真让你说中了！转来转去挺好玩的！呜呼！
+english_events_maingame:L16923,sockvendetta,FIX,"That's great, bro! What's it like in there?","棒极了,兄弟! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! 里面怎么样?",太棒了，兄弟！里面是什么感觉？
+english_events_maingame:L16924,sockvendetta,FIX,No response from the little orc. The water in Dahlia's drum starts to turn red.,小半兽人没有反应 水进来了 达莉娅鼓声开始变红.,小兽人没有回答。达丽雅滚筒里的水开始变红。
+english_events_maingame:L16925,sockvendetta,FIX,"You still having fun in there, little buddy? It's hard to tell when you're not yelling about it specifically!","小家伙,你还玩得开心吗? 说来话长,你连喊都说不出来",小家伙，你还玩得开心吗？你不大声喊出来，我很难判断啊！
+english_events_maingame:L16926,sockvendetta,POLISH,DING!,叮当!,叮！
+english_events_maingame:L16927,sockvendetta,FIX,"Dahlia opens her door, spilling soggy blood and guts everywhere.","达莉娅 打开她的门, 溢出出大出血和胆量 到处都是。",达丽雅打开舱门，泡得湿淋淋的血肉内脏洒了一地。
+english_events_maingame:L16928,sockvendetta,POLISH,"...This car will never be clean again, will it?","这辆车再也不会干净了,对吧?",……这车是不是再也洗不干净了？
+english_events_maingame:L16929,sockvendetta,FIX,WHAAAAT?! Where'd the little orc go?!,华亚特! 小兽人跑哪去了?,什么？！小兽人去哪儿了？！
+english_events_maingame:L16930,sockvendetta,FIX,"Uh... no idea. I guess he, uh... went away.","额... 不知道,我还不知道呢 我猜他,呃... ... . . . . 走了,我走了,你还不知道",呃……不知道。他大概，呃……走了吧。
+english_events_maingame:L16931,sockvendetta,FIX,"You mean he disappeared, just like his sock? THE PLOT THICKENS!",你是说他消失了 就像他的袜子一样? 炸弹的喉咙!,你是说，他跟袜子一样凭空消失了？案情越来越扑朔迷离了！
+english_events_maingame:L16932,sockvendetta,FIX,"Well, that happened. At least you gained +N2 HYPE for giving Gobbo the fun, free ride!","事情就是这样 至少你让戈博玩得开心,免费骑马 赢得了+N2 HYPE!",好吧，事情就是这样。至少你让戈博免费玩了一趟刺激的，获得 +N2 热度！
+english_events_maingame:L16934,sockvendetta,POLISH,A hug?,拥抱?,一个拥抱？
+english_events_maingame:L16935,sockvendetta,FIX,Yeah! You'll love it! I'm a really buff hugger!,对! 你会喜欢的! 我是一个真正的巴夫拥抱者!,对啊！你肯定喜欢！我的拥抱可有肌肉了！
+english_events_maingame:L16936,sockvendetta,FIX,It's true! That's what Coach says biceps are for: hugging your friends as hard as you can!,"是真的,我说真的 教练说二头蛇是用来拥抱朋友的 尽量拥抱朋友的!",真的！教练说了，练二头肌就是为了尽全力抱紧朋友！
+english_events_maingame:L16937,sockvendetta,FIX,"Eh... okay, fine. I'll take a hug.","额... 好吧,没事。 抱一抱来.",呃……好吧，行。那就抱一下。
+english_events_maingame:L16938,sockvendetta,FIX,"MOST EXCELLENT! One full-body hug from Dahlia, coming right up!",最伟大的! 满地抱一抱 达莉娅马上就来!,好极了！达丽雅的全身拥抱，马上送到！
+english_events_maingame:L16939,sockvendetta,FIX,Dahlia launches all 250 pounds of her steel washing machine body at the orc.,达莉娅 发射她所有250磅的钢洗涤机机体 在兽人。,达丽雅把自己那足有 250 磅重的钢铁洗衣机身躯，整个扑向兽人。
+english_events_maingame:L16940,sockvendetta,FIX,They fall flat on the road. You see Dahlia lying there... and a single crushed orc arm poking out from under her.,"平地倒地上走着去. 你看,你看见了, 达莉娅 躺在那里... 躺着... 一只被打碎的半兽人手臂从她下面跳出",两人重重摔在路上。达丽雅趴在那里……身下只露出一条被压扁的兽人胳膊。
+english_events_maingame:L16941,sockvendetta,KEEP,...!,...!,...!
+english_events_maingame:L16942,sockvendetta,KEEP,...!,...!,...!
+english_events_maingame:L16943,sockvendetta,KEEP,...,...,...
+english_events_maingame:L16944,sockvendetta,KEEP,...,...,...
+english_events_maingame:L16945,sockvendetta,POLISH,...Let's leave and never speak of this again.,"...我们离开,别再提这事了",……咱们走吧，这事谁也别再提。
+english_events_maingame:L16947,sockvendetta,FIX,"And so you do! You gain +N2 SOUL, 'cause it's the intention of the hug that matters.","你也是一样! 你得到+N2 SOUL, 因为这是拥抱的意图 才是重要的。",于是你们照做了！你获得 +N2 灵魂，毕竟拥抱这种事，心意到了就好。
+english_events_maingame:L16959,veoveonormal,FIX,"You and your friends are driving quietly along the highway... well, it's quiet if you ignore Polly loudly groaning, anyway.","你和你的朋友在高速公路上悄悄地开车... 唔,如果你无视,那就很安静了 波莉 大声地呻吟,反正。",你和朋友们静静地行驶在公路上……只要忽略波莉那一声声响亮的哀嚎，确实挺安静。
+english_events_maingame:L16961,veoveonormal,POLISH,"Uggghhh, are we there yet? I'm so bored!","唉,我们到了没有? 我太无聊了!",呃啊——还没到吗？无聊死了！
+english_events_maingame:L16962,veoveonormal,FIX,Me too. Wanna play a game while we drive? We could play I Spy.,我也一样。 想开着车玩个游戏吗? 我们可以扮演我间谍。,我也是。要不边开车边玩点什么？比如“我看见了”猜东西游戏。
+english_events_maingame:L16963,veoveonormal,FIX,"Okay, I'll start. I spy with my little eye... something brown, hairy, and handsome!","好吧,我开始。 我用我小眼睛监视... 棕色的 有毛的又帅又帅!",好，我先来。看一看，猜一猜……什么东西是棕色的、毛茸茸的，还特别帅？
+english_events_maingame:L16964,veoveonormal,POLISH,...Is it you? Did you spy yourself?,是你吗? 你偷窥自己吗?,……你自己？你看见你自己了？
+english_events_maingame:L16965,veoveonormal,FIX,"Close! I spied the guy in my rearview mirror. He's always there, watching over me while I drive and giving me a thumbs up!","关上! 我从后视镜里看到了那个人 他总是在, 看着我,而我开车给我一个拇指了!",差一点！我看见的是后视镜里的那哥们。我开车时他一直陪着我，还冲我竖大拇指呢！
+english_events_maingame:L16966,veoveonormal,FIX,"Uh... sure. I won the round, so it's my turn now.","额... 当然可以。 我赢了回合,所以现在轮到我了。",呃……行吧。这轮我赢了，接下来轮到我。
+english_events_maingame:L16967,veoveonormal,FIX,"I spy with my little eye something that starts with... ""I.""","我用我小眼睛监视一些开始于... ""我""",看一看，猜一猜……什么东西的英文是以“I”开头的？
+english_events_maingame:L16968,veoveonormal,FIX,"Okay, that's a genuine challenge. You look out the window to see what Polly might've spied...","好吧,这是真正的挑战。 你从窗户看什么? 波莉 也许已经监视...",好吧，这下真有难度了。你望向窗外，猜波莉究竟看见了什么……
+english_events_maingame:L16971,veoveonormal,POLISH,"Ooh, maybe it's that!","哦,也许它就是这个!",哦，会不会是那个！
+english_events_maingame:L16973,veoveonormal,FIX,"The lizard? But ""lizard"" doesn't start with an I... does it?","蜥蜴吗? 但""利扎德""不是从我开始的... 是吗?",那只蜥蜴？可蜥蜴的英文 lizard 不是以 I 开头的吧……是吗？
+english_events_maingame:L16976,veoveonormal,POLISH,Then is it that thing?,那这是什么?,那是那个东西吗？
+english_events_maingame:L16978,veoveonormal,POLISH,"Hmmm, I don't think so. That's just a weird-looking house.","嗯,我不这么认为。 那房子看起来很奇怪",唔，应该不是。那就是栋长得怪怪的房子。
+english_events_maingame:L16981,veoveonormal,POLISH,Then maybe it's that guy!,那也许是那个家伙!,那难道是那个人！
+english_events_maingame:L16983,veoveonormal,FIX,The Sicilian? What does he have to do with the letter I?,西西里人吗? 他和我的信有什么关系?,那个西西里人？他跟字母 I 有什么关系？
+english_events_maingame:L16984,veoveonormal,POLISH,"I think he's Florentine, actually.",我觉得他其实是佛罗伦萨人,其实我觉得他是佛罗伦萨人。
+english_events_maingame:L16987,veoveonormal,FIX,"Man, this is impossible! You need to think outside the box. What did Polly spy with her little eye?","这不可能! 你需要在盒子外思考 想想看,你应该去 刚才你说什么 波莉 间谍用她的眼睛?",天哪，这怎么猜得出来！得换个思路了。波莉到底看见了什么？
+english_events_maingame:L16988,veoveonormal,FIX,An... Invisible... Something?,一个... 隐形... 什麽事?,某种……隐形的……东西？隐形，Invisible！
+english_events_maingame:L16989,veoveonormal,FIX,"The road. But not this road. More like... the Idea of ""the Road.""","路边 但不会是这条路 更喜欢... 意想""路"",""the"".",路。但不是眼前这条路，而是……“路”这个概念，Idea！
+english_events_maingame:L16991,veoveonormal,FIX,"Okay, an invisible what?","好吧,隐形什么?",好吧，隐形的什么？
+english_events_maingame:L16992,veoveonormal,FIX,No idea. You use -N2 MAGIC to cast a spell that lets you see beyond regular light wavelengths.,"不知道,我还不知道呢。 您使用 -N2 MAGIC 来投出一个咒语, 让你看到超出常规光波长的字。",你也不知道。你消耗 -N2 魔力，施法让自己能看见普通光线之外的波长。
+english_events_maingame:L16993,veoveonormal,FIX,"Infrared, ultraviolet, gamma waves, the color ""shmorange"" -- they're all suddenly visible before your very eyes!","红外线 紫外线 伽马波 颜色""shmorang""——在你眼前都突然可见了!.",红外线、紫外线、伽马射线，还有一种叫“什橙色”的颜色——全都突然出现在你眼前！
+english_events_maingame:L16994,veoveonormal,POLISH,"Awesome! What do you see, %CURRENTPLAYERNAME%?",厉害! 你看见什么了? %CURRENTPLAYERNAME%?,酷！%CURRENTPLAYERNAME%，你看见什么了？
+english_events_maingame:L16995,veoveonormal,POLISH,"Well, I see that someone's been having sex in the back seat of this car... gross.",我发现有人在这辆车的后座上做爱... 恶心,呃，我看出有人在这辆车的后座上做过爱……真恶心。
+english_events_maingame:L16996,veoveonormal,POLISH,"Oops, my bad. I'll put a towel down next time.","糟了,我的错。 下次我再把毛巾放下来",哎呀，我的锅。下次我会垫条毛巾的。
+english_events_maingame:L16997,veoveonormal,FIX,You can see where the seams of the Monster Realm and the Human Realm overlap. You're surrounded by humans that are operating on another plane of existence.,"可以看到魔兽王国和人类王国的接合之处相重叠. 周围是人类,他们正在另一架飞机上活动",你能看见怪物世界与人类世界交叠的缝隙。周围到处都是人类，在另一个存在层面上生活着。
+english_events_maingame:L16998,veoveonormal,FIX,"You're also surrounded by ethereal, otherworldly creatures floating around in God-knows-which other realms.",你周围还有其他的生物 漂浮在上帝的身边,你身边还飘着缥缈的异界生物，天知道它们来自哪些世界。
+english_events_maingame:L16999,veoveonormal,FIX,"You notice a group of invisible insectoids on the side of the road. They seem sinister, like they're plotting something... something against you, maybe?","你注意到路边有一群隐形昆虫 他们看起来很邪恶,好像在谋划什么... 也许有你不好的地方?",你发现路边聚着一群隐形的虫人。它们看上去阴森森的，似乎在密谋着什么……该不会是要对付你吧？
+english_events_maingame:L17000,veoveonormal,FIX,"Is it the invisible, off-putting insectoids?","是隐形的, 脱落的昆虫?",是那群隐形的、看着就瘆人的虫人吗？
+english_events_maingame:L17001,veoveonormal,FIX,"Yup, you got it, boo! Though I would've also accepted ""iguana"" as the correct answer.","是的,你得到了它,嘘! 虽然我也会接受""蜥蜴""作为正确的答案.",答对啦，宝！不过你要是答“鬣蜥，iguana”，我也算你对。
+english_events_maingame:L17002,veoveonormal,FIX,"Ohhhh, so that lizard DID start with an I! Sorry I talked you out of it, bro.","哦,那蜥蜴从我开始! 对不起,我劝你别这么做,兄弟",哦——原来那蜥蜴真是 I 开头的！抱歉，兄弟，我还劝你别选它来着。
+english_events_maingame:L17003,veoveonormal,POLISH,"How did you see those creepy, invisible bug-people in the first place?",你从一开始是怎么看到那些 隐形的虫子的?,可你一开始是怎么看见那些隐形的恐怖虫人的？
+english_events_maingame:L17005,veoveonormal,FIX,"Cause I have ghost powers... or I'm just hallucinating 'cause these weird roots I took finally kicked in. Hard to tell, really.","因为我有鬼的力量... 或者我只是幻觉 因为这些奇怪的根 我终于踢入。 很难说,真的。",我有幽灵超能力嘛……也可能是吃下去的怪树根终于起效，让我看见幻觉了。真不好说。
+english_events_maingame:L17007,veoveonormal,FIX,"Cause I have ghost powers... or I'm just hallucinating 'cause these super shrooms finally kicked in. Hard to tell, really.","因为我有鬼的力量... 或者我只是幻觉 因为这些超级洗手间终于被踢了进去 很难说,真的。",我有幽灵超能力嘛……也可能是吃下去的超级蘑菇终于起效，让我看见幻觉了。真不好说。
+english_events_maingame:L17008,veoveonormal,FIX,"...Okay, whatever. Take +N2 HYPE for winning I Spy!","好吧,随便你 以+N2 HYPE为赢取""I Spy""!.",……行吧，随便了。你赢了猜东西游戏，获得 +N2 热度！
+english_events_maingame:L17010,veoveonormal,POLISH,The... what?,那个... 什麽?,什么……玩意儿？
+english_events_maingame:L17011,veoveonormal,FIX,"You know! The Idea! Of the Road! Like... THE CONCEPT OF ""THE ROAD"". Or some abstract notion, like ""The Road to Enlightenment"".","你知道吗! 思想! 思想! 思想! 思想, 思想, 思想, 思想, 思想, 思想, 思想, 思想, 思想, 思想, 思想, 思想, 思想, 思想! 路边的! 喜欢... ""路""的概念。 或者一些抽象的概念,如""启蒙之路"".",就是概念啊！路的概念！“路”这个概念本身！或者某种抽象的东西，比如“通往顿悟的道路”。
+english_events_maingame:L17012,veoveonormal,FIX,Enlightenment? I thought we were on State Road 47.,启蒙? 我以为我们在47号国道上,顿悟？我以为咱们走的是 47 号州道。
+english_events_maingame:L17013,veoveonormal,FIX,"Would ""the road to Enlightenment"" even be something I could physically spy with my little eye?","""启蒙之路"" 甚至是我能用我小眼睛 进行身体间谍活动的东西吗?",“通往顿悟的道路”这种东西，真的能让我用眼睛看见吗？
+english_events_maingame:L17014,veoveonormal,FIX,It could be... if you had spied it with her little THIRD eye!,这可能是... 如果你用她第三只眼睛监视它!,能啊……只要你用第三只眼去看！
+english_events_maingame:L17015,veoveonormal,FIX,"Wow, boo, you're deep today.","哇,嘘,你今天很深。",哇，宝，你今天很有深度嘛。
+english_events_maingame:L17016,veoveonormal,POLISH,...or you're just desperate to win the round.,...或者你只是绝望地想赢得比赛,……也可能只是太想赢了。
+english_events_maingame:L17017,veoveonormal,POLISH,"Either works! So, did I guess correctly?","两者皆有效果! 那么,我猜对了吗?",都行！所以我猜对了吗？
+english_events_maingame:L17018,veoveonormal,FIX,"No, dumb-dumb. I spied the iguana we passed, obviously.","不,哑巴。 我明显地监视了我们通过的蜥蜴",没呢，笨蛋。我看见的当然是刚才经过的鬣蜥，iguana 啊。
+english_events_maingame:L17019,veoveonormal,FIX,"Ohhhh, so that lizard DID start with an I! Sorry I talked you out of it, bro.","哦,那蜥蜴从我开始! 对不起,我劝你别这么做,兄弟",哦——原来那蜥蜴真是 I 开头的！抱歉，兄弟，我还劝你别选它来着。
+english_events_maingame:L17020,veoveonormal,FIX,"But hey, ""the Idea of the Road"" was a pretty out-of-the-box answer, which I respect. I'll give you partial credit for creativity!","但是,嘿,""路的创意""是一个相当出格的答案,我尊重这个答案. 我将部分地赞扬你的创造力!",不过嘛，“路的概念”这个答案确实挺有新意，我欣赏这种思路！给你点创意分吧！
+english_events_maingame:L17021,veoveonormal,POLISH,"Polly puts a gold star sticker on your forehead. It says ""You Tried."" Woohoo!","波莉 额头上贴上金星贴. 上面写着""你试过了"" 哇!",波莉往你额头上贴了颗金星贴纸，上面写着“你努力过了”。好耶！
+english_events_maingame:L17022,veoveonormal,FIX,"You lost -N2 MIND trying to justify your weird guess, but you gained +N2 HYPE from that sticker.","你输了N2 MIND 试图证明你奇怪的猜测, 但你从贴纸上得到了+N2 HYPE.",你为圆那个离谱答案，损失了 -N2 头脑，不过那张贴纸让你获得了 +N2 热度。
+english_events_maingame:L17035,veoveospirit,FIX,"You're trying to catch a nap while traveling between destinations, but Polly's having none of it.","你试图在目的地之间打个午觉,但是... 波莉根本就没有",你想趁赶往下个目的地的工夫打个盹，可波莉偏不让你如愿。
+english_events_maingame:L17038,veoveospirit,POLISH,"Godddd, I'm so bored! Can't we play a game or something?","可恶,我好无聊! 我们就不能玩个游戏吗?",天哪——无聊死了！咱们就不能玩个游戏什么的吗？
+english_events_maingame:L17039,veoveospirit,FIX,"""How about the Quiet Game?"" you suggest while yawning.","""静静游戏怎么样?"" 你一边打哈欠一边建议",“要不玩谁先说话谁就输？”你打着哈欠提议。
+english_events_maingame:L17040,veoveospirit,FIX,"Okay, let's play! Three, two, one... GO!","好,我们来玩吧! 三 二 一 说吧 走开!",好，开始！三、二、一……走！
+english_events_maingame:L17041,veoveospirit,KEEP,...,...,...
+english_events_maingame:L17042,veoveospirit,KEEP,...,...,...
+english_events_maingame:L17043,veoveospirit,FIX,WHOOPS I LOSE okay now let's play something actually fun please.,"谁是OHOPS I输了,现在让我们玩 真正有趣的东西,请。",哎呀我输了，好了现在求你们玩个真正有意思的吧。
+english_events_maingame:L17044,veoveospirit,FIX,What about I Spy? I spy with my little eye something that starts with...,我间谍呢? 我用我小眼睛监视一些开始于...,要不玩“我看见了”？看一看，猜一猜，什么东西的英文是以……
+english_events_maingame:L17045,veoveospirit,FIX,"Uh, ""highway"" starts with an H, right?","""高速公路""开头是H,对吧?",呃，公路的英文 highway 是 H 开头，对吧？
+english_events_maingame:L17046,veoveospirit,FIX,"Actually, I'll start instead. I spy with my little eye something that starts with P...","其实,我开始代替。 我用我小眼睛监视着一些从P开始的东西...",还是我先来吧。看一看，猜一猜，什么东西的英文以 P 开头……
+english_events_maingame:L17047,veoveospirit,FIX,ON THE INSIDE OF %CURRENTPLAYERNAMECAPS%'S SOUL!,进口的燃料 %CURRENTPLAYERNAMECAPS%'苏尔!,而且就藏在 %CURRENTPLAYERNAMECAPS% 的灵魂里！
+english_events_maingame:L17048,veoveospirit,POLISH,What?!,你说什么?,什么？！
+english_events_maingame:L17049,veoveospirit,FIX,You heard me. I spied something that starts with P on the inside of your soul!,你听见了 我从P开始监视你的灵魂,你没听错。我在你的灵魂里，看见了一个英文以 P 开头的东西！
+english_events_maingame:L17050,veoveospirit,POLISH,You can look into other people's souls? I didn't know your ghost powers could do that.,你可以调查别人的灵魂吗? 我不知道你的鬼神力量能做到这一点。,你能看见别人的灵魂？我都不知道幽灵超能力还能干这个。
+english_events_maingame:L17051,veoveospirit,POLISH,"Neither did I! My powers make no sense most of the time, haha!",我也没说! 我的神力大部分时候都说不通 哈哈!,我也不知道！我的能力大部分时候都莫名其妙，哈哈！
+english_events_maingame:L17053,veoveospirit,FIX,Or it could be that the cactus roots I took earlier are finally kicking in and I'm totally hallucinating that I can see souls. Who's to say?,或者可能是我之前拿的仙人掌根 终于开始跳了 我完全幻觉我能看见灵魂 谁说?,也可能是我之前吃的仙人掌根终于起效，我看见灵魂什么的全是幻觉。谁知道呢？
+english_events_maingame:L17055,veoveospirit,FIX,Or it could be that the acid I took earlier is finally kicking in and I'm totally hallucinating that I can see souls. Who's to say?,也可能是我之前服用的酸 终于开始吸了 我完全幻觉我能看见灵魂 谁说?,也可能是我之前嗑的迷幻药终于起效，我看见灵魂什么的全是幻觉。谁知道呢？
+english_events_maingame:L17056,veoveospirit,POLISH,"Anyway, %CURRENTPLAYERNAME%, you gotta guess what I spied in your soul!","总之, %CURRENTPLAYERNAME%猜猜我从你的灵魂里看到了什么!",总之，%CURRENTPLAYERNAME%，猜猜我在你灵魂里看见什么了！
+english_events_maingame:L17057,veoveospirit,FIX,How am I supposed to guess that? It's not like I can see the inside of my own soul.,我怎么猜到的? 说吧! 亦非能见自心之内相.,这让我怎么猜？我又看不见自己的灵魂里面有什么。
+english_events_maingame:L17058,veoveospirit,POLISH,"But it's still your soul! C'mon, boo, just try and guess! What do you think I spied?","但它仍然是你的灵魂! 来啊,嘘,你试试看! 你觉得我偷窥了什么?",可那毕竟是你的灵魂啊！来嘛，宝，试着猜猜！你觉得我看见什么了？
+english_events_maingame:L17059,veoveospirit,FIX,"A... (dormant) Passion for crafting artisanal marmalade, the most annoying of all hobbies?",一个... 手工业的马铃薯的激情 最烦人的人,一份……潜藏的热情，Passion？对亲手熬制橘子酱的热情，那可是最烦人的爱好。
+english_events_maingame:L17060,veoveospirit,FIX,A... Prisoner embedded within your spirit? It'd explain the evil thoughts that live rent-free in your brain.,一个... 囚犯嵌入你的灵魂? 它可以解释你大脑里 免费生活的邪恶思想,一个……被关在你灵魂里的囚徒，Prisoner？难怪你脑子里那些邪恶念头一直赖着不走。
+english_events_maingame:L17062,veoveospirit,POLISH,That's right! Good job!,没错! 干得不错!,没错！答得漂亮！
+english_events_maingame:L17063,veoveospirit,POLISH,"Wow! I'd always suspected I might like crafting artisanal marmalade, but for some reason I never poked that thought until now!",哗! 我一直怀疑我可能喜欢手工制作果酱 但不知为什么我一直没这么想,哇！我早就怀疑自己可能喜欢亲手熬橘子酱，可不知道为什么，直到现在才认真想过！
+english_events_maingame:L17064,veoveospirit,FIX,"Why marmalade, though? Isn't ""marmalade"" basically just ""jam"" with a longer name?","为什么是橘子酱? ""马来地""是不是基本上只是""jam""和一个更长的名字?",可为什么非得是橘子酱？橘子酱不就是果酱，只不过英文名字 marmalade 比 jam 长嘛？
+english_events_maingame:L17065,veoveospirit,FIX,"It sounds kinda silly. It's like I always say: ""Why make word long when short word work fine?""","听起来有点傻 就像我一直说的那样:""当短词有效时,为什么要让词长?""",感觉有点傻。我老说嘛：“短词能用，干吗长词？”
+english_events_maingame:L17066,veoveospirit,FIX,"Scott, Scott, Scott; such a naive boy. I clearly need to show you what makes artisanal marmalade so rewarding and fun!","斯科特, 斯科特, 斯科特这么天真的孩子 我显然需要告诉你 是什么让手工的果酱如此有回报和乐趣!",斯科特啊，斯科特，你还是太天真了。我得让你见识一下，手工橘子酱到底有多好玩、多有成就感！
+english_events_maingame:L17067,veoveospirit,POLISH,"Okay bro, if you insist. I'll pull over by that orange grove for you.","好吧,兄弟,如果你坚持。 我帮你停在橙园边",好吧，兄弟，你非要做的话，我就停在那片橘子园边上。
+english_events_maingame:L17070,veoveospirit,FIX,Yay! Three hours of preserving oranges later...,赞! 三个小时后保存了橙子...,好耶！熬了三个小时的橘子酱之后……
+english_events_maingame:L17072,veoveospirit,POLISH,"We've been doing this for a while, %CURRENTPLAYERNAME%. When does the fun happen?","我们已经做了一段时间了, %CURRENTPLAYERNAME%. 什么时候才有乐趣?",%CURRENTPLAYERNAME%，咱们都弄了好一阵了。到底什么时候才好玩啊？
+english_events_maingame:L17073,veoveospirit,POLISH,"Boo, I honestly couldn't care less about this shit. Can't you make marmalade when we're back home?","嘘,我真不在乎这些 我们回家后就不能做果酱吗?",宝，我真对这破玩意儿一点兴趣都没有。回家再做橘子酱不行吗？
+english_events_maingame:L17074,veoveospirit,FIX,"NO! Artisanal marmalade is my fixation right now, and I'm gonna ride that wave of manic productivity until it crashes!","没有! 手工的马铃薯是我的固定 现在,我要骑那一波 狂躁生产力直到它崩溃!",不行！我现在满脑子都是手工橘子酱！我要趁这股狂热的干劲还没消退，一路做到底！
+english_events_maingame:L17075,veoveospirit,FIX,We don't have that kinda time. Can't you see our HYPE is decreasing at an alarming rate? We need to go before we risk losing more. I'm sure you understand.,"我们没有时间了 你看不出我们的HYPE正在以惊人的速度下降吗? 我们必须走,否则我们就要损失更多了。 我敢肯定,你明白这一点。",咱们没那么多时间。没看见热度正以惊人的速度往下掉吗？得赶紧走了，不能再掉了。你能理解吧。
+english_events_maingame:L17076,veoveospirit,POLISH,But...,不过...,可是……
+english_events_maingame:L17077,veoveospirit,FIX,"%CURRENTPLAYERNAME%, this car is leaving with or without you. Put away your mason jars and let's get going.","%CURRENTPLAYERNAME%不管有没有你,这辆车都要离开 把你的泥浆罐收起来,我们走吧。",%CURRENTPLAYERNAME%，你上不上车，我们都要走了。收好你的玻璃罐，出发吧。
+english_events_maingame:L17079,veoveospirit,FIX,"Ugh, fine. You'll just have to preserve your passion for homemade marmalade and shove it back on the furthest shelf of your subconscious for now.","呃,没事。 你只需要保持对自制果酱的热情 并把它塞回你潜意识的最深处",唉，好吧。你只能暂且把这份自制橘子酱的热情封存起来，塞回潜意识最深处的架子上。
+english_events_maingame:L17080,veoveospirit,FIX,"But you vow that when this road trip ends, you'll reopen that jar and spread this newfound joy on the toast of your life! You lose -N2 HYPE, but gain +N2 MIND.","但你发誓,当这趟出行结束, 你会重新打开那个罐子, 并传播这个新发现的快乐 在你的祝酒! 你输了N2 HYPE,但得到+N2 mind。",不过你发誓，等公路旅行一结束，就重新开罐，把这份新发现的快乐抹在人生的吐司上！你损失 -N2 热度，获得 +N2 头脑。
+english_events_maingame:L17082,veoveospirit,POLISH,Actually... yeah. I think that's exactly it.,其实... 对 我想就是这个意思,其实……对。好像还真是。
+english_events_maingame:L17083,veoveospirit,FIX,Ha! I knew all those horrible thoughts decreasing my -N2 SOUL couldn't be mine!,我知道那些可怕的想法 减少我的N2苏尔不可能是我的!,哈！我就知道，那些害我损失 -N2 灵魂的恶毒念头，肯定不是我自己的！
+english_events_maingame:L17084,veoveospirit,FIX,"Dang, %CURRENTPLAYERNAME%, how'd you get an evil spirit in your soul? Coach says spirits should be lifted, not used as prisons!",该死 %CURRENTPLAYERNAME%你是怎么在灵魂中找到邪恶的? 教练说精神应该被解除 而不是用作监狱!,哎呀，%CURRENTPLAYERNAME%，你的灵魂里怎么会住着恶灵？教练说过，精神要振奋起来，不能拿来当监狱啊！
+english_events_maingame:L17085,veoveospirit,POLISH,Hmmm...,那个...,唔……
+english_events_maingame:L17088,veoveospirit,FIX,"A blurry flashback is called to Polly's mind. It was the late hours of a wine-tasting party with you, her, Milo, and Hope...",模糊的闪回被调用到 波莉心意所动. 跟你一起喝酒的晚会 她 迈洛和希望... ... . . . .,波莉脑海里闪过一段模糊的回忆。那是一场品酒聚会的深夜，你、她、迈洛和希望女巫都在场……
+english_events_maingame:L17093,veoveospirit,FIX,"Man, I -- *hic!* -- love you guys. I really needed this after my shitty week.","男人,我 -- *hic! * -- 爱你们。 我这周过后真的很需要这个",天哪，我——*嗝！*——太爱你们了。这星期烂透了，我真的太需要放松一下了。
+english_events_maingame:L17094,veoveospirit,FIX,"Riiight, you and the other Coven girls were busy defeating that evil demon lord, right? I saw Joy venting about it on her Momentgram story.","Riight 你和其他的巫师 忙着打败那个邪恶的恶魔领主 对吧? 我看到乔伊在她的""动静""故事里 发泄出这个消息",对哦，你和女巫会的其他姑娘一直忙着对付那个邪恶魔王吧？我看见乔伊在 Momentgram 动态里吐槽了。
+english_events_maingame:L17095,veoveospirit,POLISH,Yeah. We were able to steal the scrolls a cult was gonna use to summon the demon into our world.,对 我们得以偷走一个邪教用来召唤恶魔进入我们的世界的卷轴,嗯。邪教打算用卷轴把那魔王召唤到咱们的世界，我们把卷轴偷走了。
+english_events_maingame:L17096,veoveospirit,FIX,That's dope.,这是涂料。,牛啊。
+english_events_maingame:L17097,veoveospirit,FIX,"Thanks, but it was all for nothing, 'cause it -- *hic!* -- seems like the demon's just gonna cross over into this realm on its own... hence why I drink.","谢谢,但这一切都是白费力气的, 因为它 - *hic!* - 似乎恶魔只是要跨越 进入这个领域 独自一人... ┮或耻",谢了，可全白忙了。因为——*嗝！*——那魔王好像自己就能穿越到这个世界……所以我才借酒消愁。
+english_events_maingame:L17098,veoveospirit,FIX,You should just summon the demon now and get it all over with. Procrastination never helped anyone!,你现在应该召唤出恶魔 让它彻底结束 拖延对任何人都没有帮助!,那就现在把魔王召唤出来，早点解决啊。拖延可帮不了谁！
+english_events_maingame:L17099,veoveospirit,POLISH,Are you sure that's a good idea? I think the wine's impairing our judgment a little bit...,你确定这是个好主意吗? 我觉得酒会影响我们的判断力...,你确定这是个好主意？我觉得喝了酒之后，我们判断力有点下降……
+english_events_maingame:L17100,veoveospirit,FIX,"No, you know what? They call alcohol ""liquid courage"" for a reason. I bet I can -- *hic!* -- take on that fucker now! Pass me those summoning scrolls!","不,你知道吗? 他们称酒精为""液态勇气""是有原因的. 我敢打赌,我可以 - *hic! * - 抓住那个混蛋! 把那些传呼的卷轴递给我!",不，你听我说。大家都说“酒壮怂人胆”，这可不是白说的。我现在肯定能——*嗝！*——收拾那个混蛋！把召唤卷轴给我！
+english_events_maingame:L17102,veoveospirit,POLISH,"A few minutes later, as black flames surrounded them all...","几分钟后,当黑火包围他们时...",几分钟后，黑色火焰将所有人团团围住……
+english_events_maingame:L17103,veoveospirit,FIX,"Okay, yep, I definitely cannot defeat this thing alone and drunk. Joy's gonna kill me when this demon destroys the world...","好吧,是啊,我绝对不能 打败这个东西 独自和醉。 乔伊会杀了我 当这个恶魔摧毁世界...",好吧，没错，我一个醉鬼绝对打不过这玩意儿。等它毁了世界，乔伊非杀了我不可……
+english_events_maingame:L17104,veoveospirit,POLISH,But the world can't be destroyed NOW; I have plans this weekend! Isn't there something we can do?,"但是现在世界不能被摧毁了,我这个周末有计划! 我们是不是有什么可以做的?",可世界现在不能毁灭啊，我周末还有安排呢！咱们就没别的办法了？
+english_events_maingame:L17105,veoveospirit,POLISH,I guess I could try using my psychic powers to imprison it in somebody's soul... but who would be willing to make such a sacrifice?,我想我可以试着用我的通灵能力 将它囚禁在别人的心灵里... 但谁会愿意做出这样的牺牲呢?,我可以试着用通灵能力，把它囚禁在某个人的灵魂里……可谁愿意做出这种牺牲呢？
+english_events_maingame:L17106,veoveospirit,FIX,"Polly, Milo, and Hope looked over to where you were passed out on the couch in a wine coma. Then they all slowly looked back at each other...","波莉, 迈洛望望着你在酒后昏迷中被昏倒在沙发上 然后他们慢慢地回头看对方...",波莉、迈洛和希望女巫望向沙发上喝到不省人事的你，又慢慢转头，彼此对视……
+english_events_maingame:L17110,veoveospirit,POLISH,"Uhhhh, weird! I have no idea how this could've happened, haha!","奇怪 简直是太奇怪了 我不知道怎么会这样,哈哈!",呃——真奇怪！怎么会这样，我完全不知道呢，哈哈！
+english_events_maingame:L17111,veoveospirit,FIX,It's a mystery! But at least knowing that the demon is the one making you such a psychopath grants you +N2 MIND.,是个谜! 但至少知道恶魔是让你如此变态的人 让你得到+N2 MIND。,真是个谜！不过，至少你知道自己之所以这么丧心病狂，是因为体内的魔王。你获得 +N2 头脑。
+english_events_maingame:L17123,veoveoespia,FIX,"While driving, you and your friends have been playing I Spy. It's slightly more fun than sitting alone with your thoughts.","开车的时候,你和你的朋友一直在玩""间谍"" 比你独自坐着思考更有趣",赶路时，你和朋友们一直在玩“我看见了”猜东西游戏。总比独自对着自己的思绪发呆有意思一点。
+english_events_maingame:L17125,veoveoespia,FIX,My turn again! I spy with my little eye... something that starts with S!,轮到我了! 我用我小眼睛监视... 开始是S!,又轮到我了！看一看，猜一猜……什么东西的英文以 S 开头？
+english_events_maingame:L17126,veoveoespia,POLISH,Is it the sand again?,又是沙子吗?,又是沙子，sand？
+english_events_maingame:L17127,veoveoespia,POLISH,"Yup! You're great at this, bro!","没错! 你干得很棒,兄弟! !",对！兄弟，你好会猜！
+english_events_maingame:L17128,veoveoespia,POLISH,Thanks. Guess that means it's my turn. I spy with my little eye...,谢谢 估计这表示轮到我了 我用我小眼睛监视...,谢了。那就轮到我了。看一看，猜一猜……
+english_events_maingame:L17129,veoveoespia,KEEP,!!!,!!!,!!!
+english_events_maingame:L17130,veoveoespia,FIX,CLASSIFIED DOCUMENTS FROM THE MERKINGDOM.,明报的分类文件。,人鱼王国的机密文件。
+english_events_maingame:L17131,veoveoespia,FIX,"What?! The Merkingdom as in the ruthless, totalitarian monarchy under the sea?!","你说什么? 默金多克像在无情的,极权主义的 君主制的海底?",什么？！你说的人鱼王国，是海底那个残暴无情的极权君主国吗？！
+english_events_maingame:L17132,veoveoespia,FIX,"Yup, and I just spied some of their government secrets in this big packet labeled: ""Merking ONLY: Do Not Read If You Value Your Worthless Life""","是的,我刚刚在这张大包里 发现了他们的一些政府机密 上面贴着: ""只写:不读,如果你重视你无价值的生命""",对啊。我刚从这个大文件袋里看到了他们的政府机密，上面写着：“仅限人鱼王阅览：要是还想留着你那条贱命，就别看。”
+english_events_maingame:L17133,veoveoespia,POLISH,THEN WHY WOULD YOU READ IT?!,那你为什么要读它!,那你干吗还看？！
+english_events_maingame:L17134,veoveoespia,FIX,Because how many opportunites will I get to read classified government secrets in my unlife? Worth it!,因为我能有多少机会 读读我生命中政府机密的? 值得吗?,因为当了鬼以后，一辈子能有几次偷看政府机密的机会啊？值了！
+english_events_maingame:L17135,veoveoespia,FIX,Holy shit. We're so dead. I'll have to move to Scandinavia and start over as a mountain goat herder named Claude--,妈的。 我们死定了 我得搬到斯堪的纳维亚 重新做一个叫克洛德的山羊牧人,我操。咱们死定了。我得逃到斯堪的纳维亚，改名克洛德，重新开始放山羊的生活——
+english_events_maingame:L17136,veoveoespia,FIX,"Chillax, %CURRENTPLAYERNAME%. No one's becoming a Scandinavian goat herder, okay?","奇莱克斯 %CURRENTPLAYERNAME%. 没人会成为斯堪的纳维亚牧羊人,好吗?",冷静点，%CURRENTPLAYERNAME%。没人要跑去斯堪的纳维亚放羊，好吗？
+english_events_maingame:L17137,veoveoespia,POLISH,We'll be fine if we just act like everything's normal. And that starts with finishing our game of I Spy!,我们只要表现得像正常一样就好了 开始完成我们的间谍游戏!,咱们只要装作一切正常，就不会有事。先把这局猜东西玩完！
+english_events_maingame:L17138,veoveoespia,FIX,"The stress of knowing too much is destroying your -N2 MIND, but if Polly insists... guess what she read in those documents!","太多的知觉压力正在摧毁你的N2 MIND,但如果 波莉 坚持... 猜猜她从那些文件中读到什么了!",知道得太多让你压力山大，损失了 -N2 头脑。不过波莉非要玩下去的话……猜猜她在文件里看到了什么！
+english_events_maingame:L17139,veoveoespia,FIX,"Indoctrination plans through kids movies. The Merkingdom surely does that kind of shit, and you could use those secrets to deprogram the children.",通过儿童电影进行教化计划. 美金多姆肯定做这种事 你可以利用这些秘密 来解密孩子们,用儿童电影洗脑的计划。人鱼王国肯定干得出这种事，你还能利用这些机密，帮孩子们摆脱洗脑。
+english_events_maingame:L17140,veoveoespia,FIX,"Intel on their most advanced weaponry: six-pack rings; waterparks; and that thing everyone has been talking about lately, ""Sea 2."" Priceless coveted affairs of state!","有关他们最先进的武器的情报:六包环;水上公园;以及最近大家谈论的""第二海""。无价之宝贪婪地处理国家事务!",最先进的武器情报：六罐装塑料提环、水上乐园，还有大家最近都在聊的“大海 2”。这可是人人垂涎的无价国家机密！
+english_events_maingame:L17142,veoveoespia,POLISH,Yup. There are a LOT of propaganda-filled movie scripts in here.,对 这里有很多充满宣传的电影剧本,没错，这里有一大堆塞满政治宣传的电影剧本。
+english_events_maingame:L17143,veoveoespia,POLISH,"Listen to some of these: ""The Lion King Isn't a Legitimate King and He Must Die"".","听其中的一些:""狮子王不是合法国王,他必须死"".",听听这几个：《狮子王没有合法王位，必须死》。
+english_events_maingame:L17144,veoveoespia,FIX,"Spoiler alert: he does die, in a very gruesome way.","破坏者警报:他确实死了,非常可怕。",剧透警告：他确实死了，而且死得很惨。
+english_events_maingame:L17145,veoveoespia,POLISH,"""The Little Mermaid Conquers the Surface World"".","""小美人鱼征服地表世界"".",《小美人鱼征服地表世界》。
+english_events_maingame:L17146,veoveoespia,FIX,"""After realizing the idiocy of leaving the sea kingdom, the Little Mermaid aids her father in flooding the Earth and bringing the surface-dwellers to their knees.""","""小人鱼意识到离开海王国的愚蠢后,帮助她的父亲淹没了地球并让地表居民跪下"".",“小美人鱼意识到离开海底王国有多愚蠢，便协助父王淹没地球，让地表居民俯首称臣。”
+english_events_maingame:L17147,veoveoespia,FIX,"Jeez, this one's not even subtle: ""Cinderella is a Lazy Handout-Taking Socialist Who Needs to Pay Rent"".",灰姑娘是个懒惰的 需要付房租的社会主义者,天哪，这部都懒得装了：《灰姑娘是个懒惰的社会主义者，光拿救济不交房租》。
+english_events_maingame:L17148,veoveoespia,FIX,These movies don't seem very nice. Maybe we could edit these scripts so they aren't so brainwash-y?,这些电影看起来不太好看. 也许我们可以编辑这些剧本 让他们不会被洗脑?,这些电影好像不太友善。咱们能不能改改剧本，让它们没那么洗脑？
+english_events_maingame:L17149,veoveoespia,FIX,"Sure! Let's change this one to ""The Lion President That Everyone Democratically Elected Into Office of Their Own Free Will"".","当然! 让我们把这个改为""狮子会主席, 每个人都民主地当选 他们自己的自由意志的办公室""。",好啊！这部就改成《全体人民自愿通过民主选举选出来的狮子总统》。
+english_events_maingame:L17150,veoveoespia,POLISH,"I didn't understand some of those words, but the ones I did, I liked!","我不懂这些话,但我喜欢那些话!",有些词我没听懂，不过听懂的那些，我都喜欢！
+english_events_maingame:L17151,veoveoespia,FIX,"Fine, but the Merking is totally gonna get your asses after he sees the edits you made to these movie scripts.","好吧,但默克金会完全得到你的屁股 之后,他看到 你做的编辑 这些电影剧本。",行吧，可人鱼王看见你们改的电影剧本，绝对会找你们算账。
+english_events_maingame:L17152,veoveoespia,FIX,"Especially since Polly and Scott insist on mailing the revised scripts to him with an attached invoice for ""editorial fees.""","特别是自从 波莉 财务报告和审定财务报表 斯科特 坚持将修改后的稿件邮寄给他,并附具""编辑费""发票.",尤其是波莉和斯科特还坚持把改好的剧本寄给他，随信附上一张“编辑费”账单。
+english_events_maingame:L17153,veoveoespia,FIX,But at least you might've helped some Merkingdom kids not get brainwashed! You gain +N2 SOUL.,但至少你可能帮一些默金多姆的孩子 不被洗脑! 你得到+N2苏尔。,不过，至少你们可能救了几个险些被洗脑的人鱼王国小孩！你获得 +N2 灵魂。
+english_events_maingame:L17155,veoveoespia,FIX,"Bingo. I gotta tell ya, there are some truly diabolical ideas in here.","宾果。 我得告诉你,这里有一些真正的邪恶的想法。",答对了。不得不说，这里有些主意真是邪恶透顶。
+english_events_maingame:L17156,veoveoespia,FIX,"""The six-pack ring is a monster-sized plastic ring cluster. It's disguised as rubbish, but it suffocates the victim when they stupidly put one around their neck.""","""六包环是怪物大小的塑料环集群. 伪装成垃圾,但当受害者愚蠢地把一个放在脖子上时,它会窒息"".",“六罐装塑料提环，是按怪物体型制作的一组塑料圈。外表伪装成垃圾，受害者一旦蠢得往脖子上套，就会窒息。”
+english_events_maingame:L17157,veoveoespia,FIX,I always knew garbage was secretly evil!,我一直都知道垃圾是秘密邪恶的!,我早就知道，垃圾暗地里邪恶得很！
+english_events_maingame:L17158,veoveoespia,FIX,"""Waterparks are our most sophisticated coverup yet. Even after all these years, the surface-dwellers still have no idea we're slowly flooding the surface.""","""水公园是我们最复杂的掩盖。 即使经过这么多年,地表居民 仍然不知道我们 正在缓慢地淹没地表。""",“水上乐园是我们至今最精妙的掩护。都这么多年了，地表居民还不知道，我们正在一点点淹没地表。”
+english_events_maingame:L17159,veoveoespia,FIX,"Wait, does that mean the Merkingdom invented water slides? Are we sure they're so bad?","等等,那意味着 默金多姆发明了水滑? 我们确定他们这么坏?",等等，所以水滑梯是人鱼王国发明的？他们真的有那么坏吗？
+english_events_maingame:L17160,veoveoespia,POLISH,"We're pretty sure, buddy.","我们很确定,伙计。",真的，哥们。
+english_events_maingame:L17161,veoveoespia,FIX,"I mean, if you have any doubt, just look at the blueprints for Sea 2. This is some really diabolical shit.","如果你有任何疑问,请看第二海的蓝图 这真是些邪恶的狗屎",还不信的话，看看“大海 2”的设计图就知道了。这玩意儿真他妈邪恶。
+english_events_maingame:L17162,veoveoespia,FIX,"Yeah, let me put it this way: Sea 2 is so bad, I can't describe it to you without this game being pulled from most major retailers.","这么说吧,海2太糟糕了,没有大零售商的帮助,我无法描述它。",这么说吧：“大海 2”邪恶到了我一旦说出详情，这游戏就会被大多数主流零售商下架的程度。
+english_events_maingame:L17163,veoveoespia,POLISH,So what do we do with all this info? Should we tell the government?,那么我们怎么处理这些信息? 我们该告诉政府吗?,那这些情报怎么办？告诉政府吗？
+english_events_maingame:L17164,veoveoespia,POLISH,"Nah, that sounds lame and doesn't benefit me directly. Let's just sell these state secrets on the internet.","不,这听起来很逊,而且没有直接对我有利。 我们把国家机密在互联网上卖掉",不了吧，又无聊，又没我的好处。干脆把这些国家机密挂网上卖了。
+english_events_maingame:L17165,veoveoespia,FIX,Sounds like a plan! You sell the Merkingdom's most valuable secrets online and earn +N2 MONEY.,听起来像一个计划! 你在网上卖出默金多姆最有价值的秘密 赚到+N2 钱,好主意！你在网上卖掉了人鱼王国最珍贵的机密，赚得 +N2 金钱。

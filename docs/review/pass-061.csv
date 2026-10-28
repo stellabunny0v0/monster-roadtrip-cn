@@ -1,0 +1,79 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_pitstop:L6813,cdmossresearch,KEEP,His Academic Research,他的学术研究,他的学术研究
+english_events_pitstop:L6815,cdmossresearch,FIX,"Ah, yes: a ton of incredibly-interesting research is conducted at Cryptid Academy.","啊,是的:一吨令人难以置信的兴趣研究 在密码学院进行。",啊，没错。神秘生物学院正在开展一大堆极其有趣的研究。
+english_events_pitstop:L6816,cdmossresearch,POLISH,Sometimes we PhD students can help with the research. It's so exciting! Almost as exciting as doing a PhD.,有时我们博士生可以帮助研究。 这太刺激了! 和做博士一样激动人心,有时候，我们博士生也能帮忙参与。真让人兴奋！几乎跟读博士一样兴奋。
+english_events_pitstop:L6817,cdmossresearch,FIX,Of course; the epitome of excitement.,"当然了,兴奋的缩影。",当然了，刺激莫过于此。
+english_events_pitstop:L6818,cdmossresearch,KEEP,You could say that!,你可以这么说!,你可以这么说!
+english_events_pitstop:L6819,cdmossresearch,KEEP,What's even more thrilling is they sometimes let us suggest ideas for new research topics.,"更令人兴奋的是,他们有时让我们提出新研究课题的想法。","更令人兴奋的是,他们有时让我们提出新研究课题的想法。"
+english_events_pitstop:L6820,cdmossresearch,POLISH,"After some time studying there, I think I'm finally ready! I'm ready to propose a super-thrilling, mega-edifying academic research theme!","在那里学习了一段时间后,我想我终于准备好了! 我准备提出一个超刺激的,超强的学术研究主题!",在那里学了一阵子，我想，我终于准备好了！要提出一个超级刺激、超有启发性的学术课题！
+english_events_pitstop:L6821,cdmossresearch,FIX,Fuck yeah!,他妈的是的!,他妈的，好啊！
+english_events_pitstop:L6822,cdmossresearch,FIX,"So, here I am: wondering what would be a killer theme to get everyone on board.","因此,我在这里:想知道什么是让所有人登上船的致命主题。",所以，我现在就在想，什么课题能一鸣惊人，让大家都愿意参与。
+english_events_pitstop:L6823,cdmossresearch,KEEP,But how does one impress a group of historians and history researchers?,但怎样才能打动一群历史学家和历史研究者呢?,但怎样才能打动一群历史学家和历史研究者呢?
+english_events_pitstop:L6824,cdmossresearch,FIX,"Don't look at me! Unless you give me some hints, I'm at a total loss.","别看着我! 除非你给我一些暗示, 我完全损失。",别看我！不给点提示，我可一点头绪都没有。
+english_events_pitstop:L6826,cdmossresearch,POLISH,"Well, whatever research I choose, I'd love it if it were tied to my specialization.","不管我选什么研究,如果它与我的专业挂钩,我会很高兴的.",不管选什么，我都希望跟自己的专业有关。
+english_events_pitstop:L6827,cdmossresearch,FIX,Which is...?,这是... ?,你的专业是……？
+english_events_pitstop:L6828,cdmossresearch,KEEP,Oral history!,口述历史!,口述历史!
+english_events_pitstop:L6829,cdmossresearch,KEEP,"Yes, of course!",当然了!,当然了!
+english_events_pitstop:L6830,cdmossresearch,FIX,"And if we want to make it thrilling, we need to balance the inherently high-brow nature of academia with the sexy low-brow nature of pop culture.","如果我们想让它令人兴奋,我们需要平衡 学术界固有的高眉生性 和流行文化的性感低眉生性。",要让研究有意思，就得把学术界天生的高雅，和流行文化那种性感又通俗的劲儿，平衡起来。
+english_events_pitstop:L6831,cdmossresearch,POLISH,"For instance, we could mix the tradition of oral history with the modernity of contemporary gossip.","例如,我们可以把口述历史的传统与当代流言相混合。",比如，把传统的口述史，跟当下的八卦结合起来。
+english_events_pitstop:L6832,cdmossresearch,POLISH,It shouldn't be hard! And yet I still haven't found the perfect topic... but maybe you could help a friend out?,不应该很难的! 但我还没有找到完美的话题... 也许你可以帮个朋友?,应该不难！可我还没找到完美的课题……也许，你能帮帮朋友？
+english_events_pitstop:L6833,cdmossresearch,FIX,"Sure, a topic that makes academic research on oral history fun and thrilling... easy-peasy...","当然,这个话题让关于口述历史的学术研究变得有趣而令人兴奋...... 轻而易举...",当然，一个能让口述史研究好玩又刺激的课题……简简单单……
+english_events_pitstop:L6834,cdmossresearch,KEEP,Eh...,额...,额...
+english_events_pitstop:L6835,cdmossresearch,FIX,"""Utterly convincing"": a study on how the overuse of adverbs can make gossip sound more believable.","""非常有说服力"":研究过度使用副词如何使八卦声音更可信.",“绝对有说服力”：研究滥用副词，如何让八卦听起来更可信。
+english_events_pitstop:L6836,cdmossresearch,FIX,"""Not my Avril Lavigne"": examining the tradition of believing celebrities have died and been replaced.","""不是我的Avril Lavigne"":审查信仰名人的传统已经逝去并被取而代之.",“这不是我的艾薇儿·拉维尼”：考察人们相信名人已死、又被人替换这一传统。
+english_events_pitstop:L6837,cdmossresearch,FIX,"""Who cares if they fucked or not"": the importance of incorporating actual truth into gossip to make it work.","""谁在乎他们性交与否"":将真实的真相融入八卦中使其发挥作用的重要性.",“谁管他们到底睡没睡”：八卦要奏效，真实情况有多重要。
+english_events_pitstop:L6839,cdmossresearch,POLISH,"So you're saying that if all gossip used more adverbs, it would sound better regardless of the content?","所以,你是说,如果所有的八卦 使用更多的副词, 它会听起来更好 不管内容是什么?",所以，你是说，无论内容是什么，八卦里多放些副词，听起来就会更好？
+english_events_pitstop:L6840,cdmossresearch,KEEP,Yes!,没错!,没错!
+english_events_pitstop:L6841,cdmossresearch,FIX,That somehow adverbs would push stories forward; lift them high; bring them forward!,这个副词会把故事推向前进;抬高;抬高!,副词就能让故事向前推进，一飞冲天，再进一步！
+english_events_pitstop:L6842,cdmossresearch,KEEP,Yes! Yes!,没错! 没错!,没错! 没错!
+english_events_pitstop:L6843,cdmossresearch,FIX,"Put these words everywhere, for they are energetically mighty; impressively energetic; mightily impressive!","随处摆放这些话,因为它们是充满活力的;令人印象深刻的;令人印象深刻的!",那就到处放这些词吧，它们活力十足地强大、令人赞叹地有活力、强大无比地令人赞叹！
+english_events_pitstop:L6844,cdmossresearch,KEEP,Yes! Yes! YES!,没错! 没错! 没错!,没错! 没错! 没错!
+english_events_pitstop:L6845,cdmossresearch,POLISH,"...I beg to differ, %CURRENTPLAYERNAME%. Adverbs can be useful every now and then, but if you abuse them you'll make everything not more convincing, but more boring.","...我不得不说, %CURRENTPLAYERNAME%. 副词可以偶尔有用,但是如果你滥用它们,你会让一切变得不可信,而是更无聊.",……我不敢苟同，%CURRENTPLAYERNAME%。副词偶尔有用，可一旦滥用，不会让人更信服，只会让人更无聊。
+english_events_pitstop:L6846,cdmossresearch,POLISH,"And, as I already told you, you don't want to make academic research even more boring.","正如我已经告诉你的,你不想让学术研究更无聊。",而且，说过了，学术研究可不能更无聊了。
+english_events_pitstop:L6847,cdmossresearch,KEEP,"Not to mention, such an abstract topic would surely kill any interest in the project.","更不用提,这样一个抽象的议题必然会扼杀对该项目的任何兴趣。","更不用提,这样一个抽象的议题必然会扼杀对该项目的任何兴趣。"
+english_events_pitstop:L6848,cdmossresearch,POLISH,Would you get excited about a 200-page thesis about adverbs?,关于副词的200页论文你会感到兴奋吗?,一篇两百页、研究副词的论文，你会有兴趣吗？
+english_events_pitstop:L6849,cdmossresearch,FIX,...Yes?,是吗?,……会？
+english_events_pitstop:L6850,cdmossresearch,FIX,No.,没有。,不会。
+english_events_pitstop:L6851,cdmossresearch,FIX,Moss leaves to recover from using so many adverbs. You must always be careful with your use of adverbs!,蚊子会用这么多的副词恢复过来 你一定要小心使用副词!,莫斯走了，得缓缓刚才用太多副词的劲儿。副词，可千万不能乱用！
+english_events_pitstop:L6853,cdmossresearch,KEEP,What an incredible idea!,真是个不可思议的主意!,真是个不可思议的主意!
+english_events_pitstop:L6854,cdmossresearch,KEEP,Really?,真的吗?,真的吗?
+english_events_pitstop:L6855,cdmossresearch,KEEP,Absolutely.,当然,当然
+english_events_pitstop:L6856,cdmossresearch,POLISH,There's a rich history of people losing it over rumors of celebrities who may be secretly dead and replaced.,"有丰富的历史,人们因为谣传名人而失去它,这些名人可能已秘密地死去并被取而代之.",从古至今，大家为“名人其实已经死了，还被人替换”的谣言发疯，可有一大段历史。
+english_events_pitstop:L6857,cdmossresearch,POLISH,"It's one of those things that sounds dumb but, once you've heard about it, you can't help but ""notice"" little things that seem off.","听起来很蠢 但一旦你听说了 你就会不禁要""通知""一些小事",这种事，听着很蠢，可一旦听说，就忍不住“发现”各种不对劲的小细节。
+english_events_pitstop:L6858,cdmossresearch,FIX,"And you're all like, ""nah... it's completely dumb... it can't be true... unless...?""","你们都喜欢,""不... 这是完全愚蠢的... 这不可能是真的... 除非... ..."" ? (笑声)",脑子里就会想：“不……太蠢了……不可能是真的……除非……？”
+english_events_pitstop:L6859,cdmossresearch,FIX,"Ahh, %CURRENTPLAYERNAME%, you're the best!",摆 %CURRENTPLAYERNAME%你最厉害了!,啊，%CURRENTPLAYERNAME%，你真棒！
+english_events_pitstop:L6860,cdmossresearch,POLISH,Everyone will love this proposal. I'm sure we'll soon be delving deep into this academic research.,每个人都会喜欢这个提议。 我相信我们很快会深入探索这个学术研究.,大家一定会喜欢这个提案。没准很快，咱们就能深入开展这项研究。
+english_events_pitstop:L6861,cdmossresearch,FIX,It'll be thrilling! And it will be thorough without being academically boring.,这会让人兴奋的! 它将是彻底的 而不在学术上无聊。,肯定很刺激！既能研究透彻，又不会学术得让人无聊。
+english_events_pitstop:L6862,cdmossresearch,FIX,"I'm glad I was helpful, Moss.",我很高兴我帮了忙 Moss,能帮上忙，我很高兴，莫斯。
+english_events_pitstop:L6863,cdmossresearch,POLISH,"Out of curiosity, did you suggest this topic because you heard the gossip that's been circulating lately?","出于好奇,你是否因为听到最近流传的流言而提出这个话题?",有点好奇，你提这个课题，是因为听说了最近流传的八卦吗？
+english_events_pitstop:L6864,cdmossresearch,KEEP,What gossip?,什么闲话?,什么闲话?
+english_events_pitstop:L6865,cdmossresearch,FIX,"You don't know? What a delightful coincidence. Allow me the honor of breaking this hot gossip to you, my friend.","你不知道吗? 多么令人愉快的巧合。 请允许我很荣幸 打破这个热的八卦给你,我的朋友。",你不知道？真是个美妙的巧合。朋友，让我有幸把这个热乎八卦告诉你。
+english_events_pitstop:L6866,cdmossresearch,FIX,Did you know that the fifth Vanderbilt sister is shrouded in mystery? No one knows exactly why they keep her in the shadows.,你知道范德比尔特第五妹被蒙上神秘的阴影吗? 没人知道他们为什么把她藏在暗处,你知道吗？范德比尔特家第五个女儿，身上全是谜。没人知道，家族为什么一直把她藏起来。
+english_events_pitstop:L6867,cdmossresearch,FIX,Is she in cahoots with the airpeople? Is she a class traitor who believes in turning the Merkingdom into a republic? Is she a bastard? A mere goldfish in a fishbowl?,"她和那些空姐有勾结吗? 她是一个阶级叛徒,谁相信 把默金多姆变成一个共和国? 她是混蛋吗? 鱼缸里的纯金鱼?",她跟羽族勾结？是想把人鱼王国变成共和国的阶级叛徒？是私生女？还是根本就只是鱼缸里的一条金鱼？
+english_events_pitstop:L6868,cdmossresearch,KEEP,"Well, a new theory has arisen recently...",最近出现了一个新的理论...,最近出现了一个新的理论...
+english_events_pitstop:L6869,cdmossresearch,POLISH,Some say that Miranda Vanderbilt was murdered in a coup by some revolutionaries.,有人说 米兰达 范德比尔特在一次政变中被一些革命者所谋杀.,有人说，米兰达·范德比尔特已经在一场政变里，被革命者杀了。
+english_events_pitstop:L6870,cdmossresearch,FIX,The Merkingdom Crown didn't want this to spark dissent among the people and make the Vanderbilts look vulnerable...,"默金多姆王室不希望这激起民众的异议,使凡德比尔特人显得脆弱. .",人鱼王室不想让这件事激起民众异心，显得范德比尔特家不堪一击……
+english_events_pitstop:L6871,cdmossresearch,FIX,"...so they secretly replaced Miranda with the fifth Vanderbilt sister, who happens to be her identical twin, kept in the shadows for mysterious reasons.","...所以他们秘密地取代了 米兰达 与第五名范德比尔特妹妹相接而来,恰好是她一模一样的双胞胎,由于神秘的原因被收在了阴影中.",……于是，偷偷用家里第五个女儿替换了米兰达。她们恰好是同卵双胞胎，而这位姐妹，一直因神秘原因被藏在暗处。
+english_events_pitstop:L6872,cdmossresearch,FIX,The Miranda you know now is not the Miranda you knew...,密码 米兰达 你知道现在不是 米兰达 笵...,你现在认识的米兰达，已经不是以前那个米兰达……
+english_events_pitstop:L6873,cdmossresearch,POLISH,"What a silly-yet-intriguing piece of gossip, no? I bet you can see the appeal of the ""celebrity dead and replaced"" gossip mechanism, can't you?","真是个可笑的八卦,不是吗? 我敢打赌,你可以看到""名人已死取而代之""八卦机制的吸引力,不是吗?",这八卦，既傻又引人好奇，对吧？你现在能明白，“名人已死，被人替换”为什么这么吸引人了吧？
+english_events_pitstop:L6874,cdmossresearch,FIX,"Yes, such a silly way of building engaging gossip!","是的,这种愚蠢的方式 建立八卦!",对，这种编造精彩八卦的方式，可真够傻的！
+english_events_pitstop:L6875,cdmossresearch,FIX,It was so nice to help Moss! He sure knows how to spread some hot gossip!,帮莫斯真好! 他肯定知道怎么传播热言乱语!,能帮上莫斯的忙，真好！他可真会传热乎八卦！
+english_events_pitstop:L6876,cdmossresearch,FIX,"Imagine, Miranda dead and replaced! What a silly thought... absolutely dumb... it can't be true... unless...?","试想一下 米兰达 死了,换了! 真是个愚蠢的想法... 绝对是哑巴... 这不可能是真的... 除非... 除非...",想想，米兰达死了，还被人替换！多蠢的想法……蠢透了……不可能是真的……除非……？
+english_events_pitstop:L6878,cdmossresearch,FIX,"Ah, yes, sex sells!","啊,是的,性爱卖!",啊，没错，性话题就是有市场！
+english_events_pitstop:L6879,cdmossresearch,KEEP,Right?,对吧?,对吧?
+english_events_pitstop:L6880,cdmossresearch,FIX,"But... I don't know, my friend.","不过... 我不知道,我的朋友。 说吧。",不过……朋友，不好说。
+english_events_pitstop:L6881,cdmossresearch,KEEP,I have my doubts.,我有点疑惑,我有点疑惑
+english_events_pitstop:L6882,cdmossresearch,KEEP,Such as...?,比如说... ?,比如说... ?
+english_events_pitstop:L6883,cdmossresearch,FIX,"Well, for starters, pop culture is nowhere to be found in this proposal! Pop culture always brings some low-brow to balance the high-brow of academia.","首先,这个提案里找不到流行文化! 流行文化总是带来一些低眉毛来平衡学术界的高眉毛.",首先，你这提案里，完全没提流行文化！总得来点通俗趣味，平衡学术的高雅。
+english_events_pitstop:L6884,cdmossresearch,FIX,"And the truth is that, despite using ""fuck"" in the title, the actual research is about the importance of truth in gossip.","而事实是,尽管在标题中使用了""去他妈的"",但实际研究是关于真相在八卦中的重要性.",而且，虽然题目用了“睡”，实际研究的，却是真相在八卦里的重要性。
+english_events_pitstop:L6885,cdmossresearch,POLISH,"I concur that it's an interesting topic, but it's quite abstract and intellectual.","我同意这是一个有趣的话题,但它相当抽象和有智慧.",我同意，这课题有趣，可也太抽象、太理论化了。
+english_events_pitstop:L6886,cdmossresearch,POLISH,It's topics like these that make people think that academics live secluded in their ivory towers.,正是这样的话题使人们认为学者们生活在象牙塔中被隔绝.,就是这种课题，才让人觉得，学者都躲在象牙塔里与世隔绝。
+english_events_pitstop:L6887,cdmossresearch,POLISH,But ivory towers are shiny and tall and cool...,但是象牙塔光亮又高又凉爽...,可象牙塔又亮、又高、又酷……
+english_events_pitstop:L6888,cdmossresearch,POLISH,"No... that mentality is what's killing academia, and makes people perceive academics as distant and elitist.","没有... 那种心态正在扼杀学术界, 让人们觉得学术界是遥远的精英主义。",不……正是这种心态，在扼杀学术，让人觉得学者高高在上、跟大众脱节。
+english_events_pitstop:L6889,cdmossresearch,POLISH,"Do you want to kill academia, %CURRENTPLAYERNAME%? Is that what's happening here?!",你想杀死学术界吗? %CURRENTPLAYERNAME%? 这就是这里发生的事情吗?,%CURRENTPLAYERNAME%，你想扼杀学术吗？原来你是这个意思？！
+english_events_pitstop:L6890,cdmossresearch,FIX,No! I love the dark academia aesthetic!,没有! 我喜欢黑暗的学术美学!,不是！我爱暗黑学院风！
+english_events_pitstop:L6891,cdmossresearch,FIX,Is that what I am to you? A distinguished moth person pulling a dark academia aesthetic?,我对你来说就是这样吗? 一个杰出的蛾子 利用黑暗的学术美学?,在你眼里，我就是这样？一个风度翩翩、走暗黑学院风的蛾人？
+english_events_pitstop:L6892,cdmossresearch,POLISH,"Academia is much more than an aesthetic for me... it's my life. And you're threatening to destroy it, even if by mistake. I can't take those risks...",学术界对我而言远不止是美学... 这是我的生活。 而你威胁要摧毁它 即使错误。 我不能冒这些风险...,对我来说，学术不只是一种风格，是我的生活。你却要毁掉它，哪怕只是无心之失，我也不能冒险……
+english_events_pitstop:L6893,cdmossresearch,KEEP,...Farewell.,...再见。,...再见。
+english_events_pitstop:L6894,cdmossresearch,FIX,Moss leaves into the night.,摩斯离开入夜.,莫斯消失在夜色里。
+english_events_pitstop:L6895,cdmossresearch,FIX,Dang... he really does rock that dark academia aesthetic...,可恶... 他真的把黑暗的学术美学震撼了...,唉……暗黑学院风，真的好适合他……

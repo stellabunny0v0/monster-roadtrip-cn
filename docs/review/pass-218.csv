@@ -1,0 +1,189 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_maingame:L24588,blinddate_eotr,FIX,The poor soul waiting for their blind date,可怜的灵魂等待他们的相亲,那个苦等相亲对象的可怜人
+english_events_maingame:L24593,blinddate_eotr,POLISH,You all sit down with a sad living puppet.,你们都和一个悲哀活活的傀儡坐下来.,你们坐到一个愁眉苦脸的活木偶旁边。
+english_events_maingame:L24595,blinddate_eotr,POLISH,"Hey, bro! I'm Scott. Is this seat taken?","嘿,哥们! 我是 斯科特. 这个座位有人坐吗?",嘿，兄弟！我是斯科特。这儿有人吗？
+english_events_maingame:L24596,blinddate_eotr,FIX,"Huh? Um, hi, Scott. I'm Mindy, and I was actually saving that seat for my date...","是吗? 呃,嗨,你好吗? Um, hi, 斯科特. 我是明蒂,其实我 留了那个座位给我的约会...",啊？嗯，嗨，斯科特。我叫明蒂，那个位子，其实留给约会对象了……
+english_events_maingame:L24597,blinddate_eotr,POLISH,"Oh, okay! When's your date getting here?","哦,还好! 你的约会是什么时候到的?",哦，好！他什么时候到？
+english_events_maingame:L24598,blinddate_eotr,FIX,Any second now! His name is Ernis the Avaricious. We were set up by mutual friends to go on our first date today.,"随时可以了! 他叫艾尼斯,爱滋会 我们今天第一次约会 是朋友安排的",马上就来！他叫贪婪者厄尼斯。共同的朋友撮合的，今天第一次见面。
+english_events_maingame:L24599,blinddate_eotr,POLISH,Eh? Wait... would you just give me a second to talk to my friends privately?,怎么样? 单单... 你能给我一点时间 和我的朋友私下谈谈吗?,呃，等等……能让我跟朋友私下说两句吗？
+english_events_maingame:L24600,blinddate_eotr,POLISH,Uh... why would you sit at my table without permission only to exclude me from the conversation a couple minutes later?,额... 为什么你会擅自坐在我桌上 只为了让我在几分钟后 被拒之门外?,你们擅自坐下，过几分钟，又要把我排除在谈话之外？
+english_events_maingame:L24601,blinddate_eotr,POLISH,I'll take that as a yes. Wait there!,我当为是. 在那里等着!,就当你同意了，等一下！
+english_events_maingame:L24602,blinddate_eotr,FIX,You all huddle.,你们都站好,你们凑成一圈。
+english_events_maingame:L24603,blinddate_eotr,POLISH,"(Guys, doesn't all this sound familiar?)","(伙计们,这些听起来不熟悉吗?)",（各位，这不觉得眼熟吗？）
+english_events_maingame:L24604,blinddate_eotr,FIX,"(Yes, the feeling of being stood up at a date is sadly all too familiar to me. No need to bring that up, though.)","(是的,我对在约会中被站起的感觉感到非常熟悉。) 不过,没必要提起这个。 )",（是，被约会对象放鸽子的感觉，我遗憾地表示，太熟悉了。不过，没必要提。）
+english_events_maingame:L24605,blinddate_eotr,POLISH,"(No, I mean I really feel like we've been in this situation before, don't you?)","(不,我的意思是我真的觉得 我们以前有过这种情况,不是吗? )",（不是，我是说，真的经历过这种情况，不觉得吗？）
+english_events_maingame:L24606,blinddate_eotr,FIX,"(Now that you mention it... I feel like we've been here before, but it wasn't exactly here. It's odd...)","(现在你提到它...) 我觉得我们以前来过这里,但其实不是这里 很奇怪... ) 说起来...",（这么一说……好像来过，可又不完全是这里。好奇怪……）
+english_events_maingame:L24607,blinddate_eotr,FIX,(Yeah... what is this place? What's happening?),(对曰. 这是什么地方? 发生什么事了? ),（是啊……这里到底是哪儿？怎么回事？）
+english_events_maingame:L24608,blinddate_eotr,FIX,"(I don't like this, bros... I'm scared.)","(我不喜欢这样,兄弟们... ) )  I.",（兄弟们，我不喜欢这样……好害怕。）
+english_events_maingame:L24609,blinddate_eotr,POLISH,"It feels like you've been here before, doesn't it? This is weird... but what can you do?","感觉你以前来过这里,不是吗? 这太奇怪了... 但你能怎么办?",像是来过，对吧？真古怪……可你能怎么办？
+english_events_maingame:L24610,blinddate_eotr,FIX,"Don't stop huddling. Huddle forever. This is your safe space from now on; your comfort zone. No one can hurt you while you huddle, right?","别停手了 永远抱住 从现在开始,这是你的安全空间,你的舒适地带 你走的时候没人能伤害你,对吧?",别散开，永远抱团。从今往后，这就是安全区、舒适圈。抱在一起，就没人能伤害你们，对吧？
+english_events_maingame:L24611,blinddate_eotr,FIX,Something something game show. Guessing stuff and cash prizes and whatever.,游戏节目 猜东西和现金奖等等。,什么什么竞猜节目，猜点东西，赢现金，随便吧。
+english_events_maingame:L24613,blinddate_eotr,FIX,(So this is your best idea? To just keep huddling?),(所以这是你最好的主意? ) 继续胡闹?,（这就是最好的主意？一直抱团？）
+english_events_maingame:L24614,blinddate_eotr,POLISH,(I don't know... something feels off. I don't think we're safe here. Do you hear that?),(不知何故. ) '. 感觉有点不对劲 我觉得我们在这里不安全 你听到了吗? ),（不知道……感觉不对，这儿不安全。听见了吗？）
+english_events_maingame:L24615,blinddate_eotr,FIX,(I don't hear anything.),(无所闻.,（什么都没听见。）
+english_events_maingame:L24616,blinddate_eotr,FIX,"(Exactly. Shortly after we started huddling, all the noise went away. Look.)","(正表. 刚开始插管,所有的噪音都消失了。 听着。",（对。刚一抱团，声音就全没了。看。）
+english_events_maingame:L24617,blinddate_eotr,FIX,You take a peek out of your huddle. Everyone is quietly looking at you.,你从你的袖口上偷看。 大家都在悄悄地看着你,你从人圈里探头看。所有人，正静静盯着你们。
+english_events_maingame:L24618,blinddate_eotr,FIX,"(I'm scared, Polly.)","(我害怕,我担心) 波莉.)",（波莉，我害怕。）
+english_events_maingame:L24619,blinddate_eotr,FIX,(Let's try to leave.),(试出出.,（试着走吧。）
+english_events_maingame:L24620,blinddate_eotr,FIX,You slowly walk to the door without undoing the huddle. People stare at you in silence.,"你慢慢走进门,却不把车站拉开。 人们静静地盯着你",你们仍抱作一团，慢慢挪向门口。人们默默注视着。
+english_events_maingame:L24621,blinddate_eotr,POLISH,"You try to open the door, but it's locked.","你试着打开门,但门锁了",想开门，可门锁了。
+english_events_maingame:L24622,blinddate_eotr,FIX,(Ugh. What's happening?!),U(出. 发生什么事了? ),（烦死了，怎么回事？！）
+english_events_maingame:L24623,blinddate_eotr,FIX,"(Hmmm... Usually before we leave any place, we solve a conflict that makes us gain and lose RESOURCES.)","(汉姆. 通常在我们离开任何地方之前,我们都会解决一场使我们获得和失去资源的冲突. ).",（嗯……平时离开前，总得解决点矛盾，再增减一些资源。）
+english_events_maingame:L24624,blinddate_eotr,POLISH,"(You might be onto something. Okay, let's go back to Mindy. She had a conflict that needed resolution.)","(你可能会在看什么) 好吧,让我们回到明迪。 她有一个冲突需要解决。 )",（有道理。好，回明蒂那儿，她正好有个待解决的矛盾。）
+english_events_maingame:L24625,blinddate_eotr,POLISH,You walk to Mindy.,你走去明蒂那里。,你们走向明蒂。
+english_events_maingame:L24626,blinddate_eotr,FIX,"(We need to forfeit a RESOURCE, though...)","(我们需要没收资源,虽然.)",（可我们得失去一项资源……）
+english_events_maingame:L24627,blinddate_eotr,KEEP,(...),(...),(...)
+english_events_maingame:L24628,blinddate_eotr,FIX,"(...I'm sorry, %CURRENTPLAYERNAME%.)",对不起 %CURRENTPLAYERNAME%.),（……对不起，%CURRENTPLAYERNAME%。）
+english_events_maingame:L24629,blinddate_eotr,FIX,Polly stabs you. She grabs some of your blood and splatters Mindy with it.,波莉 刺伤了你们。 她抓住了你的血液 并用它溅出明蒂。,波莉捅了你，沾起你的血，泼了明蒂一脸。
+english_events_maingame:L24630,blinddate_eotr,FIX,"HERE! YOU DON'T NEED NO MAN! YOU'RE STRONG BY YOURSELF! LOOK, FREE BLOOD! YOU'RE WELCOME! BYE!","这里! 你不需要男人! 不需要男人! 不需要男人,你不需要男人,你不需要男人,你不需要男人,你不需要男人,你不需要男人,你不需要男人,你不需要男人,你不需要男人,你不需要男人,你不需要男人 你被你自己强! 看,自由的血! 自由的血脉! 你欢迎! 再见!",给！你不需要男人！一个人照样坚强！看，免费鲜血！不客气！拜！
+english_events_maingame:L24631,blinddate_eotr,POLISH,"Mindy stares at you quietly, her face soaked in your blood.",明蒂悄悄地盯着你 她的脸被你的血浸透了,明蒂脸上浸满你的血，静静望着你们。
+english_events_maingame:L24632,blinddate_eotr,POLISH,The diner door opens slowly by itself.,餐厅的门自己慢慢打开,餐厅大门，缓缓自行打开。
+english_events_maingame:L24633,blinddate_eotr,POLISH,You run towards it as you bleed out. All of the people in the diner keep staring at you all. The silence is almost deafening.,你流血时朝它跑去 餐厅里的人都盯着你们 寂静几乎是震耳欲聋.,你一边流血，一边跑向门口。餐厅里的人，始终盯着你们，寂静震耳欲聋。
+english_events_maingame:L24634,blinddate_eotr,FIX,"Sorry, %CURRENTPLAYERNAME%. We had to forfeit a RESOURCE and I was out of ideas. You lost -N2 STAMINA, but we'll stitch you up back in the car!","对不起 %CURRENTPLAYERNAME%. 我们不得不失去资源 而我没有主意了 你输了 -N2 Stamina, 但我们会把你缝回车里去!",对不起，%CURRENTPLAYERNAME%。必须失去点资源，我也想不到别的办法。你失去了 -N2 体力，不过，回车上就帮你缝好！
+english_events_maingame:L24635,blinddate_eotr,FIX,You escape the diner before anything goes even more wrong. You gain +N2 SOUL for... helping Mindy?,你趁没有更错的时候 逃离餐厅 你得到+N2 苏尔... 帮明蒂?,你们趁事情还没变得更糟，逃出餐厅。获得了 +N2 灵魂，因为……帮了明蒂？
+english_events_maingame:L24639,blinddate_eotr,FIX,GAME SHOW?! GAME SHOW!!!,游戏表演 游戏表演!,竞猜节目？！竞猜节目！！！
+english_events_maingame:L24641,blinddate_eotr,KEEP,What's happening?,发生什么事了?,发生什么事了?
+english_events_maingame:L24642,blinddate_eotr,FIX,Shhhh! Game Show!,嘘! 游戏表演!,嘘！竞猜节目！
+english_events_maingame:L24643,blinddate_eotr,FIX,"New episode on ""Game Show Game Show Ernis Guessing Game Show Cash Prize!""","新一集""Game Show Game Show Ernis 猜想游戏 Show Cash Prize""!. 腾讯网.",《竞猜节目竞猜节目厄尼斯猜猜竞猜节目现金奖》，新一集！
+english_events_maingame:L24644,blinddate_eotr,POLISH,...What?,什麽?,……什么？
+english_events_maingame:L24645,blinddate_eotr,FIX,It's me! Celebrity Prince Bachelor Host! Very eligible! Very interdimensional!,"是我! ! ! ! 是我,我来了! 名人王子 学士主! 很有资格! 非常的相通 ! ! ! ! ! ! ! ! ! ! ! ! ! !",是我！名人王子单身汉主持！超优质对象！超跨次元！
+english_events_maingame:L24646,blinddate_eotr,KEEP,Something isn't right.,事情不对劲,事情不对劲
+english_events_maingame:L24647,blinddate_eotr,FIX,Contestant first: hairy blue baby eyes! Name?,初选者:毛发出血的蓝宝贝眼睛! 名字吗?,第一位选手，毛茸茸蓝色宝宝眼睛！姓名？
+english_events_maingame:L24648,blinddate_eotr,POLISH,I'm confused.,迷惑相见.,我不明白。
+english_events_maingame:L24649,blinddate_eotr,FIX,"Incorrect! Answer was ""Bachelor Celebrity Host Prince""! Disqualified much!","不对! 回答是""名人王子"" ! 被取消资格!",错！答案是“单身汉名人主持王子”！彻底淘汰！
+english_events_maingame:L24650,blinddate_eotr,KEEP,...,...,...
+english_events_maingame:L24651,blinddate_eotr,FIX,"Contestant second, ghost ghost! Question: ""Host Prince Bachelor Celebrity?""","竞技第二,鬼鬼! 问:""豪亲王学士名相""?",第二位选手，幽灵幽灵！问题：“主持王子单身汉名人？”
+english_events_maingame:L24652,blinddate_eotr,FIX,"Something's very wrong with the option you picked, %CURRENTPLAYERNAME%.",你选的选题有些不对劲 %CURRENTPLAYERNAME%.,%CURRENTPLAYERNAME%，你选的选项，很不对劲。
+english_events_maingame:L24653,blinddate_eotr,FIX,Correct not! [FAILURE NOISES].,"正确,没有!  [FAILURE NOISES].",正确，不！[失败音效]。
+english_events_maingame:L24654,blinddate_eotr,POLISH,"What's that noise? It's killing me! PLEASE, LET'S LEAVE.","是什么声音? 杀了我! 请,让我们离开。",什么声音？受不了了！求你们，快走吧。
+english_events_maingame:L24655,blinddate_eotr,FIX,"You leave today, but not forever. Now your cash becomes prize. Forfeit belongings.","你今天离开,但不是永远。 现在你的钱成了奖金了 被没收的财物。",今天离开，永远不行。现金现在变奖金，上交财物。
+english_events_maingame:L24656,blinddate_eotr,KEEP,"Sure, whatever. %CURRENTPLAYERNAME%, give him your wallet.","当然,随便了。  %CURRENTPLAYERNAME%把你的钱包给他","当然,随便了。  %CURRENTPLAYERNAME%把你的钱包给他"
+english_events_maingame:L24657,blinddate_eotr,FIX,You do. The Interdimensional Prince takes -N2 MONEY from you and gives it to Mindy while making horrible noises and yelling.,"你当然知道 You do. 跨维相克王子从你身上拿走了N2 MONEY, 并把它给明蒂,同时发出可怕的叫声和叫喊。",你照做了。跨次元王子一边尖叫、发出可怕的声音，一边收走 -N2 金钱，交给明蒂。
+english_events_maingame:L24658,blinddate_eotr,POLISH,Leaving is pointless. No mystery door will free you from this game. You're contestants forever! You'll be playing forever!,离开是毫无意义的。 没有神秘之门能让你摆脱这场游戏 你们永远是参赛者! 你会永远玩下去的!,离开毫无意义。神秘的门，也救不了你们。永远是选手，永远玩下去！
+english_events_maingame:L24659,blinddate_eotr,FIX,[FAILURE NOISES].,[FAILURE NOISES].,[失败音效]。
+english_events_maingame:L24661,blinddate_eotr,FIX,You leave before you lose it. You get  +N2 SOUL for at least trying to help Mindy. You hope she's okay.,汝当先去取取已. 你至少帮了明蒂 得到+N2 Suul 你希望她没事,崩溃之前，你们离开了。至少试着帮过明蒂，你获得了 +N2 灵魂。希望她没事。
+english_events_maingame:L24669,couplescounseling_eotr,FIX,"The couple who looks like they need couples therapy... from you, maybe?",看上去需要治疗的夫妇... 也许是因为你?,那对看着需要伴侣咨询的夫妇……也许你能帮忙？
+english_events_maingame:L24673,couplescounseling_eotr,POLISH,"You take a seat next to a highly unusual couple, though the way they're shouting, you could've sat anywhere and still overheard their conversation.","你坐在非常不寻常的一对夫妇旁边, 虽然他们这样叫, 你可以坐到任何地方, 仍然偷听他们的谈话。",你坐在一对很不寻常的夫妇旁边。不过，就他们这音量，坐哪儿都能听得一清二楚。
+english_events_maingame:L24675,couplescounseling_eotr,POLISH,"I'm just saying you've changed! You used to be such a sweet, thoughtful man. But that damned cult has made you insufferable!",我只是说你变了! 你以前是个温柔体贴的人 但那个该死的邪教让你不堪忍受!,我只是在说，你变了！以前多温柔、多体贴。可那个破邪教，让你变得无法忍受！
+english_events_maingame:L24677,couplescounseling_eotr,POLISH,"Ugh, you're just jealous of the Brotherhood of Mh'athra. You NEVER have anything nice to say about my new friends or hobbies.",你只是嫉妒Mh'athra兄弟会 关于我的新朋友或爱好 你从来就没有说过什么好话,你就是嫉妒 Mh'athra 兄弟会。我的新朋友、新爱好，你从来没一句好话。
+english_events_maingame:L24678,couplescounseling_eotr,FIX,[DEV NOTE /J/: Who are these people? I don't think players will click with them if they're just 2 random strangers].,DEV Note /J/:这些人是谁? 我觉得玩家不会和他们一起点击 如果他们只是两个随机的陌生人.,[开发备注 /J/：这俩谁啊？就是2个陌生人，玩家恐怕没法跟他们产生共鸣]。
+english_events_maingame:L24679,couplescounseling_eotr,FIX,[DEV NOTE /P/: Would it be better if we re-used a character from a previous game that hasn't appeared in this one yet?].,DEV Note /P/:我们是否最好从之前的游戏中重新使用一个还没有出现在这个游戏中的角色?.,[开发备注 /P/：不如用个前作角色，这作还没出现过的那种？]。
+english_events_maingame:L24680,couplescounseling_eotr,FIX,"[DEV NOTE /J/: Hmmm... that might work. Let's try the ""re-appearing character"" thing].","[DEV 注/J/:嗯... 可能有用 可能还用说 试""再出品""""再出品""之事"".",[开发备注 /J/：嗯……或许可行，试试“老角色回归”]。
+english_events_maingame:L24683,couplescounseling_eotr,POLISH,"You take a seat next to a highly unusual couple, though the way they're shouting, you could've sat anywhere and still overheard their conversation.","你坐在非常不寻常的一对夫妇旁边, 虽然他们这样叫, 你可以坐到任何地方, 仍然偷听他们的谈话。",你坐在一对很不寻常的夫妇旁边。不过，就他们这音量，坐哪儿都能听得一清二楚。
+english_events_maingame:L24685,couplescounseling_eotr,POLISH,"I'm just saying you've changed! You used to be such a sweet, thoughtful fairy. But lately you're always analyzing me. I'm your wife, not your patient!","我只是说你变了! 你以前是个可爱又体贴的仙子 但最近你总是分析我 我是你妻子,不是病人! ! ! ! 我是你妻子,不是病人!",我只是在说，你变了！以前是个多温柔体贴的仙子。最近却总分析我。我是你妻子，不是病人！
+english_events_maingame:L24687,couplescounseling_eotr,POLISH,Maybe the problem is that you started out as my patient. I should've known dating a patient wasn't okay.,也许问题是你一开始是作为我的病人 我早该知道跟病人约会不好吗,问题可能就在这里，你最初就是我的病人。我早该知道，不该跟病人约会。
+english_events_maingame:L24688,couplescounseling_eotr,FIX,[DEV NOTE /J/: No. This doesn't work. Norah was such a positive character. Players won't like it if we paint her in such a negative light].,"DEV 注/J/:号 这行不通的 诺拉是个积极人物 玩家不会喜欢它,如果我们画她 如此负面的光线。",[开发备注 /J/：不行。诺拉一直是正面角色，写得这么负面，玩家不会喜欢]。
+english_events_maingame:L24689,couplescounseling_eotr,FIX,"[DEV NOTE /P/: True. We could use a very minor character from this game instead, so players will be all ""a-ha!"" when they see them in a new cameo].","[DEV 注/P/:对。 我们可以用这个游戏中非常小的人物代替,所以玩家在新的相机中看到他们时,就会全部""a-ha!"".",[开发备注 /P/：也是。不如找个本作的小配角，再客串时，玩家就会“啊，原来是你！”]。
+english_events_maingame:L24690,couplescounseling_eotr,FIX,"[DEV NOTE /J/: Let's test that idea. People love ""a-ha!"" moments].","[DEV NOTE /J/: Let's test that idea. People love ""a-ha!"" moments].",[开发备注 /J/：试试。大家喜欢这种“啊哈”时刻]。
+english_events_maingame:L24693,couplescounseling_eotr,POLISH,"You take a seat next to a highly unusual couple, though the way they're shouting, you could've sat anywhere and still overheard their conversation.","你坐在非常不寻常的一对夫妇旁边, 虽然他们这样叫, 你可以坐到任何地方, 仍然偷听他们的谈话。",你坐在一对很不寻常的夫妇旁边。不过，就他们这音量，坐哪儿都能听得一清二楚。
+english_events_maingame:L24695,couplescounseling_eotr,POLISH,"I'm just saying you've changed! You used to be such a sweet, thoughtful husband. But lately you're always telling me how I'm supposed to do ""marriage"" right.",我只是说你变了! 你以前是个温柔有体贴的丈夫 但最近你总是告诉我 我该怎么结婚,我只是在说，你变了！以前多温柔体贴。可最近，你总教我该怎么“经营婚姻”。
+english_events_maingame:L24697,couplescounseling_eotr,POLISH,Marriage isn't a game with tutorials... and yet it feels like a game we're losing...,婚姻不是个有辅导的游戏... 但感觉就像我们输了一场游戏...,婚姻不是有教程的游戏……可又像一场，我们正在输的游戏……
+english_events_maingame:L24699,couplescounseling_eotr,POLISH,I keep telling you: we're losing because we're not managing our MARRIAGE RESOURCES wisely.,我不断告诉你:我们输了是因为我们没有明智地管理我们的婚姻资源。,一直在说，输是因为，没合理管理我们的婚姻资源。
+english_events_maingame:L24700,couplescounseling_eotr,FIX,"We need more MAGIC, darling! Our MAGIC is almost gone!","我们需要更多的MAGIC,亲爱的! 磁共振几乎不见了!",亲爱的，得多点魔力！我们的魔力都快耗光了！
+english_events_maingame:L24701,couplescounseling_eotr,FIX,"[DEV NOTE /P/: No, I regret this idea. It's too meta].","[DEV NOTE /P/: No, I regret this idea. It's too meta].",[开发备注 /P/：不行，后悔了。太爱玩打破第四面墙那套了]。
+english_events_maingame:L24702,couplescounseling_eotr,FIX,"[DEV NOTE /J/: True. Let's keep a note on ""MARRIAGE SURVIVAL GAME"", though. Also... I have an idea].","[DEV Note /J/: 正确。 保留""海洋生存游戏""的笔记吧 还有... 我有个主意",[开发备注 /J/：确实。不过把“婚姻生存游戏”这点子记下来。还有……我想到一个]。
+english_events_maingame:L24705,couplescounseling_eotr,POLISH,"You take a seat next to a highly unusual couple, though the way they're shouting, you could've sat anywhere and still overheard their conversation.","你坐在非常不寻常的一对夫妇旁边, 虽然他们这样叫, 你可以坐到任何地方, 仍然偷听他们的谈话。",你坐在一对很不寻常的夫妇旁边。不过，就他们这音量，坐哪儿都能听得一清二楚。
+english_events_maingame:L24707,couplescounseling_eotr,POLISH,"I'm just saying you've changed! You used to be such a sweet, thoughtful husband. But lately your life seems to be all about soups, and not about this marriage...",我只是说你变了! 你以前是个温柔有体贴的丈夫 但最近你的生活似乎都跟汤有关 而不是跟这段婚姻有关,我只是在说，你变了！以前多温柔体贴。可最近，你满脑子只有汤，都没有这段婚姻了……
+english_events_maingame:L24708,couplescounseling_eotr,FIX,SOOOOOOOOOOOOOUPS!,如此呜呼!,汤——！
+english_events_maingame:L24709,couplescounseling_eotr,FIX,"[DEV NOTE /J/: No, I don't know what I was thinking].","[DEV NOTE /J/: No, I don't know what I was thinking].",[开发备注 /J/：不行，不知道刚才在想什么]。
+english_events_maingame:L24710,couplescounseling_eotr,FIX,[DEV NOTE /P/: Writing games is so hard. If only there was a way to know what the players REALLY want] ...,[DEV Note /P/:写游戏如此难. 如果有办法知道 玩家真正想要的...,[开发备注 /P/：写游戏好难。要是能知道，玩家真正想要什么就好了]……
+english_events_maingame:L24711,couplescounseling_eotr,FIX,"Keep the cultist husband, but with a mind-blowing twist: it turns out he was a bear in disguise!","保留邪教的丈夫,但有一个令人心碎的曲折:事实证明他是一个伪装出来的熊!",保留邪教徒丈夫，加个震撼转折：原来，他是熊假扮的！
+english_events_maingame:L24712,couplescounseling_eotr,FIX,Liam,利亚姆,李姆
+english_events_maingame:L24716,couplescounseling_eotr,POLISH,"You take a seat next to a highly unusual couple, though the way they're shouting, you could've sat anywhere and still overheard their conversation.","你坐在非常不寻常的一对夫妇旁边, 虽然他们这样叫, 你可以坐到任何地方, 仍然偷听他们的谈话。",你坐在一对很不寻常的夫妇旁边。不过，就他们这音量，坐哪儿都能听得一清二楚。
+english_events_maingame:L24718,couplescounseling_eotr,POLISH,"I'm just saying you've changed! You used to be such a sweet, thoughtful husband. But lately, you've been acting different...",我只是说你变了! 你以前是个温柔有体贴的丈夫 但最近你表现的不一样...,我只是在说，你变了！以前多温柔体贴。可最近，你的行为总怪怪的……
+english_events_maingame:L24720,couplescounseling_eotr,POLISH,"...with all the roaring, and the honey-eating, and sleeping for entire months at a time.","...带着所有的咆哮, 吃取蜂蜜, 和睡眠整整几个月一次。",……又是吼叫，又是吃蜂蜜，一睡就是几个月。
+english_events_maingame:L24722,couplescounseling_eotr,POLISH,Something's not working! What is it? Are you... having an affair?,东西不起作用! 这是什么? 你是... 有过外遇吗?,肯定哪儿不对！到底怎么了？你……出轨了？
+english_events_maingame:L24723,couplescounseling_eotr,KEEP,...,...,...
+english_events_maingame:L24725,couplescounseling_eotr,FIX,ROARRRRRRR!,蓝宝石!,吼——！
+english_events_maingame:L24727,couplescounseling_eotr,POLISH,A bear?!,一只熊吗?,熊？！
+english_events_maingame:L24731,couplescounseling_eotr,FIX,"Remember, kids: this is why you always need to be alert in case of a bear attack.","记住,孩子们,这就是为什么你们总是需要警惕熊被袭击的原因。",记住，孩子们，这就是为什么，要时刻提防熊袭击。
+english_events_maingame:L24732,couplescounseling_eotr,FIX,Bears can be hiding in plain sight! They can even marry you in order to get you while your guard is down!,熊可以躲在眼前的光芒下! 他们甚至可以嫁给你 让你的戒备被打倒!,熊会藏在你眼皮底下！甚至跟你结婚，就为趁你放松戒备，突然下手！
+english_events_maingame:L24733,couplescounseling_eotr,FIX,"[DEV NOTE /P/: I don't know about this. The whole ""Bears Hiding Everywhere"" feels a bit tired by now].","[DEV Note /P/:我不知道这一点。 整个""熊藏到任何地方"" 感觉有点累现在。",[开发备注 /P/：不好说。“熊无处不在”这梗，好像已经玩腻了]。
+english_events_maingame:L24734,couplescounseling_eotr,FIX,[DEV NOTE /J/: Fuck it. Let's just do the cultist and call it a day. We can even name-drop Mh'athra to add to the worldbuilding].,[DEV Note /J/:去它的。 便作邪教道行相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相 我们甚至可以把Mh'athra的名字放进世界建设中,[开发备注 /J/：去他的，就邪教徒吧，收工。再提提 Mh'athra，补充点世界观]。
+english_events_maingame:L24738,couplescounseling_eotr,POLISH,"You take a seat next to a highly unusual couple, though the way they're shouting, you could've sat anywhere and still overheard their conversation.","你坐在非常不寻常的一对夫妇旁边, 虽然他们这样叫, 你可以坐到任何地方, 仍然偷听他们的谈话。",你坐在一对很不寻常的夫妇旁边。不过，就他们这音量，坐哪儿都能听得一清二楚。
+english_events_maingame:L24740,couplescounseling_eotr,POLISH,"I'm just saying you've changed! You used to be such a sweet, thoughtful man. But that damned cult has made you insufferable!",我只是说你变了! 你以前是个温柔体贴的人 但那个该死的邪教让你不堪忍受!,我只是在说，你变了！以前多温柔、多体贴。可那个破邪教，让你变得无法忍受！
+english_events_maingame:L24742,couplescounseling_eotr,POLISH,"Ugh, you're just jealous of the Brotherhood of Mh'athra. You NEVER have anything nice to say about my new friends or hobbies.",你只是嫉妒Mh'athra兄弟会 关于我的新朋友或爱好 你从来就没有说过什么好话,你就是嫉妒 Mh'athra 兄弟会。我的新朋友、新爱好，你从来没一句好话。
+english_events_maingame:L24743,couplescounseling_eotr,FIX,This event has been narrated too many times by now. You know how it goes.,这件事情已经被描述过太多次了 你知道怎么走的 说吧,这事件讲太多遍了，套路你都懂。
+english_events_maingame:L24744,couplescounseling_eotr,FIX,Get the +N2 SOUL from helping the couple or the devs or whatever; lose -N2 MIND because the bear twist was mind-blowing.,"获得+N2 SOUL从帮助夫妇或devs或别的; 输-N2 MIND,因为熊扭动是心跳.",帮了这对夫妇，或开发者，随便谁，获得 +N2 灵魂。熊的转折震撼到脑子，失去 -N2 头脑。
+english_events_maingame:L24745,couplescounseling_eotr,KEEP,Let's move on.,继续前进吧,继续前进吧
+english_events_maingame:L24749,couplescounseling_eotr,POLISH,"You take a seat next to a highly unusual couple, though the way they're shouting, you could've sat anywhere and still overheard their conversation.","你坐在非常不寻常的一对夫妇旁边, 虽然他们这样叫, 你可以坐到任何地方, 仍然偷听他们的谈话。",你坐在一对很不寻常的夫妇旁边。不过，就他们这音量，坐哪儿都能听得一清二楚。
+english_events_maingame:L24751,couplescounseling_eotr,FIX,"I'm just saying you've changed! You used to be such a sweet, thoughtful husband. But lately, you've been more like... Liam.",我只是说你变了! 你以前是个温柔有体贴的丈夫 但最近你更喜欢...  利亚姆.,我只是在说，你变了！以前多温柔体贴。可最近，你越来越像……李姆。
+english_events_maingame:L24752,couplescounseling_eotr,FIX,I am Liam.,没错 利亚姆.,我就是李姆。
+english_events_maingame:L24754,couplescounseling_eotr,POLISH,"I know, it's just... I have the feeling you used to be different, didn't you?","我知道,这只是... 我有一种感觉,你以前是不同的,不是吗?",我知道，可……总觉得，你以前不是这样，对吧？
+english_events_maingame:L24755,couplescounseling_eotr,FIX,I've been Liam for more than four centuries.,我去过 利亚姆 四个多世纪了,我当李姆，已经四百多年了。
+english_events_maingame:L24757,couplescounseling_eotr,POLISH,No. I mean... Do you remember the day we got married?,没有。 我是说... 你还记得我们结婚那天吗?,不是，我是说……还记得咱们结婚那天吗？
+english_events_maingame:L24759,couplescounseling_eotr,FIX,How could I forget it? That day was...,"我怎么会忘记呢? 那天是... 那天,我和他在一起的时候",怎么可能忘？那一天……
+english_events_maingame:L24761,couplescounseling_eotr,KEEP,...,...,...
+english_events_maingame:L24763,couplescounseling_eotr,FIX,...this is strange. I'm drawing a blank... on the day of our wedding?,很奇怪 简直是... 我画的空白... 婚礼那天?,……奇怪。婚礼那天……竟一片空白？
+english_events_maingame:L24764,couplescounseling_eotr,POLISH,"That's my point! There's something really weird going on here. I know you're my husband, but I have no recollection of anything else before today.",这就是我的观点! 这儿有些怪事 我知道你是我丈夫 但我今天之前没有其他记忆,就是这个！事情太怪了。知道你是我丈夫，可今天之前，什么都想不起来。
+english_events_maingame:L24765,couplescounseling_eotr,FIX,"[DEV NOTE /P/: A sort of meta-narrative? I don't know, we've done this ""the characters realize they're fictional"" thing before].","DEV 注/P/:一种元词? 我不知道,我们做了这个""角色意识到自己是虚构的""的事情之前.",[开发备注 /P/：搞点元叙事？不知道，“角色发现自己是虚构的”以前做过了]。
+english_events_maingame:L24766,couplescounseling_eotr,FIX,"[DEV NOTE /J/: You're right, but I still believe it's something worth exploring further].","DEV Note /J/:你说得对,但我仍然相信这是值得进一步探索的..",[开发备注 /J/：是啊，可我还是觉得值得深挖]。
+english_events_maingame:L24767,couplescounseling_eotr,FIX,"[DEV NOTE /J/: Repeating the whole ""meta"" take several times but exploring it differently each time is sort of meta in its own way].","DEV Note /J/:重复整个""meta""需要多次,但每次探索不同,都是以自己的方式排序的元.",[开发备注 /J/：反复做“元叙事”，每次换种角度，也算另一种元叙事吧]。
+english_events_maingame:L24768,couplescounseling_eotr,FIX,"[DEV NOTE /P/: I get your point, but I'm not sure whether the audience will still feel intrigued by it or find it a bit tired].","DEV Note /P/:我理解你的观点,但我不知道观众是否会对它感到好奇,或者觉得它有点疲劳.",[开发备注 /P/：懂，可观众还会感兴趣，还是觉得腻了，我不确定]。
+english_events_maingame:L24769,couplescounseling_eotr,FIX,[DEV NOTE /J/: You might be right. Let's just do the cultist and call it a day. We can even name-drop Mh'athra to add to the worldbuilding].,[DEV Note /J/:你可能是对的. 便作邪教道行相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相 我们甚至可以把Mh'athra的名字放进世界建设中,[开发备注 /J/：可能你对。就邪教徒吧，收工。再提提 Mh'athra，补充点世界观]。
+english_events_maingame:L24772,couplescounseling_eotr,POLISH,"You take a seat next to a highly unusual couple, though the way they're shouting, you could've sat anywhere and still overheard their conversation.","你坐在非常不寻常的一对夫妇旁边, 虽然他们这样叫, 你可以坐到任何地方, 仍然偷听他们的谈话。",你坐在一对很不寻常的夫妇旁边。不过，就他们这音量，坐哪儿都能听得一清二楚。
+english_events_maingame:L24774,couplescounseling_eotr,POLISH,"I'm just saying you've changed! You used to be such a sweet, thoughtful man. But that damned cult has made you insufferable!",我只是说你变了! 你以前是个温柔体贴的人 但那个该死的邪教让你不堪忍受!,我只是在说，你变了！以前多温柔、多体贴。可那个破邪教，让你变得无法忍受！
+english_events_maingame:L24776,couplescounseling_eotr,POLISH,"Ugh, you're just jealous of the Brotherhood of Mh'athra. You NEVER have anything nice to say about my new friends or hobbies.",你只是嫉妒Mh'athra兄弟会 关于我的新朋友或爱好 你从来就没有说过什么好话,你就是嫉妒 Mh'athra 兄弟会。我的新朋友、新爱好，你从来没一句好话。
+english_events_maingame:L24777,couplescounseling_eotr,FIX,This event has been narrated too many times by now. You know how it goes.,这件事情已经被描述过太多次了 你知道怎么走的 说吧,这事件讲太多遍了，套路你都懂。
+english_events_maingame:L24778,couplescounseling_eotr,FIX,Get the +N2 SOUL from helping the couple or the devs or whatever; lose -N2 HYPE because Liam's whole schtick is that he makes you lose HYPE.,获得+N2 SOUL 从帮助夫妇或devs或任何东西; 丢失 - N2 HYPE 因为 利亚姆他让你失去HYPE,帮了这对夫妇，或开发者，随便谁，获得 +N2 灵魂。失去 -N2 热度，因为李姆的招牌本事，就是让你掉热度。
+english_events_maingame:L24779,couplescounseling_eotr,KEEP,Let's move on.,继续前进吧,继续前进吧
+english_events_maingame:L24788,myore_eotr,KEEP,Look for ore,寻找矿石,寻找矿石
+english_events_maingame:L24791,myore_eotr,KEEP,Time to make some money! You and your friends go into the cave to mine for ore.,是时候赚钱了! 你和你的朋友去洞穴取矿,是时候赚钱了! 你和你的朋友去洞穴取矿
+english_events_maingame:L24793,myore_eotr,FIX,"After an hour of walking and mining, you've got a decent pile of precious metals when you hear a voice cry out:","步行和采矿一个小时后,听到声音叫喊时,你得到了一堆体面的贵金属:",走了挖了一个小时，刚攒下一堆贵金属，就听见一声大喊：
+english_events_maingame:L24794,myore_eotr,FIX,HEY! YOU KIDS LEAVE MY ORE ALONE!,哎哟! 你们这些孩子离开我的奥利独自一人!,喂！你们几个，别动我的矿石！
+english_events_maingame:L24795,myore_eotr,FIX,"YOU'RE ALWAYS ALL UP IN MY BIZNIZ, TAKING ALL MY ORE! WHEN WILL IT STOP?!","你总是在我的比兹, 拖走我的所有奥利! 什么时候它会停止!",整天掺和我的事，把矿石全拿走，到底有完没完？！
+english_events_maingame:L24797,myore_eotr,POLISH,What are you talking about? This is the first time we've looked for ore in these caves. We don't even know who you are.,你在说什么? 这是第一次我们寻找这些洞穴中的矿石. 我们甚至不知道你是谁,说什么呢？我们第一次来这儿挖矿，连你是谁都不知道。
+english_events_maingame:L24798,myore_eotr,FIX,Is this some sort of sophistimicated city-people joke?!,这是某种 城市和人之间的笑话吗?,这是你们城里人，啥高深的玩笑？！
+english_events_maingame:L24799,myore_eotr,POLISH,"You come here over and over again, always either taking my ore or tricking me into giving my precious ore up.","你一次又一次地来到这里, 要么拿我的矿石,要么骗我 把我的珍贵矿石。",你们一次又一次来，不是抢矿，就是骗我交出心爱的矿石。
+english_events_maingame:L24800,myore_eotr,FIX,"WHY?! Why do you keep coming? Is this some sort of game for you? An ""ore-theft"" game?!",为什么? 你为什么一直来? 这是给你的游戏吗? 偷盗游戏?,为什么？！老来干什么？当这是游戏？“偷矿石游戏”？！
+english_events_maingame:L24801,myore_eotr,KEEP,Who would play a game about stealing ore?,谁会玩偷矿石的游戏?,谁会玩偷矿石的游戏?
+english_events_maingame:L24802,myore_eotr,FIX,"YOU, APPARENTLY!","你,显然!",显然是你们！
+english_events_maingame:L24803,myore_eotr,POLISH,I'm losing my mind. These last few months have been like some sort of dreadful purgatory... an endless loop where I'm forced to forfeit my beloved belongings countless times...,心生失意. 这几个月来就像 某种可怕的炼狱... 无数次我不得不失去我爱的财物...,我快疯了。这几个月，像被困在可怕的炼狱……没完没了地循环，被迫交出心爱的东西，一次又一次……
+english_events_maingame:L24804,myore_eotr,POLISH,What did I do to deserve this hellish torture? Is it punishment for all those people I murdered years ago?!,我做了什么来受这种可怕的折磨? 惩罚我多年前杀过的人吗?,我做错什么，要遭这种地狱折磨？难道在罚我，多年前杀过那么多人？！
+english_events_maingame:L24805,myore_eotr,KEEP,...What did you just say?,...你刚才说什么?,...你刚才说什么?
+english_events_maingame:L24806,myore_eotr,FIX,NO! I won't hear any more of your ploys and ruses to make me give you my ore!,没有! 我不会再听你的伎俩和鲁斯 让我把我的矿石给你了!,不！别再耍花招，休想让我把矿石交出来！
+english_events_maingame:L24807,myore_eotr,FIX,"No more hearing stupid ""lore""; no more free therapy sessions; no more taxi licenses; nooooooooooo!","不再听到愚蠢的""放荡"";不再免费治疗;不再有出租车执照;再不听!",不听什么蠢“背景故事”，不做免费心理咨询，不要出租车执照！再也不要！
+english_events_maingame:L24808,myore_eotr,POLISH,"Polly, this bro sounds a bit... dangerous. I think we should leave.",波莉这兄弟听起来有点... 危险 我想我们该走了,波莉，这兄弟有点……危险。要不走吧。
+english_events_maingame:L24809,myore_eotr,POLISH,"I sort of agree, Scott; but I feel like we need to get this ore. It's like... the goal of this conflict, if that makes sense.","我有点同意, 斯科特但我觉得我们得找到这矿石 这就像... 如果有道理的话,冲突的目标。",我也这么想，斯科特。可又觉得，非得弄到矿石。这场矛盾的……目标就是这个，懂吧。
+english_events_maingame:L24810,myore_eotr,KEEP,"%CURRENTPLAYERNAME%, any ideas?",%CURRENTPLAYERNAME%有什么想法吗?,%CURRENTPLAYERNAME%有什么想法吗?
+english_events_maingame:L24811,myore_eotr,FIX,"Choose no option at all. Let this poor soul keep his ore for once and break this whole ""ACTION; CONFLICT; OPTIONS; OUTCOME"" loop that defines your existence.",选择完全没有选项 。 让这个可怜的灵魂永远保留他的矿石 打破这个决定你存在的“ACTION;CONFLICT; 选项;结果”循环。,什么选项都不选，让这可怜人，难得留住自己的矿。打破那定义你存在的“行动、冲突、选项、结果”循环。
+english_events_maingame:L24812,myore_eotr,KEEP,Taxi license: it always works.,出租车牌照:总是有效的.,出租车牌照:总是有效的.
+english_events_maingame:L24814,myore_eotr,POLISH,Maybe we should... just leave.,也许我们应该... 离开吧,要不……直接走吧。
+english_events_maingame:L24815,myore_eotr,POLISH,...What?,什麽?,……什么？
+english_events_maingame:L24816,myore_eotr,FIX,I don't know. Choosing no option just doesn't feel right.,师曰. 选择任何选择都无法正确,不知道，不选选项，总觉得不对。
+english_events_maingame:L24817,myore_eotr,POLISH,But endlessly punishing this weirdo does?,但无休止地惩罚这个怪人?,那没完没了折磨他，就对了？
+english_events_maingame:L24818,myore_eotr,KEEP,"%CURRENTPLAYERNAME% is right, Polly.",%CURRENTPLAYERNAME% 说对了 波莉.,%CURRENTPLAYERNAME% 说对了 波莉.
+english_events_maingame:L24819,myore_eotr,FIX,"Sometimes... sometimes I feel like we do stuff that's wrong just because we need to ""choose an option.""","有的时候... 有时候我觉得我们做错事 只是因为我们需要""选择一个选择""",有时候……我们好像只因为要“选个选项”，就去做错事。
+english_events_maingame:L24820,myore_eotr,POLISH,I... I wish we could... just for once... choose no option and avoid messing with things.,"我…… 我希望我们能... 就这一次... 选择没有选择,并避免乱搞。",我……希望哪怕就这一次，也能什么都不选，不把事情搞砸。
+english_events_maingame:L24821,myore_eotr,POLISH,"We... we'll leave, okay? You can keep your ore.",我们... 我们离开 好吗? 你可以留着你的矿石。,我们……走了，好吗？矿石你留着。
+english_events_maingame:L24822,myore_eotr,KEEP,...Really?,...真的吗?,...真的吗?
+english_events_maingame:L24823,myore_eotr,KEEP,...,...,...
+english_events_maingame:L24824,myore_eotr,FIX,"...It's all a ruse, isn't it? This never ends. You leave today. But soon... soon you'll be here again, offering lore or therapy in exchange for my ore.",".这都是个花招,不是吗? 这事没完没了 汝今出离. 师曰. 但是很快... ... . . 很快你又来了 提供洛尔或治疗 以换取我的矿石",……又是骗我，对吧？没完没了。今天走了，很快，又回来，拿背景故事、心理咨询，换我的矿。
+english_events_maingame:L24825,myore_eotr,KEEP,It never ends... it never ends...,永无止境... 永无止境...,永无止境... 永无止境...
+english_events_maingame:L24827,myore_eotr,POLISH,"I think we should leave now, guys...","我想我们现在该走了,伙计们...",各位，我觉得该走了……
+english_events_maingame:L24828,myore_eotr,FIX,You leave the cave with no ore. You lose -N2 HYPE from choosing to do nothing...,你离开洞穴时没有矿石. 你选择什么都不做就输了N2 HYPE...,你们空手离开洞穴，什么都没做，失去了 -N2 热度……
+english_events_maingame:L24829,myore_eotr,FIX,...but you gain +N2 SOUL for bending your option-choosing nature just to avoid messing with this ore guy.,"...但你因为弯曲你的选择性而得到+N2 SOUL, 只是为了避免和这个矿石家伙搞乱.",……不过，为了不再折腾这个矿石老兄，你克制了非选不可的天性，获得了 +N2 灵魂。
+english_events_maingame:L24832,myore_eotr,FIX,You buy a taxi license from that one website that sells them for really cheap. It's just -N2 MONEY!,你从那个网站买到出租车执照 卖得便宜 只是N2钱!,你上那个廉价卖出租车执照的网站，买了一张，只花 -N2 金钱！
+english_events_maingame:L24833,myore_eotr,POLISH,"Getting a taxi license is so easy, it should be illegal!","获得出租车牌照太容易了,应该违法的!",出租车执照这么好弄，简直该算违法！
+english_events_maingame:L24834,myore_eotr,FIX,"(It probably is illegal to get a taxi license THIS WAY, now that you think about it.)","可能非法获得出租车执照,",（仔细想想，用这种办法弄执照，大概确实违法。）
+english_events_maingame:L24835,myore_eotr,FIX,You give the taxi license to the ore guy.,你给那个矿工的出租车执照,你把出租车执照，递给矿石老兄。
+english_events_maingame:L24836,myore_eotr,FIX,"You lose the MONEY, and you get ore which gives you MONEY... wait, no, it can't give the same RESOURCE it takes...","你失去钱,你得到矿石 让你得到钱... 等等,不,它不能给 同样的资源它需要...",失去金钱，得到矿石，矿石又给你金钱……等等，不行，不能拿什么资源，又给什么资源……
+english_events_maingame:L24837,myore_eotr,FIX,"No, no, it gives you +N2 MAGIC! Because this ore is magic ore!","不,不,它给你+N2 MAGIC! 因为这个矿石是魔法矿石!",不不，给的是 +N2 魔力！因为，这是魔法矿石！
+english_events_maingame:L24838,myore_eotr,FIX,"(Phew, that was close.)","(Phew,那很接近了) (Phew, that was close.",（呼，差点穿帮。）
+english_events_maingame:L24839,myore_eotr,FIX,"NO, NOT THE TAXI LICENSE!","不,不是塔西的无声!",不！别又是出租车执照！
+english_events_maingame:L24840,myore_eotr,POLISH,Leave my ore alone! No! I don't want to cut into that weird movie trailer thing!,别管我的矿石了! 没有! 我不想被剪入那个奇怪的电影拖车里!,别碰我的矿！不！我不想再切到，那个古怪的电影预告片！
+english_events_maingame:L24841,myore_eotr,FIX,It's a living nightmare. Why does my life suddenly cut to some sort of taxi-related plot?,活生生地作恶梦. 为什么我的生活突然 切到某种 出租车相关的情节?,活像噩梦。为什么人生会突然切换成，某种出租车剧情？
+english_events_maingame:L24842,myore_eotr,POLISH,"I don't get it. it's confusing... it's not fun... please, no...",岂能通取. 让人困惑... 一点都不好玩... 请不要...,不懂……好乱……一点也不好玩……求你，别……
+english_events_maingame:L24844,myore_eotr,POLISH,"""Man, we've been lost in these caves for hours. If only there was a clear way out...""","""伙计,我们迷路了好几个小时"" 有一条明确的出路就好了...""",“在这洞里迷路好几个小时了，要是有条明确的出路就好了……”
+english_events_maingame:L24846,myore_eotr,FIX,"""Look! It's a taxi!""","""看来! 是计程车!""",“看，有出租车！”
+english_events_maingame:L24848,myore_eotr,POLISH,"""Whoa! This is a lifesaver. Can you drive us to the nearest exit?""","""哇! Who! 这是救生员 你能载我们到最近的出口吗?""",“哇，救命了！能载我们去最近的出口吗？”
+english_events_maingame:L24849,myore_eotr,FIX,Do you have some ORE?!,你有ORE吗?,你们有矿石吗？！
+english_events_maingame:L24850,myore_eotr,FIX,"""Uh... no. Do you take credit cards?""","""U. 没有。 你拿信用卡吗?""",“呃……没。刷卡行吗？”
+english_events_maingame:L24851,myore_eotr,KEEP,...I guess.,应该是吧,应该是吧
+english_events_maingame:L24852,myore_eotr,FIX,"""Man, driving a taxi in a cave? How did you end up in this line of work? It's so disruptive!""","""男人,驾驶出租车在洞? 你怎么在这行里? 简直是太干扰了!""",“洞里开出租车？怎么干上这行的？也太颠覆传统了！”
+english_events_maingame:L24853,myore_eotr,POLISH,Some rascals forced me into it in exchange for my ore. Now this is my life... my punishment... forever.,一些流氓逼我拿来换取我的矿石 现在这是我的人生... 我的惩罚... 永远,几个混蛋，拿它来换我的矿，逼我干的。现在，这就是我的生活……我的惩罚……永远。
+english_events_maingame:L24854,myore_eotr,POLISH,"""Whoa, bummer... can you turn the radio on? Thanks.""","""哇,无聊... 你能打开收音机吗? 谢谢""。",“哇，真惨……能开个收音机吗？谢谢。”
+english_events_maingame:L24856,myore_eotr,POLISH,Ore was his favorite thing in the world... until someone made him an offer he couldn't refuse.,奥雷是他在世界上最喜欢的东西... 直到有人给他一个他不能拒绝的报价,矿石，本是他最爱的东西……直到有人，开出了无法拒绝的条件。
+english_events_maingame:L24857,myore_eotr,POLISH,"Now he drives the dark streets of the caves, reminiscing about the good ol' times, when life was simpler and full of ore.","现在他驱动着洞穴的黑暗街道,回忆起美好的""尔""时代,当时的生活更加简单而充满了矿石.",如今，他驶过洞穴的黑暗街道，追忆从前：生活简单，矿石满满。
+english_events_maingame:L24858,myore_eotr,POLISH,For he is now trapped in...,他现在被困在...,因为，他如今被困在……
+english_events_maingame:L24860,myore_eotr,FIX,"""TAXI PURGATORY: You Just Can't Say 'No' to a Taxi License""; coming soon to a theater near you!","""TAXI 追逐:你只是不能对出租车牌照说‘不';很快会来到你附近的剧院!",《出租车炼狱：没人能对出租车执照说“不”》，即将在您附近的影院上映！

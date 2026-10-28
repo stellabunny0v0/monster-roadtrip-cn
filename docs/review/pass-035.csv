@@ -1,0 +1,95 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_pitstop:L1613,pitstop_passenger_loveanother_polly_1,KEEP,"Oh, shit... hey there, Sentient Stack of Pancakes. Am I having that nightmare where you try to eat me again?",卧槽……你好啊，会说话的煎饼塔。我又做那个你要吃掉我的噩梦了？,卧槽……你好啊，会说话的煎饼塔。我又做那个你要吃掉我的噩梦了？
+english_events_pitstop:L1614,pitstop_passenger_loveanother_polly_1,KEEP,"What? No. It's me, %CURRENTPLAYERNAME%.",啥？没有。是我，%CURRENTPLAYERNAME%。,啥？没有。是我，%CURRENTPLAYERNAME%。
+english_events_pitstop:L1616,pitstop_passenger_loveanother_polly_1,KEEP,"Ohhh, yeah, that makes a lot more sense. The things you see while you're high!",哦哦，对，这就合理多了。嗨起来时真是什么都看得见！,哦哦，对，这就合理多了。嗨起来时真是什么都看得见！
+english_events_pitstop:L1618,pitstop_passenger_loveanother_polly_1,KEEP,"Ohhh, yeah, that makes a lot more sense. The things you see while you're on super shrooms!",哦哦，对，这就合理多了。超级蘑菇嗑起来，真是什么都看得见！,哦哦，对，这就合理多了。超级蘑菇嗑起来，真是什么都看得见！
+english_events_pitstop:L1619,pitstop_passenger_loveanother_polly_1,KEEP,"Anyway, no offense, but could you give me some space? I'm having a WEIRD trip tonight, and being around you is only making it more stressful for some reason.",总之，无意冒犯，能让我自己待会儿吗？我今晚这趟幻觉之旅特别诡异，不知道为什么，你在旁边只会让我更紧张。,总之，无意冒犯，能让我自己待会儿吗？我今晚这趟幻觉之旅特别诡异，不知道为什么，你在旁边只会让我更紧张。
+english_events_pitstop:L1621,pitstop_passenger_loveanother_polly_1,KEEP,"Aw, okay... you spend the night alone, hearing Polly laugh to herself and talk to her hallucinations.",唉，好吧……你独自过了一夜，只听见波莉在那边自顾自地笑，还跟幻觉聊个不停。,唉，好吧……你独自过了一夜，只听见波莉在那边自顾自地笑，还跟幻觉聊个不停。
+english_events_pitstop:L1626,pitstop_passenger_loveanother_polly_2,KEEP,"Oh, hey %CURRENTPLAYERNAME%. Everything okay?",哦，嘿，%CURRENTPLAYERNAME%。你还好吗？,哦，嘿，%CURRENTPLAYERNAME%。你还好吗？
+english_events_pitstop:L1627,pitstop_passenger_loveanother_polly_2,KEEP,"It's about to be, 'cause it's time to PAR-TAY with my favorite ghost!",马上就好，因为我要跟最爱的幽灵开——趴——啦！,马上就好，因为我要跟最爱的幽灵开——趴——啦！
+english_events_pitstop:L1628,pitstop_passenger_loveanother_polly_2,KEEP,"Eh... sorry, boo, but I'm really not in the mood to party tonight.",呃……抱歉啊，宝，可我今晚真没心情开趴。,呃……抱歉啊，宝，可我今晚真没心情开趴。
+english_events_pitstop:L1629,pitstop_passenger_loveanother_polly_2,KEEP,WHAT?! Who are you and what have you done with Polly?!,什么？！你是谁？你把波莉怎么了？！,什么？！你是谁？你把波莉怎么了？！
+english_events_pitstop:L1630,pitstop_passenger_loveanother_polly_2,KEEP,"Hey, I don't party ALL the time. I contain multitudes, y'know!",嘿，我也不是一天到晚都在开趴好吧。我可是很多面的，懂？,嘿，我也不是一天到晚都在开趴好吧。我可是很多面的，懂？
+english_events_pitstop:L1631,pitstop_passenger_loveanother_polly_2,KEEP,"I was actually gonna spend the night catching up on some reading. If you wanna be loud and reductionist, go do it somewhere else.",我本来想今晚补补阅读。你要继续吵吵嚷嚷，还非把我看得这么扁平，就去别处闹。,我本来想今晚补补阅读。你要继续吵吵嚷嚷，还非把我看得这么扁平，就去别处闹。
+english_events_pitstop:L1636,pitstop_passenger_loveanother_scott_1,POLISH,"What's up, %CURRENTPLAYERNAME%?",怎么样? %CURRENTPLAYERNAME%?,嘿，%CURRENTPLAYERNAME%，怎么啦？
+english_events_pitstop:L1637,pitstop_passenger_loveanother_scott_1,FIX,"You wanna hang out? Eh, sorry, I'm too hungry to hang out tonight.","你想出去玩吗? 对不起,我太饿了 今晚不挂了。",你想找我玩？呃，抱歉，我今晚太饿了，没法陪你玩。
+english_events_pitstop:L1638,pitstop_passenger_loveanother_scott_1,POLISH,"Oh... well, we could eat something together. Maybe a milkshake with two straws?",哦... 我们可以一起吃点东西 也许奶昔 有两根吸管?,哦……那我们可以一起吃点东西呀。比如一杯奶昔，插两根吸管？
+english_events_pitstop:L1639,pitstop_passenger_loveanother_scott_1,FIX,"Nah, I'd better go at this alone. I'm really craving some raw carrion, and no offense, but I don't think you could keep up with a running deer.","不,我最好一个人去 我真的很想吃些生肉 无意冒犯 但我觉得你跟不上鹿的脚步",不了，我还是自己去吧。我现在特别想吃生腐肉。无意冒犯，但我觉得你追不上奔跑的鹿。
+english_events_pitstop:L1640,pitstop_passenger_loveanother_scott_1,KEEP,Wish me luck!,祝我好运!,祝我好运!
+english_events_pitstop:L1642,pitstop_passenger_loveanother_scott_1,FIX,Dang... looks like you're having a milkshake-with-two-straws for one tonight. Truly the loneliest meal.,可恶... 看来你今晚要喝两杯奶昔了 真正的最孤独的一餐。,唉……看来，你今晚只能独自喝那杯插着两根吸管的奶昔了。真是最孤独的一餐。
+english_events_pitstop:L1647,pitstop_passenger_loveanother_scott_2,POLISH,Hey %CURRENTPLAYERNAME%. What's on your mind?,顿 %CURRENTPLAYERNAME%. 你脑子里在想什么?,嘿，%CURRENTPLAYERNAME%。你在想什么？
+english_events_pitstop:L1648,pitstop_passenger_loveanother_scott_2,POLISH,I'm glad you asked! I was hoping to talk about--,我很高兴你问了! 我想谈谈...,你问得正好！我正想聊聊——
+english_events_pitstop:L1649,pitstop_passenger_loveanother_scott_2,FIX,Cause I'll tell you what's on MY mind: %PASSENGERLOVEPLAYER%!,因为我会告诉你我在想什么: %PASSENGERLOVEPLAYER%!,因为我可以告诉你，我在想的是：%PASSENGERLOVEPLAYER%！
+english_events_pitstop:L1650,pitstop_passenger_loveanother_scott_2,FIX,"We've had some cool, intense conversations lately.",我们最近进行了一些冷静而激烈的谈话.,最近我们聊得特别棒，还聊了些很深入的话题。
+english_events_pitstop:L1651,pitstop_passenger_loveanother_scott_2,POLISH,"Actually, now that I think about it, you and I have also had some cool conversations lately...","事实上,现在我想到这一点,你和我最近也进行了一些很酷的对话......",其实，仔细想想，最近我跟你也聊得挺开心的……
+english_events_pitstop:L1652,pitstop_passenger_loveanother_scott_2,FIX,But I think my conversations with %PASSENGERLOVEPLAYER% are so much cooler that I forgot I also had some conversations with you.,"但我认为我的谈话 %PASSENGERLOVEPLAYER% 这么酷,我忘了我跟你谈过了",但我跟%PASSENGERLOVEPLAYER%聊得实在太棒了，都忘了也跟你聊过。
+english_events_pitstop:L1653,pitstop_passenger_loveanother_scott_2,POLISH,Isn't that funny?,这不好笑吗?,是不是很好笑？
+english_events_pitstop:L1655,pitstop_passenger_loveanother_scott_2,FIX,It is not. You leave to spend the night mending your self-esteem. It'll take some time.,事实并非如此。 你离开是为了过夜来修补自尊心 这需要一些时间。,一点都不好笑。你离开了，打算用一整晚修补自己的自尊心。这得花点时间。
+english_events_pitstop:L1660,pitstop_passenger_loveanother_valerie_1,KEEP,"Sorry, shop's closed tonight.","对不起,今晚商店关门了","对不起,今晚商店关门了"
+english_events_pitstop:L1661,pitstop_passenger_loveanother_valerie_1,KEEP,"That's okay, I'm not here to buy anything.","没关系,我不是来买东西的","没关系,我不是来买东西的"
+english_events_pitstop:L1662,pitstop_passenger_loveanother_valerie_1,POLISH,Oh... so you're just here to talk? Time is money! Specifically: five bucks.,"哦... 所以,你只是在这里说话? 时间就是钱! 具体为:五钱.",哦……所以只是来聊天？时间就是金钱！具体来说：五块钱。
+english_events_pitstop:L1663,pitstop_passenger_loveanother_valerie_1,FIX,"Sheesh, that's steep, but if that's what it takes...","嘿,这是陡峭的, 但如果这是需要的...",嘶，真够贵的。不过，既然非得这样……
+english_events_pitstop:L1664,pitstop_passenger_loveanother_valerie_1,KEEP,"Whoa, you actually paid me? Awesome!","哇,你真的付我钱了? 厉害!","哇,你真的付我钱了? 厉害!"
+english_events_pitstop:L1666,pitstop_passenger_loveanother_valerie_1,FIX,And then she leaves... with your five bucks. Goddammit.,然后她离开了... 用你的五块钱。 他妈的。,然后她就走了……带着你的五块钱。妈的。
+english_events_pitstop:L1671,pitstop_passenger_loveanother_valerie_2,KEEP,Welcome to my little shop. See anything you like?,欢迎来到我的小店 看到喜欢的东西了吗?,欢迎来到我的小店 看到喜欢的东西了吗?
+english_events_pitstop:L1672,pitstop_passenger_loveanother_valerie_2,FIX,"...You just wanna talk? Ugh, I'm not a fan of people who browse and don't buy.","...你只是想谈谈? 呃,我不是喜欢的人 谁浏览和不买。",……你只是想聊天？唉，我可不喜欢光看不买的人。
+english_events_pitstop:L1673,pitstop_passenger_loveanother_valerie_2,FIX,"Sorry, but I'm not in the mood to do anything but make some cash tonight, so...","对不起,但我没有心情做任何事情, 但有一些现金今晚,所以...",抱歉，我今晚除了赚钱，什么都不想干，所以……
+english_events_pitstop:L1674,pitstop_passenger_loveanother_valerie_2,KEEP,"But... Valerie's not the shopkeeper of this game, so there's no way for you to buy anything from her...",不过... 瓦莱丽不是这个游戏的店主 所以你不可能从她那里买东西...,不过... 瓦莱丽不是这个游戏的店主 所以你不可能从她那里买东西...
+english_events_pitstop:L1675,pitstop_passenger_loveanother_valerie_2,POLISH,"Not my problem. If you'll excuse me, I've got a business to run.","不关我的事 恕我冒昧,我还有生意要办",这可不关我的事。恕不奉陪，我还得做生意呢。
+english_events_pitstop:L1680,pitstop_passenger_loveanother_vera_1,FIX,"Oh, hey %CURRENTPLAYERNAME%. What do you need?",哦嘿 %CURRENTPLAYERNAME%. -你需要什么? -没有 - What do you need?,哦，嘿，%CURRENTPLAYERNAME%。有什么事？
+english_events_pitstop:L1681,pitstop_passenger_loveanother_vera_1,POLISH,"I'm sorta in the middle of making three spreadsheets, so if we could make this quick...",我有点在做三个电子表格 所以如果我们能快点...,我正同时做三份电子表格，所以，有话尽快说……
+english_events_pitstop:L1682,pitstop_passenger_loveanother_vera_1,FIX,...You just wanna talk? THAT'S what you interrupted my workflow zen for?,...你只是想谈谈? 这就是你打断我工作流程的原因吗?,……你只是想聊天？就为这个，你打断了我浑然忘我的工作状态？
+english_events_pitstop:L1683,pitstop_passenger_loveanother_vera_1,FIX,"Sorry, but I'm busy tonight. Go, I dunno, seduce a cactus or whatever it is you do for fun.","对不起,但我今晚很忙。 去吧,我不知道, 勾引一个仙人掌或它是什么 它是你的乐趣。",抱歉，我今晚很忙。去勾搭棵仙人掌吧，或者随便找点什么乐子，我哪知道。
+english_events_pitstop:L1688,pitstop_passenger_loveanother_vera_2,FIX,"Oh, hey... you wanna hang out? I can't, I have a full schedule of me-time tonight.","哦嘿... 你想出去玩吗? 我不能,我有一个完整的日程 今晚我的时间。",哦，嘿……你想找我玩？不行，我今晚的日程已经排满了，全是留给自己的时间。
+english_events_pitstop:L1689,pitstop_passenger_loveanother_vera_2,FIX,"I'm getting my snakes curled at 9:00, and then I plan to spend two-to-three hours planning my schedule for the next four weeks.",我九点会把蛇卷起来 然后我打算花两到三个小时 来规划我接下来四个星期的行程,九点要给蛇烫卷，然后打算花两到三个小时，安排未来四周的日程。
+english_events_pitstop:L1690,pitstop_passenger_loveanother_vera_2,FIX,"See, it's all in this spreadsheet. I have everything written down to the minute. As you can see: no time for you and me, sorry (not sorry).","你看,这一切都在这个电子表格。 我已经把一切都写下来了 如你所见: 你和我没时间了,抱歉(不道歉).",看，都在这张表里，每件事都精确到了分钟。你也看到了：没有留给咱俩的时间。抱歉（其实并不）。
+english_events_pitstop:L1691,pitstop_passenger_loveanother_vera_2,KEEP,That's okay! Maybe I could--,没关系! 也许我可以...,没关系! 也许我可以...
+english_events_pitstop:L1692,pitstop_passenger_loveanother_vera_2,POLISH,"Tsk tsk, didn't you hear me? Tight schedule. I may have time for a twenty minute conversation...",你听见没? 日程安排很紧 我也许有时间谈20分钟...,啧啧，没听见吗？日程很紧。我也许能腾出二十分钟聊聊……
+english_events_pitstop:L1693,pitstop_passenger_loveanother_vera_2,POLISH,On the twelfth of next month at eight p.m. See you then!,下月十二日晚八时. 再见!,下个月十二号，晚上八点。到时候见！
+english_events_pitstop:L1698,pitstop_passenger_loveanother_zoe_1,POLISH,"Oh, hey %CURRENTPLAYERNAME%. You wanna talk?",哦嘿 %CURRENTPLAYERNAME%. 你想谈谈吗?,哦，嘿，%CURRENTPLAYERNAME%。想聊聊？
+english_events_pitstop:L1699,pitstop_passenger_loveanother_zoe_1,POLISH,"Okay, but here's the thing: the newest chapter of ""Dragon Heat"" was posted recently, and due to my obsession I can ONLY talk about it.","好吧,但事情是这样的: ""Dragon Heat""的最新篇章最近登出, 由于我的痴迷,我只能谈论它。",行，不过先说好：《Dragon Heat》最近更新了，我现在满脑子都是它，只聊得了这个。
+english_events_pitstop:L1700,pitstop_passenger_loveanother_zoe_1,FIX,"I assume you've done like any sane person would and read it already, haven't you? Wasn't it MIND-BLOWING?!","我猜你已经做了任何理智的人 会和阅读它,不是吗? 刚才是不是有点晕倒了?",你肯定也跟正常人一样，早就看完了，对吧？是不是震撼得不行？！
+english_events_pitstop:L1701,pitstop_passenger_loveanother_zoe_1,FIX,Eh... sure?,额... 确定吗?,呃……是吧？
+english_events_pitstop:L1702,pitstop_passenger_loveanother_zoe_1,FIX,"You didn't read it, did you? Dang, you need to do better!","你没读过吧? 妈的,你需要做得更好!",你没看吧？哎呀，你得加把劲啊！
+english_events_pitstop:L1703,pitstop_passenger_loveanother_zoe_1,POLISH,"Sorry, no conversations tonight. Talking about anything else would be a disservice to ""Dragon Heat"". Surely you understand.","对不起,今晚没有谈话。 谈论其他事都不利于""德拉贡热"" 你当然明白。",抱歉，今晚不聊了。聊别的，简直就是对《Dragon Heat》的不敬。你肯定懂。
+english_events_pitstop:L1708,pitstop_passenger_loveanother_zoe_2,FIX,"Hey, %CURRENTPLAYERNAME%. What's up?",顿 %CURRENTPLAYERNAME%. 或?,嘿，%CURRENTPLAYERNAME%。怎么啦？
+english_events_pitstop:L1709,pitstop_passenger_loveanother_zoe_2,FIX,Not much. I just wanted to spend some time with my favorite eldritch cutie!,没有太多。 我只是想花一些时间 与我最喜欢的Eldritch可爱!,没什么，就是想陪陪我最喜欢的古神小可爱！
+english_events_pitstop:L1710,pitstop_passenger_loveanother_zoe_2,FIX,"Oof, sorry, I can't tonight. The newest chapter of ""Dragon Heat"" just posted!","哦,对不起,我不能今晚。 ""道干热""最新篇章刚刚上传!.",哎呀，抱歉，今晚不行。《Dragon Heat》刚更新了！
+english_events_pitstop:L1711,pitstop_passenger_loveanother_zoe_2,FIX,Can Vanesseria and Morgana von Breastreich exorcise the evil STDemons out of the Vibrating Cockring to Rule Them All before they destroy all that is good and sexy in the world?!,瓦内塞里亚和摩根娜·冯·穆斯雷克 能把邪恶的性恶魔 从震动的鸡圈中驱出来统治他们吗? 在他们摧毁世界上所有美好而性感的东西之前!,瓦内塞里亚和Morgana von Breastreich，能赶在那些邪恶的性病恶魔毁掉世间一切美好又性感的事物之前，把它们从那枚统御万物的震动至尊屌环里驱逐出去吗？！
+english_events_pitstop:L1712,pitstop_passenger_loveanother_zoe_2,FIX,The hype is real; I gotta read this NOW. Bye!,"骚动是真实的,我现在就要读这个。 再见!",太让人激动了，我现在就得看。拜！
+english_events_pitstop:L1717,pitstop_passenger_loveanother_stu_1,POLISH,"Hey, %CURRENTPLAYERNAME%. You wanna hang out?",顿 %CURRENTPLAYERNAME%. 你想出去玩吗?,嘿，%CURRENTPLAYERNAME%。想一起待会儿？
+english_events_pitstop:L1718,pitstop_passenger_loveanother_stu_1,KEEP,"Sorry, I can't. I'm on lifeguard duty tonight.","对不起,我不能。 我今晚要当救生员","对不起,我不能。 我今晚要当救生员"
+english_events_pitstop:L1719,pitstop_passenger_loveanother_stu_1,POLISH,...What? How? We're in the middle of the desert!,什麽? 怎么会? 我们在沙漠的中间!,……什么？怎么可能？咱们可是在沙漠里！
+english_events_pitstop:L1720,pitstop_passenger_loveanother_stu_1,KEEP,"That's just what they WANT you to think. Being a lifeguard is all a mind game, dude.","他们就是希望你这样想 做救生员就是个心理游戏,伙计","他们就是希望你这样想 做救生员就是个心理游戏,伙计"
+english_events_pitstop:L1721,pitstop_passenger_loveanother_stu_1,FIX,"You know how it goes: the minute my back is turned, some kid drowns in a puddle and I get my ass sued.","你知道这是怎么回事: 一旦我转身, 一些孩子淹死在一个水坑里, 我得到我的屁股起诉。",你也知道，只要我一转身，就会有个小孩淹死在水坑里，然后我就得吃官司。
+english_events_pitstop:L1722,pitstop_passenger_loveanother_stu_1,POLISH,"Nah, they won't get me that easily. I'm staying vigilant tonight; we'll hang some other time.","不,他们不会那么容易得到我。 我今晚要保持警惕 我们改天再玩",不行，他们可别想这么轻易就逮住我。今晚我得保持警惕，改天再玩吧。
+english_events_pitstop:L1727,pitstop_passenger_loveanother_stu_2,POLISH,"Oh, hey... You wanna talk? Sorry, I can't tonight.","哦嘿... 你想谈谈吗? 对不起,我今晚不能去",哦，嘿……你想聊聊？抱歉，今晚不行。
+english_events_pitstop:L1728,pitstop_passenger_loveanother_stu_2,FIX,"I'm, like, suuuper late for my night shift at the laundromat.",我晚点去洗衣店值夜班了,我该去洗衣店上夜班了，已经迟到好——久了。
+english_events_pitstop:L1729,pitstop_passenger_loveanother_stu_2,KEEP,"Wait, you still work at the laundromat? I haven't seen you work a single shift since you started traveling with us.","等等,你还在洗衣店工作吗? 自从你开始和我们一起旅行后 我就没看到你工作过","等等,你还在洗衣店工作吗? 自从你开始和我们一起旅行后 我就没看到你工作过"
+english_events_pitstop:L1730,pitstop_passenger_loveanother_stu_2,POLISH,"Exactly! I'm hella late! Last week, my manager said if I'm late one more time, she'd fire me!","没错! 我迟到了! 上周,我的经理说 如果我再迟到一次, 她会开除我!",就是啊！我都迟到多久了！上周经理还说，再迟到一次就开除我！
+english_events_pitstop:L1731,pitstop_passenger_loveanother_stu_2,FIX,"I gotta get a move-on... especially if I want time to stop along the way and get some gummy worms... either way, we'll talk later.","我要动起来... 特别是如果我想有时间停下来 买些美味的虫子... 不管怎样,我们晚点再谈。",得赶紧动身了……尤其是，我还想在路上停下来，买点小虫软糖……总之，回头聊。
+english_events_pitstop:L1733,pitstop_passenger_loveanother_stu_2,FIX,"Five minutes later, Stu's eating candy and has totally forgotten what he was supposed to do... but he also isn't spending the night talking to you. Aw.","五分钟后,斯图吃糖果 完全忘了他该做什么 但他也不花 晚上跟你说话。 哦.",五分钟后，斯图吃着糖，已经把正事忘得一干二净……但他还是没陪你聊天。唉。
+english_events_pitstop:L1738,pitstop_passenger_loveanother_yellow_1,POLISH,"Hi, Oz! Wanna hang out?",顿 奥兹! 想出去玩吗?,嗨，奥兹！想一起待会儿吗？
+english_events_pitstop:L1739,pitstop_passenger_loveanother_yellow_1,FIX,"(Oh, jeez, what do I do? I really don't feel like it...)","哦,天哪,我该怎么办? 我真的不觉得它... )",（哎呀，怎么办？我真的不太想……）
+english_events_pitstop:L1740,pitstop_passenger_loveanother_yellow_1,FIX,(But what if I hurt %CURRENTPLAYERNAME%'s feelings by rejecting %HIMHER%? I don't want to come off as mean...),(但如果我受伤了) %CURRENTPLAYERNAME%拒绝的感情 %HIMHER%? 我不想以刻薄的姿态... ),（可是，拒绝%HIMHER%的话，会不会伤了%CURRENTPLAYERNAME%的心？我不想显得那么不友好……）
+english_events_pitstop:L1741,pitstop_passenger_loveanother_yellow_1,FIX,"(There must be a way to let %CURRENTPLAYERNAME% down without being a meanie... ooh, I've got it!)","(一定有办法让 %CURRENTPLAYERNAME% 降低,而不会是一个卑鄙... ) 哦,我得到了它! ) 哦,我得到了它!",（一定有办法婉拒%CURRENTPLAYERNAME%，又不显得我很坏……哦，有了！）
+english_events_pitstop:L1742,pitstop_passenger_loveanother_yellow_1,FIX,I HAVE TO PEE.,我必须去PE。,我要去尿尿！
+english_events_pitstop:L1744,pitstop_passenger_loveanother_yellow_1,FIX,Oz sprints into the bathroom and stays locked in there all night. Guess that's one way to get rejected.,奥兹 冲入洗手间 整晚都锁在那里 我猜这是被拒绝的方法之一,奥兹冲进厕所，把自己关在里面一整晚。原来，被拒绝还能是这种形式。
+english_events_pitstop:L1749,pitstop_passenger_loveanother_yellow_2,POLISH,"Hey, Oz! Wanna hang out?",顿 奥兹! 想出去玩吗?,嘿，奥兹！想一起待会儿吗？
+english_events_pitstop:L1750,pitstop_passenger_loveanother_yellow_2,KEEP,"Oh, sorry, but I can't. I'm busy tonight.","哦,对不起,但我不能。 我今晚正忙着呢","哦,对不起,但我不能。 我今晚正忙着呢"
+english_events_pitstop:L1751,pitstop_passenger_loveanother_yellow_2,POLISH,"Aw, dang. What're you busy with?","哦,该死。 你在忙什麽?",啊，真可惜。你忙什么呢？
+english_events_pitstop:L1752,pitstop_passenger_loveanother_yellow_2,FIX,Um... (fudge)... I'm busy with... uh...,那个... (摇摆)... 我忙着... 额...,呃……（糟糕）……我忙着……那个……
+english_events_pitstop:L1753,pitstop_passenger_loveanother_yellow_2,FIX,INSPECTING THE TRUNK OF THE CAR.,检查车的倾斜。,检查汽车后备箱。
+english_events_pitstop:L1755,pitstop_passenger_loveanother_yellow_2,POLISH,Oz crams himself into the trunk in a desperate attempt to avoid you. Ouch.,奥兹 拼命想躲开你 把自己塞进后备箱 哎哟。,奥兹为了躲开你，拼了命把自己塞进后备箱。真伤人。
+english_events_pitstop:L1760,pitstop_passenger_loveanother_red_1,POLISH,"Hey, Amira! Wanna hang out?",顿 阿米拉! 想出去玩吗?,嘿，阿米拉！想一起待会儿吗？
+english_events_pitstop:L1761,pitstop_passenger_loveanother_red_1,POLISH,Eh... no thanks. I have some walls to headbutt!,"额... 不,谢谢。 我有些墙要撞!",呃……不了，谢谢。我还得用头撞几堵墙呢！
+english_events_pitstop:L1762,pitstop_passenger_loveanother_red_1,FIX,Wanna headbutt some walls with me?,想跟我打一通墙吗?,要跟我一起撞墙吗？
+english_events_pitstop:L1763,pitstop_passenger_loveanother_red_1,FIX,...No?,...没有?,……不要？
+english_events_pitstop:L1764,pitstop_passenger_loveanother_red_1,FIX,"See? We just don't have that many common interests. Let's stick to our own things tonight, okay?","看到没? 我们只是没有那么多的共同利益 我们今晚继续做我们自己的事,好吗?",你看，咱们的共同爱好就是不太多。今晚各玩各的，好吗？
+english_events_pitstop:L1769,pitstop_passenger_loveanother_red_2,POLISH,"Hey, Amira! Wanna hang out?",顿 阿米拉! 想出去玩吗?,嘿，阿米拉！想一起待会儿吗？
+english_events_pitstop:L1770,pitstop_passenger_loveanother_red_2,KEEP,Oh... hmm... how do I put this...,哦... 那个... 我该怎么说呢?,哦... 那个... 我该怎么说呢?
+english_events_pitstop:L1771,pitstop_passenger_loveanother_red_2,FIX,"""No.""","""没有。""",“不想。”
+english_events_pitstop:L1772,pitstop_passenger_loveanother_red_2,KEEP,...,...,...
+english_events_pitstop:L1773,pitstop_passenger_loveanother_red_2,KEEP,...,...,...
+english_events_pitstop:L1774,pitstop_passenger_loveanother_red_2,FIX,"Damn, I think I put that perfectly. Am I a master rejector or what?!","该死,我说得没错 我是主拒绝者还是什么?",妈的，我这话说得太完美了。我简直是拒绝大师，对吧？！
+english_events_pitstop:L1775,pitstop_passenger_loveanother_red_2,FIX,"Sure... and you're now the master of being rejected. It's not as rewarding, somehow.","当然... 你现在是被拒绝的主人了 它不是像奖励,不知何故。",是啊……而你现在是被拒绝大师。不知道为什么，这个称号就没那么让人开心了。

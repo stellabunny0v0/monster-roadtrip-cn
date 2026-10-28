@@ -1,0 +1,106 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_pitstop:L4932,cadrienmerkingdom,FIX,The Merkingdom,默金多姆,人鱼王国
+english_events_pitstop:L4934,cadrienmerkingdom,FIX,The Merkingdom is...,默金多姆是...,人鱼王国是个……
+english_events_pitstop:L4935,cadrienmerkingdom,KEEP,...a complicated place.,...一个复杂的地方。,...一个复杂的地方。
+english_events_pitstop:L4936,cadrienmerkingdom,POLISH,The Crown can be truly oppressive and ruthless. It rules with an iron fist and little mercy.,皇室可以真正压迫和无情. 以一铁拳而取小慈.,王室残酷无情，压迫百姓，以铁腕统治，鲜有怜悯。
+english_events_pitstop:L4937,cadrienmerkingdom,FIX,"It's as if everything is justified as long as it keeps the Merkingdom strong, united, and in line.","仿佛一切都是正当的,只要它保持了默金多姆的强大,团结,并排成一行.",仿佛只要能让人鱼王国强大、团结、服从命令，一切手段就都有了正当理由。
+english_events_pitstop:L4938,cadrienmerkingdom,POLISH,"When I was younger, I hated it with all my heart. How could my motherland be so atrocious?","年轻时,我全心全意地厌恶它. 我的祖国怎么会这么残暴呢?",年轻时，我打心底憎恨这一切。我的祖国怎么能如此残暴？
+english_events_pitstop:L4939,cadrienmerkingdom,POLISH,And... I mean... I still hate that about the Merkingdom... but now I am conflicted.,还有... 我是说... 我仍然讨厌关于默金多姆的事... 但我现在很矛盾。,而且……我是说……我现在仍然厌恶人鱼王国的这一面……但也开始感到矛盾。
+english_events_pitstop:L4940,cadrienmerkingdom,KEEP,How so?,怎么会这样?,怎么会这样?
+english_events_pitstop:L4941,cadrienmerkingdom,FIX,"Well, I've become a knight, and I've been on the front lines of the Most Important War... and it scares me.","我成为了一名骑士,我一直站在最重要的战争的前线... 吓我一跳",我成了骑士，也上过“最重要的战争”的前线……那让我感到恐惧。
+english_events_pitstop:L4942,cadrienmerkingdom,KEEP,The Most Important War...?,最重要的战争...,最重要的战争...
+english_events_pitstop:L4943,cadrienmerkingdom,FIX,"You see, the Merkingdom is a key player in the war mortalkind wages against ancient deities that want to bring about the end of all things.","你看,默金多姆是关键角色 在战争中死亡工资 与古代神 想要带来所有事物的终结。",凡人一直在对抗那些企图终结万物的古老神祇，而人鱼王国，是这场战争中的关键力量。
+english_events_pitstop:L4944,cadrienmerkingdom,POLISH,Years ago I thought that was just an old wives tale... another trick from the Crown to keep our people in line.,多年前我还以为那只是个老太太的故事... 皇室的又一把把把戏 是为了让我们的人保持秩序,多年前，我以为这不过是些无稽之谈……是王室为了让民众服从，又编的一套说辞。
+english_events_pitstop:L4945,cadrienmerkingdom,FIX,But it's not.,然则不然.,可事实并非如此。
+english_events_pitstop:L4946,cadrienmerkingdom,FIX,"Not so long ago, I was on a mission to stop a cabal that was channeling one of these deities into this realm.","不久之前,我执行了一项任务, 阻止一个将其中一位神灵引入这个圈子的歌舞团。",不久前，我奉命阻止一个秘密团体，他们正试图将其中一位神祇召入这个世界。
+english_events_pitstop:L4947,cadrienmerkingdom,POLISH,"We managed to put a stop to it before it was too late, but... we had to face what I can only imagine was a fraction of this entity's power...","我们设法在为时已晚之前阻止了它,但... 我们不得不面对我只能想象的 是这个实体的一小部分力量...",我们及时阻止了他们，可……仍然不得不面对那东西的力量……而我想，那可能只是一小部分……
+english_events_pitstop:L4948,cadrienmerkingdom,FIX,"%CURRENTPLAYERNAME%... it was dozens of the finest, most valiant merknights I've ever met... and only a handful of us made it back.",%CURRENTPLAYERNAME%... 那是我见过的好几十个最精彩最勇敢的夜... 我们中只有一小部分人回来了,%CURRENTPLAYERNAME%……那是几十位我所见过的最优秀、最英勇的人鱼骑士……最后，只有寥寥几人活着回来。
+english_events_pitstop:L4949,cadrienmerkingdom,POLISH,"I... I'm truly sorry, Adrien.","我…… 我真的很抱歉,阿德里安。 爱德利安。",我……听到这些，我真的很难过，阿德里安。
+english_events_pitstop:L4950,cadrienmerkingdom,FIX,"This is no myth or old wives tale... reality is in danger, and the enemy's power is unfathomable.","这不是神话或老太太的故事... 现实处于危险之中,敌人的力量是不可忽视的。",这不是神话，也不是无稽之谈……现实正面临威胁，而敌人的力量深不可测。
+english_events_pitstop:L4951,cadrienmerkingdom,FIX,"Maybe the only way to survive this is by doing whatever it takes to keep us all strong, united, and in line.",也许生存下去的唯一办法 就是不惜一切代价 保持我们的力量 团结 并排队,也许，想活下去，就只能不惜一切代价，让我们保持强大、团结，服从命令。
+english_events_pitstop:L4952,cadrienmerkingdom,POLISH,But... ugh... no... I can't justify what the Crown does...,不过... 额... 没有... 我无法为王室的所作所为辩护...,可是……唉……不，我不能为王室的所作所为开脱……
+english_events_pitstop:L4953,cadrienmerkingdom,POLISH,And yet... I feel like... even if I disagree with them... my duty now is to focus all my will and strength on stopping the end of all things.,"不过... 我觉得... 即使我不同意他们... 现在,我的职责是 集中我所有的意志和力量 阻止一切的结束。",然而……我觉得……即使我不认同他们，现在也必须倾尽意志和力量，阻止万物走向终结。这是我的职责。
+english_events_pitstop:L4954,cadrienmerkingdom,POLISH,"Then, after that, we can finally be reborn a better kingdom for everyone.","然后,在那之后,我们终于可以重新为每个人建立一个更美好的王国了.",等到那之后，我们才能重获新生，建立一个对所有人都更好的王国。
+english_events_pitstop:L4955,cadrienmerkingdom,KEEP,...,...,...
+english_events_pitstop:L4956,cadrienmerkingdom,FIX,"Look, from where I stand, it sounds like your heart is in the right place.","你看,从我的立场, 它听起来像你的心脏 在正确的地方。",至少在我看来，你的出发点是好的。
+english_events_pitstop:L4957,cadrienmerkingdom,POLISH,And if there are more people in the Merkingdom like you... then I think there's hope for its future.,如果在默金敦有更多的人像你一样... 那么我想它的未来就有希望了,如果人鱼王国还有更多像你这样的人……那它的未来，我想还是有希望的。
+english_events_pitstop:L4958,cadrienmerkingdom,KEEP,...,...,...
+english_events_pitstop:L4959,cadrienmerkingdom,KEEP,...Maybe.,也许吧,也许吧
+english_events_pitstop:L4960,cadrienmerkingdom,FIX,"Adrien truly is a brave knight, carrying the weight of the world on his shoulders. If you could only help ease that weight...","阿德里安确实是一位勇敢的骑士,肩上背负着世界的重担. 如果你能帮助减轻体重...",阿德里安真是一位勇敢的骑士，肩上背负着整个世界的重担。真希望你能帮他减轻一些……
+english_events_pitstop:L4961,cadrienmerkingdom,FIX,"For now, you bring him some peace, if only briefly, as you two spend the rest of the night chilling and watching the stars.","现在,你给他带来一些平静, 哪怕只是短暂的, 你们两个度过了剩下的夜晚 寒冷和看星星。",至少此刻，你们静静待在一起，看着星星。你给他带来了一点平静，哪怕只是片刻。
+english_events_pitstop:L4970,cadrienenemies,KEEP,The Crown's enemies,皇室的敌人,皇室的敌人
+english_events_pitstop:L4972,cadrienenemies,FIX,"The Merkingdom has two main threats. I guess you could say three, if you counted the dissidents and internal enemies of the Crown.","默金多姆有两大威胁. 我想你可以说三, 如果你算 持不同政见者和王室内部的敌人。",人鱼王国主要面临两大威胁。要是把异见者和王室的内部敌人也算上，那就是三大威胁。
+english_events_pitstop:L4973,cadrienenemies,FIX,But the main threat is the old entities trying to end reality.,但主要的威胁是老实体试图终结现实.,不过，最大的威胁，还是那些想终结现实的古老存在。
+english_events_pitstop:L4974,cadrienenemies,POLISH,"Well, that's more of a threat to... basically everyone.","嗯,这更是一个威胁... 基本上每个人。",可那威胁的……基本上是所有人吧。
+english_events_pitstop:L4975,cadrienenemies,FIX,"That's true; but still, they're the Merkingdom's main focus when it comes to foes to vanquish.","确实如此,但是在敌人征服的时候,他们仍然是默金多姆的主要焦点.",的确。不过，说到需要击败的敌人，人鱼王国首先考虑的仍然是他们。
+english_events_pitstop:L4976,cadrienenemies,POLISH,And if that wasn't enough... there's also Heaven.,如果这还不够的话... 还有天堂,这还不算完……还有天堂。
+english_events_pitstop:L4977,cadrienenemies,KEEP,Heaven?!,天堂吗?,天堂吗?
+english_events_pitstop:L4978,cadrienenemies,FIX,Yes. What do you know about the realms' history?,对 你对王国的历史了解多少?,是的。你对各个世界的历史了解多少？
+english_events_pitstop:L4979,cadrienenemies,KEEP,Uh... not much.,额... 没有太多。,额... 没有太多。
+english_events_pitstop:L4980,cadrienenemies,KEEP,"Let me explain, then.",让我来解释一下,让我来解释一下
+english_events_pitstop:L4981,cadrienenemies,FIX,Think of the realms as steps in an escape plan to put distance between mortalkind and the old deities.,"将王国视为一个逃生计划中的步子,将凡人和旧神的距离拉开.",可以把这些世界看作一项逃亡计划中的一步步行动，目的就是让凡人尽量远离那些古老神祇。
+english_events_pitstop:L4982,cadrienenemies,POLISH,"Hell was the first mortal realm ever to exist outside of the Nothingness... but over time, it became corrupted by the deities trying to invade it.","地狱是第一个在虚无之外存在的凡人之地... 但随着时间推移,它逐渐被那些试图入侵它的神灵所腐蚀.",地狱是虚无之外，第一个诞生的凡人世界……但随着时间推移，那些试图入侵的神祇逐渐腐化了它。
+english_events_pitstop:L4983,cadrienenemies,FIX,"And so mortalkind kept creating realms. The Human Realm and Heaven are the boldest moves yet, each in their own way.","于是凡人不断创造出王国 人类王国和天堂是最大胆的一步, 每一个都以自己的方式。",于是，凡人不断创造新的世界。其中，人类世界和天堂分别以各自的方式，成为迄今最大胆的尝试。
+english_events_pitstop:L4984,cadrienenemies,FIX,But Heaven? It's a hermetic place set on extreme solutions in their war against the old ones.,"但是天堂吗? 在他们与老人们的战争中,这是一个 刻意寻找极端解决方案的地方。",可天堂呢？那里封闭自守，在对抗古老神祇的战争中，执意采取极端手段。
+english_events_pitstop:L4985,cadrienenemies,POLISH,How extreme are we talking here?,我们这话有多极端?,有多极端？
+english_events_pitstop:L4986,cadrienenemies,FIX,"They are set on destroying Hell and the Monster Realm, as they deem those realms to be too corrupted and ""far beyond salvation.""","他们注定要毁灭地狱和魔兽王国, 因为他们认为这些地盘太腐败了,“远远超出了救赎”。",他们决意摧毁地狱和怪物世界，认为这两个世界已被腐化得太严重，“彻底无可救药”。
+english_events_pitstop:L4987,cadrienenemies,FIX,"As you could expect, the Merkingdom doesn't love the idea of our realm being destroyed... hence the war against Heaven.","正如你所预料的, 默金多姆不爱 我们的王国被摧毁的想法... 因此,与天相会战。",你也能想到，人鱼王国当然不愿意自己的世界被毁……于是，便与天堂开战了。
+english_events_pitstop:L4988,cadrienenemies,POLISH,I disagree with the Crown on many of its choices on how to rule our motherland... but we're together on this one: Heaven must fall.,我不同意王室关于 如何统治祖国的许多选择... 但是我们在一起 天堂必须倒下,对于王室治理祖国的许多做法，我并不认同……可在这件事上，我们立场一致：天堂必须覆灭。
+english_events_pitstop:L4989,cadrienenemies,POLISH,I will pierce God's heart myself if that's what's necessary to save my people.,如果有必要的话 我会亲自刺穿上帝的心,如果拯救我的人民必须如此，我会亲手刺穿上帝的心脏。
+english_events_pitstop:L4990,cadrienenemies,FIX,"Whoa, Adrien...","哇,阿德里安... ... 亚德里安...",哇，阿德里安……
+english_events_pitstop:L4991,cadrienenemies,FIX,"You're basically in constant war, sandwiched between powerful old deities and... GOD?!","你基本上在不断的战争, 三明治在强大的老神和... 老天爷!",所以，你们基本上一直在打仗，夹在强大的古老神祇和……上帝之间？！
+english_events_pitstop:L4992,cadrienenemies,POLISH,Do you ever catch a break?!,你有休息过吗?,你还能有喘口气的时候吗？！
+english_events_pitstop:L4993,cadrienenemies,POLISH,I do sometimes... like right now. I enjoy the peace between battles.,我有时会... 像现在一样。 我享受战斗之间的平和,偶尔会有……比如现在。我很珍惜战斗间隙的平静。
+english_events_pitstop:L4994,cadrienenemies,POLISH,It reminds me why I fight: so that everyone is able to sit and admire the night sky without fear or suffering in their hearts.,"它提醒我为什么我战斗:这样,每个人都能够坐下来崇拜夜空,而心中没有恐惧或痛苦.",这提醒着我为何而战：为了让所有人都能坐下来，欣赏夜空，心中不再有恐惧或痛苦。
+english_events_pitstop:L4995,cadrienenemies,FIX,"And that's what you do tonight. But you also admire how this valiant knight remains full of determination, even against the most hopeless odds...",这就是你今晚做的。 但你也钦佩这位英勇的骑士 如何仍然充满决心 即使面对最无望的机会...,今晚，你们正是这样度过的。而你也敬佩这位英勇的骑士：即使希望再渺茫，他依然坚定不移……
+english_events_pitstop:L5004,cmerperknightacademy,KEEP,Where he studied,他学习的地方,他学习的地方
+english_events_pitstop:L5006,cmerperknightacademy,FIX,I attended the most prestigious academy in the Merkingdom.,我就读于默金多姆最有名的学院,我曾就读于人鱼王国最负盛名的学院。
+english_events_pitstop:L5007,cmerperknightacademy,FIX,It's exclusively available to the children of the highest-born families in all of Underwater.,专供全地下水中出身最尊贵的家庭的子女使用.,那里只招收整个水下世界出身最显赫的家族的子女。
+english_events_pitstop:L5008,cmerperknightacademy,POLISH,"Oooh, fancy!","哦,帅呆了!",哦，好气派！
+english_events_pitstop:L5009,cmerperknightacademy,KEEP,"Yes, it certainly is.","是的,当然是。","是的,当然是。"
+english_events_pitstop:L5010,cmerperknightacademy,POLISH,It accomplishes two goals.,它实现了两个目标。,它有两个目的。
+english_events_pitstop:L5011,cmerperknightacademy,FIX,"Firstly, it turns new generations of privileged merpeople into valiant knights, wise philosophers, powerful wizards, astute diplomats...","首先,它把新一代的特权主义者变成了勇敢的骑士,智慧的哲学家,强大的巫师,精明的外交官......",首先，把新一代享有特权的人鱼培养成英勇的骑士、睿智的哲学家、强大的巫师、精明的外交官……
+english_events_pitstop:L5012,cmerperknightacademy,FIX,Anything that can bring value to the Crown.,任何能给王室带来价值的东西,总之，是一切能为王室效力的人才。
+english_events_pitstop:L5013,cmerperknightacademy,FIX,It also keeps the most influential houses of the Merkingdom united.,也使默金多姆最有影响力的家族保持了统一.,同时，让人鱼王国最有影响力的家族保持团结。
+english_events_pitstop:L5014,cmerperknightacademy,FIX,Like... yours?,喜欢... 你的吗?,比如……你的家族？
+english_events_pitstop:L5015,cmerperknightacademy,FIX,Exactly. I come from one of the most powerful houses from the deep end of the Merkingdom.,没错 我来自最强大的房子之一 从默金多姆的深渊。,正是。我来自人鱼王国深处最有权势的家族之一。
+english_events_pitstop:L5016,cmerperknightacademy,POLISH,"Ironically, the academy is such a rich, thought-provoking environment that all sort of ideas prosper.","具有讽刺意味的是,学院是一个丰富而发人深省的环境,所有的想法都兴起.",讽刺的是，学院的环境丰富多元，又鼓励思考，各式各样的思想都能在此生根。
+english_events_pitstop:L5017,cmerperknightacademy,FIX,"So, while some students are blindly loyal to the Crown, you'll find a handful of them who see the downsides of our monarchy.","所以,虽然有些学生盲目地忠于王室,但你们会发现少数学生会看到我们君主制的下流.",所以，虽然有些学生盲目效忠王室，也有少数人看得清君主制的弊端。
+english_events_pitstop:L5018,cmerperknightacademy,POLISH,I've found myself sharing a table with bold minds who dare to discuss how our motherland could change and improve.,"我发现自己和勇敢的头脑分享了一张桌子,谁敢于讨论我们的祖国如何改变和改善.",我曾与一些思想大胆的人同桌而坐，讨论我们的祖国该如何改变、如何变得更好。
+english_events_pitstop:L5019,cmerperknightacademy,POLISH,I've heard quite a bit about the Merkingdom... and it definitely sounds like there's room for improvement.,我听说过很多关于默金多姆的事... 听起来肯定有改进的余地,我听过不少人鱼王国的事……听起来，确实有不少可以改进的地方。
+english_events_pitstop:L5021,cmerperknightacademy,KEEP,Yes...,对...,对...
+english_events_pitstop:L5022,cmerperknightacademy,FIX,But that makes me think: how come Miranda studied at our academy and not yours?,"但是,这让我想: 为什么? 米兰达 在我们的学院学习,而不是你的?",不过，这就让我好奇了：米兰达为什么来我们学院，而没去你那儿上学？
+english_events_pitstop:L5023,cmerperknightacademy,FIX,She did study at my academy. I shared some classes with Princess Miranda myself before she was transferred to an academy in the Monster Realm.,她确实在我的学院学习。 我和公主同班上课 米兰达 在她被转到魔兽王国的学院之前,她去过。我还跟米兰达公主一起上过几门课，后来她才转去怪物世界的学院。
+english_events_pitstop:L5024,cmerperknightacademy,FIX,I surmise that was a tactical choice to enhance the opportunity of building alliances and coalitions with domains outside of the Merkingdom.,"我猜测这是一个战术选择,以增加与默金多姆以外的领域建立联盟和联盟的机会。",我推测，那是为了增加与人鱼王国以外的势力建立同盟的机会，一项策略性的安排。
+english_events_pitstop:L5025,cmerperknightacademy,POLISH,"She was privileged, and annoying, and cute, and spoiled... living proof that the Merkingdom must change.",她有特权 烦人 可爱 被宠坏... 活生生的证明 默金多姆必须改变,她享尽特权、惹人厌烦，又可爱，又娇纵……活生生地证明了，人鱼王国必须改变。
+english_events_pitstop:L5026,cmerperknightacademy,POLISH,"But I would have preferred that she stay. She could have been exposed to these daring ideas of change, and then... who knows?","但我更希望她能留下来 她可能已经接触到 这些大胆的改变想法,然后... 谁知道呢?",可我更希望她留下。这样她就能接触这些大胆的改革思想，然后……谁知道呢？
+english_events_pitstop:L5027,cmerperknightacademy,POLISH,"True, but what better way to challenge her mind than show her how things work elsewhere?","没错,但还有什么更好的方法挑战她的思想 比告诉她事情如何在别处运作?",确实。不过，让她亲眼看看别处的人怎么生活，不是更能挑战她原有的想法吗？
+english_events_pitstop:L5028,cmerperknightacademy,KEEP,Hmmm... you might be right.,那个... 你也许是对的。,那个... 你也许是对的。
+english_events_pitstop:L5029,cmerperknightacademy,KEEP,I wonder if she's capable of change...,不知道她是否有能力改变...,不知道她是否有能力改变...
+english_events_pitstop:L5030,cmerperknightacademy,POLISH,"I like to think everyone is, Adrien.","我想每个人都是,阿德里安。",阿德里安，我愿意相信每个人都能改变。
+english_events_pitstop:L5031,cmerperknightacademy,POLISH,"You two admire the night sky as you dream of a better, more just world.",你们俩在梦到一个更美好、更公正的世界时 欣赏夜空,你们仰望夜空，憧憬着一个更美好、更公正的世界。
+english_events_pitstop:L5040,cadriensquire,FIX,Being a merknight,成为夜之夜,当人鱼骑士
+english_events_pitstop:L5042,cadriensquire,FIX,"Truth be told, I haven't been a merknight for very long.","老实说,我已经很久没玩过夜了",说实话，我当人鱼骑士还没多久。
+english_events_pitstop:L5043,cadriensquire,KEEP,"Until just recently, I was but a squire.","直到最近,我只是一个侍从。","直到最近,我只是一个侍从。"
+english_events_pitstop:L5044,cadriensquire,POLISH,"Oh, please, do tell!","哦,求你了,告诉我!",哦，快讲讲！
+english_events_pitstop:L5045,cadriensquire,POLISH,"Of course: I was a squire to Brigadier Beluga, and joined him on many of his quests and adventures.","当然,我是贝卢加准将的侍从,并且和他一起从事他的许多探险和冒险.",当然。我曾是贝卢加准将的侍从，随他执行过许多任务，也经历了不少冒险。
+english_events_pitstop:L5046,cadriensquire,POLISH,"Ah... I have such fond memories of that time, %CURRENTPLAYERNAME%.",摆... 我对那段时间有美好的回忆 %CURRENTPLAYERNAME%.,啊……%CURRENTPLAYERNAME%，那段日子，留下了许多美好的回忆。
+english_events_pitstop:L5047,cadriensquire,POLISH,"Brigadier Beluga was an incredible mentor. The man might appear goofy at first, but in reality he's an honorable warrior with countless victories and daring feats behind him.","Beluga准将是一位令人难以置信的导师。 这个人一开始可能看起来很愚蠢,但实际上他是一个光荣的战士,身后有无数的胜利和大胆的壮举.",贝卢加准将是一位了不起的导师。初见时，他可能有点傻气，可实际上，他是一位值得尊敬的战士，立过无数战功，做过无数英勇之举。
+english_events_pitstop:L5048,cadriensquire,FIX,"He's always willing to sacrifice himself for the nation, and he firmly believes we merknights are the shield of the Merkingdom.","他总是愿意为国家而牺牲自己,他坚信我们墨克奈特是默金多姆的盾牌.",他随时愿意为国牺牲，坚信我们人鱼骑士就是人鱼王国的盾牌。
+english_events_pitstop:L5049,cadriensquire,KEEP,Do you feel the same?,你也有同感吗?,你也有同感吗?
+english_events_pitstop:L5050,cadriensquire,FIX,Hmmm... yes and no.,"那个... 是的,没有。",嗯……既是，也不是。
+english_events_pitstop:L5051,cadriensquire,FIX,Beluga is a strong loyalist to the crown. He would see the wicked ways of those in power and blindly trust they have a good reason for it. He would always protect them.,"贝卢加是一位坚固的忠于王冠的人. 他看见掌权者的恶行,并且盲目信任他们,这是有道理的。 他将永远保护他们。",贝卢加对王室忠心耿耿。哪怕亲眼看见掌权者作恶，他也会盲目地相信，他们一定有自己的理由。他总会保护他们。
+english_events_pitstop:L5052,cadriensquire,FIX,Me? I think the Merkingdom is made up of all its subjects equally.,"我吗? 我认为,默金多姆是 由它的所有主体平等组成。",而我认为，人鱼王国由全体臣民共同组成，每个人都同样重要。
+english_events_pitstop:L5053,cadriensquire,POLISH,"I am proud to be the shield of the Merkingdom, but to me, that means being a shield for the people.","我自豪地成为默金多姆的盾牌,但对我来说,这意味着成为人民的盾牌.",我很自豪能成为人鱼王国的盾牌。但对我而言，那意味着成为人民的盾牌。
+english_events_pitstop:L5054,cadriensquire,POLISH,"That's such a noble perspective, Adrien.","这么高尚的观点,阿德里安。",阿德里安，这样的想法真高尚。
+english_events_pitstop:L5055,cadriensquire,FIX,"Well, the people of the Merkingdom need a champion that fights for them too.",默金多克的人民也需要一个 为他们而战的冠军,毕竟，人鱼王国的人民，也需要一位为他们而战的勇士。
+english_events_pitstop:L5056,cadriensquire,POLISH,"You two sound so different, yet you seem to truly admire Brigadier Beluga.",你们俩听起来很不一样 但你们似乎很崇拜贝卢加准将,你们听起来那么不一样，可你还是很敬佩贝卢加准将。
+english_events_pitstop:L5057,cadriensquire,FIX,"I do. During our travels, we used to set camp at night. The two of us in the middle of the woods, often drinking wine and talking about everything.","我当然想。 在出行期间,我们经常在晚上设营. 二人于林中相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相会相",是的。旅途中，我们常在夜里扎营。两个人待在树林里，喝着酒，天南地北地聊。
+english_events_pitstop:L5058,cadriensquire,POLISH,We had heated discussions about these political matters. We argued passionately (and a bit drunkenly) until dawn.,"我们对这些政治事项进行了激烈的讨论。 我们激烈地争论,直到黎明。",我们曾激烈地讨论这些政治问题，争论到天亮，既热血上头，也有点醉意上头。
+english_events_pitstop:L5059,cadriensquire,POLISH,"He could have me sent to the gallows easily, just by exposing my beliefs about the need for reform... and yet, here I am.","他可以轻易地把我送入绞刑架 只要揭穿我对改革的信念... 然而,我在这里。",只要揭发我认为国家必须改革的想法，他就能轻易把我送上绞刑架……可我还好好地站在这里。
+english_events_pitstop:L5060,cadriensquire,POLISH,"Instead, he listened to me, and chose to respect me even if he fully disagreed.","相反,他听了我的话,并选择尊重我,即使他完全不同意。",他没有那么做，而是认真听我说。即使完全不认同，也选择尊重我。
+english_events_pitstop:L5061,cadriensquire,POLISH,"So, while Brigadier Beluga would bleed for the Crown... I would bleed for him.",当贝卢加准将为王室流血时... 我会为他流血的,所以，贝卢加准将愿为王室流血……而我，愿为他流血。
+english_events_pitstop:L5062,cadriensquire,POLISH,It's beautiful to see you have so many kind things to say about your mentor.,看到你有很多关于导师的好话 真是太美了,听你这么真心地赞美自己的导师，真让人感动。
+english_events_pitstop:L5063,cadriensquire,POLISH,"I think it says a lot not only about Brigadier Beluga, but also about you.",我想它不仅说明了贝卢加准将的事 也说明了你的事,我想，这不仅说明贝卢加准将是什么样的人，也说明了你是什么样的人。
+english_events_pitstop:L5064,cadriensquire,FIX,It's just the truth.,唯实相相相.,我说的只是实话。
+english_events_pitstop:L5065,cadriensquire,FIX,"You spend the rest of the night talking about Adrien's adventures as a squire. He has seen A LOT. What a humble, brave knight, this one!","你整晚都在谈论阿德里安作为侍从的冒险 他已经看到很多。 多么谦卑而勇敢的骑士,这个!",接下来的时间，你们一直在聊阿德里安当侍从时的冒险。他的见识可真不少。这真是一位谦逊又勇敢的骑士！

@@ -1,0 +1,43 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_endings:L2879,ending_date_wmdahlia,FIX,"Your fondest memory isn't of %DESTINATION%, but of a night you spent alone with Washing Machine Dahlia.",你最爱的记忆不是 %DESTINATION%但是在一个晚上 你独自在洗衣机上度过 达莉娅.,你最珍惜的回忆，并不是%DESTINATION%，而是与洗衣机达丽雅独处的那个夜晚。
+english_events_endings:L2881,ending_date_wmdahlia,POLISH,This is nice...,这是不错的...,这样真好……
+english_events_endings:L2882,ending_date_wmdahlia,POLISH,Yeah...,对...,是啊……
+english_events_endings:L2883,ending_date_wmdahlia,FIX,"Hey, %CURRENTPLAYERNAME%, what if you took your clothes off?",顿 %CURRENTPLAYERNAME%如果你脱了衣服怎么办?,嘿，%CURRENTPLAYERNAME%，要不要把衣服脱了？
+english_events_endings:L2884,ending_date_wmdahlia,KEEP,...!,...!,...!
+english_events_endings:L2885,ending_date_wmdahlia,FIX,"Ah, so you can wash them, right? It still catches me off-guard when you ask for it.","啊,这样你就可以洗了,对不对? 当你要求的时候,它仍然让我措手不及。",啊，是为了让你洗，对吧？你每次这么问，我还是会吓一跳。
+english_events_endings:L2886,ending_date_wmdahlia,POLISH,For a moment I thought you meant it as a sex thing...,"有一瞬间,我还以为你是性爱...",刚才有那么一瞬间，我还以为你想跟我做点色色的事……
+english_events_endings:L2887,ending_date_wmdahlia,FIX,"Oh, no, this time it's totally a sex thing.","哦,不,这次完全是性爱",哦，不，这次确实是想跟你做点色色的事。
+english_events_endings:L2888,ending_date_wmdahlia,KEEP,...!,...!,...!
+english_events_endings:L2889,ending_date_wmdahlia,FIX,"Yeah, I dunno, I like you... I'm pretty sure you like me... so there's that.","是啊,我不知道,我喜欢你... 我敢肯定你喜欢我... 所以有这样的。",嗯，我也不知道怎么说，我喜欢你……我很确定你也喜欢我……所以嘛。
+english_events_endings:L2890,ending_date_wmdahlia,FIX,Huh... a sex thing. But... how are we supposed to... you know...?,那个... 性爱的事情。 不过... 我们该怎么... 你知道吗?,呃……色色的事。可是……我们该怎么……你懂的……？
+english_events_endings:L2891,ending_date_wmdahlia,FIX,Eh... no idea.,"额... 不知道,我还不知道呢",呃……完全没头绪。
+english_events_endings:L2892,ending_date_wmdahlia,FIX,But I guess that can be half the fun?,但我猜这可以 一半的乐趣?,不过，摸索的过程不也挺有意思的吗？
+english_events_endings:L2893,ending_date_wmdahlia,FIX,"So, wanna figure it out or what?","所以,想弄明白还是什么?",所以，要不要一起研究研究？
+english_events_endings:L2894,ending_date_wmdahlia,KEEP,Sure!,当然!,当然!
+english_events_endings:L2895,ending_date_wmdahlia,POLISH,And that's the story of how you ended up having sex with a washing machine.,这就是你和洗衣机做爱的故事。,你就是这样，跟一台洗衣机上了床。
+english_events_endings:L2896,ending_date_wmdahlia,FIX,And you know what? IT. WAS. GOOD.,你知道吗? 它。 这一点。 曾经是。 不错。,而且你猜怎么着？爽。到。爆。
+english_events_endings:L2897,ending_date_wmdahlia,FIX,To think of all the time you wasted not fucking a washing machine...,想想你浪费了那么多时间 才没有他妈的洗衣机...,想想以前那些没跟洗衣机干上一炮的日子，都白过了啊……
+english_events_endings:L2906,ending_date_lamb,FIX,%DESTINATION%? Who cares about %DESTINATION% when you have none other than the Lamb next to you in a car!,%DESTINATION%? 谁在乎 %DESTINATION% 你身边只有一只羔羊 坐在车里!,%DESTINATION%？身边坐着的可是羔羊本人，谁还在乎%DESTINATION%啊！
+english_events_endings:L2907,ending_date_lamb,FIX,"This is a situation you never imagined could be possible, and yet here you are.",这是你从未想象到的 有可能发生的情况 但你却在这里,你从没想过这种事真能发生，可它偏偏就发生了。
+english_events_endings:L2909,ending_date_lamb,FIX,"%CURRENTPLAYERNAME%, I gotta admit: at first I found you uninteresting and just mildly convenient because you own a car.",%CURRENTPLAYERNAME%我得承认 一开始我发现你没有兴趣 并且只是轻而易举 因为你拥有一辆汽车,%CURRENTPLAYERNAME%，我得承认：一开始我觉得你挺无趣的，只是因为你有车，多少还有点用。
+english_events_endings:L2910,ending_date_lamb,FIX,I don't own it.,我不拥有它。,这车不是我的。
+english_events_endings:L2911,ending_date_lamb,FIX,"Shhhhh, lemme finish.","嘘,让我说完",嘘——让我说完。
+english_events_endings:L2912,ending_date_lamb,FIX,Now I know you are way more than just mildly convenient.,现在我知道你不只是轻而易举的了,现在我知道了，你可不只是有点用而已。
+english_events_endings:L2913,ending_date_lamb,FIX,"You're reliable and a good listener, and your contralto voice will surely make for some delightful chants.",你可靠而且听力好 你的反响肯定能发出一些令人愉快的口号,你靠得住，又愿意听人说话。你那女低音唱起圣歌来，肯定也很动听。
+english_events_endings:L2914,ending_date_lamb,FIX,"Not to mention, I'm sure that one day you'll make a great, delicious corpse.","更别提了,我敢肯定,有一天你会 做一个伟大的,美味的尸体。",更别说，我相信有一天，你会成为一具非常出色、非常美味的尸体。
+english_events_endings:L2915,ending_date_lamb,POLISH,"Oh, you're saying that just to be nice!","哦,你这么说只是为了好!",哎呀，你就是嘴甜，哄我开心！
+english_events_endings:L2916,ending_date_lamb,KEEP,"No, I mean it.","不,我是认真的。","不,我是认真的。"
+english_events_endings:L2917,ending_date_lamb,POLISH,"I mean it so much that I want to invite you to join my cult, now that you're done with this road trip.","我非常想邀请你加入我的邪教, 既然你结束了这次出行。",我可是认真的。既然你的公路旅行结束了，我想邀请你加入我的教团。
+english_events_endings:L2918,ending_date_lamb,KEEP,...!,...!,...!
+english_events_endings:L2919,ending_date_lamb,POLISH,"Oh, this is all so sudden... but I've already been thinking that after so many road misadventures, it was about time for me to settle down.",这太突然了... 但我一直在想 在经历了这么多的路险之后 我该安顿下来了,哦，这也太突然了……不过，经历了这么多路上的倒霉事，我也一直在想，是时候安定下来了。
+english_events_endings:L2920,ending_date_lamb,FIX,"And you know what they say: nothing says ""settle down"" like joining a cult!","你知道他们怎么说的吗: 没有什么能像加入邪教一样说""安定""的!",俗话说得好：想安定下来，还有什么比加入邪教更合适呢！
+english_events_endings:L2921,ending_date_lamb,POLISH,(Do they say that?),(他们这么说吗? ),（有这句俗话吗？）
+english_events_endings:L2922,ending_date_lamb,FIX,"So... yes, Lamb: I will join your cult. And who knows? Maybe there could even be a wedding in our future?",所以说... 我会加入你的邪教 谁知道呢? 也许我们将来还会有婚礼?,所以……好啊，羔羊，我加入你的教团。谁知道呢？说不定以后我们还能结个婚？
+english_events_endings:L2923,ending_date_lamb,FIX,Um... sure! I'd be down for a fifth spouse.,那个... 当然! 我倒想成为第五任配偶,呃……好啊！我不介意再多个配偶，凑够五个。
+english_events_endings:L2924,ending_date_lamb,POLISH,We'd only need some time to get to know each other better... and seventy-five bones.,我们只需要一些时间来了解对方... 和七十五个骨头。,我们只需要花点时间，多了解彼此……再加七十五根骨头。
+english_events_endings:L2925,ending_date_lamb,POLISH,"I have some spare bones. I've always said nobody needs this many ribs, anyway.","我有一些多余的骨头。 我总是说 没人需要这么多肋骨,反正。",我有几根多余的骨头。反正我一直觉得，人哪用得着这么多肋骨。
+english_events_endings:L2926,ending_date_lamb,FIX,Perfect. Then it's settled!,完美无缺 就这么定了!,太好了，那就这么定了！
+english_events_endings:L2927,ending_date_lamb,FIX,Look how excited my followers are that you're joining the cult!,看我的追随者们多么兴奋 你加入了邪教!,看，我的信徒们一听你要加入教团，多兴奋啊！
+english_events_endings:L2928,ending_date_lamb,POLISH,"(Or maybe they just want to eat your corpse, hard to tell.)","(或者他们只是想吃你的尸体,很难说)",（也可能只是想吃你的尸体，谁说得准呢。）
+english_events_endings:L2929,ending_date_lamb,FIX,Fuck yeah!,他妈的是的!,爽他妈爆！
+english_events_endings:L2930,ending_date_lamb,FIX,And that's the story of how you joined the Cult of the Lamb.,这就是你加入羔羊邪教的故事。,你就是这样，加入了羔羊教团。

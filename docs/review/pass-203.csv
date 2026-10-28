@@ -1,0 +1,98 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_maingame:L22210,tarottournament_stage2,FIX,I don't care! The Moon will still help me win this match.,我不管! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! 月亮还是会帮我赢得这场比赛的,我不管！月亮照样能帮我赢下这局。
+english_events_maingame:L22211,tarottournament_stage2,FIX,It's time to summon the champion that will fight for us in this battle of the arcana.,是时候召唤冠军 为我们在这场阿尔卡纳之战中战斗了,接下来，召唤替我们出战的英雄，在这场秘仪之战里一决高下。
+english_events_maingame:L22212,tarottournament_stage2,FIX,"Today, I'm playing a deck of Virtues.","今天,我演的是道德的一出戏",今天，我用的是美德牌组。
+english_events_maingame:L22213,tarottournament_stage2,POLISH,Heh...,哦...,呵……
+english_events_maingame:L22215,tarottournament_stage2,FIX,"Why is Hope smirking in such a patronizing way, Polly?",为什么希望会这么优雅地笑着呢 波莉?,波莉，希望女巫怎么笑得这么一副瞧不起人的样子？
+english_events_maingame:L22216,tarottournament_stage2,FIX,She must have a secret play %CURRENTPLAYERNAME% won't see coming!,她一定有秘密的游戏%CURRENTPLAYERNAME% 看不到即将来临!,她肯定藏了什么招，打算让%CURRENTPLAYERNAME%措手不及！
+english_events_maingame:L22218,tarottournament_stage2,FIX,"You're not wrong, Polly. %CURRENTPLAYERNAME% here is obviously expecting me to play ""Hope"" as my champion of Virtue...","你没有错 波莉.  %CURRENTPLAYERNAME% 这里显然期待我打出""希望""作为我道德的冠军...",没错，波莉。%CURRENTPLAYERNAME%肯定以为，我会选“希望”当自己的美德英雄……
+english_events_maingame:L22219,tarottournament_stage2,POLISH,You aren't expecting anything. You barely understand how this game is played at all.,你没有期待什么。 你根本不懂游戏是怎么玩的,你什么都没在想。这游戏怎么玩，你都还没弄明白。
+english_events_maingame:L22220,tarottournament_stage2,POLISH,BUT NO! For you see: I am three moves ahead!,但是没有! 汝见:我三步前行!,可惜，不是！因为我早就算到了三步之后！
+english_events_maingame:L22222,tarottournament_stage2,POLISH,She's three moves ahead?!,她领先了三步?,她都算到三步之后了？！
+english_events_maingame:L22226,tarottournament_stage2,FIX,"Yes! And that's why I'm playing Fides, the card of Faith. It grants me zealous determination to achieve my goals blindly...","没错! 所以我才要玩费斯,信仰之卡 它让我有决心盲目地实现我的目标...",没错！所以我要打出菲德斯，“信仰”之牌。它赋予我狂热的决心，让我不顾一切、盲目追求目标……
+english_events_maingame:L22227,tarottournament_stage2,POLISH,...and my goal is winning this match!,...我的目标是赢得这场比赛!,……而我的目标，就是赢下这局！
+english_events_maingame:L22228,tarottournament_stage2,POLISH,"I wanna see how you beat that, %CURRENTPLAYERNAME%!",我想看看你怎么打败的 %CURRENTPLAYERNAME%!,%CURRENTPLAYERNAME%，我倒要看看，你怎么赢我！
+english_events_maingame:L22229,tarottournament_stage2,FIX,You want to see that too... but how?,你也想看看这个... 怎么会呢?,你也想知道……可怎么赢呢？
+english_events_maingame:L22230,tarottournament_stage2,FIX,"You spot two champions in your hand... or rather, one champion and one super-cool ""champion"" you may or may not have snuck in yourself...","你发现两个冠军在你手中... 或者说,一个冠军和一个超级酷""香"" 你可能溜入或没有溜入自己...",你在手牌里发现了两张英雄牌……确切说，是一张英雄牌，加上一张可能是你自己偷偷塞进去的、超酷的“英雄牌”……
+english_events_maingame:L22233,tarottournament_stage2,FIX,Gluttony,胶质,暴食
+english_events_maingame:L22234,tarottournament_stage2,FIX,Pride,骄傲,傲慢
+english_events_maingame:L22244,tarottournament_stage2,FIX,"You play ""Gluttony"".","你玩""Gluttony""。 。 。",你打出“暴食”。
+english_events_maingame:L22247,tarottournament_stage2,POLISH,NANI?!?!,纳尼!,纳尼？！
+english_events_maingame:L22249,tarottournament_stage2,FIX,GLUTTONY?! WHAT'S THAT?!,格吕通尼! 这是什么?,暴食？！那是什么？！
+english_events_maingame:L22251,tarottournament_stage2,FIX,NO WAY!!!,没办法!,不会吧！！！
+english_events_maingame:L22258,tarottournament_stage2,FIX,"No, but really... is that card, like... good?","不,但真的... ... 说真的,我... 那张卡片,就像... 怎么样?",不是，认真问……这牌……很强吗？
+english_events_maingame:L22261,tarottournament_stage2,POLISH,"Yeah. It represents one of the ""Old Deities"": entities that have preyed upon reality since the beginning of time.","对 它代表""老神""之一:自出道以来就一直以现实为生的实体.",强。它代表一位“古神”：从时间伊始，就以现实为猎物的存在。
+english_events_maingame:L22262,tarottournament_stage2,FIX,"This Old One is said to represent obsession, of which gluttony is one aspect.","据说这个""老一""代表着痴迷,其中一面是""过量"".",据说，这位古神象征着痴迷，而暴食只是其中一个方面。
+english_events_maingame:L22264,tarottournament_stage2,POLISH,I'm pretty sure the card represents the orange cat from that one cartoon show.,"我敢肯定,卡代表 橙猫从一个卡通节目。",我怎么觉得，这张牌画的是某部动画里的橘猫呢。
+english_events_maingame:L22266,tarottournament_stage2,FIX,"No, it's the Old One! When someone is under its influence, obsession overtakes them... and they will devour anything with no end in sight!","不,是旧的! 当某人受到它的影响时 痴迷会超越他们... 他们将吞噬一切,而无尽的视线。",不是，是古神！受它影响的人，会被执念彻底吞没……然后没完没了地吞噬一切！
+english_events_maingame:L22268,tarottournament_stage2,FIX,Anything... like lasagna?,随便... 像面条?,吞噬一切……比如千层面？
+english_events_maingame:L22270,tarottournament_stage2,FIX,I suppose; it can be anything! Lasagna; a TV show; anything that you can obsess about.,"我想,它可以是任何东西! 香肠; 电视剧; 任何你能够迷恋的东西.",可以吧，什么都行！千层面、电视剧，任何能让你上瘾的东西。
+english_events_maingame:L22272,tarottournament_stage2,POLISH,"I'm telling you: it's the cat. You know the one: ""I love lasagna, and I hate Mondays!""","我告诉你,是那只猫 你知道那个:""我爱吃千层面,我讨厌周一""",都说了，就是那只猫。你知道的：“我爱千层面，我讨厌星期一！”
+english_events_maingame:L22273,tarottournament_stage2,POLISH,"You know the one! Does this ""old deity"" hate Mondays?","你知道那个! 这个""老神""讨厌星期一吗?",就是它嘛！你这位“古神”讨厌星期一吗？
+english_events_maingame:L22275,tarottournament_stage2,POLISH,I mean... I don't think the deity cares about the abstract construct of time or workdays...,我是说... 我觉得神灵不关心时间或工作日的抽象构思......,呃……我不觉得神会在乎时间、工作日这种抽象概念……
+english_events_maingame:L22276,tarottournament_stage2,POLISH,"...but I suppose that if it had to choose a least favorite day, it'd be the most ""productive"" one, Monday, sure.","...但如果它不得不选择最不爱的一天, 那一定是最""有效果""的一天,星期一,当然。",……不过硬要选一天最讨厌的，那应该是最讲究“生产力”的日子，星期一吧。
+english_events_maingame:L22278,tarottournament_stage2,POLISH,See?,看到没?,看吧？
+english_events_maingame:L22279,tarottournament_stage2,POLISH,"But anyway... you say the orange cat is a powerful card, isn't it?","不过... 你说橙色猫是张强大的牌,不是吗?",不过话说回来……你说这橘猫牌很强，对吧？
+english_events_maingame:L22281,tarottournament_stage2,KEEP,Yes!,没错!,没错!
+english_events_maingame:L22283,tarottournament_stage2,POLISH,Great! Then shut up and keep playing!,"不错! Great! 那就闭嘴,继续玩!",太好了！那就闭嘴，继续打！
+english_events_maingame:L22285,tarottournament_stage2,FIX,Hmph...,额...,哼……
+english_events_maingame:L22290,tarottournament_stage2,FIX,GLUTTONY!,格吕通尼!,暴食！
+english_events_maingame:L22292,tarottournament_stage2,FIX,Gluttony?,结晶?,暴食？
+english_events_maingame:L22294,tarottournament_stage2,POLISH,"Yeah. It represents one of the ""Old Deities"": entities that have preyed upon reality since the beginning of time.","对 它代表""老神""之一:自出道以来就一直以现实为生的实体.",强。它代表一位“古神”：从时间伊始，就以现实为猎物的存在。
+english_events_maingame:L22295,tarottournament_stage2,FIX,"This Old One is said to represent obsession, of which gluttony is one aspect.","据说这个""老一""代表着痴迷,其中一面是""过量"".",据说，这位古神象征着痴迷，而暴食只是其中一个方面。
+english_events_maingame:L22297,tarottournament_stage2,POLISH,I'm pretty sure the card represents the orange cat from that one cartoon show.,"我敢肯定,卡代表 橙猫从一个卡通节目。",我怎么觉得，这张牌画的是某部动画里的橘猫呢。
+english_events_maingame:L22299,tarottournament_stage2,KEEP,It does not!,才没有!,才没有!
+english_events_maingame:L22300,tarottournament_stage2,FIX,It's based on a very powerful old entity. But it's also quite high maintenance!,它基于一个非常强大的老实体. 但它也是相当高的维护!,它代表一位非常强大的古老存在。可养起来也很费劲！
+english_events_maingame:L22301,tarottournament_stage2,FIX,"After playing it, you must feed the card four Lasagna Tokens per turn... or else.","玩完后,你必须每转弯 给卡片喂四块拉萨格纳托肯斯 或别.",打出这张牌后，每回合必须喂它四枚千层面代币……不然嘛。
+english_events_maingame:L22303,tarottournament_stage2,FIX,OR ELSE?! WILL %CURRENTPLAYERNAMECAPS% DIE IF THE CARD IS NOT FED THE LASAGNA TOKENS?!,"还是其他人! 将 %CURRENTPLAYERNAMECAPS% 死亡,如果CARD没有Fed Lagagna 肯斯!",不然会怎样？！要是不喂千层面代币，%CURRENTPLAYERNAMECAPS%会死吗？！
+english_events_maingame:L22305,tarottournament_stage2,FIX,"Nah, but this card is known to be a massive jerk to its owner if not properly fed.","不,但这卡 已知是一个巨大的混蛋 主人,如果没有适当的食物。",不会，可这牌出了名的：吃不饱，就对主人特别混蛋。
+english_events_maingame:L22307,tarottournament_stage2,FIX,"Hope is not wrong. You have no Lasagna Tokens, and thus the card gets quite upset...","希望是没有错的。 你没有拉萨格纳托肯斯,所以卡片变得相当不高兴...",希望女巫没说错。你一枚千层面代币都没有，这张牌相当不高兴……
+english_events_maingame:L22308,tarottournament_stage2,POLISH,...and Hope failed to mention that the fucking card can somehow talk.,...希望没有提到那张卡片能说话,……而且希望女巫忘了提，这破牌不知道怎么还能说话。
+english_events_maingame:L22309,tarottournament_stage2,FIX,So for the next few hours you get massively distracted by the talking card.,所以接下来的几个小时里 你被谈话卡 分散了注意力,于是接下来的几个小时，这张喋喋不休的牌，吵得你根本没法集中注意力。
+english_events_maingame:L22310,tarottournament_stage2,POLISH,"""%CURRENTPLAYERNAME%, I require lasagna"".","""%CURRENTPLAYERNAME%我需要千层面""",“%CURRENTPLAYERNAME%，我需要千层面。”
+english_events_maingame:L22311,tarottournament_stage2,POLISH,"""%CURRENTPLAYERNAME%, where is my lasagna?""","""%CURRENTPLAYERNAME%""我的千层面在哪里?""",“%CURRENTPLAYERNAME%，我的千层面呢？”
+english_events_maingame:L22312,tarottournament_stage2,POLISH,"""%CURRENTPLAYERNAME%, I can smell you, give me my lasagna.""","""%CURRENTPLAYERNAME%""我能闻到你,给我我的千层面""",“%CURRENTPLAYERNAME%，我闻得到你，把我的千层面交出来。”
+english_events_maingame:L22313,tarottournament_stage2,FIX,It's just too annoying. You give up before you feel like throwing the card into a lake.,"实在太烦人了 你放弃之前,你觉得 将牌扔入湖。",实在太烦了。趁自己还没忍不住把牌扔进湖里，你赶紧认输。
+english_events_maingame:L22314,tarottournament_stage2,POLISH,"Not long after that, Hope's Oober finally arrives, and she leaves.","不久后,""希望""的""Oober""终于到来,她就离开了.",没过多久，希望女巫叫的 Oober 终于到了，她坐车离开。
+english_events_maingame:L22315,tarottournament_stage2,FIX,"You're left defeated, having lost -3 STAMINA out of a sandwich of yours Hope keeps for beating you at competitive tarot.",你被打败了 3个STAMINA从你的三明治上输了 Hope在竞争的塔罗特上打败了你,你惨败收场。希望女巫赢了这局竞技塔罗，拿走你一个三明治当战利品，让你失去了 -3 体力。
+english_events_maingame:L22325,tarottournament_stage2,FIX,"You play ""Pride"".","你玩""骄傲""。",你打出“傲慢”。
+english_events_maingame:L22328,tarottournament_stage2,POLISH,NANI?!?!,纳尼!,纳尼？！
+english_events_maingame:L22330,tarottournament_stage2,FIX,IT CAN'T BE! PRIDE?!,怎么会这样! 证明人?,不可能！傲慢？！
+english_events_maingame:L22332,tarottournament_stage2,FIX,NO WAY!!!,没办法!,不会吧！！！
+english_events_maingame:L22337,tarottournament_stage2,POLISH,"No, but really: what the fuck is that card?","不,但真的,那张卡是什么?",不是，认真问：这他妈是什么牌？
+english_events_maingame:L22338,tarottournament_stage2,POLISH,It's... not even a real card. That's a piece of cardboard with a drawing of you on it!,这是... 甚至连一张真正的卡都没有 纸板上画有你画的图,这……根本不是正经牌。就是一块纸板，上面画着你自己！
+english_events_maingame:L22339,tarottournament_stage2,FIX,"Yeah, self-insert for the win!","对,为赢赢而自插!",没错！自设角色万岁！
+english_events_maingame:L22340,tarottournament_stage2,POLISH,You... can't do that. You can't make up a card!,你们... 无法做到这一点。 凭什么乱编?,你……不能这样。哪有自己瞎编牌的！
+english_events_maingame:L22345,tarottournament_stage2,POLISH,"All cards are made up, though...","所有牌都是编的,虽然...",可所有牌都是编出来的啊……
+english_events_maingame:L22347,tarottournament_stage2,KEEP,"Yes, but not in that way.","是的,但不是那样的。","是的,但不是那样的。"
+english_events_maingame:L22349,tarottournament_stage2,FIX,What's the difference?,何等为相.,有什么区别？
+english_events_maingame:L22351,tarottournament_stage2,POLISH,"Well, the real cards are made by professionals, and that thing is made by... you.","真正的牌是专业人士做的 那种东西是... 你,你,你,你,你,你,你,你,你,你,你,你,你,你,你,你,你,你,你",正经牌都是专业人士做的，你这玩意儿……是你自己做的。
+english_events_maingame:L22352,tarottournament_stage2,POLISH,So? I am the very best; that's the whole point of the card.,"怎么样? 我是最棒的,这就是牌的要点。",那又怎样？我就是最棒的，这就是这张牌的核心。
+english_events_maingame:L22353,tarottournament_stage2,FIX,That proves the card is right: I am prideful; prideful enough to consider myself as good as or better than the dumb creators of these dumb cards!,"这证明卡片是正确的:我非常骄傲;我非常骄傲,足以认为自己比这些哑卡的哑卡创作者好或更好!",正好证明这张牌没错：我很傲慢，傲慢到觉得自己不比那帮设计破牌的蠢货差，甚至比他们强！
+english_events_maingame:L22354,tarottournament_stage2,KEEP,That's not how it works!,事情不是这样的!,事情不是这样的!
+english_events_maingame:L22356,tarottournament_stage2,FIX,"As the self-appointed referee, I decree this is a legal play.",作为自我任命的裁判 我决定这是一部法律剧,作为自封的裁判，我宣布，这手牌合法。
+english_events_maingame:L22358,tarottournament_stage2,POLISH,You can't self-appoint yourself as referee!,自己不能自命为裁判!,你不能自己给自己封个裁判！
+english_events_maingame:L22360,tarottournament_stage2,FIX,"Welp, I just did it. You see: I am very prideful too.","Welp,我刚刚做到了。 你看,我也非常骄傲。",可我已经封了。你看，我也很傲慢。
+english_events_maingame:L22362,tarottournament_stage2,KEEP,Ugh!,唉哟!,唉哟!
+english_events_maingame:L22364,tarottournament_stage2,FIX,"Are you implying that the moment a player plays a dumb little ""made-up"" card, you are automatically unable to win?","你是说玩家玩出哑""出""牌""的一瞬间,自动无法取胜?.",你是说，玩家一打出一张蠢兮兮的“自制牌”，你就立刻赢不了了？
+english_events_maingame:L22366,tarottournament_stage2,POLISH,Eh... no! Of course not! I can beat this idiot with one hand tied to my back!,"额... 不,我说,我... 当然不是! 我只能用一只手绑住我的背来打败这个白痴!",呃……不是！当然不是！就算一只手绑在背后，我也能赢这个白痴！
+english_events_maingame:L22368,tarottournament_stage2,POLISH,(Look who's prideful now.),(看看谁现在很骄傲了),（看看，现在是谁在傲慢了。）
+english_events_maingame:L22369,tarottournament_stage2,KEEP,"Well, then show us!",那就给我们看看!,那就给我们看看!
+english_events_maingame:L22371,tarottournament_stage2,POLISH,"Hmph, okay!","哼,还好!",哼，行啊！
+english_events_maingame:L22376,tarottournament_stage2,POLISH,...What?,什麽?,……什么？
+english_events_maingame:L22377,tarottournament_stage2,POLISH,It's a card I made myself! It's me!,"这是我自己做的一张牌! 是我! ! ! ! 是我,我来了!",我自己做的牌！画的就是我！
+english_events_maingame:L22378,tarottournament_stage2,FIX,"So...? I mean, this is a magical game full of mythical creatures full of unbound power...",所以... ? ? 说吧 So... 充满了神话般的生物 充满了无限的力量...,所以呢……？这可是场魔法游戏，里面全是力量无穷的神话生物……
+english_events_maingame:L22379,tarottournament_stage2,FIX,"...and you play yourself? I don't want to throw shade, but you're kind of lame.","...你玩你自己吗? 我不想抛出阴影, 但你有点跛了。",……结果你把自己打出来？不是想损你，可你真的有点逊。
+english_events_maingame:L22381,tarottournament_stage2,KEEP,"She has a point, %CURRENTPLAYERNAME%!",她说得有道理 %CURRENTPLAYERNAME%!,她说得有道理 %CURRENTPLAYERNAME%!
+english_events_maingame:L22383,tarottournament_stage2,FIX,N-No! I'm cool!,"不,没有! 我没事!",才、才没有！我很酷的！
+english_events_maingame:L22384,tarottournament_stage2,POLISH,"Okay, then tell us what this card does...","好吧,那告诉我们这卡做什么...",行，那说说这张牌有什么本事……
+english_events_maingame:L22385,tarottournament_stage2,POLISH,"Well, hmmm... it is very cool!","这个嘛,嗯... 这很酷!",这个，嗯……它特别酷！
+english_events_maingame:L22386,tarottournament_stage2,FIX,It can jump very high and knows a lot about yogurt... although I guess %HESHE% can't consume yogurt because the card is lactose intolerant.,"它能跳得很高,而且对酸奶很了解... 虽然我猜%HESHE%不能消费酸奶 因为卡片是乳糖不耐用。",能跳得很高，还特别懂酸奶……不过%HESHE%应该不能喝酸奶，因为这张牌乳糖不耐受。
+english_events_maingame:L22387,tarottournament_stage2,FIX,"But if you equip a dairy card on it, I guess this champ can pass a lot of gas! And that can be good, maybe?","但如果你在上面装了个奶卡,我想这位冠军可以通过很多汽油! 那样会很好,也许?",但要是给这位英雄装备一张乳制品牌，应该就能放一大堆屁！没准……能有用？
+english_events_maingame:L22389,tarottournament_stage2,FIX,"No, it's not.","不,不是的,我说,我...",不，没用。
+english_events_maingame:L22390,tarottournament_stage2,FIX,Is this Polly's subtle way of telling you she's not okay with you eating lots of yogurt and getting gassy during the trip?!,这是 波莉告诉你她不喜欢你吃很多酸奶 旅行时会喘气吗?,波莉这是在委婉地告诉你：别在旅途中灌一肚子酸奶，然后一路放屁吗？！
+english_events_maingame:L22391,tarottournament_stage2,KEEP,Oh...,哦...,哦...
+english_events_maingame:L22392,tarottournament_stage2,POLISH,"You realize this wasn't nearly as cool as you thought it would be, and everyone's insistence on how lame you are surely doesn't help your confidence.",你知道这没有你想的那么酷 每个人都坚持你这么笨 这肯定无助于你的信心,你终于发现，这主意根本没自己想的那么酷。大家还一个劲说你很逊，更把你的自信心打得稀碎。
+english_events_maingame:L22393,tarottournament_stage2,FIX,Hope exploits your newfound insecurities and beats you easily.,希望利用你的新发现的不安全感 轻易地打败你,希望女巫抓住你刚冒出来的自卑，轻松赢了你。
+english_events_maingame:L22395,tarottournament_stage2,POLISH,"Not long after that, Hope's Oober finally arrives, and she leaves.","不久后,""希望""的""Oober""终于到来,她就离开了.",没过多久，希望女巫叫的 Oober 终于到了，她坐车离开。
+english_events_maingame:L22396,tarottournament_stage2,FIX,"You're left defeated, having lost -3 HYPE from being a lame loser.",你被打败了 输了3个HYPE 输了一个烂人,你惨败收场，因为是个逊透了的输家，失去了 -3 热度。

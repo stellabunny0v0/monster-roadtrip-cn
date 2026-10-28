@@ -1,0 +1,95 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_pitstop:L3391,cmosscryptids,FIX,Cryptids,密码,神秘生物
+english_events_pitstop:L3393,cmosscryptids,FIX,Cryptids? It's a term used for some monsters who provoke a unique type of disturbance.,密码? 这个术语用于一些引起独特类型扰动的怪物.,神秘生物？这个称呼指的是某些会引发特殊扰动的怪物。
+english_events_pitstop:L3394,cmosscryptids,FIX,"Nobody really knows why, but we tend to provoke fissures in the veil that's between the Monster Realm and the Human Realm.",没有人真正知道原因 但我们往往在怪兽王国和人类王国之间的面纱上 挑起裂缝,没人真正知道原因，但我们很容易让怪物界与人类界之间的帷幕出现裂隙。
+english_events_pitstop:L3395,cmosscryptids,REVIEW,"It is light and momentous, but still quite dangerous.","它既轻又重要,但仍然相当危险。",这种扰动虽轻微，影响却不小，而且仍相当危险。
+english_events_pitstop:L3396,cmosscryptids,KEEP,"Sometimes humans get a look at us, and that's not good.","有时人类会看到我们,这可不好。","有时人类会看到我们,这可不好。"
+english_events_pitstop:L3397,cmosscryptids,FIX,"Because they get too horny, I get it.","因为他们太性欲了,我明白了。",因为他们会欲火焚身，我懂。
+english_events_pitstop:L3398,cmosscryptids,POLISH,"Heh, no... humans don't react very well to things they can't explain.","嘿,没有... 人类对无法解释的事物的反应不大好.",呵，不是……人类面对无法解释的事物，反应往往不太好。
+english_events_pitstop:L3399,cmosscryptids,FIX,"They try to secure us; to contain us. Even if we pierce the veil for an instant, some of us never come back.","他们试图保护我们;遏制我们。 即使我们一瞬间刺穿了面纱,我们有些人也永远不会回来.",他们会设法抓住我们、收容我们。有些同类哪怕只穿过帷幕一瞬间，也再没回来过。
+english_events_pitstop:L3400,cmosscryptids,POLISH,"Whoa, that's not great. Sorry that I joked about it.","哇,这不妙。 对不起,我开玩笑。",哇，那可不妙。抱歉，刚才还拿这事开玩笑。
+english_events_pitstop:L3401,cmosscryptids,POLISH,"No, it's fine, you didn't know.","不,这很好,你不知道。",没关系，你之前不知道。
+english_events_pitstop:L3402,cmosscryptids,FIX,"There are many of us: classic cryptids, creepypasta entities, urban legends, anomalies...","我们有很多人: 经典的地窖, 令人毛骨悚然的实体, 城市传说, 异常...",我们有很多种：传统的神秘生物、网络怪谈里的存在、都市传说、异常现象……
+english_events_pitstop:L3403,cmosscryptids,FIX,All so different; all united by the risk of drifting into a realm that's not ours... of being captured by humankind.,"都不同了,都团结在一起 冒着漂入一个不属于我们的国家的风险... 被人类所俘虏",我们各不相同，却面对着同样的风险：漂进不属于我们的世界……被人类抓住。
+english_events_pitstop:L3404,cmosscryptids,FIX,But you know what? To humans we're things of mystery... creatures of gossip!,"但是你知道吗? 对人类来说,我们是神秘的... 流言蜚语的生物!",但你知道吗？在人类眼里，我们是神秘的存在……是八卦里的主角！
+english_events_pitstop:L3405,cmosscryptids,KEEP,Imagine that!,试想一下!,试想一下!
+english_events_pitstop:L3406,cmosscryptids,FIX,The gossipper becomes the gossip!,流言蜚语变成流言!,聊八卦的人，变成了八卦！
+english_events_pitstop:L3407,cmosscryptids,KEEP,Precisely!,没错!,没错!
+english_events_pitstop:L3408,cmosscryptids,POLISH,Life can be funny that way.,那样的生活会很有趣的,生活有时就是这么有趣。
+english_events_pitstop:L3409,cmosscryptids,FIX,"Anyhow... the possibility of being captured is scary, but to play it safer, we cryptids tend to form communities.",无论如何... 被俘虏的可能性是可怕的 但为了安全起见 我们的密码往往会形成社区,总之，被抓走的可能性确实吓人。为了更安全一些，我们神秘生物往往会聚在一起，建立社群。
+english_events_pitstop:L3410,cmosscryptids,FIX,It's good you have each other's backs.,幸有相后相从.,能彼此照应，真好。
+english_events_pitstop:L3411,cmosscryptids,KEEP,"It most definitely is, yes.",绝对是的,绝对是的
+english_events_pitstop:L3412,cmosscryptids,FIX,Moss spends the rest of the night telling you about what he has seen of the Human Realm. Such weird stories!,莫斯整晚都在告诉你 他所看到的人类王国 这么奇怪的故事!,剩下的夜晚，莫斯都在讲自己在人类界的见闻。那些故事可真怪！
+english_events_pitstop:L3421,cmosscryptidacademy,FIX,Cryptid Academy,密码学院,神秘生物学院
+english_events_pitstop:L3423,cmosscryptidacademy,POLISH,Cryptid Academy was such a delightful experience!,密码学院真是令人愉快的经历!,在神秘生物学院的那段日子，真是愉快！
+english_events_pitstop:L3424,cmosscryptidacademy,POLISH,"I majored in history, with a focus on oral history... my first steps into my current PhD thesis on gossip!","我主修历史, 专注于口述历史... 我进入我目前关于八卦的博士论文的第一步!",我主修历史，重点研究口述史……那也算我如今这篇八卦博士论文的起点！
+english_events_pitstop:L3425,cmosscryptidacademy,FIX,"(And into my appreciation for oral, too.)",(我对口述也表示感激),（也是我开始欣赏“用嘴服务”的起点。）
+english_events_pitstop:L3426,cmosscryptidacademy,KEEP,...What?!,什麽?,什麽?
+english_events_pitstop:L3427,cmosscryptidacademy,FIX,"Haha, nothing, just a juvenile joke. A bit crass, but I couldn't let it pass.","哈哈 没什么 只是个小玩笑 有点傻,但我不能让它过去。",哈哈，没什么，一个幼稚的笑话。有点粗俗，但实在忍不住。
+english_events_pitstop:L3428,cmosscryptidacademy,FIX,I had no idea you did majors in Cryptid Academy.,我不知道你在科普蒂德学院修过学,我都不知道神秘生物学院还分专业。
+english_events_pitstop:L3429,cmosscryptidacademy,KEEP,"Well, it's the normal thing, my friend.","嗯,这是正常的事情,我的朋友。","嗯,这是正常的事情,我的朋友。"
+english_events_pitstop:L3430,cmosscryptidacademy,FIX,"If anything, when I heard about your school I was highly confused.","如果有的话,当我听说你的学校时,我非常困惑。",倒是听说你们学校的时候，我很困惑。
+english_events_pitstop:L3431,cmosscryptidacademy,FIX,Why do you call it Spooky High? You're in your twenties!,你为什么叫它Spooky高中? 你20多岁了!,为什么叫惊悚高中？你们都二十多岁了！
+english_events_pitstop:L3432,cmosscryptidacademy,FIX,Like... did you get high schools and universities all mixed up?,喜欢... 你们把高中和大学都搞混了吗?,你们是不是把高中和大学弄混了？
+english_events_pitstop:L3433,cmosscryptidacademy,FIX,"Yeah... so, our school was modeled after a human documentary about their education system... It's called ""Saved by the Bell"".","对... 所以,我们的学校是仿照 人类纪录片 他们的教育制度... 有""被钟所救""之称.",是啊……我们学校是照着一部人类教育制度的纪录片建的。那片子叫《Saved by the Bell》。
+english_events_pitstop:L3434,cmosscryptidacademy,FIX,It depicts humans in their twenties attending high school. So we figured out high school is something you do at that age.,它描绘了20多岁上高中的人类. 所以我们知道高中是你那个年龄做的。,里面那些二十多岁的人类都在上高中，所以我们以为，高中就是那个年纪上的。
+english_events_pitstop:L3435,cmosscryptidacademy,FIX,"The documentary teaches high school isn't even about the curriculum... it's about friendship, living wacky misadventures, and finding love!","纪录片教高中 甚至不是课程... 这是关于友谊, 活着的疯狂错误冒险, 和寻找爱情!",纪录片还教我们，高中根本不是用来学课程的……而是交朋友、经历荒唐的冒险，还有谈恋爱！
+english_events_pitstop:L3436,cmosscryptidacademy,FIX,Plot twist: it turns out it's not a documentary but a very inaccurate TV show.,"Plot曲折:事实证明它不是一部纪录片,而是一部非常不准确的电视节目.",结果来了个反转：那根本不是纪录片，只是部很不真实的电视剧。
+english_events_pitstop:L3437,cmosscryptidacademy,FIX,"Long story short, recently the school learned about this and now it's going through a whole rebranding.","说来话长,最近学校得知了这一点,现在正在经历一个整体的重塑.",长话短说，学校最近才知道这回事，现在正全面重塑形象。
+english_events_pitstop:L3438,cmosscryptidacademy,FIX,Now it goes by Spooky Academy.,现在它由Spooky学院。,现在改叫惊悚学院了。
+english_events_pitstop:L3439,cmosscryptidacademy,FIX,"That's a first step, but this ""Spooky Academy"" should be more like a university. With majors and such.","这是第一步,但这个""斯普克学院""应该更像一所大学. 有专业之类的。",这是个开始。不过，这所“惊悚学院”应该更像大学一点，要有专业什么的。
+english_events_pitstop:L3440,cmosscryptidacademy,KEEP,Aw... so... no prom?,哦... 所以说... 没有舞会?,哦... 所以说... 没有舞会?
+english_events_pitstop:L3441,cmosscryptidacademy,FIX,"No, you can totally keep prom. Prom is the pillar of any education system.","不,你完全可以保留舞会。 家长会是任何教育系统的支柱。",不，舞会当然可以保留。舞会可是所有教育体系的支柱。
+english_events_pitstop:L3442,cmosscryptidacademy,FIX,"In any case, it beats me how no one complained before. Some of you are even undead, like... you used to be human! Shouldn't you know better?","无论如何,它胜过我 之前没有人抱怨。 你们中有些人甚至不死,就像... 你曾经是人类! 难道你不该更清楚吗?",不过，居然一直没人抱怨，真让我想不通。你们有些人甚至是不死族，以前当过人类啊！难道不应该知道吗？
+english_events_pitstop:L3443,cmosscryptidacademy,FIX,"I don't know, this realm makes so little actual sense that you learn to just go with whatever.","我不知道,这个领域 没有什么实际意义, 你学会了随心所欲。",不知道，这个世界太不讲道理了，你只能学着随它去。
+english_events_pitstop:L3445,cmosscryptidacademy,FIX,"On that, my friend, we totally agree. What a strange beautiful place this realm is...","朋友,我们完全同意 多么奇怪的美丽之地 这个世界是...",这点我们完全同意，朋友。这个世界，真是又奇怪又美丽……
+english_events_pitstop:L3446,cmosscryptidacademy,FIX,You stay up all night comparing your prom experiences. Cryptid Prom sounds as cool as the Monster Prom... and equally daunting!,你整晚都熬夜比较你的舞会经历 加密的相机听起来酷毙了 怪物舞会... 和同样令人生畏!,你们聊了一整晚，比较各自的舞会经历。神秘生物舞会听起来和怪物舞会一样酷……也一样让人望而生畏！
+english_events_pitstop:L3455,cmossPhD,KEEP,His PhD thesis,他的博士论文,他的博士论文
+english_events_pitstop:L3457,cmossPhD,POLISH,"Ah, yes, I am in fact working on a PhD thesis right now.","啊,是的,我事实上正在写博士论文",啊，是的，我现在确实在写博士论文。
+english_events_pitstop:L3458,cmossPhD,POLISH,"It's on the relevance of gossip and its place in oral history, and how it helps to build society's perception of reality.","它涉及八卦的相关性及其在口述历史中的地位,以及如何帮助社会建立对现实的认识.",研究的是八卦的重要性、它在口述史中的地位，以及它如何塑造社会对现实的认知。
+english_events_pitstop:L3459,cmossPhD,FIX,What a mouthful!,嘴真脏!,可真绕口！
+english_events_pitstop:L3460,cmossPhD,REVIEW,A mouthful of hot gossip.,口出热言.,绕来绕去，全是满嘴的劲爆八卦。
+english_events_pitstop:L3461,cmossPhD,KEEP,Is it hard? Working on a thesis sounds a bit intimidating.,很难吗? 写一篇论文听起来有点吓人,很难吗? 写一篇论文听起来有点吓人
+english_events_pitstop:L3462,cmossPhD,FIX,"Nah, getting a PhD is a lot like partying hard if you squint enough.","不,获得博士学位是很多喜欢 聚会,如果你看够了。",没有啦，只要换个角度看，读博跟疯狂开派对其实很像。
+english_events_pitstop:L3463,cmossPhD,KEEP,Really?,真的吗?,真的吗?
+english_events_pitstop:L3464,cmossPhD,KEEP,Yes! You almost never sleep.,没错! 你几乎从不睡觉。,没错! 你几乎从不睡觉。
+english_events_pitstop:L3465,cmossPhD,FIX,You drink A LOT (although it is mostly coffee in this case).,你喝一多杯(尽管这主要是咖啡)。,你喝得特别多（只不过，读博喝的大多是咖啡）。
+english_events_pitstop:L3466,cmossPhD,FIX,"And I am sure that looking back, you'll never be 100% sure if all those years you poured into that were just years of your life you lost forever.","我敢肯定,回想起来,你永远不会百分百地确定 如果所有那些年你投入到 你生命中仅仅失去的几年。",而且，回头再看，你永远没法百分之百确定：投入其中的那些年，会不会只是再也要不回来的光阴。
+english_events_pitstop:L3467,cmossPhD,KEEP,Yikes.,唉哟!,唉哟!
+english_events_pitstop:L3468,cmossPhD,FIX,"Yikes indeed. But it's all worth it as long as you remember the upsides too, such as...","痷 但只要你也记得那些颠倒的话,这都是值得的,比如...",是啊，可只要记得那些好处，一切还是值得的，比如……
+english_events_pitstop:L3469,cmossPhD,KEEP,...,...,...
+english_events_pitstop:L3470,cmossPhD,KEEP,"...oh, God.","...哦,天呐.","...哦,天呐."
+english_events_pitstop:L3471,cmossPhD,POLISH,"I'm sure I will remember at some point, it's okay.","我相信我会记得的,没事的",没事，我迟早会想起来的。
+english_events_pitstop:L3472,cmossPhD,FIX,Well... you're dedicating yourself to a very narrow field of knowledge you're incredibly passionate about.,这个... 你把自己奉献给 一个非常狭窄的知识领域 你令人难以置信的热情。,嗯……你正全心投入一个非常细小、却热爱得不得了的知识领域。
+english_events_pitstop:L3473,cmossPhD,POLISH,"There's something that feels pure about that, isn't there?","有一点感觉是纯洁的,不是吗?",这份投入，好像很纯粹，不是吗？
+english_events_pitstop:L3474,cmossPhD,KEEP,"Actually, yes. That's a beautiful way to put it, %CURRENTPLAYERNAME%.","其实是的。 说得真好,%CURRENTPLAYERNAME%。","其实是的。 说得真好,%CURRENTPLAYERNAME%。"
+english_events_pitstop:L3475,cmossPhD,POLISH,Thanks for giving me some solace on this exhausting path I foolishly took.,谢谢你在我愚蠢地走这条令人疲惫的道路上给我一些安慰。,谢谢你，让我在这条累得要命、又傻乎乎自己选上的路上，得到了些安慰。
+english_events_pitstop:L3476,cmossPhD,FIX,There's bravery in facing a foolish path into something you love and still taking it!,"勇敢面对一条愚蠢的道路,走进你所爱的东西,并且仍然拿它去!",明知道这条追寻热爱的路走得有点傻，还坚持走下去，也需要勇气啊！
+english_events_pitstop:L3477,cmossPhD,POLISH,"Look at you! Tonight you chose kindness, my friend. I appreciate it!","看着你! 今晚你选择了善良,我的朋友。 谢谢你!",瞧瞧你！朋友，你今晚真是善良。谢谢你！
+english_events_pitstop:L3478,cmossPhD,FIX,Hehe... it's nothing!,热... 没什么!,嘿嘿……没什么！
+english_events_pitstop:L3480,cmossPhD,FIX,"You two keep talking about Moss' PhD. He really loves it. Apparently, academy life is full of hot gossip, which is another plus.","你们两个继续谈论莫斯的博士学位。 他真的很喜欢 显然,学院生活充满了热闹的八卦,这是另一个附加.",你们继续聊莫斯的博士研究。他真的很喜欢。看来学院里全是劲爆八卦，这也是个好处。
+english_events_pitstop:L3481,cmossPhD,FIX,"That, and the possibility of rocking some dark academia aesthetics with a justification!",以及用一个理由来震撼一些 黑暗的学术美学的可能性!,还有，他终于能理直气壮地走暗黑学院风了！
+english_events_pitstop:L3490,cmossgossip,KEEP,His love for Gossip,他对八卦的爱,他对八卦的爱
+english_events_pitstop:L3492,cmossgossip,POLISH,"Ah, gossip... sweet, sweet gossip.","啊,闲话... 甜美的,甜美的八卦。",啊，八卦……甜美、甜美的八卦。
+english_events_pitstop:L3493,cmossgossip,FIX,I live for the gossip; I will most likely die for the gossip.,"我为八卦而活,我很可能为八卦而活。",我为八卦而生，也很可能会为八卦而死。
+english_events_pitstop:L3494,cmossgossip,FIX,"Gossip makes the world spin, my friend. It adds spice, flavor, pizzazz.","流言蜚语让世界旋转,我的朋友。 它添加了香料,口味,披萨.",朋友，八卦让世界转动。它添了辛香、滋味，还有光彩。
+english_events_pitstop:L3495,cmossgossip,KEEP,"I dunno, isn't it a bit like lying?","我不知道,是不是有点像在撒谎?","我不知道,是不是有点像在撒谎?"
+english_events_pitstop:L3496,cmossgossip,FIX,"Sure, in a way. You know what else is lies? Stories! Fiction! Myths! Legends!","当然,在某种程度上。 你知道什么是谎言吗? 故事! 故事吗? 虚构! 神话! 传奇!",某种意义上，是的。可你知道还有什么是谎言吗？故事！虚构！神话！传说！
+english_events_pitstop:L3497,cmossgossip,POLISH,"When people gathered around a campfire and told stories about heroes and gods, wasn't that a form of gossip?","当人们聚集在营火周围,讲述英雄和神的故事时,难道这不是一种流言蜚语吗?",人们围坐营火，讲英雄与神的故事，那不也是一种八卦吗？
+english_events_pitstop:L3498,cmossgossip,FIX,Lies can fuel monsterkind if crafted carefully. They can become a vehicle for truth.,"如果精心地设计,谎言可以激起怪物的火花. 他们可以成为真理的载体。",精心编织的谎言，可以给怪物们力量。它们也能成为真相的载体。
+english_events_pitstop:L3499,cmossgossip,POLISH,A story can teach us something about the world. A story can make us dream. A story can gives us hope.,一个故事可以教我们一些关于世界的东西. 一个故事可以让我们做梦。 一个故事可以给我们带来希望。,故事能让我们认识世界，能让我们做梦，也能给我们希望。
+english_events_pitstop:L3500,cmossgossip,FIX,"In being a humble merchant of gossip, I am but a modern storyteller like those who sat and mesmerized the audience around a campfire... a bright, beautiful campfire.","身为八卦的卑微商人,我只是一个现代的讲故事人,就像那些坐在营火周围,迷惑观众的人...... 一个明亮,美丽的营火。",我不过是个谦卑的八卦商人，也像从前那些围坐营火、让听众着迷的人一样，做一个现代的讲故事者……啊，那明亮、美丽的营火。
+english_events_pitstop:L3501,cmossgossip,KEEP,"You really like campfires, don't you?","你真的喜欢营火,不是吗?","你真的喜欢营火,不是吗?"
+english_events_pitstop:L3502,cmossgossip,FIX,What's not to love?,何等为所不爱.,有什么不值得爱的呢？
+english_events_pitstop:L3503,cmossgossip,FIX,"The campfire is the most ancient altar of stories. Around campfires and through stories, civilizations arose.","营火是故事中最古老的祭坛. 围绕营火和故事,出现了各种文明。",营火是故事最古老的祭坛。人们围坐营火，传讲故事，文明便从中诞生。
+english_events_pitstop:L3504,cmossgossip,FIX,I only hope I can be worthy of continuing the saga of those who dared to reshape the world through stories.,我只希望我能够继续那些敢于通过故事来重塑世界的人的圣训。,我只希望自己配得上延续那些人的传奇——那些敢用故事重塑世界的人。
+english_events_pitstop:L3505,cmossgossip,FIX,"The bards, the fabulists, the shamans, the chroniclers, the tale-tellers, the kathak dancers, the raconteuses, the verse-tellers...!",酒吧 花花公子 夏曼人 编剧 讲故事者 卡塔克舞者,吟游诗人、寓言家、萨满、编年史家、说书人、卡塔克舞者、女说书人、吟诵诗句的人……！
+english_events_pitstop:L3506,cmossgossip,POLISH,"I will devote my life to feed the fire with stories, and one day, eventually, let myself be consumed by it.","我将献出我的一生 以故事喂养火, 有一天,最终, 让自己被它所消耗。",我愿用一生，以故事添薪。直到某一天，终于让自己也被这团火吞没。
+english_events_pitstop:L3507,cmossgossip,POLISH,"And then, freed from a physical body, I will live in the stories I myself weaved.","然后,从肉体中解放出来, 我将生活在我自己编织的故事中。",然后，脱离肉身，活在自己编织的故事里。
+english_events_pitstop:L3508,cmossgossip,FIX,"Whoa, that's a bit intense, Moss!","哇,这有点紧张,莫斯!",哇，莫斯，这有点太热烈了！
+english_events_pitstop:L3509,cmossgossip,FIX,"Indeed! Intense, like the fire!","没错! 紧张,像火!",没错！热烈，像火一样！
+english_events_pitstop:L3510,cmossgossip,POLISH,That's what stories are for: they're the fire that protects us from the coldness of the world; the stories protect us from the dullness of the world.,这就是故事的意义:它们是保护我们免受世界寒冷的火;故事保护了我们免受世界的沉闷.,故事就是为此而存在的：它们是抵御世界寒冷的火，保护我们不被世界的乏味吞没。
+english_events_pitstop:L3511,cmossgossip,POLISH,Well... that all sounds quite poetic and sorta convincing... but I still think gossip is lying and therefore a tiny bit not okay.,这个... 听起来颇有诗意 很有说服力... 但我还是觉得八卦在撒谎 所以有点不对劲,嗯……听着很有诗意，也挺有说服力……可我还是觉得，八卦是在说谎，所以多少有点不妥。
+english_events_pitstop:L3512,cmossgossip,FIX,Aren't some of your friends straight-up murderers and such? Gossip is really where you draw the line?,不是你的朋友 直立的杀人犯之类的吗? 流言蜚语真的是你画线的地方吗?,你的朋友里，不是有人明摆着就是杀人犯吗？你偏偏在八卦上划清界限？
+english_events_pitstop:L3513,cmossgossip,FIX,"Actually, that's a good point... hmmm...","其实,这是个好主意... 垛...",也是，你说得有道理……嗯……
+english_events_pitstop:L3514,cmossgossip,FIX,"Moss spends the rest of the night telling you about the beauty of gossip while also sharing some of the latest and hottest gossip. It is, at the very least, quite entertaining!","莫斯用余夜告诉你八卦之美,同时也分享出一些最新而最热闹的八卦. 它,至少,是相当的娱乐!",剩下的夜晚，莫斯一边讲八卦之美，一边分享最新、最劲爆的八卦。至少，听起来真挺有趣！

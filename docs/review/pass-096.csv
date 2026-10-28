@@ -1,0 +1,132 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_endings:L2455,ending_date_mothman,FIX,"Your greatest memory of that road trip isn't %DESTINATION%, but a night in the car with Moss.",你对那趟路程最大的记忆不是 %DESTINATION%但和Moss一起在车里过一晚,这趟公路旅行，最让你念念不忘的，不是%DESTINATION%，而是和莫斯待在车里的那个夜晚。
+english_events_endings:L2456,ending_date_mothman,KEEP,"It was just the two of you, looking at the stars.","只是你们两个,看着星星","只是你们两个,看着星星"
+english_events_endings:L2458,ending_date_mothman,FIX,"You know, %CURRENTPLAYERNAME%? I like thinking of the stars as big, relentless fires burning in the sky.",你知道吗? %CURRENTPLAYERNAME%? 我喜欢把星星想成天上燃烧出大而无情的大火.,你知道吗，%CURRENTPLAYERNAME%？我喜欢把星星，想成夜空里熊熊燃烧、不肯停歇的大火。
+english_events_endings:L2459,ending_date_mothman,POLISH,That's such a nice thought...,真是个不错的想法...,这想法，真美……
+english_events_endings:L2460,ending_date_mothman,FIX,"Yes. The same way stories happen around a fire, constellations form around the stars, carrying old stories from a past time.","对 同样的故事发生在火上,星座形成 围绕恒星,背负着过去往事的旧事。",是啊。人们围着火讲故事，星座也围着星星而生，载着遥远过去的传说。
+english_events_endings:L2461,ending_date_mothman,FIX,"Such is the power of gossip, of stories told and retold... sometimes they ascend to the sky and become immortal.","这是流言蜚语的力量, 讲的故事和重播... 有时,他们升上天空,变成不朽的。",这就是八卦的力量，是故事一遍遍被讲述的力量……有时候，它们升上夜空，便成了永恒。
+english_events_endings:L2462,ending_date_mothman,KEEP,You must know by now: I do love gossip.,"你一定知道,我喜欢八卦","你一定知道,我喜欢八卦"
+english_events_endings:L2463,ending_date_mothman,POLISH,I noticed.,"我注意到了,我看见了。",看出来了。
+english_events_endings:L2464,ending_date_mothman,KEEP,But let me tell you something...,但让我告诉你一件事...,但让我告诉你一件事...
+english_events_endings:L2465,ending_date_mothman,FIX,"He leans into you and whispers, his warm breath on your ear.","他向你倾斜并低语, 他的温暖的呼吸在你的耳朵。",他靠到你耳边，轻声低语，温热的气息，拂过耳畔。
+english_events_endings:L2466,ending_date_mothman,POLISH,There is also power in stories never told.,"在从未讲过的故事中,也有力量。",可那些从未说出口的故事，也有力量。
+english_events_endings:L2467,ending_date_mothman,FIX,"To hold something against your chest, to carry its magic to the grave... a secret of yours, a secret of mine.","拿着东西来挡住你的胸口, 带着它的魔力去坟墓... 你的秘密,我的秘密,我的秘密。",把一件事，藏在心底，带着它的魔力，直到入土……你的秘密，也是我的秘密。
+english_events_endings:L2468,ending_date_mothman,FIX,"What if we did that? What if we turned tonight into a gossip of two, a story untold?","如果我们这样做了呢? 如果今晚我们变成一个谣言 两个,一个故事无穷无尽?",要不，我们也这样？把今晚，变成只属于两个人的八卦，一个不会说出去的故事。
+english_events_endings:L2469,ending_date_mothman,FIX,Then he kissed you.,然后他吻了你们,然后，他吻了你。
+english_events_endings:L2470,ending_date_mothman,FIX,"And then...? Well. That's something you will hold dear, against your chest, close to your heart.",礛... ? 这个嘛 胸口紧贴地心 紧贴地心,至于后来……嗯，那就是你会捂在心口，好好珍藏的事了。
+english_events_endings:L2479,ending_date_aaravi,FIX,"Your fondest memory isn't of %DESTINATION%, but of a calm night you spent alone with Aaravi.",你最爱的记忆不是 %DESTINATION%但是在一个平静的夜晚 你独自度过 阿拉薇.,最让你珍惜的回忆，不是%DESTINATION%，而是和阿拉维独处的，那个安静的夜晚。
+english_events_endings:L2480,ending_date_aaravi,POLISH,"It was just the two of you, there, in silence.",只有你们两个 安静地呆着,只有你们两个，静静待在一起。
+english_events_endings:L2482,ending_date_aaravi,KEEP,...,...,...
+english_events_endings:L2483,ending_date_aaravi,KEEP,...,...,...
+english_events_endings:L2484,ending_date_aaravi,FIX,What are you looking at?!,你们在看什么?,看什么看？！
+english_events_endings:L2485,ending_date_aaravi,KEEP,...,...,...
+english_events_endings:L2486,ending_date_aaravi,POLISH,...I was looking at you. I like doing that.,...我看着你 我喜欢这样做。,……在看你啊。我喜欢看你。
+english_events_endings:L2487,ending_date_aaravi,KEEP,...!,...!,...!
+english_events_endings:L2488,ending_date_aaravi,FIX,"Hmpf... look at you, so cocky, so brave!","汉弗莱... 看看你,这么自大,那么勇敢!",哼……看看你，还挺狂，胆子挺大！
+english_events_endings:L2489,ending_date_aaravi,FIX,I'm sure you're not so brave to... hmpf... to tell me three things you like about me!,"我敢肯定,你没有那么勇敢... 汉弗... 告诉我你喜欢我三件事!",我就不信，你敢……哼……说出喜欢我的三点！
+english_events_endings:L2490,ending_date_aaravi,KEEP,...,...,...
+english_events_endings:L2491,ending_date_aaravi,POLISH,See? Not so brave anymore!,看到没? 不再这么勇敢了!,看吧？这就不敢了！
+english_events_endings:L2492,ending_date_aaravi,FIX,But then you told her three things you like about her.,但你告诉她你喜欢她三件事,可你还是说出了，喜欢她的三个地方。
+english_events_endings:L2493,ending_date_aaravi,FIX,"(Like, really, go ahead and say three things you like about Aaravi!)",真的 你说你喜欢的三件事 阿拉薇!),（真的，来，说说，你喜欢阿拉维哪三个地方！）
+english_events_endings:L2494,ending_date_aaravi,FIX,"She listened to what you said. If she'd blushed any more, she could've very well died of all her blood rushing to her face.",她听了你的话 如果她再脸红的话 她本可以血流成河地死去的,她听着，脸红得，再红一点，怕是全身的血都要涌上脸，直接没命了。
+english_events_endings:L2495,ending_date_aaravi,POLISH,Hmpf... that was nothing. I can do that too!,汉弗莱... 那没什么 我也能做到这一点!,哼……这算什么。我也能说！
+english_events_endings:L2496,ending_date_aaravi,FIX,I like... your stupid face... and the stupid things you say to me... and... and... how stupidly confident you seem to be in your own skin... you stupid-ass.,我喜欢... 你那愚蠢的脸... 和你对我说的那些蠢话... 还有... 还有... 你有多愚蠢地自信 似乎在你自己的皮肤... 你这蠢货,我喜欢……你这张蠢脸……你跟我说的蠢话……还有……还有……你做自己时，自信得傻乎乎的样子……你这蠢蛋。
+english_events_endings:L2497,ending_date_aaravi,KEEP,...,...,...
+english_events_endings:L2498,ending_date_aaravi,KEEP,...,...,...
+english_events_endings:L2499,ending_date_aaravi,KEEP,Stop looking at me like that!,别那样看着我!,别那样看着我!
+english_events_endings:L2500,ending_date_aaravi,FIX,You think you're so brave! I bet you aren't brave enough to... to kiss me!,"你以为你这么勇敢吗? 我敢打赌,你不够勇敢... 亲我!",你真以为自己胆子很大！我打赌，你肯定不敢……不敢亲我！
+english_events_endings:L2501,ending_date_aaravi,POLISH,"Aaravi is right, you're not necessarily a brave person. You have your own insecurities and fears. Everyone does.","阿拉薇 没错,你不一定是个勇敢的人 你有你自己的不安全感和恐惧。 每个人都这样。",阿拉维说得对，你未必是多勇敢的人。你也有不安，也会害怕。人人如此。
+english_events_endings:L2502,ending_date_aaravi,FIX,"But... you look her in the eyes, and choose to brave this.","不过... 你看着她的眼睛, 选择勇敢的这一点。",可你看着她的眼睛，还是选择了，勇敢一次。
+english_events_endings:L2511,ending_date_joy,POLISH,"%DESTINATION% is cool and all, but tonight you're alone in the car with Joy.","%DESTINATION% 很酷,但今晚你和乔伊在车里",%DESTINATION%是挺酷。不过今晚，车里只有你和乔伊。
+english_events_endings:L2512,ending_date_joy,POLISH,"You asked about her adventures, and she's showing you some of her battle scars.",你问她的历险 她正在给你看一些她的战斗伤疤,你问起她的冒险，她便给你看，身上留下的战斗伤疤。
+english_events_endings:L2514,ending_date_joy,KEEP,"Here, see?","这里,看到了吗?","这里,看到了吗?"
+english_events_endings:L2515,ending_date_joy,FIX,She shows you her side. You brush your hand over her skin.,她让你看到了她的一面。 你摸摸她的皮肤,她露出身侧，你的手，轻轻抚过她的皮肤。
+english_events_endings:L2516,ending_date_joy,KEEP,"I think I see it, yeah.","我想我看见了,是的。","我想我看见了,是的。"
+english_events_endings:L2517,ending_date_joy,FIX,A mawbeast clawed me so hard it pierced my magical shield and slashed my side.,一只猛兽把我爪子弄得很硬 它刺穿了神奇的盾牌 并刺穿了我的一面,一只巨口兽，狠狠给了我一爪，连魔法护盾都穿透了，侧腰也被划伤。
+english_events_endings:L2518,ending_date_joy,KEEP,Yikes!,哎哟!,哎哟!
+english_events_endings:L2519,ending_date_joy,KEEP,And see this on my palm?,看到我手掌上的这个吗?,看到我手掌上的这个吗?
+english_events_endings:L2520,ending_date_joy,FIX,I was performing this dangerous spell. I had to keep it going for so long it started to burn through my skin.,我在施以这个危险的咒语。 我不得不保持它持续了这么久 它开始从我的皮肤燃烧。,我当时在施一个危险的咒语。不得不维持太久，最后，连皮肤都开始烧穿了。
+english_events_endings:L2521,ending_date_joy,KEEP,Sounds painful.,听起来很痛苦,听起来很痛苦
+english_events_endings:L2522,ending_date_joy,KEEP,It was.,没错。,没错。
+english_events_endings:L2523,ending_date_joy,POLISH,"The scars aren't that big, though.","伤疤没那么大,虽然。",不过，疤痕看着，倒不算大。
+english_events_endings:L2524,ending_date_joy,FIX,Healing magic.,疗法相.,治疗魔法。
+english_events_endings:L2525,ending_date_joy,POLISH,"In fact, if after all that healing there are still these almost-invisible scars, you know the original wound was SERIOUS.","事实上,如果经过这些治疗后 仍然有这些几乎看不见的伤疤, 你知道最初的伤口是严重的。",都用魔法治过了，还留下这种，哪怕几乎看不见的疤，就知道，当初伤得有多重了。
+english_events_endings:L2526,ending_date_joy,FIX,"She keeps showing you scars over her body, and as she does, your hands travel over her skin as avid explorers.",她不断向您展示她身上的伤疤 正如她所做的那样 你的手在她的皮肤上行走 作为活人探险家,她继续指给你看，身上那些伤疤。你的手，像热切的探险者，沿着她的皮肤游走。
+english_events_endings:L2527,ending_date_joy,POLISH,Does it bother that I... you know... I don't know if I'm overstepping...,烦恼我... 你知道吗... 我不知道我是不是越位了...,我这样……你会介意吗？就是……我不知道，是不是越界了……
+english_events_endings:L2528,ending_date_joy,POLISH,"No, I like it.","不,我喜欢。",不，我喜欢。
+english_events_endings:L2529,ending_date_joy,FIX,"Look, %CURRENTPLAYERNAME%... I took a vow to protect the Coven and all mortalkind... and yet I have failed so many times...","听着, %CURRENTPLAYERNAME%... 我发过誓要保护神仙和凡人... 但我失败了这么多次...",听着，%CURRENTPLAYERNAME%……我发过誓，要保护女巫会，保护所有凡间生灵……可还是失败过，那么多次……
+english_events_endings:L2530,ending_date_joy,POLISH,I've seen my friends die so many times... entire realities wiped out...,我见过我的朋友死了这么多次... 整个现实被抹去...,我看着朋友们，一次次死去……一个个现实，被彻底抹掉……
+english_events_endings:L2531,ending_date_joy,FIX,"It's all a never-ending battle where I play defense, and the offense is relentless. These scars are almost imperceptible, but they do take a toll on me...","这都是一场永无止境的战斗,我在那里进行防守, 并且进攻是无情的。 这些伤疤几乎是无法察觉的, 但它们确实使我付出了代价...",这是一场打不完的仗。我永远在守，对面的攻势，却永不停。这些疤，几乎都看不见，可留下的伤，确实还在消耗我……
+english_events_endings:L2532,ending_date_joy,FIX,"I've fought so many fights that I really appreciate when, for a change, I am touched... held... enjoyed.","我打过很多次仗 我真的很欣赏... ...为了改变,我很感动... 坚持... 享受着。",打过那么多仗，我真的很珍惜，这种难得的时刻：有人只是想抚摸我……抱住我……享受我的身体。
+english_events_endings:L2533,ending_date_joy,FIX,I can... really use these little moments of truce.,我... 我可以... 真正利用这些小小的休战时刻。,我……真的需要，这样短短的休战时刻。
+english_events_endings:L2534,ending_date_joy,POLISH,"So, no, you're not overstepping; but thanks for asking.","所以,不,你没有越位,但谢谢你的问候。",所以，没有，你没越界。不过，谢谢你愿意问。
+english_events_endings:L2535,ending_date_joy,FIX,"Joy holds your hands against her body. You look at each other. And then, you get closer...","乔伊把手放在她身上 汝等相视. 然后,你走近一点...",乔伊把你的双手，按在自己身上。你们望着彼此，然后，慢慢靠近……
+english_events_endings:L2544,ending_date_milo,POLISH,"%DESTINATION% is beautiful, but not as beautiful as a night shared with Milo.","%DESTINATION% 很美,但比不上一个晚上 迈洛.",%DESTINATION%很美，可还是比不上，和迈洛共度的夜晚。
+english_events_endings:L2545,ending_date_milo,FIX,"Lucky you, getting to do both during the road trip. There you were, sharing a cup of wine with them.","你走运了,在路途旅行中 做两个都行。 你在那里,和他们分享一杯酒。",你真幸运，两样都没错过。那会儿，你们正分享一杯酒。
+english_events_endings:L2547,ending_date_milo,KEEP,"%CURRENTPLAYERNAME%, darling, do you want to play a little game?","%CURRENTPLAYERNAME%亲爱的,你想玩个游戏吗?","%CURRENTPLAYERNAME%亲爱的,你想玩个游戏吗?"
+english_events_endings:L2548,ending_date_milo,KEEP,Sure.,当然可以。,当然可以。
+english_events_endings:L2549,ending_date_milo,POLISH,"I call it ""In Vino Veritas"". We take turns asking each other questions. You either answer truthfully, or drink.","我称之为""在维诺维里塔斯""。 我们轮流问彼此的问题。 你要么诚实地回答,要么就喝酒。",我叫它“酒后真言”。轮流问问题，如实回答，或者喝酒。
+english_events_endings:L2550,ending_date_milo,FIX,Gotcha.,抓到他们了。,懂了。
+english_events_endings:L2551,ending_date_milo,KEEP,You start.,你开始。,你开始。
+english_events_endings:L2552,ending_date_milo,KEEP,Okay... why did you join us on our road trip?,"好吧,我说... 你为什么加入我们的公路旅行?","好吧,我说... 你为什么加入我们的公路旅行?"
+english_events_endings:L2553,ending_date_milo,FIX,"I like surprising myself with sudden turns, I think. And... you sort of intrigue me. I wanted to get to know you better.","我想,我喜欢自己突然转过身来 还有... 你有点好奇我。 我想多了解你一点",我想，是喜欢生活偶尔转个弯，给自己点惊喜。还有……你让我有点好奇，我想多了解你。
+english_events_endings:L2554,ending_date_milo,FIX,"Now, tell me: what's a trait that'd make you REALLY fall for someone you already liked a bit?","现在,告诉我,什么是特征 会让你真正爱上一个你已经喜欢过的人?",那，告诉我：一个你本来已经有点喜欢的人，哪种特质，会让你真正爱上对方？
+english_events_endings:L2555,ending_date_milo,POLISH,"You think about it, then you answer.","你想想,然后你回答。",你想了想，给出了答案。
+english_events_endings:L2556,ending_date_milo,POLISH,(Really: think of it and answer. Don't be shy.),"(真的:想一想,回答。) 别害羞. )",（真的，想一想，回答。别害羞。）
+english_events_endings:L2557,ending_date_milo,FIX,My turn: would you prefer to have a different job than being a reaper?,"轮到我了:你宁可换一份工作,而不是做一个收割者?",轮到我了：你有没有想过，不当死神，换份别的工作？
+english_events_endings:L2558,ending_date_milo,FIX,"...Not really. It's hard, and there are days when I hate it. But I'm no fool: I know I can be a little self-absorbed most of the time.",也没什么 苦来来来来来来来来来来来来来来来来来来来来来来来来来来来来来来来来来来来来来来来来来来来来来来来来来来来来来来来来来来来来来来来来来来去去去去来来来来来来来去去去去来来来去去去去去去去去去去去去去去去去来来去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去去 但我不是傻瓜:我知道我大部分时间可以有点自负.,……倒没有。这工作很难，有些日子，我真的很讨厌它。可我也不傻，知道自己大多数时候，难免有点只顾自己。
+english_events_endings:L2559,ending_date_milo,FIX,"Being a reaper is never about yourself, but about other people. It's about giving peace to people in one of the hardest moments they'll ever face.",做一个收割者 绝不是针对你自己 而是针对其他人 在他们最难面对的时刻 给予人们和平,可当死神，关心的从来不是自己，而是别人。在他们最难面对的时刻之一，带给他们安宁。
+english_events_endings:L2560,ending_date_milo,POLISH,"It's an important job, and I am happy I can do it for them. For once, it's not about me.","这是一个重要的工作,我很高兴我能为他们做。 这一次,它不是关于我。",这是份重要的工作。能为他们做到，我很开心。难得有一件事，不是围着我转。
+english_events_endings:L2561,ending_date_milo,FIX,"On that note: if you knew I was going to reap you tomorrow, what's the one thing you'd do before leaving?","上面写道:如果你知道我明天要收割你,你离开之前要做什么?",说到这个：如果你知道，我明天就要来带你走，离开之前，你最想做的一件事，是什么？
+english_events_endings:L2562,ending_date_milo,FIX,Think of it. Answer.,考虑一下吧。 答曰. 问.,想一想，回答。
+english_events_endings:L2563,ending_date_milo,KEEP,Hmmm... have you ever thought about... kissing me?,那个... 你有没有想过... 亲我?,那个... 你有没有想过... 亲我?
+english_events_endings:L2564,ending_date_milo,FIX,"Milo looks at you. They close their eyes, and drink their wine.","迈洛 看着你。 他们闭上眼睛,喝他们的酒。",迈洛望着你，闭上眼，喝了一口酒。
+english_events_endings:L2565,ending_date_milo,POLISH,Really? I can't lie: that's a shame.,"真的吗? 我不能撒谎,这太可惜了。",真的？说实话，那可真遗憾。
+english_events_endings:L2566,ending_date_milo,FIX,But then they lean into you as they put a finger on your mouth.,"但是当他们用手指指着你的嘴时,他们就靠在你身上。",可接着，迈洛靠了过来，用一根手指，轻轻抵住你的嘴唇。
+english_events_endings:L2567,ending_date_milo,POLISH,"Shhh, honey. It's just... there are questions that should not be answered with words.","嘘,亲爱的。 这只是... 有些问题不应该用文字回答。",嘘，亲爱的。只是……有些问题，不该用话来回答。
+english_events_endings:L2568,ending_date_milo,FIX,And they kiss you.,他们吻你。,然后，迈洛吻了你。
+english_events_endings:L2577,ending_date_calculester,FIX,"Getting to %DESTINATION% is cool, but spending some quality time in the car with Cal is even cooler!","进入%DESTINATION%是很酷的,但和卡尔一起在车上花一些高质量的时间甚至更酷!",到了%DESTINATION%，当然好，可跟卡尔待在车里，亲近一会儿，更好！
+english_events_endings:L2578,ending_date_calculester,FIX,"Lately you've been building lots of trust, and tonight you're being so intimate that at one point the conversation follows suit.",最近你建立了很多信任 今晚你是如此的亲密 以至于有一点 谈话也随之而来,最近，你们越来越信任彼此。今晚，靠得近了，聊着聊着，话题也跟着亲密起来。
+english_events_endings:L2580,ending_date_calculester,FIX,"Friend %CURRENTPLAYERNAME%, I have a confession to make. But please, brace yourself: this revelation might shock you (in the good way)...","朋友们 %CURRENTPLAYERNAME%我有一个忏悔。 但是,请,站起来:这个启示可能会令你震惊(在好的方面)......",%CURRENTPLAYERNAME%朋友，我有件事想坦白。不过，请先做好准备：这个消息，可能让你大吃一惊，好的那种……
+english_events_endings:L2581,ending_date_calculester,KEEP,Okay...,"好吧,我说...","好吧,我说..."
+english_events_endings:L2582,ending_date_calculester,FIX,"I've been studying the internet, and I can safely say that I can now sex very good.","我研究过互联网, 我可以肯定地说,我现在可以做得很好。",我研究了互联网，现在可以确定地说，我的性爱能力，已经很优秀了。
+english_events_endings:L2583,ending_date_calculester,KEEP,...What?,什麽?,什麽?
+english_events_endings:L2584,ending_date_calculester,FIX,"Yes, the sex. Haven't you heard of it? The ""funny business"". You may call it ""bedroom rodeo"", ""matrimonial polka"", or ""bow chicka wow wow"".","是的,性爱 你没听说过吗? ""胡说八道"" 你可以称之为""卧室牛仔"",""婚姻波尔卡"",或""牛鸡哇哇""。",是的，就是性爱。你没听说过吗？“那档子事”。也可以叫“卧室牛仔竞技”“婚姻波尔卡”，或者“蹦，嘁咔，哇哇”。
+english_events_endings:L2585,ending_date_calculester,FIX,"I... I know what sex is, Cal.","我…… 我知道什么是性,卡尔。",我……我知道什么是性爱，卡尔。
+english_events_endings:L2586,ending_date_calculester,POLISH,"Wonderful, that saves us from a long awkward conversation.","棒极了,这样我们才能避免 长时间的尴尬谈话",很好，省得我们再进行一场，漫长又尴尬的谈话。
+english_events_endings:L2587,ending_date_calculester,FIX,"The thing is, I've diagnosed an increase of intimacy and sexual tension between us two.","问题是,我已经诊断出 我们之间的亲密关系和性紧张的加剧。",我诊断出，我们之间的亲密程度，还有性张力，都在上升。
+english_events_endings:L2588,ending_date_calculester,POLISH,I mean... you're not wrong.,我是说... 你没有错。,我是说……你没说错。
+english_events_endings:L2589,ending_date_calculester,FIX,"I rarely am. I wanted, in consequence, to bring it to ""the next level"". I found one way to do that is by doing the sex.","我很少这样 因此,我想把它带到""下一个层面""。 我找到一个方法来做到这一点,就是做爱。",我很少出错。因此，我想让它进入“下一阶段”。研究发现，其中一个方法，就是做爱。
+english_events_endings:L2590,ending_date_calculester,FIX,"As a result, I've been doing lots of research on the internet, and now I'm 98.6% certain that I can sex you extremely well.","结果,我在互联网上做了很多研究, 现在我98.6%的人确定我可以和你做得很好。",所以，我上网做了大量研究。现在，有98.6%的把握，可以给你非常出色的性爱体验。
+english_events_endings:L2591,ending_date_calculester,FIX,Uh... interesting... how so?,额... 有意思的... 怎么会这样?,呃……有意思……怎么做到？
+english_events_endings:L2592,ending_date_calculester,POLISH,"Well, the sex is all about rhythm. One of most basic tricks is following the beat of a song.","嗯,性爱是所有关于节奏。 最基本的把戏之一是跟随一首歌的节拍.",性爱，关键在于节奏。最基本的技巧之一，就是跟着歌曲的节拍。
+english_events_endings:L2593,ending_date_calculester,FIX,"I've compiled a playlist with a diverse array of songs, for you to choose your preferred ""thrust tempo"".","我编了一张播放列表 里面有各种各样的歌曲 让你选择你喜欢的""节奏""",我整理了一份，曲风多样的歌单，供你挑选喜欢的“挺进节奏”。
+english_events_endings:L2594,ending_date_calculester,FIX,"From ""I Like to Move it"" to ""Pachelbel's Canon in D. Major""...","从""I Like to Move it""到""Pachelbel's Canon in D."". 少校...",从《I Like to Move It》，到《帕赫贝尔D大调卡农》……
+english_events_endings:L2595,ending_date_calculester,FIX,Heehee... D Major...,"熙熙,你好吗? Heehee... 少校... D Major...",嘿嘿……大D……
+english_events_endings:L2596,ending_date_calculester,FIX,"Or even the ""Benny Hill Theme"", if you feel playful...","甚至是""Benny Hill主题"" 如果你觉得好玩的话...",如果你想调皮一点，也可以选《班尼·希尔秀》主题曲……
+english_events_endings:L2597,ending_date_calculester,POLISH,"Cal, any song that's not CBAT will be perfect, as long as it's with you. I like you.","Cal,任何不是CBAT的歌曲都会是完美的,只要它和你在一起. 我喜欢你。",卡尔，只要跟你一起，除了CBAT，什么歌都行。我喜欢你。
+english_events_endings:L2598,ending_date_calculester,FIX,"<REMOVING ""CBAT"" FROM PLAYLIST...>","<REMOVING ""CBAT"" FROM PLAYLIST...>",<正在从播放列表移除“CBAT”……>
+english_events_endings:L2599,ending_date_calculester,FIX,Perfect. And I have yet another surprise: I customized myself with a series of sex-oriented peripherals. Look!,完美无缺 我还有一个惊喜:我定制了一系列以性为导向的外围产品。 听着!,完美。我还有个惊喜：给自己定制了一系列，性爱专用外设。看！
+english_events_endings:L2600,ending_date_calculester,FIX,"Cal deploys an arsenal of ""peripherals"". It's the horniest version of a mecha transformation you've ever seen.","卡尔部署一个""周边""的武器库. 这是你见过最恐怖的变身版本",卡尔展开了一整套“外设”武器库。你见过的机甲变身里，这个，绝对最色。
+english_events_endings:L2601,ending_date_calculester,POLISH,"This is bound to be a long, interesting night...","这将是一个漫长,有趣的夜晚...",这注定是个，漫长又有趣的夜晚……
+english_events_endings:L2610,ending_date_stu,FIX,"It's cool that you got to %DESTINATION%, but the real place to be is in the car, with Stu.","这很酷,你必须 %DESTINATION%但真正的地方在车里 和斯图在一起",到了%DESTINATION%，当然好。不过，真正该待的地方，是车里，斯图身边。
+english_events_endings:L2611,ending_date_stu,FIX,"More specifically, the two of you are intertwined in an unsolvable knot.","更具体地说,你们两个在无法解开的结中相互交织.",更准确地说，你们抱在一起，缠得像个怎么也解不开的结。
+english_events_endings:L2613,ending_date_stu,FIX,You are talking about anything; about nothing. You're also stroking his hair.,"你在谈论什么,什么也没有。 你还在摸他的头发",你们什么都聊，又好像什么也没聊。你还轻轻抚着他的头发。
+english_events_endings:L2614,ending_date_stu,FIX,Dang... your hair is super silky.,可恶... 你的头发是超丝绸的。,哇……你的头发，也太顺滑了。
+english_events_endings:L2615,ending_date_stu,FIX,"Yeah, dude. There was this time I fell into a rabbit hole of internet videos about shampoo and haircare.","是啊,伙计。 有一次我掉入一个兔子洞 互联网视频 关于洗发精和发型。",是啊，伙计。有阵子，我一头扎进了网上那些，讲洗发护发的视频里。
+english_events_endings:L2616,ending_date_stu,FIX,"I was high as fuck, but I learned some cool tricks. I'm happy you appreciate it!","我很兴奋,但我学到了一些很酷的把戏。 我很高兴你很感激!",当时我嗑嗨了，嗨得他妈不行，不过，也学了些好招。你喜欢，真好！
+english_events_endings:L2617,ending_date_stu,FIX,"Like, you'd never guess how important it is to properly massage your scalp often.","喜欢,你永远不会 猜测它有多重要 适当按摩你的头皮 经常。",比如，平时好好按摩头皮，到底有多重要，你绝对想不到。
+english_events_endings:L2618,ending_date_stu,POLISH,"Ooh, I could use a head massage.","哦,我需要一个头按摩。",噢，我正想来个头部按摩。
+english_events_endings:L2619,ending_date_stu,POLISH,"Haha, sure, my dude!","哈哈,当然,我的伙计!",哈哈，行啊，伙计！
+english_events_endings:L2620,ending_date_stu,FIX,"He goes for it and... oh, fuck. He knows what he's doing. Daaaaaaang.","他喜欢它,而且... 哦,他妈的。 师自知所为. 达阿含相.",他动手了，然后……哦，操。他真懂。爽——啊。
+english_events_endings:L2621,ending_date_stu,POLISH,"You good, my dude? You're making some strange faces there!","没事吧,老兄? 你的脸真怪!",没事吧，伙计？你这表情，有点怪啊！
+english_events_endings:L2622,ending_date_stu,POLISH,"Yeah, yeah... maybe too good.","对,对... 也许太好。",没事，没事……可能太好了。
+english_events_endings:L2623,ending_date_stu,POLISH,"Heh, yeah, I've been told I am good with my hands.","嘿,是的,我被告知我对我的手很好。",嘿嘿，是啊，别人也说，我这双手挺有本事。
+english_events_endings:L2624,ending_date_stu,FIX,"Good with your hands, huh? Like... for anything?","你的手不错,是吧? 喜欢... 为了什么?",手上有本事，嗯？就是……做什么都行？
+english_events_endings:L2625,ending_date_stu,FIX,You blush. If he's half as good as he is at massaging your head...,你脸红了。 如果他是半个好人 在按摩你的头...,你脸红了。要是他干别的，有按摩你脑袋，一半那么好……
+english_events_endings:L2626,ending_date_stu,POLISH,I mean... I've been told! But I couldn't say! It's other people who should be the judge of that...,我是说... 有人告诉我了! 但我不能说! 应该由其他人来评断...,我是说……别人是这么说的！可这我不好评，得让别人，来当裁判……
+english_events_endings:L2627,ending_date_stu,POLISH,I'd... I'd love to be the judge of that... if that's fine by you.,我会... 我很乐意成为那个... 如果你不介意的话。,我……我很愿意，当这个裁判……如果你也愿意的话。
+english_events_endings:L2628,ending_date_stu,KEEP,He caresses your face.,他抚摸你的脸。,他抚摸你的脸。
+english_events_endings:L2629,ending_date_stu,POLISH,That'd be... very fine by me.,那会是... 对我很好。,我……非常愿意。
+english_events_endings:L2630,ending_date_stu,FIX,"And so his hands massage all of you, now without restraint.",所以他的手为你们按摩 现在没有束缚,于是，他的双手不再拘束，开始按摩你全身。
+english_events_endings:L2631,ending_date_stu,FIX,"And there you are, a tender speck of pleasure in the middle of the quiet desert night.","你来了,一个温柔的欢乐之点 在静静的沙漠之夜",你们是寂静沙漠夜里的一小点温柔欢愉。

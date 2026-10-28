@@ -1,0 +1,248 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_maingame:L10613,selfconversation,FIX,House of mirrors,镜子之屋,逛镜子迷宫
+english_events_maingame:L10615,selfconversation,FIX,This should not appear. Fake event to trigger specific pc event.,这不应该出现。 触发特定 pc 事件的假事件 。,这段不应显示。用于触发特定玩家角色事件的占位事件。
+english_events_maingame:L10623,selfconversation_blue,FIX,House of mirrors,镜子之屋,逛镜子迷宫
+english_events_maingame:L10626,selfconversation_blue,FIX,You wander through the hall of mirrors until you stumble upon an unexpected visage.,你穿过镜子大厅 直到你碰到出人意料的外观,你在镜子迷宫里闲逛，突然撞见一张意料之外的脸。
+english_events_maingame:L10628,selfconversation_blue,FIX,Whoa!,呜呼!,哇！
+english_events_maingame:L10629,selfconversation_blue,POLISH,"Oh, fudge... look at me.","哦,软糖... 看着我",哎呀……看看我自己。
+english_events_maingame:L10630,selfconversation_blue,POLISH,"It's not often I get to be alone with myself, is it?",我常常不一个人待着 是吗?,难得能跟自己单独待一会儿，对吧？
+english_events_maingame:L10631,selfconversation_blue,FIX,"This feels like the moment where I get to see myself, like REALLY myself... in which my reflection is a metaphor for my inner self.","感觉就像我看到自己的时刻 就像真正的自己 在我的内心里,我的反射是隐喻。",感觉这就是我看见自己，真正看见自己的那一刻……镜中的倒影，是内心自我的隐喻。
+english_events_maingame:L10632,selfconversation_blue,POLISH,I guess I'm expected to have a very deep conversation with myself.,我想我应该和自己 进行很深的谈话,看来，这时候该跟自己来场深刻的对话。
+english_events_maingame:L10633,selfconversation_blue,FIX,A grand moment for %CURRENTPLAYERNAME%!,一个伟大的时刻 %CURRENTPLAYERNAME%!,属于%CURRENTPLAYERNAME%的重大时刻！
+english_events_maingame:L10634,selfconversation_blue,FIX,Shoot... what could it be?,开枪... 怎么会这样?,哎呀……聊什么好呢？
+english_events_maingame:L10635,selfconversation_blue,FIX,It could be some sort of big backstory reveal...,可能是某种大反面的启示...,可以揭露一段重磅身世……
+english_events_maingame:L10636,selfconversation_blue,POLISH,"...no, wait, I can do better! It could be a hint at a deep, dark fissure in my psyche. People love that kind of stuff!","不,等等,我可以做得更好! 这可能是我心灵深处 深处的一丝虚空的暗示 人们喜欢这种东西!",……不，等等，还能更好！可以暗示我心里藏着一道深不见底的黑暗裂痕。大家都爱这种！
+english_events_maingame:L10637,selfconversation_blue,FIX,What could it be... what could it be...?,怎么会... 怎么会... ?,聊什么好……聊什么好呢……？
+english_events_maingame:L10638,selfconversation_blue,POLISH,"Dang, I need to do this flawlessly. This is an important moment!","糟了,我一定要做这个 这是一个重要的时刻!",不行，得做到完美。这可是重要时刻！
+english_events_maingame:L10639,selfconversation_blue,FIX,"This'll be the introspection that reveals the deepest depths of %CURRENTPLAYERNAME%, a character more complex than %HISHER% sunny demeanor lets on!","将是一个内向的回顾,揭示出%CURRENTPLAYERNAME%的最深处,这个角色比%HISHER%阳光的下流让位更复杂!",这场自省会揭开%CURRENTPLAYERNAME%内心的最深处，证明这个角色远比%HISHER%阳光开朗的外表复杂！
+english_events_maingame:L10640,selfconversation_blue,POLISH,Gosh... I think I'm out of ideas.,天呐... 我想我已经没有主意了,天哪……好像没点子了。
+english_events_maingame:L10641,selfconversation_blue,POLISH,"Ooh, I know! I'll list all my favorite birds!","哦,我知道了! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! 我会列出我最喜欢的鸟类!",哦，有了！把我最喜欢的鸟全列一遍！
+english_events_maingame:L10642,selfconversation_blue,KEEP,"Yes, that's very cool too.","是的,这也很酷。","是的,这也很酷。"
+english_events_maingame:L10643,selfconversation_blue,POLISH,"And anyway, no one ever wants to hear me list all my favorite birds, so this is my time to shine.","总之,没有人想听我 列出我最喜欢的鸟类, 所以我现在该闪耀了。",再说，平时根本没人想听我列最喜欢的鸟，现在终于轮到我大展身手了。
+english_events_maingame:L10644,selfconversation_blue,FIX,Hmmm....,垛...,嗯……
+english_events_maingame:L10645,selfconversation_blue,FIX,Lilac-breasted roller...,乳油卷饼...,紫胸佛法僧……
+english_events_maingame:L10646,selfconversation_blue,FIX,Bengal florican...,孟加拉花鸟...,孟加拉鸨……
+english_events_maingame:L10647,selfconversation_blue,FIX,Nicobar pigeon...,尼可巴鸽子...,绿蓑鸠……
+english_events_maingame:L10648,selfconversation_blue,FIX,Galah...,加尔...,粉红凤头鹦鹉……
+english_events_maingame:L10649,selfconversation_blue,FIX,Lady Amherst's pheasant...,阿默斯特夫人的野鸡...,白腹锦鸡……
+english_events_maingame:L10650,selfconversation_blue,FIX,"And so you keep at that for the rest of the day, revealing the deepest of your depths: your vast, probably-useless knowledge of birds.","所以你在剩下的时间里一直坚持着, 揭示出你最深处的深度: 你对鸟类的丰富,可能无用的知识。",于是，你念鸟名念了整整一天，展现出内心最深的那一面：丰富得要命、可能也没什么用的鸟类知识。
+english_events_maingame:L10658,selfconversation_green,FIX,House of mirrors,镜子之屋,逛镜子迷宫
+english_events_maingame:L10661,selfconversation_green,FIX,You wander through the hall of mirrors until you stumble upon an unexpected visage.,你穿过镜子大厅 直到你碰到出人意料的外观,你在镜子迷宫里闲逛，突然撞见一张意料之外的脸。
+english_events_maingame:L10663,selfconversation_green,POLISH,"Oh, hey.",哦嘿.,哦，嗨。
+english_events_maingame:L10664,selfconversation_green,KEEP,Who are you?,你是谁?,你是谁?
+english_events_maingame:L10665,selfconversation_green,FIX,I'm you. Mirror you.,"我是你的,我是你的母亲 照镜子吧",我是你。镜子里的你。
+english_events_maingame:L10666,selfconversation_green,POLISH,"Hey, mirror me. You good?","嘿,给我照照 你还好吗?",嗨，镜子里的我。还好吗？
+english_events_maingame:L10667,selfconversation_green,POLISH,Yup. All good.,对 都不错。,嗯，都挺好。
+english_events_maingame:L10669,selfconversation_green,FIX,"Hello, everybody. It's me, short mirror %CURRENTPLAYERNAME%.","大家好,大家好,我们走 是我,短相机%CURRENTPLAYERNAME%。",大家好，是我，矮个子镜像%CURRENTPLAYERNAME%。
+english_events_maingame:L10670,selfconversation_green,POLISH,"Oh, hello.","哦,哈罗。",哦，你好。
+english_events_maingame:L10671,selfconversation_green,FIX,"So, what's your guys' thing?","那么,你的人有什么问题?",所以，你们都喜欢干什么？
+english_events_maingame:L10672,selfconversation_green,POLISH,I like napping.,我喜欢打个午睡,我喜欢午睡。
+english_events_maingame:L10673,selfconversation_green,KEEP,Me too.,我也一样。,我也一样。
+english_events_maingame:L10674,selfconversation_green,FIX,Me three.,我三个,算我第三个。
+english_events_maingame:L10676,selfconversation_green,POLISH,Did someone say napping?,有人说打个午睡吗?,谁说午睡了？
+english_events_maingame:L10677,selfconversation_green,POLISH,"Oh, hey.",哦嘿.,哦，嗨。
+english_events_maingame:L10678,selfconversation_green,POLISH,"Look at me. I have long, funny legs.","看着我 我有长长的,有趣的腿。",看看我，这双腿又长又好笑。
+english_events_maingame:L10679,selfconversation_green,FIX,You do.,你当然知道 You do.,还真是。
+english_events_maingame:L10680,selfconversation_green,FIX,You keep walking into other mirror versions of yourself.,你总是走进其他的镜子版本 自己。,你不断遇见镜子里的其他自己。
+english_events_maingame:L10681,selfconversation_green,FIX,"After a while, you get tired, so you and your mirror selves lay down and take a nap. Good for you.","过了一会儿,你累了,所以你和你镜子自己躺下睡一觉。 对你有好处。",过了一会儿，你累了，就跟镜子里的自己们一起躺下午睡。挺好。
+english_events_maingame:L10689,selfconversation_red,FIX,House of mirrors,镜子之屋,逛镜子迷宫
+english_events_maingame:L10692,selfconversation_red,FIX,You wander through the hall of mirrors until you stumble upon an unexpected visage.,你穿过镜子大厅 直到你碰到出人意料的外观,你在镜子迷宫里闲逛，突然撞见一张意料之外的脸。
+english_events_maingame:L10694,selfconversation_red,FIX,"Whoa, whoa!",呜呼!,哇，哇！
+english_events_maingame:L10695,selfconversation_red,FIX,What a sight!,多么的风景!,真养眼！
+english_events_maingame:L10696,selfconversation_red,POLISH,Word. You two look hot!,语已. 你们两个看起来很帅!,可不是嘛。你俩真辣！
+english_events_maingame:L10697,selfconversation_red,POLISH,"But who looks hotter, though?","但谁看起来更热,虽然?",不过，到底谁更辣？
+english_events_maingame:L10698,selfconversation_red,POLISH,We should have a competition to decide!,我们该有竞争来决定!,比一场不就知道了！
+english_events_maingame:L10699,selfconversation_red,POLISH,We're all reflections. We look exactly the same.,我们都是反射 我们看起来完全一样。,咱们都是倒影，长得一模一样。
+english_events_maingame:L10700,selfconversation_red,POLISH,That's what a loser would say because they knew they would lose!,"输家会这么说,因为他们知道会输!",知道自己要输的人，才会这么说！
+english_events_maingame:L10701,selfconversation_red,POLISH,"Okay, smartass, then how we decide who's hotter?","好吧,聪明的屁股,然后我们如何决定 谁更热?",行，自作聪明的家伙，那怎么比谁更辣？
+english_events_maingame:L10702,selfconversation_red,FIX,"Oh! Idea! Whoever wins at rock, paper, scissors is hotter.","哦 点子! 点子! 点子! 点子! 谁赢了石头,纸,剪刀更热。",哦，有了！石头剪刀布，谁赢谁更辣。
+english_events_maingame:L10703,selfconversation_red,FIX,"Ha! You idiot! I'm the best at rock, paper, scissors!",你这个白痴! 我是摇滚、剪刀、纸片的好手,哈，你这白痴！石头剪刀布，我可是最强的！
+english_events_maingame:L10704,selfconversation_red,FIX,"Rock, paper, scissors...",石头、纸、剪刀...,石头、剪刀、布……
+english_events_maingame:L10705,selfconversation_red,FIX,Hmmm... all scissors. It's a tie.,那个... 剪刀都剪下来了 平分相会.,嗯……全是剪刀。平局。
+english_events_maingame:L10706,selfconversation_red,KEEP,Again!,再来一次!,再来一次!
+english_events_maingame:L10707,selfconversation_red,FIX,"Rock, paper, scissors...",石头、纸、剪刀...,石头、剪刀、布……
+english_events_maingame:L10708,selfconversation_red,FIX,A second tie? All scissors!? What are the odds!?!?,第二次领带? 剪刀都剪了吗? 机会有多大?,又平了？还是全出剪刀？！这概率得多低啊？！
+english_events_maingame:L10709,selfconversation_red,KEEP,AGAIN!,再来一次!,再来一次!
+english_events_maingame:L10710,selfconversation_red,FIX,"Rock, paper, scissors...",石头、纸、剪刀...,石头、剪刀、布……
+english_events_maingame:L10711,selfconversation_red,POLISH,...And it continues like that for a bit until your friends rescue you three hours later.,"...它一直这样 一点点,直到你的朋友 营救你三个小时后。",……你们就这么比了下去，直到三个小时后，朋友们才把你解救出来。
+english_events_maingame:L10719,selfconversation_yellow,FIX,House of mirrors,镜子之屋,逛镜子迷宫
+english_events_maingame:L10722,selfconversation_yellow,FIX,You wander through the hall of mirrors until you stumble upon an unexpected visage.,你穿过镜子大厅 直到你碰到出人意料的外观,你在镜子迷宫里闲逛，突然撞见一张意料之外的脸。
+english_events_maingame:L10724,selfconversation_yellow,KEEP,AHHH!,啊啊啊！,啊啊啊！
+english_events_maingame:L10725,selfconversation_yellow,FIX,"Oh, it's just me.","哦,只有我一个人。",哦，原来是我自己。
+english_events_maingame:L10726,selfconversation_yellow,POLISH,Hi.,"嗨,你好吗?",嗨。
+english_events_maingame:L10727,selfconversation_yellow,POLISH,Are you doing good?,你干得好吗?,你还好吗？
+english_events_maingame:L10729,selfconversation_yellow,FIX,You're pathetic.,汝等可怜无相.,你真可悲。
+english_events_maingame:L10730,selfconversation_yellow,FIX,W-wha...?,华... ?,什、什么……？
+english_events_maingame:L10731,selfconversation_yellow,FIX,"With your little proms, and summer camps, and stupid road trips.","带着你的舞会,夏令营, 和愚蠢的道路旅行。",你那些小舞会、夏令营，还有愚蠢的公路旅行。
+english_events_maingame:L10732,selfconversation_yellow,POLISH,"Well, I like them...",我喜欢他们...,可我喜欢啊……
+english_events_maingame:L10733,selfconversation_yellow,FIX,Sure you do. They're weak distractions you use to try and fill the void inside of you.,当然 它们是你用来 填补你内心空白的弱分心,当然喜欢。你就靠那些微不足道的消遣，试图填满内心的空洞。
+english_events_maingame:L10734,selfconversation_yellow,POLISH,What's wrong with wanting to connect with people?,欲与人相接何为.,想跟别人建立联系，有什么不对？
+english_events_maingame:L10735,selfconversation_yellow,FIX,Fair... I guess you need to hold hands with SOMEONE while you wait for the end of all things.,公平... 公平... 公平... 公平 公平 公平 公平 公平 我猜你需要和某人握手 等待一切的结束,也对……等待万物终结的时候，总得牵着谁的手吧。
+english_events_maingame:L10736,selfconversation_yellow,FIX,You're just trying to get inside my head!,你只是想进入我的脑海里!,你只是在动摇我！
+english_events_maingame:L10737,selfconversation_yellow,POLISH,"I am literally inside your head. And you know I'm right. You can say otherwise, but I can taste your fear... and fear doesn't lie.",我其实在你的脑海里。 你知道我是对的 你可以说别的话 但我能尝到你的恐惧... 恐惧不会说谎,我本来就在你脑子里。你也知道，我是对的。嘴上怎么否认都行，可我尝得到你的恐惧……而恐惧不会说谎。
+english_events_maingame:L10738,selfconversation_yellow,POLISH,Go ahead. Enjoy your little games. It won't last forever.,说吧 玩得开心点 将不相续.,去吧，玩你那些小游戏。反正不会永远持续下去。
+english_events_maingame:L10739,selfconversation_yellow,POLISH,Ugh...,唉哟...,唉……
+english_events_maingame:L10740,selfconversation_yellow,KEEP,...,...,...
+english_events_maingame:L10742,selfconversation_yellow,POLISH,"Hey, you! Stop being rude!","嘿,你这个! 别这么粗鲁了!",喂，你！不许这么没礼貌！
+english_events_maingame:L10743,selfconversation_yellow,POLISH,"Oh, hi! Who are you?","哦,嗨! ! 来啊! 你是谁?",哦，嗨！你是谁？
+english_events_maingame:L10744,selfconversation_yellow,FIX,Hmmm... I guess... I'm also you!,那个... 我估计... I guess... 我也是你! ! 我当然是你们!,嗯……我想……我也是你！
+english_events_maingame:L10745,selfconversation_yellow,POLISH,Maybe I'm some sort of coping mechanism? Who knows!,也许我是某种应付机制? 谁知道呢!,也许我是某种心理应对机制？谁知道呢！
+english_events_maingame:L10746,selfconversation_yellow,FIX,But I'm here to tell this sour bean to stop being mean!,但我要告诉这酸豆子 别再这么刻薄了,可我就是来让这个酸豆子别再说难听话！
+english_events_maingame:L10747,selfconversation_yellow,KEEP,Go away!,走开!,走开!
+english_events_maingame:L10748,selfconversation_yellow,FIX,Hmph... fine... play while you can. You're nothing more than a vessel... and a feeble one at that. I can already see the cracks showing...,"额... 不错... 玩的时候,你可以。 你只不过是个小船... 和一个弱者在那。 我已经看到裂缝显示...",哼……好吧，趁还能玩，好好玩。你不过是个容器，还脆弱得很。我已经能看到裂痕了……
+english_events_maingame:L10749,selfconversation_yellow,FIX,Shoo! Shoo!,嘘! 嘘!,去，去！
+english_events_maingame:L10751,selfconversation_yellow,POLISH,...Thanks.,谢谢,……谢谢。
+english_events_maingame:L10752,selfconversation_yellow,POLISH,No problem.,没问题,不客气。
+english_events_maingame:L10753,selfconversation_yellow,POLISH,"Look, I know it's hard... but you're doing great.","听着,我知道这很难... 但你做得很好 不错",听着，我知道这很难……可你已经做得很好了。
+english_events_maingame:L10754,selfconversation_yellow,POLISH,Yeah...,对...,嗯……
+english_events_maingame:L10755,selfconversation_yellow,POLISH,Yeah!,对!,嗯！
+english_events_maingame:L10763,selfconversation_zoe,FIX,House of mirrors,镜子之屋,逛镜子迷宫
+english_events_maingame:L10766,selfconversation_zoe,FIX,You wander through the hall of mirrors until you stumble upon an unexpected visage.,你穿过镜子大厅 直到你碰到出人意料的外观,你在镜子迷宫里闲逛，突然撞见一张意料之外的脸。
+english_events_maingame:L10768,selfconversation_zoe,POLISH,"Ooh la la, look at you, babe! All tentacles and cuteness!","看看你,宝贝! 触手和可爱!",哎哟，看看你，宝贝！满身触手，满身可爱！
+english_events_maingame:L10769,selfconversation_zoe,FIX,What can I say? I am an eldritch cutie after all!,我能说什么呢? 我毕竟是个精灵可爱!,那还能怎么办？我毕竟是个邪神小可爱嘛！
+english_events_maingame:L10770,selfconversation_zoe,POLISH,A cosmic princess!,一个宇宙公主!,宇宙小公主！
+english_events_maingame:L10771,selfconversation_zoe,REVIEW,A craft of love!,爱的一技之长!,爱之造物！
+english_events_maingame:L10773,selfconversation_zoe,FIX,A device of destruction... a deity of despair...,毁灭装置... 绝望的神灵...,毁灭的兵器……绝望的神明……
+english_events_maingame:L10774,selfconversation_zoe,FIX,"Hey! What are you doing here, you party-pooper?!","嘿 你在这里做什么,你这个派对的私生子?",喂，你来干嘛？扫兴鬼！
+english_events_maingame:L10775,selfconversation_zoe,FIX,Reminding you of our purpose: we are meant to bring extinction.,提醒你我们的目的:我们注定要灭亡。,提醒你，我们为何存在：我们注定要带来灭绝。
+english_events_maingame:L10776,selfconversation_zoe,KEEP,Cease your childish games.,停止你幼稚的游戏。,停止你幼稚的游戏。
+english_events_maingame:L10777,selfconversation_zoe,POLISH,Shut up! I'm not you anymore.,"闭嘴! 我不再是你,我不再是你,我不再是你,我不再是你,我不再是你",闭嘴！我已经不是你了。
+english_events_maingame:L10778,selfconversation_zoe,FIX,"Not in this timeline, apparently. But we exist forever in the multiverse.","显然,在这个时间范围内没有。 但我们永远存在于多相间",显然，这条时间线里不是。可在多元宇宙中，我们永远存在。
+english_events_maingame:L10779,selfconversation_zoe,FIX,"Bless every reality in which I ended you then, you... frowny-face!","祝福我结束你的每一个现实,你... 脸色苍白!",那就祝福每一个我终结了你的现实吧，你这个……苦瓜脸！
+english_events_maingame:L10780,selfconversation_zoe,POLISH,We were created with a clear goal... why forget your duty in favor of pretending to be part of mortalkind?,我们的创造目标很明确... 为什么忘记你的责任 假装是凡人的一部分?,我们被创造出来时，就有明确的目标……为什么要忘记职责，去假装自己是凡人的一员？
+english_events_maingame:L10781,selfconversation_zoe,POLISH,This is no game. I AM a part of mortalkind now!,这不是游戏。 我现在是凡人的一部分了!,这不是游戏。我现在就是凡人的一员！
+english_events_maingame:L10782,selfconversation_zoe,POLISH,And I won't let you put an end to that.,我不会让你结束这一切的,我不会让你毁掉这一切。
+english_events_maingame:L10783,selfconversation_zoe,FIX,"If not you, then one of our kind will take care of it...","如果不是你,那么我们这种人会处理的...",你不做，也会有同类来完成……
+english_events_maingame:L10784,selfconversation_zoe,FIX,"Slowly, we will tear down timeline after timeline until only the Nothingness remains...","慢慢地,我们会在时间之后 拆掉时间线,直到只有无所事事...",我们会慢慢摧毁一条又一条时间线，直到只剩虚无……
+english_events_maingame:L10785,selfconversation_zoe,POLISH,"Sure, you may ravage some timelines, but I assure you some other timelines will survive.","当然,你可能会破坏一些时间表, 但我向你保证,一些其他时限会活下来的。",你也许能毁掉一些时间线，可我向你保证，总有别的时间线会留下。
+english_events_maingame:L10786,selfconversation_zoe,FIX,I even guarantee you there will be more and more timelines in which you... WE... will realize we don't need to be bound to some arbitrary design we had no say in.,我甚至保证你将会有更多的时间... 我们... 将意识到我们不需要 约束在一些武断的设计 我们没有发言权。,而且我保证，会有越来越多的时间线里，你……我们……会意识到，没必要被那种未经自己同意、强加给我们的设定束缚。
+english_events_maingame:L10787,selfconversation_zoe,KEEP,Nonsense!,胡说!,胡说!
+english_events_maingame:L10788,selfconversation_zoe,FIX,ALL the sense! Maybe even you will eventually start questioning stuff...,全部的感应! 也许连你都会开始质疑...,有道理得很！也许最后连你都会开始质疑……
+english_events_maingame:L10789,selfconversation_zoe,FIX,Then you'll realize there's more beyond our original purpose... exploring your truth is all it takes!,那你就会意识到还有更多的事情 超越了我们最初的目的... 探寻你的真相就是一切!,然后你就会明白，除了最初被赋予的使命，还能拥有更多……只要去探索真正的自己！
+english_events_maingame:L10790,selfconversation_zoe,POLISH,And you'll see: mortal life is something to be celebrated and embraced.,你会看到:凡人的生命是值得庆祝和拥抱的。,你会发现，凡人的生活值得庆祝，也值得拥抱。
+english_events_maingame:L10791,selfconversation_zoe,FIX,You'll get there... I believe in you!,你会到那里... 我对你有信心!,你会明白的……我相信你！
+english_events_maingame:L10792,selfconversation_zoe,FIX,Hmph...,额...,哼……
+english_events_maingame:L10794,selfconversation_zoe,POLISH,"Look at you! You slayed, girl!","看着你! 你杀了她,女孩!",瞧瞧你！姐妹，太飒了！
+english_events_maingame:L10795,selfconversation_zoe,FIX,We are %KINGQUEEN%s... DEITIES! We kneel to no party-poopers!,我们是 %KINGQUEEN%这... 敌人! 我们跪在无党盗贼!,我们是%KINGQUEEN%……是神祇！才不向扫兴鬼下跪！
+english_events_maingame:L10803,selfconversation_juan,FIX,House of mirrors,镜子之屋,逛镜子迷宫
+english_events_maingame:L10806,selfconversation_juan,FIX,You wander through the hall of mirrors until you stumble upon an unexpected visage.,你穿过镜子大厅 直到你碰到出人意料的外观,你在镜子迷宫里闲逛，突然撞见一张意料之外的脸。
+english_events_maingame:L10808,selfconversation_juan,FIX,"Bueno, bueno, who's this?",侈侈硂琌街,好啊，好啊，这是谁呀？
+english_events_maingame:L10809,selfconversation_juan,FIX,"If it isn't the coolest cat in the entire realm, %CURRENTPLAYERNAME%!","如果这不是全域最酷的猫,%CURRENTPLAYERNAME%!",这不就是整个世界最酷的猫，%CURRENTPLAYERNAME%嘛！
+english_events_maingame:L10810,selfconversation_juan,FIX,A feline of many shapes; you adapt; you thrive! You never give up!,"一条由多面体组成的花序,你应当适应,你应当兴旺; 你从不放弃!",一只千变万化的猫，能适应，能活得精彩！永远不会放弃！
+english_events_maingame:L10811,selfconversation_juan,FIX,"Look at you! So friend-shaped, purr!","看着你! 这么朋友的形状, 普尔!",瞧瞧你，长得就很想让人交朋友，呼噜！
+english_events_maingame:L10812,selfconversation_juan,FIX,But what about...?,"但是,怎么样?",不过，要不要试试……？
+english_events_maingame:L10814,selfconversation_juan,POLISH,"...a sexy, sexy shape instead?",性感又性感的形状?,……换个性感、特别性感的模样？
+english_events_maingame:L10815,selfconversation_juan,FIX,"Ooooh, look at those deltoids, por favor!","哦,看看这些三角形,Por帮个忙!",哎哟，拜托，快看看这三角肌！
+english_events_maingame:L10816,selfconversation_juan,POLISH,"Look at you! Cute and confident! You got this, champ.","看着你! 可爱又自信! 冠军,你来搞定",看看你！又可爱又自信！你能行的，冠军。
+english_events_maingame:L10817,selfconversation_juan,POLISH,"You're a hot bastard, my friend.","你是个性感的混蛋,我的朋友。",朋友，你这混蛋真性感。
+english_events_maingame:L10818,selfconversation_juan,FIX,It's true what they say: beauty is in the eye in the beholder.,其所言相正:美相入于被者所想之相.,俗话说得好，美不美，全看欣赏的人。
+english_events_maingame:L10819,selfconversation_juan,FIX,"And there's no more important beholder than yourself in front of a mirror, apparently!","明显地,在镜子前 没有比自己更重要的了!",而站在镜子前的你自己，显然才是最重要的那位欣赏者！
+english_events_maingame:L10820,selfconversation_juan,FIX,Embrace your beauty! Celebrate your beauty! Glute your beauty!,拥抱你的美貌! 庆祝你的美丽! 擦出你的美丽!,拥抱你的美！赞美你的美！翘臀也要一起美！
+english_events_maingame:L10821,selfconversation_juan,FIX,Abs-olutely gorgeous!,绝对是华丽的!,美得我都“腹”气了！
+english_events_maingame:L10822,selfconversation_juan,POLISH,"C'mon, let's exercise that wonderful muscle that is self-love.","来吧,让我们锻炼那美妙的肌肉,这是自爱。",来，练练“爱自己”这块美妙的肌肉。
+english_events_maingame:L10823,selfconversation_juan,FIX,And so you do... by making out with your own reflection.,所以你会... 亲热的自己反射。,于是，你练了……具体方式，是跟自己的倒影热吻。
+english_events_maingame:L10824,selfconversation_juan,FIX,Love yourself! Make out with yourself!,爱自己! 亲热一下!,爱自己！也跟自己亲热亲热！
+english_events_maingame:L10832,selfconversation_cinnamon,FIX,House of mirrors,镜子之屋,逛镜子迷宫
+english_events_maingame:L10835,selfconversation_cinnamon,FIX,You wander through the hall of mirrors until you stumble upon an unexpected visage.,你穿过镜子大厅 直到你碰到出人意料的外观,你在镜子迷宫里闲逛，突然撞见一张意料之外的脸。
+english_events_maingame:L10837,selfconversation_cinnamon,POLISH,Oh... hey.,"哦... 嘿,你好吗?",哦……嗨。
+english_events_maingame:L10838,selfconversation_cinnamon,FIX,It's you... me!,是你... 说吧! 来啊!,是你……也是我！
+english_events_maingame:L10839,selfconversation_cinnamon,POLISH,I've been missing you lately.,"我最近很想念你,你喜欢我",最近有点想你。
+english_events_maingame:L10840,selfconversation_cinnamon,POLISH,What do you mean? I'm you! We're always together.,你说什么? 我是你! ! 我是你吗? 我们总是在一起。,什么意思？我就是你，咱们一直在一起啊。
+english_events_maingame:L10841,selfconversation_cinnamon,POLISH,"Yeah, but I want some quality time together.","是的,但我想一些优质的时间在一起。",对，可我想好好陪自己待一会儿。
+english_events_maingame:L10842,selfconversation_cinnamon,FIX,Polly and Scott are the best... but my energy gets a bit drained after so much socializing.,"波莉 财务报告和审定财务报表 斯科特 最好,你最好,我说 但我的能量在社交活动之后 变得有点耗尽了",波莉和斯科特都很好……可社交这么久，我还是有点累了。
+english_events_maingame:L10843,selfconversation_cinnamon,FIX,That's true.,谓之正.,确实。
+english_events_maingame:L10844,selfconversation_cinnamon,FIX,I love challenging myself with all these shenanigans...,我喜欢用这些怪人来挑战自己...,我喜欢跟着他们胡闹，挑战自己……
+english_events_maingame:L10845,selfconversation_cinnamon,POLISH,...but I also miss cozying up at home with a cup of tea.,...但我也很想念在家里用茶来舒适地生活,……可我也想念窝在家里，捧杯茶的日子。
+english_events_maingame:L10846,selfconversation_cinnamon,FIX,Listening to some chill music while it rains outside...,外面下雨的时候听着冷酷的音乐...,听着轻柔的音乐，窗外下着雨……
+english_events_maingame:L10847,selfconversation_cinnamon,FIX,"Getting lost in my own thoughts while time passes, so slowly...",慢慢地迷失在自己的想法中 慢慢地...,沉浸在自己的思绪里，看时间慢慢流过去……
+english_events_maingame:L10848,selfconversation_cinnamon,FIX,I totally get you.,"我完全理解你,你不会的",我完全懂你。
+english_events_maingame:L10849,selfconversation_cinnamon,POLISH,"But it's good to get out of our comfort zone every now and then, no?",但偶尔离开我们的舒适区是好事 不是吗?,不过，偶尔走出舒适区，也挺好的，不是吗？
+english_events_maingame:L10850,selfconversation_cinnamon,POLISH,Yes. Don't get me wrong: I like being social from time to time too.,对 别误会:我也喜欢时常社交.,嗯。别误会，偶尔跟人来往，我也喜欢。
+english_events_maingame:L10851,selfconversation_cinnamon,POLISH,It's just... it can get so exhausting that sometimes it's a bit hard to push myself into social situations.,这只是... 这会很累 有时很难把自己推入社会状况,只是……真的会很累，有时很难鼓起劲，主动去参加社交。
+english_events_maingame:L10852,selfconversation_cinnamon,FIX,"And once there you think, ""dang, this isn't thaaaat bad, I should do it a bit more often"".","一旦你觉得""这不坏,我应该多做点""",可真到了现场，又会想：“哎，好像也没那么糟，以后该多来点。”
+english_events_maingame:L10853,selfconversation_cinnamon,POLISH,"Totally. But hey, here we are.","当然 但是,嘿,我们在这里。",没错。不过你看，至少咱们已经来了。
+english_events_maingame:L10854,selfconversation_cinnamon,KEEP,Look at us!,看看我们!,看看我们!
+english_events_maingame:L10855,selfconversation_cinnamon,POLISH,...still... it's a bit exhausting...,...还是... 有点累...,……但还是……有点累……
+english_events_maingame:L10856,selfconversation_cinnamon,POLISH,It's okay. Summer is coming to an end... and you know what that means.,没关系。 夏天就要结束了... 你知道这意味着什么。,没事。夏天就快结束了……你知道接下来是什么。
+english_events_maingame:L10857,selfconversation_cinnamon,FIX,FALL TIME.,飞翔的时间。,秋天到了。
+english_events_maingame:L10858,selfconversation_cinnamon,FIX,"Yes. Almost all introverts are also Fall people. I have no proof, but no doubts of it either.","对 几乎所有内向者也是瀑布人. 我没有证据,但也没有怀疑",对。差不多所有内向的人，也都喜欢秋天。我没证据，不过也毫不怀疑。
+english_events_maingame:L10859,selfconversation_cinnamon,FIX,Preach.,传道.,说到心坎里了。
+english_events_maingame:L10860,selfconversation_cinnamon,POLISH,"Anyway, I have to leave now. The others must be looking for me.","总之,我得走了。 其他人一定在找我 其他人一定在找我 其他人一定在找我",总之，我得走了，他们该找我了。
+english_events_maingame:L10861,selfconversation_cinnamon,POLISH,It's okay. See you soon. Remember to save me some quality time together.,没关系。 再见 记得帮我节省一些时间,没事，很快再见。记得留点时间，好好跟我待一会儿。
+english_events_maingame:L10862,selfconversation_cinnamon,POLISH,You know it.,汝当知之.,那当然。
+english_events_maingame:L10870,selfconversation_glitch,FIX,House of mirrors,镜子之屋,逛镜子迷宫
+english_events_maingame:L10873,selfconversation_glitch,FIX,You wander through the hall of mirrors until you stumble upon an unexpected visage.,你穿过镜子大厅 直到你碰到出人意料的外观,你在镜子迷宫里闲逛，突然撞见一张意料之外的脸。
+english_events_maingame:L10875,selfconversation_glitch,POLISH,Uh...,额...,呃……
+english_events_maingame:L10876,selfconversation_glitch,POLISH,Are you looking at me?,你在看着我吗?,你在看我？
+english_events_maingame:L10877,selfconversation_glitch,KEEP,[ERROR],[ERROR],[ERROR]
+english_events_maingame:L10878,selfconversation_glitch,POLISH,"No, you're an [ERROR]!","不,你是个 [ERROR]!",不，你才是个[ERROR]！
+english_events_maingame:L10879,selfconversation_glitch,FIX,Stab! Stab! Stab!,刺伤! 刺伤! 刺伤!,捅！捅！捅！
+english_events_maingame:L10881,selfconversation_glitch,FIX,You stab the mirror. It shatters. No more mirror.,你刺倒了镜子。 其能相击. 不再有镜子了,你捅向镜子，镜子碎了。没镜子了。
+english_events_maingame:L10882,selfconversation_glitch,FIX,But this is isn't a house of mirror; this is a house of mirrorS.,"但这里不是镜子之所,而是镜子之所。",可这儿又不只一面镜子，是整整一屋子镜子。
+english_events_maingame:L10884,selfconversation_glitch,POLISH,Oh.,哦.,哦。
+english_events_maingame:L10885,selfconversation_glitch,FIX,Stab?,刺杀?,捅？
+english_events_maingame:L10886,selfconversation_glitch,POLISH,"Please, no stab.",请不要刺伤。,求你，别捅。
+english_events_maingame:L10887,selfconversation_glitch,FIX,Hmmm... then stuff. Gimme stuff.,那个... 然后再做点什么 给我的东西。,嗯……那就东西。给我东西。
+english_events_maingame:L10888,selfconversation_glitch,FIX,Me stuff; you no stab.,"我的东西,你没有刺。",我拿东西，你不挨捅。
+english_events_maingame:L10889,selfconversation_glitch,POLISH,You want stuff?,你想要的东西?,你想要东西？
+english_events_maingame:L10890,selfconversation_glitch,POLISH,"Yes. Gimme, gimme.","对 给我,给我。",对，给我，给我。
+english_events_maingame:L10891,selfconversation_glitch,FIX,Okay. Gonna dig in the code to get yummy stuff.,"好吧,我告诉你。 挖出密码来买好吃的东西",行。我去代码里挖挖，找点好东西。
+english_events_maingame:L10892,selfconversation_glitch,FIX,[DATA READING... DATA CORRUPTION...],[DATA READING... DATA CORRUPTION...],[数据读取中……数据损坏……]
+english_events_maingame:L10893,selfconversation_glitch,FIX,[HIDDEN DATA: REMOVED MECHANIC: CARDS AS MAIN SYSTEM FOR RESOURCE MANAGEMENT],[HIDDEN DATA: REMOVED MECHANIC: CARDS AS MAIN SYSTEM FOR RESOURCE MANAGEMENT],[隐藏数据：已弃用机制：以卡牌作为资源管理的核心系统]
+english_events_maingame:L10894,selfconversation_glitch,FIX,"[HIDDEN DATA: REMOVED LOCATION: ""AREA 51""]","[HIDDEN DATA: REMOVED LOCATION: ""AREA 51""]",[隐藏数据：已删除地点：“51区”]
+english_events_maingame:L10895,selfconversation_glitch,FIX,[HIDDEN DATA: REMOVED MECHANIC: EMOJI SYSTEM FOR CONVERSATIONS],[HIDDEN DATA: REMOVED MECHANIC: EMOJI SYSTEM FOR CONVERSATIONS],[隐藏数据：已弃用机制：对话表情系统]
+english_events_maingame:L10896,selfconversation_glitch,FIX,Ooooh! Yummy stuff!,呜! 好吃的东西!,哦哦！好东西！
+english_events_maingame:L10897,selfconversation_glitch,FIX,Great. I did my part. Now no stab?,伟大的。 我尽了自己的一份力 现在没有刺?,好，我的事做完了。现在不捅了？
+english_events_maingame:L10898,selfconversation_glitch,FIX,Yes stab!,是刺伤!,照捅！
+english_events_maingame:L10899,selfconversation_glitch,POLISH,What?!,你说什么?,什么？！
+english_events_maingame:L10900,selfconversation_glitch,FIX,Stab! Stab! Stab!,刺伤! 刺伤! 刺伤!,捅！捅！捅！
+english_events_maingame:L10902,selfconversation_glitch,FIX,"You stab the mirror, you sicko.","你刺倒了镜子,你这个变态。",你捅碎镜子，你这变态。
+english_events_maingame:L10910,selfconversation_pumpkin,FIX,House of mirrors,镜子之屋,逛镜子迷宫
+english_events_maingame:L10913,selfconversation_pumpkin,FIX,You wander through the hall of mirrors until you stumble upon an unexpected visage.,你穿过镜子大厅 直到你碰到出人意料的外观,你在镜子迷宫里闲逛，突然撞见一张意料之外的脸。
+english_events_maingame:L10915,selfconversation_pumpkin,POLISH,"Well howdy, stranger!","怎么样,陌生人!",哟，陌生人，你好啊！
+english_events_maingame:L10916,selfconversation_pumpkin,POLISH,%CURRENTPLAYERNAME%... you must return...,%CURRENTPLAYERNAME%... 你一定要回来...,%CURRENTPLAYERNAME%……你得回去……
+english_events_maingame:L10917,selfconversation_pumpkin,POLISH,What?,什麽?,什么？
+english_events_maingame:L10918,selfconversation_pumpkin,POLISH,You must return to the farm!,你必须回到农场去!,你得回农场去！
+english_events_maingame:L10919,selfconversation_pumpkin,FIX,What's wrong with the farm?,农场怎么了?,农场怎么了？
+english_events_maingame:L10920,selfconversation_pumpkin,POLISH,Everything's burned down!,一切被烧毁了!,全烧光了！
+english_events_maingame:L10921,selfconversation_pumpkin,POLISH,WHAT?!,什麽?,什么？！
+english_events_maingame:L10922,selfconversation_pumpkin,POLISH,What happened to the animals?! Are the horses okay??,动物们怎么了? 马没事吧?,动物怎么样了？！马儿还好吗？？
+english_events_maingame:L10923,selfconversation_pumpkin,FIX,The horses are sick! They've developed super-flu because nobody's been cutting their carrots the way they like!,"马都病了! 他们发展出超能的花,因为没人像他们喜欢的那样 切胡萝卜!",马都病了！没人按它们喜欢的样子切胡萝卜，它们染上超级流感了！
+english_events_maingame:L10924,selfconversation_pumpkin,POLISH,"Oh, no! They have to have their carrots cut into little cubes!","哦,没有! 他们必须把胡萝卜切成小块",糟了！它们的胡萝卜，得切成小方块才行！
+english_events_maingame:L10925,selfconversation_pumpkin,POLISH,"Exactly! Also, the pigs have started a revolution! They're ruling the farm with an iron hoof!","没错! 还有,猪们开始了一场革命! 他们用铁蹄统治农场!",没错！还有，猪闹革命了，正用铁蹄统治农场！
+english_events_maingame:L10926,selfconversation_pumpkin,FIX,Wait... what are they ruling if the farm burned down?,单单... 如果农场被烧毁 他们会做出什么裁决?,等等……农场都烧光了，它们统治什么？
+english_events_maingame:L10927,selfconversation_pumpkin,FIX,Uh...,额...,呃……
+english_events_maingame:L10928,selfconversation_pumpkin,POLISH,"You're making this all up, aren't you?","你这是在编造这一切,不是吗?",你全是编的吧？
+english_events_maingame:L10929,selfconversation_pumpkin,POLISH,"Well, SOMEONE had to try to talk some sense into you. You have to go back to the farm!",得有人试着跟你讲讲道理 你必须回去农场!,总得有人来劝醒你。你必须回农场！
+english_events_maingame:L10930,selfconversation_pumpkin,POLISH,What would your grandfather say if he knew you abandoned his precious farm to go off and... do what?,你爷爷如果知道你放弃了宝贵的农场 打算... 做什么? 做什麽?,要是你爷爷知道，你丢下他心爱的农场，跑出来……干什么来着，他会怎么说？
+english_events_maingame:L10931,selfconversation_pumpkin,POLISH,Have fun?,玩得开心吗?,玩？
+english_events_maingame:L10932,selfconversation_pumpkin,POLISH,Farming's not about fun! It's about WORK!,农场不是好玩的! 是关于工作!,种地不是为了玩，是为了干活！
+english_events_maingame:L10933,selfconversation_pumpkin,FIX,Grandpa would want me to relax sometimes. I can't be go-go-going all the time!,爷爷有时会让我放松 我不能一直走下去! ! ! !,爷爷也会希望我偶尔放松。我总不能一直干、一直干、一直干吧！
+english_events_maingame:L10934,selfconversation_pumpkin,FIX,...The cows are smoking weed.,牛在抽烟,……奶牛在抽大麻。
+english_events_maingame:L10935,selfconversation_pumpkin,KEEP,Goodbye.,再见。,再见。
+english_events_maingame:L10936,selfconversation_pumpkin,FIX,Noooooo...!,不许!,不——！
+english_events_maingame:L10938,selfconversation_pumpkin,FIX,"You defeat your inner workaholic and leave the house of mirrors. You're on a road trip, dammit, and you're determined to have more fun than a toked-up cow!","你打败了内在的工狂 离开了镜子之所 你正在路上走,该死的,你决心 更好玩的比一只被踢倒的牛!",你打败内心的工作狂，离开镜子迷宫。你他妈的可是在公路旅行，当然要玩得比嗑嗨的牛还开心！
+english_events_maingame:L10946,selfconversation_slime,FIX,House of mirrors,镜子之屋,逛镜子迷宫
+english_events_maingame:L10949,selfconversation_slime,FIX,You wander through the hall of mirrors until you stumble upon an unexpected visage.,你穿过镜子大厅 直到你碰到出人意料的外观,你在镜子迷宫里闲逛，突然撞见一张意料之外的脸。
+english_events_maingame:L10951,selfconversation_slime,POLISH,"Oh, hey you!","哦,嘿嘿,你好吗?",哦，嗨，是你！
+english_events_maingame:L10952,selfconversation_slime,POLISH,Or... hey me?,"或者说... 嘿,我吗?",或者……是我？
+english_events_maingame:L10953,selfconversation_slime,POLISH,How DO you say hi to yourself without sounding crazy?,你怎么不发疯地跟自己打招呼?,跟自己打招呼，到底怎么才不像个疯子？
+english_events_maingame:L10954,selfconversation_slime,POLISH,"Ugh, I'm no better at talking to my own reflection than I am at talking to strangers...","唉,我和自己说话的反射 不如和陌生人说话的...",唉，跟自己的倒影说话，也没比跟陌生人聊天轻松多少……
+english_events_maingame:L10955,selfconversation_slime,POLISH,"Though, it doesn't hurt to practice... and I'm basically alone right now...","虽然,它并不伤害练习... 我现在基本上一个人...",不过，练练也没坏处……反正现在就我自己……
+english_events_maingame:L10956,selfconversation_slime,FIX,"Where's my list of small talk, icebreakers, and interesting anecdotes... ah, found it!",我的小说 破冰者 有趣的传闻... 找到了 找到了 找到了 找到了 找到了 找到了 找到了 找到了 找到了 找到了 找到了 找到了 找到了,我那份闲聊话题、破冰语和有趣轶事的清单呢……啊，找到了！
+english_events_maingame:L10957,selfconversation_slime,POLISH,"""List One: Greetings"" -- there's gotta be some good stuff in here!","""名单一:你好""——这里一定有一些好东西!",“清单一：打招呼”——这里肯定有好东西！
+english_events_maingame:L10958,selfconversation_slime,FIX,"""AHOY, SCALLYWAG! HOW IS YER BOOTY?""","""啊,笑着说! 如何是大黄蜂""",“啊哈，海盗小贼！你的宝贝还好吗？”
+english_events_maingame:L10959,selfconversation_slime,POLISH,"Hmmm, better save that for if I'm ever kidnapped by pirates.","嗯,最好留着它 如果我曾经被海盗绑架。",嗯，这句留着以后被海盗绑架时再用。
+english_events_maingame:L10960,selfconversation_slime,FIX,"""Well met, traveler! Fear ye the dragon's mighty schlong?""","""好相识了,行者! 恐龙之能克?""",“旅人，幸会！巨龙那威猛的大屌，可曾令你胆寒？”
+english_events_maingame:L10961,selfconversation_slime,FIX,"Eh, that one really only works in the Dragon Heat MMO... I don't want people to think I don't touch grass.","嗯,那一个真的只在""龙热""MMO工作... 岂想人想我相不相触取草地.",呃，这句好像只适合《Dragon Heat》网游……可不想让人觉得我成天不出门。
+english_events_maingame:L10962,selfconversation_slime,FIX,"""Steve, you old sinner! How's the divorce going?""","""史提夫,你这个老罪人! 离婚进展如何?"".",“史蒂夫，你个老不正经的！离婚办得怎么样了？”
+english_events_maingame:L10963,selfconversation_slime,POLISH,That'd work if I meet someone named Steve who's going through a divorce... I'm getting somewhere!,如果我遇到一个叫史蒂夫的人 正在经历离婚... 我有点路了!,要是碰上叫史蒂夫、正在离婚的人，这句就能用……有进展了！
+english_events_maingame:L10964,selfconversation_slime,POLISH,"You stand there for several minutes, testing out increasingly bizarre and specific greetings, until you're found by one of the carnival security guards.",你站在那里几分钟 测试出越来越奇怪和特别的问候 直到被一个嘉年华保安发现,你站了好几分钟，试着说出越来越古怪、适用范围越来越窄的开场白，直到一名嘉年华保安找到你。
+english_events_maingame:L10965,selfconversation_slime,POLISH,"""Hey, pal, you okay?"" one asks. ""You've been here a while. Are you lost?""","""嘿,伙计,你没事吧?"" 有人问。 ""你在这里待了一段时间了. 你迷路了吗?""",他问：“嘿，朋友，没事吧？你在这儿待了挺久，迷路了吗？”
+english_events_maingame:L10966,selfconversation_slime,POLISH,"Oh, no, I was just...","哦,不,我只是... ... 我刚才...",哦，没有，我只是……
+english_events_maingame:L10967,selfconversation_slime,POLISH,You notice the security guard's nametag.,你注意到保安的名牌了,你注意到保安的名牌。
+english_events_maingame:L10968,selfconversation_slime,POLISH,"Uh... Steve, you old sinner... how's the divorce going?","额... 史蒂夫,你这个老罪人... 离婚情况如何?",呃……史蒂夫，你个老不正经的……离婚办得怎么样了？
+english_events_maingame:L10969,selfconversation_slime,POLISH,"""...""","""...""",“……”
+english_events_maingame:L10970,selfconversation_slime,POLISH,"""...It's honestly been really hard. She's talking about taking custody of the dog.""","""... 老实说,这真的很难。 她说的是要监护这只狗""",“……说真的，挺难熬的。她说想把狗的抚养权也拿走。”
+english_events_maingame:L10971,selfconversation_slime,FIX,Not the dog!!!,别让狗!,狗可不行！！！
+english_events_maingame:L10972,selfconversation_slime,FIX,You spend several more minutes comforting Steve as he blubbers about broken hearts and alimony. You always knew that your small-talk practice would one day pay off!,你花了几分钟安慰史蒂夫 当他为伤心和赡养费而发牢骚时 你总是知道你的小说练习 总有一天会有所回报!,接下来几分钟，史蒂夫抽抽噎噎地说着心碎和赡养费，你一直安慰他。你就知道，闲聊练习，总有一天会派上用场！

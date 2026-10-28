@@ -1,0 +1,88 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_pitstop:L7476,cdbrianfuture,KEEP,His Plans for the Future,他的未来计划,他的未来计划
+english_events_pitstop:L7478,cdbrianfuture,KEEP,Umm... the future...,额... 未来...,额... 未来...
+english_events_pitstop:L7479,cdbrianfuture,POLISH,"Well, for one, I've been thinking about what to do with these 10,000 dollars I won.","好吧,首先,我一直在想 我赢了这一万美金该怎么办。",嗯，首先，我一直在想，赢来的这一万美元该怎么花。
+english_events_pitstop:L7480,cdbrianfuture,KEEP,...,...,...
+english_events_pitstop:L7481,cdbrianfuture,FIX,...WHAT?!,..这是什么!,……什么？！
+english_events_pitstop:L7482,cdbrianfuture,KEEP,"Oh, yeah.","哦,对了。","哦,对了。"
+english_events_pitstop:L7483,cdbrianfuture,FIX,"The other day I was eating yogurt, and apparently there was this thing where some of the yogurt lids had prizes on their backs.",那天我正在吃酸奶 很明显有件事 酸奶的盖子上有奖品,前几天我在吃酸奶，好像他们正搞活动，有些酸奶盖子背面会有奖。
+english_events_pitstop:L7484,cdbrianfuture,KEEP,Long story short: I won the big prize.,长话短说:我赢得了大奖.,长话短说:我赢得了大奖.
+english_events_pitstop:L7485,cdbrianfuture,POLISH,"Whoa, so that's why you've been eating yogurt these last few days!","哇,所以这就是为什么 你一直在吃酸奶 这几天!",哇，所以你这几天才一直吃酸奶！
+english_events_pitstop:L7486,cdbrianfuture,POLISH,"Huh? No, no. I had no idea about the prize.","是吗? 没有,没有。 我不知道奖品。",啊？没有没有，我根本不知道有奖。
+english_events_pitstop:L7487,cdbrianfuture,KEEP,I just like yogurt.,我只是喜欢酸奶。,我只是喜欢酸奶。
+english_events_pitstop:L7488,cdbrianfuture,FIX,"Ah, okay.","啊,还好。",啊，原来如此。
+english_events_pitstop:L7489,cdbrianfuture,FIX,"But, maaaaan... I have no idea what I'm supposed to do with 10,000 dollars.","但是,马亚安... 我不知道我该拿一万美金做什么",可问题是，伙计……这一万美元，我真不知道该怎么花。
+english_events_pitstop:L7490,cdbrianfuture,KEEP,Buy a yacht?,买个游艇?,买个游艇?
+english_events_pitstop:L7491,cdbrianfuture,POLISH,"I don't think you can buy a yacht with 10,000 dollars.",我想你买不到一万块的游艇,一万美元，应该买不了游艇吧。
+english_events_pitstop:L7492,cdbrianfuture,FIX,"See? I'm lost, dude.","看到没? 我迷路了,伙计。",看吧？我完全没头绪，伙计。
+english_events_pitstop:L7493,cdbrianfuture,FIX,"Normally, I don't manage more than 30 dollars at the same time.","通常情况下,我不同时管理30多美元.",平时我手头的钱，从来不超过三十美元。
+english_events_pitstop:L7494,cdbrianfuture,POLISH,Any clue what you'd like to get with that much money?,知道用这么多钱你想得到什么吗?,那你有没有想过，拿这么多钱买点什么？
+english_events_pitstop:L7495,cdbrianfuture,KEEP,Hmmm...,那个...,那个...
+english_events_pitstop:L7496,cdbrianfuture,POLISH,The classics: I want something that doesn't translate into responsibilities or stress.,经典:我想要的东西不能转化为责任或压力.,老规矩：买的东西，不能给我添责任或者压力。
+english_events_pitstop:L7497,cdbrianfuture,POLISH,No complicated stuff... no classy stuff... no ooh-la-là stuff...,"没有复杂的事情... 没有优雅的东西... 没有,哦,拉,拉的东西...",不要复杂的……不要高雅的……也不要那种“噢啦啦”的花哨玩意儿……
+english_events_pitstop:L7498,cdbrianfuture,KEEP,"I'm a simple man, y'know?","我是一个简单的人,你知道吗?","我是一个简单的人,你知道吗?"
+english_events_pitstop:L7499,cdbrianfuture,FIX,Taking notes here...,在这里做笔记...,记下了……
+english_events_pitstop:L7500,cdbrianfuture,FIX,Ah! And not a goose! Goose bad.,摆! 不是鹅! 鹅坏.,啊！还有，不能是鹅！鹅不好。
+english_events_pitstop:L7501,cdbrianfuture,POLISH,"W-Why would you use 10,000 dollars to buy a single goose?",你为什么用一万块买一只鹅?,为、为什么会花一万美元，就买一只鹅啊？
+english_events_pitstop:L7502,cdbrianfuture,FIX,I don't know!,我不知道! 开什么玩笑?,我不知道！
+english_events_pitstop:L7503,cdbrianfuture,POLISH,"Just not a goose, okay?","只是不是一只鹅,好吗?",反正别买鹅，好吗？
+english_events_pitstop:L7504,cdbrianfuture,KEEP,...,...,...
+english_events_pitstop:L7505,cdbrianfuture,KEEP,Then...,那麽...,那麽...
+english_events_pitstop:L7506,cdbrianfuture,FIX,"Easy: 10,000 one-dollar burgers.",网易:一万个一元汉堡.,简单：一万个一美元汉堡。
+english_events_pitstop:L7507,cdbrianfuture,FIX,"Bet everything on red. You know what's better than 10,000 dollars? 20,000 DOLLARS!",都赌红了 你知道什么比一万块钱更好吗? 2万多卢斯!,全押红色！知道什么比一万美元更好吗？两万美元！
+english_events_pitstop:L7508,cdbrianfuture,KEEP,A goose,一只鹅,一只鹅
+english_events_pitstop:L7510,cdbrianfuture,KEEP,"Hmmm, that's an intriguing idea...","嗯,这是一个有趣的想法...","嗯,这是一个有趣的想法..."
+english_events_pitstop:L7511,cdbrianfuture,KEEP,I do like one-dollar burgers.,我喜欢一块钱的汉堡,我喜欢一块钱的汉堡
+english_events_pitstop:L7512,cdbrianfuture,FIX,"And if my math isn't wrong... 10,000 dollars should... give-or-take... let me buy 10,000 one-dollar burgers.",如果我的数学没有错... 10000美元应该... 给 -或 -拿... 让我买一万个一美元汉堡,要是我没算错……一万美元应该……大概……能买一万个一美元汉堡。
+english_events_pitstop:L7513,cdbrianfuture,KEEP,I'm no scientist; but probably.,"我不是科学家,但可能吧","我不是科学家,但可能吧"
+english_events_pitstop:L7514,cdbrianfuture,KEEP,And you know what that is?,你知道这是什么吗?,你知道这是什么吗?
+english_events_pitstop:L7515,cdbrianfuture,KEEP,A lot of one-dollar burgers!,很多一块钱的汉堡!,很多一块钱的汉堡!
+english_events_pitstop:L7516,cdbrianfuture,FIX,A whole lot! Om nom nom!,"一大堆东西! 哦,不,不,不,不,不,不,不,不!",超级多！啊呜啊呜！
+english_events_pitstop:L7517,cdbrianfuture,POLISH,"Yes, dude... imagine that... I'd have a burger for every moment I needed one.","是的,伙计... 想象着... 我每需要一个汉堡时都会吃",对啊，伙计……想想看……以后我什么时候想吃汉堡，就什么时候有。
+english_events_pitstop:L7518,cdbrianfuture,POLISH,I never dreamed of living such a life of luxury... a life where I'd always have a burger in hand.,"我从未梦想过过如此奢侈的生活... 生活,我总是 有一个汉堡在手。",我做梦也没想过，自己能过上这么奢侈的日子……手里永远有个汉堡。
+english_events_pitstop:L7519,cdbrianfuture,FIX,What a gentleman dandy you'd be!,你真是个绅士花花公子!,那你可真是位阔绰的时髦绅士啊！
+english_events_pitstop:L7520,cdbrianfuture,POLISH,"Totally. Let's not waste any more time, %CURRENTPLAYERNAME%: to the burger place!",当然 我们不要再浪费时间了 %CURRENTPLAYERNAME%- 去汉堡店!,可不是。别浪费时间了，%CURRENTPLAYERNAME%：去汉堡店！
+english_events_pitstop:L7521,cdbrianfuture,FIX,"Wait... are you planning to buy all 10,000 burgers at once?",单单... 你打算马上买一万个汉堡吗?,等等……你是打算一次买齐一万个汉堡？
+english_events_pitstop:L7522,cdbrianfuture,FIX,...Yes?,是吗?,……对？
+english_events_pitstop:L7523,cdbrianfuture,FIX,"Brian, they'd get bad in a couple days.",布莱恩他们几天后就会变坏,布赖恩，那过个两天就坏了。
+english_events_pitstop:L7524,cdbrianfuture,POLISH,"Just keep the money and have a sort of ""burger fund"".","只要留着钱,并有某种""汉堡基金"".",先把钱留着，当成一笔“汉堡基金”就行。
+english_events_pitstop:L7525,cdbrianfuture,FIX,"Dude, you have the smarts to manage money!","老兄,你有聪明的 管理钱!",伙计，你真有管钱的头脑！
+english_events_pitstop:L7526,cdbrianfuture,FIX,What if you joined me? I can be the money-man; you'll be the brains.,"如果你加入我怎么办? 我可以当个有钱人,你会是大脑的",要不咱们合伙吧？我出钱，你动脑。
+english_events_pitstop:L7527,cdbrianfuture,FIX,I'm in.,我进去了。,算我一个。
+english_events_pitstop:L7528,cdbrianfuture,FIX,"And so you two go the rest stop's convenience store. You buy the first 2 of 10,000 burgers you'll be eating for the time being.",你们两个去休息站的便利店 你买一万个汉堡中的头两个 暂时吃。,于是，你们去了休息站的便利店。在接下来要吃的一万个汉堡里，你们先买了两个。
+english_events_pitstop:L7530,cdbrianfuture,FIX,Whaaaaaaa--?,怎么会...,什——么？
+english_events_pitstop:L7531,cdbrianfuture,POLISH,"I told you, %CURRENTPLAYERNAME%: no stress!","我告诉你, %CURRENTPLAYERNAME%:没有压力!",我说了，%CURRENTPLAYERNAME%：不能有压力！
+english_events_pitstop:L7532,cdbrianfuture,KEEP,"Sure, but what if you won?","当然,但是如果你赢了呢?","当然,但是如果你赢了呢?"
+english_events_pitstop:L7533,cdbrianfuture,POLISH,That's the point! What if I won?!,这就是重点! 如果我赢了呢?,问题就在这儿！我要是赢了怎么办？！
+english_events_pitstop:L7534,cdbrianfuture,FIX,"I have no idea what to do with $10,000...",我不知道该怎么处理一万元...,我连一万美元该怎么花，都不知道……
+english_events_pitstop:L7535,cdbrianfuture,FIX,"...imagine if I had $20,000!",有两万元的想象力!,……你想想，要是变成两万美元！
+english_events_pitstop:L7536,cdbrianfuture,KEEP,...,...,...
+english_events_pitstop:L7537,cdbrianfuture,POLISH,I could lose too... I guess that'd make things easier. But it's too risky!,我也会输的... 我想那会让事情变得容易一些 但是这太冒险了!,也可能会输……那样应该就省事了。但太冒险了！
+english_events_pitstop:L7538,cdbrianfuture,FIX,"Brian... do you want to LOSE the $10,000?",布莱恩... 你想输掉那一万美元吗?,布赖恩……你想把这一万美元输掉吗？
+english_events_pitstop:L7539,cdbrianfuture,FIX,I... guess not?,我…… 你猜不见?,我……应该不想吧？
+english_events_pitstop:L7540,cdbrianfuture,FIX,See? This is a terrible idea. Complete LOSE-LOSE scenario.,看到没? 这是一个可怕的想法。 完成LOSE-LOSE方案.,看吧？这主意太糟了。横竖都输。
+english_events_pitstop:L7541,cdbrianfuture,FIX,I suppose we have... very different ideas of what'd constitute a WIN or a LOSS...,我想我们... 关于什么构成WIN或LOSS的想法非常不同.,看来，我们对什么叫赢、什么叫输……想得很不一样。
+english_events_pitstop:L7542,cdbrianfuture,POLISH,Yes. It might be better if we parted ways until I solve this...,对 不如我们分道扬镳 直到我解决这个...,对。在我解决这个问题之前，咱们还是先分开吧……
+english_events_pitstop:L7543,cdbrianfuture,POLISH,"Otherwise, you'll find a way to invest this money and make even more money.","否则,会想出办法来投资这笔钱,赚出更多的钱.",不然，你又会想出什么投资的办法，让这笔钱越变越多。
+english_events_pitstop:L7544,cdbrianfuture,FIX,I can't have that.,我不能有那个。,那可不行。
+english_events_pitstop:L7545,cdbrianfuture,POLISH,"I must go now. Maybe I get lucky and find a man to sell me a $10,000 burrito, who knows...","我现在必须走了。 也许我很幸运找到一个男人 卖给我一万块的卷饼,谁知道...",我得走了。说不定运气好，能碰到个人，卖我一个一万美元的墨西哥卷饼。谁知道呢……
+english_events_pitstop:L7546,cdbrianfuture,KEEP,...,...,...
+english_events_pitstop:L7547,cdbrianfuture,KEEP,"Bye, %CURRENTPLAYERNAME%! Wish me luck!",再见 %CURRENTPLAYERNAME%! 祝我好运!,再见 %CURRENTPLAYERNAME%! 祝我好运!
+english_events_pitstop:L7548,cdbrianfuture,FIX,"And so, Brian leaves. There he goes, that charming dumb zombie, probably on his way to waste $10,000 on something stupid.","所以说, 布莱恩 叶子。 他走了,那个迷人的蠢僵尸, 可能在他的路上浪费一万元 对于一些愚蠢的东西。",于是，布赖恩走了。这个可爱又傻乎乎的僵尸，大概正准备把一万美元，浪费在某样蠢东西上。
+english_events_pitstop:L7550,cdbrianfuture,FIX,"Noooooooooo, not the goose!","不,不,不,鹅!",不——要，不能是鹅！
+english_events_pitstop:L7551,cdbrianfuture,FIX,"It's the one thing I asked from you, %CURRENTPLAYERNAME%!",这是我问你的一件事 %CURRENTPLAYERNAME%!,%CURRENTPLAYERNAME%，我就提了这么一个要求啊！
+english_events_pitstop:L7552,cdbrianfuture,POLISH,I guess I was just intrigued... what's with the goose?,我想我只是有点好奇... 这只鹅怎么了?,我就是有点好奇……鹅到底怎么了？
+english_events_pitstop:L7553,cdbrianfuture,FIX,Brian puts his hand over your mouth.,布莱恩 把他的手放在你的嘴上。,布赖恩一把捂住了你的嘴。
+english_events_pitstop:L7554,cdbrianfuture,KEEP,"%CURRENTPLAYERNAME%, some questions are better left unanswered.",%CURRENTPLAYERNAME%有些问题最好不要回答。,%CURRENTPLAYERNAME%有些问题最好不要回答。
+english_events_pitstop:L7555,cdbrianfuture,FIX,"Brian goes silent, his eyes locked on a fixed point, face frozen in a dreadful expression.",布莱恩 他的眼睛被锁在固定点上 脸被冷冻在可怕的表情中,布赖恩不再出声，双眼死死盯着某处，脸上凝固着惊恐的表情。
+english_events_pitstop:L7556,cdbrianfuture,FIX,"You can almost see visions of fire, screams, and a goose super-imposed in his eyes, as if a tragic flashback was replaying in his mind.","你几乎可以看到火的视觉,尖叫, 和一只鹅超强地在他的眼睛, 仿佛一个悲惨的闪回 在他的脑海中重现。",你几乎能在他眼中，看见火焰、惨叫，还有一只鹅的影像交叠，仿佛某段惨痛回忆正在他脑海里重演。
+english_events_pitstop:L7557,cdbrianfuture,KEEP,...,...,...
+english_events_pitstop:L7558,cdbrianfuture,FIX,Brian?,布莱恩?,布赖恩？
+english_events_pitstop:L7559,cdbrianfuture,FIX,Sorry... I was gone for a second.,对不起... 我走了一秒钟。,对不起……刚才走神了一下。
+english_events_pitstop:L7560,cdbrianfuture,POLISH,You know? It's been a while already; but there are days when I feel as if I've never escaped...,"你知道吗? 已经有一阵子了,但有时我觉得自己好像从未逃过一劫......",你知道吗？明明已经过去一阵了，可有些日子，我还是觉得自己从来没逃出去……
+english_events_pitstop:L7561,cdbrianfuture,KEEP,...What?,什麽?,什麽?
+english_events_pitstop:L7562,cdbrianfuture,KEEP,"The goose, %CURRENTPLAYERNAME%... the goose is always nearby...","鹅, %CURRENTPLAYERNAME%... 鹅总是在附近...","鹅, %CURRENTPLAYERNAME%... 鹅总是在附近..."
+english_events_pitstop:L7563,cdbrianfuture,KEEP,I need to leave now... I can't stay at the same place for too long...,我现在需要离开... 我不能在同一个地方呆太久...,我现在需要离开... 我不能在同一个地方呆太久...
+english_events_pitstop:L7564,cdbrianfuture,FIX,Brian!,布莱恩!,布赖恩！
+english_events_pitstop:L7565,cdbrianfuture,POLISH,"But it's too late. He stands up and leaves, running into the dark of the night.","但是已经太迟了 他站起来离开,跑入了黑夜",可已经太迟了。他站起身，转身跑进黑夜。
+english_events_pitstop:L7566,cdbrianfuture,FIX,What the fuck?,什么他妈的?,这他妈什么情况？

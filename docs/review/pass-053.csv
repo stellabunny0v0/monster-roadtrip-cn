@@ -1,0 +1,75 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_pitstop:L6640,cdjoysidekick,FIX,The Coven's Future,巫师的未来,女巫会的未来
+english_events_pitstop:L6642,cdjoysidekick,POLISH,"Wow, that's an intense question...","哇,这是一个激烈的问题...",哇，这问题可够重的……
+english_events_pitstop:L6643,cdjoysidekick,POLISH,Sorry if it's too much...,"对不起,如果太过分了...",要是问得太过了，抱歉……
+english_events_pitstop:L6644,cdjoysidekick,FIX,"No, no, it's okay. I am always concerned about the Coven's future and its well-being.","不,不,没关系。 我总是关心巫统的未来及其福祉.",不，不，没关系。我一直很关心女巫会的未来，以及我们过得好不好。
+english_events_pitstop:L6646,cdjoysidekick,POLISH,That's why I do my best to ensure the three of us are studying magic and becoming better witches.,这就是为什么我尽力确保我们三个在学习魔法并成为更好的巫师.,所以，我才尽力确保我们三个都好好学习魔法，成为更出色的女巫。
+english_events_pitstop:L6647,cdjoysidekick,FIX,Sometimes it's not enough to have just the three of us... that's why we usually have the support of supernatural sidekicks.,有时候只有我们三个是不够的... 这就是为什么我们通常有超自然伴侣的支持。,有时候，光靠我们三个不够……所以，我们通常还会找些超自然助手。
+english_events_pitstop:L6648,cdjoysidekick,FIX,Supernatural sidekicks? That sounds cool.,超自然的伴侣? 这听起来很酷。,超自然助手？听着挺酷。
+english_events_pitstop:L6649,cdjoysidekick,FIX,I guess it is... they're basically powerful beings who can join us in our adventures to increase the chances of... you know... not dying.,我想这是... 他们基本上是有权有势的生物 他们可以加入我们的冒险 增加... 你知道吗... 没有死。,是挺酷的……基本上，就是些实力强大的存在，能跟我们一起冒险，提高……你懂的……活下来的概率。
+english_events_pitstop:L6650,cdjoysidekick,POLISH,"I recently decided to perfect a sort of hiring process, so we don't have sidekicks turn on us.",我最近决定完善招聘程序 这样我们就不会有帮手来对付我们了,最近，我决定完善一下招聘流程，免得招来的助手反过来对付我们。
+english_events_pitstop:L6651,cdjoysidekick,POLISH,What does it mean for a sidekick to go wrong? Do they... expire?,帮手出错是什么意思? 他们... 过期了?,助手出问题是指什么？他们会……过期吗？
+english_events_pitstop:L6652,cdjoysidekick,POLISH,"Well, it depends. Sometimes it means they betray us; sometimes it means they just die.","嗯,这取决于。 有时这意味着他们背叛了我们;有时意味着他们只是死了。",看情况。有时是背叛我们，有时就是死了。
+english_events_pitstop:L6653,cdjoysidekick,FIX,"Uh, not cool.","呃,不凉快。",呃，这可不好。
+english_events_pitstop:L6654,cdjoysidekick,FIX,Definitely not cool.,绝对不酷。,确实不好。
+english_events_pitstop:L6656,cdjoysidekick,FIX,They also sometimes don't fit in with the Coven's culture.,"他们有时也与""巫统""的文化格格不入.",还有些时候，他们只是跟女巫会的团队文化合不来。
+english_events_pitstop:L6657,cdjoysidekick,POLISH,"So... what would make a good sidekick, then?","所以说... 那么,什么会成为一个好伙伴呢?",那什么样的助手，才算合适？
+english_events_pitstop:L6658,cdjoysidekick,POLISH,Hmmm... it needs to be someone who brings a unique skillset to the team. They need to make themselves useful!,那个... 需要有人给团队带来一个独特的技能 他们需要让自己有用!,嗯……得能给团队带来独特的技能，要有自己的用处！
+english_events_pitstop:L6659,cdjoysidekick,FIX,But maybe.... not too useful? We don't want someone who's overqualified.,但也许... 不是很有用吗? 我们不希望有人 超资格。,不过，也许……也别太有用了？我们不需要能力过剩的人。
+english_events_pitstop:L6660,cdjoysidekick,KEEP,Why not?,为什么不呢?,为什么不呢?
+english_events_pitstop:L6661,cdjoysidekick,FIX,"This is the Coven show, not the Sidekick show.","这是科文的节目,不是Sidekick的节目。",这可是女巫会的剧，不是助手的剧。
+english_events_pitstop:L6662,cdjoysidekick,FIX,"Oooh, am I sensing someone who doesn't want to get overshadowed as the leader?","哦,我感觉到有人 谁不想被蒙上头面吗?",哦，怎么听着，是有人当领队，不想被抢风头？
+english_events_pitstop:L6663,cdjoysidekick,FIX,It's not that (shut up).,不是那样的(嘘声).,不是这个意思（闭嘴）。
+english_events_pitstop:L6665,cdjoysidekick,FIX,"In any case, since I started the process, we've received like a hundred resumés.","总之,自从我开始这个过程以来,我们收到了一百多份履历.",总之，招聘开始后，已经收到差不多一百份简历了。
+english_events_pitstop:L6666,cdjoysidekick,FIX,I can help you parse them down!,我可以帮你解开它们!,我可以帮你筛一筛！
+english_events_pitstop:L6667,cdjoysidekick,POLISH,Sure. As long as this isn't one of those times where you try to help and make everything worse by being chaotic...,当然可以。 只要这不是一个你试图帮助 和让一切变得混乱的时代... ...,行。不过，希望你这次不是又想帮忙，结果一通胡闹，把事情弄得更糟……
+english_events_pitstop:L6668,cdjoysidekick,FIX,"Dang, no pressure or anything! After a few hours, you've rounded it down to three applicants... which one will you recommend to Joy?","妈的,没有压力什么的! 几小时后,你把它分成了三个申请人... 你会推荐哪一个给乔伊?",哎呀，完全没压力嘛！几个小时后，你筛出了最后三位申请者……要推荐谁给乔伊呢？
+english_events_pitstop:L6669,cdjoysidekick,FIX,"Mary Sue, the super-cool girl who will always save the day!",玛丽·苏 超级酷女孩 永远会拯救这一天!,玛丽·苏，永远能拯救局面的超级酷女孩！
+english_events_pitstop:L6670,cdjoysidekick,FIX,"Lourenço, the accountant who also happens to know capoeira.",卢伦索 恰好也认识卡波埃拉的会计,洛伦索，一位恰好还会巴西战舞的会计。
+english_events_pitstop:L6671,cdjoysidekick,FIX,"Wonder Wallace, stage magician and master of ""the arcane"".","神奇的华莱士,舞台魔术师和""北极""的主人公.",神奇华莱士，舞台魔术师，也是“奥术”大师。
+english_events_pitstop:L6673,cdjoysidekick,KEEP,...Mary Sue?,...玛丽·苏?,...玛丽·苏?
+english_events_pitstop:L6674,cdjoysidekick,FIX,Like... a literal Mary Sue?,喜欢... 一个字面的玛丽·苏?,我是说……真就是个玛丽·苏？
+english_events_pitstop:L6675,cdjoysidekick,KEEP,...Maybe?,...也许?,...也许?
+english_events_pitstop:L6676,cdjoysidekick,FIX,Didn't you hear what I said about not hiring anyone who's... overqualified?,你没有听到我说什么 不雇用任何人谁... 超资格?,我刚才不是说了，不要招能力……过剩的人吗？
+english_events_pitstop:L6677,cdjoysidekick,FIX,"This girl doesn't sound like a sidekick, she sounds like a straight-up protagonist.","这个女孩听起来不像一个伴奏者,她听起来就像一个直立的主角.",这姑娘哪像助手，简直就是个主角。
+english_events_pitstop:L6678,cdjoysidekick,POLISH,"Well, does that matter? It's about saving the world!",那重要吗? 这是关于拯救世界!,那有什么关系？咱们是要拯救世界啊！
+english_events_pitstop:L6679,cdjoysidekick,FIX,Am I sensing someone who doesn't like getting overshadowed?,我觉得有人不喜欢被蒙上阴影吗?,怎么听着，是有人不想被抢风头？
+english_events_pitstop:L6680,cdjoysidekick,FIX,Hmpf...,汉弗莱...,哼……
+english_events_pitstop:L6681,cdjoysidekick,POLISH,"Look, maybe I don't, true. But that's something for me to work on in therapy or elsewhere, %CURRENTPLAYERNAME%.","你看,也许我没有,真的。 但我在治疗或别的地方可以做这个 %CURRENTPLAYERNAME%.",好吧，也许我确实不喜欢。但这是我该通过心理治疗，或者别的方式，自己慢慢处理的问题，%CURRENTPLAYERNAME%。
+english_events_pitstop:L6682,cdjoysidekick,POLISH,"If I openly told you I didn't want a sidekick that's too ""main hero"", that's how I feel.","如果我公开告诉你我不想要一个太""主英雄""的伴侣 那就是我的感受",我已经明说了，不想要太有“主角感”的助手，这就是我的真实感受。
+english_events_pitstop:L6683,cdjoysidekick,POLISH,Should I work on it? Probably.,我该去修补一下吗? 也许吧。,我该改改吗？也许吧。
+english_events_pitstop:L6684,cdjoysidekick,POLISH,But I expected a friend to focus on listening to me and understanding me...,但我希望一个朋友能专心听我说话 了解我...,可我希望朋友能听我说话，试着理解我……
+english_events_pitstop:L6685,cdjoysidekick,FIX,...not railing against my insecurities.,...不会对我的不安全感束手无策,……而不是拿我的不安来攻击我。
+english_events_pitstop:L6686,cdjoysidekick,KEEP,Not cool...,一点都不酷...,一点都不酷...
+english_events_pitstop:L6687,cdjoysidekick,FIX,"Joy leaves into the dark of night. You are left alone, wondering if Mary Sue would be a cool hitchhiker.",乔伊离去入夜. 你一个人在想 玛丽·苏会不会是个很酷的搭便车的人,乔伊转身走进夜色。你独自留下，琢磨玛丽·苏会不会是个很酷的搭车客。
+english_events_pitstop:L6689,cdjoysidekick,KEEP,Let me see that one.,让我看看。,让我看看。
+english_events_pitstop:L6690,cdjoysidekick,KEEP,Huh...,那个...,那个...
+english_events_pitstop:L6691,cdjoysidekick,POLISH,"I mean, I discarded this one at first because it sort of sounded silly, but maybe that was me being judgmental.","我的意思是,我放弃了这个 一开始,因为它听起来有点傻, 但也许那是我 判断。",我一开始把这份简历筛掉了，因为听着有点傻。不过，也许是我先入为主了。
+english_events_pitstop:L6692,cdjoysidekick,KEEP,Accountants are important!,会计师很重要!,会计师很重要!
+english_events_pitstop:L6693,cdjoysidekick,FIX,We do struggle sometimes with our budget... saving the world can get expensive.,我们有时会用我们的预算来挣扎... 拯救世界可以变得昂贵。,我们的预算有时确实挺紧张……拯救世界，可不便宜。
+english_events_pitstop:L6694,cdjoysidekick,FIX,And he can defend himself through the art-slash-dance of capoeira.,他可以通过卡波埃拉的艺术-斜舞来为自己辩护.,而且，他还会巴西战舞，既是武术，也是舞蹈，能用来防身。
+english_events_pitstop:L6695,cdjoysidekick,POLISH,"That's useful, I won't lie.","这是有用的,我不会撒谎。",确实有用，这我承认。
+english_events_pitstop:L6696,cdjoysidekick,FIX,"Sometimes when you get a sidekick that's more on the intellectual side, they get killed rather fast...","有时当你得到一个更在智力方面, 他们被杀死的速度相当快...",有时，招来的助手偏文职，就很容易被干掉……
+english_events_pitstop:L6697,cdjoysidekick,POLISH,...so him being capable of defending himself is good.,...所以他有能力保护自己是好事,……所以，他能保护自己，是件好事。
+english_events_pitstop:L6698,cdjoysidekick,FIX,"Plus, capoeira is the most sensual of the martial arts!","此外,卡波埃拉是武术中最有魅力的!",而且，巴西战舞可是最性感的武术！
+english_events_pitstop:L6699,cdjoysidekick,FIX,I mean... tch... it's not about that!,我是说... 我... 不是因为这个!,我是说……啧……这不是重点！
+english_events_pitstop:L6700,cdjoysidekick,FIX,"You only say that because you've never experienced the mesmerizing art of capoeira, Joy!","你这么说只是因为你从未经历过卡波埃拉的美化艺术,乔伊!",乔伊，你这么说，只是因为还没见识过巴西战舞那迷人的魅力！
+english_events_pitstop:L6701,cdjoysidekick,FIX,You're just being silly now!,你现在只是傻了!,你又开始胡闹了！
+english_events_pitstop:L6702,cdjoysidekick,POLISH,"Maybe... or maybe you're underestimating capoeira. C'mon, let me show you some moves.","也许... 或许你低估了卡波埃拉 来吧,让我告诉你一些动作。",也许吧……也可能是你小看了巴西战舞。来，我给你展示几招。
+english_events_pitstop:L6703,cdjoysidekick,FIX,Hmpf... okay...,汉弗莱... 还好...,哼……好吧……
+english_events_pitstop:L6704,cdjoysidekick,FIX,You spend the rest of the night watching capoeira tutorials and trying out some moves with Joy.,你整晚都在看卡波埃拉的辅导课 和乔伊一起尝试一些动作,接下来的时间，你和乔伊一直在看巴西战舞教学视频，试着学了几招。
+english_events_pitstop:L6705,cdjoysidekick,FIX,"Needless to say you're not great at it, but you have lots of sensual fun. Capoeira!","不用说你不擅长它, 但你有很多的感性乐趣。 卡波埃拉! 卡波埃拉! 卡波埃拉! 卡波埃拉!",不用说，你们跳得不怎么样，可那些撩人的动作，还是给这一晚添了不少乐趣。巴西战舞！
+english_events_pitstop:L6707,cdjoysidekick,FIX,Wonder... Wallace?,不可思议... 华莱士?,神奇……华莱士？
+english_events_pitstop:L6708,cdjoysidekick,FIX,More like... WONDER WALLACE!,更喜欢... 温德华莱克!,要说……神奇华莱士！
+english_events_pitstop:L6709,cdjoysidekick,FIX,"I mean, %CURRENTPLAYERNAME%... where do I even start...","我是说, %CURRENTPLAYERNAME%... 我从哪里开始...",我是说，%CURRENTPLAYERNAME%……这该从哪儿吐槽起……
+english_events_pitstop:L6710,cdjoysidekick,FIX,"First off, this is a stage magician. You do understand they don't perform actual magic, right?","首先,这是一个舞台魔术师。 你明白他们不做真正的魔术,对不对?",首先，这是个舞台魔术师。你知道，他们用的不是真魔法，对吧？
+english_events_pitstop:L6711,cdjoysidekick,KEEP,Oh...,哦...,哦...
+english_events_pitstop:L6712,cdjoysidekick,FIX,"I mean, look: he even put quotation marks on ""the arcane"", see?","我的意思是,你看: 他甚至把引号 在""弧子"",看到了吗?",看，他连“奥术”都加了引号，看到没？
+english_events_pitstop:L6713,cdjoysidekick,FIX,"We the Coven master The Arcane, no quotation marks.","我们COEN主 阿尔卡内,没有引号。",我们女巫会，掌握的可是真正的奥术，不带引号的。
+english_events_pitstop:L6714,cdjoysidekick,FIX,I can't be fighting a world-devouring beast while a random dude is trying to pull a rope of brightly-colored handkerchiefs out of his mouth.,我不能和一个爱活世界的野兽战斗 当一个随机的人试图从他嘴里拉出一绳明亮的手帕。,我可不能一边对付吞噬世界的巨兽，一边还得看某个家伙从嘴里变出一长串彩色手帕。
+english_events_pitstop:L6715,cdjoysidekick,POLISH,"But maybe, if you get creative enough, you could use the handkerchiefs for--","但也许,如果你有足够的创造力, 你可以使用手帕...",可如果发挥点想象力，那些手帕也可以用来——
+english_events_pitstop:L6716,cdjoysidekick,FIX,"%CURRENTPLAYERNAME%, no.","%CURRENTPLAYERNAME%,没有。",%CURRENTPLAYERNAME%，不行。
+english_events_pitstop:L6717,cdjoysidekick,POLISH,"Not to mention, if he used REAL magic, he'd still completely overlap with us and bring no new skill to the group.","更何况,如果他使用真正的魔法,他仍然会和我们完全重叠,没有给团体带来新的技能.",更别说，就算他真会魔法，也跟我们的本事完全重合，带不来什么新技能。
+english_events_pitstop:L6718,cdjoysidekick,POLISH,"Then, you'd say this was a bad idea?",那你会说这是个坏主意?,所以，你觉得这主意不好？
+english_events_pitstop:L6719,cdjoysidekick,POLISH,I'll leave you alone so you can find the answer. I trust you can do it.,我会离开你一个人 这样你就可以找到答案。 我相信你能做到这一点。,我让你自己静一静，慢慢找答案。我相信你能想明白。
+english_events_pitstop:L6720,cdjoysidekick,FIX,"Joy leaves sassily, disappearing into the dark of the night.","乔伊离开 sassily, 消失在黑暗的夜晚。",乔伊撂下这句话，转身消失在夜色里。

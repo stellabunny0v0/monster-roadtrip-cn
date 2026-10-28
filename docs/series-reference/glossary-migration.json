@@ -1,0 +1,237 @@
+[
+  {
+    "en": "Liam",
+    "before": "利亚姆",
+    "after": "李姆",
+    "status": "user-confirmed"
+  },
+  {
+    "en": "Damien",
+    "before": "达米恩",
+    "after": "德魔",
+    "status": "source-backed-project-default"
+  },
+  {
+    "en": "Vera",
+    "before": "维拉",
+    "after": "薇拉",
+    "status": "user-confirmed"
+  },
+  {
+    "en": "Calculester",
+    "before": "卡库莱斯特",
+    "after": "计算斯基",
+    "status": "source-backed-project-default"
+  },
+  {
+    "en": "Zoe",
+    "before": "佐伊",
+    "after": "兹伊",
+    "status": "source-backed-project-default"
+  },
+  {
+    "en": "Brian",
+    "before": "布莱恩",
+    "after": "布赖恩",
+    "status": "source-backed-project-default"
+  },
+  {
+    "en": "Vicky",
+    "before": "维姬",
+    "after": "薇姬",
+    "status": "source-backed-project-default"
+  },
+  {
+    "en": "Dahlia",
+    "before": "达莉娅",
+    "after": "达丽雅",
+    "status": "source-backed-project-default"
+  },
+  {
+    "en": "Aaravi",
+    "before": "阿拉薇",
+    "after": "阿拉维",
+    "status": "source-backed-project-default"
+  },
+  {
+    "en": "Joy",
+    "before": "乔伊",
+    "after": "乔伊",
+    "status": "source-backed-project-default",
+    "note": "用户新指示优先，人物 Joy 使用乔伊。"
+  },
+  {
+    "en": "Hope",
+    "before": "霍普",
+    "after": "希望女巫",
+    "status": "source-backed-project-default"
+  },
+  {
+    "en": "Faith",
+    "before": null,
+    "after": "信念女巫",
+    "status": "source-backed-project-default"
+  },
+  {
+    "en": "Evil Faith",
+    "before": null,
+    "after": "邪恶信念女巫",
+    "status": "source-backed-project-default"
+  },
+  {
+    "en": "Coach",
+    "before": null,
+    "after": "教练",
+    "status": "source-backed-project-default"
+  },
+  {
+    "en": "Leonard",
+    "before": null,
+    "after": "莱纳德",
+    "status": "source-backed-project-default"
+  },
+  {
+    "en": "Dmitri",
+    "before": null,
+    "after": "迪米特里",
+    "status": "source-backed-project-default"
+  },
+  {
+    "en": "Juan",
+    "before": null,
+    "after": "胡安",
+    "status": "source-backed-project-default"
+  },
+  {
+    "en": "Bellanda",
+    "before": null,
+    "after": "贝兰达",
+    "status": "source-backed-project-default"
+  },
+  {
+    "en": "Salil",
+    "before": null,
+    "after": "萨利尔",
+    "status": "source-backed-project-default"
+  },
+  {
+    "en": "Blobert",
+    "before": null,
+    "after": "泡泡",
+    "status": "source-backed-project-default"
+  },
+  {
+    "en": "Wolfpack",
+    "before": null,
+    "after": "狼队",
+    "status": "source-backed-project-default"
+  },
+  {
+    "en": "Interdimensional Prince",
+    "before": null,
+    "after": "跨次元王子",
+    "status": "source-backed-project-default"
+  },
+  {
+    "en": "Slayer",
+    "before": null,
+    "after": "屠戮者",
+    "status": "source-backed-project-default"
+  },
+  {
+    "en": "Mr. Pheel the Eel",
+    "before": null,
+    "after": "鳗鱼菲尔先生",
+    "status": "source-backed-project-default"
+  },
+  {
+    "en": "Violet",
+    "before": null,
+    "after": "维奥莱",
+    "status": "source-backed-project-default"
+  },
+  {
+    "en": "Tate",
+    "before": null,
+    "after": "泰特",
+    "status": "source-backed-project-default"
+  },
+  {
+    "en": "Norah",
+    "before": null,
+    "after": "诺拉",
+    "status": "source-backed-project-default"
+  },
+  {
+    "en": "Miri",
+    "before": null,
+    "after": "小米",
+    "status": "source-backed-project-default"
+  },
+  {
+    "en": "Spooky High",
+    "before": "惊悚高中",
+    "after": "魔物学园",
+    "status": "source-backed-project-default"
+  },
+  {
+    "en": "Spooky High School",
+    "before": null,
+    "after": "魔物学园",
+    "status": "source-backed-project-default"
+  },
+  {
+    "en": "Coven",
+    "before": "女巫团",
+    "after": "女巫会",
+    "status": "source-backed-project-default"
+  },
+  {
+    "en": "Prank Masterz",
+    "before": null,
+    "after": "恶作剧大师",
+    "status": "source-backed-project-default"
+  },
+  {
+    "en": "Polly Geist",
+    "before": null,
+    "after": "波莉·鬼斯特",
+    "status": "source-backed-project-default"
+  },
+  {
+    "en": "Liam de Lioncourt",
+    "before": null,
+    "after": "李姆·堂·莱昂卡特",
+    "status": "source-backed-project-default"
+  },
+  {
+    "en": "Scott Howl",
+    "before": null,
+    "after": "斯科特·嚎尔",
+    "status": "source-backed-project-default"
+  },
+  {
+    "en": "Damien LaVey",
+    "before": null,
+    "after": "德魔·拉维",
+    "status": "source-backed-project-default"
+  },
+  {
+    "en": "Vera Oberlin",
+    "before": null,
+    "after": "薇拉·奥伯林",
+    "status": "user-name-plus-source-surname"
+  },
+  {
+    "en": "Miranda Vanderbilt",
+    "before": null,
+    "after": "米兰达·范德比尔特",
+    "status": "source-backed-project-default"
+  },
+  {
+    "en": "Calculester Hewlett-Packard",
+    "before": null,
+    "after": "计算斯基·休莱特-派克德",
+    "status": "source-backed-project-default"
+  }
+]

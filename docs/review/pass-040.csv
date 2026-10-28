@@ -1,0 +1,110 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_pitstop:L4637,cvickyafterlife,KEEP,Afterlife,来生,来生
+english_events_pitstop:L4639,cvickyafterlife,POLISH,"Afterlife... what a thing, huh?","来生... 什么东西,是吧?",死后的生活……挺不可思议的，是吧？
+english_events_pitstop:L4640,cvickyafterlife,FIX,"You... died into the Monster Realm, didn't you?","你们... 死入了魔兽王国,不是吗?",你是……死后才来到怪物世界的，对吧？
+english_events_pitstop:L4641,cvickyafterlife,FIX,"Yes, I did.","是的,我说了。",嗯，是的。
+english_events_pitstop:L4642,cvickyafterlife,POLISH,How... how was it?,怎么会... 怎么样?,那……是什么感觉？
+english_events_pitstop:L4643,cvickyafterlife,KEEP,Hmmm...,那个...,那个...
+english_events_pitstop:L4644,cvickyafterlife,KEEP,Confusing at first.,一开始很困惑,一开始很困惑
+english_events_pitstop:L4645,cvickyafterlife,FIX,"When you first turn into a monster, you often stay in the Human Realm for a bit.","当你第一次变成怪物时,你经常在""人类王国""呆一阵子.",刚变成怪物时，一般还会在人类世界待上一阵子。
+english_events_pitstop:L4646,cvickyafterlife,POLISH,"My family did everything to bring me back, since they couldn't cope with the fact that I was gone so young.",我的家人为了把我带回来 尽了一切力量 因为他们无法应付我这么年轻离开的事实,我的家人没法接受我这么年轻就走了，想尽一切办法把我带回来。
+english_events_pitstop:L4647,cvickyafterlife,FIX,And I'm forever grateful for the extra time I got to spend with them.,我永远感激我和他们一起度过的余生,能多陪他们一段时间，我一直心怀感激。
+english_events_pitstop:L4648,cvickyafterlife,FIX,"But then, one day, a sort of transit starts... slowly, but steadily.","但是,有一天, 一种过渡开始... 慢慢的,但稳步的。",但有一天，那种过渡就开始了……缓慢，却一直在发生。
+english_events_pitstop:L4649,cvickyafterlife,POLISH,"No one tells you what comes next, so you feel super lost when you find yourself somewhere else...","没人告诉你接下来会发生什么, 所以你觉得超级迷失 当你发现自己在别的地方...",没人告诉你接下来会怎么样，所以突然发现自己到了别的地方，真的会特别迷茫……
+english_events_pitstop:L4650,cvickyafterlife,POLISH,"Especially being alone, I imagine.","特别是一个人,我想。",尤其是孤身一人的时候吧。
+english_events_pitstop:L4651,cvickyafterlife,POLISH,"Especially being alone, yes.",特别是独自一人 是的,对，尤其是孤身一人的时候。
+english_events_pitstop:L4652,cvickyafterlife,FIX,Take Brian. He was so lucky (or so incredibly unlucky) that he got to be here with his family...,"拿着 布莱恩. 他是如此幸运(或如此令人难以置信的不幸),以至于他必须和家人一起在这里......",就像布赖恩。他很幸运（或者说，非常不幸），能和家人一起来这里……
+english_events_pitstop:L4653,cvickyafterlife,FIX,I arrived too old to be adopted; too young to make it by myself.,"我年事已高,不能被收养;年事已高,不能自己养活。",我来的时候，年纪已经大到没人会收养，可又太小，没法独自生活。
+english_events_pitstop:L4654,cvickyafterlife,POLISH,Then... what did you do?,那麽... 你做了什麽?,那……你后来怎么办的？
+english_events_pitstop:L4655,cvickyafterlife,POLISH,"People my age die every day, %CURRENTPLAYERNAME%.",我这个年纪的人每天都会死 %CURRENTPLAYERNAME%.,%CURRENTPLAYERNAME%，每天都有我这个年纪的人死去。
+english_events_pitstop:L4656,cvickyafterlife,FIX,"So, there's this whole system in place...","所以,整个系统都到位了...",所以，这里有一整套安置制度……
+english_events_pitstop:L4657,cvickyafterlife,POLISH,"You get assigned an apartment to be shared with others like you; you get some food and money every month; you're provided counseling, if needed; etc.","你被分配到一个公寓 与你这样的人共享; 你每月得到一些食物和钱; 如果需要,你得到咨询;等等。",会给你分配一间公寓，跟处境类似的人合住；每个月发些食物和钱；有需要还能接受心理辅导，等等。
+english_events_pitstop:L4658,cvickyafterlife,POLISH,Some support until you find your footing.,在你找到自己的立足点之前 有一些支持,在你站稳脚跟之前，给你一些支持。
+english_events_pitstop:L4659,cvickyafterlife,KEEP,That sounds quite nice.,听起来不错,听起来不错
+english_events_pitstop:L4660,cvickyafterlife,POLISH,"It surely helps... but still, it's a huge adjustment.","这肯定有帮助... 但是,它是一个巨大的调整。",这些确实有用……可还是有太多事要适应。
+english_events_pitstop:L4661,cvickyafterlife,FIX,"I hope it hasn't been too overwhelming, Vicky.","我希望它没有太过分, 维姬.",希望这一切没有让你太难承受，薇姬。
+english_events_pitstop:L4662,cvickyafterlife,POLISH,It has been hard... but I'd also say it's going good.,"这一直很难... 但我也会说,这是很好的。",是挺难的……不过，我觉得一切也在慢慢变好。
+english_events_pitstop:L4663,cvickyafterlife,POLISH,She smiles at you and takes your hand. You two watch the night sky surrounded by a warm silence.,她对你微笑并握住你的手。 你们俩看着夜空被温暖的寂静所包围,她冲你笑了笑，握住你的手。你们一起望着夜空，周围一片温暖的静谧。
+english_events_pitstop:L4672,cvickywhosvicky,FIX,Who is Vicky Schmidt?,是谁 维姬 施密特吗?,薇姬·施密特是谁？
+english_events_pitstop:L4674,cvickywhosvicky,POLISH,"Ooooh, lemme think...","哦,让我觉得...",哦——让我想想……
+english_events_pitstop:L4675,cvickywhosvicky,FIX,I used to be a human... I am (or was) the oldest sibling in my family...,我曾经是人类... 我是我家里最年长的兄弟姐妹...,我以前是个人类……我是，或者说曾经是，家里最大的孩子……
+english_events_pitstop:L4676,cvickywhosvicky,FIX,I'm also a Leo. Roar!,我也是狮子座的 鲁尔!,我还是狮子座。嗷！
+english_events_pitstop:L4677,cvickywhosvicky,FIX,Watch out! Big feline roaming the area!,当心! 大FELIN游荡在这个地区!,小心！附近有大型猫科动物出没！
+english_events_pitstop:L4678,cvickywhosvicky,FIX,Where?!,哪里? 哪里来的? Where?,在哪儿？！
+english_events_pitstop:L4679,cvickywhosvicky,KEEP,Ah!,啊！,啊！
+english_events_pitstop:L4680,cvickywhosvicky,FIX,Heh...,哦...,嘿嘿……
+english_events_pitstop:L4681,cvickywhosvicky,KEEP,"Anyway, I've run for class president every year!","总之,我每年都要竞选班长!","总之,我每年都要竞选班长!"
+english_events_pitstop:L4682,cvickywhosvicky,FIX,Vote for Vicky!,表决结果 维姬!,投薇姬一票！
+english_events_pitstop:L4683,cvickywhosvicky,FIX,"I am, or have been...","我是,或已经...",我现在是，或者曾经当过……
+english_events_pitstop:L4684,cvickywhosvicky,FIX,A proud mathlete...,一个骄傲的数学家...,一个自豪的数学竞赛选手……
+english_events_pitstop:L4685,cvickywhosvicky,POLISH,A member of the debate team...,辩论组的成员...,辩论队的一员……
+english_events_pitstop:L4686,cvickywhosvicky,FIX,And a three-time champion on the Rowdy Robot Rumble!,和3次冠军 在Rowdy机器人Rumble!,还是喧闹机器人大乱斗的三届冠军！
+english_events_pitstop:L4687,cvickywhosvicky,FIX,Whoa... what haven't you done?,珃... 你还没做什么?,哇……还有什么是你没做过的？
+english_events_pitstop:L4688,cvickywhosvicky,FIX,I've never eaten a whole cantaloupe!,我从来没有吃过一整块可乐!,我从来没吃过一整个哈密瓜！
+english_events_pitstop:L4689,cvickywhosvicky,FIX,"Ah, wait, that was rhetorical... my bad!","啊,等等,那太夸张了... 我的错!",啊，等等，你不是在真问……是我没反应过来！
+english_events_pitstop:L4690,cvickywhosvicky,KEEP,It's okay!,没事的!,没事的!
+english_events_pitstop:L4691,cvickywhosvicky,KEEP,"What else...? Oh, I'm Jewish.","还有什么... ? 哦,我是犹太人。","还有什么... ? 哦,我是犹太人。"
+english_events_pitstop:L4692,cvickywhosvicky,POLISH,But the Monster Realm has had me thinking a lot about my relationship with religion.,但魔兽王国让我想起了很多我与宗教的关系.,不过，来了怪物世界之后，我开始经常思考自己和宗教的关系。
+english_events_pitstop:L4693,cvickywhosvicky,FIX,"Like, suddenly, it turns out there's an actual Heaven and God is some sort of religious leader?","像,突然间,它发现 有一个真正的天堂和上帝 是某种宗教领袖?",就好像，突然发现天堂真的存在，而上帝是某种宗教领袖？
+english_events_pitstop:L4694,cvickywhosvicky,POLISH,I'm not entirely sure how I feel about that. I need to do more research!,我并不完全确定我的感受是什么 我需要做更多的调查!,这让我有点不知道该怎么想。我还得多研究研究！
+english_events_pitstop:L4695,cvickywhosvicky,POLISH,"But at the same time, I think that, to me, religion has always been more about tradition, and a set of values I stand by.","但与此同时,我认为,对我来说,宗教始终更注重于传统,以及我所支持的一套价值观。",不过，对我来说，宗教一直更多地意味着传统，以及一套我坚守的价值观。
+english_events_pitstop:L4696,cvickywhosvicky,FIX,"So that still remains the same, regardless if I specifically see eye-to-eye with this God.","因此,这依然不变,无论我是否特别看到与这个上帝的对视。",所以，无论我跟这位上帝是不是意见一致，这一点都没变。
+english_events_pitstop:L4697,cvickywhosvicky,KEEP,"Yeah, that makes sense.","是啊,这是有道理的。","是啊,这是有道理的。"
+english_events_pitstop:L4698,cvickywhosvicky,POLISH,"Gosh, I got all serious and intense all of a sudden!",我突然变得很严肃和紧张了!,天哪，怎么突然就聊得这么严肃、这么深入了！
+english_events_pitstop:L4699,cvickywhosvicky,FIX,It's fine; I like both serious Vicky and goofy Vicky.,"⊿闽玒尺舧ㄢ璶 维姬 和愚蠢, 维姬.",没关系。认真的薇姬和傻乎乎的薇姬，我都喜欢。
+english_events_pitstop:L4700,cvickywhosvicky,FIX,"The two Vickys who live inside Vicky Schmidt, huh?","两者 维姬住进去的人 维姬 施密特,是吗?",住在薇姬·施密特心里的两个薇姬，是吧？
+english_events_pitstop:L4701,cvickywhosvicky,POLISH,Only one thing is clear after this conversation...,谈话之后只有一件事是清楚的...,聊完以后，我只确定了一件事……
+english_events_pitstop:L4702,cvickywhosvicky,FIX,"We should eat a whole cantaloupe, for the sake of trying new things!","我们应该吃一整顿的可乐, 为了尝试新的东西!",我们应该吃一整个哈密瓜，就当尝试新事物！
+english_events_pitstop:L4703,cvickywhosvicky,KEEP,Woooo!,呜!,呜!
+english_events_pitstop:L4704,cvickywhosvicky,FIX,"And so, you spend the rest of the night eating a whole cantaloupe and talking about nothing and everything. It's nice.","所以,你过夜 吃一整块可乐 并谈论什么和一切。 赞曰.",于是，接下来的时间，你们吃着一整个哈密瓜，天南地北地聊着。真不错。
+english_events_pitstop:L4713,cvickyengineering,FIX,Her Passions,# 她的激情 # # 她的激情 #,她热爱的事
+english_events_pitstop:L4715,cvickyengineering,FIX,I have lots!,我有很多东西!,那可多了！
+english_events_pitstop:L4716,cvickyengineering,POLISH,But I guess a big one is engineering and robotics.,但我猜一个大的 是工程和机器人。,不过，要说最热爱的，大概就是工程和机器人技术了。
+english_events_pitstop:L4717,cvickyengineering,FIX,"I could spend all day wiring circuit components, batteries, and whatnot!",我可以花一整天的电路部件 电池什么的!,给电路元件、电池之类的东西接线，我能玩一整天！
+english_events_pitstop:L4718,cvickyengineering,FIX,Zap!,赞!,滋！
+english_events_pitstop:L4719,cvickyengineering,FIX,"Whoa, this stuff really amps you up, doesn't it?","哇,这些东西真的让你兴奋起来,不是吗?",哇，一聊这些，你就“电力十足”啊？
+english_events_pitstop:L4720,cvickyengineering,KEEP,You betcha!,当然了!,当然了!
+english_events_pitstop:L4721,cvickyengineering,POLISH,"Gosh... I haven't decided on a specific field yet, so I do a bit of this; a bit of that.","天呐... 我还没有决定一个具体领域, 所以我做了一点,一点点。",天哪……我还没决定要专攻哪个领域，所以这儿弄弄、那儿试试。
+english_events_pitstop:L4722,cvickyengineering,FIX,Did you know I actually studied engineering back in the human realm?,你知道我在人类领域学习过工程吗?,你知道吗，我在人类世界的时候，其实就学过工程。
+english_events_pitstop:L4723,cvickyengineering,FIX,I had no idea.,我当时不知道,还真不知道。
+english_events_pitstop:L4724,cvickyengineering,POLISH,"Yeah, it was the best!","是啊,这是最好的!",是啊，棒极了！
+english_events_pitstop:L4725,cvickyengineering,FIX,"To be fair, I've been tearing electronics apart since I was a child.","公平地说,我从小就把电子设备撕碎了",其实，我从小就爱拆电子设备。
+english_events_pitstop:L4726,cvickyengineering,FIX,"So, while most children were all hyped about playing video games...","所以,虽然大多数孩子 都抱怨玩电子游戏...",所以，当其他孩子都兴冲冲地玩电子游戏时……
+english_events_pitstop:L4727,cvickyengineering,FIX,"...I was all like, ""How do all those fantasy worlds fit inside the cartridges?!""","...我一直想, ""那些幻想的世界怎么适合在弹匣里?""",……我满脑子都是：“那些奇幻世界，是怎么装进游戏卡带里的？！”
+english_events_pitstop:L4728,cvickyengineering,POLISH,"But I had my tools with me, ready to delve into those mysteries of plastic, metal, and circuitry!","但我有我的工具, 准备好探索 这些神秘的塑料,金属, 和电路!",不过，我手头有工具，随时准备钻进塑料、金属和电路的谜团里，一探究竟！
+english_events_pitstop:L4729,cvickyengineering,FIX,And... did you find those worlds inside the cartridges?,还有... 你在弹匣里找到那些世界了吗?,那……你在卡带里找到那些世界了吗？
+english_events_pitstop:L4730,cvickyengineering,KEEP,Don't be silly!,别傻了!,别傻了!
+english_events_pitstop:L4731,cvickyengineering,POLISH,"But I found something way better: that with some materials and electricity, you can build almost anything!","但我找到了更好的办法:用一些材料和电, 你几乎可以建造任何东西!",别的倒是找到了，而且棒多了：只要有些材料，再通上电，几乎什么都能造出来！
+english_events_pitstop:L4732,cvickyengineering,FIX,Zap! Zap!,赞! 赞!,滋！滋！
+english_events_pitstop:L4733,cvickyengineering,FIX,"That's pretty cool, Vicky.","这很酷, 维姬.",这还挺酷的，薇姬。
+english_events_pitstop:L4734,cvickyengineering,POLISH,"Isn't it? You dream, you build, you add some electricity... and then stuff comes to life.","是吗? 你梦想,你建造,你加电... 然后东西会活过来的",是吧？先想象，再动手造，再通上电……然后，它们就活过来了。
+english_events_pitstop:L4735,cvickyengineering,KEEP,Just like you!,就像你一样!,就像你一样!
+english_events_pitstop:L4736,cvickyengineering,POLISH,Haha... that's true!,... 没错!,哈哈……还真是！
+english_events_pitstop:L4737,cvickyengineering,FIX,Zap?,扎普吗?,滋？
+english_events_pitstop:L4738,cvickyengineering,FIX,Zap!,赞!,滋！
+english_events_pitstop:L4739,cvickyengineering,FIX,"You two spend the rest of the night gazing at the stars in the sky, chilling and recharging your batteries.",你们俩整晚都盯着天空中的星星 冷却和充电,接下来的时间，你们一起望着满天繁星，放松心情，也给自己充充电。
+english_events_pitstop:L4748,cvickyschool,KEEP,School Adventures,学校冒险,学校冒险
+english_events_pitstop:L4750,cvickyschool,FIX,School was definitely a ride!,学校绝对是一程!,学校生活可真够刺激的！
+english_events_pitstop:L4751,cvickyschool,FIX,You couldn't even go to the bathroom without stumbling upon all sorts of misadventures.,你甚至不能去浴室 没有绊倒 各种错误的冒险。,就连上个厕所，都能碰上一堆倒霉事。
+english_events_pitstop:L4752,cvickyschool,FIX,Poop-related misadventures?,与小便有关的错误冒险?,跟拉屎有关的倒霉事？
+english_events_pitstop:L4753,cvickyschool,FIX,"Ew, no!","额,不!",咦，才不是！
+english_events_pitstop:L4754,cvickyschool,FIX,"More like going to the bathroom, but for some reason there's a wild griffin wreaking havoc there.","更像是去洗手间, 但出于某种原因,有一个野生的griffin 造成破坏在那里。",比如，你只是去上厕所，结果不知为什么，有只野生狮鹫在里面大闹。
+english_events_pitstop:L4755,cvickyschool,FIX,It sounds like a Scott and Damien thing.,这听起来像一个 斯科特 财务报告和审定财务报表 达米恩 东西。,听着像是斯科特和德魔干的。
+english_events_pitstop:L4756,cvickyschool,FIX,That one was definitely a Scott and Damien thing.,那个绝对是 斯科特 财务报告和审定财务报表 达米恩 东西。,那次还真是斯科特和德魔干的。
+english_events_pitstop:L4757,cvickyschool,FIX,Or you run into Vera and Polly putting makeup on potatoes to decide who's better at makeup.,或者你撞见了 维拉 财务报告和审定财务报表 波莉 给马铃薯化妆 来决定谁更擅长化妆,或者撞见薇拉和波莉给土豆化妆，非要比比谁的化妆技术更好。
+english_events_pitstop:L4758,cvickyschool,KEEP,Uh... but who was better?,额... 但谁更好?,额... 但谁更好?
+english_events_pitstop:L4759,cvickyschool,FIX,Damien.,达米恩.,德魔。
+english_events_pitstop:L4760,cvickyschool,FIX,That tracks.,脚印。,合理。
+english_events_pitstop:L4761,cvickyschool,FIX,"Or maybe you want to pee, but you can't even pee in peace because people are talking non-stop in the stall next to yours!","或者你想尿尿,但你甚至不能 和平地撒尿,因为人们说话 不停地在你的旁边的摊子里!",再或者，你想尿尿，可隔壁隔间里的人聊个没完，让你连尿都尿不安生！
+english_events_pitstop:L4762,cvickyschool,POLISH,First it's distracting... then it's just outright intriguing.,"首先,它分散了注意力... 那么它只是完全的有趣。",一开始只是让人分心……后来，却让人越听越好奇。
+english_events_pitstop:L4763,cvickyschool,FIX,"By the end of it, it turns out it's Liam and Miranda discussing some nonsense written on the wall of the stall.","到最后,发现是... 利亚姆 财务报告和审定财务报表 米兰达 讨论一些胡言乱语 写在摊位的墙上。",听到最后才发现，是李姆和米兰达在讨论隔间墙上写的那些鬼话。
+english_events_pitstop:L4764,cvickyschool,FIX,Poor Vicky!,穷 维姬!,可怜的薇姬！
+english_events_pitstop:L4765,cvickyschool,FIX,Poor Vicky indeed.,穷 维姬 确实是,可怜的薇姬，可不是嘛。
+english_events_pitstop:L4766,cvickyschool,FIX,And that's still way tamer than when you find those two (plus Scott) trying to perform an impromptu surgery.,那比找到那两个时还温柔 斯科特)试图进行即兴手术.,而且，这还算轻的。更离谱的是，你会撞见他们俩，加上斯科特，临时开刀做手术。
+english_events_pitstop:L4767,cvickyschool,KEEP,...What?,什麽?,什麽?
+english_events_pitstop:L4768,cvickyschool,FIX,"Something about removing Liam's face so he can see how a piercing would look on him, since mirrors aren't always an option for him.","有关删除的东西 利亚姆""他的脸,这样他就能看到 穿孔会如何看着他, 因为镜子并不总是他的选择。",好像是要把李姆的脸取下来，让他看看自己戴上穿孔饰品是什么样子。毕竟，他也不是随时都能用镜子的。
+english_events_pitstop:L4769,cvickyschool,KEEP,...,...,...
+english_events_pitstop:L4770,cvickyschool,KEEP,Yeah... it was a mess.,对... 这是一团糟。,对... 这是一团糟。
+english_events_pitstop:L4771,cvickyschool,FIX,You know what? That's one thing I love about this road trip: peeing peacefully in the MIDDLE OF NOWHERE.,你知道吗? 我很喜欢这趟路途之行: 平和地在老家里撒尿。,你知道吗？这趟公路旅行，有一点我特别喜欢：能在荒郊野外安安静静地尿尿。
+english_events_pitstop:L4772,cvickyschool,POLISH,I'll toast to that!,我敬这杯!,为这个干杯！
+english_events_pitstop:L4773,cvickyschool,FIX,"And so, you two spend the rest of the night exchanging school memories and bathroom-related anecdotes.","所以,你们两个用剩下的夜晚 交换学校的记忆 和与浴室有关的传闻。",于是，接下来的时间，你们一直在交换校园回忆，还有各种跟厕所有关的趣事。

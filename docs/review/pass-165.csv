@@ -1,0 +1,172 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_maingame:L14004,myore,KEEP,Look for ore,寻找矿石,寻找矿石
+english_events_maingame:L14008,myore,POLISH,Time to make some money! You and your friends go into the cave to mine for ore.,是时候赚钱了! 你和你的朋友去洞穴取矿,赚钱时间到！你和朋友们进洞挖矿。
+english_events_maingame:L14010,myore,FIX,"After an hour of walking and mining, you've got a decent pile of precious metals when you hear a voice cry:","步行和采矿一个小时后,听到声音叫喊时,你得到了一堆体面的贵金属:",又走又挖了一个小时，你们攒起一小堆贵金属。这时，一声吼传来：
+english_events_maingame:L14011,myore,FIX,HEY! YOU DAD-GUM KIDS GIT THE HELL OFF MY ORE!,哎哟! 你们这些混蛋孩子 把我的地盘给毁了!,嘿！你们这些臭小鬼，给我滚，离我的矿石远点！
+english_events_maingame:L14012,myore,FIX,"Go on, git! I been hoardin' this ore for fifty years, and you ain't gettin' NONE of it!","继续, 小子! 我囤积了这矿石50年了 你却没得逞",快滚！这些矿石我囤了五十年，一块都别想拿走！
+english_events_maingame:L14013,myore,POLISH,Why have you been hoarding ore in a cave for fifty years? Are you selling it?,你为什么在洞穴里囤积了五十年矿石? 你要卖掉它吗?,为什么在洞里囤五十年矿石？拿去卖吗？
+english_events_maingame:L14014,myore,POLISH,"NO! I don't want money, I want ORE! You can't put a price on my precious ores; each one's perfect, priceless, and unique!","没有! 我不想要钱,我要欧瑞! 你不能把我的珍贵矿石 都给一个价钱,每个矿石都完美无缺,无价,独一无二!",不！我不要钱，我要矿！宝贝矿石怎么能用钱衡量？每块都完美、无价、独一无二！
+english_events_maingame:L14015,myore,POLISH,Just look at my sittin' ore! I can spend hours crouchin' uncomfortably on it. Ain't she a beaut?,看看我的矿藏! 我可以蹲下数小时 不舒服地在它。 她不美吗?,看看这块，我坐的矿石！不太舒服地一蹲，就是好几个钟头。漂亮吧？
+english_events_maingame:L14016,myore,FIX,"This one's my shittin' ore! Yeah, I shit on it. If y'all need to go, I have a guest shittin' ore cleaned up for ya.","这只是我的狗屎矿石! 是啊,我拉屎了它。 你们都要走的话,我有个客人帮你清理了地壳",这块是我拉屎的矿石！对，就在上面拉。你们要方便，也有块擦干净的待客拉屎矿石。
+english_events_maingame:L14017,myore,FIX,"And THIS tall drink of water is Orephelia, my ore-wife. No relation to the wife I abandoned to become an ore-hermit.","这条高高的水是奥丽菲娅,我的矿石妻子。 跟我抛弃的妻子没有关系 成为矿石的隐士。",这位高挑美人，是我的矿石老婆，矿菲莉娅。跟我为了当矿石隐士而抛弃的那个老婆，毫无关系。
+english_events_maingame:L14018,myore,POLISH,"Dang, bro, it sounds like you've got life all figured out. I'm jealous!","糟了,兄弟,这听起来好像你的生活都想通了 我吃醋了! 我吃醋了 我吃醋了,我吃醋了,我吃醋了,我吃醋了,我吃醋了",哇，兄弟，你真是把人生都活明白了。羡慕！
+english_events_maingame:L14019,myore,FIX,Is there anything we can trade you for one of your best ores? Pretty please?,有什么可以和你交换的吗? 漂亮吗?,我们拿什么，能跟你换块最好的矿石？求求你啦？
+english_events_maingame:L14020,myore,POLISH,Hmm... what's yer offer?,垛... 你的提议是什么?,嗯……拿什么换？
+english_events_maingame:L14021,myore,POLISH,"Well, what do you want?",你想怎样?,那你想要什么？
+english_events_maingame:L14022,myore,POLISH,Hell if I know. Y'all got any suggestions? I've been in this cave so long that I ain't got any frame of reference for what an ore's worth.,"地狱,如果我知道。 你们有什么建议吗? 我在这洞穴呆了这么久 连矿山价值多少的参照基准都没有",我哪儿知道。你们说呢？洞里待太久，都不知道矿石该值多少了，连个参照都没有。
+english_events_maingame:L14023,myore,FIX,"Oh, cool, then he'll be super easy to scam! You offer to trade the weird ore collector...","哦,酷,那么他就会是超级容易骗取! 你提议用奇怪的矿石采集器...",哦，那岂不是特别好骗！你提议拿这个跟怪矿石收藏家交换……
+english_events_maingame:L14024,myore,FIX,"Long, expositive stories about your lives. You'd be giving him the next best thing to ore: lore.",长而积极的故事 关于你的生活。 你会给他下一个最好的 矿: 洛尔。,讲讲你们漫长又详尽的身世故事。给他仅次于“矿石”的好东西：“故事”。
+english_events_maingame:L14025,myore,FIX,Therapy.,疗取.,心理咨询。
+english_events_maingame:L14027,myore,FIX,"Okay, let's see, what's a juicy lore fact about fan-favorite Polly Geist...","好吧,让我们看看,什么是多汁的 传说的事实 关于粉丝喜欢 波莉 盖斯...",好，想想看，人气角色波莉·鬼斯特，有什么劲爆的背景故事……
+english_events_maingame:L14028,myore,POLISH,"Ooh, here's one: even though I've got a reputation for being happy-go-lucky, there are still a few things that really stress me out.","哦,这里有一个: 尽管我有一个名声 快乐的运气, 仍然有一些事情 真正让我紧张。",哦，有了！虽然大家都觉得我没心没肺，可还是有几件事，真能让我压力山大。
+english_events_maingame:L14029,myore,POLISH,"Like children. They're annoying, demanding, and you can't give them alcohol! How am I supposed to relate to that?!","譬如子孙. 他们烦人,要求很高,你不能给他们酒! 我该怎么处理呢?",比如小孩。烦人，要求又多，还不能给他们酒喝！那我怎么跟他们处啊？！
+english_events_maingame:L14030,myore,POLISH,"Also driving. I HATE driving. It took a long time for me to even be cool with being IN a car again, but driving one... that's still too much for me.",也开车 我恨开车。 我花了很长时间才再次在车里冷静下来 但开着一辆... 对我来说还是太过分了,还有开车。我讨厌开车。花了好久，我才敢重新坐进车里，可要自己开……还是受不了。
+english_events_maingame:L14031,myore,POLISH,I guess it's my turn. A lore fact about me is that I like sports!,我想该轮到我了 我的一个神话事实是我喜欢运动!,该我了吧。我的背景故事是：我喜欢运动！
+english_events_maingame:L14032,myore,POLISH,"That's great, bud, but a lore fact is supposed to be something not a lot of people know about you.","棒极了,伙计 但一个神话事实应该是 很多人不会了解你的东西",很好，伙计，可背景故事得是没几个人知道的事。
+english_events_maingame:L14033,myore,POLISH,"It is? Dang. If I'd known there was gonna be a Scott pop quiz today, I would've studied more!","是吗? 该死 如果我知道,会有 斯科特 今天的流行测验,我会多学习!",是吗？哎，早知道今天要考斯科特突击测验，我就多复习了！
+english_events_maingame:L14034,myore,POLISH,"Umm... oh, I know! A lore fact about me is I have trouble remembering the order of the days of the week.","额... 哦,我知道了! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! 有关我的神话是 我记不清这周的顺序了",嗯……哦，有了！我的背景故事是，我总记不住一周七天的顺序。
+english_events_maingame:L14035,myore,FIX,"I know when Monday night football is, but I always confuse Tuesday and Thoosday. And where does Earth Day fit in...?",我知道周一晚上橄榄球是什么时候 但我总是把周二和周二搞混 地球日适合怎样?,周一晚上的橄榄球赛，我知道是什么时候，可总搞混星期二和星期嘟。还有地球日，该排在哪儿啊……？
+english_events_maingame:L14036,myore,POLISH,"What about you, %CURRENTPLAYERNAME%? Tell us a lore about you!",你怎么样? %CURRENTPLAYERNAME%? 告诉我们一个关于你的神话!,%CURRENTPLAYERNAME%，你呢？讲讲你的背景故事！
+english_events_maingame:L14037,myore,FIX,If she insists! You launch into your favorite two-hour tale of your secret hobbies and passions that were foundational to your character development.,如果她坚持的话! 你将你的秘密爱好和激情 传入你最喜欢的两小时故事 成为你人格发展的基础,既然她坚持，你就讲起最爱的那段两小时长篇：那些奠定你性格发展的秘密爱好与热情。
+english_events_maingame:L14038,myore,FIX,"Ugh, now I know why ""lore"" rhymes with ""bore."" That story put me to sleep.","我知道为什么""爱情""和""爱情""押韵了 那故事让我睡着了",唉，怪不得“讲故事”和“无聊死”押韵。你那故事听得我都睡着了。
+english_events_maingame:L14039,myore,POLISH,"Your story wasn't THAT boring, was it? ...Apparently it was, because you lost -N2 HYPE.","你的故事没那么无聊,是吗? 很明显,你输了N2 HYPE",你的故事没那么无聊吧？……显然有，因为你失去了 -N2 热度。
+english_events_maingame:L14040,myore,FIX,At least it satisfied the ore collector; any story you told was bound to be more interesting than his conversations with Orephelia. You make +N2 MONEY from the ore he gifts you.,"至少它满足了矿石收藏家;你所讲的任何故事,必然比他与奥雷菲利亚的对话更有趣. 你从他给你的矿石里赚了+N2钱",至少矿石收藏家听得很满意。随便什么故事，都比他跟矿菲莉娅聊天有意思。他送你矿石，让你赚了 +N2 金钱。
+english_events_maingame:L14042,myore,POLISH,Therapy? I dunno... don't you need a license to do therapy on someone?,治疗? 我不知道... 你不需要驾照来治疗别人吗?,心理咨询？不太确定……给人做咨询，不得有执照吗？
+english_events_maingame:L14043,myore,POLISH,"Yeah, good point. Maybe we could just listen to this guy for a while, offering him a sympathetic ear and a shoulder to cry on.","是啊,说得好。 也许我们可以听这家伙一阵子, 给他一个同情的耳朵和一个肩膀去哭.",对，有道理。那就听他讲一会儿吧，体谅体谅，借个肩膀给他哭。
+english_events_maingame:L14044,myore,POLISH,Hmmm... can I still take notes on a clipboard?,那个... 剪贴板上还能给我留个笔记吗?,嗯……我还能拿写字板做笔记吗？
+english_events_maingame:L14045,myore,KEEP,Sure.,当然可以。,当然可以。
+english_events_maingame:L14046,myore,POLISH,"Cool, it's a deal! Tell us all your problems, ore collector!","酷,这是个交易! 告诉我们你的问题,矿藏收藏家!",好，就这么办！矿石收藏家，说说你所有的烦恼吧！
+english_events_maingame:L14047,myore,POLISH,My problems? What problems could I have when I'm surrounded by beautiful ore?,"我的问题? 当我被美丽的矿石所包围时,我有什么问题?",烦恼？身边全是漂亮矿石，我能有什么烦恼？
+english_events_maingame:L14048,myore,FIX,"There's the lack of food in here, no exposure to sunlight, not seeing another soul for fifty years...","这里缺乏食物,没有阳光照射,50年来没有看到另一个灵魂......",比如没吃的，晒不到太阳，五十年没见过一个人……
+english_events_maingame:L14049,myore,POLISH,"Nope, I don't give a fuck about none o' that. But I guess there is ONE thing that bothers me...","不,我不在乎他妈的 任何关于那个。 但我猜有一件事让我很困扰...",不，那些我他妈都不在乎。不过倒真有一件事挺烦……
+english_events_maingame:L14050,myore,POLISH,Sometimes I have nightmares that I accidentally swapped my kissin' ore with my sittin' ore. What if I've been kissin' my sittin' ore all this time?! THAT AIN'T WHAT IT'S FOR!,"有时我做噩梦,不小心用我的坐地矿石换了吻地矿石 如果我一直吻我的坐矿? 不是为了这个!",我有时做噩梦，梦见不小心把亲嘴用的矿石和坐的矿石搞反了。万一我一直在亲坐的矿石呢？！那又不是这么用的！
+english_events_maingame:L14051,myore,POLISH,"Okay, crazy theory, but I'm sensing that your ore-obsession is a little unhealthy.","好吧,疯狂的理论, 但我觉得你的矿石偏执有点不健康。",好，有个大胆猜想：我感觉，你这矿石痴迷症不太健康。
+english_events_maingame:L14052,myore,FIX,"At least, that's what I wrote on my clipboard, right under this tic-tac-toe game I'm playing with myself.","至少,这是我在剪贴板上写的 就在我玩的这个打打脚趾的游戏下",至少写字板上，我是这么记的。就在我自己跟自己下的井字棋底下。
+english_events_maingame:L14053,myore,POLISH,Hm... maybe you're right. Sometimes Orephelia says I'm 'overly possessive.' Maybe that's why I care so much about my ore?,"那个... 也许你是对的。 有时奥丽菲娅说我""过度占有"" 也许这就是为什么我这么在乎我的矿石?",嗯……也许你说得对。矿菲莉娅有时候也说，我“占有欲太强”。所以才这么在乎矿石？
+english_events_maingame:L14054,myore,POLISH,"Now that I think about it, I spend more time worryin' about losin' my ore than actually enjoyin' it! Oh, no, what do I do?!","现在我想起来,我花更多的时间 担心我的矿石的消失,而不是真正享受它! 哦,不,我该怎么办?",想想也是，光顾着担心失去矿石，真正享受它们的时间反倒少！哦，不，怎么办？！
+english_events_maingame:L14055,myore,POLISH,You could give us one of your ores. Sever those attachment issues or whatever!,你可以给我们一个矿石。 解决那些感情问题什么的!,送我们一块呗。切断那种依恋啊，还是什么的！
+english_events_maingame:L14056,myore,POLISH,"Okay, if you think it'll help... here's Orewin, my youngest ore-son. Take good care of him, will ya?","好吧,如果你认为会帮助... 这是奥瑞温,我最小的矿石儿子 照顾好他,好吗?",好吧，你觉得有用的话……这是矿尔文，我最小的矿石儿子。好好照顾他，行吗？
+english_events_maingame:L14058,myore,FIX,You will not! You later sell the ore for +N2 MONEY. It's almost enough to pay for the ACTUAL therapy you need after that convo took -N2 MIND out of you.,"你绝对不会! 你后来为了+N2货币出售矿石. 几乎足以支付你需要的 ACTUAL疗法 之后,你 的CAUAL治疗 之后,N2 MIND 出你。",你才不会！后来，你把矿石卖了，赚到 +N2 金钱。这段谈话耗掉 -N2 头脑，害你真得去做心理咨询，卖矿的钱差不多刚够付费。
+english_events_maingame:L14066,howdeep,FIX,Go spelunking,去打个电话吧,洞穴探险
+english_events_maingame:L14068,howdeep,POLISH,"Woohoo, time to explore a dark cave with your best friends! What could be better?","呜呼,该去和你的好朋友去探索一个黑暗的洞了! 还有什么能更好?",呜呼，和最好的朋友探索黑漆漆的洞穴！还有比这更棒的吗？
+english_events_maingame:L14070,howdeep,POLISH,"So we're just visiting a random cave? Why? You guys know we don't have to stop at EVERYTHING we see on the road, right?","所以我们只是去一个随机的洞穴? 为什么? 你们知道我们不必在路上看到的一切停下来,对吧?",所以就随便挑个洞进去逛？为什么？也不是路上看见什么，都非得停下来吧？
+english_events_maingame:L14071,howdeep,FIX,"Cheer up, Polly. Exploring a cave will be fun! It'll be full of new smells and tight spaces to get stuck in!",开心点 波莉. 探索洞穴会很有趣的! 里面会充满出新气味和紧凑的空间,开心点，波莉！探洞多好玩，有没闻过的味道，还有窄窄的地方能把人卡住！
+english_events_maingame:L14072,howdeep,FIX,"You meet a strange old man at the cave's entrance. ""Beware venturing too deep into the cave,"" he says hoarsely, ""if you value your lives!""","你在洞口遇到一个奇怪的老人 ""小心地走入洞穴"" 他说""如果你珍惜你的生命!""",洞口有个古怪老人，哑着嗓子说：“珍惜小命的话，当心，别往洞穴太深的地方去！”
+english_events_maingame:L14073,howdeep,POLISH,"Ooh, this just got interesting! What's in the cave? Curses? Serial killers? Cursed serial killers?!","哦,这刚刚变得有趣! 洞中出甚么来. 诅咒? 连环杀手? 被诅咒的连环杀手?",哦，这下有意思了！里面有什么？诅咒？连环杀手？被诅咒的连环杀手？！
+english_events_maingame:L14074,howdeep,FIX,"""No,"" says the old man. ""It's just a really deep cave, and you kids clearly don't have enough provisions or hiking gear for this. Always spelunk responsibly!""","""不"",老子说. ""这只是个很深的洞穴,你们的孩子显然没有足够的食物和徒步工具来进行这个活动. 总是负责地说""",老人说：“没有，就是个很深的洞。你们的补给和徒步装备，明显不够。探洞也得负责任！”
+english_events_maingame:L14075,howdeep,POLISH,So all that awaits us in there is a lot of walking? Pass.,所以所有等待我们在那里 有很多行走? 过.,所以，里面等着咱们的，只有走一大堆路？不去。
+english_events_maingame:L14076,howdeep,POLISH,"Since you're here, old man, do you know a good place to get a drink after we ditch this boring cave?","老头,既然你来了,我们把洞穴挖出来后,你知不知道有好地方喝?",老头，既然在这儿，那你知道放弃这个无聊洞穴以后，去哪儿喝一杯比较好吗？
+english_events_maingame:L14077,howdeep,POLISH,We can't ditch the cave yet! Don't you wanna explore it and see where it leads? It's such a cool mystery!,我们还没能把洞挖出! 你不想去探索一下 看看它会走向哪里吗? 这么酷的神秘!,还不能放弃！你不想探索一下，看它通到哪儿吗？多酷的谜团啊！
+english_events_maingame:L14078,howdeep,POLISH,"How is that a mystery? It's a cave. It'll just lead to another exit. Or a dead end, maybe.",这怎么会是个谜? 出为洞. 只能通往另一个出口 或死道相会.,有什么谜？不就是个洞。要么通另一个出口，要么就是死路。
+english_events_maingame:L14079,howdeep,POLISH,"You know where it probably WON'T lead? A bar, which is all I care about finding right now.","你知道它可能不会 引向哪里? 酒吧,这就是我现在想要找到的",知道它多半不会通哪儿吗？酒吧。而我现在只想找酒吧。
+english_events_maingame:L14080,howdeep,POLISH,"You said ""probably."" That means there's still a chance of finding a bar in the cave, and that's a chance we should take!","你说""可能"",这意味着仍然有机会在洞穴里找到酒吧,那是我们应该抓住的机会!",你说的是“多半”，那就还是有机会在洞里找到酒吧，值得试试！
+english_events_maingame:L14081,howdeep,POLISH,It's like Coach always says...,就像教练常说的那样...,就像教练常说的……
+english_events_maingame:L14085,howdeep,FIX,"Remember, kids: every three-pointer not taken is another night you spend crying into a bowl of cereal wondering where it all went wrong!","记住,孩子们:没有被取出的每一分钱,都是你花在一碗麦片里哭着想,哪里出了问题!",孩子们，记住：每一个没投出去的三分球，都让你多一个夜晚，对着麦片碗哭，想自己到底错在哪儿！
+english_events_maingame:L14088,howdeep,POLISH,Coach said that? Is he... okay?,教练这么说的? 他有没有... 好吗?,教练说的？他……没事吧？
+english_events_maingame:L14089,howdeep,POLISH,Who cares? We can worry about Coach after we've explored this cave!,谁在乎呢? 等我们探索了这个洞穴后 我们可以担心教练!,管他呢？等探完洞，再操心教练吧！
+english_events_maingame:L14090,howdeep,POLISH,"Fine, I'll do it. Just tell me how long this'll take so I can plan my boredom accordingly.","好吧,我来做。 告诉我这要花多久 我才能按此计划无聊",行，去就去。告诉我得花多久，我好安排该无聊多久。
+english_events_maingame:L14091,howdeep,FIX,"Do the sensible thing: just explore until you lose phone signal. You can risk your life, but you can't risk your access to funny memes!",做明智的事: 探险直到你失去电话信号。 你可以冒生命危险 但你不能冒着风险去获取有趣的迷因,理智一点：走到手机没信号就回头。命可以冒险，搞笑梗图可不能断！
+english_events_maingame:L14092,howdeep,POLISH,Keep walking until Polly admits this was a fun idea.,"继续走,直到 波莉 承认这是一个有趣的主意。",一直走，走到波莉承认这是个好玩的主意。
+english_events_maingame:L14093,howdeep,FIX,Start walking and REFUSE to stop until someone serves you drinks in this fuckin' cave. You aren't leaving without a proper drink.,开始走和难民停止 直到有人给你服务 在这个该死的洞穴里喝酒。 你没有喝好酒就走,开始走，谁也别想叫你停，直到有人在这破洞里给你端酒来。不正经喝一杯，绝不出去。
+english_events_maingame:L14095,howdeep,POLISH,You begin walking through the cave. Polly quickly gets bored and starts watching videos on TokTok.,"你开始走穿过洞穴。  波莉 很快变得无聊,开始在TokTok上观看视频.",你们进洞开走。波莉很快无聊了，开始刷 TokTok 视频。
+english_events_maingame:L14096,howdeep,POLISH,"Aww, look at this canary dancing to house music! Throw it back, you funky little dinosaur!","看看这只金丝雀跳舞 来音乐家! 扔回去,你这个小恐龙!",哇，看这只跟着浩室舞曲跳舞的金丝雀！扭起来，小恐龙，你可真带劲！
+english_events_maingame:L14097,howdeep,POLISH,"Dammit, the video's buffering. How dare my internet crap out during such a crucial viewing!","该死,视频在缓冲 这么关键的观看时,我怎么敢把网络垃圾弄得一团糟!",妈的，缓冲了。这么关键的视频，网络也敢给我掉链子！
+english_events_maingame:L14098,howdeep,POLISH,"Maybe that canary video is trying to tell us something. If we go too far in this cave, we might...","也许金丝雀视频想告诉我们一些事情 如果我们在这个洞穴走得太远,我们可能会...",也许金丝雀的视频，是想提醒咱们什么。再往洞里走，可能就会……
+english_events_maingame:L14099,howdeep,FIX,LOSE ACCESS TO THE INTERNET ENTIRELY!,完全输给互联网!,彻底断网！
+english_events_maingame:L14100,howdeep,FIX,NO! My need for memes and instant gratification can't take that! We gotta run for it!,没有! 我对迷因和即时满足的需求是无法承受的! 我们得跑去!,不！梗图和即时满足，少哪个我都受不了！快跑！
+english_events_maingame:L14101,howdeep,FIX,"You sprint back to the cave entrance, losing -N2 STAMINA.","你冲回洞口,输了N2STAMINA",你们狂奔回洞口，失去了 -N2 体力。
+english_events_maingame:L14102,howdeep,POLISH,"Hooray, my signal is back! That was a close one, bros.","万岁,我的信号回来了! 差一点,兄弟",万岁，信号回来了！兄弟们，差点就完了。
+english_events_maingame:L14103,howdeep,FIX,We almost didn't make it out in time to retweet this new cat meme before people got sick of it and called it cringe! We're lucky to still be relevant...,"我们差点没及时赶到 在人们厌倦它并称它为""克林格""之前 重新给这个猫咪的迷宫发了个消息! 我们很幸运仍然能有关系...",差一点，新的猫咪梗图还没来得及转发，就过气，被人嫌尬了！幸好咱们还没落伍……
+english_events_maingame:L14104,howdeep,POLISH,"Cheer up, bro, we made it! Wanna rewatch that dancing canary video to celebrate?","振作点,兄弟,我们成功了! 想看那段跳舞的金丝雀视频来庆祝吗?",开心点，兄弟，咱们赶上了！再看一遍金丝雀跳舞，庆祝一下？
+english_events_maingame:L14105,howdeep,POLISH,I ALWAYS wanna watch a dancing canary video.,我总是想看一个跳舞的金丝雀视频。,金丝雀跳舞的视频，我随时都想看。
+english_events_maingame:L14106,howdeep,FIX,You all watch the groovin' birb and become filled with the +N2 HYPE of being terminally online.,"你们都看""腹股沟"" 并充满了 +N2 HYPE 的终端在线。",你们看着那只扭来扭去的小鸟，沉迷网络的快乐带来 +N2 热度。
+english_events_maingame:L14108,howdeep,FIX,"You begin your long walk. Polly's stubbornly refusing to enjoy herself, but you're sure she'll eventually CAVE IN!","你开始长途跋涉  波莉固执地拒绝享受,但你肯定她最终会来!",你们开始长途跋涉。波莉死活不肯承认好玩，可你相信，进了洞，她早晚会“洞”摇！
+english_events_maingame:L14109,howdeep,POLISH,"Wow, bros, this cave is amazing! Check out that rock that looks like a butt!","哇,兄弟们,这个洞穴真神奇! 看看那块石头,看起来像个屁股!",哇，兄弟们，这洞真棒！看那块石头，像个屁股！
+english_events_maingame:L14110,howdeep,FIX,"Eh, I've seen thiccer butt-shaped rocks in my day.",我见过铁匠屁股形状的石头,嘁，更丰满的屁股石，我都见过。
+english_events_maingame:L14111,howdeep,POLISH,"And look, there's a funny rat! It's doing a little twitchy dance, and it's got some cute foam coming out of its little mouth!","看,有个滑稽的老鼠! 它在做一个有点颤抖的舞蹈,它的小嘴里还有些可爱的泡沫出来!",还有只好玩的老鼠！在跳抖来抖去的舞，小嘴还冒着可爱的泡泡！
+english_events_maingame:L14112,howdeep,FIX,"Oh, perfect. Hey, Rabid Rat, you know a good place to get a drink in this dumb cave? No? Yeah, I figured not.","哦,完美无缺。 嘿,小兔崽子,你知道一个好地方 来在这个愚蠢的洞穴里喝一杯吗? 没有吗? 是啊,我想没有。",哦，太好了。嘿，狂犬病老鼠，知道这破洞里哪儿能喝一杯吗？不知道？嗯，就知道。
+english_events_maingame:L14113,howdeep,POLISH,"The rat stares at you, quietly. Then it runs away.",老鼠悄悄地盯着你 然后它就跑了 说不定是...,老鼠默默看了你们一眼，然后跑了。
+english_events_maingame:L14114,howdeep,POLISH,"Polly, did you see that? The rat is clearly taking us to the fun part of the cave! Let's follow it!",波莉你看到了吗? 老鼠显然要带我们去洞穴的乐趣地段! 跟着它走!,波莉，看见没？它肯定要带咱们去洞里好玩的地方！跟上！
+english_events_maingame:L14115,howdeep,FIX,(Fuck my life.),(他妈的我的生活。,（我命真苦。）
+english_events_maingame:L14116,howdeep,POLISH,"You follow the rabid rat through the dark, damp caverns for about half an hour.",你跟着狂犬病老鼠穿过阴暗潮湿的洞穴 大约半小时,你们跟着狂犬病老鼠，在黑暗潮湿的洞里走了半个小时。
+english_events_maingame:L14117,howdeep,FIX,"It's still not fun, but all this walking is enough cardio to lose -N2 STAMINA. Hooray?","仍然不好玩,但所有这些行走都足以失去-N2 STAMINA. 万岁?",还是不好玩，可走这么久，也算有氧运动，耗掉 -N2 体力。万岁？
+english_events_maingame:L14118,howdeep,POLISH,Can we go back now?,我们现在能回去了吗?,现在能回去了吧？
+english_events_maingame:L14119,howdeep,FIX,"No, Polly, look!",没有 波莉听着!,等等，波莉，看！
+english_events_maingame:L14120,howdeep,KEEP,...,...,...
+english_events_maingame:L14121,howdeep,FIX,...What the fu...?,...什么风... ?,……什么鬼……？
+english_events_maingame:L14122,howdeep,FIX,The rat has brought you to a part of the cave where... a stand-up act is taking place?,老鼠把你带到了洞穴的某个地方... 正在发生立正行为吗?,老鼠带你们来到洞穴的一处地方，那里……正在演脱口秀？
+english_events_maingame:L14124,howdeep,POLISH,"Since you've walked so much to get here, you all decide to give it a try and stay.",既然你们走这么多路来这 你们都决定试着留下,既然走了这么远才到，你们决定留下，试着看看。
+english_events_maingame:L14125,howdeep,POLISH,A couple hours later you're back at the car.,几个小时后你又回到车上了,几小时后，你们回到车旁。
+english_events_maingame:L14128,howdeep,FIX,"Well, it wasn't knee-slapping belly laugh comedy, but I must admit that was a solid +N2 HYPE stand up routine.",并不是在拍膝盖取笑喜剧 但我必须承认 这是一种扎实的+N2 HYPE 站立的常规,虽说没笑到拍大腿、肚子疼，可不得不承认，那场单口喜剧真不赖，值 +N2 热度。
+english_events_maingame:L14130,howdeep,POLISH,"Fuck it. Visiting this cave was your idea, and finding a drink inside it will be your pilgrimage.","他妈的。 参观这个洞穴是你的主意, 在那里找到一瓶饮料, 将是你的朝圣。",去他妈的。既然探洞是你提的，那在洞里找到酒喝，就是你的朝圣之旅。
+english_events_maingame:L14131,howdeep,FIX,"You walk through the cave. Minutes turn to hours. You lose -N3 HYPE in the boredom, lose track of your steps, lose track of time...",你走过洞穴。 分钟到小时 你无聊的N3 HYPE 失去步道 失去时间...,你们在洞里走着，几分钟变成几小时。无聊让你失去了 -N3 热度；渐渐的，你忘了走过多少步，也忘了时间……
+english_events_maingame:L14132,howdeep,POLISH,"The sun, the Earth, your happiness -- they've all become distant memories. Is this dark, endless cave just a prison of your own mind?","太阳,地球,你的幸福, 它们都变成了遥远的记忆。 这个黑暗无尽的洞穴 仅仅是你自己的监狱吗?",太阳、地球、快乐，都成了遥远的记忆。这片无尽的黑暗洞穴，难道只是你内心的牢笼？
+english_events_maingame:L14133,howdeep,POLISH,Is the drink you're looking for just your subconscious metaphor for the intangible happiness you chase but never find??,你要找的酒是潜意识的隐喻吗? 你追求的无形幸福却永远找不到?,你苦苦追寻却永远得不到的无形幸福，难道在潜意识里，被隐喻成了这杯酒？？
+english_events_maingame:L14134,howdeep,FIX,IS THAT MYSTERIOUS DOOR IN THE CAVE WALL JUST A HALLUCINATION REPRESENTING YOUR DESPERATION TO ESCAPE YOURSELF?!,棺材里那扇神秘的门 只是代表了你的设计 来逃避你自己?,洞壁上那扇神秘的门，难道只是幻觉，象征着你迫切想逃离自我的绝望？！
+english_events_maingame:L14135,howdeep,FIX,"%CURRENTPLAYERNAME%, I know you're losing your -N3 MIND in here, but you really don't have to narrate your spiral into madness aloud.","%CURRENTPLAYERNAME%我知道你在这里失去了你的N3 MIND, 但你真的不用 说你的螺旋 疯狂的大声。",%CURRENTPLAYERNAME%，知道你在这儿快疯了，掉了 -N3 头脑，可也不用把自己怎么一步步发疯的过程，都大声旁白出来吧。
+english_events_maingame:L14136,howdeep,FIX,Was I? Whoops!,是吗? 呜呼!,我说出来了？哎呀！
+english_events_maingame:L14137,howdeep,FIX,"That door is real, though! Are there normally cozy cottage doors in cave walls?",那扇门是真的! 洞墙上通常有舒适的门吗?,不过门是真的！洞壁上一般会有这种温馨小屋的门吗？
+english_events_maingame:L14138,howdeep,POLISH,Uhh... not as far as I know.,"额... 据我所知,没有",呃……据我所知，不会。
+english_events_maingame:L14139,howdeep,POLISH,"Now you're curious, so you open the door to find... a perfectly normal kitchen!","现在你好奇了,所以你打开门找... 完全正常的厨房!",这下好奇了。你打开门，发现……一间再正常不过的厨房！
+english_events_maingame:L14140,howdeep,POLISH,"A perfectly normal man enters the kitchen. ""Oh, hello strangers!"" he says. ""Did you enter through the mysterious door?""","一个完全正常的人进入厨房。 ""哦,你好陌生人!"" 他说。 ""你从神秘的门进来了吗?""",一个再正常不过的男人走进厨房。“哦，陌生人，你们好！”他说，“从那扇神秘的门进来的？”
+english_events_maingame:L14141,howdeep,FIX,I guess we did. Are we still in the cave?,我想我们做到了。 我们还在洞穴里吗?,应该是吧。咱们还在洞里吗？
+english_events_maingame:L14142,howdeep,FIX,"""Cave? No, you're in my house, on 336 Tulip Lane.""","""凯弗? 不,你在我的房子里,在郁金香巷336号"".",“洞？没有，这是我家，郁金香巷三百三十六号。”
+english_events_maingame:L14143,howdeep,FIX,That is WILD. Why does your house have a door that leads into a random cave?,这是WILD。 你家为什么有门通向一个随机的洞穴?,也太离谱了。你家怎么有扇门，通到随便哪个山洞里？
+english_events_maingame:L14144,howdeep,POLISH,"""No idea. My wife and I never knew there was a cave back there. We just knew the door led to a dark, creepy corridor.""","""无所觉. 我妻子和我从不知道那里有洞穴 我们只知道门 导致一个黑暗,恐怖的走廊。""",“不知道。我们夫妻俩从不知道后面有洞，只知道那扇门通向一条阴暗吓人的走廊。”
+english_events_maingame:L14145,howdeep,POLISH,"""We never explored the corridor, because that seemed like something the first dumbass to die in a horror movie would do.""","""我们从未探索过走廊, 因为那似乎是第一个死于恐怖电影的蠢货""",“没探过，毕竟那种事，像是恐怖片里第一个死的傻子才会干的。”
+english_events_maingame:L14146,howdeep,FIX,"Yeah, fair enough.",说得没错,嗯，也是。
+english_events_maingame:L14147,howdeep,POLISH,"""Honey, I'm home from work!"" a woman says as she walks into the kitchen. ""Oh, who are these people?""","""亲爱的,我下班回家"" 一个女人说,当她走进厨房。 ""哦,这些人是谁?""",一个女人走进厨房，说：“亲爱的，我下班了！哦，这几位是谁？”
+english_events_maingame:L14148,howdeep,POLISH,"""They came from the dark corridor behind the mysterious door,"" the man explains cheerfully.","""他们来自神秘门后黑暗的走廊"",""男人愉快地解释.",男人开心地解释：“他们从神秘门后面那条黑走廊来的。”
+english_events_maingame:L14149,howdeep,FIX,"""Oh, how nice! Did it lead to Hell?""","""哦,多好! ! 谢天谢地,我... 是否导致地狱?",“哦，真好！那边通地狱吗？”
+english_events_maingame:L14150,howdeep,FIX,"Nope, it's just a cave back there.","不,这只是一个洞后那里。",不，就一个山洞。
+english_events_maingame:L14151,howdeep,FIX,"""Good to know! Well, do you cave strangers want to join my husband and I for dinner? He's making baked ziti!""","""好知之! 师曰:""此相好也. 你们这些陌生人想跟我和我丈夫一起吃晚饭吗? 他正在做烤的齐地!""",“知道啦！那么，山洞来的客人，要跟我们夫妻一起吃晚饭吗？他在做焗通心粉！”
+english_events_maingame:L14152,howdeep,FIX,Hmm... will there be drinks?,垛... 喝点什么?,嗯……有酒吗？
+english_events_maingame:L14153,howdeep,FIX,"""Sure! Honey, uncork us a bottle of wine!""","""当然! 亲爱的,给我们一瓶酒!""",“当然！亲爱的，开瓶葡萄酒！”
+english_events_maingame:L14154,howdeep,FIX,HELL YEAH!,地狱耶!,他妈的好耶！
+english_events_maingame:L14155,howdeep,FIX,"You can't believe that worked. But it did, and you gain +N6 STAMINA from your delicious meal on 336 Tulip Lane!","你简直不敢相信这能奏效 但它确实如此,你从你美味的336郁金香巷的晚餐中得到了+N6 STAMINA!",你都不敢相信这居然行得通。可它就是成了！郁金香巷三百三十六号的美味晚餐，让你获得 +N6 体力！
+english_events_maingame:L14164,platocave,KEEP,Rescue trapped people,救出被困人员,救出被困人员
+english_events_maingame:L14167,platocave,FIX,"You, Polly, and Scott are hiking around the cave, looking at cool stalagmites and bats, when you hear voices coming from a far-off chamber.","你,你是谁? 波莉,以及 斯科特 正在洞穴周围走来走去, 看着凉爽的渣滓和蝙蝠, 当你听到来自遥远的室室的声音。",你和波莉、斯科特在洞里徒步，欣赏酷炫的石笋和蝙蝠。这时，远处一个洞室传来人声。
+english_events_maingame:L14169,platocave,POLISH,"Whoa, bros, there are people in here... and they're chained to that wall!","哥们,这里有人... 他们被锁在墙上!",哇，兄弟们，这儿有人……还被锁在墙上！
+english_events_maingame:L14170,platocave,FIX,Kinky.,坚克.,玩得挺花。
+english_events_maingame:L14171,platocave,POLISH,"Don't worry, everyone. We're gonna save you and bring you back to the outside world!","别担心,大家。 我们要救你,把你带回外面的世界!",各位别怕，我们来救你们，带你们回到外面的世界！
+english_events_maingame:L14172,platocave,POLISH,"""What are you talking about?"" the prisoners ask. ""We don't need saving. We like it here. This place has everything we need.""","""""你说什么来着""被囚者问道. ""我们不需要救赎. 我们喜欢这里 这个地方有我们需要的一切。""",被锁的人问：“说什么呢？我们不用救。这里挺好，该有的都有。”
+english_events_maingame:L14173,platocave,FIX,The cave people nod at the wall opposite them. You look and see that there's shadow puppets being projected on it.,"洞口的人点头对面的墙壁. 你看看, 上面有影子傀儡。",洞里的人朝对面的墙努努嘴。你一看，上面正投着手影。
+english_events_maingame:L14174,platocave,FIX,"""Look! The Shadow Doggie is back, and he's playing with the Shadow Bunny and the Amorphous Shadow-Blob! Best day ever!""","""看来! 影子狗回来了,他和""影子兔子""和""变形""""影子""""小白""一起玩!. 最好的一天,永远!""",“看！影子狗狗回来了，还跟影子兔兔和没形状的影子团一起玩！今天太棒了！”
+english_events_maingame:L14175,platocave,POLISH,"But those shadows aren't real. Let us unchain you, and we'll show you that the outside world is more than shadow puppets.","但那些阴影不是真的 让我们解开你的链子, 我们会告诉你, 外面的世界不仅仅是影子傀儡。",可影子又不是真的。解开锁链，带你们出去看看，外面可不只有手影。
+english_events_maingame:L14176,platocave,POLISH,"""NO!"" the prisoners yell. ""How dare you try to force us to expand our narrow worldviews!""","""不"",囚犯们大叫着 ""你竟敢逼我们扩大狭隘的世界观!""",他们大喊：“不！竟敢强迫我们拓宽自己狭隘的世界观！”
+english_events_maingame:L14177,platocave,POLISH,"""The shadows are all we've ever known. Why would we abandon them when we're already happy and complacent here?""","""""阴相相相为所通. 我们在这里已经很快乐和自满了,我们为什么要抛弃他们?"".",“我们一直只知道影子。在这里已经过得开心又满足，干吗抛下它们？”
+english_events_maingame:L14178,platocave,POLISH,"Because learning the truth is worth overcoming your fear of the unknown, dammit!","因为了解真相值得克服你对未知的恐惧,该死的!",因为，为了真相，克服对未知的恐惧很值得，真是的！
+english_events_maingame:L14179,platocave,POLISH,"%CURRENTPLAYERNAME%, how do we talk these people into leaving?",%CURRENTPLAYERNAME%我们如何说服这些人离开?,%CURRENTPLAYERNAME%，怎么说服他们出去？
+english_events_maingame:L14180,platocave,FIX,"Build a bulletproof, irrefutable case to convince them that the outside world is full of much cooler shadows.","建一防弹,不可辩驳的案来说服他们,外界充满了更酷的阴影.",拿出无懈可击、无法反驳的论证，让他们相信外面的影子酷多了。
+english_events_maingame:L14181,platocave,FIX,It's time to incur some good ol' student debt to get a PhD in philosophy.,是时候去偿还一些学生的债 以获得哲学博士学位了,该背点学贷，读个哲学博士了。
+english_events_maingame:L14183,platocave,FIX,Great idea! Time for a PLANNING MONTAGE!,不错的主意! 是时候计划月亮了!,好主意！来段准备工作的蒙太奇！
+english_events_maingame:L14185,platocave,FIX,"A montage passes of you guys reading books about shadows, writing on a chalkboard, practicing your shadow puppets, and doing chemistry for some reason.","你们的蒙太奇传阅了有关阴影的书籍, 在粉笔上写作,练习你的影子傀儡, 和做化学 某种原因。",一段蒙太奇：你们读影子相关书籍，在黑板上写写画画，练手影，还不知为何做起化学实验。
+english_events_maingame:L14186,platocave,FIX,"You lose -N2 MIND in the exhaustive research and planning, but finally, you have your irrefutable case on why the prisoners should leave:","你输了N2 MIND在详尽的研究和规划, 但最后,你有你无可辩驳的关于 为什么囚犯应该离开:",详尽的研究和计划耗掉 -N2 头脑。不过终于，你们拿出了不容反驳的论证，解释为什么这些人应该离开：
+english_events_maingame:L14188,platocave,POLISH,"Listen up, bros! We know you think shadows are cool. But the shadows outside this cave are EVEN COOLER! So come with us!","听着,兄弟们! 我们知道你觉得阴影很酷 但洞外的阴影甚至更凉快! 跟我们走!",听着，兄弟们！知道你们觉得影子酷，可洞外的影子更酷！跟我们走吧！
+english_events_maingame:L14189,platocave,FIX,...That's it? That's your whole argument? What about the montage? What about the chemistry bit?!,就这些? 这就是你的全部争论? 那蒙太奇怎么办? 化学成分呢?,……就这？全部论证？那蒙太奇算什么？化学实验又干吗呢？！
+english_events_maingame:L14190,platocave,POLISH,"""We're not convinced,"" the prisoners say. ""The shadows in here are already pretty great.""","""我们不确信"",被囚说. ""这里的阴影已经相当好。""",他们说：“没说服力。这里的影子已经很好了。”
+english_events_maingame:L14191,platocave,POLISH,"True, but get this: in the outside world, shadows are so cool and interesting, they even have their own mascot.","真实的,但得到这一点:在外界,阴影是如此的酷和有趣,甚至有他们自己的吉祥物.",对，可你们想啊：外面的影子酷得很、有意思得很，甚至还有吉祥物。
+english_events_maingame:L14192,platocave,FIX,"His name is Shadow the Hedgehog. He's so popular, he has his own video game, and lots of lewd fetish art!","他叫""黑奇霍克""的影子 他这么受欢迎,他有自己的电子游戏,还有很多淫秽的恋物癖艺术!",他叫刺猬夏特，英文名 Shadow，就是“影子”。他可火了，有自己的电子游戏，还有一大堆色情性癖同人图！
+english_events_maingame:L14193,platocave,POLISH,"""Oh!"" the prisoners say. ""Well, we do love lewd fetish stuff. Our second-favorite thing to shadows is being chained to a wall, after all.""","""哦!"" 囚犯们说。 ""我们确实喜欢淫荡的恋物癖"" 我们的第二喜好是 被锁在一堵墙上,毕竟。""",他们说：“哦！那种色情性癖的东西，我们确实爱看。毕竟除了影子，我们最爱的就是被锁在墙上。”
+english_events_maingame:L14194,platocave,FIX,I knew it! I KNEW this was kinky!,我早知道会这样! 我知道硂琌 kin!,就知道！我就知道你们在玩这个！
+english_events_maingame:L14196,platocave,FIX,"You successfully free the prisoners, and they go to the outside world to meet Shadow the Hedgehog.",你成功地释放了囚犯 他们去外面的世界去见黑奇霍克的影子,你成功解救了他们。他们走向外面的世界，去见刺猬夏特。
+english_events_maingame:L14197,platocave,FIX,"Unfortunately, they're completely blinded by Shadow's coolness, but all that matters to you is gaining +N2 SOUL for the rescue!","不幸的是,他们完全被""影子""的酷酷弄瞎了眼睛,但对于你来说,最重要的就是获得+N2 SOUL来救援!",可惜，他们彻底被夏特的酷炫闪瞎了眼。不过你只在乎救人带来的 +N2 灵魂！
+english_events_maingame:L14199,platocave,POLISH,But aren't PhDs super expensive? Who would loan us that kind of money?,但是博士不是太贵了吗? 谁愿意借我们这种钱?,可博士不是很贵吗？谁会借给我们那么多钱？
+english_events_maingame:L14200,platocave,POLISH,Any financial institution ready to profit from abusive interest rates and the cultural belief that a higher education is worth going into crippling debt.,任何金融机构都愿意从滥用利率和认为高等教育值得承受沉重债务的文化信念中获利。,那些指望靠高利率，再靠“高等教育值得背一辈子巨债”的社会观念赚钱的金融机构呗。
+english_events_maingame:L14201,platocave,POLISH,"Oh, really? Lucky us!",是吗? 我们真幸运!,哦，真的？真幸运！
+english_events_maingame:L14204,platocave,FIX,You quickly apply for and receive some fat student loans and enroll in a philosophy course.,"您可申请并获得一些高额学生贷款,并参加哲学课程。",你们飞快申请、拿到一大笔学贷，报上哲学课程。
+english_events_maingame:L14206,platocave,POLISH,"""Welcome to the PhD philosophy program!"" your professor says. ""It's a pleasure to meet you fine young minds.""","""欢迎加入博士哲学课程"" 你的教授说 ""很高兴见到你 年轻的头脑""",教授说：“欢迎攻读哲学博士！很高兴见到各位才华横溢的年轻人。”
+english_events_maingame:L14207,platocave,POLISH,"""Are you here because you have an unquenchable thirst for knowledge? Because you yearn to understand your place in the universe?""","""你在这里是因为你对知识的渴求无法消除? 因为你渴望理解自己在宇宙中的地位?""",“各位是因为对知识的渴求无穷无尽而来？还是渴望理解自己在宇宙中的位置？”
+english_events_maingame:L14208,platocave,POLISH,We're here to rescue some bros from a cave!,我们来这是为了从洞穴里救一些兄弟!,我们来是为了救几个困在洞里的兄弟！
+english_events_maingame:L14209,platocave,FIX,"""Ah, yes, from the cave of their own ignorance. I see we have a poet in the class.""","""是也. 从自无知之洞出. 班上有位诗人"".",“哦，对，从自身无知的洞穴里解救出来。我看班上来了位诗人。”
+english_events_maingame:L14210,platocave,POLISH,"""You need to know that, at its core, philosophy is about asking questions. But it's not really about ANSWERING those questions; just thinking about them really hard.""","""你需要知道,哲学的核心是提出问题. 但这不是真正的回答这些问题;只是想着它们真的很辛苦。”",“要知道，哲学的核心是提问，却不是要回答问题，只需要非常努力地思考。”
+english_events_maingame:L14211,platocave,POLISH,Really? Why?,真的吗? 为什么?,真的？为什么？
+english_events_maingame:L14212,platocave,POLISH,"""That's a great question! You're clearly already a philosopher at heart. Here, have your PhD.""","""[问得妙! 你显然已经是一个哲学家了 给,请拿你的博士学位。""",“好问题！显然，你内心已经是个哲学家了。来，给你博士学位。”
+english_events_maingame:L14213,platocave,POLISH,Can I have one too?,也可以给我一个吗?,也能给我一个吗？
+english_events_maingame:L14214,platocave,POLISH,"""Another great question! Here, take one.""","""又问出个大问题来! 给,拿一""",“又一个好问题！来，拿去。”
+english_events_maingame:L14215,platocave,KEEP,Thanks!,谢谢!,谢谢!
+english_events_maingame:L14218,platocave,FIX,You go back to the cave prisoners to present your philosophy-fueled argument for leaving:,你回到洞穴的囚犯们 提出你哲学上支持的 离开的理由:,你们回到洞里，向被困的人提出满含哲学智慧的理由，劝他们离开：
+english_events_maingame:L14220,platocave,POLISH,"So, we know you probably wanna know WHY you should leave the cave...",我们知道你可能想知道 为什么你应该离开洞穴...,知道，你们可能想问，为什么要出洞……
+english_events_maingame:L14221,platocave,POLISH,"But we just learned that philosophy is about asking questions, not answering them. So I ask you: why NOT leave the cave?","但我们刚刚得知哲学是问问题,而不是回答问题. 所以我问你:为什么不离开洞穴?",可刚学到，哲学重在提问，而非回答。所以我问你们：为什么不出洞？
+english_events_maingame:L14222,platocave,POLISH,"""Hmmm... yeah, guess we can't really argue with that,"" the prisoners say. ""We'll come with you.""","""汉姆... 囚犯们说,""我们没法真的争论了"" ""我们和你一起去""",他们说：“嗯……也是，确实没法反驳。跟你们走吧。”
+english_events_maingame:L14223,platocave,FIX,Woohoo! You gain +N2 SOUL for your successful rescue. Hopefully it was worth all the -N2 MONEY you'll be paying on your loans for the majority of your life.,呜呼! 你成功救援获得了+N2 SOUL. 希望这能值你一生中大部分时间的贷款,呜呼，救人成功，你获得 +N2 灵魂！但愿这值得你花大半辈子，付出 -N2 金钱还学贷。

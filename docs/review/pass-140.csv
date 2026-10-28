@@ -1,0 +1,157 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_maingame:L8425,rockshop,KEEP,Get the good stuff,去拿好东西,去拿好东西
+english_events_maingame:L8429,rockshop,POLISH,You and your friends get out of the car and enter... whatever this place is.,你和你的朋友下车然后... 不管这里是什么,你和朋友们下了车，走进……也不知道这到底算什么地方。
+english_events_maingame:L8431,rockshop,FIX,"Howdy, customers! Welcome to Noodles' ""Gift Shop.""","客人们好! 欢迎来到面条店""美食店""",客人们好呀！欢迎来到面条的“礼品店”。
+english_events_maingame:L8432,rockshop,FIX,Why'd you put gift shop in air quotes?,你为什么把礼品店放进空中引用?,你说“礼品店”的时候，干嘛用手比引号？
+english_events_maingame:L8433,rockshop,KEEP,Legal reasons.,法律原因。,法律原因。
+english_events_maingame:L8434,rockshop,POLISH,"You've got a lot of stuff for sale, Noodles. Can you tell us more about it?","面条,你有很多东西要卖 你能告诉我们更多事情吗?",面条，你这儿卖的东西好多啊。能给我们介绍介绍吗？
+english_events_maingame:L8435,rockshop,FIX,Nope!,没有!,不能！
+english_events_maingame:L8436,rockshop,POLISH,But... why not?,不过... 为什么不呢?,可……为什么呀？
+english_events_maingame:L8437,rockshop,FIX,"Why all the questions? What are you, cops?",为什么所有的问题? 你们是什么 警察?,问这么多干嘛？你们是警察啊？
+english_events_maingame:L8438,rockshop,POLISH,"I don't think I'm a cop, last time I checked. Polly, do I smell like a cop?","我不认为我是警察,上次我检查。  波莉我闻起来像警察吗?",应该不是吧，反正上次确认的时候还不是。波莉，我闻着像警察吗？
+english_events_maingame:L8439,rockshop,POLISH,I dunno. What do cops smell like?,"我不知道,我还没说完 警察闻起来像什么?",不知道。警察闻着什么味儿？
+english_events_maingame:L8440,rockshop,FIX,The blood of the gods that we killed with our hubris! Also glue.,我们用傲慢的神灵的血迹! 亦有胶相.,有股神明的血腥味——那些被我们的傲慢杀死的神！还有胶水味。
+english_events_maingame:L8441,rockshop,FIX,But... that's what YOU smell like.,不过... 闻到这个味道,可……你身上就是这个味儿啊。
+english_events_maingame:L8442,rockshop,FIX,Teehee!,田晓! 田晓!,嘻嘻！
+english_events_maingame:L8443,rockshop,POLISH,"Okay, this is weird as hell, but you really want to buy a... whatever it is Noodles is selling. So hurry up and buy one!","好吧,这很奇怪,但你真的想买... 不管面条是什么 都在卖 赶快买一个吧!",行吧，怪得要命。但你真的很想买一个……面条卖的那个什么玩意儿。那就赶紧挑一个吧！
+english_events_maingame:L8446,rockshop,FIX,Happy Happy Fun Time!,快乐的乐趣时光!,开心开心好时光！
+english_events_maingame:L8447,rockshop,FIX,Cute Little Embodiment of All My Fears of no one ever really caring about me,"可爱的小装饰 我所有恐惧的,没有人真正关心我",我害怕永远没人真正在乎我的所有恐惧的可爱小化身
+english_events_maingame:L8448,rockshop,FIX,Shiny Shteven,闪亮的史蒂文,闪亮史提文
+english_events_maingame:L8452,rockshop,FIX,"Yay, good choice! ""Happy Happy Fun Time is the bestest dude! / Never add him into your food!""","不错的选择! ""快乐的乐趣时光是最棒的家伙! 永远不要把他加进食物里!""",耶，选得好！“开心开心好时光，真是个好伙伴！千万别把他，往你饭里拌！”
+english_events_maingame:L8453,rockshop,POLISH,"Well, that's a cool jingle, I guess. But what does Happy Happy Fun Time do, exactly?",不错的琴声吧 但快乐时光到底做什么?,好吧，这广告歌还挺带劲。可开心开心好时光到底是干什么的？
+english_events_maingame:L8454,rockshop,FIX,"""He's the cutest lil rock with the happy grin! / Lock the doors and don't let your parents in!""","""他是最可爱的 岩与欢乐的笑容! 锁上门别让你父母进来!""",“小小石头笑开颜，可爱无敌惹人怜！锁好门，别让爹妈进房间！”
+english_events_maingame:L8455,rockshop,POLISH,"""Lock the doors?"" Is Happy Happy Fun Time a sex toy or something? Or a murder weapon, maybe?","""把门锁上?"" ""快乐快乐时光"" 是性玩具还是什么的? 或者凶器,也许?",“锁好门”？开心开心好时光是什么情趣玩具吗？还是说……凶器？
+english_events_maingame:L8456,rockshop,FIX,"""Happy Happy Fun Time is so great! / You'll love the sacred memories you create! / If you found him today, it must be fate!""","""快乐的乐趣时光是如此的伟大! 你会爱上你创造的神圣记忆的! 如果你今天找到他,那一定是命运!""",“开心开心好时光，好得没话讲！共创神圣的回忆，让你永难忘！今天遇见他，缘分来身旁！”
+english_events_maingame:L8457,rockshop,FIX,"""Now it's time to go home and masturbate!"" Haha! I found the jingle lyrics on the internet.","""现在该回家了,自慰了"" 哈哈! 我在互联网上找到唱着歌的歌词",“现在就该回家去，手淫爽一场！”哈哈！我在网上搜到歌词啦。
+english_events_maingame:L8458,rockshop,FIX,"Great, that's gonna be stuck in your head for hours. You pay -N2 MONEY for whatever Happy Happy Fun Time is, but you gain +N2 HYPE!","很好,那会卡在你的头上几个小时。 你付N2钱,不管快乐时光是什么, 但你得到+N2 HYPE!",完了，这歌得在你脑子里循环好几个小时。你花了-N2金钱，买下这个不知有什么用的开心开心好时光，不过也获得了+N2热度！
+english_events_maingame:L8462,rockshop,POLISH,"Aww, that's so sweet, %CURRENTPLAYERNAME%. It's like you went into the animal shelter and adopted the ugliest stray of them all.","哦,这太甜蜜了, %CURRENTPLAYERNAME%. 就像你进了动物收容所 收养了最丑陋的流浪汉一样",哎呀，%CURRENTPLAYERNAME%，你可真有爱心。感觉就像去动物收容所，领养了里面最丑的那只流浪动物。
+english_events_maingame:L8463,rockshop,POLISH,"It's so nice and selfless of you to show love to the least appealing rock on Noodles' shelves. You're, like, a gift shop saint!",向面条架上最不吸引人的岩石 展示爱是那么的美好和无私 你就像一个礼品店的圣人!,面条货架上最没人喜欢的石头，你都愿意疼爱，真是又善良又无私。你简直就是礼品店里的圣人！
+english_events_maingame:L8464,rockshop,FIX,"NO SAINTS! No religion allowed in my ""Gift Shop!"" This is a place God forgot!","没有病! 我的""吉卜赛店""里不允许有宗教!",不准有圣人！我的“礼品店”禁止宗教！这里是被上帝遗忘的地方！
+english_events_maingame:L8465,rockshop,FIX,"You pay -N2 MONEY for the ""Cute Little Embodiment of All My Fears of no one ever really caring about me."" You can't help but shed a tear over the little guy's plight.","你为""可爱的小小安眠""支付N2 MONEY的""我所有恐惧的精华"",""你无法不为这个小人物的困境而流出一滴泪来"".",你花了-N2金钱，买下“我害怕永远没人真正在乎我的所有恐惧的可爱小化身”。想到小家伙的处境，你忍不住为它掉了一滴泪。
+english_events_maingame:L8466,rockshop,POLISH,"How'd you get the idea to create this sad little cutie, Noodles? Is it a manifestation of your own fears and insecurities?","你怎么想到的 创造这个可怜的可爱的小面条,面条? 这是否是你自己恐惧和不安全的表现?",面条，你怎么会想到做这么个可怜又可爱的小东西？它体现的是你自己的恐惧和不安吗？
+english_events_maingame:L8467,rockshop,FIX,Nope.,没有。,不是。
+english_events_maingame:L8468,rockshop,POLISH,Oh. Then where DID you get the name from?,哦. 那你从哪里得到这个名字的?,哦，那这名字是怎么来的？
+english_events_maingame:L8469,rockshop,POLISH,I dunno. It sounded funny!,"我不知道,我还没说完 听起来很有趣!",不知道啊。听着好玩嘛！
+english_events_maingame:L8470,rockshop,POLISH,"Well, I guess it was still nice of %CURRENTPLAYERNAME% to help Noodles move his least popular merchandise then.","嗯,我想还是不错的 %CURRENTPLAYERNAME% 帮助面条移动 他最不受欢迎的商品。",好吧，那%CURRENTPLAYERNAME%帮面条卖掉了最滞销的货，也算做了件好事。
+english_events_maingame:L8471,rockshop,POLISH,"It was! Do you want to join our loyalty program, %CURRENTPLAYERNAME%?",没错! 你想加入我们的忠诚计划吗? %CURRENTPLAYERNAME%?,可不是嘛！%CURRENTPLAYERNAME%，要加入我们的会员计划吗？
+english_events_maingame:L8472,rockshop,FIX,No emails or phone calls ever; just carve my name into your arm with this obsidian knife!,永远不要发邮件或打电话 只要用这把被子刀将我名字刻入你的手臂,绝不发邮件，也不打电话。只要拿这把黑曜石刀，把我的名字刻在你胳膊上就行！
+english_events_maingame:L8473,rockshop,FIX,NOPE. You already hit a home run by earning +N2 SOUL with your new pet rock. Why ruin that with whatever cursed energy Noodles is brewing?,没有。 你用你的新宠物摇滚赚了+N2 SOUL 已经打入全垒打了 为什么用那些被诅咒的能量来破坏它? 面条在酿造什么?,想都别想。新买的宠物石已经让你获得了+N2灵魂，成绩够漂亮了。干嘛还要沾上面条捣鼓的那些诅咒能量，毁掉好事？
+english_events_maingame:L8477,rockshop,POLISH,"Whoa. Am I high, or is that rock glowing?",呜呼. 我是不是嗑药了 还是那石头发光了?,哇。我是嗨了，还是那石头真的在发光？
+english_events_maingame:L8478,rockshop,KEEP,Yes!,没错!,没错!
+english_events_maingame:L8479,rockshop,FIX,"Okay, that fucks. I'll give you -N2 MONEY for Shiny Shteven. Where'd you find this weird rock, anyway?","好吧,那他妈的。 -我给你钱给Shine Shteven 你从哪里找到这怪岩的?",行，这玩意儿真牛逼。给你-N2金钱，闪亮史提文我要了。话说，这怪石头你哪儿找来的？
+english_events_maingame:L8480,rockshop,POLISH,Who knows? These things are everywhere.,谁知道呢? 这些东西到处都是,谁知道呢？到处都是这东西。
+english_events_maingame:L8481,rockshop,FIX,"Before Noodles can refuse to elaborate further, an interdimensional portal opens, and a team of superheroes rushes in!","在面条可以拒绝进一步阐述之前,一个跨维的门户打开了,一群超级英雄冲入了!",面条还没来得及拒绝继续解释，一道跨次元传送门就打开了，一队超级英雄冲了进来！
+english_events_maingame:L8482,rockshop,FIX,"""DROP THAT ROCK!"" says the leader superhero, his cape flapping heroically in the still air. ""That's the last Eternal Stone!""","""把那个摇滚乐""说,超级英雄领袖,他的披风在静空气中英勇地拍打. ""那是最后一块永恒之石""",“放下那块石头！”领头的超级英雄说道。他的披风在无风的空气里英勇地飘扬着。“那是最后一块永恒之石！”
+english_events_maingame:L8483,rockshop,FIX,"""We need its power to save our world from all evil!"" says the only woman in the group, whose outfit is oversexualized, but in, like, a feminist way, we swear.","""我们需要它的力量来拯救我们的世界免受一切邪恶!""这个团体中唯一的女性,她的服装过于性化了,但是,在像女权主义的方式,我们发誓.",队伍里唯一的女英雄说：“我们需要它的力量，才能拯救世界，消灭一切邪恶！”她的衣服性感得过了头，不过我们发誓，那可是女权主义式的性感。
+english_events_maingame:L8484,rockshop,POLISH,"Sorry, can't help ya. I just sold it.","对不起,帮不了你 我刚卖了它。",抱歉，帮不上忙。刚卖掉了。
+english_events_maingame:L8485,rockshop,POLISH,"""You SOLD IT?! To who?!""","""你卖了它? 给谁?""",“你卖了？！卖给谁了？！”
+english_events_maingame:L8486,rockshop,FIX,"Not you, motherfucker! Bye!","不是你,混蛋! ! 别管我! 再见!",反正不是你，傻逼！拜拜！
+english_events_maingame:L8487,rockshop,POLISH,"Noodles pushes the superheroes back into the portal, and it closes.","面条将超级英雄们推回了""传送门"",并关闭了.",面条把超级英雄们推回传送门，随后传送门关闭了。
+english_events_maingame:L8488,rockshop,FIX,"Wow, Noodles... you're really good about honoring your sales!","哇,面条... 你真的很擅长尊重你的销售!",哇，面条……你做生意可真守信用！
+english_events_maingame:L8489,rockshop,FIX,"He sure is. You gain +N2 MAGIC from your powerful new pal, Shiny Shteven.",他当然是。 你从你强大的新朋友 Shiny Shteven 身上得到+N2 MAGIC.,可不是嘛。强大的新伙伴闪亮史提文让你获得了+N2魔力。
+english_events_maingame:L8497,badinvestments,POLISH,Invest in this clearly booming business,投资这个明显兴旺的生意,投资这门显然蒸蒸日上的生意
+english_events_maingame:L8499,badinvestments,POLISH,You and your friends get out of the car and enter... whatever this place is.,你和你的朋友下车然后... 不管这里是什么,你和朋友们下了车，走进……也不知道这到底算什么地方。
+english_events_maingame:L8501,badinvestments,FIX,"Greetings, fellow flesh-bags! Welcome to Noodles' ""Gift Shop!"" See anything you like?","伙计们,你们好! 欢迎来到面条店 ""美食店"" 看到喜欢什么吗?",各位肉袋子同胞，你们好！欢迎来到面条的“礼品店”！有看上的吗？
+english_events_maingame:L8502,badinvestments,KEEP,"Wow, this stuff is so cool!","哇,这东西太酷了!","哇,这东西太酷了!"
+english_events_maingame:L8503,badinvestments,POLISH,"...What is this stuff, anyway?",这是什么东西?,……话说，这些到底是什么东西？
+english_events_maingame:L8504,badinvestments,FIX,"Rocks, of course! They're the cold, silent onlookers that never love you back!","石头,当然! 他们就是冷酷无声的 永远爱你的目光!",当然是石头！它们冷冰冰地看着你，一声不吭，而且永远不会回应你的爱！
+english_events_maingame:L8505,badinvestments,FIX,"Noodles, these rocks are THE SHIT. How long have you been running this stand?","面条,这些石头是狗屎。 你办这个摊子多久了?",面条，这些石头可太牛逼了。你这摊子开多久了？
+english_events_maingame:L8506,badinvestments,FIX,Long enough to know better than to answer personal questions.,长相相能知更入心所解想所解想出自个人问.,久到足以明白，私事不能随便告诉别人。
+english_events_maingame:L8507,badinvestments,POLISH,Nice. You're a really good business owner. You've got the makings of entrepreneurial greatness in you.,不错 你是一个真正的好企业老板。 你拥有创业的伟大,不错，是个做生意的料。你可有成为伟大企业家的潜质。
+english_events_maingame:L8508,badinvestments,POLISH,"...Does he, though?",他有吗?,……真的有吗？
+english_events_maingame:L8509,badinvestments,FIX,"Of course he does, dumb-dumb! Check out all that natural business smarts and charisma oozing out of Noodles' pores!","当然了,蠢货! 看看那些自然生意的聪明人 和魅力从面孔里涌出!",当然有啦，笨蛋！你瞧瞧，面条那天生的商业头脑和魅力，都顺着毛孔往外冒了！
+english_events_maingame:L8510,badinvestments,FIX,DON'T TALK ABOUT MY OOZES!,别提我的蛋了!,不许讨论我往外冒的东西！
+english_events_maingame:L8511,badinvestments,FIX,"We gotta invest in this booming business, y'all. These rocks are about to go BIG. Let's go all in on it now and get ahead of the curve!","我们得投资这个兴起的生意,你们。 这些石头要大了 让我们现在全部进去, 并提前在曲线上!",伙计们，这么红火的生意，咱们必须投！这些石头马上就要火了，趁现在全押上，抢占先机！
+english_events_maingame:L8512,badinvestments,POLISH,"Polly, no. Don't you remember the last time you invested in a ""booming business"" while you were drunk?","波莉,没有。 你还记得上次你喝醉的时候 投资了""爆破生意""吗?",波莉，别。你忘了上次喝醉了投资“红火生意”的事了吗？
+english_events_maingame:L8513,badinvestments,FIX,"Hey, I don't regret investing in Dick Shirts: Shirts For Your Dick. Scott loves them!","嘿,我不后悔投资 迪克衫:衬衫为你迪克。  斯科特 爱他们!",嘿，我可不后悔投资“屌衬衫：给你家老二穿的衬衫”。斯科特可喜欢了！
+english_events_maingame:L8514,badinvestments,FIX,I'm wearing a dick crop top right now!,我现在穿的是一个鸡巴作物顶!,我家老二现在就穿着露脐装呢！
+english_events_maingame:L8515,badinvestments,POLISH,"All we gotta do is decide how to use our investment to expand Noodles' business. %CURRENTPLAYERNAME%, what do you suggest?",我们要做的就是决定如何利用我们的投资来扩大面条的生意.  %CURRENTPLAYERNAME%你有何建议?,现在就看这笔投资该怎么花，才能帮面条扩大生意了。%CURRENTPLAYERNAME%，你有什么建议？
+english_events_maingame:L8516,badinvestments,FIX,Advertise in printed newspapers. They're so desperate for relevance that they may feature this stand for free.,"以印刷报纸为广告. 他们急于寻找相关性,以至于他们可能免费展示这个立场。",在纸质报纸上打广告。它们都快没人看了，说不定愿意免费报道这个摊子。
+english_events_maingame:L8517,badinvestments,FIX,"Officially sponsor a team of competitive ""Rock, Paper, Scissors"" players.","官方赞助了一支由""摇滚,纸上,剪刀""的竞技球员组成的球队.",正式赞助一支“石头剪刀布”职业战队。
+english_events_maingame:L8518,badinvestments,FIX,"In times like these, you go big or you go home. START A CINEMATIC UNIVERSE!","像这样的时候,你要么大一点,要么回家 启动一个计算机化的大学!",这种时候，要么做大，要么回家。打造一个电影宇宙！
+english_events_maingame:L8522,badinvestments,POLISH,"You, Scott, and Polly head to the local newspaper office. It's staffed by two bored elderly men who look half-dead on their feet.","你,你是谁? 斯科特,以及 波莉 前往当地报社 其有二个无聊的老人,脚上看相半死.",你、斯科特和波莉去了当地报社。里面只有两个百无聊赖的老头，站着都像丢了半条命。
+english_events_maingame:L8523,badinvestments,POLISH,"They barely look up as you walk in. ""The dentist's office is on the second floor,"" one sighs.","你走进来时他们几乎不抬头看 ""牙医办公室在二楼""一叹.",你们走进去时，他们连头都懒得抬。其中一人叹了口气：“牙科诊所在二楼。”
+english_events_maingame:L8524,badinvestments,POLISH,"No way, I hate the dentist! We're looking for the newspaper people.","不行,我讨厌牙医! 寻报人.",才不去呢，我讨厌牙医！我们是来找办报纸的人的。
+english_events_maingame:L8525,badinvestments,FIX,"""Wait, you want the newspaper? As in, the paper with the news printed on it? That one?""","""等等,你想要报纸吗? 报纸上印着新闻吗? 那只? ? ! ! ! ! ! ! ! ! ! ! !",“等等，你们找报社？就是把新闻印在纸上，做出来的那个报纸？找的是那个？”
+english_events_maingame:L8526,badinvestments,FIX,I think so?,是吗?,应该是吧？
+english_events_maingame:L8527,badinvestments,FIX,"""That's great! I'm the CEO. My partner here was our janitor, but after our whole staff quit, he's been promoted to head journalist.""","""这真是太棒了! 我是首席执行官 我的搭档是我们的看门人, 但是在我们全体员工辞职后, 他被提升为首席记者"".",“太好了！我是首席执行官。这位搭档原本是我们的保洁，不过全体员工辞职以后，他就升任首席记者了。”
+english_events_maingame:L8528,badinvestments,POLISH,Nice to meet'cha! We were wondering if we could run a feature story in your newspaper?,很高兴见到你! 我们想知道我们能不能在你的报纸上 播放一个故事?,幸会幸会！我们想在你们报纸上做篇专题报道，可以吗？
+english_events_maingame:L8529,badinvestments,FIX,"""Sure! We're desperate for anything that'll click with young people and sell these papers. If you have an idea, we're all ears.""","""当然! 我们渴望任何能和年轻人一起 一起卖出这些论文的东西 如果你有主意,我们都是耳朵"".",“当然！只要能吸引年轻人、把报纸卖出去，什么我们都愿意试。有什么点子，尽管说！”
+english_events_maingame:L8530,badinvestments,FIX,"Oh, we've got THE idea. We want you to run a story on Noodles' ""Gift Shop"", the one-stop shop where you can buy... these things!","哦,我们得到了这个想法。 我们希望你来报道面条店的""吉普店"" 即一站式店铺 你可以买到... 这些东西!",哦，我们有个绝妙的点子！报道一下面条的“礼品店”吧！一站式购物，想买这些……这些东西，就去他那儿！
+english_events_maingame:L8531,badinvestments,FIX,"""A rock...? What is it used for? Is it a pet rock? A paperweight?""","""石头... ? 用来做什么? 是宠物岩吗? 纸张重量?""",“一块石头……？它是干什么的？宠物石？镇纸？”
+english_events_maingame:L8532,badinvestments,POLISH,No clue. Noodles has systematically avoided giving us a proper explanation.,没有线索。 面条一直避免给我们一个适当的解释。,不知道。面条一直在有条不紊地回避给我们一个正经解释。
+english_events_maingame:L8533,badinvestments,POLISH,"""Well, we could still make that our story angle. We'll be happy to feature Noodles' 'Gift Shop' in the paper!""","""我们仍可以把故事角度看清楚"" 我们很乐意在报纸上 刊登面条的""吉普店""",“嗯，这也可以当报道角度。我们很乐意在报上介绍面条的‘礼品店’！”
+english_events_maingame:L8534,badinvestments,FIX,"""We'll just cut that feature on the rampant corruption in the Brazilian government. No one's reading about that stuff these days anyway.""","""我们只是把那个特征 切掉在巴西政府的猖獗腐败。 现在没人读过那些东西了""",“把那篇巴西政府腐败猖獗的专题撤掉就行。反正如今也没人看那些东西了。”
+english_events_maingame:L8536,badinvestments,POLISH,You're sent a copy of the feature a few days later. It's boring as fuck. No wonder this medium is dead. You lose -N2 HYPE.,几天后你收到一份特稿 无聊得要命 难怪这个媒介死了 -你输了 -N2 HYPE.,几天后，你收到一份登着专题的报纸。真他妈无聊。难怪这种媒体已经死了。你失去了-N2热度。
+english_events_maingame:L8537,badinvestments,FIX,But at least you gain +N2 MIND reading the front-page story about the emerging markets from SEA. That's something!,"但至少你得到了+N2 MIND读取了首页的故事,关于来自SEA的新兴市场. 不错!",不过，头版关于东南亚新兴市场的报道让你获得了+N2头脑。也算有点收获！
+english_events_maingame:L8539,badinvestments,FIX,"Excuse me? No way there's a competitive ""Rock, Paper, Scissors"" scene, much less anyone who actually watches it.","你说什么? 根本就没有竞争的""摇滚,纸上,剪刀""的场景,更没有真正观看的人.",什么？“石头剪刀布”怎么可能有职业比赛，更别说真有人看了。
+english_events_maingame:L8540,badinvestments,FIX,"Of course there is! We live in a world crippled by the unstoppable tide of ennui, silly. People will do anything to stave off the inescapable boredom of being alive!","当然有! 我们生活在一个被无所不能的一股冷潮所残废的世界,愚蠢. 人们会做任何事情来避免 无法避免的无聊 活着!",当然有啦，傻瓜！无可阻挡的倦怠浪潮，早就把这世界压垮了。为了逃避活着就躲不掉的无聊，人们什么都干得出来！
+english_events_maingame:L8543,badinvestments,FIX,"That settles it, apparently. You spend -N2 MONEY sponsoring a team and go to watch their first big match.","很明显,这解决了。 你花N2货币资助一个团队 去看他们的第一次大赛",看来就这么定了。你花了-N2金钱赞助一支战队，还去看了他们的首场大赛。
+english_events_maingame:L8544,badinvestments,POLISH,"Scott is appointed team cheerleader, Noodles is the unsettling mascot, and Polly is... drunk.","斯科特 被任命为队啦啦队长 面条是令人不安的吉祥物 波莉 这是... 醉了,我还得去",斯科特被任命为啦啦队长，面条成了令人不安的吉祥物，波莉则……喝醉了。
+english_events_maingame:L8546,badinvestments,FIX,GIMME AN R-O-C-K! WIN THAT GAME OF CHANCE TODAY!,吉米一发一发! 今天的比赛真精彩!,跟我喊：石——头！今天猜拳，拿下冠军！
+english_events_maingame:L8547,badinvestments,POLISH,"...I dunno why we're losing, bros. I'm cheering as hard as I can!",我不知道我们为什么输了 兄弟们 我尽力而为地加油!,……兄弟们，咱们怎么还在输啊？我都拼命加油了！
+english_events_maingame:L8548,badinvestments,FIX,We're losing 'cause this ref fuckin' SUCKS! That other team totally fouled!,"我们输了,因为这个裁判他妈的""滑板! 那队人全被弄脏了!",还不是这裁判他妈的太烂了！对面明明犯规了！
+english_events_maingame:L8549,badinvestments,FIX,"Actually, I'm pretty sure our team's losing because Noodles ordered them to play rock to promote his business.","事实上,我敢肯定我们的团队正在输,因为面条命令他们去玩摇滚来宣传他的生意.",其实我敢肯定，是因为面条非让他们只出石头，好给自己的生意打广告，咱们队才一直输。
+english_events_maingame:L8550,badinvestments,FIX,"It seems one of your athletes figured that out too, because in the next round, he plays scissors -- and wins!","看来你的一个运动员也明白这一点,因为下一轮他弹剪刀——并取胜了!",看来有位选手也想明白了。下一轮，他出了剪刀——赢了！
+english_events_maingame:L8551,badinvestments,FIX,You're out.,你出来了。,你被开除了。
+english_events_maingame:L8552,badinvestments,FIX,"""But I had to play scissors, Mr. Noodles!"" the competitor begs. ""It's the only way to--""","""但我不得不弹剪刀,先生。 面""相会者乞. ""这是唯一的办法...""",选手苦苦哀求：“可我只能出剪刀啊，面条先生！只有这样才——”
+english_events_maingame:L8553,badinvestments,FIX,I SAID YOU'RE OUT!,我说你退出了!,我说，你被开除了！
+english_events_maingame:L8555,badinvestments,FIX,Wow... Noodles' little tentacles can really choke a motherfucker out.,哗... 面条的小触手能把一个混蛋掐死,哇……面条那几根小触手，掐起人来可真狠。
+english_events_maingame:L8556,badinvestments,POLISH,Should we get help?,我们该找人帮忙吗?,我们要不要找人帮忙？
+english_events_maingame:L8557,badinvestments,POLISH,"No, are you kidding? This is the most interesting thing that's happened all match.","不,你在开玩笑吗? 这是最有趣的事情 发生了所有匹配。",不要，开玩笑呢？这可是整场比赛最精彩的一幕。
+english_events_maingame:L8558,badinvestments,FIX,"This was certainly a memorable way to spend your day. You gain +N2 HYPE from competitive rock, paper, scissors.","这肯定是你度过这一天的难忘之道 你从竞争的岩石,纸张,剪刀中获得了+N2 HYPE.",这一天过得确实让人难忘。竞技石头剪刀布让你获得了+N2热度。
+english_events_maingame:L8561,badinvestments,FIX,Good idea! We'll begin with four stages of movies to solidify our Rock Cinematic Universe. Then we'll launch some spinoff TV shows and cartoons...,不错的主意! 我们首先要从四个阶段的电影开始 来巩固我们的摇滚电影宇宙 然后我们推出一些附带的电视节目和漫画...,好主意！先分四个阶段拍电影，给我们的石头电影宇宙打牢基础。接着推出衍生剧和动画片……
+english_events_maingame:L8562,badinvestments,FIX,"...then we'll make some sequels and prequels, novels based on the movies, video games based on the novels, maybe an official brand of cereal...","...然后我们再拍一些续集和预告片,小说根据电影,电子游戏根据小说,也许官方的麦片品牌...",……再拍续集、前传，推出电影改编小说、小说改编游戏，也许还能做个官方联名麦片……
+english_events_maingame:L8563,badinvestments,FIX,"...and when we're done with all that, we'll be just in time to re-release remastered versions of the original movies and get that nostalgia money! We'll be rich!","...当我们完成这一切, 我们正好赶上 重新发布 原电影的版本 并获得怀旧的钱! 有钱的!",……等这些全搞完，正好把最早那几部电影修复重映，再赚一波情怀钱！咱们要发财啦！
+english_events_maingame:L8564,badinvestments,POLISH,Okay... what are the movies gonna be about?,"好吧,我说... 电影会是什么呢?",好吧……那电影要讲什么？
+english_events_maingame:L8565,badinvestments,POLISH,Who cares? SHOW ME THE MONEY!,谁在乎呢? 钱给我!,谁管啊？钱拿来！
+english_events_maingame:L8567,badinvestments,FIX,"You spend -N2 MONEY creating this -N2 SOUL-less mockery of cinema. Predictably, these movies are about nothing and nobody likes them.",你花N2钱 创作了这个N2 SOUL的嘲弄电影。 料到这些电影是没什么的 没人喜欢它们,你花了-N2金钱，打造了这场亵渎电影艺术、毫无灵魂的闹剧，还损失了-N2灵魂。不出所料，电影空洞无物，根本没人喜欢。
+english_events_maingame:L8569,badinvestments,FIX,I REFUSE TO KNOW FAILURE! THROW MONEY AT IT UNTIL IT WORKS!,我不得不知道错误! 把钱扔到它的工作!,老娘的字典里没有失败！砸钱！砸到它成功为止！
+english_events_maingame:L8571,badinvestments,FIX,"So you do, spending -N2 MONEY again. Over time, you attract more investors who see some sort of late-capitalist potential in the RCU.","所以你又花了2个钱 随着时间的推移,你吸引了更多的投资者,他们看到区域协调单位的某种后期资本主义潜力。",于是你又砸了-N2金钱。慢慢地，更多投资人加入了进来，在石头电影宇宙里看到了某种晚期资本主义潜力。
+english_events_maingame:L8573,badinvestments,FIX,"You get invited to some Hollywood producer parties. You gain +N2 STAMINA from the open bars and +N2 MAGIC from the ""creativity-enhancing powder"" they let you snort.","你被邀请参加好莱坞的制作人派对 打开的栏杆可以得到+N2 STAMINA,而+N2 MAGIC则可以从他们让你吸的""创造力增强粉""中获取.",你受邀参加了一些好莱坞制片人的派对。免费畅饮的酒水让你获得了+N2体力，他们让你吸的“创意增强粉”则让你获得了+N2魔力。
+english_events_maingame:L8575,badinvestments,FIX,"HOLY SHITBALLS, I JUST HAD A GREAT IDEA. WE NEED TO MAKE AN RCU THEME PARK!","神圣的狗屎,我只是有一个伟大的想法。 我们需要做一个区域站 主题公园!",我操，我刚想到个绝妙的点子。咱们得建个石头电影宇宙主题乐园！
+english_events_maingame:L8576,badinvestments,FIX,AND CAN WE MAKE A MOTORCYCLE THAT'S ALSO A COFFEE MACHINE? THAT WOULD FUCK! PUT THAT IN THE MOVIE TOO!,我们能做一个摩托 这也是一个咖啡机? 那会他妈的! 也把那个放在电影里!,还能不能造一辆兼当咖啡机的摩托车？那他妈得多酷啊！也给我拍进电影里！
+english_events_maingame:L8577,badinvestments,FIX,AND DRUGS! DRUGS ARE COOL! ADD DRUGS TO THE RCU!,和毒品! 和毒品! 和毒品! 和毒品! 和毒品! 和毒品! 和毒品! 和毒品! 和毒品! 和毒品! 和毒品! 毒品是凉爽的! 给区域协调单位注射毒品!,还有毒品！毒品多酷啊！把毒品也加进石头电影宇宙！
+english_events_maingame:L8579,badinvestments,POLISH,"You have to bail out of this money-pit eventually, but at least you gained +N2 HYPE while it lasted.",你最终必须从这个钱坑里保释出来 但至少你在这期间得到了+N2 HYPE.,最后你还是得退出这个无底洞，不过至少在这期间获得了+N2热度。
+english_events_maingame:L8580,badinvestments,FIX,"And over the years, from time to time, you hear about some new development in the ""extended RCU"" that the current showrunners are doing.","多年来,不时,你们听到一些新的发展, 正在""扩展的区域协调单位"", 目前的出演者正在做。",此后的几年里，你时不时还会听说，接手的主创又给“石头扩展电影宇宙”加了些什么新东西。
+english_events_maingame:L8581,badinvestments,POLISH,"Good work contributing to the slow death of art, champ. Now, back to the road trip!","不错的工作,为艺术的缓慢死亡做出了贡献,冠军。 现在,回到公路旅行!",干得漂亮，朋友，你也为艺术的慢性死亡添了把力。好了，继续公路旅行吧！
+english_events_maingame:L8589,rockbrand,POLISH,Bring the shop to the next level,把店铺推到下一个高度,把这家店的生意做大
+english_events_maingame:L8593,rockbrand,POLISH,You and your friends get out of the car and enter... whatever this place is.,你和你的朋友下车然后... 不管这里是什么,你和朋友们下了车，走进……也不知道这到底算什么地方。
+english_events_maingame:L8595,rockbrand,FIX,"Welcome to my ""Gift Shop,"" gullible consumers! Feast your eyes on my shelves of products!","欢迎来到我的""美食店"" 高贵的消费者! 眼睛睁大点,我的产品架子上!",好骗的消费者们，欢迎来到我的“礼品店”！尽情欣赏满架子的商品吧！
+english_events_maingame:L8596,rockbrand,POLISH,"Yeah, you've got a lot of cool rocks and stuff for sale here! What does all this stuff do?","是啊,你有很多 很酷的石头和东西在这里出售! 这些东西都干什么的?",对啊，你这儿有好多酷酷的石头什么的！这些东西都有什么用啊？
+english_events_maingame:L8597,rockbrand,POLISH,"Haha, why ask questions when you can just enjoy things in ignorant bliss?","哈哈,为什么问问题 当你可以享受 事物在无知的幸福中?",哈哈，什么都不懂，开开心心地享受不就好了，干嘛非要问呢？
+english_events_maingame:L8598,rockbrand,KEEP,"Hey, good point!","嘿,说得好!","嘿,说得好!"
+english_events_maingame:L8599,rockbrand,POLISH,"Noodles, you've got a really great business idea here. Have you ever considered bringing this little ""Gift Shop"" stand to the next level?","面条,你有一个非常好的 商业想法在这里。 你有没有想过把这个小""吉普店""的摊位 带到下一个关卡?",面条，你这生意点子真不错。想没想过把这个“礼品店”小摊做大？
+english_events_maingame:L8600,rockbrand,POLISH,"Of course! Soon, my shop and I will ascend to the next evolutionary level, and then I will fight God!","当然了! 很快,我和我的店会升入下一个进化阶段, 然后我会对抗上帝!",当然！很快，我和我的店就会升上更高的进化层次，然后我就要跟上帝干一架！
+english_events_maingame:L8601,rockbrand,POLISH,"Cool, cool, but how are you gonna profit from that?","酷,酷,但你怎么能从中获利?",酷，挺酷。可这怎么赚钱啊？
+english_events_maingame:L8602,rockbrand,POLISH,"Hmm, I guess I never considered that. Do you have any ideas?","嗯,我想我从来没有考虑过。 你有什么想法吗?",嗯，这我还真没想过。你有什么主意吗？
+english_events_maingame:L8603,rockbrand,FIX,"Oh, yeah. My friends and I are TOTAL Business Masterz. Tell him, Scott!","哦,对了。 我的朋友和我都是生意大师 告诉他 斯科特!",那当然。我跟我的朋友们，可都是货真价实的生意大师！斯科特，告诉他！
+english_events_maingame:L8604,rockbrand,FIX,Can't talk now. I was smelling Noodles' mystery rocks and got one stuck up my nose.,现在不能说话了 我闻到面条的神秘岩石 鼻子上卡了个,现在说不了。我刚才闻面条的神秘石头，有一块卡鼻子里了。
+english_events_maingame:L8605,rockbrand,FIX,INHALE HARDER! EMBED MY CREATIONS INTO YOUR BRAIN!,吸血药! 把我的心跳弹入你的脑海!,再使劲吸！让我的作品嵌进你的脑子里！
+english_events_maingame:L8606,rockbrand,POLISH,"Okay, %CURRENTPLAYERNAME%, it's up to you. Tell Noodles all about how we're gonna turn this little roadside stand into the hottest shop in the middle of nowhere!",%CURRENTPLAYERNAME%由你决定吧 告诉面条我们怎么把路边的小摊子 变成荒郊野外最热闹的店!,好吧，%CURRENTPLAYERNAME%，靠你了。告诉面条，咱们要怎么把这个路边摊，变成荒郊野外最火的店！
+english_events_maingame:L8607,rockbrand,FIX,Guerrilla marketing: throw the products at unexpecting pedestrians. They will surely notice it when it hits their faces. And you can sell them more rocks to fight back!,"游击行销:将产品扔给未预料到的行人. 当它来临的时候,他们必定觉悟。 你可以卖出更多的石头来反击!",搞游击营销：把商品扔向毫无防备的路人。砸到脸上，他们肯定就注意到了。还能卖他们更多石头，让他们扔回来！
+english_events_maingame:L8608,rockbrand,FIX,"Plan a big, complex media strategy to redefine rock beauty canons so you can legally name these ""precious stones"" and sell them at a higher price point.","计划一个大型复杂的媒体策略,重新定义岩石美食罐,这样你就可以合法地命名出这些""宝石"",并在更高的价格点出售.",制定一套庞大复杂的媒体策略，重新定义石头的审美标准，好名正言顺地把这些东西叫作“宝石”，卖得更贵。
+english_events_maingame:L8610,rockbrand,POLISH,Our whole strategy is just throwing rocks at people? Won't that make everyone mad at us?,我们的整个策略就是向人们扔石头? 会不会让大家都生我们的气?,咱们的策略就只是拿石头砸人？大家不会生我们的气吗？
+english_events_maingame:L8611,rockbrand,FIX,"Well, it's like they say: ""Fuck around and find out!""","就像他们说的""滚蛋去查清楚""",俗话说得好：“作一作，就知道了！”
+english_events_maingame:L8612,rockbrand,POLISH,"Noodles, with no hesitation or remorse, throws a rock at a passing pedestrian's forehead.",面条一一不犹豫或悔恨地向行人行走前额扔出一石.,面条毫不犹豫，也毫无悔意，抄起石头就往一名路人的脑门上砸。
+english_events_maingame:L8613,rockbrand,POLISH,"""OW!"" says the pedestrian. ""Why would you do that? You could've killed me!""","""OW!""行者说. ""你为什么要这么做? 你本可以杀了我的!""",路人叫道：“嗷！你干嘛啊？差点就砸死我了！”
+english_events_maingame:L8614,rockbrand,POLISH,"Trust me, dear customer: were it not for the laws of this land, I would have joyfully slaughtered you.",相信我 亲爱的顾客 如果不是这个地的法律 我一定会杀了你,相信我，亲爱的顾客，要不是本地法律不允许，我早就开开心心把你宰了。
+english_events_maingame:L8615,rockbrand,POLISH,"You, Polly, and Noodles throw more rocks at passers-by. If they didn't want rocks thrown at them, why did they come to the desert in the first place, right?","你,你是谁? 波莉面条会向路人扔出更多的石头 如果他们不想被石头砸到 他们为什么一开始就跑到沙漠去,对吧?",你、波莉和面条又朝路人扔起了石头。不想挨石头砸，干嘛还来沙漠，对吧？
+english_events_maingame:L8616,rockbrand,FIX,"Soon, an angry mob with a collective headache confronts Noodles' stand. ""Why are you throwing rocks at us?!"" they demand.","很快,一群愤怒的暴徒 头痛的人群 面对面条的站。 ""你为什么朝我们扔石头?"" 他们要求的",很快，一群被砸得头痛、怒气冲冲的人围住了面条的摊位，质问道：“你为什么拿石头砸我们？！”
+english_events_maingame:L8617,rockbrand,POLISH,"Because I'm sick and twisted! But for a small fee, you can buy a rock of your own to throw back at me!","因为我病了,而且扭曲! 但只要小费,你可以买出自己的石头来回向我扔!",因为我又变态又扭曲呀！不过只要花一小笔钱，你就能买块自己的石头，扔回来砸我！
+english_events_maingame:L8618,rockbrand,POLISH,"""Fine, we will! Hope you like the taste of granite, motherfucker!""","""好,我们会的! 希望你喜欢花岗岩的味道,混蛋!""",“好啊，买就买！等着尝尝花岗岩的滋味吧，混蛋！”
+english_events_maingame:L8619,rockbrand,FIX,"They buy rocks to throw at Noodles. Noodles ducks, and the rocks phase right through Polly's forehead and hit MORE innocent bystanders.","他们买石头去扔面条 面条鸭子,岩石相接 波莉额头和击中更多的无辜的旁观者。",他们买了石头砸向面条。面条一闪，石头穿过波莉的额头，又砸中了更多无辜路人。
+english_events_maingame:L8620,rockbrand,FIX,"Check it out! Word-of-mouth marketing! We did it, guys!","看看这个! 口口口口口传销! 我们成功了,伙计们!",快看！口碑营销！伙计们，咱们成功了！
+english_events_maingame:L8621,rockbrand,POLISH,"What you did was start an all-out rock-throwing war in the middle of the desert as people buy more rocks to throw at each other. Success, you guess?",你所做的是在沙漠中部发动一场 全面抛出石头的战争 人们购买更多的石头 互相扔来扔去 成功吗?,你们的成果，是在沙漠中央掀起了一场全面石战。人们不断买更多石头互砸。这就算成功了吧？
+english_events_maingame:L8622,rockbrand,POLISH,"After lots of market research, I think we can say for sure that throwing rocks at strangers isn't nice.","经过许多市场研究,我想我们可以肯定地说,向陌生人扔石头是不善事的.",做了这么多市场调研，我想可以确定：朝陌生人扔石头，是不好的。
+english_events_maingame:L8623,rockbrand,FIX,"Yeah, fine, we lost -N2 SOUL. But Noodles paid us +N2 MONEY in consultancy fees. With that kinda cash, we can buy good karma!","- 是啊,我们输了 - N2 SOUL。 但面条公司给我们+N2 MONEY的咨询费. 有了这些钱,我们就能买到好货了!",是啦，我们失去了-N2灵魂。可面条付了我们+N2金钱的咨询费。有这么多钱，还怕买不到好报应？
+english_events_maingame:L8625,rockbrand,FIX,"You, Polly, and Scott put your heads together and lose -N2 MIND drafting up your marketing strategy to turn this granite into green.","你,你是谁? 波莉,以及 斯科特 将花岗岩变成绿色。",你、波莉和斯科特凑在一起，绞尽脑汁，损失了-N2头脑，终于拟出一套把花岗岩变成钞票的营销方案。
+english_events_maingame:L8626,rockbrand,FIX,"How sweetly cynical! You're twisting the ""everyone is beautiful"" movement to convince others that my worthless stones are precious gems!","多么甜蜜的愤世嫉俗! 你扭曲了""每个人都是美丽的""运动,以说服别人,我的一文不值的石头是珍贵的宝石!",好一手甜美的犬儒主义！你们歪曲“每个人都很美”的理念，说服别人相信，我这些一文不值的石头也是珍贵宝石！
+english_events_maingame:L8627,rockbrand,POLISH,"Hey, c'mon, your definition is a really narrow way of looking at what we're trying to do here.","嘿,来吧,你的定义 是一个非常狭窄的方式 来看待我们在这里试图做什么。",哎，别这么说嘛。你这么理解我们想做的事，就有点狭隘了。
+english_events_maingame:L8628,rockbrand,POLISH,"Sure, our marketing strategy seems like a mockery of redefining beauty standards, and it kinda plays on the idea that external beauty is equivalent to one's value...","当然,我们的营销策略似乎在嘲弄重新定义美容标准,它有点在玩弄一种想法,即外部美相相当于一个人的价值......",没错，我们的营销策略看着像在拿“重新定义审美标准”开涮，也有点利用了“外貌等于价值”的想法……
+english_events_maingame:L8629,rockbrand,FIX,But what we're REALLY doing is giving a big ol' middle finger to the precious gems industry. They've been committing crimes against monstrosity for YEARS.,但我们真正要做的是 给珍贵的宝石产业一个大指头。 他们已经犯罪多年了,可我们真正要做的，是狠狠给珠宝行业竖个中指。他们犯下反怪物罪都多少年了。
+english_events_maingame:L8630,rockbrand,POLISH,Gem companies create forced scarcity of their products and inflate the prices to convince you that diamonds are worth millions. But it's all a lie!,"宝石公司造成产品被强制稀缺,并抬高价格,以说服你钻石价值数百万. 但这一切都是谎言!",珠宝公司人为制造稀缺，抬高价格，让你相信钻石价值几百万。其实全是骗局！
+english_events_maingame:L8631,rockbrand,POLISH,"So if they're gonna use slave labor and market manipulation to sell their shiny rocks, why don't we fight the corrupt gem market with these regular rocks?","如果他们要利用奴隶劳动和市场操纵 来出售闪亮的岩石, 我们为什么不用这些普通的岩石来打击腐败的宝石市场呢?",既然他们能靠奴工和操纵市场来卖亮晶晶的石头，我们为什么不能用普通石头对抗这腐败的珠宝市场？
+english_events_maingame:L8632,rockbrand,FIX,AND WE'LL MAKE LOTS OF MONEY AT THE SAME TIME! EVERYONE (who matters) WINS!,同一时间我们会赚很多钱的 每个人(谁重要) WINS!,顺便还能大赚一笔！所有人——所有重要的人——都赢了！
+english_events_maingame:L8633,rockbrand,FIX,"Wow! You gain +1 VALUABLE INSIGHT from this conversation (which isn't a stat in this game, but maybe it'll come in handy someday).","哗! 你从这个对话中获得了+1 VALUBLE INSIGHT(这在这场游戏中不是一个统计,但也许有一天会有所帮助).",哇！这番对话让你获得了+1宝贵见解（虽然这不是本游戏的属性，不过没准哪天能派上用场）。
+english_events_maingame:L8634,rockbrand,FIX,"More to the point, your marketing campaign works, and Noodles is soon rolling in that sweet ""precious stones"" money. He pays you +N2 MONEY for your help.","更何况你的营销运动也奏效了 面条很快就会滚入那块""珍贵的""钱里 他付你钱+N2钱来帮你",更实际的是，营销活动成功了，面条很快就靠这些“宝石”赚得盆满钵满。他付了你+N2金钱作为酬谢。

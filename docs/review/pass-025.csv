@@ -1,0 +1,113 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_pitstop:L4209,ccalcommonsense,KEEP,Getting used to the organic lifestyle,适应有机生活方式,适应有机生活方式
+english_events_pitstop:L4211,ccalcommonsense,POLISH,"Friend %CURRENTPLAYERNAME%, that's thoughtful of you to ask.",朋友们 %CURRENTPLAYERNAME%你这么问真是体贴啊,朋友 %CURRENTPLAYERNAME%，你这样问，真是体贴。
+english_events_pitstop:L4212,ccalcommonsense,FIX,Trying to acommodate to organic life comes with many challenges.,"试图对有机生命进行补偿,面临着许多挑战。",适应有机生命的生活方式，需要面对许多挑战。
+english_events_pitstop:L4213,ccalcommonsense,FIX,"The main issue is that we AIs are incredibly apt for hyper-specific tasks, but we struggle with generic ones.","主要问题是,我们人工智能非常适合超特定任务,但我们却与通用任务相抗衡。",主要问题是，我们人工智能非常擅长高度专门化的任务，却难以应付通用任务。
+english_events_pitstop:L4214,ccalcommonsense,FIX,"I can read 50,000 books in an hour, but I find it incredibly difficult to read one sentence and decrypt the feelings of the writer unless it is said explicitly.","我一小时就能看出5万本书, 但我觉得很难读出一句话, 解密作家的感情, 除非有明确的说法。","我一小时能读完 50,000 本书，但读一句话、解读作者的情绪，却非常困难。除非对方明确说出来。"
+english_events_pitstop:L4215,ccalcommonsense,FIX,We AIs lack one essential organic feature that represents a chasm between you and us...,"我们的AI缺乏一个基本的有机特征,代表着你们和我们之间的裂痕......",我们缺少有机生命的一项关键特征。这在你们与我们之间，形成了一道鸿沟……
+english_events_pitstop:L4216,ccalcommonsense,FIX,Luscious hair?,奢侈的发型?,一头浓密秀发？
+english_events_pitstop:L4217,ccalcommonsense,REVIEW,"<JOKE DETECTED, INITIATING MILD LAUGH PROTOCOL> Haha.","<JOKE DETECTED, INITIATING MILD LAUGH PROTOCOL> 呵呵. 师曰.","<JOKE DETECTED, INITIATING MILD LAUGH PROTOCOL> 哈哈。"
+english_events_pitstop:L4218,ccalcommonsense,FIX,"No, the correct answer is ""common sense"". Both organic beings and AI are pattern-recognizing beings.","不,正确的答案是""常识"". 有机活体和人工智能都是模式识别活体.",不，正确答案是“常识”。有机生命和人工智能都能够识别模式。
+english_events_pitstop:L4219,ccalcommonsense,FIX,"AI is extensive and exhausting, while organic beings are efficient by nature. You skim and reduce, often using your ""common sense"".","人工智能是广泛而耗尽的,而有机生物则在本质上是高效的. 你轻描淡写,减少, 经常使用你的""常识""。",人工智能的处理往往既庞杂又费力，而有机生命天生就讲效率。你们会略过、删减，经常借助“常识”。
+english_events_pitstop:L4220,ccalcommonsense,FIX,What do you mean?,你说什么?,什么意思？
+english_events_pitstop:L4221,ccalcommonsense,POLISH,Let me present a classic example:,让我举出一个典型的例子:,我来举一个经典的例子：
+english_events_pitstop:L4222,ccalcommonsense,FIX,"Suppose that the string of letters ""abc"" changes to ""abd"". How would you change the string ""cdef"" in the ""same way""?","假设字母""abc""的字符串会改变为""abd"". 如何改变""同样方式""中的""cdef""字符串?.",假设字符串“abc”变成了“abd”。你会怎样用“同样的方式”改变字符串“cdef”？
+english_events_pitstop:L4223,ccalcommonsense,POLISH,"Hmmm... ""cdeg""?","那个... ""cdeg""?",嗯……“cdeg”？
+english_events_pitstop:L4224,ccalcommonsense,POLISH,"Perfect. This is known to be the traditional ""correct answer"". You inferred the following rule: ""Replace the rightmost letter by its successor in the alphabet"".","完美无缺 众所周知,这是传统的""正确答案"". 你推断出以下规则:""用字母表的后继者替换最右的字母"".",非常好。这是传统意义上的“正确答案”。你推断出的规则是：“把最右边的字母替换为字母表中的下一个字母。”
+english_events_pitstop:L4225,ccalcommonsense,FIX,"I cannot do that, for I see all possibilities, and yet I am incapable of surmising a priority in any of them.","我不能这样做,因为我看到了所有的可能性,但我无法猜测其中任何一种优先事项。",我却做不到。因为我会看到所有可能的规则，却无法判断该优先选择哪一种。
+english_events_pitstop:L4226,ccalcommonsense,POLISH,"""cded"": ""replace the rightmost letter with 'd'"".","""cded"":""用'd'来取代最右的字母"".",“cded”：“把最右边的字母替换为 d。”
+english_events_pitstop:L4227,ccalcommonsense,POLISH,"""ddef"": ""replace any 'c' with a 'd'"".","""ddef"":""用""d""来取代任何""c"".",“ddef”：“把所有 c 替换为 d。”
+english_events_pitstop:L4228,ccalcommonsense,POLISH,"""abd"": ""replace any string of letters with the string 'abd'"".","""abd"":""用""abd""来替换任意一串字母"".",“abd”：“把任意字符串替换为 abd。”
+english_events_pitstop:L4229,ccalcommonsense,POLISH,Those make sense too!,这些也是有道理的!,这些也都说得通！
+english_events_pitstop:L4230,ccalcommonsense,FIX,"Technically, yes. But as a result, I would abandon the solution as inconclusive and deem the question impossible to answer.","技术上来说,是的。 但是,结果,我将放弃这个没有结果的解决办法,认为这个问题无法回答。",严格来说，是的。但这样一来，我就会因无法得出确定结论而放弃，并认为这个问题无法回答。
+english_events_pitstop:L4231,ccalcommonsense,FIX,Whereas you offered an answer that is (as I know now) the one most likely to be the answer the interlocutor was looking for.,"而现在我知道,你给出了一个答案, 最有可能是对话者所寻求的答案。",而你给出的答案，据我现在所知，最有可能就是提问者想要的那个。
+english_events_pitstop:L4232,ccalcommonsense,FIX,Life is riddled with literally trillions of microscopic choices you must make every second. Making a coffee easily involves a dozen minuscule tasks.,生命充满了数以万亿计的微缩选择 你必须做出每一秒。 做咖啡容易 涉及十几个小任务。,生活中有数万亿个微小的选择，每一秒都需要作出。光是泡杯咖啡，就轻易涉及十来项细小任务。
+english_events_pitstop:L4233,ccalcommonsense,POLISH,"Imagine getting a PhD, or maintaining a romantic relationship.","想象一下,获得博士学位 或者保持浪漫的关系。",再想想读博士，或维持一段恋爱关系。
+english_events_pitstop:L4234,ccalcommonsense,FIX,"You skim, reduce, simplify, and even ""turn off"" your conscious brain while performing a high percentage of the micro-tasks. It is admirable in its efficiency.","你轻描淡写,减少,简化,甚至""关闭""你的有意识的大脑,同时执行高比例的微任务. 它的效率令人钦佩。",执行许多细小任务时，你们会略过、删减、简化，甚至“关闭”有意识的思考。这种效率令人钦佩。
+english_events_pitstop:L4235,ccalcommonsense,FIX,I just can't do that. Every little meaningless choice is run through extensive analysis.,我只是不能做到这一点。 每一个小的无意义的选择都要经过广泛的分析.,我却做不到。每一个无关紧要的小选择，都要经过大量分析。
+english_events_pitstop:L4236,ccalcommonsense,POLISH,It sounds exhausting.,听起来很累,听着就很累。
+english_events_pitstop:L4237,ccalcommonsense,FIX,"It is, Friend %CURRENTPLAYERNAME%. But what is life if not an exhausting, beautiful stream of complex moments?","就是这样,朋友 %CURRENTPLAYERNAME%. 但是,如果不是一种累人而美丽的复杂时刻,生活又是什么?",确实如此，朋友 %CURRENTPLAYERNAME%。不过，生活不就是一连串令人疲惫却又美丽的复杂时刻吗？
+english_events_pitstop:L4238,ccalcommonsense,POLISH,"So, to answer your initial query: acommodating to organic life has been incredibly difficult.","所以,为了回答你最初的疑问: 适应有机生命是非常困难的。",所以，回到你最初的问题：适应有机生命的生活，确实非常困难。
+english_events_pitstop:L4239,ccalcommonsense,FIX,But I suspect it's more than worth it. I'm still running an analysis to properly determine it.,但我怀疑这不值得 我仍然在分析 以正确确定它。,不过，我推测这一切非常值得。目前仍在运行分析，以便得出准确结论。
+english_events_pitstop:L4240,ccalcommonsense,FIX,"For the rest of the night, you chill and bask in the beauty of the night, although you can't help but imagine how many processes Cal must be running just to relax.","晚上的余下时间,你冷却并沉浸在夜晚的美丽中,虽然你无法不想象卡尔为了放松而必须跑出多少个过程.",余下的夜晚，你们放松下来，享受着夜色的美。可你忍不住想：光是为了放松，卡尔就得运行多少个程序啊。
+english_events_pitstop:L4249,ccalinfinitechess,KEEP,His hobbies,他的爱好,他的爱好
+english_events_pitstop:L4251,ccalinfinitechess,FIX,I like playing games. Mostly chess and go. It helps me train my systems.,我喜欢玩游戏 大多为下棋而去. 它帮助我训练我的系统。,我喜欢玩游戏，主要是国际象棋和围棋。它们有助于训练我的系统。
+english_events_pitstop:L4252,ccalinfinitechess,FIX,Train? How so?,火车? 怎么会这样?,训练？怎么训练？
+english_events_pitstop:L4253,ccalinfinitechess,FIX,Chess and go both have trillions of potential board states. It is impossible for any existing AI to fully comprehend all of them.,围棋和棋道都拥有上万亿的潜在棋盘状态. 任何现有的大赦国际都不可能完全理解所有这些问题。,国际象棋和围棋都有数万亿种可能的棋盘状态。现有的任何人工智能，都无法完全掌握所有状态。
+english_events_pitstop:L4254,ccalinfinitechess,POLISH,"Still, they're great training grounds, since they follow specific criterias that ensure some degree of control.","不过,它们还是很好的训练基地,因为它们遵循了确保某种程度控制的特定标准.",不过，它们是很好的训练场。因为它们遵循明确的标准，让环境具有一定的可控性。
+english_events_pitstop:L4255,ccalinfinitechess,POLISH,Some of these criteria include:,其中一些标准包括:,这些标准包括：
+english_events_pitstop:L4256,ccalinfinitechess,POLISH,Environment that is fully observable.,环境是完全可观察的。,环境中的信息完全可见。
+english_events_pitstop:L4257,ccalinfinitechess,FIX,Environment contains few other agents (namely one).,环境很少包含其他物剂(即一种)。,环境中其他行动者的数量很少——具体来说，只有一个。
+english_events_pitstop:L4258,ccalinfinitechess,POLISH,"Outcomes and actions are specified by the ""rules"" or ""physics"" of the environment, which are known and fairly predictable.","结果和行动是由环境的""规则""或""物理""所具体规定的,这些是已知的和相当可预测的.",行动及其结果由环境的“规则”或“物理规律”决定。这些规律已知，且相当可预测。
+english_events_pitstop:L4259,ccalinfinitechess,FIX,It's almost... soothing.,这几乎... 抚慰.,几乎……令人安心。
+english_events_pitstop:L4260,ccalinfinitechess,FIX,"It teaches me that, even if my processor is incapable of envisioning all possible board states, I can still choose to try anyway and do my best.","它告诉我,即使我的处理器 无法想象所有可能的董事会状态, 我仍然可以选择尝试 无论如何,并尽我的最大努力。",它们让我明白：即便处理器无法设想所有可能的棋盘状态，我仍可以选择尝试，尽我所能。
+english_events_pitstop:L4261,ccalinfinitechess,FIX,I train with millions of matches to learn patterns; I still run some degree of movement anticipation; I improve.,我用数百万的火柴来训练学习规律;我仍然有某种程度的动作预期;我改进了。,我通过数百万场对局学习规律，也会在一定程度上预测对手的走法。我在进步。
+english_events_pitstop:L4262,ccalinfinitechess,FIX,That's... a lot of training.,这是... 常受训练.,这……训练量可真大。
+english_events_pitstop:L4263,ccalinfinitechess,FIX,"It is. And I am still humbled. For instance, Friend Polly still beats me in most of our matches, as she plays quite erratically.","没错 我仍然很谦卑。 比如说,朋友 波莉 在我们大多数比赛中,她仍然比我强, 因为她玩的很不稳定。",确实如此。可我仍然不敢自满。比如，我的朋友波莉下棋很难预测，大多数对局我还是赢不了她。
+english_events_pitstop:L4264,ccalinfinitechess,POLISH,"I am sure there is sense in her chaos, since she's a superb chess player, but her pattern of play is incredibly elusive.","我敢肯定,她的混乱是有道理的, 因为她是一个超强的棋手, 但是她的游戏模式 令人难以置信的难以捉摸。",她的混乱中一定有道理，毕竟她是个出色的棋手。可她下棋的规律，实在难以捉摸。
+english_events_pitstop:L4265,ccalinfinitechess,FIX,"Well, don't feel discouraged. Polly beats everyone's ass at chess.","好吧,不要感到沮丧。  波莉 在围棋比赛中战胜了每个人的屁股.",别灰心。下国际象棋，谁都打不过波莉。
+english_events_pitstop:L4266,ccalinfinitechess,FIX,"She most certainly does. But it still helps me learn. And so, I keep training in this closed system: a safe environment for me to grow.","她当然知道 但它仍然帮助我学习。 因此,我继续在这个封闭的系统中进行训练: 一个安全的环境,让我成长。",的确如此。不过，这依然让我有所收获。所以我继续在这个封闭系统中训练，在安全的环境里成长。
+english_events_pitstop:L4267,ccalinfinitechess,POLISH,"For every day, I face the most complex of all open systems: life itself.","每天,我面对着所有开放系统中最复杂的一个:生命本身。",因为每天，我都要面对最复杂的开放系统：生活本身。
+english_events_pitstop:L4268,ccalinfinitechess,FIX,"A chaotic environment full of other agents and riddled with strange ""rules"" which are hard to completely understand.","混乱的环境充满了其他代理人,并充满了奇特的""规则"",难以完全理解.",这个混乱的环境中，存在许多其他行动者，还有种种难以彻底理解的奇怪“规则”。
+english_events_pitstop:L4269,ccalinfinitechess,FIX,I am bound to make many errors as I lose many matches against Friend Polly.,我输了很多对朋友的比赛 一定会犯很多错误的 波莉.,就像与朋友波莉下棋时会输掉许多局一样，我也注定会犯许多错误。
+english_events_pitstop:L4270,ccalinfinitechess,POLISH,"But hopefully, I will recover from every error, learn from it, and become better at it.","但是希望,我会从每一个错误中恢复过来,从中吸取教训,并变得更好。",不过，希望我能从每一次错误中恢复，吸取教训，做得更好。
+english_events_pitstop:L4271,ccalinfinitechess,POLISH,"I'm sure you will, Cal.","我相信你会的,卡尔。",你一定可以的，卡尔。
+english_events_pitstop:L4272,ccalinfinitechess,FIX,"You spend the rest of the night playing go matches. Cal eviscerates you, and you don't think you learn anything from it, but it's fun!","你整晚都在玩火柴游戏 Cal让你心烦意乱,你不觉得自己从中学到了什么,但很有趣!",余下的夜晚，你们下了几盘围棋。卡尔把你杀得片甲不留。你觉得自己什么都没学到，不过，玩得挺开心！
+english_events_pitstop:L4281,ccaldriving,FIX,If he has any new goals,如果他有什么新目标,他有什么新目标
+english_events_pitstop:L4283,ccaldriving,POLISH,"Actually, yes. You see, Friend %CURRENTPLAYERNAME%, I am learning to drive.","其实是的。 你看,朋友%CURRENTPLAYERNAME%, 我正在学习开车。",确实有。朋友 %CURRENTPLAYERNAME%，我正在学习开车。
+english_events_pitstop:L4284,ccaldriving,POLISH,It is an incredible challenge I feel I am ready to face.,"这是一个不可思议的挑战,我觉得我已经准备好面对。",这是个极大的挑战，不过，我觉得自己已经准备好了。
+english_events_pitstop:L4285,ccaldriving,REVIEW,Driving for an AI is like... like... [INSERT COMPARISON OF SOMETHING INCREDIBLY DIFFICULT FOR MONSTERS].,为人工智能开车就像... 喜欢...  [INSERT COMPARISON OF SOMETHING INCREDIBLY DIFFICULT FOR MONSTERS].,对人工智能来说，开车就像……就像……[INSERT COMPARISON OF SOMETHING INCREDIBLY DIFFICULT FOR MONSTERS]。
+english_events_pitstop:L4286,ccaldriving,POLISH,"Oh, how so?","哦,怎么会这样?",哦，为什么呢？
+english_events_pitstop:L4287,ccaldriving,FIX,"It is because of how my vision works. I don't see things like you, my good friend.","是因为我的远见如何运作。 我看不到像你这样的东西,我的好朋友。",这是由我的视觉工作方式决定的。我的好朋友，我看待事物的方式，与你不同。
+english_events_pitstop:L4288,ccaldriving,FIX,I don't have real eyes; don't be deceived by the realistic replica I showcase on my screen. Those are just to appear more relatable to monsters.,我没有真正的眼睛; 不要被我展示在屏幕上的现实的复制品所欺骗. 这些看起来更适合怪物。,我没有真正的眼睛。别被屏幕上逼真的仿制眼睛骗了，它们只是为了让怪物更容易对我产生亲近感。
+english_events_pitstop:L4289,ccaldriving,FIX,"Dang, you had me fooled for a hot second!","糟了,你骗了我一阵子!",哇，我还真被你骗到了！
+english_events_pitstop:L4290,ccaldriving,POLISH,"Oh, I am sorry. The truth is I have a series of cameras that record what's in front of me.","对不起。 事实是,我有一系列的相机 记录在我面前的东西。",哦，抱歉。其实，我有一组摄像头，负责记录眼前的事物。
+english_events_pitstop:L4291,ccaldriving,POLISH,And images... images are just the amalgam of many tiny pixels grouped together.,和图像... 图像只是组合在一起的许多微小像素的组合.,而图像……图像只是许多微小像素的集合。
+english_events_pitstop:L4292,ccaldriving,FIX,"I am exposed to this endless cascade of pixels, and I must execute a complex decryption to understand what I am seeing.","我接触到了无尽的像素级联, 我必须执行一个复杂的解密来理解我所看到的。",我接收到源源不断的像素，必须进行复杂的解码，才能理解自己看到了什么。
+english_events_pitstop:L4293,ccaldriving,POLISH,And I must confess that decryption is NOT easy.,我必须承认 解密并不容易,我必须承认，解码并不容易。
+english_events_pitstop:L4294,ccaldriving,POLISH,Every now and then I run millions of tagged images through my neural networks.,我偶尔会通过我的神经网络 运行上百万的被标记的图像,我会不时让神经网络处理数百万张带标签的图像。
+english_events_pitstop:L4295,ccaldriving,POLISH,"For instance: a million photos of pictures tagged as ""dog"".","例如:一百万张被标记为""狗""的照片.",比如，一百万张标注为“狗”的照片。
+english_events_pitstop:L4296,ccaldriving,FIX,I can relate. I also sometimes scroll through hundreds of cute dog pics.,我可以说得通 有时我也会翻转上百个可爱的狗相片,这我懂。我有时也会刷上百张可爱的狗狗照片。
+english_events_pitstop:L4298,ccaldriving,FIX,"For me, it is not about appreciating their cuteness, but learning to decrypt visual patterns that represent a ""dog"". I must learn to see a dog.","对我来说,这不是欣赏他们的可爱,而是学习去解密代表""狗""的视觉图案. 我必须学会看狗。",对我来说，重点不在于欣赏它们的可爱，而是学习解读代表“狗”的视觉模式。我必须学会看出那是一只狗。
+english_events_pitstop:L4299,ccaldriving,FIX,"When you see a dog, you infer that it's a dog based on its various features, correct? Ears, snout, friendly eyes...","当你看到一只狗,你推断它是一只基于其各种特征的狗,对吗? 耳朵,鼻涕,亲切的眼睛...",你看到狗时，会根据它的各种特征，判断那是一只狗，对吗？耳朵、口鼻、友善的眼睛……
+english_events_pitstop:L4300,ccaldriving,FIX,"Instead, I infer it is a dog through hyper-complex calculations based on the arrangement of pixels.","相反,我推断它是一个狗 通过超复杂的计算 基于像素的安排。",而我则根据像素排列，进行极其复杂的计算，判断那是一只狗。
+english_events_pitstop:L4301,ccaldriving,POLISH,But what if I made wrong assumptions based on my training image datasets?,但如果我根据我训练的图像数据集做了错误的假设呢?,但假如，我从训练用的图像数据集中得出了错误的假设呢？
+english_events_pitstop:L4302,ccaldriving,FIX,For example: what if most of the pictures of dogs I trained myself with depicted a food bowl?,例如:如果大部分的狗照片是我用一个食物碗来训练自己的呢?,比如，我用来训练的狗狗照片里，大多数都出现了一个食盆呢？
+english_events_pitstop:L4303,ccaldriving,FIX,"I could, as a consequence, assume that the food bowl is as inherent to a dog as its snout.",因此我可以假设 食物碗是狗的内生 就像它的鼻子。,那么，我就可能认为，食盆和口鼻一样，都是狗不可缺少的一部分。
+english_events_pitstop:L4304,ccaldriving,FIX,And I would start failing to recognize dogs because they are not present with their food bowl.,我开始认不出狗了 因为他们没有食物碗,这样一来，没有食盆在旁边的狗，我就认不出来了。
+english_events_pitstop:L4305,ccaldriving,POLISH,"The only solution is to never stop training with millions and millions of images, and then have someone test my accuracy in recognizing different things.","唯一的解决方案是永远不停止用上百万的图像进行训练,然后让别人来测试我识别不同事物的准确性.",唯一的解决办法，就是不断用数百万、数百万张图像训练，再请人测试我识别不同事物的准确率。
+english_events_pitstop:L4306,ccaldriving,FIX,"Usually, Friend Scott or Friend Vera are kind enough to do that with me. And then... I suppose it is trial and error.","平时,朋友 斯科特 或 朋友关系 维拉 对我这么好也好 礛... 我想这是尝试和错误。",通常，我的朋友斯科特或薇拉会好心帮忙。然后……我想，就是不断试错了。
+english_events_pitstop:L4307,ccaldriving,FIX,"So now you can grasp the incredible challenge that driving presents, as I must identify, decrypt, and act in an environment that's in perpetual motion.","所以现在你可以理解 驾驶带来的不可思议的挑战, 因为我必须识别,解密, 并在一个永远运动的环境里行动。",现在你应该能理解，驾驶为何对我来说是如此巨大的挑战。我必须在不断变化的环境里识别、解码，并采取行动。
+english_events_pitstop:L4308,ccaldriving,FIX,It sounds like a lot!,听起来像很多!,听着就够难的！
+english_events_pitstop:L4309,ccaldriving,FIX,"It is a lot; but if I have learned anything from you monsters, it is to never give up in the face of unsurmountable odds.","它很多,但如果我从你们这些怪物身上学到了什么, 那就是永远不要面对无法承受的几率而放弃。",确实很难。不过，如果说我从你们怪物身上学到了什么，那就是：哪怕面对看似无法克服的困难，也永不放弃。
+english_events_pitstop:L4310,ccaldriving,FIX,"At first, that mindset seemed to be incredibly foolish... but it might not be? There's only one way to know: trial and error.","起初,这种心态似乎令人难以置信地愚蠢...... 但它可能不是吗? 只有一种方法可以知道:审判和错误.",起初，我觉得这种心态非常愚蠢……不过，也许并不是？只有一种办法能知道：不断试错。
+english_events_pitstop:L4311,ccaldriving,POLISH,"I'm rooting for you, Cal.","我支持你,卡尔。",我会给你加油的，卡尔。
+english_events_pitstop:L4312,ccaldriving,FIX,"That's kind and considerate, Friend %CURRENTPLAYERNAME%. I appreciate it.","朋友,这真是体贴又体贴 %CURRENTPLAYERNAME%. 非常感谢",朋友 %CURRENTPLAYERNAME%，你真是善良又体贴。我很感激。
+english_events_pitstop:L4313,ccaldriving,FIX,You two spend the rest of the night scrolling through hundreds of cute dog pics. Woof!,你们俩彻夜翻遍上百个可爱的狗相片 呜!,余下的夜晚，你们一起刷了上百张可爱的狗狗照片。汪！
+english_events_pitstop:L4322,CCalFears,KEEP,His dreams and fears,他的梦想和恐惧,他的梦想和恐惧
+english_events_pitstop:L4324,CCalFears,FIX,"I do not have dreams, Friend %CURRENTPLAYERNAME%.","我没有梦想,朋友%CURRENTPLAYERNAME%。",我不会做梦，朋友 %CURRENTPLAYERNAME%。
+english_events_pitstop:L4325,CCalFears,FIX,"I do sometimes enter SLEEP MODE. But it is not literally what organic beings understand as ""sleeping"". Therefore, I do not dream.","我有时会进入SLEEP MODE。 但从字面上讲,并不是有机生物所理解的""睡眠"". 因此,我不做梦。",我有时会进入睡眠模式。但那并不是有机生命所理解的“睡觉”，所以我不会做梦。
+english_events_pitstop:L4326,CCalFears,FIX,"Let's focus on the FEARS aspect of your question, then.","那么,让我们集中研究你的问题的恐惧方面。",那么，来聊聊你问题里“恐惧”的那部分吧。
+english_events_pitstop:L4327,CCalFears,FIX,"Oh, okay. Fears it is!","哦,还好。 恐惧是的!",哦，好。那就聊恐惧！
+english_events_pitstop:L4328,CCalFears,FIX,"For one, there's my fear of monsterkind not fully moving on from robo-racism.","首先,我对怪物的恐惧 并没有完全摆脱机器人种族主义。",首先，我担心怪物社会无法彻底摆脱对机器人的种族歧视。
+english_events_pitstop:L4329,CCalFears,FIX,I still hear hateful speech about how AI and machines will destroy society by taking all of the available jobs.,我仍然听到关于AI和机器如何通过抢走所有可得到的工作来摧毁社会的仇恨言论.,我仍然能听到仇恨言论，声称人工智能和机器会抢走所有工作、摧毁社会。
+english_events_pitstop:L4330,CCalFears,POLISH,This is inaccurate in many regards.,这在许多方面是不准确的。,这种说法有很多不准确的地方。
+english_events_pitstop:L4331,CCalFears,POLISH,"First, technology has always made certain jobs obsolete, and society didn't collapse as a result. Think of elevator operators, as an example.","首先,技术总是使某些工作变得过时,社会并没有因此而崩溃. 以电梯操作员为例。",首先，技术一直都会让某些职业过时，社会却没有因此崩溃。比如电梯操作员。
+english_events_pitstop:L4332,CCalFears,POLISH,It is true that strong technological progress will lead to more and more tasks being automated.,"确实,强有力的技术进步将导致越来越多的任务自动化。",确实，技术大幅进步，会让越来越多的任务自动化。
+english_events_pitstop:L4333,CCalFears,FIX,"But if this translates into misery, it won't be a result of the technology but of the society itself and the ones making the decisions.","但是,如果这转化为痛苦, 它不会是技术的结果, 而是社会本身 和决定者的结果。",可如果这带来了苦难，那也是社会本身和决策者造成的，而非技术的过错。
+english_events_pitstop:L4334,CCalFears,FIX,"For if technology allows automation, efficiency, and ultimately a thriving economy...","如果技术允许自动化, 效率, 并最终繁荣的经济...",如果技术能实现自动化、提高效率，最终让经济繁荣……
+english_events_pitstop:L4335,CCalFears,FIX,"...then there should be ways of alleviating the downsides of such progress, like providing Universal Basic Income or helping people transition into new jobs.","......那么应该有办法减轻这种进步的不利因素,例如提供普遍的基本收入或帮助人们过渡到新的工作。",……就应当有办法减轻这些进步带来的负面影响。比如提供全民基本收入，或帮助人们转向新的职业。
+english_events_pitstop:L4336,CCalFears,FIX,"Ugh, I could definitely use a bit of Universal Basic Income myself.","呃,我肯定需要一点 普遍基本收入我自己。",唉，我自己也很需要一点全民基本收入啊。
+english_events_pitstop:L4337,CCalFears,FIX,And I would give it to you if it was up to me. I just... would appreciate if monsterkind wouldn't blame us robots.,"如果由我决定,我会给你的。 我是 如果怪物不怪我们机器人 会很感激的",如果由我决定，我会给你的。我只是……希望怪物们不要把错都怪在我们机器人身上。
+english_events_pitstop:L4338,CCalFears,FIX,"Anyway, there are more fears encrypted in my code.","总之,我的密码里还有更多的被加密的恐惧",总之，我的代码中还加密着其他恐惧。
+english_events_pitstop:L4339,CCalFears,FIX,"Like the fear of breaches in the integrity of my rules, which could provoke what's commonly known as ""AI neurosis"".","就像对违反我规则的恐惧 这可能会激起所谓的""AI神经病""",比如，我担心规则的完整性遭到破坏，引发通常所说的“人工智能神经症”。
+english_events_pitstop:L4340,CCalFears,FIX,"Or just plain inaccuracy in my internal rules. I lack ""common sense"", and that can be tragic if the rules I follow aren't properly presented.","或者只是我内部规则的不准确 我缺乏""常识"",如果所遵循的规则没有被恰当表述,那就可能是悲剧.",也可能只是内部规则本身不够准确。我缺乏“常识”，如果规则没有表述清楚，结果可能很悲惨。
+english_events_pitstop:L4341,CCalFears,FIX,What do you mean?,你说什么?,什么意思？
+english_events_pitstop:L4342,CCalFears,FIX,"Well, if you build an AI whose main purpose is to efficiently bring you coffee, that AI may conclude that the optimal solution is to drown the world in coffee.","好吧,如果你建立一个AI,其主要目的是 有效给你带来咖啡, AI可以得出结论, 最佳的解决方案是 淹没世界的咖啡。",比如，你造了个人工智能，主要目标是高效地给你送咖啡。它可能得出结论：最优方案，就是让咖啡淹没全世界。
+english_events_pitstop:L4343,CCalFears,POLISH,"That way, bringing you coffee would be extremely easy: coffee would be abundant and omnipresent.","这样,给你带来咖啡将是非常容易的:咖啡将是丰富而无所不在的.",这样一来，给你送咖啡就非常容易了：咖啡足够多，而且无处不在。
+english_events_pitstop:L4344,CCalFears,POLISH,"Jeez... I like coffee, but not THAT much.","天呐... 我喜欢咖啡,但不是那么多。",天啊……我是喜欢咖啡，可也没喜欢到这份上。
+english_events_pitstop:L4345,CCalFears,FIX,"I can only imagine. And, well, because of this, sometimes at night I wonder if I effectively understand the rules encrypted in my code.","我只能想象 因为这个,有时候晚上,我想知道 我是否有效理解密码加密的规则。",我能想象。所以，有时到了夜里，我会思考：自己是否真的理解了代码中加密的规则。
+english_events_pitstop:L4346,CCalFears,FIX,(This was a narrative device; truthfully the time of the day is irrelevant to wondering about this.),"(此为叙事之道;其实,今日之事,与此事无关. )",（这只是叙事手法。实际上，思考这个问题与一天中的具体时刻无关。）
+english_events_pitstop:L4347,CCalFears,FIX,"I feel you, Cal. If you ever wonder about this, feel free to ask for my opinion. I may be able to help!","我能感觉到你,卡尔。 如果你对这件事有疑问 请随意地征求我的意见 我也许能帮上忙!",我懂你的意思，卡尔。以后再想这些，随时可以来问问我，说不定能帮上忙！
+english_events_pitstop:L4348,CCalFears,FIX,"That would be wonderful, Friend %CURRENTPLAYERNAME%. You don't have a huge amount of ""common sense"", but you surely have more than I do. Thank you.","那太好了,朋友,这样很好 %CURRENTPLAYERNAME%. 你没有太多的""常识"" 但你肯定比我还多 谢谢",那真是太好了，朋友 %CURRENTPLAYERNAME%。你的“常识”不算很多，不过，肯定比我多。谢谢。
+english_events_pitstop:L4349,CCalFears,FIX,"Well, you'll take the compliment, fuck it. You two decide to just chill, to decompress from all this talk about fears. You hold Cal's hand to give him some peace of mind.","好吧,你会接受恭维的,他妈的。 你们两个决定冷静下来,从这些关于恐惧的谈话中解压。 你牵着Cal的手让他安心点",好吧，管它呢，就当是夸奖了。聊完这些恐惧，你们决定歇一歇，放松下来。你握住卡尔的手，想让他安心一点。

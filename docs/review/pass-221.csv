@@ -1,0 +1,226 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_maingame:L25420,platocave_eotr,KEEP,Rescue trapped people,救出被困人员,救出被困人员
+english_events_maingame:L25422,platocave_eotr,KEEP,-,-,-
+english_events_maingame:L25432,fakeghosts_eotr,FIX,Spook people by posing as ghosts,假扮鬼来害人,假扮幽灵吓人
+english_events_maingame:L25434,fakeghosts_eotr,FIX,You get a moment alone with Polly and Scott and pitch your sheet ghost idea to them. They're immediately onboard.,你一个人待会儿 波莉 财务报告和审定财务报表 斯科特 和你的床单鬼想法给他们。 他们马上上船了,你趁旁边没人，把披床单扮鬼的点子告诉了波莉和斯科特。他们立刻举双手赞成。
+english_events_maingame:L25435,fakeghosts_eotr,FIX,"You spy your first victim laying flowers on three graves. You sneak up behind the gravestones, wait for the right moment, and pounce!","你监视你第一个受害者 在三个坟墓上放花 你偷偷地爬到墓碑后面,等待正确的时机,并扑出!",你们发现了第一个目标：有人正在三座坟前献花。你们悄悄绕到墓碑后，瞅准时机，猛地跳了出来！
+english_events_maingame:L25438,fakeghosts_eotr,FIX,BOO!,鲍!,哇！
+english_events_maingame:L25441,fakeghosts_eotr,FIX,AWOOOO! I'm a ghost!,摆摆! 我是一个鬼!,嗷呜——！我是鬼！
+english_events_maingame:L25442,fakeghosts_eotr,FIX,"Eh, close enough.","嗯,够近了。",呃，也差不多吧。
+english_events_maingame:L25443,fakeghosts_eotr,FIX,"The mourner seems unphased, though.",哀悼者似乎没有阶段性。,可那位扫墓人似乎毫无反应。
+english_events_maingame:L25444,fakeghosts_eotr,FIX,Awooo?,阿乌?,嗷呜？
+english_events_maingame:L25445,fakeghosts_eotr,FIX,"I think they can't hear us, buddy...","我想他们听不到我们,伙计...",伙计，我觉得人家听不见我们……
+english_events_maingame:L25446,fakeghosts_eotr,FIX,"...or even see us, for that matter.","甚至看到我们,因为这件事。",……准确地说，连看都看不见。
+english_events_maingame:L25448,fakeghosts_eotr,FIX,"As you look at your cottonish ghost hands, you realize you're truly gone. You're no longer the center of your own story, but a witness to the world you've left behind.","当你看着你的棉质鬼手, 你意识到你真的走了。 你不再是你自己故事的中心,而是你留下的世界的见证.",你低头看着自己棉布做的幽灵双手，意识到自己真的已经不在了。你不再是自己故事的主角，只能旁观那个被你留在身后的世界。
+english_events_maingame:L25452,fakeghosts_eotr,KEEP,...,...,...
+english_events_maingame:L25455,fakeghosts_eotr,FIX,And this is how your road trip comes to an end... a game over of sorts.,这就是你旅途的结束 游戏结束了,你们的公路旅行就这样结束了……也算是一种游戏结束吧。
+english_events_maingame:L25457,fakeghosts_eotr,FIX,"But life must continue, even if you are no more.","但是生活必须继续下去,即使你不再是了。",可即使你们已经不在，生活仍要继续。
+english_events_maingame:L25459,fakeghosts_eotr,FIX,Another start; a new journey in this never-ending loop of road trips.,另一起; 一段新的旅程 道路旅行的无尽循环。,又一次启程。在永无止境的公路旅行循环中，一段新的旅途开始了。
+english_events_maingame:L25461,fakeghosts_eotr,FIX,"This catches you off-guard: life repeats, but now you're a quiet witness; a reluctant outsider.","这让你措手不及: 生活重复, 但现在你是一个安静的见证; 一个不情愿的外人。",这让你措手不及。生活再次上演，可你成了沉默的旁观者，被迫置身事外。
+english_events_maingame:L25462,fakeghosts_eotr,FIX,Life looks so strange when seen from the sidelines...,"生活看起来很奇怪,当看到 从边缘...",站在一旁看着生活，竟是如此陌生……
+english_events_maingame:L25464,fakeghosts_eotr,FIX,"It's you there, but it's also not you? Such a strange feeling.","是你,但也不是你吗? 感觉好奇怪",那里的明明是你，却又不是你？感觉真奇怪。
+english_events_maingame:L25465,fakeghosts_eotr,FIX,You look at your friends: they aren't talking anymore.,你看着你的朋友:他们不再说话了。,你看向朋友们。他们也不再说话了。
+english_events_maingame:L25466,fakeghosts_eotr,FIX,"Like you, they're quiet bedsheet ghosts, looking at these other versions of you all, the ones who get to go on wacky misadventures.","像你一样,他们是安静的床单鬼, 看这些其他版本的你们, 那些谁去去疯狂的错冒险。",和你一样，他们成了沉默的床单幽灵，望着另一个版本的你们——那些还能经历各种荒唐冒险的你们。
+english_events_maingame:L25468,fakeghosts_eotr,FIX,"In time, these alternate versions of you also reach the graveyard. In their ignorant bliss, they too decide to prank people by posing as ghosts. If only they knew...","很快,这些替代版本的你也会到达墓地. 在他们无知的幸福中,他们也决定假扮出鬼来来作恶. 狦笵...",过了一阵，另一个版本的你们也来到了墓地。他们什么都不知道，乐呵呵地决定假扮幽灵捉弄别人。要是他们知道就好了……
+english_events_maingame:L25469,fakeghosts_eotr,FIX,Is this it? Is this some kind of endless purgatory for the sin of a dumb prank gone wrong?,是这个吗? 这是不是因为一个愚蠢的恶作剧的罪过 而被无休止地惩罚了?,就只能这样了吗？就因为一次搞砸了的蠢恶作剧，你们就要永远困在这种炼狱里？
+english_events_maingame:L25470,fakeghosts_eotr,FIX,No! You want it all back! You miss your life; your road trip; all the memories you were building together!,"没有! 你想把一切都还给我! 你想念自己的生活,你的出行,你共同创造的记忆!",不！你想把一切都找回来！你想念自己的生活，想念公路旅行，想念你们一起创造的那些回忆！
+english_events_maingame:L25471,fakeghosts_eotr,FIX,But how? How can you break this weird curse?,怎么会? 你怎么能打破这个奇怪的诅咒?,可是该怎么办？怎样才能打破这个诡异的诅咒？
+english_events_maingame:L25472,fakeghosts_eotr,FIX,Use your newly-acquired ghost powers to intervene with the living and stop them from making the same mistake you did!,利用你新获得的鬼力 来干预活人 阻止他们犯你犯的错,用刚获得的幽灵之力干涉活人的世界，阻止他们重蹈你们的覆辙！
+english_events_maingame:L25473,fakeghosts_eotr,FIX,"Take the bedsheet off to get your corporeal form back! It makes no sense, but it's so simple it has to work!","把床单脱下来 让你的体能恢复过来! 这根本说不通,但很简单,必须得用!",脱掉床单，变回有血有肉的自己！虽然毫无道理，可这办法简单得让人觉得肯定行！
+english_events_maingame:L25475,fakeghosts_eotr,FIX,Yes! Ghost powers!,没错! 鬼神的力量!,没错！幽灵之力！
+english_events_maingame:L25476,fakeghosts_eotr,FIX,But... how?,不过... 怎么着?,可……怎么用？
+english_events_maingame:L25477,fakeghosts_eotr,FIX,"You focus as hard as you can. If you weren't covered in a bedsheet, everyone would see you making a holding-in-a-fart face.","专注所能. 如果你没有被床单覆盖, 每个人都会看到你 保持一个在地狱中的脸。",你拼命集中精神。要不是披着床单，大家准能看到你那张憋屁似的脸。
+english_events_maingame:L25478,fakeghosts_eotr,FIX,"C'mon, you can do it! Focus! Burn that -N2 MAGIC if necessary, but FOCUS!","来吧,你能做到的! 专心点! 必要时烧了N2磁带,但FOCUS!",加油，你能行的！集中精神！哪怕消耗 -N2 魔力也在所不惜，给我集中精神！
+english_events_maingame:L25480,fakeghosts_eotr,FIX,"You extend your ghostly, cotton hand... AND REACH SCOTT'S HAND!","你伸出你的鬼手,棉手... 和取得斯科特的手!",你伸出棉布做的幽灵之手……碰到了斯科特的手！
+english_events_maingame:L25485,fakeghosts_eotr,KEEP,Wooo!,呜!,呜!
+english_events_maingame:L25486,fakeghosts_eotr,FIX,"What happened, buddy?","发生什么事了,伙计?",怎么了，伙计？
+english_events_maingame:L25487,fakeghosts_eotr,FIX,I got the chills!,我有点冷!,我打了个寒战！
+english_events_maingame:L25488,fakeghosts_eotr,FIX,It was almost as if... as if an invisible hand was holding me back from taking the ghost costumes...,几乎就像... ... 一样。 好像一只隐形手 阻止我穿鬼装...,刚才就好像……好像有只看不见的手，拦着我去拿扮鬼的服装……
+english_events_maingame:L25489,fakeghosts_eotr,FIX,Eh... it's probably nothing.,额... 可能没什么,呃……应该没什么吧。
+english_events_maingame:L25490,fakeghosts_eotr,FIX,...unless it's a force beyond our understanding trying to communicate with us to stop us from doing this prank because something horrible will happen if we do.,除非这是我们无法理解的力量 试图与我们沟通 阻止我们做这个恶作剧 因为如果这样的话 可怕的事情会发生,……除非是某种超出我们理解的力量在试着联系我们，阻止我们恶作剧，因为真这么干就会出大事。
+english_events_maingame:L25491,fakeghosts_eotr,FIX,It could totally be that!,完全有可能是那样的!,完全有可能！
+english_events_maingame:L25492,fakeghosts_eotr,FIX,"Thanks, force-bro! That was swell of you!","谢谢,强哥! 你真好,你真好,你好吗?",谢啦，神秘力量老兄！你人真好！
+english_events_maingame:L25493,fakeghosts_eotr,FIX,"Yeah, that strange entity (whatever it is) has surely gained +N2 SOUL from this good deed.",怪异实体(无论是什么)从这个好行为中 获得了+N2 Suul。,是啊，那个神秘存在——不管它是什么——做了这么件好事，肯定能获得 +N2 灵魂。
+english_events_maingame:L25494,fakeghosts_eotr,FIX,So... no ghost prank?,所以说... 没有鬼恶作剧?,所以……不扮鬼恶作剧了？
+english_events_maingame:L25495,fakeghosts_eotr,FIX,No ghost prank.,没有鬼恶作剧。,不扮了。
+english_events_maingame:L25497,fakeghosts_eotr,FIX,"As they decide that, a blinding light surrounds you all. You feel a warm, fuzzy feeling inside of you. And then...","他们决定了,你们周围都闪起一盏闪光. 你内心有种温暖而模糊的感觉 礛...",他们话音刚落，耀眼的光芒便包围了你们。你心底泛起一阵暖意，浑身舒畅。接着……
+english_events_maingame:L25498,fakeghosts_eotr,FIX,...A FLASH!,..一个FLASH!,……白光一闪！
+english_events_maingame:L25500,fakeghosts_eotr,FIX,"When you open your eyes, you're you again! Corporeal-body you!","睁开眼睛,你又变回你! 身体真人 你个混蛋!",睁开眼时，你又变回了自己！有血有肉的自己！
+english_events_maingame:L25502,fakeghosts_eotr,FIX,Goddammit... what a fuckin' trip.,该死的... 真是个该死的旅行。,妈的……这趟可真够迷幻的。
+english_events_maingame:L25503,fakeghosts_eotr,FIX,"Yeah, bro. It was really weird seeing ourselves from the outside.",癸 从外面看到我们真是奇怪,是啊，伙计。从外面看着另一个自己，真是怪透了。
+english_events_maingame:L25504,fakeghosts_eotr,KEEP,But at least it allowed us to learn a valuable lesson.,但至少它让我们吸取了宝贵的教训。,但至少它让我们吸取了宝贵的教训。
+english_events_maingame:L25505,fakeghosts_eotr,FIX,That we should never do a sheet ghost prank again?,我们再也不该做鬼牌恶作剧了?,以后再也别披床单扮鬼吓人了？
+english_events_maingame:L25506,fakeghosts_eotr,FIX,"That I need to do more butt exercises, because now that I've seen it from the outside it turns out my butt isn't buff enough?",因为我从外面看到 屁股不够吗?,我得多练练臀，因为现在亲眼见过才发现，我的屁股还不够结实？
+english_events_maingame:L25507,fakeghosts_eotr,FIX,No!,没有!,不是！
+english_events_maingame:L25508,fakeghosts_eotr,FIX,That we can't go through life taking it for granted. We have to savor every minute of it!,我们不能把生活当做理所当然 我们必须每分钟都去救它!,是不能把活着当成理所当然。我们得好好享受生命中的每一分钟！
+english_events_maingame:L25509,fakeghosts_eotr,FIX,"Oh, okay!","哦,还好!",哦，好吧！
+english_events_maingame:L25510,fakeghosts_eotr,FIX,"How do we savor life, though?","我们如何拯救生活,虽然?",可是，要怎么享受生命呢？
+english_events_maingame:L25511,fakeghosts_eotr,FIX,"Well, for starters, we can go get some milkshakes and leave all this purgatory madness behind us!","首先,我们可以去买奶昔 把这些炼狱的疯狂抛在脑后!",嗯，先去喝杯奶昔，把这堆炼狱破事抛到脑后吧！
+english_events_maingame:L25512,fakeghosts_eotr,KEEP,Hooray!,万岁!,万岁!
+english_events_maingame:L25513,fakeghosts_eotr,FIX,"As you leave the graveyard, you can't help but wonder if there are more ghost versions of you all out there, quietly looking at you in their own purgatory loop.","当你离开墓地,你不得不怀疑,你们是否有更多的鬼版本,悄悄地看着你们在他们自己的炼狱圈中.",离开墓地时，你不禁想，也许还有其他版本的你们变成了幽灵，困在各自的炼狱循环里，默默地望着你们。
+english_events_maingame:L25514,fakeghosts_eotr,FIX,You hope they're okay.,希望他们没事,希望他们一切都好。
+english_events_maingame:L25516,fakeghosts_eotr,FIX,Just... take the bedsheet off?,刚刚... 把床单脱了?,只要……把床单脱下来？
+english_events_maingame:L25517,fakeghosts_eotr,FIX,"Ugh, it's so dumb and it follows no real logic. It's almost like -N2 MIND worth of nonsense!","唉,这太蠢了,它没有遵循真正的逻辑。 这几乎像N2 MIND价值的废话!",唉，真够蠢的，一点逻辑都没有。这荒唐劲儿简直能让你损失 -N2 头脑！
+english_events_maingame:L25518,fakeghosts_eotr,FIX,But desperate times call for desperate measures.,但绝望的时代要求采取绝望的措施.,但事到如今，也只能死马当活马医了。
+english_events_maingame:L25519,fakeghosts_eotr,FIX,"You try to take the bedsheet off, but it weighs a ton. It's heavy, almost like it's carrying the weight of all your bad choices. But you must persevere.","你试着把床单脱了,但它重一吨。 有点重,就像它 承载了所有你坏的选择的重量。 但你必须坚持下去。",你试着脱掉床单，可它重得要命，仿佛你做过的所有错误选择都压在上面。但你不能放弃。
+english_events_maingame:L25520,fakeghosts_eotr,FIX,"You lift as hard as you can with your videogame-playing, unmuscular body. You risk herniating a disk, but you don't give up!",以你的游戏 和肌肉不敏锐的身体 尽可能地用力地举起 你冒着偷取磁盘的风险 但你不会放弃的!,你使出浑身力气，用这副只顾打游戏、没练过肌肉的身体往上掀。哪怕腰椎间盘都快突出了，也决不松手！
+english_events_maingame:L25521,fakeghosts_eotr,FIX,"As the sheet finally lifts over your body and head, a blinding light surrounds you all. And then...","床单终于抬起你的身体和头部, 闪烁的光线包围着你们。 礛...",床单终于越过身体，被你从头顶掀了下来。耀眼的光芒包围了你们。接着……
+english_events_maingame:L25522,fakeghosts_eotr,FIX,...A FLASH!,..一个FLASH!,……白光一闪！
+english_events_maingame:L25524,fakeghosts_eotr,FIX,"When you open your eyes again, you're you again! Corporeal-body you!","你再睁开眼睛,你又变回你! 体质你!",再次睁开眼时，你又变回了自己！有血有肉的自己！
+english_events_maingame:L25525,fakeghosts_eotr,FIX,"You can feel again your flesh, and your bones, and the +N2 STAMINA flowing through your very tangible body!",你可以再次感觉到你的肉体和骨头 还有从你身体里流出来的 +N2STAMINA!,你又能感受到自己的血肉、骨骼，还有流淌在这副真切躯体里的 +N2 体力！
+english_events_maingame:L25526,fakeghosts_eotr,FIX,The other versions of you are nowhere to be found. Did they ever exist to begin with?,其他版本的你 找不到任何地方。 他们从头开始就存在过吗?,另一个版本的你们不见了。他们真的存在过吗？
+english_events_maingame:L25530,fakeghosts_eotr,FIX,Goddammit... what a fuckin' trip.,该死的... 真是个该死的旅行。,妈的……这趟可真够迷幻的。
+english_events_maingame:L25531,fakeghosts_eotr,FIX,"Yeah, bro... it was really weird seeing ourselves from the outside...",癸... 外面看到我们真是奇怪,是啊，伙计……从外面看着另一个自己，真是怪透了……
+english_events_maingame:L25532,fakeghosts_eotr,KEEP,But at least it allowed us to learn a valuable lesson.,但至少它让我们吸取了宝贵的教训。,但至少它让我们吸取了宝贵的教训。
+english_events_maingame:L25533,fakeghosts_eotr,FIX,That we should never do a sheet ghost prank again?,我们再也不该做鬼牌恶作剧了?,以后再也别披床单扮鬼吓人了？
+english_events_maingame:L25534,fakeghosts_eotr,FIX,"That I need to do more butt exercises, because now that I've seen it from the outside it turns out my butt isn't buff enough?",因为我从外面看到 屁股不够吗?,我得多练练臀，因为现在亲眼见过才发现，我的屁股还不够结实？
+english_events_maingame:L25535,fakeghosts_eotr,FIX,No!,没有!,不是！
+english_events_maingame:L25536,fakeghosts_eotr,FIX,That we can't go through life taking it for granted. We have to savor every minute of it!,我们不能把生活当做理所当然 我们必须每分钟都去救它!,是不能把活着当成理所当然。我们得好好享受生命中的每一分钟！
+english_events_maingame:L25537,fakeghosts_eotr,FIX,"Oh, okay!","哦,还好!",哦，好吧！
+english_events_maingame:L25538,fakeghosts_eotr,FIX,"How do we savor life, though?","我们如何拯救生活,虽然?",可是，要怎么享受生命呢？
+english_events_maingame:L25539,fakeghosts_eotr,FIX,"Well, for starters, we can go get some milkshakes and leave all this purgatory madness behind us!","首先,我们可以去买奶昔 把这些炼狱的疯狂抛在脑后!",嗯，先去喝杯奶昔，把这堆炼狱破事抛到脑后吧！
+english_events_maingame:L25540,fakeghosts_eotr,KEEP,Hooray!,万岁!,万岁!
+english_events_maingame:L25541,fakeghosts_eotr,FIX,"As you leave the graveyard, you can't help but wonder if there are more ghost versions of you all out there, quietly looking at you in their own purgatory loop.","当你离开墓地,你不得不怀疑,你们是否有更多的鬼版本,悄悄地看着你们在他们自己的炼狱圈中.",离开墓地时，你不禁想，也许还有其他版本的你们变成了幽灵，困在各自的炼狱循环里，默默地望着你们。
+english_events_maingame:L25542,fakeghosts_eotr,FIX,You hope they're okay.,希望他们没事,希望他们一切都好。
+english_events_maingame:L25551,welcomezombie_eotr,FIX,Raise the dead,举起死者,复活死者
+english_events_maingame:L25554,welcomezombie_eotr,FIX,YAAAASSS! This place is a snoozefest anyway!,亚亚西斯! 这地方真是个小地方!,好耶——！反正这地方无聊得要命！
+english_events_maingame:L25555,welcomezombie_eotr,FIX,"I don't know, Polly. Isn't raising the dead, like... a bad thing?","我不知道,我说... 波莉. 养活死者不是... 坏事吗?",波莉，我有点拿不准。复活死者是不是……不太好啊？
+english_events_maingame:L25556,welcomezombie_eotr,FIX,"No, buddy, it's all A-OK if it's for a good reason, such as having fun.","不,伙计,如果有好理由,比如玩得开心,就没事了",不会啊，伙计。只要理由正当就完全没问题，比如找点乐子。
+english_events_maingame:L25557,welcomezombie_eotr,FIX,"Oh, okay then!","哦,那还好!",哦，那就好！
+english_events_maingame:L25558,welcomezombie_eotr,FIX,"As the two of them discuss this, you can't ignore that there's something strange happening: a strong fog that rolls in from time to time.","当他们两人讨论这个时,你不能忽视有奇怪的事情发生:一个时常卷入的强烈雾.",他俩讨论时，你注意到一件怪事：不时有浓雾涌来。
+english_events_maingame:L25559,welcomezombie_eotr,FIX,"At one point, the mist covers everything, and a strange old woman appears, visibly concerned.","一度,雾层覆盖了一切, 和一个奇怪的老妇人出现, 明显地担心。",不一会儿，大雾笼罩了一切。一位古怪的老妇人出现在你们面前，神色十分忧虑。
+english_events_maingame:L25561,welcomezombie_eotr,FIX,You young fools! You're toying with forces you don't understand!,你们这些年轻的傻瓜! 你玩弄的是你们不明白的势力!,你们这些无知的小辈！竟敢摆弄自己一无所知的力量！
+english_events_maingame:L25562,welcomezombie_eotr,FIX,"This is the Graveyard of Graveyards, a place that transcends time and space; the inevitable graveyard that eventually claims us all.","这是坟墓墓地,一个超越时间和空间的地方;是最终要求我们大家的不可避免的墓地。",这里是万墓之墓，超越时空之地。所有人最终都逃不过它，终将在此长眠。
+english_events_maingame:L25563,welcomezombie_eotr,FIX,Your disrespectful tomfoolery is a desecration of all things sacred in the Graveyard of Graveyards.,你无礼的通克利 是对墓地墓地所有神圣事物的亵渎,你们这般无礼胡闹，是在亵渎万墓之墓的一切神圣之物。
+english_events_maingame:L25564,welcomezombie_eotr,FIX,"This place breathes, this places knows... and this place isn't happy with what you're doing. Stop yourselves before the Graveyard decides to stop you itself.","这个地方呼吸, 这个地方知道... 这个地方不满意你在做什么。 在坟墓开始之前 阻止你们自己",这地方会呼吸，会感知……它对你们的所作所为很不高兴。趁墓地还没亲自出手制止你们，赶紧收手。
+english_events_maingame:L25565,welcomezombie_eotr,FIX,"I hear you, old lady. I realize now that our actions weren't okay. We understand. Here, let's shake hands as a sign of our understanding.","我听见了,老太太 我现在意识到我们的行动并不好 我们理解。 在这里,让我们握个手,以示我们的理解.",听到了，老太太。我现在明白，我们这么干不合适。懂了，都懂了。来，握个手，表示我们达成共识。
+english_events_maingame:L25566,welcomezombie_eotr,FIX,AAAAAAAAAAAAAAAA!!!!,亚军!,啊啊啊啊啊！！！！
+english_events_maingame:L25567,welcomezombie_eotr,FIX,"Hehe, the hand buzzer: a true classic!","手鸣器,真经典!",嘿嘿，握手电人器，经典永不过时！
+english_events_maingame:L25568,welcomezombie_eotr,FIX,"C'mon, guys. Let's go before this buzzkill goes back to raining on our parade!","来,伙计们。 趁这小鸟还没回来 就要下雨了",走啦，各位。趁这位扫兴大师还没继续给咱们泼冷水，赶紧撤！
+english_events_maingame:L25570,welcomezombie_eotr,FIX,You run through the fog until you feel like you've lost the old lady.,"你穿过雾,直到你觉得你失去了那个老太太。",你们穿过浓雾跑了好一阵，觉得总算甩掉了那位老妇人。
+english_events_maingame:L25571,welcomezombie_eotr,FIX,"As the fog surrounds you, you begin to lose your sense of space. You feel like you're nowhere.","随着雾笼罩着你,你开始失去空间感. 你感觉自己无处可去",浓雾环绕着你们，方向和距离渐渐模糊，仿佛你们身处一片虚无。
+english_events_maingame:L25572,welcomezombie_eotr,FIX,"Before you can keep worrying about all this, Polly brings you back to reality.",在你继续担心之前 波莉 让你回到现实中,你还没来得及多想，波莉就把你拉回了现实。
+english_events_maingame:L25574,welcomezombie_eotr,FIX,"%CURRENTPLAYERNAME%, my good friend, I appoint you Manager of Raising the Dead!",%CURRENTPLAYERNAME%我的好友 我任命你为养活死者的经理,%CURRENTPLAYERNAME%，我的好朋友，我任命你为复活死者项目经理！
+english_events_maingame:L25575,welcomezombie_eotr,FIX,"Whoa, bro... that's a huge honor.","哇,哥们... 真是个巨大的荣誉。",哇，伙计……这可是莫大的荣誉。
+english_events_maingame:L25576,welcomezombie_eotr,FIX,"It is! Raising the dead is all about technique! But I'm too drunk to decide how we should go about this, so... chop chop!","没错! 养活死人是技术问题! 但我醉了,无法决定我们该如何去处理这件事,所以... 砍断!",可不是嘛！复活死人是门技术活！不过我喝多了，拿不定主意该怎么搞，所以……赶紧开工！
+english_events_maingame:L25577,welcomezombie_eotr,FIX,"Yay...? Anyhow, you know what to do: make a choice.","亚? 无论如何,你知道该怎么做: 做出选择。",耶……？总之，你知道该干什么：做个选择。
+english_events_maingame:L25578,welcomezombie_eotr,FIX,"Get a shovel and dig up the bodies of those buried long ago, beyond memories... the ones that could have been.",找把铲子挖出那些埋在很久以前的尸体 超越记忆... 本来可以的,找把铲子，挖出那些早已下葬、连记忆中都不再存在的尸体……那些本可以存在的人。
+english_events_maingame:L25579,welcomezombie_eotr,FIX,"Use the power of the monkey's paw to bring back the person who's closest to you, so you can get back that what was left behind.","利用猴子爪的力量,把最接近你的人带回,这样你就可以把留下的东西拿回.",借助猴爪的力量，复活与你们最亲近的人，找回曾经失去的一切。
+english_events_maingame:L25581,welcomezombie_eotr,FIX,Great idea! It's SHOVEL TIME!,不错的主意! 是时候了!,好主意！铲子时间到！
+english_events_maingame:L25583,welcomezombie_eotr,FIX,You dig for hours. Shovel Time is way less fun than it sounds. It predictably drains -N2 STAMINA from you.,你挖了几个小时。 时间比听起来有趣多了 估计会从你身上排出N2 Stamina,你们一挖就是几个小时。“铲子时间”远没听起来那么好玩，毫不意外地耗掉了 -N2 体力。
+english_events_maingame:L25584,welcomezombie_eotr,FIX,"But it might be worth it, because you eventually find a mysterious coffin with a cryptic carving on it that says ""REMOVED CHARACTER.""","但也许值得,因为你最终找到一个神秘的棺材,上面有一副加密的雕刻,上面写着""雷蒙德·夏克特"".",不过也许值得。你们终于挖出了一具神秘棺材，上面刻着一行费解的字：“被删掉的角色”。
+english_events_maingame:L25585,welcomezombie_eotr,FIX,"So mysterious, so meta... you open it and as you do, a blinding light showers you all, imbuing you with the +N2 MIND of a big revelation!","如此神秘,如此的元... 打开它,然后一阵闪闪发光的阵雨 让你充满了N2的灵感",如此神秘，如此打破次元壁……你们打开棺材，耀眼的光芒倾泻而出。恍然大悟的你们获得了 +N2 头脑！
+english_events_maingame:L25587,welcomezombie_eotr,KEEP,"Oh, my!","哦,我的天呐!","哦,我的天呐!"
+english_events_maingame:L25588,welcomezombie_eotr,KEEP,"Hey, bro! Welcome!","嘿,哥们! 欢迎光临!","嘿,哥们! 欢迎光临!"
+english_events_maingame:L25589,welcomezombie_eotr,FIX,"Scott, honey, it's you!","斯科特亲爱的,是你!",斯科特，亲爱的，是你呀！
+english_events_maingame:L25590,welcomezombie_eotr,FIX,Uh... how do you know my name?,"额... 你怎么知道我的名字? 说吧,我叫",呃……你怎么知道我的名字？
+english_events_maingame:L25591,welcomezombie_eotr,FIX,"It's me! Beatrice, your old friend!","是我! ! ! ! 是我,我来了! 比阿特丽斯,你的老朋友!",是我呀！比阿特丽斯，你的老朋友！
+english_events_maingame:L25592,welcomezombie_eotr,FIX,...?,...?,……？
+english_events_maingame:L25593,welcomezombie_eotr,FIX,I'm confused.,迷惑相见.,我有点搞不懂了。
+english_events_maingame:L25601,welcomezombie_eotr,FIX,"About what, silly? You know me. We all went to Spooky Academy together.","谈什么,傻子? 你认识我。 我们都一起上过史波克学院",不懂什么呀，小傻瓜？你认识我啊。咱们可都是惊悚学院的同学。
+english_events_maingame:L25602,welcomezombie_eotr,FIX,I'm the uptight-yet-lovable queen bee who sometimes says stingy things because I'm oblivious to the manners of the commonfolk!,我是那个不屈不挠的蜜蜂女王 有时会说些小话 因为我对普通人的礼仪漠不关心,我就是那个端着架子却又讨人喜欢的蜂后呀。因为不懂平民的礼节，偶尔说话会有点扎人！
+english_events_maingame:L25603,welcomezombie_eotr,FIX,"...Polly, what's going on?",...波莉发生什么事了?,……波莉，这是怎么回事？
+english_events_maingame:L25604,welcomezombie_eotr,FIX,"One time we built an empire by selling lemons. Don't you remember, Scott?",有一次我们通过卖柠檬来建立一个帝国. 你不记得了 斯科特?,有一回，咱们靠卖柠檬建起了一个商业帝国。斯科特，你不记得啦？
+english_events_maingame:L25605,welcomezombie_eotr,FIX,Didn't I do that with Miranda?,我是不是跟那个 米兰达?,那不是我跟米兰达干的吗？
+english_events_maingame:L25607,welcomezombie_eotr,FIX,"Miranda? Who's Miranda? No, no... you did that with your good friend Beatrice.","米兰达? 谁 米兰达? 没有,没有... 你和你好朋友比阿特丽斯做了这件事",米兰达？米兰达是谁？不，不……那明明是你和好朋友比阿特丽斯一起干的。
+english_events_maingame:L25609,welcomezombie_eotr,FIX,"And Polly, what about you? You were always ready to teach me all about peasant stuff, like dating app etiquette!","还有 波莉那你呢? 说吧,你怎么样? 你总是准备好教我所有关于农民的东西, 像约会应用礼仪!",还有波莉，你呢？你以前总是乐意教我平民的那些事，比如交友软件上的礼仪！
+english_events_maingame:L25610,welcomezombie_eotr,FIX,And %CURRENTPLAYERNAME%! You were there too!,还有 %CURRENTPLAYERNAME%! 你也在场!,还有 %CURRENTPLAYERNAME%！你当时也在！
+english_events_maingame:L25612,welcomezombie_eotr,FIX,"Remember that time you wanted to ask me to the Monster Prom, and I fooled you into helping me assassinate the entire water polo team? Good times!",记得那次你想约我 怪物舞会我骗你帮我刺杀整个水上小马球队? 美好的时光!,还记得那次吗？你想约我参加怪物舞会，我却骗你帮我暗杀了整支水球队。真是好时光！
+english_events_maingame:L25619,welcomezombie_eotr,FIX,"I think you're confused... all these things you're talking about happened with Miranda. Look, I even have pics.","我觉得你很困惑... 你所说的这些事情都发生了 米兰达. 你看,我甚至有图片。",我想你搞错了……你说的这些事，都是我们和米兰达一起干的。你看，我还留着照片。
+english_events_maingame:L25620,welcomezombie_eotr,FIX,"What's this? Who is this pinkish phony? I was there, not her! Have you forgotten about me? Did you replace me? That stings! We were good friends!","这是什么? 这粉红色的假货是谁? 我当时在场,不是她! 你忘了我吗? 你代替我了? 刺痛! 刺痛! 刺痛! 刺痛! 刺痛! 刺痛! 刺痛! 刺痛! 刺痛! 刺痛! 刺痛! 刺痛! 刺痛! 刺痛! 刺痛! 刺痛! 刺痛! 刺痛! 刺痛! 刺痛! 刺痛! 刺痛! 刺痛! 刺痛! 刺痛! 刺! 我们曾是好朋友!",这是什么？这个粉红色的冒牌货是谁？当时在场的是我，不是她！你们把我忘了？找人替代了我？真扎心！我们明明是好朋友！
+english_events_maingame:L25621,welcomezombie_eotr,FIX,"Scott, Polly, c'mon; I'm sure you remember! This can't bee happening...","斯科特, 波莉来啊,我相信你记得! 这不可能发生...",斯科特，波莉，拜托，你们肯定还记得！怎么会这样……我都要“蜂”了……
+english_events_maingame:L25622,welcomezombie_eotr,KEEP,...,...,...
+english_events_maingame:L25623,welcomezombie_eotr,FIX,...Beatrice?,碧翠丝?,……比阿特丽斯？
+english_events_maingame:L25625,welcomezombie_eotr,KEEP,...,...,...
+english_events_maingame:L25629,welcomezombie_eotr,FIX,"%CURRENTPLAYERNAME%, why didn't you stop? There was a graveyard over there!",%CURRENTPLAYERNAME%你为什么不停下来? 那边有个墓地!,%CURRENTPLAYERNAME%，怎么没停车？那边有个墓地诶！
+english_events_maingame:L25630,welcomezombie_eotr,FIX,Eh... graveyards are a snooze. And we visited one recently! What's with all these graveyards anyway?,额... 墓地是打呼噜的. 我们最近拜访了一位! 这些墓地是怎么回事?,呃……墓地无聊死了，而且咱们最近不是刚去过吗！怎么到处都是墓地？
+english_events_maingame:L25631,welcomezombie_eotr,FIX,"You guys know we don't have to stop at EVERYTHING we see on the road, right?","你们知道我们不必在路上看到的一切停下来,对吧?",你们知道的吧？路上也不是见到什么都得停下来看看啊。
+english_events_maingame:L25632,welcomezombie_eotr,FIX,"Yeah, but I don't know... It's what we do!","是的,但我不知道... ... 说不定是... 这是我们要做的!",也是，可是……我也说不上来。咱们不就一直这样吗！
+english_events_maingame:L25633,welcomezombie_eotr,FIX,"Sure, but so what? This isn't some kind of game with unavoidable rules! We can just choose NOT to stop there!","当然,但又怎样? 这不是什么游戏 不可避免的规则! 我们可以选择不停止在那里!",是啊，那又怎样？又不是在玩什么必须遵守规则的游戏！我们完全可以选择不停啊！
+english_events_maingame:L25634,welcomezombie_eotr,FIX,What were we going to do there anyway? Exhume some old corpses? Raise the dead yet again? That shit is growin' older by the minute!,我们到底要做什么? 挖出一些旧尸体? 复活死人吗? 这东西马上就老了!,去了又能干吗？挖点陈年老尸？再复活一次死人？这破点子真是越来越老掉牙了！
+english_events_maingame:L25635,welcomezombie_eotr,FIX,"Nah, hard pass, buddy.","不,硬通过,伙计。",不了，伙计，免谈。
+english_events_maingame:L25636,welcomezombie_eotr,FIX,"C'mon, I'm sure the next stop we find will be much more fun!","来,我敢肯定,下一站 我们找到会更有趣!",走啦，下一站肯定好玩多了！
+english_events_maingame:L25637,welcomezombie_eotr,FIX,"Oh, okay!","哦,还好!",哦，好吧！
+english_events_maingame:L25638,welcomezombie_eotr,FIX,"And so, you drive past the graveyard.","所以,你开车经过墓地。",于是，你们开车驶过了墓地。
+english_events_maingame:L25639,welcomezombie_eotr,FIX,"As you pass the entrance, you can't shake off a strong, off-putting feeling...","当你通过入口, 你无法动摇 强烈的,不抽动的感觉...",车子经过入口时，一股强烈的不安始终挥之不去……
+english_events_maingame:L25640,welcomezombie_eotr,FIX,"The feeling that you're leaving someone behind, stranded at the graveyard... but who?",那种你抛弃一个人的感觉 被困在墓地里 但谁呢?,你好像把谁抛在了身后，让那人孤零零地困在墓地里……可到底是谁？
+english_events_maingame:L25641,welcomezombie_eotr,FIX,"As hard as you try, you can't remember who that would be... Eh, probably nobody important!","努力的你不记得了,那会是谁... 呃,也许没什么重要的事!",你怎么想也想不起来……嗐，肯定不是什么重要的人！
+english_events_maingame:L25645,welcomezombie_eotr,FIX,"Ah, the monkey's paw. You remember buying it from the weird old man who only spoke in cryptic, vaguely-threatening sentences.","啊,猴子的爪子。 。 。 你还记得从那个奇怪的老人那里买的吗? 他只用隐秘的, 隐蔽的句子说话, 威胁。",啊，猴爪。你还记得，卖它的是个古怪老头，说起话来总是神神秘秘，隐约带着威胁。
+english_events_maingame:L25646,welcomezombie_eotr,FIX,This paw comes with immense power. You can use it to wish for whatever you can imagine. But beware...,这爪子有巨大的力量 你可以用它来许个愿 任何你能想象的 但当心...,这只猴爪蕴藏着巨大的力量。只要你想得到，就能用它许愿。但你可要当心……
+english_events_maingame:L25647,welcomezombie_eotr,FIX,"...Ugh, why do I keep trying? You never give a fuck about these ominous flashbacks!",...我为什么要继续尝试? 你从不关心这些不祥的回放!,……唉，我还费什么劲？这些不祥的回忆片段，你他妈从来就没往心里去过！
+english_events_maingame:L25648,welcomezombie_eotr,FIX,"You'll just use the paw's dangerous magic power for something utterly dumb, like getting free drinks or pulling a prank.","你会用爪子的 危险的魔法 做一些完全愚蠢的事, 比如免费喝酒或拉恶作剧。",你肯定会拿猴爪的危险魔力干些蠢透了的事，比如白嫖酒水，或者搞恶作剧。
+english_events_maingame:L25649,welcomezombie_eotr,FIX,It's the prank. We're doing the prank thing.,恶作剧 我们做恶作剧的事情。,是恶作剧。我们这次要搞的是恶作剧。
+english_events_maingame:L25650,welcomezombie_eotr,FIX,Fuck you.,去你妈的,去你妈的。
+english_events_maingame:L25653,welcomezombie_eotr,FIX,"The monkey's paw! Are we sure, %CURRENTPLAYERNAME%? The weird seller said something about it being really dangerous...",这只猴子的爪子! 我们确定吗? %CURRENTPLAYERNAME%? 奇怪的卖家说它很危险...,是猴爪诶！%CURRENTPLAYERNAME%，真要用吗？那个怪怪的卖家好像说过，这玩意儿很危险……
+english_events_maingame:L25654,welcomezombie_eotr,FIX,"Eh, I only remember him saying something about pranks... probably that we should only use the monkey's paw for important stuff... like pranks!",我还记得他说过一些恶作剧... 也许我们只应该用猴子的爪子 来做重要的事情... 像是恶作剧!,呃，我只记得他说了什么恶作剧……大概是让我们把猴爪用在重要的事上……比如恶作剧！
+english_events_maingame:L25655,welcomezombie_eotr,FIX,"Hmmm... yeah, it was probably that! We're good then!","那个... 是啊,可能是那样的! 我们很好!",嗯……对，肯定就是这个意思！那就没问题啦！
+english_events_maingame:L25656,welcomezombie_eotr,FIX,"You use -N2 MAGIC to bring back a dead person who's close to you all... which technically counts as a good deed, right? So, +N2 SOUL for doing a solid for a dead person!","你用N2 MAGIC 带回一个跟你们很亲近的死人... 技术上说,这算什么好事,对吧? ~所以,+N2 SOUL为死人做一个固件! ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",你消耗 -N2 魔力，要复活一位与你们都很亲近的死者……严格来说，这算做好事吧？帮了死者一个大忙，获得 +N2 灵魂！
+english_events_maingame:L25657,welcomezombie_eotr,FIX,"After making your wish, an unsettling amount of dark purple smoke emanates from the paw and seeps into the ground...","许愿后,一股令人不安的深紫色烟从爪子中涌出并渗入地中. .",许完愿，浓得令人不安的深紫色烟雾从猴爪中涌出，渗入地下……
+english_events_maingame:L25658,welcomezombie_eotr,FIX,"The ground starts vibrating in slow, heavy pulsations, as a deep guttural noise emanates from within it.","地上开始在缓慢而沉重的脉冲中起震动,因为从地道内会发出深沟的噪音.",地面开始缓慢而沉重地震颤，地下传来低沉的嘶吼。
+english_events_maingame:L25659,welcomezombie_eotr,FIX,"Then, a long charged silence, until...","之后,一个长期充斥的沉默,直到...",随后，是一阵漫长而紧绷的寂静，直到……
+english_events_maingame:L25660,welcomezombie_eotr,FIX,A HAND ERUPTS FROM THE SOIL!,一只手从苏尔!,一只手破土而出！
+english_events_maingame:L25661,welcomezombie_eotr,FIX,Wait... I know that arm...,单单... 我知道那个手臂...,等等……这条胳膊，我认得……
+english_events_maingame:L25662,welcomezombie_eotr,FIX,Fuuuck.,发作.,操——。
+english_events_maingame:L25663,welcomezombie_eotr,KEEP,"Fuck, fuck, fuck.","他妈的,他妈的,他妈的。","他妈的,他妈的,他妈的。"
+english_events_maingame:L25664,welcomezombie_eotr,FIX,This is not good... we need to leave.,这可不妙... 我们得离开,不妙……我们得走了。
+english_events_maingame:L25665,welcomezombie_eotr,FIX,But...,不过...,可是……
+english_events_maingame:L25666,welcomezombie_eotr,FIX,NOW!,现在!,现在就走！
+english_events_maingame:L25668,welcomezombie_eotr,FIX,"She grabs your and Scott's hands, and you all leave the grave behind as the corpse continues clawing out of the underworld.","她抓住你和 斯科特手,你们都留下坟墓 随着尸体继续从地下世界被挖出",她一把抓住你和斯科特的手，拉着你们逃离坟墓。身后，那具尸体还在挣扎着爬出阴间。
+english_events_maingame:L25669,welcomezombie_eotr,FIX,"As you run, you catch a glimpse of the tombstone, appearing through the fog. It's only a split second, but you can't ignore what it says:","跑去时,你一眼就看到墓碑,从雾中出现. 仅分出一分秒,可不能无视所言:",奔跑时，你瞥见雾中的墓碑。只有短短一瞬，可上面的名字却清清楚楚：
+english_events_maingame:L25671,welcomezombie_eotr,FIX,Polina Geist.,波利娜·盖斯特.,波莉娜·鬼斯特。
+english_events_maingame:L25672,welcomezombie_eotr,KEEP,...,...,...
+english_events_maingame:L25681,eulogy_eotr,FIX,Crash a funeral,办丧事吧,闯进葬礼捣乱
+english_events_maingame:L25685,eulogy_eotr,FIX,You find your friends and tell them you plan to crash a funeral. They're immediately onboard!,你找到你的朋友 告诉他们你打算去参加葬礼 他们马上上船!,你找到朋友们，告诉他们你打算去葬礼上捣乱。他们立刻举双手赞成！
+english_events_maingame:L25687,eulogy_eotr,FIX,"Ahh, funeral-crashing, one of my favorite pastimes. It's like wedding crashing, but for ghosts, geriatrics, and thrice-widowed girlbosses.","啊,丧葬,我最喜欢的消遣之一。 这就像婚礼的崩溃, 但为鬼,老年, 和三wided女老板。",啊，混进葬礼捣乱，我最爱的消遣之一。就跟混进婚礼蹭吃蹭喝一样，只是宾客换成了幽灵、老年人，还有死过三任老公的女强人。
+english_events_maingame:L25689,eulogy_eotr,FIX,"You all crash various funerals, wreaking all sorts of mourning havoc. You gain +N2 HYPE from all the havoc wreaked.","你们都毁了各种葬礼, 制造了各种各样的哀悼灾难。 从所有破坏中 得到+N2 HYPE",你们闯进一场又一场葬礼，闹得各路哀悼人士鸡飞狗跳。这番大闹让你获得了 +N2 热度。
+english_events_maingame:L25690,eulogy_eotr,FIX,"There's something strange happening, though... a strong fog that rolls in from time to time.","事情有点奇怪,虽然... 时而卷入的浓雾",不过，有件事有些奇怪……不时有浓雾涌来。
+english_events_maingame:L25691,eulogy_eotr,FIX,"At one point, the mist covers everything, and a strange old woman appears, visibly concerned.","一度,雾层覆盖了一切, 和一个奇怪的老妇人出现, 明显地担心。",不一会儿，大雾笼罩了一切。一位古怪的老妇人出现在你们面前，神色十分忧虑。
+english_events_maingame:L25694,eulogy_eotr,FIX,You young fools! You're toying with forces you don't understand!,你们这些年轻的傻瓜! 你玩弄的是你们不明白的势力!,你们这些无知的小辈！竟敢摆弄自己一无所知的力量！
+english_events_maingame:L25695,eulogy_eotr,FIX,"This is the Graveyard of Graveyards, a place that transcends time and space; the inevitable graveyard that eventually claims us all.","这是坟墓墓地,一个超越时间和空间的地方;是最终要求我们大家的不可避免的墓地。",这里是万墓之墓，超越时空之地。所有人最终都逃不过它，终将在此长眠。
+english_events_maingame:L25696,eulogy_eotr,FIX,Your disrespectful tomfoolery is a desecration of all things sacred in the Graveyard of Graveyards.,你无礼的通克利 是对墓地墓地所有神圣事物的亵渎,你们这般无礼胡闹，是在亵渎万墓之墓的一切神圣之物。
+english_events_maingame:L25697,eulogy_eotr,FIX,"This place breathes, this places knows... and this place isn't happy with what you're doing. Stop yourselves before the Graveyard decides to stop you itself!","这个地方呼吸, 这个地方知道... 这个地方不满意你在做什么。 在坟墓决定阻止你们之前 阻止你们自己!",这地方会呼吸，会感知……它对你们的所作所为很不高兴。趁墓地还没亲自出手制止你们，赶紧收手！
+english_events_maingame:L25698,eulogy_eotr,FIX,"I hear you, old lady. I realize now that our actions weren't okay. We understand. Here, let's shake hands as a sign of our understanding.","我听见了,老太太 我现在意识到我们的行动并不好 我们理解。 在这里,让我们握个手,以示我们的理解.",听到了，老太太。我现在明白，我们这么干不合适。懂了，都懂了。来，握个手，表示我们达成共识。
+english_events_maingame:L25699,eulogy_eotr,FIX,AAAAAAAAAAAAAAAA!!!!,亚军!,啊啊啊啊啊！！！！
+english_events_maingame:L25700,eulogy_eotr,FIX,"Hehe, the hand buzzer: a true classic!","手鸣器,真经典!",嘿嘿，握手电人器，经典永不过时！
+english_events_maingame:L25701,eulogy_eotr,FIX,"C'mon, guys. Let's go before this buzzkill goes back to raining on our parade!","来,伙计们。 趁这小鸟还没回来 就要下雨了",走啦，各位。趁这位扫兴大师还没继续给咱们泼冷水，赶紧撤！
+english_events_maingame:L25702,eulogy_eotr,FIX,"You run through the fog until you end up at someone's eulogies... which, of course, Scott and Polly want to crash too. Nothing is sacred.","你穿过雾,直到你最后在某人的""通灵""... 当然, 斯科特 财务报告和审定财务报表 波莉 也想崩溃。 没有什么是神圣的。",你们穿过浓雾，来到一处正在致悼词的葬礼现场……当然，斯科特和波莉也想去捣乱。真是什么都不肯放过。
+english_events_maingame:L25703,eulogy_eotr,FIX,"So here you are, in front of the two obvious options when it comes to pranking a funeral...","所以,你在这里, 在两个明显选择前 当它涉及到一个葬礼...",于是，说到在葬礼上恶作剧，两个再明显不过的选项摆在你面前……
+english_events_maingame:L25704,eulogy_eotr,FIX,The classic of all classics: place a banana peel for someone to comically slip on once the eulogy is done.,经典经典: 给别人贴个香蕉皮 等悼词完成后再滑倒,经典中的经典：放块香蕉皮，让人在致完悼词后滑个大跟头。
+english_events_maingame:L25705,eulogy_eotr,FIX,Buy a three-person horse costume online and crash the funeral. A horse suddenly crashing overly-serious events is always hilarious.,网上买出一出三人马装并撞倒了葬礼. 突然撞倒过严重事件的马总是很搞笑,上网买套能装下三个人的马戏服，闯进葬礼。越是严肃的场合，突然冒出一匹马就越好笑。
+english_events_maingame:L25707,eulogy_eotr,FIX,"Banana peel? %CURRENTPLAYERNAME%, you're a natural!",香蕉皮吗?  %CURRENTPLAYERNAME%你是天生一对!,香蕉皮？%CURRENTPLAYERNAME%，你简直是个天才！
+english_events_maingame:L25708,eulogy_eotr,FIX,"Go get that banana, you prankster!","去拿香蕉,你这个恶作剧者!",去拿香蕉吧，恶作剧大师！
+english_events_maingame:L25710,eulogy_eotr,FIX,"You get a banana from the car, throw the banana away (losing -N2 STAMINA), and strategically drop the peel in the best spot possible.","将香蕉丢出(丢出-N2 STAMINA),",你从车里拿出一根香蕉，把香蕉扔掉——损失 -N2 体力——再把皮精心摆在最合适的位置。
+english_events_maingame:L25711,eulogy_eotr,FIX,"As you sneak into the eulogy, you can hear snatches of the priest introducing the eulogies.","当你偷偷进入悼词, 你听到牧师的被抢 介绍的eulogies。",你偷偷溜进葬礼现场，断断续续听见牧师在为悼词作开场白。
+english_events_maingame:L25712,eulogy_eotr,FIX,"""Losing a loved one is always a tragedy. We can only imagine the weight of bearing the loss of an entire family...""","""失去亲人总是悲剧"" 我们只能想象承受整个家庭的损失的分量... ...",“失去挚爱总是一场悲剧。我们只能想象，失去整个家庭是何等沉重的痛苦……”
+english_events_maingame:L25713,eulogy_eotr,FIX,"You can't hear the entire thing, but eventually the priest invites a man to say some words about the departed.","你听不到整件事,但最终神父邀请一个人对逝去者说出一些话来.",你听不全他的话。过了一阵，牧师请一位男人上前，为逝者说几句话。
+english_events_maingame:L25714,eulogy_eotr,FIX,"You're too focused on not getting caught, but you get to hear some stuff, some disconnected sentences here and there:","你太专注于不被抓住, 但你得到听到一些东西, 一些断开的句子在这里和那里:",你忙着躲避旁人的视线，只零零碎碎地听见几句话：
+english_events_maingame:L25715,eulogy_eotr,FIX,"""And then there's my little girl... anyone who met her knows that she could light up a room with her smile...""","""然后还有我的小女孩... 任何人遇到她,都知道她可以用微笑点亮房间......",“还有我的小女儿……认识她的人都知道，她的笑容能照亮整个房间……”
+english_events_maingame:L25716,eulogy_eotr,FIX,"""...and no matter what, she always found a reason to smile...""","""不管怎样,她总能找到一个微笑的理由...""",“……无论发生什么，她总能找到微笑的理由……”
+english_events_maingame:L25717,eulogy_eotr,FIX,"""...oh, God... I miss her smile...""","""... 天呐... 我想念她的微笑... ...""",“……天啊……我好想再看看她的笑容……”
+english_events_maingame:L25718,eulogy_eotr,FIX,"""...I'm sorry... I'm so sorry...""","""... 对不起... 我很抱歉,我... ... . . .",“……对不起……真的对不起……”
+english_events_maingame:L25719,eulogy_eotr,FIX,By then you've made it back to where Polly and Scott are hiding.,到时候你又回到了哪里 波莉 财务报告和审定财务报表 斯科特 藏起来,这时，你已经回到了波莉和斯科特藏身的地方。
+english_events_maingame:L25720,eulogy_eotr,FIX,Polly looks somber.,波莉 看上去很悲伤。,波莉神色黯然。
+english_events_maingame:L25722,eulogy_eotr,FIX,"I don't feel like pranking anymore, guys. Let's leave.","我不再觉得自己是小人了,伙计们 我们走吧",各位，我不想恶作剧了。走吧。
+english_events_maingame:L25723,eulogy_eotr,FIX,...Okay.,...当然了。,……好。
+english_events_maingame:L25724,eulogy_eotr,FIX,"%CURRENTPLAYERNAME%, can you get the banana peel back? This isn't fun anymore.",%CURRENTPLAYERNAME%你能把香蕉皮拿回来吗? 这已经不好玩了。,%CURRENTPLAYERNAME%，能把香蕉皮捡回来吗？这已经不好笑了。
+english_events_maingame:L25725,eulogy_eotr,FIX,"You sneak back, get the banana peel, and leave. Polly and Scott have already left the funeral, but you can't blame them for not waiting.","你偷偷回来,拿起香蕉皮,然后离开。  波莉 财务报告和审定财务报表 斯科特 已经离开了葬礼,但你不能怪他们不等待。",你偷偷回去，捡起香蕉皮后离开。波莉和斯科特已经走了，但你没法怪他们没等你。
+english_events_maingame:L25726,eulogy_eotr,FIX,Sigh.,叹曰.,唉。
+english_events_maingame:L25728,eulogy_eotr,FIX,"Horse costume? %CURRENTPLAYERNAME%, you're a natural!",马装?  %CURRENTPLAYERNAME%你是天生一对!,扮马？%CURRENTPLAYERNAME%，你简直是个天才！
+english_events_maingame:L25729,eulogy_eotr,FIX,"Go get that costume, you prankster!","去拿那身服装,你这个恶作剧者!",去拿戏服吧，恶作剧大师！
+english_events_maingame:L25731,eulogy_eotr,FIX,"Against all odds, you find a three-person horse costume. It has... six legs? You spend -N2 MONEY on such a weird, rare gem.","面对各种困难,你找到一个三人马服. 已经... 六条腿? 你花N2钱买这么怪异的珍宝",你居然真找到了一套能装下三个人的马戏服。它有……六条腿？你花了 -N2 金钱，买下这件罕见的奇葩宝贝。
+english_events_maingame:L25732,eulogy_eotr,FIX,Polly is the horse head. Scott is the horse butt. You are... whatever that middle horse part is supposed to be.,波莉 是马头  斯科特 是个马屁屁 琌... 不管中马部分是什么,波莉扮马头，斯科特扮马屁股。至于你……就扮中间那段不知道该叫什么的部位吧。
+english_events_maingame:L25733,eulogy_eotr,FIX,"As you sneak into the eulogy, you can hear snatches of the priest introducing the eulogies.","当你偷偷进入悼词, 你听到牧师的被抢 介绍的eulogies。",你偷偷溜进葬礼现场，断断续续听见牧师在为悼词作开场白。
+english_events_maingame:L25734,eulogy_eotr,FIX,"""Losing a loved one is always a tragedy. We can only imagine the weight of bearing the loss of an entire family...""","""失去亲人总是悲剧"" 我们只能想象承受整个家庭的损失的分量... ...",“失去挚爱总是一场悲剧。我们只能想象，失去整个家庭是何等沉重的痛苦……”
+english_events_maingame:L25735,eulogy_eotr,FIX,"You can't hear the entire thing, but eventually the priest invites a man to say some words about the departed.","你听不到整件事,但最终神父邀请一个人对逝去者说出一些话来.",你听不全他的话。过了一阵，牧师请一位男人上前，为逝者说几句话。
+english_events_maingame:L25736,eulogy_eotr,FIX,"You're too focused not getting caught, but you get to hear some stuff, some disconnected sentences here and there:","你太专注了,没有被抓住, 但你得到听到一些东西, 一些断开的句子在这里和那里:",你忙着躲避旁人的视线，只零零碎碎地听见几句话：
+english_events_maingame:L25737,eulogy_eotr,FIX,"""And then there's my little girl... anyone who met her knows that she could light up a room with her smile...""","""然后还有我的小女孩... 任何人遇到她,都知道她可以用微笑点亮房间......",“还有我的小女儿……认识她的人都知道，她的笑容能照亮整个房间……”
+english_events_maingame:L25738,eulogy_eotr,FIX,"""...and no matter what, she always found a reason to smile...""","""不管怎样,她总能找到一个微笑的理由...""",“……无论发生什么，她总能找到微笑的理由……”
+english_events_maingame:L25739,eulogy_eotr,FIX,"""...oh, God... I miss her smile...""","""... 天呐... 我想念她的微笑... ...""",“……天啊……我好想再看看她的笑容……”
+english_events_maingame:L25740,eulogy_eotr,FIX,"""...I'm sorry... I'm so sorry...""","""... 对不起... 我很抱歉,我... ... . . .",“……对不起……真的对不起……”
+english_events_maingame:L25741,eulogy_eotr,FIX,Polly looks somber.,波莉 看上去很悲伤。,波莉神色黯然。
+english_events_maingame:L25743,eulogy_eotr,FIX,"I don't feel like pranking anymore, guys. Let's leave.","我不再觉得自己是小人了,伙计们 我们走吧",各位，我不想恶作剧了。走吧。
+english_events_maingame:L25744,eulogy_eotr,FIX,...Okay.,...当然了。,……好。
+english_events_maingame:L25745,eulogy_eotr,FIX,"You leave in a silent, respectful trot... it's hard to break character now.","你离开的脚步,沉默,尊重... 现在很难打破角色。",你们沉默而恭敬地迈着小碎步离开……都到这份上了，实在很难不继续演下去。
+english_events_maingame:L25746,eulogy_eotr,FIX,"%CURRENTPLAYERNAME%, please, stop it.",%CURRENTPLAYERNAME%求你别闹了,%CURRENTPLAYERNAME%，拜托，别闹了。
+english_events_maingame:L25747,eulogy_eotr,FIX,Sorry.,对不起,抱歉。
+english_events_maingame:L25748,eulogy_eotr,FIX,"You three leave, and it goes without saying that you won't talk about this.","你们三个走,不用说,你们不会谈这个",你们三人离开了。心照不宣，谁也不会再提这件事。

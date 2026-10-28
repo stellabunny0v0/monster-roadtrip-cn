@@ -1,0 +1,157 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_maingame:L8838,boringshow,KEEP,Watch the show,看节目,看节目
+english_events_maingame:L8841,boringshow,FIX,You take your seats to watch the show. Scott is about to eat a chili dog when he gets tackled by a cloud of football helmets and fur.,你坐着看节目  斯科特 被一团足球头盔和皮毛所打倒时 就要吃辣椒了,你们落座看比赛。斯科特正准备吃辣肉酱热狗，就被一团夹着橄榄球头盔的毛茸茸扑倒了。
+english_events_maingame:L8843,boringshow,POLISH,BROOOO! You made it!,哥们! 你来了!,兄弟——！你来啦！
+english_events_maingame:L8844,boringshow,POLISH,"Whoa, hey bros! Polly, %CURRENTPLAYERNAME%, you know my cousins, right?","哇,嘿,兄弟们!  波莉, %CURRENTPLAYERNAME%你认识我的表弟们,对吧?",哇，嘿，兄弟们！波莉，%CURRENTPLAYERNAME%，你们认识我这些表兄弟吧？
+english_events_maingame:L8845,boringshow,FIX,"Yes, I am painfully aware of the Wolfpack.","是的,我痛苦地意识到了狼群。",认识，狼队嘛。想不认识都难，烦死了。
+english_events_maingame:L8846,boringshow,FIX,"Thank God we found you, bro -- you were almost stuck watching the awesome monster truck carnage with a bunch of lame nerds!",谢天谢地我们找到你了 兄弟 你差点被困住了 看着一群傻逼的怪兽卡车被屠杀,兄弟，幸好找到你了，不然你就只能跟一帮无聊书呆子，看这超带劲的巨轮卡车厮杀了！
+english_events_maingame:L8847,boringshow,POLISH,"What, you don't think %CURRENTPLAYERNAME% and I can handle the carnage and chaos of the DeathMatch? We INVENTED chaos, boys.","什么,你不认为 %CURRENTPLAYERNAME% 我可以处理死亡大赛的屠杀和混乱吗? 我们发现了混乱,孩子们。",怎么，你们觉得我跟%CURRENTPLAYERNAME%受不了死亡赛的血腥混乱？小子们，混乱就是我们发明的。
+english_events_maingame:L8848,boringshow,FIX,LET THE SICK FLIPS AND VEHICULAR MANSLAUGHTER BEGIN!,让雪花花和花花 开始!,让酷炫翻车和马路杀戮开始吧！
+english_events_maingame:L8849,boringshow,KEEP,IT'S STARTING!,开始啦!,开始啦!
+english_events_maingame:L8850,boringshow,FIX,"The DeathMatch begins, and two huge trucks start ramming the shit out of each other. It's... it's so...",死亡之旅开始了 两辆巨大的卡车开始互相撞出狗屎 这是... 这么...,死亡赛开始，两辆巨型卡车狠狠撞在一起。这……这也太……
+english_events_maingame:L8851,boringshow,POLISH,Bros... does anyone else think this is... boring?,哥们... 其他人认为这是... 无聊?,兄弟们……还有人觉得……有点无聊吗？
+english_events_maingame:L8852,boringshow,FIX,"You're right, Scott. The day I've always feared has finally come to pass...","你说得对, 斯科特. 我一直担心的那一天终于过去了...",你说得对，斯科特。我最害怕的那一天，终于还是来了……
+english_events_maingame:L8853,boringshow,FIX,We've become so addicted to fast entertainment at our fingertips that not even a monster truck rally can hold our attention!,我们的手指已经变得如此上瘾 快速娱乐 连怪物卡车集会都无法吸引我们的注意力!,我们已经被随手就能刷到的快餐娱乐惯坏了，连巨轮卡车大赛都抓不住我们的注意力！
+english_events_maingame:L8854,boringshow,POLISH,It's the damn referee making this thing suck!,是裁判让这玩意烂透了!,都怪那该死的裁判，把比赛搞得这么烂！
+english_events_maingame:L8855,boringshow,FIX,"QUIT CALLING FOULS, ASSHOLE! WE WANNA SEE SOME REAL CARNAGE! WE WANNA SEE SOMEONE DIE!!!","快速呼叫 fools,混蛋! 我们想看看真正的车! 我们想见一个人去死!",别他妈老吹犯规了，混蛋！我们要看真正的血肉横飞！我们要看人死！！！
+english_events_maingame:L8856,boringshow,FIX,"Okay, someone dying probably isn't the answer, but you still can't take this tedium. There must be a way to make the DeathMatch more entertaining...","好吧,有人死了可能不是答案 但你还是不能接受这种ted。 一定有办法让死亡之谜更有趣...",行吧，死人可能不是什么好办法，可你也实在受不了这么无聊了。一定有办法让死亡赛更有意思……
+english_events_maingame:L8857,boringshow,POLISH,Everyone seems to have fun by aggressively insulting the referee. But what about aggressively complimenting the referee and tipping him for doing a great job under such duress?,"人人都喜欢用侮辱裁判的方式来取乐 但是,怎么不积极称赞裁判 并给在这样的胁迫下 做出色的工作的小费呢?",大家骂裁判都骂得挺开心。不如改成拼命夸他，再给点小费，感谢他顶着这么大压力还尽职尽责？
+english_events_maingame:L8858,boringshow,POLISH,The audience seems to place bets on everything. Place a safe bet you can't lose: that the trucks won't follow accepted traffic laws.,观众似乎对一切都下注. 安全地打赌你不会输: 卡车不会遵守公认的交通法。,观众好像什么都赌。那就下个稳赢的注：这些卡车不会遵守交通法规。
+english_events_maingame:L8860,boringshow,FIX,"FUCK YOU, REF! DON'T GIVE A PENALTY JUST 'CAUSE YOUR FOOT GOT RUN OVER! YOU'RE A COWARD IF YOU DIDN'T COME HERE TO GET HURT!","滚开,雷夫! 别因为你的脚跑掉了就给罚 你是一个硬的,如果你没有来这里 受伤!",去你的，裁判！不就是脚被碾了吗，罚什么罚！来这儿还不敢受伤，你就是个孬种！
+english_events_maingame:L8861,boringshow,FIX,"Rather than join in the heckling, you tip the ref -N2 MONEY and compliment him on his athleticism as he dodges the trucks trying to hit him.","与其加入地狱,你给裁判小费 钱币,并称赞他的运动力 他躲过了卡车试图打他。",你没有跟着起哄，而是花-N2金钱给裁判打赏，还夸他身手矫健，能躲开那些想撞他的卡车。
+english_events_maingame:L8862,boringshow,POLISH,"""Wow, thanks!"" the ref says. ""I really appreciate the tip. It'll take some of the sting out of my medical bills.""","""哇,谢谢""裁判说 ""我真的很感谢小费。 这会让我的医药费 有点刺痛""",裁判说：“哇，谢谢！这小费真帮大忙了，多少能减轻点医药费的压力。”
+english_events_maingame:L8863,boringshow,POLISH,Wha...? You complimented the referee? Is that even allowed?,什麽? 你赞美裁判? 允许这样吗?,什么……？你夸了裁判？这也行？
+english_events_maingame:L8864,boringshow,POLISH,"A kind word is always allowed, boys. Watch this:","男孩们,一个好词总是允许的 看着这个:",小子们，说句好话什么时候都行。看着：
+english_events_maingame:L8865,boringshow,POLISH,"Hey, ref! I'm loving the outfit! Vertical stripes are hella fashionable!","嘿,裁判! 我很喜欢这身衣服! 垂直条纹是地狱的时尚!",嘿，裁判！我喜欢你这身衣服！竖条纹可太时髦了！
+english_events_maingame:L8866,boringshow,FIX,"Mr. Referee, I think your eyes are beautiful! At least, I assume they are, I can't see them from here.","劳伦斯先生 裁判,我觉得你的眼睛很美! 至少,我想他们是, 我看不到他们从这里。",裁判先生，我觉得你的眼睛很漂亮！至少应该挺漂亮的吧，这儿太远，看不见。
+english_events_maingame:L8867,boringshow,POLISH,You jerks think you're better at complimenting than us?! We can compliment SO MUCH HARDER than you!,你们这些混蛋认为你们比我们更擅长夸奖吗? 我们可以赞美如此多的 痛苦比你!,你们这些混蛋，觉得自己比我们会夸人？！我们能夸得比你们猛多了！
+english_events_maingame:L8868,boringshow,POLISH,"HEY, REF! Your stupid hog-ugly face is a lot prettier far away than it is up close!","嘿,雷夫! 莱夫! 你那愚蠢的猪丑脸 远比近多了",嘿，裁判！你那张丑得像猪的蠢脸，远看可比近看漂亮多了！
+english_events_maingame:L8869,boringshow,POLISH,Backhanded compliments don't count.,后手恭维不计.,阴阳怪气的美言不算。
+english_events_maingame:L8870,boringshow,FIX,"Fine, uh... hey, ref! Did you know that red wine complements steak? Try it sometime!","好吧,呃... ... 说吧,我... 嘿,裁判! 你知道红酒是牛排的补品吗? 试试看吧",好吧，呃……嘿，裁判！红酒配牛排，美酒配佳肴！改天试试！
+english_events_maingame:L8871,boringshow,POLISH,Wrong type of compliment. Do you guys know what a compliment even is?,恭维之类错. 你们知道什么是赞美吗?,让你说美言，没让你说美酒。你们到底知不知道什么叫夸人？
+english_events_maingame:L8872,boringshow,FIX,"Yeah, it's something you say to a nice lady if you want her to give you pussy.","是啊,这是你对一个好女人说的话 如果你想让她给你阴道。",知道啊，就是你想跟漂亮妞打炮时，对她说的那些话嘛。
+english_events_maingame:L8873,boringshow,FIX,"Wait, that's it! HEY, REF! YOU'VE GOT A MAGNIFICENT PUSSY!","等等,就是这样! 嘿,雷夫! 莱夫! 你有一个伟大的PUSSY!",等等，有了！嘿，裁判！你的逼真他妈漂亮！
+english_events_maingame:L8874,boringshow,POLISH,"Well, they're not there yet but they tried their best. Your compliments were better than that, so you at least gain +N2 SOUL!","他们还没到那里,但他们尽力了 你的赞美比那更好,所以你至少得到+N2 SOUL!",好吧，虽然还没学会，但他们已经尽力了。你夸得比这强多了，至少获得了+N2灵魂！
+english_events_maingame:L8876,boringshow,FIX,I bet 2 MONEY that the trucks won't obey traffic laws!,"我打赌两块钱,卡车不会遵守交通法!",我赌2金钱，这些卡车不会遵守交通法规！
+english_events_maingame:L8877,boringshow,POLISH,"(%CURRENTPLAYERNAME%, c'mon. I respect the attempted hustle, but not even the Wolfpack will fall for--)",(%CURRENTPLAYERNAME%来吧。 我尊重这种企图 但即使是狼人也不会爱上...,（%CURRENTPLAYERNAME%，别闹。你想捞一笔，这我敬你，可这连狼队都不会上——）
+english_events_maingame:L8878,boringshow,FIX,"YOU'RE ON, NERD!!!","上啊,内特!",赌就赌，书呆子！！！
+english_events_maingame:L8879,boringshow,POLISH,"(Oh, never mind. I can't believe I almost gave them credit.)","(哦,没关系。 我不敢相信我差点就给了他们功劳。",（哦，当我没说。差点就高看他们了。）
+english_events_maingame:L8880,boringshow,POLISH,"In the first round alone, you point out fourteen traffic violations:",仅第一轮就指出14起交通违规事件:,光是第一轮，你就指出了十四起交通违章：
+english_events_maingame:L8881,boringshow,POLISH,"The trucks don't use turn signals, they take sharp turns at high speeds, they ignore traffic cones...","卡车不使用转弯信号,高速进行锐快转弯,忽略了交通锥. .",不打转向灯、高速急转弯、无视交通锥……
+english_events_maingame:L8882,boringshow,POLISH,Neither truck exchanges insurance information after crashing into each other...,卡车在撞到对方后 也没有交换保险信息,撞车之后，双方还不交换保险信息……
+english_events_maingame:L8883,boringshow,POLISH,"And one truck apparently has spikes on its wheels that can cut through a steel exoskeleton, which is definitely not street legal!",一辆卡车的车轮上显然有钉子 可以切出钢铁外壳 这绝对不合法,还有一辆卡车，车轮上的尖刺能切穿钢铁外骨骼。这绝对不能合法上路！
+english_events_maingame:L8884,boringshow,POLISH,You're just making shit up to confuse us! None of those things are against the driving rules!,你只是编个鬼来迷惑我们! 这些都是没有违驾规则的!,你就是瞎编来唬我们的！这些哪条违反驾驶规则了！
+english_events_maingame:L8885,boringshow,POLISH,Are you serious? Do you guys not know how to drive?,你是认真的吗? 你们不知道怎么开车吗?,认真的？你们到底会不会开车？
+english_events_maingame:L8886,boringshow,POLISH,"No, we know how to drive. The rules are you gotta go faster than everyone else, and the more pedestrians you hit, the more points you get!","不,我们知道怎么开车。 规矩是,你必须比其他人快一点, 越是行人撞到,你得到的分数就越多!",当然会。规则就是得比所有人都快，撞的行人越多，分数越高！
+english_events_maingame:L8887,boringshow,POLISH,"At least, that's what every driving simulator we've ever played has taught us.","至少,我们玩过的每一个驾驶模拟器 都教过我们这个",至少我们玩过的驾驶模拟器，都是这么教的。
+english_events_maingame:L8888,boringshow,FIX,...Are you referring to Grand Theft Auto?,"...你是在说""大盗汽车""吗?",……你们说的是《侠盗猎车手》吧？
+english_events_maingame:L8889,boringshow,FIX,"Well, whether the Wolfpack believes it or not, they owe you +N2 MONEY. You lose -N2 HYPE for wagering such an easy-to-win bet, though.","不管狼人相信与否 他们都欠你钱 你输了N2 HYPE 赌这么容易赢的赌注,虽然。",不管狼队信不信，他们都欠你+N2金钱。不过，这注赢得实在太轻松，让你失去了-N2热度。
+english_events_maingame:L8897,climbtruck,FIX,Take a joyride,骑一匹好马,开车兜兜风
+english_events_maingame:L8901,climbtruck,POLISH,Your plan to drive a truck in the Monster Truck DeathMatch is going well until security says you can't drive a truck in the Monster Truck DeathMatch.,"你计划开一辆卡车在怪物卡车死亡标记车里 运行顺利,直到保安说你不能在怪物卡车死亡标记车里开一辆卡车。",你们本想开辆卡车参加巨轮卡车死亡赛。一切进展顺利，直到保安告诉你们：你们不能开卡车参加巨轮卡车死亡赛。
+english_events_maingame:L8903,climbtruck,POLISH,"What do you mean, ""we don't have security clearance?"" Don't you know who I am?!","""我们没有安全许可""是什么意思? 你不知道我是谁吗?",什么叫“我们没有通行许可”？你不知道我是谁吗？！
+english_events_maingame:L8904,climbtruck,POLISH,"""Uh... no, I don't. That's why I'm not letting you inside.""","""U. 不,我没有。 所以我才不让你进去""",“呃……不知道。所以才不让你进去啊。”
+english_events_maingame:L8905,climbtruck,FIX,"But I'm THE Turkbekistan Worldwide Monster Truck DeathMatch Champion three years in the running!""",但我是土耳其世界怪兽卡车死亡赛冠军 三年跑!,我可是连续三届土尔别克斯坦世界巨轮卡车死亡赛冠军！
+english_events_maingame:L8906,climbtruck,POLISH,"""Oh shit, are you serious? We're so sorry. We didn't know you were coming today.""","""哦,妈的,你是认真的吗? 我们很抱歉。 我们不知道你今天会来。”",“我去，真的假的？太抱歉了，我们不知道您今天会来。”
+english_events_maingame:L8907,climbtruck,FIX,"I'll let it slide for now, gentlemen, but the Turkbekistani Emperor will hear about this!","我暂时让它滑走,先生们 但土耳其皇帝会听到的!",先生们，这次我就不计较了。不过这件事，土尔别克斯坦皇帝会知道的！
+english_events_maingame:L8908,climbtruck,FIX,"""Wow, Turkbekistan has an emperor now? Times sure change!""","""哇,土耳其别克斯坦现在有皇帝了? 时代确实变了!""",“哇，土尔别克斯坦现在都有皇帝了？时代真是变了啊！”
+english_events_maingame:L8909,climbtruck,FIX,"The security guards let ""the Turkbekistani champion"" (Polly) and ""her hype squad"" (you and Scott) into the arena.","保安让""突厥比克斯坦尼冠军""(图克比克斯坦尼)波莉)和""她那群骚动的""(你和 斯科特进入竞技场。",保安让“土尔别克斯坦冠军”（波莉）和“她的应援团”（你和斯科特）进了赛场。
+english_events_maingame:L8910,climbtruck,POLISH,"I can't believe that worked! Let's ride, gang!","真不敢相信这能行! 来,我们走!",居然真成了！伙计们，开起来吧！
+english_events_maingame:L8911,climbtruck,POLISH,"Uh... we still have a problem, bros. These trucks are way too tall to climb into.","额... 我们还有问题,兄弟们 这些卡车太高了,不能爬进去",呃……还有个问题，兄弟们。这些卡车太高，爬不上去啊。
+english_events_maingame:L8912,climbtruck,POLISH,"Fuck, you're right! Stupid monster-truck engineers only cared about how high they COULD make their trucks, and not how high they SHOULD have.","他妈的,你说得对! 愚蠢的怪兽卡车工程师只关心他们能造出多高的卡车,而不是他们应该造多高的卡车.",操，你说得对！那些蠢货工程师，光顾着想卡车能造多高，根本没想过该不该造这么高！
+english_events_maingame:L8913,climbtruck,POLISH,"Polly, if we're getting in, we need to do it quick. The crowd's getting restless!","波莉如果我们要进去,我们得快点 观众越来越不安了!",波莉，要上车就得快点，观众等得不耐烦了！
+english_events_maingame:L8915,climbtruck,FIX,"What's happening?! Someone better figure out how to drive that car quick, or I'm gonna get really PISSY and RESTLESS!",发生什么事了? 最好想办法开快车 不然我就要被逼疯了,怎么回事？！赶紧来个人把车开起来，不然我要开始暴躁、开始不耐烦了！
+english_events_maingame:L8916,climbtruck,POLISH,"Shit, it's true. You need to think of a way to get in that car!","妈的,这是真的。 你得想个办法才能上车!",妈的，还真是。得赶紧想个办法上车！
+english_events_maingame:L8917,climbtruck,FIX,"This is why God invented giraffes, probably. Dunno, conjure a giraffe?",这可能是上帝发明长颈鹿的原因 算不上是长颈鹿?,上帝创造长颈鹿，大概就是为了这种时候吧。不知道，变一只出来？
+english_events_maingame:L8918,climbtruck,FIX,"Transcend the sense of self until space makes no sense anymore. You are everything and you are everywhere; therefore, you're already inside the monster truck.","将自我感传递到太空不再有意义为止. 你什么都是,你无所不在,因此你已经进入了怪物卡车。",超越自我，直到空间再无意义。你是万物，你无处不在，所以你已经在巨轮卡车里面了。
+english_events_maingame:L8920,climbtruck,FIX,"Ugh, why are Scott and his friends drawing pictures in the mud on the monster truck instead of just driving the monster truck! THIS IS DUMB!","唉,为什么 斯科特 和他的朋友在怪物卡车上 在泥地上画相 而不是仅仅驾驶怪物卡车! 这是哑巴!",烦死了，斯科特跟他朋友干嘛不直接开车，非要在巨轮卡车的泥巴上画画？！蠢死了！
+english_events_maingame:L8921,climbtruck,FIX,Holy shitballs... I think they're attempting the Forbidden Giraffe Transmutation!,神圣的狗屎球... ... . 我想他们正在尝试紫禁吉拉夫的变形术,我操……他们好像在尝试禁忌的长颈鹿炼成术！
+english_events_maingame:L8922,climbtruck,POLISH,The... what? Is that a new sports strategy or something?,那个... 什麽? 这是新的体育策略吗?,什么……术？是什么新的体育战术吗？
+english_events_maingame:L8923,climbtruck,FIX,"No, bro, it's alchemy! Scott and his friends are drawing the alchemical symbols to summon a giraffe!","不,兄弟,这是炼金术!  斯科特 他的朋友画出高能符号召唤长颈鹿!",不是，兄弟，是炼金术！斯科特和他朋友在画炼金符号，想召唤一只长颈鹿！
+english_events_maingame:L8924,climbtruck,POLISH,"But it's so risky... with the Law of Equivalent Exchange, they'll have to sacrifice something to create such a complex creature.","但风险太大了... 有了""等价交换法"",他们必须牺牲一些东西来创造出这样一个复杂的生物.",可风险太大了……按照等价交换原则，要创造这么复杂的生物，就必须付出牺牲。
+english_events_maingame:L8925,climbtruck,POLISH,"Damn, bro, how do you know all that?","该死,兄弟,你怎么知道这些的?",我去，兄弟，你怎么懂这么多？
+english_events_maingame:L8926,climbtruck,POLISH,"I'm into alchemy. You know I do other stuff besides stand behind you wearing a football helmet, right?",我对炼金术感兴趣 你知道我除了站在你身后 戴着足球头盔外 还会做其他的事 对吧?,我喜欢炼金术啊。你不会以为，我除了戴着橄榄球头盔站你后面，就没别的爱好了吧？
+english_events_maingame:L8928,climbtruck,POLISH,"While the Wolfpack bickers, you guys have finally completed your summoning circle. From the fabric of the universe, you slowly begin assembling the giraffe.","狼人争吵的时候 你们终于完成了召唤圈 从宇宙的构造开始,你慢慢地开始组装长颈鹿。",狼队还在斗嘴，你们终于画好了召唤阵，开始从宇宙的构造中，一点点拼出长颈鹿。
+english_events_maingame:L8929,climbtruck,FIX,"The giraffe's giant skeleton spawns from nothingness. The bones are then slowly coated with bloody, sinuous, throbbing muscle and flesh.",长颈鹿的巨型骨架产自一无所有 然后用血淋淋的、阴沉的、筋疲力竭的肌肉和肉皮来慢慢地涂上骨头。,巨大的长颈鹿骨架凭空出现。血淋淋的肌肉和皮肉缓缓缠绕、覆盖上去，蜿蜒着，一下下搏动。
+english_events_maingame:L8930,climbtruck,FIX,A horribly anguished bleating cry fills the arena as the giraffe is conjured from its dark realm into your reality.,令人痛苦的哭声充斥着竞技场 长颈鹿从黑暗的地盘 被你逼入现实,长颈鹿从黑暗的领域被召进你们的现实，痛苦至极的惨叫响彻整个赛场。
+english_events_maingame:L8931,climbtruck,POLISH,You begin to understand why nobody knows what a giraffe sounds like. It's too painful to witness.,"你开始明白为什么没人知道长颈鹿听起来像什么 太痛苦了,无法见证。",你开始理解，为什么没人知道长颈鹿怎么叫了。实在是听不下去。
+english_events_maingame:L8932,climbtruck,POLISH,"Oof, is it finally summoned? That was a HUGE bummer.","哦,它终于召回了吗? 真是个胡闹的烂摊子",唉，终于召出来了？也太让人难受了。
+english_events_maingame:L8933,climbtruck,POLISH,"Sorry we subjected you to so much pain and misery, giraffe bro. Would taking a joyride in a monster truck make up for it?",抱歉让你受了这么多痛苦和折磨 长颈鹿兄弟 乘怪兽卡车去欢乐会弥补吗?,抱歉，长颈鹿兄弟，让你受了这么多苦。带你开巨轮卡车兜兜风，能不能补偿一下？
+english_events_maingame:L8934,climbtruck,FIX,"The giraffe lets out a horrible bleat that you take to mean ""yes please!"" He ferries you up to the truck bed and then climbs in himself.","长颈鹿放出一匹可怕的大马车,你认为""是的,请!"" 他把你拖到卡车上,然后爬进自己身上。",长颈鹿发出一声可怕的叫声，你们就当是“好啊，拜托了！”它把你们送上卡车后斗，自己也爬了进去。
+english_events_maingame:L8935,climbtruck,FIX,"You gain +N2 HYPE competing in the Monster Truck DeathMatch, your giraffe bleating joyously the whole time.","你赢得了N2 HYPE在怪兽卡车死亡战车比赛中的竞争, 你的长颈鹿在大腿上大出血, 整个时间。",参加巨轮卡车死亡赛，让你获得了+N2热度。长颈鹿一路都在欢快地叫着。
+english_events_maingame:L8936,climbtruck,FIX,"Unfortunately, you lost -N2 MAGIC due to that whole Law of Equivalent Exchange bullshit. Oof.","可惜你因为那套""等价交易定律""的废话 失去了N2 MAGIC 哦,这下子了。",可惜，那套等价交换的破规矩让你失去了-N2魔力。唉。
+english_events_maingame:L8939,climbtruck,POLISH,"Ooh, okay! As a semi-corporeal ghost, I'm GREAT at ignoring the laws of physics.","哦,还好! 作为一个半体形的幽灵,我非常喜欢无视物理定律。",哦，可以啊！身为半实体的鬼，违反物理定律我可拿手了。
+english_events_maingame:L8940,climbtruck,FIX,"Here's how ya do it: first, imagine nothingness. Now, imagine something-ness. Now, ask yourself... how different are they really?","接下来你怎么做: 首先,想象一下什么也没有。 现在,想象一下什么是... 内在。 现在,问问你自己... 到底有什么不同吗?",来，先想象“无”。然后想象“有”。再问问自己……这俩到底差多少？
+english_events_maingame:L8941,climbtruck,POLISH,"Uh... pretty different, I think. Like, total opposites actually.","额... 我觉得这很不一样 完全相反,其实。",呃……我觉得差挺多的吧。根本就是完全相反啊。
+english_events_maingame:L8942,climbtruck,POLISH,"Don't be so sure, boo. The lines of physics in this world are not so cleanly drawn.","别那么肯定,嘘 这个世界的物理线条 并不是那么干净的画。",别那么肯定，宝贝。这个世界的物理界限，可没划得那么清楚。
+english_events_maingame:L8943,climbtruck,FIX,The existence of the multiverse and interdimensional travel prove that fixed existence in one space is a total myth.,多相和相维旅行的存在证明了在一个空间中的固定存在是一个总的神话.,多元宇宙和跨次元旅行的存在，足以证明“只能固定存在于某处”根本就是扯淡。
+english_events_maingame:L8944,climbtruck,FIX,The Human Realm and Monster Realm overlap; they just exist on a different quantum level or something. Who's to say how many other realms sit on top of ours?,人类王国和怪物王国的重叠;它们只是存在于不同的量子级或什么的. 谁说还有多少个世界坐我们上面?,人类世界和怪物世界彼此重叠，只不过在不同量子层面之类的地方。谁知道还有多少世界叠在咱们的世界上？
+english_events_maingame:L8945,climbtruck,POLISH,"What does it even mean to be ""here"" and not ""there""? Aren't we all just atoms and stardust being yanked around by gravity and magic?","说""这里""而不是""那里""是什么意思? 我们是不是都只是被引力和魔法所缠绕着的原子和星尘?",在“这里”，不在“那里”，到底是什么意思？我们不都只是被引力和魔法扯来扯去的原子和星尘吗？
+english_events_maingame:L8946,climbtruck,FIX,How is wishy-washy-ass reality gonna stop us from being in the monster truck RIGHT NOW?!,如何是希望 - 洗屁股 - 现实会阻止我们 进入怪物卡车现在?,这破现实自己都含糊不清，凭什么不让我们现在就在巨轮卡车里？！
+english_events_maingame:L8947,climbtruck,POLISH,Isn't meditation supposed to relax you? 'Cause this is just making my head hurt.,冥想不是应该让你放松吗? 因为这样只会让我头痛,冥想不是应该让人放松吗？我怎么越听越头疼。
+english_events_maingame:L8948,climbtruck,FIX,"Yours is too. You've lost -N2 MIND trying to understand Polly's experimental, borderline-nonsensical train of thought.","汝等亦尔. 你输了N2 MIND试图理解 波莉实验性的,边缘的-非感想的列车.",你也头疼。为了理解波莉那套极具实验性、近乎胡说八道的思路，你失去了-N2头脑。
+english_events_maingame:L8950,climbtruck,POLISH,"Well don't worry, it still worked! We're inside the monster truck!","别担心,它还有效! 我们在怪兽卡车里面!",不过别担心，还是成功啦！我们已经在巨轮卡车里了！
+english_events_maingame:L8953,climbtruck,FIX,HOLY SHIT! How'd they do that?!,神圣的地狱! 他们怎么做到的?,我操！他们怎么做到的？！
+english_events_maingame:L8956,climbtruck,POLISH,"Who knows; who cares? Fuck physics, fuck space, fuck time, fuck logic, and most of all: FUCK THESE OTHER MONSTER TRUCKS! LET'S SMASH 'EM!","谁知道呢 谁在乎呢 去他妈的物理,去他妈的空间,去他妈的时间, 去他妈的逻辑,最重要的是,去他妈的其他的怪物卡车! 让我们去打他们!",谁知道呢，谁管啊！去他妈的物理、空间、时间、逻辑！最重要的是：去他妈的其他巨轮卡车！撞烂它们！
+english_events_maingame:L8957,climbtruck,FIX,Polly gets her wish; you drive your monster truck in the DeathMatch and gain +N2 HYPE!,"波莉 得到她的愿望,你开你的怪兽卡车 在死亡赛 并获得+N2 HYPE!",波莉如愿以偿。你们开着巨轮卡车参加死亡赛，获得了+N2热度！
+english_events_maingame:L8965,sellfood,FIX,Pose as food vendors,卖出一匹马当卖出一匹马,假扮食品小贩
+english_events_maingame:L8969,sellfood,POLISH,You just checked your bank account and had a minor heart attack. It's time to make some extra cash...,你刚刚检查了你的银行账户 心脏病发作 是时候赚点额外的钱了...,你刚查了银行余额，差点心梗。是时候赚点外快了……
+english_events_maingame:L8971,sellfood,POLISH,"Don't worry, I know the perfect way for us to get money. Let's pretend to be food vendors!","别担心,我知道我们有办法赚钱 装成卖粮的",别担心，怎么赚钱，我有个绝妙的办法。咱们假扮卖吃的！
+english_events_maingame:L8972,sellfood,POLISH,But won't people notice we don't have uniforms or food or stuff?,但人们不会注意到我们没有制服或食物之类的吗?,可咱们没制服，也没吃的，人家不会发现吗？
+english_events_maingame:L8973,sellfood,POLISH,"Psh, we don't need all that fancy shit to get people to give us money.",我们不需要那些花花公子 来让人们给我们钱,切，想让人掏钱，哪用得着那些花里胡哨的东西。
+english_events_maingame:L8974,sellfood,POLISH,We're at a monster truck rally. Everyone's too focused on the monster trucks to actually stop and realize we're phonies.,我们在一辆怪兽卡车的集会上 每个人都太专注于怪物卡车 以至于无法真正地停下来 并意识到我们是假的。,这可是巨轮卡车大赛。大家光顾着看车，根本没空反应过来，发现咱们是假冒的。
+english_events_maingame:L8975,sellfood,POLISH,"Trust me, half the ""food vendors"" here are scammers themselves. Look around.","相信我,这里一半的""食品商"" 本身都是骗子。 环顾四周.",相信我，这里的“食品小贩”，一半自己就是骗子。往四周看看。
+english_events_maingame:L8977,sellfood,FIX,"""FOOD""! GET YOUR ""FOOD"" HERE!","福德! 福德! 福德! 福德! 福德! 福德! 福德! 福德! 把你的""食物""拿来!",卖“吃的”咯！来这儿买“吃的”！
+english_events_maingame:L8978,sellfood,FIX,"Great, I'm starving! But... did you put ""food"" in air quotes?","好极了,我饿死了! 不过... 你是否在空中引用""食物""?",太好了，饿死我了！不过……你说“吃的”的时候，干嘛用手比引号？
+english_events_maingame:L8979,sellfood,POLISH,Who knows? You're too focused on the monster trucks to even notice that I'm a phony.,谁知道呢? 你太专注于怪兽卡车 甚至没有注意到我是个骗子,谁知道呢？你光顾着看巨轮卡车，根本没发现我是个骗子。
+english_events_maingame:L8980,sellfood,POLISH,"Yeah, good point. One ""food"" please!","是啊,说得好。 来一""食物""吧!",对啊，有道理。给我来份“吃的”！
+english_events_maingame:L8981,sellfood,POLISH,Excellent! I just put it into your mouth. No refunds!,不错! 我只是把它 到你的嘴里。 不退钱!,好嘞！已经放你嘴里了。概不退钱！
+english_events_maingame:L8983,sellfood,POLISH,"Mmm... this tastes... weird... what am I eating, bros?","垛... 这味道... 怪怪的... 我吃什么,兄弟们?",唔……这味道……怪怪的……兄弟们，我吃的是什么啊？
+english_events_maingame:L8984,sellfood,POLISH,Can't look now! Too busy staring at trucks!,现在看不见了! 忙着盯着卡车!,现在没空看！看卡车还忙不过来呢！
+english_events_maingame:L8985,sellfood,FIX,"Holy shit, this really will be easy. The only thing left to decide is what ""food"" product you're going to sell to these suckers...","糟了,这真的很容易 唯一能决定的就是 你要卖给这些混蛋什么""食品""产品...",我操，还真是好骗。只剩一件事要决定了：该卖什么“食物”给这帮冤大头……
+english_events_maingame:L8986,sellfood,FIX,Sell hard metaphysical questions. It will be... food for thought.,卖硬元物理问题. 这将是... 供养想.,卖深奥的形而上学问题。这就是……精神食粮。
+english_events_maingame:L8987,sellfood,FIX,You're with Scott. And with Scott there's never a shortage of... SCOTT SNACKS!,你和谁在一起? 斯科特. 和与 斯科特 从不缺... 斯科特・纳克兹!,有斯科特在，还能缺什么？当然是……斯科特零食！
+english_events_maingame:L8988,sellfood,FIX,These people really love cars. Milk your car to get some sweet CAR JUICE!,这些人真的很爱汽车。 挤出你的车来取一些甜的车JUICE!,这些人那么爱车，就给咱们的车挤挤奶，来点香甜的汽车汁！
+english_events_maingame:L8991,sellfood,POLISH,"Great idea! People at monster truck rallies always expect hot dogs and beer, but what they're really craving are unanswerable philosophical questions!","不错的主意! 怪兽卡车集会上的人总是期待热狗和啤酒,但他们真正渴望的却是无法回答的哲学问题!",好主意！来巨轮卡车大赛的人总以为自己想要热狗和啤酒，其实他们渴望的是无解的哲学问题！
+english_events_maingame:L8992,sellfood,FIX,"Scott, is that you? Why are you and your nerd friends talking about philosophy when you could be talking about sick-ass monster trucks?",斯科特是你吗? 你和你那群呆子朋友 为什么要谈论哲学呢? 可能你说的是 变态的怪兽卡车?,斯科特，是你吗？不聊那么牛逼的巨轮卡车，你跟你的书呆子朋友聊什么哲学啊？
+english_events_maingame:L8993,sellfood,FIX,"We're selling food for thought, bros! Do any of you have hungry brains?","我们卖食物是为了思考,兄弟们! 你们有谁有饥饿的大脑吗?",我们在卖精神食粮啊，兄弟们！你们谁的脑子饿了？
+english_events_maingame:L8994,sellfood,REVIEW,"Here, try a free sample: why do we bake cookies, but cook bacon?","在这里,试试免费的样本:为什么我们烤饼干,但煮培根?",来，免费尝一口：为什么饼干叫 cookies，却用 bake 来做；培根叫 bacon，却用 cook 来做？
+english_events_maingame:L8995,sellfood,FIX,...Whoa.,"..哇哇,我还不知道...",……哇。
+english_events_maingame:L8996,sellfood,POLISH,"Or this one: if you enjoyed yourself while you were ""wasting time"", was that time really even wasted?","或者这个:如果你在""浪费时间""的时候享受自己,那真的是浪费时间吗?",再来个：如果你“浪费时间”的时候很开心，那这时间真的算浪费了吗？
+english_events_maingame:L8997,sellfood,FIX,WHOOOOOA!,呜呜!,哇——！
+english_events_maingame:L8998,sellfood,FIX,"Or the ULTIMATE unanswerable question: if you hate all the haters, aren't you a hater yourself?!","或者ULTIMATE 无法回答的问题:如果你恨所有仇恨者,你是不是自己是仇恨者?",还有这道终极无解题：如果你讨厌所有爱喷人的人，那你自己不也在喷人吗？！
+english_events_maingame:L8999,sellfood,FIX,YOU ARE BLOWING MY MOTHERFUCKIN' MIND RIGHT NOW!,你打我他妈的 想法现在!,我他妈的脑子要炸了！
+english_events_maingame:L9000,sellfood,POLISH,"I wanna try! If werewolves turn into wolves in the moonlight, but moonlight is just reflected sunlight, why aren't we wolves all the time?","我想试试看! 如果狼人变成狼 在月光下, 但月光只是反射出阳光, 为什么我们不是狼 一直?",我也来！如果狼人遇上月光就会变成狼，可月光又只是反射的阳光，那我们为什么不是一直都变成狼呢？
+english_events_maingame:L9001,sellfood,KEEP,...,...,...
+english_events_maingame:L9002,sellfood,KEEP,...,...,...
+english_events_maingame:L9003,sellfood,FIX,"Damn, that's a good one. You lose -N2 MIND pondering all these questions.","该死,那是个好东西 你输了N2 MID思考这些问题。",我去，这个问题问得好。思考这些问题，让你失去了-N2头脑。
+english_events_maingame:L9004,sellfood,FIX,"Whoa, I've been so busy thinking, I forgot all about being hungry! This food for thought thing is the shit! Take our +N2 MONEY!","我忙着想,我忘了怎么饿! 食物是用来思考的 带上我们的+N2钱!",哇，光顾着动脑子，我都忘了饿了！精神食粮真他妈牛逼！拿着我们的+N2金钱！
+english_events_maingame:L9007,sellfood,FIX,"Broooo, did you say you have Scott Snacks?!","布魯克,你不是说有? 斯科特 吃小吃吗?",兄弟——你说你有斯科特零食？！
+english_events_maingame:L9008,sellfood,FIX,Of course I have Scott Snacks! My contract says I can never leave home without them!,"当然了 斯科特 ack! 我的合同说,我不能离开家 没有他们!",那当然！我的合同写着，出门绝对不能不带斯科特零食！
+english_events_maingame:L9009,sellfood,FIX,AWESOOOOME! We'll take some!,好极了! 来啊! Awesooome! 我们吃点!,太——棒——啦！给我们来点！
+english_events_maingame:L9010,sellfood,POLISH,"Hey, Scott, do you remember when you starred in that weird cartoon to promote these snacks? That was funny.",顿 斯科特你还记得你曾经主演过那部怪异的漫画吗? 这很有趣。,嘿，斯科特，你还记得自己以前主演过一部推广这零食的怪动画吗？那可真逗。
+english_events_maingame:L9011,sellfood,FIX,"Are you talking about ""Scott Snaccs"", the reverse-harem anime about the Scott Snacks Supermarket? Of course I remember! I played all the parts!","你在说""斯科特 螺丝,反光发条的动画 斯科特 吃点超市? 我当然记得! 我玩了所有部件!",你说的是《斯科特真可口》？那部以斯科特零食超市为背景的逆后宫动画？当然记得！所有角色都是我演的！
+english_events_maingame:L9012,sellfood,POLISH,"I was the strong, silent, handsome supermarket butcher...","我是那个强壮,安静,帅气的超市屠夫...",我演了超市里那个强壮、沉默又英俊的肉铺师傅……
+english_events_maingame:L9013,sellfood,POLISH,And I was also the charming divorced dad who brought his kids to the store to get groceries every week...,我也是那个迷人的离婚父亲 他把孩子带到商店里 每周买东西...,还演了那个迷人的离异爸爸，每周都带孩子来超市买菜……
+english_events_maingame:L9014,sellfood,FIX,And I was ALSO the annoying-yet-sexy supermarket manager everybody hated to love...,我也是那些讨厌的性感超市经理...,还有那个让人又爱又恨、烦人却性感的超市经理……
+english_events_maingame:L9015,sellfood,FIX,I even played the cardboard-cutout of the Scott Snacks mascot who magically came to life with the power of sexy friendship!,"我甚至还玩过纸板剪接游戏 斯科特 神奇地以性感友谊的力量复活的""小吃""吉祥物!",我甚至演了斯科特零食吉祥物的人形立牌，靠性感友谊的力量，神奇地活了过来！
+english_events_maingame:L9016,sellfood,POLISH,"Yeah, ""Scott Snaccs"" had a good run. I liked the episode where you had an appropriately-anime over-the-top sales battle with your rival grocery store.","对, ""斯科特 斯纳克斯""有一个很好的跑步。 我喜欢你和竞争对手杂货店 有过一场适当的超市销售战",对，《斯科特真可口》当年挺火。我喜欢你跟竞争超市打销售大战的那集，夸张得很有动画片那味儿。
+english_events_maingame:L9017,sellfood,FIX,"Holy shit, you're DEFINITELY binge-watching ""Scott Snaccs"" later. For now, though, you gotta make some sweet cash.","神圣的狗屎,你 彻底的宾格-看 ""斯科特 后出斯纳克. 不过现在你得赚点钱",我操，回头一定要把《斯科特真可口》一口气补完。不过现在，还是先赚钱吧。
+english_events_maingame:L9018,sellfood,FIX,You earn +N2 MONEY selling Scott Snacks to other spectators who are nostalgic about Scott's anime.,"你赚了钱,卖钱 斯科特 向怀有 斯科特动画",你把斯科特零食卖给那些怀念这部动画的观众，赚了+N2金钱。
+english_events_maingame:L9019,sellfood,FIX,It takes some of the sting out of the -N2 STAMINA you lose giving all that food up.,需要一些刺出 -N2STAMINA 你输掉所有的食物。,为了卖货把吃的都交出去，让你失去了-N2体力，不过赚到的钱多少算点安慰。
+english_events_maingame:L9021,sellfood,FIX,"You siphon -N2 MAGIC from the car and start hawking your delicious ""car juice"" to anyone stupid enough to drink it.","你从车里吸了N2 MAGIC 然后开始把美味的""汽车汁"" 给任何蠢到可以喝它的人",你从车里抽走-N2魔力，开始向那些蠢到肯喝的人，叫卖美味的“汽车汁”。
+english_events_maingame:L9023,sellfood,FIX,"Scott, is that you? Why are you and your nerd friends carrying around a gas canister when you could be watching monster trucks ram the shit out of each other?",斯科特是你吗? 你和你的书呆子朋友为什么带着毒气罐 看着怪物卡车互相撞出屎来?,斯科特，是你吗？你跟你这些书呆子朋友，不看巨轮卡车狠狠互撞，拎着个汽油桶干嘛？
+english_events_maingame:L9024,sellfood,POLISH,"Hey, bros! We're selling car juice to the spectators. You wanna try some?","嘿,兄弟们! 卖出车汁给观众 你想试试吗?",嘿，兄弟们！我们在卖汽车汁给观众呢，要尝尝吗？
+english_events_maingame:L9025,sellfood,POLISH,Car juice? What's that? Some kinda new energy drink?,车汁? 这是什么? 某种新能源饮料?,汽车汁？那是什么？新出的能量饮料？
+english_events_maingame:L9026,sellfood,POLISH,"You said it, not us!","你说的,不是我们!",你自己说的啊，我们可没说！
+english_events_maingame:L9027,sellfood,FIX,ALL the big muscle car aficionados drink car juice. I can't believe you haven't heard of it.,所有大肌肉车的focionados喝 汽车汁。 真不敢相信你没听说过,肌肉车迷全都喝汽车汁。你们居然没听过？
+english_events_maingame:L9028,sellfood,POLISH,Who said we hadn't heard of it?! We love cars! We know EVERYTHING about cars!,谁说我们没听说过? 我们喜欢汽车! 我们都知道车的事!,谁说我们没听过？！我们爱车！车的事我们全知道！
+english_events_maingame:L9029,sellfood,FIX,We even know what makes them go: the power of testosterone!,我们甚至知道是什么让他们去:睾丸酮的力量!,连车靠什么跑，我们都知道：靠睾酮的力量！
+english_events_maingame:L9030,sellfood,FIX,"I love cars so much, I'd even fuck my car!","我非常喜欢汽车,甚至会他妈的我的车!",我爱车爱到，跟我的车打炮都行！
+english_events_maingame:L9031,sellfood,POLISH,Uh... okay. I didn't ask--,额... 还好。 我没有问 --,呃……好吧。我也没问——
+english_events_maingame:L9032,sellfood,POLISH,"That's nothing! I love cars so much, I'd marry my car and open a joint bank account with it!","什么都没有! 我非常喜欢汽车,我会嫁给我的汽车, 并开一个联合银行账户与它!",这算什么！我爱车爱到，能跟自己的车结婚，再一起开个联名银行账户！
+english_events_maingame:L9033,sellfood,FIX,"DON'T TRY TO ONE-UP ME, BRO! I love cars so much, sometimes I get naked, cover myself in car paint, and run around making engine noises!","别试我一个人,兄弟! 我非常喜欢汽车 有时我裸体 遮住自己 涂上汽车漆 到处跑来跑去 制造引擎噪音",别想压我一头，兄弟！我可爱车了，有时我会脱光衣服，浑身涂上车漆，边跑边学发动机响！
+english_events_maingame:L9034,sellfood,KEEP,...,...,...
+english_events_maingame:L9035,sellfood,KEEP,...,...,...
+english_events_maingame:L9036,sellfood,FIX,"...Bro, what?","布鲁,什么?",……兄弟，你说啥？
+english_events_maingame:L9037,sellfood,POLISH,"...I'm a little embarrassed now. If I give you +N2 MONEY, can we never speak of this again?","我有点尴尬了 如果我给你+N2钱, 我们就不能再谈这个吗?",……现在有点尴尬了。我给你+N2金钱，咱们就当没聊过这事，行吗？
+english_events_maingame:L9038,sellfood,FIX,"Done! You sell your gasoline to the Wolfpack. They drink it, probably killing what few brain cells they have left, but whatever!","结束了! 你把你的汽油卖给了沃尔夫克 他们喝掉,可能杀死了他们留下的 少数的脑细胞,但不管怎样!",成交！你把汽油卖给狼队。他们喝了下去，可能连仅剩的那点脑细胞都喝没了。不过，管它呢！

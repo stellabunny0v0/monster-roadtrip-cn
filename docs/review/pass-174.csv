@@ -1,0 +1,195 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_maingame:L16227,compromise,KEEP,Attend a town hall meeting,出席市民大会,出席市民大会
+english_events_maingame:L16232,compromise,POLISH,You enter the town hall and find yourselves surrounded by the cutest little animals you ever did see.,你进入市政厅 发现自己被你见过的最可爱的小动物包围,你走进市政厅，周围全是这辈子见过最可爱的小动物。
+english_events_maingame:L16234,compromise,POLISH,"Thank you, Mrs. Barnaby. We'll take your concerns about respawning beehives into account.","谢谢你,夫人。 巴纳比 我们会考虑你对蜂巢复生的担忧",谢谢，巴纳比太太。蜂巢反复刷新的问题，会考虑的。
+english_events_maingame:L16235,compromise,FIX,"Our next topic of discussion is... oh, right... ""what to do about [ERROR].""","我们接下来的话题是... 哦,对了... 怎么办 [ERROR].""",下个议题是……哦，对……“拿 [ERROR] 怎么办”。
+english_events_maingame:L16236,compromise,FIX,Yeesh. [ERROR] sure is something.,叶什.  [ERROR] 肯定有东西,唉，[ERROR] 可真够呛。
+english_events_maingame:L16237,compromise,FIX,They keep hoarding spiders in jars in front of their house. How many spider jars are enough spider jars for that weirdo?,他们一直把蜘蛛藏在房子前面的罐子里. 有多少蜘蛛罐足够这个怪胎吃?,家门口一直堆着装蜘蛛的罐子。这个怪人，到底得要多少罐蜘蛛才够？
+english_events_maingame:L16238,compromise,POLISH,"I get you, bro. I don't wanna, like, make assumptions, but I don't think [ERROR] likes me.","我理解你,兄弟,你不会的 我不想,喜欢, 做假设,但我不认为 [ERROR] 喜欢我。",懂，兄弟。不想瞎猜，可感觉 [ERROR] 不太喜欢我。
+english_events_maingame:L16239,compromise,POLISH,"Like, this morning I woke up for my daily run and found [ERROR] building an impenetrable brick wall around my house. Not cool, dude.","今天早上我醒来 每天都在跑步 发现 [ERROR] 在我的房子周围建了一堵坚固的砖墙 一点都不酷,伙计。",比如，今早起床想照常晨跑，却发现 [ERROR] 正围着我家砌一堵砖墙，严丝合缝。太不像话了。
+english_events_maingame:L16240,compromise,POLISH,Clearly something must be done about the strange chap! Does anyone have any suggestions?,"显然,必须做一些事情 对于奇怪的家伙! 有人建议吗?",显然，得想办法处理这个怪人！有建议吗？
+english_events_maingame:L16241,compromise,POLISH,Murder?,谋杀?,谋杀？
+english_events_maingame:L16242,compromise,POLISH,"That seems like taking things out of proportion, Mrs. Barnaby... but we won't rule it out until we find a better solution.",看来事情有点不合比例了 夫人 巴纳比... 但是我们不会排除它 直到我们找到更好的解决方案。,巴纳比太太，有点过火了……不过，找到更好的办法之前，先不排除。
+english_events_maingame:L16245,compromise,KEEP,I aGrEE: MuRdeR sH0ulD nEvEr bE rULeD 0uT aS aN 0pti0N.,我同意：永远都不该排除谋杀这个选项。,我同意：永远都不该排除谋杀这个选项。
+english_events_maingame:L16246,compromise,FIX,AHHHHHHH! H-How long have you been st-st-standing there?!,嘘! 你... 你站在那里多久了? 什么时候?,啊——！你、你站那儿多、多、多久了？！
+english_events_maingame:L16247,compromise,FIX,2 WeEkS.,2 WeEkS.,2 个 星 期。
+english_events_maingame:L16248,compromise,FIX,"aNYwaY, I JUst haD 0NE QUEStiOn. I'M GoINg to bE exPANDinG mY BUg coLLeCTiON ThiS WeeKENd.","ANYWAY,我刚得到0NE QUESTION。 我到bE exPANDING mY BUG coLELECTION THES WeeKEND。 (笑声) (掌声) (掌声) (掌声) (掌声)",总 之，就想问个问题。这 周末，打算扩大我的虫虫 收 藏。
+english_events_maingame:L16249,compromise,FIX,dOES AnYOne miNd if i sEArCH IN yOur ATTiCs foR LeGGy fRiEndS?,"是否我发现我们 的""FoGGY"" friends?",介不介意，我到各位的阁 楼里，找找多 腿 朋友？
+english_events_maingame:L16250,compromise,FIX,"FUCK IT, I'M NOT HOLDING THIS ONE TO A VOTE! MURDER IT IS!","他妈的,我不 持有这个一个VOTE! 制造它! ! 制造它! 制造它! 制造它! 制造它! 制造它!",妈的，这个我不投票了！就谋杀！
+english_events_maingame:L16251,compromise,POLISH,There must be some nonviolent solution to this conflict. How can you broker a compromise so that [ERROR] and the villagers can coexist peacefully?,这场冲突必须有一些非暴力的解决办法。 如何能促成妥协 [ERROR] 村民们可以和平共处吗?,冲突总得有个非暴力解法。怎么从中调解，才能让 [ERROR] 和村民和平共处？
+english_events_maingame:L16252,compromise,POLISH,All problems can be solved with the power of efficient bureaucracy. Establish a system through the town hall bulletin board: any creepy activity must be notified 3 days in advance.,所有问题都可以用高效官僚主义的力量来解决. 通过市政厅公告栏建立一套制度:任何令人毛骨悚然的活动必须提前3天通知。,所有问题都能用高效的办事流程解决。通过市政厅公告栏建制度：凡是吓人活动，必须提前三天通知。
+english_events_maingame:L16253,compromise,FIX,"Become [ERROR]'s patron and turn them into a renowned artist so people don't see them as creepy, but a charming eccentric.","成为 [ERROR]赞助人,把他们变成一个出名的艺术家 这样人们就不会觉得他们很恐怖 而是一个迷人的古怪",资助 [ERROR] 成为知名艺术家。大家就不觉得瘆人，而是觉得，这是迷人又古怪的天才。
+english_events_maingame:L16257,compromise,POLISH,THAT'S the solution we're going with? Bureaucracy is boring as fuck!,这就是我们要用的方法吗? 官僚主义是无聊的他妈的!,就选这办法？官僚那套，他妈无聊死了！
+english_events_maingame:L16258,compromise,POLISH,Can't we do something cooler and more fun to watch? Like a purge night!,我们就不能做点更酷更有趣的事情吗? 像个清洗之夜!,不能来点酷的、好看的？比如大清洗之夜！
+english_events_maingame:L16259,compromise,POLISH,"Nah, bro, I think your idea is super nice! Very boring? Maybe... but nice!","不,兄弟,我觉得你的主意是超级不错的! 非常无聊吗? 也许... 不错",别，兄弟，这主意很好啊！可能很无聊……可也很好！
+english_events_maingame:L16260,compromise,FIX,"Guess your plan doesn't get you any points in the -N2 HYPE category, but hey, it's officially a better solution than murder.","我猜你的计划没有给你任何分数 在N2 HYPE类别, 但是,嘿,这是官方 一个更好的解决方案 比谋杀。",计划确实不够酷，掉了 -N2 热度。不过，至少正式有了个比谋杀更好的解法。
+english_events_maingame:L16262,compromise,POLISH,"Over the next few days, the bulletin board system helps keep the peace among the villagers!","接下来几天,公告牌系统帮助村民们保持了和平!",接下来几天，公告栏制度，帮村民维持了和平！
+english_events_maingame:L16265,compromise,FIX,"Hi, gENTleMeN! I jUSt pUT UP SoMe ""creEPinESs AWAreNeSS bulLETINS"", juSt so YOu kNoW!","嗨,GENTLEMEN(英语:GENTLE MEN)! 我按住我""creEPINES AWARENES BULETINS"", JuSt so YOU kNOW!"" (中文(中国大陆) ).",嗨，各 位先生！刚贴了几张“诡 异 活动预告”，跟你们说 一 声！
+english_events_maingame:L16268,compromise,POLISH,"""To all neighbors: In three days I will release all the spiders from my collection to capture them once again and feel the thrill of the hunt!""","""给所有邻居:三天后,我将释放出我收藏的所有蜘蛛,再次捕捉到它们并感受狩猎的刺激"".",“各位邻居：三天后，本人会放出收藏的全部蜘蛛，再重新抓回来，体验狩猎的快感！”
+english_events_maingame:L16269,compromise,FIX,"""Consider not leaving your houses and keeping most of your orifices covered, just in case.""","""不要离开你的房子 并保持大部分的孔, 只是以防万一。""",“建议待在家里，身体大多数孔洞也盖好，以防万一。”
+english_events_maingame:L16270,compromise,POLISH,"Welp, guess it's time to clean out the anti-bug bunker. See you fellas in a week!","韦尔普,该清理出反臭地堡了 一个星期后见!",好吧，该清理防虫地堡了。各位，一周后见！
+english_events_maingame:L16272,compromise,FIX,"""To all neighbors: In three days, you may happen to hear strange noises that are uncannily similar to a newborn baby's cry, but slightly off. Do not be alarmed.""","""给所有邻居:三天后,你可能会偶然听到一些奇异的噪音,这些声音与新生婴儿的叫声不相称,但稍有关节. 别惊慌"".",“各位邻居：三天后，可能会听到一种怪声，像极了新生婴儿的啼哭，可又有一点不对。请勿惊慌。”
+english_events_maingame:L16273,compromise,FIX,No bother! That's precisely the sort of thing I bought this noise-cancelling gramophone for.,不用麻烦了! 我买这种噪音断音的 声波录音机就是用这个买的,不碍事！买那台降噪留声机，防的就是这个。
+english_events_maingame:L16275,compromise,POLISH,"""To all neighbors: I am compelled to advise everyone that in three days, you should avoid looking directly into the sky from 2pm to 5pm for safety reasons.""","""对所有邻居:我不得不通知大家,三天后,为了安全起见,你应该避免从下午2点到5点直接对天进行观察"".",“各位邻居：必须通知大家，三天后下午两点至五点，请勿直视天空，以保安全。”
+english_events_maingame:L16276,compromise,FIX,Kay. Guess it's gonna be a treadmill kinda week.,凯 Kay. 估计这周会是跑步车吧,行，看来这周得用跑步机了。
+english_events_maingame:L16278,compromise,POLISH,It turns out [ERROR] is much more bearable when given proper forewarning. You gain +N2 SOUL for helping the village!,"原来是这样 [ERROR] 给以适当的警告时,就更容易承受。 你帮助了村里的人 得到了+N2 Suul!",原来，只要提前通知，[ERROR] 也没那么难以忍受。帮助村庄，让你获得 +N2 灵魂！
+english_events_maingame:L16282,compromise,FIX,You spend -N2 MONEY to rent a space for an art exhibition that reframes [ERROR]'s horrific habits as the symptoms of being a misunderstood artist.,你花N2货币 租了一块空间 用于艺术展览 重新塑造 [ERROR]可怕的习惯是 被误解的艺术家的症状,你花 -N2 金钱租场地办画展，把 [ERROR] 的恐怖习惯，包装成不被理解的艺术家气质。
+english_events_maingame:L16284,compromise,FIX,"Welcome to the exhibition of [ERROR], the local eccentric art genius. Prepare to have all your preconceived ideas about art totally raw-dogged!",欢迎来到展览会 [ERROR]本地古怪的艺术天才 准备把所有关于艺术的预想 完全抛出来!,欢迎来参观本地怪才 [ERROR] 的个展。各位对艺术的所有成见，准备被狠狠干翻吧，还不戴套！
+english_events_maingame:L16285,compromise,POLISH,"Look at this short film! A sad old man sits on a bench eating yogurt, but every time he takes a bite, the yogurt merely slides back out of his open mouth. Delightfully intriguing!","看这短片! 一个悲伤的老人坐在长凳上吃酸奶,但每次吃一口,酸奶只是从张开的口中滑出. 令人愉快的有趣!",看这短片！伤心老人坐长椅吃酸奶，可每吃一口，酸奶就又从张开的嘴里滑出来。妙趣横生！
+english_events_maingame:L16286,compromise,FIX,"Check out this painting. It's called, ""yOU'LL neVeR GUesS whOsE bLOoD i pAiNTEd tHiS WiTH!""","看看这幅画 叫做""YOU'LINVER GUESS WHOOSE bLOOOD i pAINTED tHIS WITH!"" (中文(简体) ).",看看这画，名叫《猜 不 到吧，这用的是谁 的 血！》。
+english_events_maingame:L16287,compromise,POLISH,"They're right, I never WILL guess. Normally I'd hate this, but since [ERROR] is an artist now, I'll go ahead and guess that I just don't get it...?","他们说得对,我永远不会猜到。 通常我讨厌这样,但从那以后 [ERROR] 现在是一个艺术家,我会去 并猜测我只是不明白它...",还真猜不到。平时会很讨厌，可现在 [ERROR] 是艺术家，那应该只是……我不懂吧？
+english_events_maingame:L16288,compromise,POLISH,Oh... this sculpture is a pyramid of rusty cages filled with spider egg sacs... yaaay...,哦... 这个雕塑是一个生锈的笼子的金字塔 里面装满了蜘蛛蛋囊... 摆摆摆,哦……这雕塑，是一堆锈铁笼摞成的金字塔，装满蜘蛛卵囊……好耶……
+english_events_maingame:L16289,compromise,FIX,This fills me with horrible arachnophobia.,这让我充满了可怕的阿拉克诺恐惧症.,这让我恐蛛症发作，害怕死了。
+english_events_maingame:L16290,compromise,POLISH,That's good! Art is supposed to make you FEEL!,不错! 艺术应该让你感觉!,那就对了！艺术，就是要让人有感受！
+english_events_maingame:L16291,compromise,POLISH,"I guess horrible, paralyzing dread is indeed a feeling...","我想恐怖,瘫痪的恐惧 确实是一种感觉...",吓得浑身僵硬，确实也算一种感受吧……
+english_events_maingame:L16294,compromise,FIX,"hI, fRiENDs! i WaS juST taKInG my MiLLipEdE foR A noOnDAY WALk. wHY aRe YOu In mY YArD?",万岁 万岁! 万岁! i WAS JuST taKING 我的米利普德活佛(英语:MillipE fOR A nonday Walk) 白日活佛克. 哟哟哟哟哟哟哟哟哟,嗨，朋 友们！刚带千足虫，出来午 间 散步。各位怎么在我 家院子？
+english_events_maingame:L16295,compromise,POLISH,"We were checking out your exhibition, bro!","我们去看你的展览,兄弟!",看你的展呢，兄弟！
+english_events_maingame:L16296,compromise,POLISH,"Y-You know, I used to think you did all that weird stuff to torment us; but now I get it: you're an artist!",你... 我以前以为你做了那些怪事来折磨我们 但现在我明白了 你是艺术家!,我、我以前觉得，你干那些怪事，是为了折磨咱们。现在懂了，你是艺术家！
+english_events_maingame:L16297,compromise,FIX,...i Am¿,"我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我",……我 是¿
+english_events_maingame:L16298,compromise,POLISH,"Look at [ERROR]! They're clearly doing a performance piece about the inability to truly define what is art and therefore who gets to be called ""an artist""!","你看,看,看,看,看,看,看,看,看 [ERROR]! 他们显然在做一部关于无法真正定义什么是艺术,因此谁被称作""艺术家""的表演作品!",看看 [ERROR]！显然，在用行为艺术，表达艺术无法定义，因而“艺术家”也无法被真正定义的困境！
+english_events_maingame:L16299,compromise,KEEP,...,...,...
+english_events_maingame:L16300,compromise,FIX,...waNNa sEE mY SPideR CoLLecti0N?,..Wannana sEE mY spider Collecti0N ?,……要看我的蜘蛛收 藏 吗？
+english_events_maingame:L16303,compromise,POLISH,"Ah, art! The oldest trick in the book for weird people so non-weird people will leave them the fuck alone.","啊,艺术! 书中最古老的诡计是给怪人 所以非怪人会让他们一个人呆着",啊，艺术！怪人让普通人别他妈来烦自己的老招，屡试不爽。
+english_events_maingame:L16304,compromise,POLISH,You know... I think the blood [ERROR] made that painting with might've been mine.,你知道吗... 我觉得血 [ERROR] 画的画可能是我的,说起来……[ERROR] 画那幅画的血，好像是我的。
+english_events_maingame:L16305,compromise,FIX,"Surprisingly, this solution was still better than murder. Take +N2 SOUL.","令人惊讶的是,这个解决方案仍然比谋杀更好. 取+N2苏能.",出人意料，这办法还是比谋杀好。给你 +N2 灵魂。
+english_events_maingame:L16313,creepyfurniture,KEEP,Decorate a neighbor's house,装饰邻居的房子,装饰邻居的房子
+english_events_maingame:L16317,creepyfurniture,FIX,You and your friends wander the village for a bit looking for a house that needs a glow-up.,你和你的朋友在村子里闲逛 找一个需要光辉的房子,你和朋友们在村里逛了逛，找一栋需要改造的房子。
+english_events_maingame:L16319,creepyfurniture,POLISH,"Howdy, little animal bro! Do any of you need help redecorating your house?","你好,小动物兄弟! 你们谁需要帮忙装修房子吗?",小动物兄弟好啊！有谁想让我们帮忙，重新装修房子吗？
+english_events_maingame:L16322,creepyfurniture,FIX,"oH, HeLLo stRAnGErS!","哦,HELLO史特兰吉斯!",哦，陌 生 人，你 们 好！
+english_events_maingame:L16323,creepyfurniture,FIX,"HmmMmMMm... sUre, wHy n0T?","嗯,嗯,嗯... ... 苏尔,WHYn0T?",嗯嗯嗯……好，为什么 不 呢？
+english_events_maingame:L16324,creepyfurniture,FIX,"y0u kn0W, A h0usE's intERioR iS LikE a PerS0n's iNTeRioR: y0u wANt tO m0ve tHinGs a BiT eVery N0w anD thEn t0 kEEp tHingS fUn!","y0u kn0W, A h0usE's intE RioR iS LikE a perS0n's iNTE RioR: y0u wnt tO m0ve tHinGs a BiT eVery N0w anD t En t0 kEEep tHingS fun! (中文(简体) ).",房子里，跟人身体里一样：隔 三 差 五，就得挪动点东西，才好玩！
+english_events_maingame:L16327,creepyfurniture,POLISH,"And so, you all move furniture and shake things up a bit. The house's interior is way bigger than its exterior, but you choose not to ask questions about that.","所以,你们都搬家具 和摇动的东西一点点。 房子的内部比外面大很多 但你选择不问这个问题",于是大家搬家具，换布局。房子里面比外面大太多，不过你们选择不问。
+english_events_maingame:L16328,creepyfurniture,FIX,"By the end of it, the house looks as weird as before (but apparently a better-looking brand of weird?), and you've gained +N2 SOUL for your neighborly action.","最终,房子看起来和以前一样怪异(但显然是一个更漂亮的品牌怪异?),而你因为邻居的动作获得了+N2 SOUL.",忙完，屋里还是一样怪，可能只是变成了更好看的那种怪？热心帮助邻居，让你获得 +N2 灵魂。
+english_events_maingame:L16331,creepyfurniture,POLISH,"Whoa, that sure was something! You have lots of strange stuff, buddy; where did you get all that?","哇,这真是了不起! 你有很多奇怪的东西,伙计 你从哪里弄来的?",哇，真开眼界！朋友，这么多怪东西，都哪儿来的？
+english_events_maingame:L16332,creepyfurniture,KEEP,nO idEa. MosT oF iT juSt aPPearS anD i g0 witH iT.,不知道。大部分东西就是突然出现，我就顺其自然了。,不知道。大部分东西就是突然出现，我就顺其自然了。
+english_events_maingame:L16333,creepyfurniture,KEEP,"BuT n0w thE hOusE LookS perFEct. TherE's s0mE thiNGs I haVe n0 m0rE RooM foR, th0uGH... waNNa kEEp 0Ne oF thE 3 thiNGs?",不过现在房子看起来完美了。还有三样东西实在放不下……你们想留一件吗？,不过现在房子看起来完美了。还有三样东西实在放不下……你们想留一件吗？
+english_events_maingame:L16334,creepyfurniture,KEEP,Sure!,当然!,当然!
+english_events_maingame:L16335,creepyfurniture,POLISH,"But wait: if you're getting rid of all of it anyway, why can we only take one?","但是,等等,如果你要摆脱它, 为什么我们只能吃一个?",不过，既然都不要了，为什么只能拿一件？
+english_events_maingame:L16336,creepyfurniture,KEEP,I wanT t0 kEEp s0Me sO i geT to buRN iT iN MY yaRd. THat's thE beSt parT oF doiNG h0usE reNOvAtiOns: thE fiRE pArt!!!!1,我想留一些，好在院子里烧掉。翻修房子最棒的部分就是：放火！！！！1,我想留一些，好在院子里烧掉。翻修房子最棒的部分就是：放火！！！！1
+english_events_maingame:L16337,creepyfurniture,POLISH,"Well, they're not wrong. But back to the ""options"" part of this event: you look over the pile of weird shit and decide to keep...","他们没说错 但回到这个事件的""选择""部分:你看看一堆怪事,决定保留......",也没错。还是回到这个事件的“选项”部分：看看这堆怪东西，你决定留下……
+english_events_maingame:L16341,creepyfurniture,FIX,Regret Juice,遗憾的汁,后悔汁
+english_events_maingame:L16342,creepyfurniture,FIX,Froggy Iron Maiden,花纹铁女,蛙蛙铁处女
+english_events_maingame:L16343,creepyfurniture,FIX,"An off-putting photo of [ERROR] with Polly and Scott, which exists despite the fact that they'd never met before today","一张不拍的照片, [ERROR] 与 波莉 财务报告和审定财务报表 斯科特,尽管事实上他们从来没有见过今天。",一张诡异照片，上面有 [ERROR]、波莉和斯科特，可他们今天之前，压根没见过。
+english_events_maingame:L16348,creepyfurniture,FIX,I don't get it. What is Regret Juice supposed to be?,岂能通取. 何为悔果汁出自出道?,不懂，后悔汁，到底是什么？
+english_events_maingame:L16349,creepyfurniture,FIX,jUicE y0U reGReT! DoeSN't get mUCH cLeaREr thaN THat!,U y! 不许动!,让你后 悔的汁！还不够清 楚 吗！
+english_events_maingame:L16350,creepyfurniture,POLISH,But... like... where does it come from...?,不过... 喜欢... 是从哪里来的?,可……从哪儿来的……？
+english_events_maingame:L16351,creepyfurniture,FIX,"iF I tOLD yOu, you'D REgRET askiNg. TruST Me. i'VE bEEn theRe oNE t00 manY tiMEs.","我打你,你需要 屁股。 特鲁斯特·我。 我已准备了""RE"" manyy tiMEs.",说了，你会后 悔 问。信我，踩过这个坑，可不止一 次。
+english_events_maingame:L16352,creepyfurniture,POLISH,"Wow, the texture of this stuff is weird as fuck.","哇,这玩意的纹理 怪怪的",哇，这玩意的质感，真他妈怪。
+english_events_maingame:L16353,creepyfurniture,FIX,yOU betCHA!,汝敢赌!,那 当 然！
+english_events_maingame:L16354,creepyfurniture,POLISH,"Should we... drink it? Or is it something we spread on our bodies, like some sort of sunscreen?",我们是不是应该... 喝吗? 还是我们的身体上传播的东西 比如某种防晒霜?,该……喝吗？还是跟防晒霜一样，涂身上？
+english_events_maingame:L16355,creepyfurniture,FIX,eiTHeR is aCCePTaBLe! yOu caN aLSO vaRNiSh yoUR HArDwoOd flOOrs wiTh iT!,是阿克帕塔布莱! 你啊 你啊 哇!,都 行！还 能拿 来，给硬木地板上光！
+english_events_maingame:L16356,creepyfurniture,POLISH,...What for?,干嘛这样?,……为什么？
+english_events_maingame:L16357,creepyfurniture,FIX,whAT n0T f0R?!,"怎么样,N0T F0R?",又 为 什 么 不？！
+english_events_maingame:L16358,creepyfurniture,POLISH,Ugh... I don't know... I guess we'll drink it.,"唉哟... 我不知道... 我不知道... 我不知道,这是什么? 我想我们喝吧",唉……不知道……那喝吧。
+english_events_maingame:L16359,creepyfurniture,POLISH,"BLECH! What flavor is this, bro?","嘘! 这是什么口味,兄弟?",呸！兄弟，什么味啊？
+english_events_maingame:L16360,creepyfurniture,KEEP,rEMoRSe anD hEAdAChe.,懊悔和头痛。,懊悔和头痛。
+english_events_maingame:L16361,creepyfurniture,POLISH,That was disgusting. I regret drinking that.,痷琌碿 我对喝这个感到遗憾,恶心死了。后悔喝这个。
+english_events_maingame:L16362,creepyfurniture,FIX,thAT's haLF THe FuN!,THAT的HALF THE FUN! (中文(简体) ).,那 就 是 一 半 乐趣！
+english_events_maingame:L16363,creepyfurniture,POLISH,The fun of WHAT? Do I even wanna know what the other half is?,什么的乐趣? 我甚至想知道那一半是什么吗?,什么乐趣？另一半是什么，我真的想知道吗？
+english_events_maingame:L16364,creepyfurniture,KEEP,"hAhA, y0U'rE sO siLLy... HaVE A niCe dAY, NEw fRienDS!",哈哈，你真傻……祝你今天愉快，新朋友们！,哈哈，你真傻……祝你今天愉快，新朋友们！
+english_events_maingame:L16367,creepyfurniture,FIX,"Damn, you didn't even get any STAMINA from drinking that. Just -N2 HYPE going down the drain.","该死,你喝这个都没拿到任何史塔米娜的 -N2HYPE下水道了。",靠，喝完连体力都没涨，只白白掉了 -N2 热度。
+english_events_maingame:L16372,creepyfurniture,FIX,Kinky! I like it!,坚克! 坚克! 我喜欢!,玩得花！我喜欢！
+english_events_maingame:L16373,creepyfurniture,KEEP,"OoOoOOo0ooh! gOOd chOicE! thiS 0ne iS g00d f0R relaXeD intROSPecti0N, oR iF y0u waNNa haVE soME fUn timE!",噢噢噢，好选择！这个适合放松下来反省人生，也适合尽情玩乐！,噢噢噢，好选择！这个适合放松下来反省人生，也适合尽情玩乐！
+english_events_maingame:L16374,creepyfurniture,FIX,"Cool! %CURRENTPLAYERNAME%, wanna do the honors?",凉爽!  %CURRENTPLAYERNAME%想做荣誉吗?,酷！%CURRENTPLAYERNAME%，你先来试？
+english_events_maingame:L16375,creepyfurniture,POLISH,The honor of entering a medieval torture device? Uh... maybe not?,进入中世纪酷刑装置的荣誉? 额... 也许不是?,先体验中世纪刑具的荣幸？呃……算了吧？
+english_events_maingame:L16376,creepyfurniture,POLISH,"Then again, it has such a cute frog motif. You can't resist froggy furniture! You get inside.","再说一遍,它有这么可爱的青蛙的发型。 你无法抗拒青蛙家具! 你进去吧",可青蛙主题实在可爱，青蛙家具谁顶得住！你钻了进去。
+english_events_maingame:L16380,creepyfurniture,FIX,"Hmm, it's dark in here. And the sharp metal spike impaling your spleen makes it hard to gain any MIND or HYPE in this contraption.","嗯,这里很黑。 尖锐的金属刺刺穿了你的脾脏 使得很难在这个装置中获得任何磁性或HYPE。",嗯，里面好黑。一根尖金属刺正扎穿脾脏，想靠这玩意儿涨头脑或热度，实在很难。
+english_events_maingame:L16381,creepyfurniture,POLISH,Maybe if you just power through it'll be better? Like how joggers say they eventually hit a runner's high?,也许只要你通过它的力量会更好? 就像慢跑者说他们最终会撞到跑者高?,也许再坚持一会儿就好了？不就像跑步的人说的，熬过去就会有跑者高潮？
+english_events_maingame:L16382,creepyfurniture,POLISH,"You give it fifteen minutes, but nope: you just keep suffering in horrible, horrible pain until your friends open the doors.","给它15分钟,但别这样,你只会一直痛苦地痛苦,直到你的朋友打开大门。",你试了十五分钟，没用，只是一直疼得要命，直到朋友把门打开。
+english_events_maingame:L16386,creepyfurniture,POLISH,"Well, bro? How was it?","怎么样,兄弟? 怎么样?",怎么样，兄弟？感觉如何？
+english_events_maingame:L16387,creepyfurniture,POLISH,"Whoa, look at the floor! I would've never guessed you had THIS much blood, %CURRENTPLAYERNAME%!","哇,看看这地板! 我绝对猜不到你有这么多血 %CURRENTPLAYERNAME%!",哇，看地板！%CURRENTPLAYERNAME%，真没想到，你竟然有这么多血！
+english_events_maingame:L16388,creepyfurniture,POLISH,"Follow-up question: did you NEED it all, or...?",后续问题:你需要全部还是... ?,再问一句，这些血你全都用得上，还是……？
+english_events_maingame:L16389,creepyfurniture,POLISH,Maybe we could collect it with a mop or some napkins and put it back inside %HIMHER%?,也许我们可以用拖把或者一些餐巾把它收集起来 然后放进去 %HIMHER%?,要不用拖把，或者纸巾吸起来，放回 %HIMHER% 体内？
+english_events_maingame:L16390,creepyfurniture,FIX,"Nope, this is definitely an emergency. You tell your friends the Froggy Iron Maiden probably wasn't your best idea before you black out from blood loss.","不,这绝对是紧急情况。 你告诉你的朋友 浮肿的铁女可能不是你最好的主意 在你失去血液之前",不，这绝对是紧急情况。失血昏迷前，你告诉朋友，选蛙蛙铁处女，可能不是最好的主意。
+english_events_maingame:L16391,creepyfurniture,FIX,"You lose -N2 STAMINA, but look at how cute the froggy mascot's eyes are as it watches you bleed out on the floor! You can't stay mad at that!","你输了N2 Stamina,但看看青蛙吉祥物的眼睛有多可爱, 看着你流血出地上! 你不能一直为这个生气!",你失去了 -N2 体力。可看看那青蛙吉祥物，眼睛多可爱，正瞅着你倒在地上流血呢！哪里气得起来！
+english_events_maingame:L16396,creepyfurniture,POLISH,Whoa. What the fuck? What the FUCK? What is this?!,呜呼. 什么他妈的? 什么他妈的? 这是什么?,哇，什么鬼？什么他妈的鬼？这是什么？！
+english_events_maingame:L16397,creepyfurniture,FIX,"a PIcTuRE oF us, siLLy!","一只PICTURE oF我们,silly!",咱 们 的合照啊，傻 瓜！
+english_events_maingame:L16398,creepyfurniture,POLISH,But we never met before today. You even called us strangers. When was this picture taken?,但是我们今天从来没有见过面。 你甚至还叫我们陌生人 这张照片是什么时候拍的?,可今天才认识，刚还叫我们陌生人。这照片什么时候拍的？
+english_events_maingame:L16399,creepyfurniture,FIX,yOu KNow! tHAt 0Ne TiME!,汝今克现在! t!,你 知道的！就 那 一 次！
+english_events_maingame:L16400,creepyfurniture,POLISH,WHAT time?!,什么时候?,哪次？！
+english_events_maingame:L16401,creepyfurniture,FIX,"eXaCTLy, hAha!","爱克托利,哈哈!",没 错，哈 哈！
+english_events_maingame:L16402,creepyfurniture,POLISH,Why do our faces look like that? I'm scared!,为什么我们的脸看起来是这样的? 我吓坏了! I'm scared!,脸怎么变成这样？好害怕！
+english_events_maingame:L16403,creepyfurniture,FIX,"oH, I L0Ve it wHEN yOu do tHoSE SIlLy facEs! C'mOn, do tHE FAcEs again!","哦,我L0VE它WHEN你做THOSE SILLY FACEs! C'mON,再次做THE FACES!",哦，我最 爱你们摆这种鬼 脸！来，再摆一 次！
+english_events_maingame:L16404,creepyfurniture,POLISH,Our faces can't do that.,我们的脸不能这样做。,我们的脸，做不出来。
+english_events_maingame:L16405,creepyfurniture,FIX,"c'Mo0oN, DOn't tEaSE ME, faM! yoU CAn Do iT! DO IT N0W!!!1","闪电,别碰我,法姆! 哟,你做iT! 动手吧,N0W!",来——嘛，别逗 我 了，家人们！做得到！现 在 就 做！！！1
+english_events_maingame:L16409,creepyfurniture,FIX,AHHHHHHHHHH HHH HHHhhhhhgHGDSKLHKNLK!,嘘嘘嘘嘘嘘嘘嘘嘘嘘嘘嘘嘘!,AHHHHHHHHHH HHH HHHhhhhhgHGDSKLHKNLK!
+english_events_maingame:L16411,creepyfurniture,FIX,kjgdklsgjdksljLFJDKG;JEWONG  DSJglEOT dGHES     GDJKSLLT;4E!!,KjgdklsgjdksljlFJDKG; JEWONG DSJglEOT dGHES GDJKSLLT; 4E! (中文(简体) ).,kjgdklsgjdksljLFJDKG;JEWONG  DSJglEOT dGHES     GDJKSLLT;4E!!
+english_events_maingame:L16412,creepyfurniture,FIX,haHAhA! ThAT's thE FACe!,来啊! 塔特的Face! 塔特的Face! 塔特的Face!,哈哈哈！就 是 这个表情！
+english_events_maingame:L16415,creepyfurniture,POLISH,WHAT THE FUCK JUST HAPPENED?!,他妈的刚刚发生了什么?,他妈的，刚发生什么了？！
+english_events_maingame:L16416,creepyfurniture,POLISH,"Guys, my soul doesn't feel right...","伙计们,我的灵魂不觉得对...",各位，灵魂感觉不对劲……
+english_events_maingame:L16417,creepyfurniture,FIX,haHAhA! yOu'RE So siLLy. waNNA SeE My phOtO AlbuM OF OuR othEr picS TOGEtHER?,来啊! 你是如此的丝丽。 旺纳·塞伊 我的阿尔布姆 一起来?,哈 哈，你 们真好玩。想 看相册里，咱们的其他合照吗？
+english_events_maingame:L16420,creepyfurniture,FIX,"NOPE. You and your friends leave IMMEDIATELY, and you lose -N2 MIND.","没有。 你和你的朋友们立即离开,你失去了N2的头脑。",不要。你和朋友立刻离开，失去了 -N2 头脑。
+english_events_maingame:L16429,brainstorm,FIX,Brainstorm Your Ideas into Reality,"脑风暴,你的想法现实",头脑风暴，让点子成真
+english_events_maingame:L16431,brainstorm,FIX,"You walk into the meta-cabin, where a tall, mysterious, chiseled figure is waiting for you...","你走进元卡宾, 一个高高,神秘, 气质的人物正在等待你...",你走进元小屋，一个高大、神秘、肌肉轮廓分明的身影，正等着你们……
+english_events_maingame:L16433,brainstorm,FIX,"...It's me. I'm the tall, mysterious, chiseled figure.","是我,我来了 我是高高高高高高出众的神秘人物",……是我。那个高大、神秘、肌肉轮廓分明的身影，就是我。
+english_events_maingame:L16434,brainstorm,POLISH,"Heya! We wanted to... what was it? ""Brainstorm our ideas into reality.""","嘿嘿 我们想... 刚才是什么? ""把我们的想法变成现实""",嘿！我们想来……叫什么来着？“头脑风暴，让点子成真。”
+english_events_maingame:L16435,brainstorm,FIX,"Hmmm, I mean... I have a direct line to the devs, so we could float an idea by them. If they like it, they could implement it into the game.","嗯,我的意思是,我说... 我直接和德夫一家联系 这样我们就可以从他们那里 浮出一个想法 如果他们喜欢,他们可以将其应用到游戏中.",嗯……我能直接联系开发者，可以把点子给他们看看。喜欢的话，就做进游戏。
+english_events_maingame:L16436,brainstorm,FIX,Game? Devs?,游戏? 德夫斯吗?,游戏？开发者？
+english_events_maingame:L16437,brainstorm,POLISH,"Let's not think too much about that; every time we make you aware of the fictional nature of your reality, things tend to go south.","我们不要太想这个;每当我们让你意识到你现实的虚构性质时,事情往往会往南走.",先别想太深。每次让你们意识到，自己的现实是虚构的，总会出事。
+english_events_maingame:L16438,brainstorm,POLISH,Eh... okay?,额... 好吗?,呃……行？
+english_events_maingame:L16439,brainstorm,POLISH,"Ooh, I got it: can you make our heads bigger?","哦,我明白了,你能让我们的脑袋变大吗?",哦，有了！能把咱们的头变大吗？
+english_events_maingame:L16440,brainstorm,KEEP,I can try.,我可以试试。,我可以试试。
+english_events_maingame:L16442,brainstorm,FIX,(Ten minutes later...),(十分钟后... ),十分钟后……
+english_events_maingame:L16447,brainstorm,POLISH,"Nah, I'm not a fan of this. Let's go back to normal heads.","不,我不喜欢这个。 复入正觉.",算了，不喜欢。把头变回正常大小吧。
+english_events_maingame:L16448,brainstorm,FIX,Gotcha.,抓到他们了。,明白。
+english_events_maingame:L16450,brainstorm,FIX,"You brainstorm for a long time, spending -N2 MIND. After some time and many dumb ideas...","你花了很长时间, 花N2 MIND。 过了一段时间和许多愚蠢的想法...",你们想了好久，耗掉 -N2 头脑。过了一阵子，提过一堆蠢点子之后……
+english_events_maingame:L16454,brainstorm,FIX,Ugh... I am legit drawing a blank here... having this much power is a tad overwhelming...,唉哟... 我合法画一个空白在这里... 拥有这么多的力量是 微弱的压倒性...,唉，真想不出了……权力这么大，还真有点招架不住……
+english_events_maingame:L16455,brainstorm,KEEP,"Oh, I have an idea!",我有个主意!,我有个主意!
+english_events_maingame:L16456,brainstorm,POLISH,Is it making yet another part of our bodies incredibly big?,它让我们身体的另一部分变得非常大吗?,又要把身体的别的部位变得巨大？
+english_events_maingame:L16457,brainstorm,KEEP,...,...,...
+english_events_maingame:L16458,brainstorm,POLISH,...Maybe.,也许吧,……可能吧。
+english_events_maingame:L16459,brainstorm,POLISH,"%CURRENTPLAYERNAME%, have you thought of something? C'mon, you're great at having silly ideas.","%CURRENTPLAYERNAME%你有没有想过什么? 来吧,你很擅长有 愚蠢的想法。",%CURRENTPLAYERNAME%，想到没？来嘛，你最会想傻点子了。
+english_events_maingame:L16460,brainstorm,FIX,"""Forge a legendary artifact that does... something. People love stuff that does something! It'll be an instant hit!""","""寻找一个传说中的... 东西。 人们喜欢做一些事情的东西! 这会是一瞬间被击中"".",“造件传奇神器，能……干点什么。大家都爱有用的东西！肯定一炮而红！”
+english_events_maingame:L16461,brainstorm,FIX,"""Create life. Give birth (metaphorically) to a creature harnessing all the wild, cool, chaotic energy of the Prank Masterz.""","""创造出生命. 给一个利用恶作剧大师 所创造的野生、酷酷、混乱能量的生物生出( 美术)""",“创造生命。生个东西，比喻意义上的，让它凝聚恶作剧大师所有狂野、酷炫、混乱的能量。”
+english_events_maingame:L16463,brainstorm,FIX,You wanna make a cool thingie? That sounds fun!,你想做件很酷的事吗? 这听起来很有趣!,想做个酷炫小玩意儿？好玩！
+english_events_maingame:L16464,brainstorm,POLISH,"Whatever we make, I think it should look super ugly, but in that way where you can't just stop looking at it, y'know?","不管我们做什么,我觉得它应该看起来超丑的, 但这样你就不能停止看它,你知道吗?",不管做什么，得丑，超级丑，可丑到让人移不开眼，懂吧？
+english_events_maingame:L16465,brainstorm,FIX,"Oh, and it could be squishy, but also slimy!","可能很滑,但也有点粘!",哦，还能软乎乎、黏糊糊的！
+english_events_maingame:L16466,brainstorm,FIX,Sounds kinky. I'm in.,听起来很怪异。 我进去了。,听着挺色。加入。
+english_events_maingame:L16467,brainstorm,POLISH,"What if it had, like, a hole you could put your mouth on?","如果它有,像,一个洞 你可以把你的嘴?",再开个洞，能把嘴贴上去呢？
+english_events_maingame:L16468,brainstorm,FIX,YAAASSS! And what if it had another hole somewhere else?,亚亚西斯! 如果它还有另一个洞呢?,好耶！再在别处开个洞呢？
+english_events_maingame:L16469,brainstorm,FIX,What for?,为什么?,干吗？
+english_events_maingame:L16470,brainstorm,POLISH,First: holes are always fun; they don't need a reason to be.,第一:孔总是有趣的;它们不需要有理由。,首先，洞就是好玩，存在不需要理由。
+english_events_maingame:L16471,brainstorm,POLISH,"Second: it could excrete something. It could be weird and gross, but in a fun way!","第二,它会排出一些东西。 可能很怪,很恶心,但很搞笑!",其次，能排出点东西，怪怪的、恶心的，可又很好玩！
+english_events_maingame:L16472,brainstorm,POLISH,Polly...,波莉...,波莉……
+english_events_maingame:L16473,brainstorm,POLISH,...this thingie sounds just too cool.,这东西听起来太酷了,……这玩意儿，听着酷过头了。
+english_events_maingame:L16474,brainstorm,POLISH,"It does, Scott.",是这样的 斯科特.,是啊，斯科特。
+english_events_maingame:L16475,brainstorm,POLISH,"But, what does the thingie do, exactly?","但是,那东西到底做什么的?",可到底有什么用？
+english_events_maingame:L16476,brainstorm,POLISH,I mean... you can put your mouth on it... you can look at it for hours... maybe it excretes something weird and gross from that other hole... what more do you need?,我是说... 你可以把嘴放在上面... ... . . 你可以看几个小时... 也许它会从另一个洞里 排出一些奇怪和恶心的东西... 你还需要什么?,我是说……能把嘴贴上去，能盯着看几个小时，还可能从另一个洞排出怪东西……还想要什么？
+english_events_maingame:L16477,brainstorm,FIX,"Actually, it does so many things that I think it's only fair that when you pick it, you automatically lose ALL your RESOURCES.","事实上,它做了很多事情 我认为只有你选择它的时候 你才能自动失去所有的资源",用处这么多，我觉得拿起它，就该自动掉光所有资源，这才公平。
+english_events_maingame:L16478,brainstorm,POLISH,That makes sense!,这有道理!,有道理！
+english_events_maingame:L16479,brainstorm,FIX,It doesn't.,其不见.,没道理。
+english_events_maingame:L16480,brainstorm,POLISH,"Eh... agree to disagree. Personally, I think we've nailed it.","额... 同意不同意,但你还是得去见见他 个人来说,我想我们搞定了",呃……各有各的看法。我个人觉得，完美。
+english_events_maingame:L16482,brainstorm,FIX,"And so, the Narrator (me) sends your request to the devs. After a few hours, a package arrives.","所以,旁白(我) 向虔诚者发出你的请求。 几个小时后,一个包裹就到了。",于是，旁白，就是我，把请求发给开发者。几小时后，一个包裹到了。
+english_events_maingame:L16486,brainstorm,POLISH,Okay... let's take a look...,"好吧,我说... 让我们来看看...",好，看看……
+english_events_maingame:L16487,brainstorm,POLISH,"Guys, this is...","各位,这是...",各位，这是……
+english_events_maingame:L16488,brainstorm,FIX,...a thing of beauty.,一件美事 一件美事 一件美事 一件美事 一件美事,……绝美之物。
+english_events_maingame:L16489,brainstorm,POLISH,"Yeah, bros, we've outdone ourselves! Hooray!","是啊,兄弟们,我们自己已经超越了! 万岁!",是啊，兄弟们，超常发挥！万岁！
+english_events_maingame:L16492,brainstorm,FIX,"And so you all leave because I am done with this nonsensical event. But I guess you manage to sell your ""Thingie"" and make +N2 MONEY off of it. Congrats?","你们都离开是因为我受够了这个毫无理智的事件 但我猜你还是能卖出你的""Thingie"" 然后赚出+N2钱 恭喜你,你好吗?",然后大家走人，因为我受够了这段莫名其妙的事件。你们好像卖掉那个“小玩意儿”，赚了 +N2 金钱。恭喜吧？
+english_events_maingame:L16494,brainstorm,FIX,YAAAASSSSS!,亚亚西斯!,好耶——！
+english_events_maingame:L16495,brainstorm,FIX,Creating life without going into labor? Sign me up!,创造生命而不投入劳动? 签我!,创造生命，还不用生孩子？算我一个！
+english_events_maingame:L16496,brainstorm,FIX,But what defines the Prank Masterz energy?,但什么定义了恶作剧马斯特兹的能量?,可恶作剧大师的能量，到底是什么？
+english_events_maingame:L16497,brainstorm,KEEP,Good question.,问得好,问得好
+english_events_maingame:L16498,brainstorm,POLISH,"It's gotta be someone full of sass and style, like me.",一定是个满腔骚味的 像我一样,得又辣又有范儿，像我。
+english_events_maingame:L16499,brainstorm,FIX,A natural-born prankster!,自然生的恶作剧!,天生的捣蛋鬼！
+english_events_maingame:L16500,brainstorm,POLISH,"Yeah, that kind of cool person who doesn't give a fuck.","是啊,那种酷的人 谁不在乎他妈的。",对，就是那种酷得谁也不在乎的人。
+english_events_maingame:L16501,brainstorm,POLISH,"Oh, then it should wear sunglasses! Sunglasses are cool that way!","哦,那它应该戴墨镜! 墨镜是酷的这种方式!",那得戴墨镜！墨镜，就是这么酷！
+english_events_maingame:L16502,brainstorm,KEEP,You're right.,你说得对。,你说得对。
+english_events_maingame:L16503,brainstorm,POLISH,"It's like that one friend that always gets you into trouble, but you can't help but love them... that mischievous charming rascal!",就像一个朋友总是让你陷入麻烦 但你爱不释手... 那个恶作剧的迷人流氓!,像那种朋友，老拉你闯祸，可又忍不住喜欢……淘气又迷人的小混蛋！
+english_events_maingame:L16504,brainstorm,FIX,And it should be a floating turnip!,应该是漂浮的花果!,还得是个飘在空中的芜菁！
+english_events_maingame:L16505,brainstorm,FIX,...What?,什麽?,……什么？
+english_events_maingame:L16506,brainstorm,POLISH,"Yeah, I dunno... it sounded like a cool idea in my head.","对,我不知道... 听起来我脑中是个很酷的主意",嗯，不知道……脑子里想着，挺酷的。
+english_events_maingame:L16507,brainstorm,FIX,"You know what, Scott? You're 100% right, it SHOULD be a floating turnip!","你知道吗, 斯科特? 你百分之百是对的,应该是个漂浮的花花",知道吗，斯科特？你百分之百对，非得是个漂浮芜菁！
+english_events_maingame:L16508,brainstorm,POLISH,"I think we nailed it. But what should we name this creature? It needs a unique, memorable name that's full of character...","我想我们搞定了 但是,我们该怎么称呼这个生物? 它需要一个独特的,令人难忘的名字,充满了个性. .",完美。可起什么名？得独特，难忘，还特别有个性……
+english_events_maingame:L16509,brainstorm,POLISH,Patricia!,帕特丽夏!,帕特丽夏！
+english_events_maingame:L16510,brainstorm,FIX,"Patricia it is! Have you been taking notes? Send these kick-ass ideas to these ""devs"".","帕特丽夏,是的! 你记笔记了吗? 把这些蠢想法发给这些""德夫""",就叫帕特丽夏！记笔记没？把这些超酷点子，发给那些“开发者”。
+english_events_maingame:L16512,brainstorm,FIX,"And so, the Narrator (me) sends your request to the devs. After a few hours, someone knocks on the door.","所以,旁白(我) 向虔诚者发出你的请求。 几小时后,有人敲门.",于是，旁白，就是我，把请求发给开发者。几小时后，有人敲门。
+english_events_maingame:L16515,brainstorm,FIX,Heyaaaaaa! It's me! Patricia!,"嘿摆摆摆摆 是我,我来了! 帕特丽夏!",嘿——！是我，帕特丽夏！
+english_events_maingame:L16516,brainstorm,FIX,NO WAY!,没办法!,不会吧！
+english_events_maingame:L16517,brainstorm,FIX,"Yes way, Scotty Boy!","说得没错 斯科特哟,男孩!",就是会，小斯！
+english_events_maingame:L16518,brainstorm,POLISH,So... what do you say? Wanna pull some pranks?!,所以说... 怎么样? 想玩弄恶作剧吗?,怎么样？搞点恶作剧？！
+english_events_maingame:L16519,brainstorm,POLISH,"Fuck, you're so cool, Patricia!","操,你太酷了,帕特丽夏!",靠，你真酷，帕特丽夏！
+english_events_maingame:L16520,brainstorm,POLISH,"I was born cool, gurl... I was born cool THANKS TO YOU.","我生下来就很酷, 古尔... 我出生的酷 感谢你。",姐妹，我生来就酷……多亏你们，才生来这么酷。
+english_events_maingame:L16521,brainstorm,FIX,Prank Masterz 4 lyfe!!!,恶作剧马斯特兹4号!,恶作剧大师一辈子！！！
+english_events_maingame:L16523,brainstorm,FIX,And so you all leave with Patricia and go on a wild rampage of pranks and fun.,你们都和帕特里夏一起离开 狂欢地玩弄恶作剧和玩乐,于是大家带着帕特丽夏离开，一路胡闹、恶作剧，玩疯了。
+english_events_maingame:L16524,brainstorm,FIX,"Eventually, you part ways, as Patricia wants to see the world. But no one can take away all the memories you've made together... and the +N2 HYPE you've gained.","最终,你分离的方式, 因为帕特里夏想看到世界。 但是没有人能夺走你们所有的记忆... 还有你得到的N2 HYPE",最终，帕特丽夏想看看世界，与你们分别。可共同的回忆，谁也带不走……还有获得的 +N2 热度。
+english_events_maingame:L16525,brainstorm,FIX,"Maybe one day you'll cross paths again with Patricia, the rambunctious mascot of the Prank Masterz... with a Z!",也许有一天你会再次和帕特里夏交叉 恶作剧大师的吉祥物... 和Z一样!,也许某天，你会再遇见帕特丽夏，这位闹腾的恶作剧大师吉祥物……带 Z 的！

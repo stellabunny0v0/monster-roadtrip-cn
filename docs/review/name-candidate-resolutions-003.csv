@@ -1,0 +1,10 @@
+﻿row_id,term,candidate,decision,reason
+english_events_maingame:L2212,Slayer,杀手,KEEP,"Source is a generic single-use hitman offered by a loyalty program, not the named Slayer title. Do not replace the common noun."
+english_events_maingame:L3176,Slayer,杀手,KEEP,"Source is a common gun-for-hire or serial killer (Jerry), not the named Slayer title."
+english_events_maingame:L3653,Slayer,杀手,KEEP,"Source is a common gun-for-hire or serial killer (Jerry), not the named Slayer title."
+english_events_maingame:L3685,Slayer,杀手,KEEP,"Source is a common gun-for-hire or serial killer (Jerry), not the named Slayer title."
+english_events_maingame:L3693,Slayer,杀手,KEEP,"Source is a common gun-for-hire or serial killer (Jerry), not the named Slayer title."
+english_events_maingame:L3717,Wolfpack,狼群,KEEP,"Source refers to animals supposedly depicted in a jigsaw puzzle, not the named Wolfpack group. The later joke reveals it is a fruit bowl."
+english_events_maingame:L4246,Spooky High,惊悚学院,KEEP,"Source explicitly says Spooky Academy; retain the renamed school, not Spooky High."
+english_events_maingame:L6233,Spooky High / Spooky High School,惊悚学院,KEEP,"Source explicitly says Spooky Academy, whose renamed identity is preserved; do not change to Spooky High."
+english_events_maingame:L6611,Slayer,杀手,KEEP,A generic killer choosing a distinctive weapon; not the named Slayer title.

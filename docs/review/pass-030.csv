@@ -1,0 +1,148 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_pitstop:L423,pitstop_passenger_intro_aaravi_1,FIX,You invite Aaravi to join your road trip.,你邀请 阿拉薇 去参加你的出行,你邀请阿拉维加入这趟公路旅行。
+english_events_pitstop:L424,pitstop_passenger_intro_aaravi_1,FIX,You seriously think I would want to travel with YOU? Tch!,你真的认为我会想和你一起去吗? 嘘!,你真觉得我会想跟你一起旅行？啧！
+english_events_pitstop:L425,pitstop_passenger_intro_aaravi_1,POLISH,I mean... I guess I will... but not because I like you or anything!,我是说... 我想我会... 但不是因为我喜欢你什么的!,我是说……去也不是不行……但可不是因为喜欢你什么的！
+english_events_pitstop:L432,pitstop_passenger_intro_aaravi_2,FIX,You invite Aaravi to join your road trip.,你邀请 阿拉薇 去参加你的出行,你邀请阿拉维加入这趟公路旅行。
+english_events_pitstop:L433,pitstop_passenger_intro_aaravi_2,FIX,Aaravi joins the party!,阿拉薇 参加派对!,阿拉维加入队伍！
+english_events_pitstop:L440,pitstop_passenger_intro_aaravi_3,FIX,You invite Aaravi to join your road trip.,你邀请 阿拉薇 去参加你的出行,你邀请阿拉维加入这趟公路旅行。
+english_events_pitstop:L441,pitstop_passenger_intro_aaravi_3,FIX,Good call. Your party really needed someone with my class.,说得好 你的派对需要有人陪我上课,选得好。你们队伍确实缺我这种职业的人。
+english_events_pitstop:L442,pitstop_passenger_intro_aaravi_3,FIX,We're ready for a raid now!,我们准备好突袭了!,现在能去打副本了！
+english_events_pitstop:L447,pitstop_passenger_intro_calculester_1,FIX,You invite Calculester to join your road trip.,你邀请 卡库莱斯特 去参加你的出行,你邀请计算斯基加入这趟公路旅行。
+english_events_pitstop:L448,pitstop_passenger_intro_calculester_1,FIX,"Thank you, Friend %CURRENTPLAYERNAME%! This road trip just became 78.6% more fun!","谢谢,朋友 %CURRENTPLAYERNAME%! 这趟出行刚刚变得78.6%的乐趣!",谢谢你，朋友 %CURRENTPLAYERNAME%！这趟旅行的乐趣刚刚增加了 78.6%！
+english_events_pitstop:L453,pitstop_passenger_intro_calculester_2,FIX,You invite Calculester to join your road trip.,你邀请 卡库莱斯特 去参加你的出行,你邀请计算斯基加入这趟公路旅行。
+english_events_pitstop:L454,pitstop_passenger_intro_calculester_2,FIX,Oh holy circuitry! I have never been a hitchhiker before... what are the protocols? Am I optimizing it correctly?,"哦,神圣的电路! 我以前从没做过搭便车的人... 协议是什么? 我优化了它吗?",神圣的电路啊！我从未当过搭车客……应该遵循什么协议？我的优化正确吗？
+english_events_pitstop:L455,pitstop_passenger_intro_calculester_2,FIX,"I suppose I will have to, as they say, ""learn on the go!""","我想,我必须,正如他们说的, ""学习去!""",看来，只能像大家说的那样，“边走边学”了！
+english_events_pitstop:L460,pitstop_passenger_intro_damien_1,FIX,You invite Damien to join your road trip.,你邀请 达米恩 去参加你的出行,你邀请德魔加入这趟公路旅行。
+english_events_pitstop:L461,pitstop_passenger_intro_damien_1,FIX,"Oh, you're giving me a ride? I was honestly just hoping you'd give me some free gasoline.","哦,你送我一程吗? 我只是希望你能给我一些免费的汽油",哦，想载我一程？其实我只是想让你免费给点汽油。
+english_events_pitstop:L462,pitstop_passenger_intro_damien_1,FIX,"But sure, fuck it, I could tag along with you noobs for a bit.","但当然了,他妈的,我可以 跟着你的新人一点点。",不过，行吧，管他妈的，跟你们这帮菜鸟混一阵也行。
+english_events_pitstop:L467,pitstop_passenger_intro_damien_2,FIX,You invite Damien to join your road trip.,你邀请 达米恩 去参加你的出行,你邀请德魔加入这趟公路旅行。
+english_events_pitstop:L468,pitstop_passenger_intro_damien_2,FIX,FUCKIN' METAL! LET'S RIDE!,他妈的金属! 让我们走开!,他妈的，够摇滚！上路！
+english_events_pitstop:L473,pitstop_passenger_intro_joy_1,FIX,You invite Joy to join your road trip.,你邀请Joy来参加你的出行,你邀请欢愉女巫加入这趟公路旅行。
+english_events_pitstop:L474,pitstop_passenger_intro_joy_1,FIX,"Okay, I'll come with you... but please drive responsibly... and don't do anything stupid...","好吧,我会和你一起去... 但请驾驶负责... 别做傻事...",好，我跟你们走……不过，拜托开车负点责任……别干蠢事……
+english_events_pitstop:L475,pitstop_passenger_intro_joy_1,FIX,"Actually, that's probably asking too much. Just don't do anything so stupid you get us all killed, okay?","实际上,那可能要求太多。 别做傻事,你把我们都杀了,好吗?",算了，可能要求太高了。至少别蠢到把大家全害死，好吗？
+english_events_pitstop:L476,pitstop_passenger_intro_joy_1,FIX,No promises!,没有承诺!,不敢保证！
+english_events_pitstop:L481,pitstop_passenger_intro_joy_2,FIX,You invite Joy to join your road trip.,你邀请Joy来参加你的出行,你邀请欢愉女巫加入这趟公路旅行。
+english_events_pitstop:L482,pitstop_passenger_intro_joy_2,FIX,"A road trip with Polly and Scott? Hmm... yeah, sure, I'll tag along for a bit.","搭乘的公路旅行 波莉 财务报告和审定财务报表 斯科特? 垛... 是的,当然,我会跟着 一点点。",跟波莉和斯科特一起公路旅行？嗯……行，我就跟一阵吧。
+english_events_pitstop:L483,pitstop_passenger_intro_joy_2,FIX,There should be at least ONE person with you making sure everybody stays alive.,至少应该有一个人陪着你 确保所有人都活着,总得有一个人盯着，确保你们还能活着。
+english_events_pitstop:L488,pitstop_passenger_intro_liam_1,FIX,You invite Liam to join your road trip.,你邀请 利亚姆 去参加你的出行,你邀请李姆加入这趟公路旅行。
+english_events_pitstop:L489,pitstop_passenger_intro_liam_1,FIX,Hitchhiking in 20XX? So vintage!,2020年的乘车吗? 这么古董!,都 20XX 年了，还搭便车？真复古！
+english_events_pitstop:L494,pitstop_passenger_intro_liam_2,FIX,You invite Liam to join your road trip.,你邀请 利亚姆 去参加你的出行,你邀请李姆加入这趟公路旅行。
+english_events_pitstop:L495,pitstop_passenger_intro_liam_2,FIX,Liam de Lioncourt on a wacky road trip? How utterly disruptive!,利亚姆 莱昂考特在疯狂的路上旅行? 多么彻底的破坏!,李姆·堂·莱昂卡特参加一趟胡闹的公路旅行？真是颠覆常规！
+english_events_pitstop:L500,pitstop_passenger_intro_milo_1,KEEP,You invite Milo to join your road trip.,你邀请 迈洛 去参加你的出行,你邀请 迈洛 去参加你的出行
+english_events_pitstop:L501,pitstop_passenger_intro_milo_1,POLISH,"Oh, you want to be my new chauffeur? Fantastic! Drive on, darling!","哦,你想成为我的新司机? 赞! 开车,亲爱的!",哦，想当我的新司机？太棒了！开车吧，亲爱的！
+english_events_pitstop:L506,pitstop_passenger_intro_milo_2,KEEP,You invite Milo to join your road trip.,你邀请 迈洛 去参加你的出行,你邀请 迈洛 去参加你的出行
+english_events_pitstop:L507,pitstop_passenger_intro_milo_2,FIX,"A road trip, you say? What a perfect opportunity to take adorable car selfies! I'd love to tag along, darling.",你说是公路之旅? 多好的机会来拍可爱的自拍! 我很乐意跟着你 亲爱的,公路旅行？正好能拍可爱的车内自拍！我很乐意一起去，亲爱的。
+english_events_pitstop:L512,pitstop_passenger_intro_miranda_1,KEEP,You invite Miranda to join your road trip.,你邀请 米兰达 去参加你的出行,你邀请 米兰达 去参加你的出行
+english_events_pitstop:L513,pitstop_passenger_intro_miranda_1,FIX,A road trip? How exotic! I'd love to go!,公路旅行吗? 多么异国情调! 我很乐意去!,公路旅行？多新奇啊！我想去！
+english_events_pitstop:L514,pitstop_passenger_intro_miranda_1,FIX,"My silverware suitcases are over there. Once you've loaded them into the car, we can work on my clothing chests!","我的银器箱在那边 一旦你把它们装上车, 我们可以工作我的衣柜!",我的银餐具行李箱在那边。搬上车以后，我们再来搬装衣服的箱子！
+english_events_pitstop:L515,pitstop_passenger_intro_miranda_1,FIX,Sigh...,叹...,唉……
+english_events_pitstop:L520,pitstop_passenger_intro_miranda_2,KEEP,You invite Miranda to join your road trip.,你邀请 米兰达 去参加你的出行,你邀请 米兰达 去参加你的出行
+english_events_pitstop:L521,pitstop_passenger_intro_miranda_2,FIX,"A... road... trip? Sure, I suppose I'll go. Do you have a palankeen prepared for me?","一个... 路边... 旅行吗? 当然,我想我会去。 你给我准备了巴兰肯吗?",公……路……旅行？好吧，我想可以。给我准备好轿子了吗？
+english_events_pitstop:L522,pitstop_passenger_intro_miranda_2,POLISH,Uh... no. We were thinking you would just sit in the car like the rest of us.,额... 没有。 我们以为你会像我们一样坐在车里,呃……没有。我们想着，你跟大家一样坐车就行。
+english_events_pitstop:L523,pitstop_passenger_intro_miranda_2,FIX,"Really? My goodness, we really WILL be roughing it!","真的吗? 天啊,我们真的会搞砸的!",真的吗？天啊，还真是要过苦日子了！
+english_events_pitstop:L528,pitstop_passenger_intro_mothman_1,KEEP,You invite Moss Mann to join your road trip.,你邀请了莫斯·曼加入你的出行,你邀请了莫斯·曼加入你的出行
+english_events_pitstop:L529,pitstop_passenger_intro_mothman_1,KEEP,"I'd love to join you! Thanks, %CURRENTPLAYERNAME%!",我很想加入你们! 谢谢 %CURRENTPLAYERNAME%!,我很想加入你们! 谢谢 %CURRENTPLAYERNAME%!
+english_events_pitstop:L530,pitstop_passenger_intro_mothman_1,FIX,I have so much gossip to catch you up on! You won't believe who Martha Manticore is dating this week...,我有很多八卦要跟你说! 你不会相信玛莎曼蒂克这周在和谁约会...,有好多八卦要讲给你！你绝对想不到，玛莎·曼蒂克这周跟谁在约会……
+english_events_pitstop:L535,pitstop_passenger_intro_mothman_2,KEEP,You invite Moss Mann to join your road trip.,你邀请了莫斯·曼加入你的出行,你邀请了莫斯·曼加入你的出行
+english_events_pitstop:L536,pitstop_passenger_intro_mothman_2,FIX,"Me, on the road? Sure! We'll see so many tantalizing headlights!","我,在路上吗? 当然! 我们会看到这么多迷人的前灯!",让我上路？行啊！能看到好多诱人的车灯！
+english_events_pitstop:L541,pitstop_passenger_intro_stu_1,KEEP,You invite Stu to join your road trip.,你邀请了斯图加入你的出行,你邀请了斯图加入你的出行
+english_events_pitstop:L542,pitstop_passenger_intro_stu_1,FIX,"Dope, let's do it. Wanna hotbox?","朵比,我们开始吧。 想吃热盒吗?",太棒了，走吧。要不要在车里抽得烟雾缭绕？
+english_events_pitstop:L547,pitstop_passenger_intro_stu_2,KEEP,You invite Stu to join your road trip.,你邀请了斯图加入你的出行,你邀请了斯图加入你的出行
+english_events_pitstop:L548,pitstop_passenger_intro_stu_2,POLISH,"Aw, dude... I'd love to come, but I really gotta lifeguard this lake and make sure nobody drowns...","哦,伙计... 我很想来,但我真的需要 救生员这个湖 确保没有人会淹死...",唉，伙计……我想去，可我还得在这湖边当救生员，确保没人淹死……
+english_events_pitstop:L549,pitstop_passenger_intro_stu_2,FIX,What...? But we're in the middle of the desert with no lakes in sight.,什麽... ? 但是我们处在沙漠的中间 没有湖泊的视线。,什么……？可我们在沙漠正中央，根本没湖啊。
+english_events_pitstop:L550,pitstop_passenger_intro_stu_2,POLISH,"Whoa, seriously? That means I'm off the hook! Let's go!","哇,真的吗? 意思是我已经脱身了! 我们走!",哇，真的？那我没事儿了！走！
+english_events_pitstop:L555,pitstop_passenger_intro_valerie_1,KEEP,You invite Valerie to join your road trip.,你邀请了瓦莱丽加入你的出行,你邀请了瓦莱丽加入你的出行
+english_events_pitstop:L556,pitstop_passenger_intro_valerie_1,FIX,"Sure, I'll tag along. I've been meaning to take my shop on the road.","当然,我会跟着去。 我一直想在路上开我的店",行，一起去。我早就想把商店搬上路了。
+english_events_pitstop:L561,pitstop_passenger_intro_valerie_2,KEEP,You invite Valerie to join your road trip.,你邀请了瓦莱丽加入你的出行,你邀请了瓦莱丽加入你的出行
+english_events_pitstop:L562,pitstop_passenger_intro_valerie_2,FIX,"Hey, stranger. I knew you missed me and my stuff. Let's go.","嘿,陌生人,你好吗? 我知道你想念我和我的东西。 我们走吧。",嘿，好久不见。我就知道，你想我和我的商品了。走吧。
+english_events_pitstop:L567,pitstop_passenger_intro_vera_1,FIX,You invite Vera to join your road trip.,你邀请 维拉 去参加你的出行,你邀请薇拉加入这趟公路旅行。
+english_events_pitstop:L568,pitstop_passenger_intro_vera_1,POLISH,"Fine, I'll come... my stupid chauffeur's running late anyway.","好吧,我会来... 反正我的司机要迟到了",行，跟你们走……反正我那蠢司机还没来。
+english_events_pitstop:L569,pitstop_passenger_intro_vera_1,FIX,"Let's go, NOW. I'm already two-and-a-half minutes behind schedule.","我们走吧,现在。 我已经落后了两分半",现在就走。我已经落后计划两分半了。
+english_events_pitstop:L574,pitstop_passenger_intro_vera_2,FIX,You invite Vera to join your road trip.,你邀请 维拉 去参加你的出行,你邀请薇拉加入这趟公路旅行。
+english_events_pitstop:L575,pitstop_passenger_intro_vera_2,POLISH,"Fine, I guess I'll come... but this had better be worth my precious time.","好吧,我想我会来... 但它最好值得我宝贵的时间。",好吧，去就去……最好对得起我宝贵的时间。
+english_events_pitstop:L580,pitstop_passenger_intro_zoe_1,FIX,You invite Zoe to join your road trip.,你邀请 佐伊 去参加你的出行,你邀请兹伊加入这趟公路旅行。
+english_events_pitstop:L581,pitstop_passenger_intro_zoe_1,FIX,"Sure, I'll come with you. Spoiler alert: this road trip just got awesome!","当然,我会和你一起去。 捣蛋鬼警报:这次出行真是太棒了!",行，一起去。剧透警告：这趟旅行刚刚变超棒了！
+english_events_pitstop:L586,pitstop_passenger_intro_zoe_2,FIX,You invite Zoe to join your road trip.,你邀请 佐伊 去参加你的出行,你邀请兹伊加入这趟公路旅行。
+english_events_pitstop:L587,pitstop_passenger_intro_zoe_2,FIX,"SQUEEEEE! Road trip AU, here we come!","斯库伊! 公路旅行AU,我们来了!",啊啊啊！公路旅行 AU，我们来啦！
+english_events_pitstop:L592,pitstop_passenger_intro_yellow_1,KEEP,You invite Oz to join your road trip.,你邀请 奥兹 去参加你的出行,你邀请 奥兹 去参加你的出行
+english_events_pitstop:L593,pitstop_passenger_intro_yellow_1,KEEP,"Oh, sure! I'd love to join you!","哦,当然! 我很想加入你们!","哦,当然! 我很想加入你们!"
+english_events_pitstop:L594,pitstop_passenger_intro_yellow_1,POLISH,(I just hope I don't mess everything up...),(我只是希望我不要把一切都弄乱... ),（但愿别把一切搞砸……）
+english_events_pitstop:L599,pitstop_passenger_intro_yellow_2,KEEP,You invite Oz to join your road trip.,你邀请 奥兹 去参加你的出行,你邀请 奥兹 去参加你的出行
+english_events_pitstop:L600,pitstop_passenger_intro_yellow_2,POLISH,You're asking... me? Really?,你在问... 我吗? 真的吗?,你是在问……我？真的？
+english_events_pitstop:L601,pitstop_passenger_intro_yellow_2,POLISH,"Okay, if you're sure... then I'd love to come with you!","好吧,如果你确定的话... 我很乐意跟你一起去!",好，如果你确定……那我很乐意去！
+english_events_pitstop:L606,pitstop_passenger_intro_yellow_3,KEEP,You invite Oz to join your road trip.,你邀请 奥兹 去参加你的出行,你邀请 奥兹 去参加你的出行
+english_events_pitstop:L607,pitstop_passenger_intro_yellow_3,POLISH,"...Oh, you're inviting me to come with you? Really?","哦,你邀请我和你一起去? 真的吗?",……哦，邀请我一起去？真的？
+english_events_pitstop:L608,pitstop_passenger_intro_yellow_3,FIX,Um... okay! Sure! Let's go!,那个... 还好! 当然! 我们走!,呃……好！行！走吧！
+english_events_pitstop:L613,pitstop_passenger_intro_red_1,KEEP,You invite Amira to join your road trip.,你邀请 阿米拉 去参加你的出行,你邀请 阿米拉 去参加你的出行
+english_events_pitstop:L614,pitstop_passenger_intro_red_1,FIX,"Or rather, you were going to, but before you can get three words out she's already in the driver's seat honking the horn.","或者说,你本打算去的,但在你得到三个字出来之前,她已经在驾驶座上按喇叭了。",或者说，你正准备邀请她。可没等你说上三句话，她已经坐进驾驶座按喇叭了。
+english_events_pitstop:L615,pitstop_passenger_intro_red_1,FIX,"What're you standing around for, %CURRENTPLAYERNAME%?! We've got rubber to burn!","你站在这里干什么,%CURRENTPLAYERNAME%? 我们有橡胶要烧了!",%CURRENTPLAYERNAME%，还站着干吗？！该烧胎上路了！
+english_events_pitstop:L616,pitstop_passenger_intro_red_1,KEEP,Guess that's a yes!,我想这是肯定的!,我想这是肯定的!
+english_events_pitstop:L621,pitstop_passenger_intro_red_2,KEEP,You invite Amira to join your road trip.,你邀请 阿米拉 去参加你的出行,你邀请 阿米拉 去参加你的出行
+english_events_pitstop:L622,pitstop_passenger_intro_red_2,FIX,"Let's do it! You can't spell ""road trip"" without ""Amira""!","让我们开始吧! 你不能拼写""路途""没有""阿米拉""!",走吧！拼“road trip”，怎么能没有“Amira”！
+english_events_pitstop:L623,pitstop_passenger_intro_red_2,FIX,"Or at least, I can't... I'm pretty bad at spelling.","或者至少,我无法... 我对拼写很不好",至少我是拼不出来……我拼写很烂。
+english_events_pitstop:L628,pitstop_passenger_intro_red_3,KEEP,You invite Amira to join your road trip.,你邀请 阿米拉 去参加你的出行,你邀请 阿米拉 去参加你的出行
+english_events_pitstop:L629,pitstop_passenger_intro_red_3,FIX,"Yeah, baby! I'm the ultimate hitchhiker!","是啊,宝贝! 我是终极搭便车者!",好耶，宝贝！我可是终极搭车客！
+english_events_pitstop:L634,pitstop_passenger_intro_blue_1,FIX,You invite Vicky to join your road trip.,你邀请 维姬 去参加你的出行,你邀请薇姬加入这趟公路旅行。
+english_events_pitstop:L635,pitstop_passenger_intro_blue_1,POLISH,"Cool car, %CURRENTPLAYERNAME%! Mind if I take apart the engine and see how it works?","酷车, %CURRENTPLAYERNAME%! 介意我拆掉引擎 看看它如何运作吗?",车不错啊，%CURRENTPLAYERNAME%！介意我拆开引擎，看看怎么运作的吗？
+english_events_pitstop:L636,pitstop_passenger_intro_blue_1,FIX,"Uh... I'd rather you didn't. You can ride with us, though!",额... 我宁愿你没有。 你可以和我们一起骑!,呃……最好别拆。不过，可以跟我们一起坐车！
+english_events_pitstop:L637,pitstop_passenger_intro_blue_1,FIX,"Oh, okay!","哦,还好!",哦，好吧！
+english_events_pitstop:L642,pitstop_passenger_intro_blue_2,FIX,You invite Vicky to join your road trip.,你邀请 维姬 去参加你的出行,你邀请薇姬加入这趟公路旅行。
+english_events_pitstop:L643,pitstop_passenger_intro_blue_2,FIX,Let's go! This trip will be electrifying!,我们走! 这趟旅行会触电的!,走吧！这趟旅行，绝对电力十足！
+english_events_pitstop:L648,pitstop_passenger_intro_blue_3,FIX,You invite Vicky to join your road trip.,你邀请 维姬 去参加你的出行,你邀请薇姬加入这趟公路旅行。
+english_events_pitstop:L649,pitstop_passenger_intro_blue_3,FIX,Sure! Dibs on being navigator!,当然! 迪布斯是导航员!,好啊！导航员归我了！
+english_events_pitstop:L654,pitstop_passenger_intro_green_1,FIX,You invite Brian to join your road trip.,你邀请 布莱恩 去参加你的出行,你邀请布赖恩加入这趟公路旅行。
+english_events_pitstop:L655,pitstop_passenger_intro_green_1,KEEP,Eh...,额...,额...
+english_events_pitstop:L656,pitstop_passenger_intro_green_1,FIX,*thinking noises*,*想着噪音*,*思考的声音*
+english_events_pitstop:L657,pitstop_passenger_intro_green_1,KEEP,...sure.,...当然。,...当然。
+english_events_pitstop:L662,pitstop_passenger_intro_green_2,FIX,You invite Brian to join your road trip.,你邀请 布莱恩 去参加你的出行,你邀请布赖恩加入这趟公路旅行。
+english_events_pitstop:L663,pitstop_passenger_intro_green_2,KEEP,...,...,...
+english_events_pitstop:L664,pitstop_passenger_intro_green_2,KEEP,...,...,...
+english_events_pitstop:L665,pitstop_passenger_intro_green_2,FIX,Okay.,"好吧,我告诉你。",好。
+english_events_pitstop:L670,pitstop_passenger_intro_green_3,FIX,You invite Brian to join your road trip.,你邀请 布莱恩 去参加你的出行,你邀请布赖恩加入这趟公路旅行。
+english_events_pitstop:L671,pitstop_passenger_intro_green_3,KEEP,Can I nap in the car?,我能在车里睡一觉吗?,我能在车里睡一觉吗?
+english_events_pitstop:L672,pitstop_passenger_intro_green_3,FIX,I don't see why not.,何以不见.,当然可以。
+english_events_pitstop:L673,pitstop_passenger_intro_green_3,FIX,Perfect.,完美无缺,完美。
+english_events_pitstop:L678,pitstop_passenger_intro_adrien_1,KEEP,You invite Adrien to join your road trip.,你邀请了阿德里安加入你的出行,你邀请了阿德里安加入你的出行
+english_events_pitstop:L679,pitstop_passenger_intro_adrien_1,KEEP,"Well, walking in this heavy armor does get exhausting...",穿这身厚重的盔甲走动会很累...,穿这身厚重的盔甲走动会很累...
+english_events_pitstop:L680,pitstop_passenger_intro_adrien_1,FIX,I'm in.,我进去了。,我加入。
+english_events_pitstop:L685,pitstop_passenger_intro_adrien_2,KEEP,You invite Adrien to join your road trip.,你邀请了阿德里安加入你的出行,你邀请了阿德里安加入你的出行
+english_events_pitstop:L686,pitstop_passenger_intro_adrien_2,FIX,You want me to join your quest?,你想我加入你的探索吗?,想让我加入你的冒险？
+english_events_pitstop:L687,pitstop_passenger_intro_adrien_2,FIX,You have my sword.,你拥有我的剑。,我的剑为你效劳。
+english_events_pitstop:L692,pitstop_passenger_intro_adrien_3,KEEP,You invite Adrien to join your road trip.,你邀请了阿德里安加入你的出行,你邀请了阿德里安加入你的出行
+english_events_pitstop:L693,pitstop_passenger_intro_adrien_3,KEEP,You want me to join you?,你想我加入你吗?,你想我加入你吗?
+english_events_pitstop:L694,pitstop_passenger_intro_adrien_3,POLISH,Of course. I never turn my back on those in need.,当然 我从不背弃那些有需要的人,当然，我从不背弃需要帮助的人。
+english_events_pitstop:L699,pitstop_passenger_intro_hope_1,FIX,You invite Hope to join your road trip.,你邀请了希望加入你的出行,你邀请希望女巫加入这趟公路旅行。
+english_events_pitstop:L700,pitstop_passenger_intro_hope_1,FIX,Hmm... I don't see any better offers in my future...,垛... 我没有看到任何更好的报价在我的未来... ...,嗯……我没预见到更好的邀请……
+english_events_pitstop:L701,pitstop_passenger_intro_hope_1,FIX,"Yeah, I guess I'll ride with you.","是啊,我想我会骑你。",行吧，就跟你们坐车。
+english_events_pitstop:L706,pitstop_passenger_intro_hope_2,FIX,You invite Hope to join your road trip.,你邀请了希望加入你的出行,你邀请希望女巫加入这趟公路旅行。
+english_events_pitstop:L707,pitstop_passenger_intro_hope_2,FIX,"Sure, I'll come with you. You'll need a little hope on this road trip.","当然,我会和你一起去。 这趟出行你需要一点希望",行，一起去。这趟公路旅行可得有点希望。
+english_events_pitstop:L708,pitstop_passenger_intro_hope_2,FIX,"And you're definitely a ""little Hope"", haha!","你绝对是一个""小希望"",哈哈!",而你正好是个“小希望女巫”，哈哈！
+english_events_pitstop:L709,pitstop_passenger_intro_hope_2,FIX,...Don't push it.,别推了,……别得寸进尺。
+english_events_pitstop:L714,pitstop_passenger_intro_hope_3,FIX,You invite Hope to join your road trip.,你邀请了希望加入你的出行,你邀请希望女巫加入这趟公路旅行。
+english_events_pitstop:L715,pitstop_passenger_intro_hope_3,FIX,"Hope Halko, by your side!","希望哈尔克,在你身边!",希望女巫·哈尔科，与你同在！
+english_events_pitstop:L720,pitstop_passenger_intro_finn_1,FIX,You invite Finn to join your road trip.,你邀请了芬加入你的公路旅行。,你邀请芬恩加入这趟公路旅行。
+english_events_pitstop:L721,pitstop_passenger_intro_finn_1,POLISH,Sure... a break from work sounds pretty nice.,当然... 工作休息听起来不错,行啊……能从工作中抽身一会儿，也挺好。
+english_events_pitstop:L726,pitstop_passenger_intro_finn_2,FIX,You invite Finn to join your road trip.,你邀请了芬加入你的公路旅行。,你邀请芬恩加入这趟公路旅行。
+english_events_pitstop:L727,pitstop_passenger_intro_finn_2,FIX,"Eh, okay.","嗯,还好。",呃，行。
+english_events_pitstop:L728,pitstop_passenger_intro_finn_2,KEEP,Just drop me off at the office afterwards.,之后就把我送到办公室去,之后就把我送到办公室去
+english_events_pitstop:L733,pitstop_passenger_intro_finn_3,FIX,You invite Finn to join your road trip.,你邀请了芬加入你的公路旅行。,你邀请芬恩加入这趟公路旅行。
+english_events_pitstop:L734,pitstop_passenger_intro_finn_3,FIX,"I'm not gonna have to carry you around on my shoulders, am I?",我不必背着你到处走 是吗?,不用我把你们扛在肩上走吧？
+english_events_pitstop:L735,pitstop_passenger_intro_finn_3,FIX,...What? No. Of course not.,什麽? 没有。 当然不是。,……什么？不用，当然不用。
+english_events_pitstop:L736,pitstop_passenger_intro_finn_3,KEEP,Thank God.,谢天谢地,谢天谢地
+english_events_pitstop:L741,pitstop_passenger_intro_dahliaappliance_1,FIX,You invite Washing Machine Dahlia to join your road trip.,你邀请了洗衣机 达莉娅 去参加你的出行,你邀请洗衣机达丽雅加入这趟公路旅行。
+english_events_pitstop:L742,pitstop_passenger_intro_dahliaappliance_1,FIX,I'm in! Just let me finish something real quick...,我进去了! 只要让我完成 一些非常快...,我加入！等我一下，马上忙完……
+english_events_pitstop:L743,pitstop_passenger_intro_dahliaappliance_1,FIX,*Ding!*,* 叮当 *,*叮！*
+english_events_pitstop:L744,pitstop_passenger_intro_dahliaappliance_1,FIX,"Sweet, rinse cycle's done! LET'S RIDE!","甜美的,冲洗的循环结束了! 让我们走开!",好，漂洗结束！上路！
+english_events_pitstop:L749,pitstop_passenger_intro_dahliaappliance_2,FIX,You invite Washing Machine Dahlia to join your road trip.,你邀请了洗衣机 达莉娅 去参加你的出行,你邀请洗衣机达丽雅加入这趟公路旅行。
+english_events_pitstop:L750,pitstop_passenger_intro_dahliaappliance_2,FIX,Look! I'm a washing machine!,听着! 我是一个洗衣机!,看！我是洗衣机！
+english_events_pitstop:L751,pitstop_passenger_intro_dahliaappliance_2,KEEP,...,...,...
+english_events_pitstop:L752,pitstop_passenger_intro_dahliaappliance_2,FIX,...I noticed.,...我注意到了。 ...... I noticed.,……看出来了。
+english_events_pitstop:L753,pitstop_passenger_intro_dahliaappliance_2,KEEP,FUCK YEAH!,他妈的耶!,他妈的耶!
+english_events_pitstop:L758,pitstop_passenger_intro_dahliaappliance_3,FIX,You invite Dahlia the Washing Machine to join your road trip.,你邀请 达莉娅 冲洗机 加入你的出行。,你邀请洗衣机达丽雅加入这趟公路旅行。
+english_events_pitstop:L759,pitstop_passenger_intro_dahliaappliance_3,KEEP,FUCK YEAH!,他妈的耶!,他妈的耶!
+english_events_pitstop:L760,pitstop_passenger_intro_dahliaappliance_3,KEEP,I WANNA DRIVE FIRST!,我先开车!,我先开车!
+english_events_pitstop:L766,pitstop_passenger_intro_lamb_1,KEEP,You invite the Lamb to join your road trip.,"你邀请了""羔羊""加入你的出行","你邀请了""羔羊""加入你的出行"
+english_events_pitstop:L767,pitstop_passenger_intro_lamb_1,FIX,"Sure, I'll come with you! My cultists can mind themselves for a bit.","当然,我和你一起去! 我的邪教主义者可以介意自己一点。",行，我跟你们走！教徒们能先自己待一阵。
+english_events_pitstop:L768,pitstop_passenger_intro_lamb_1,POLISH,They can always eat each other if they get hungry!,"如果饿了,他们总是可以吃对方的!",饿了还可以互相吃嘛！
+english_events_pitstop:L774,pitstop_passenger_intro_lamb_2,KEEP,You invite the Lamb to join your road trip.,"你邀请了""羔羊""加入你的出行","你邀请了""羔羊""加入你的出行"
+english_events_pitstop:L775,pitstop_passenger_intro_lamb_2,FIX,"Sure! Wow, look at me, following someone else for a change!","当然! 哇,看着我,跟随别人改变!",行啊！哇，看看我，终于换我跟着别人走了！

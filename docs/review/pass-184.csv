@@ -1,0 +1,208 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_maingame:L18775,carfight,FIX,Your car is stopped at a red light when a slick red sports car pulls up next to you. The driver revs its engine in a deadly invitation to race.,你的车停在了红灯口 当一辆滑翔的红色运动车停在你旁边时 车手在致命的比赛邀请中重回了引擎.,你在红灯前停下，一辆炫酷的红色跑车开到旁边。司机猛轰油门，发出危险的飙车邀请。
+english_events_maingame:L18777,carfight,FIX,"Fuck yeah, a street race! DRIVE, SCOTT!","街上比赛! 开车,斯科特!",操，好啊，街头飙车！斯科特，冲！
+english_events_maingame:L18778,carfight,POLISH,But the light is still red. We can't move yet.,但灯光还红. 尚不能动.,可还是红灯，现在不能走。
+english_events_maingame:L18779,carfight,POLISH,Who cares?! Street racers don't play by the rules! DRIVE!,谁在乎? 街上赛车手不按规矩来玩! 开车!,管它呢！街头车手才不守规矩！冲！
+english_events_maingame:L18780,carfight,FIX,"Scott peels out, and so does the other car.","斯科特 皮脱出,而另一辆车也是如此。",斯科特猛踩油门，对方也蹿了出去。
+english_events_maingame:L18781,carfight,FIX,"WARP SPEED, SCOTTY! DRIVE LIKE THERE'S NO TOMORROW!","警报,SOTTY! 开车像没有明天!",小斯，曲速前进！拿出今天就是最后一天的气势！
+english_events_maingame:L18782,carfight,POLISH,"Okay, if you insist. But I'll go five miles above the speed limit, 'cause I'm a good boy!","好吧,如果你坚持。 但我会走5英里 超过限速, '因为我是一个好孩子!",好吧，你非要的话。不过最多只超速五英里，我可是乖孩子！
+english_events_maingame:L18783,carfight,POLISH,"Ugh, fine...","额,没事...",唉，行吧……
+english_events_maingame:L18784,carfight,FIX,"%CURRENTPLAYERNAME%, looks like it's up to you. SHOOT OUT THE OTHER GUY'S TIRES!","%CURRENTPLAYERNAME%,看起来它是你的决定。 射出另一个家伙的轮胎!",%CURRENTPLAYERNAME%，只能靠你了。把那家伙的轮胎打爆！
+english_events_maingame:L18785,carfight,POLISH,What? How? I don't have a gun.,什麽? 怎么会? 我没有枪。,什么？怎么打？我又没枪。
+english_events_maingame:L18786,carfight,FIX,You don't?! But you called shotgun!,你没有吗? 但你叫猎枪!,你没枪？！可你刚才喊了 shotgun，要坐副驾啊！
+english_events_maingame:L18787,carfight,FIX,That means you sit in the passenger seat with a loaded shotgun and fuck up anybody who tries to mess with us!,也就是说你坐在乘客座位上 拿着装满了猎枪 和谁想惹我们就干他,那不就是坐在副驾，端着装好弹的霰弹枪，把所有敢惹咱们的家伙轰个稀烂吗！
+english_events_maingame:L18788,carfight,FIX,You're about to tell Polly that's not what shotgun means (anymore) when your racing opponent suddenly slams his car into the side of your car.,"你马上就要告诉 波莉 猎枪不是用来表示的, 赛车对手突然撞到车边。",你正想告诉波莉，shotgun 现在可不是这个意思，对手突然开车撞向你们的侧面。
+english_events_maingame:L18789,carfight,POLISH,WHOA! We almost went off the road! That wasn't very nice...,呜哇! 我们差点就下路了! 这可不怎么好...,哇！差点冲出路面！这也太不友善了……
+english_events_maingame:L18790,carfight,POLISH,It sure wasn't. Looks like these motherfuckers wanna play dirty!,"肯定不是,我说,我... 看来这些混蛋想玩弄脏了!",就是。这帮混蛋看来想玩阴的！
+english_events_maingame:L18791,carfight,POLISH,"%CURRENTPLAYERNAME%, since you already let me down on the shotgun, you'd better have a good idea on how to retaliate and win this race!",%CURRENTPLAYERNAME%既然你已经让我在猎枪上失望了 你最好有个好主意 如何报复和赢得这场比赛!,%CURRENTPLAYERNAME%，你没带霰弹枪，已经让我失望一次了。这次最好想个妙招，报复回去，赢下比赛！
+english_events_maingame:L18792,carfight,FIX,"Sure, why not? Given all the -N2 MAGIC your car already burnt up during this race, things can only go up from here.","当然,为什么不呢? 有了N2磁带控制系统 你的车在这场比赛中已经烧焦了 只有从这里才能上台",行啊，为什么不呢？反正这场比赛已经烧掉了 -N2 魔力，还能更糟吗。
+english_events_maingame:L18793,carfight,POLISH,Time to play a little dirty and win this street race!,是时候玩点肮脏的游戏 赢得这场街上比赛了!,该玩点阴招，赢下这场街头飙车了！
+english_events_maingame:L18794,carfight,POLISH,The car pen is mightier than the car sword: write a strongly-worded letter and throw it to the other car as a paper plane!,"车用笔比""车用剑""更能打:写出一首有强烈口吻的来信,并把它扔到另一辆车上当作纸机!.",车用笔胜过车用剑：写封措辞严厉的信，折成纸飞机，扔进对方车里！
+english_events_maingame:L18795,carfight,POLISH,"It's time to push the Big Red Button. No idea what it does, but desperate times call for desperate measures!",时出推大红扣. 不知道它做什么 但绝望的时代要求采取绝望的措施,是时候按下大红按钮了。虽然不知道有什么用，可紧急时刻，就得下点猛药！
+english_events_maingame:L18797,carfight,FIX,"Okay, I'm in! Help me brainstorm some hate-mail!","好,我进去了! 帮我把仇恨邮件都给我",好，我加入！一起想想怎么写封骂人的信！
+english_events_maingame:L18798,carfight,POLISH,"""Dear Motherfucker..."" Hmm, is that too strong of an opening?","""亲爱的混蛋..."" 嗯,那太强烈了开场白?",“亲爱的狗娘养的……”唔，开头会不会太狠了？
+english_events_maingame:L18799,carfight,POLISH,"I'm loving the attitude, but bringing the guy's mom into this might be too far. I suggest going with ""Dear Shithead.""","我喜欢这种态度 但把那家伙的妈妈带进这案子可能太远了 我建议你用""亲爱的笨蛋""",我喜欢这个气势，不过连他妈一起骂，可能有点过。建议换成“亲爱的脑残”。
+english_events_maingame:L18800,carfight,FIX,"Good call. ""Dear Shithead: How dare you hip-check our car?! I am absolutely DISGUSTED!""","说得好 ""亲爱的笨蛋:你敢看我们的车? 我绝对是被吓坏了!""",有道理。“亲爱的脑残：竟敢侧撞我们的车？！你的行为，实在令我作呕！”
+english_events_maingame:L18801,carfight,FIX,"""You are a deplorable jackass without a shred of redeemability, unfit for even the lowest dregs of society!""","""你是一个可悲的混蛋,没有一点可赎回的分量, 不适合即使是社会上最下等的渣滓!""",“你这卑鄙可耻、无可救药的混账，连社会最底层的渣滓都不如！”
+english_events_maingame:L18802,carfight,FIX,"What's a deep lore jackass without a shed of red ear Billy in... uh, whatever you just said?","没有什么大麻烦,没有红耳朵比利... 随便你怎么说?",什么叫被逼烤翅、无壳浇药的混账……呃，后面那些又是什么？
+english_events_maingame:L18803,carfight,POLISH,"Here, I'll explain it this way: I'm using words to describe the feelings you get when your least favorite team scores a touchdown.","在这里,我用这个解释: 我用词来描述你最不喜欢的队伍打出达阵时的感受.",这么解释吧：我用这些词，表达你最讨厌的球队达阵得分时，你心里的感觉。
+english_events_maingame:L18804,carfight,POLISH,"Oh, got it! Then you should end it with, ""I'm mad at you, but it's okay, because everyone's having fun and that's what matters!""","哦,对了! 那你就应该说:""我生你气了,但没关系,因为每个人都在玩,这才是最重要的!""",哦，懂了！那最后应该写：“我很生你的气，不过没关系，大家玩得开心才最重要！”
+english_events_maingame:L18805,carfight,POLISH,Perfect. You fold the finished letter into a paper airplane and throw it into your opponent's open window.,完美无缺 你把写完的信折成纸机 扔到对手的开窗里,完美。你把写好的信折成纸飞机，扔进对手敞开的车窗。
+english_events_maingame:L18806,carfight,FIX,"It punctures the driver's eyeball. He screams, thrashing blindly, and the car fishtails and crashes off-road.","刺入驾驶员眼球 他尖叫,盲目地打, 和汽车鱼尾和坠出出道。",纸飞机扎穿了司机的眼球。他尖叫着胡乱挣扎，车子甩尾，冲出了公路。
+english_events_maingame:L18807,carfight,FIX,...Oops.,..Oops. 欧普斯。,……哎呀。
+english_events_maingame:L18808,carfight,POLISH,Maybe he can read our letter later when he regains consciousness?,也许他能读我们的信 等他恢复意识后?,等他醒过来，应该还能看信吧？
+english_events_maingame:L18809,carfight,POLISH,The car suddenly explodes in a fiery inferno.,车突然在烈火中爆炸,车子突然爆炸，燃起冲天大火。
+english_events_maingame:L18810,carfight,KEEP,...,...,...
+english_events_maingame:L18811,carfight,KEEP,...,...,...
+english_events_maingame:L18812,carfight,POLISH,"DRIVE, SCOTT!","开车,斯科特!",斯科特，快开车！
+english_events_maingame:L18814,carfight,FIX,"Yup, cool, never speaking of that again. At least you all gained +N2 MIND by choosing the intellectual's weapon: the mighty pen!","酷,别再提这个了 至少你们都通过选择知识分子的武器:强大的笔来获得+N2 MIND!",好，行，这事谁也别再提。至少你们选择了知识分子的武器——强大的笔，获得 +N2 头脑！
+english_events_maingame:L18816,carfight,POLISH,Really? Is it finally time to push THE Big Red Button?! The suspense has been killing me!,真的吗? 终于该按下红色大按钮了? 悬念让我很伤心!,真的？终于轮到那个大红按钮了？！我都快好奇死了！
+english_events_maingame:L18817,carfight,POLISH,"Looks like today is the fateful day. You and your friends gather your courage, hold your breaths, and... you push it!",看来今天是命运的一天 你和你的朋友们 鼓起勇气 屏住呼吸 然后... 你推开它!,看来，命中注定的日子就是今天。你和朋友们鼓起勇气，屏住呼吸，然后……按了下去！
+english_events_maingame:L18818,carfight,POLISH,Nothing happens. Damn.,什么都没有发生。 该死,什么都没发生。妈的。
+english_events_maingame:L18819,carfight,POLISH,"This can't be right. Push it again, %CURRENTPLAYERNAME%, but do it right this time!",这是不对的。 再来一次 %CURRENTPLAYERNAME%但这次做对了!,不对啊。%CURRENTPLAYERNAME%，再按一次，这回好好按！
+english_events_maingame:L18820,carfight,FIX,"You didn't know there was a way to push a button wrong, but fine. This time when you hit the button, ""La Cucaracha"" begins to play.","你根本不知道有办法按错按钮 但很好 这一次你按下按钮,""La Cucaracha""开始出道.",你都不知道，按按钮还能按错。不过行吧，这次一按，《蟑螂之歌》响了起来。
+english_events_maingame:L18821,carfight,POLISH,What the... why? Is that all this button does?,这... 为什么? 按钮就用这个吗?,什么鬼……为什么？这按钮就只会放歌？
+english_events_maingame:L18822,carfight,POLISH,"I don't mind, I like this song. Play it again, %CURRENTPLAYERNAME%!",我不介意 我喜欢这首歌 再弹一遍 %CURRENTPLAYERNAME%!,我不介意，我喜欢这首。%CURRENTPLAYERNAME%，再放一遍！
+english_events_maingame:L18823,carfight,FIX,You hit the Big Red Button again. A cannon pops out of your trunk and fires a cannonball at your opponent's car!,"你又撞上""大红""按钮了 炮从后车厢里弹出 并发射出一发炮弹 攻击对手的车!",你又按下大红按钮。后备箱里弹出一门炮，朝对方的车轰出一颗炮弹！
+english_events_maingame:L18824,carfight,POLISH,"WHOA, that was awesome! Shame it missed, but damn, still wild.","哇,这太赞了! 可惜没打中,但该死的,还是很狂野",哇，太棒了！没打中有点可惜，不过还是牛啊。
+english_events_maingame:L18825,carfight,FIX,"Push it again, %CURRENTPLAYERNAME%. MORE CANNON POWER!",再来一次 %CURRENTPLAYERNAME%. 更多罐头!,%CURRENTPLAYERNAME%，再按！加大火炮力度！
+english_events_maingame:L18826,carfight,FIX,"You push it again, and...","你再推一次,然后... ... . . . .",你又按了一次，然后……
+english_events_maingame:L18827,carfight,FIX,LA CUCARAAAACHA! LA CUCARAAAACHA! YA NO PUEDE CAMINAAAAR!,"洛杉矶卡拉亚阿卡! 洛杉矶卡拉亚阿卡! 哟,没有普德卡米纳阿亚尔!",小蟑螂——小蟑螂——已经没法走路啦——！
+english_events_maingame:L18828,carfight,FIX,Not this shit again! BRING BACK THE CANNON!,别再这样了! 带回罐头!,怎么又是这破歌！把大炮还来！
+english_events_maingame:L18829,carfight,FIX,"You push the button again. Your opponent's car suddenly spins out, catches fire, and explodes in a spontaneous inferno.","你再按下按钮 对手的车突然旋转出,起火了,自发地在地獄中爆炸.",你再按一下。对手的车突然失控打转，起火，猛地炸成一团火球。
+english_events_maingame:L18830,carfight,KEEP,...,...,...
+english_events_maingame:L18831,carfight,KEEP,...,...,...
+english_events_maingame:L18832,carfight,POLISH,...Did we win?,我们赢了吗?,……我们赢了吗？
+english_events_maingame:L18833,carfight,POLISH,"Uh... push the button again, %CURRENTPLAYERNAME%.",额... 再按下按钮 %CURRENTPLAYERNAME%.,呃……%CURRENTPLAYERNAME%，再按一下吧。
+english_events_maingame:L18834,carfight,FIX,"You do, and your car is filled once more with La Cucaracha's dulcet jaw harp as you drive off.",你开车的时候 你的车又被拉库卡拉查的 下巴上装满了,你照做了。《蟑螂之歌》悦耳的口簧琴声又充满车厢，你们就这样开车离去。
+english_events_maingame:L18836,carfight,FIX,"Aside from all the manslaughter, the Big Red Button turned out to be a big fun time! You gain +N2 HYPE.","除了所有过失杀人事件,""大红扣""也成了一个大乐趣!. 得到+N2 HYPE.  You.",除了那点过失杀人，大红按钮确实带来了不少乐趣！你获得 +N2 热度。
+english_events_maingame:L18850,whattojettison,FIX,"So, fun story: you and your friends have been hotly pursued by a mob of pissed-off motorists for the past ten miles.","有趣的故事: 过去十多英里里,你和你的朋友 被一群愤怒的汽车手 热地追逐。",说个有趣的事：过去十英里，你和朋友们一直被一群暴怒的司机穷追不舍。
+english_events_maingame:L18853,whattojettison,POLISH,"What do we do, guys?! Why is that angry mob chasing us?!","我们该怎么办,伙计们? 为什么那愤怒的暴徒追我们?",怎么办，伙计们？！他们为什么追我们？！
+english_events_maingame:L18854,whattojettison,POLISH,"No idea, Scott. They're probably murderously jealous of how hot and fun and cool we are!",不知为何 斯科特. 他们可能嫉妒我们有多热闹 多么有趣和酷!,不知道啊，斯科特。大概嫉妒咱们又性感、又好玩、又酷，嫉妒得想杀人吧！
+english_events_maingame:L18855,whattojettison,FIX,...Or it could have something to do with the +N2 MAGIC which I siphoned out of their gas tanks at the last stop.,"...或者它可能与+N2 MAGIC有关,我从他们的油箱里抽出 在最后一站。",……也可能是因为，我上次停车时，从他们油箱里抽走了 +N2 魔力。
+english_events_maingame:L18856,whattojettison,POLISH,What? Why did you do that?,什麽? 你为什么这么做?,什么？你干吗这么做？
+english_events_maingame:L18857,whattojettison,FIX,"Have you SEEN the price of gas lately? We gotta save money where we can, and it was either selling someone's organs or tank-siphoning.",最近你有没有看到汽油的价格? 我们得在可以的地方省钱 要么卖别人的器官 要么用油罐喷口,最近油价多贵，你看见了吗？能省就得省。要么卖掉某个人的器官，要么偷抽汽油。
+english_events_maingame:L18858,whattojettison,FIX,"And since %CURRENTPLAYERNAME% is selfishly hoarding that extra lung of %HISHERS%, this was the best I could do.",从那以后 %CURRENTPLAYERNAME% 自私地囤积了多余的肺 %HISHERS%这是我所能做的最好的。,可 %CURRENTPLAYERNAME% 那么自私，非要留着 %HISHERS% 那个多余的肺，我也只能这样了。
+english_events_maingame:L18859,whattojettison,FIX,"You know, I work really hard to make this road trip a road home, and I'm not appreciated for it!","我努力地把这次公路旅行变成回家的路, 我不欣赏它!",我这么努力，想让公路旅行也有家的温暖，结果没人领情！
+english_events_maingame:L18860,whattojettison,POLISH,"Aww, I appreciate you, bro! I just don't want an angry mob to put a pitchfork in my heinie...","啊,我很感激你,兄弟! ! 我只是不想让愤怒的暴徒 在我的鸡鸡上放一道草叉...",哎，我领情啊，兄弟！只是不想被愤怒的人群，用草叉戳屁股……
+english_events_maingame:L18861,whattojettison,POLISH,"Maybe if I pull over and explain, they'll be cool about it and we can all group-hug?",也许如果我停车解释一下 他们会很冷静的 我们可以一起玩吗?,要不停车解释一下？也许他们会理解，最后大家还能抱一抱？
+english_events_maingame:L18862,whattojettison,POLISH,"I don't think that's gonna work, bud. Our only hope is getting away!","我觉得这样行不通,伙计 我们唯一的希望就是逃出!",恐怕不行，伙计。咱们只能逃！
+english_events_maingame:L18863,whattojettison,POLISH,"The car would move faster if we got rid of some heavy shit... %CURRENTPLAYERNAME%, help me jettison some stuff from the car!",如果我们把一些重物弄掉 车子会开得更快...  %CURRENTPLAYERNAME%帮我把车里的东西丢掉!,扔掉些重东西，车就能跑快点……%CURRENTPLAYERNAME%，帮我往外丢点东西！
+english_events_maingame:L18864,whattojettison,FIX,"Okay! You did overpack a little, to be fair. You help Polly toss out your novelty bowling ball collection, emergency anvil, and miniature black hole.","好,我们走! 你做了一些外包装,公平。 你帮帮忙 波莉 抛出你的新颖的保龄球 紧急安眠药 和微型黑洞",好！说实话，你们确实带多了。你帮波莉扔掉花式保龄球收藏、应急铁砧，还有微型黑洞。
+english_events_maingame:L18865,whattojettison,POLISH,It's not enough; they're gaining on us!,"还不够,他们追上我们了!",不够，他们快追上来了！
+english_events_maingame:L18866,whattojettison,FIX,"Ugh, they didn't even slip and slide a LITTLE on all those bowling balls? Lame!","唉,他们甚至没有滑滑 滑出一点点在那些保龄球? 可恶!",唉，那么多保龄球，居然连滑一下都没滑？没劲！
+english_events_maingame:L18867,whattojettison,POLISH,"%CURRENTPLAYERNAME%, we gotta find something else to throw out, quick!","%CURRENTPLAYERNAME%我们要找到别的东西扔出去,快!",%CURRENTPLAYERNAME%，再找点别的扔，快！
+english_events_maingame:L18868,whattojettison,FIX,Jettison that heavy metal cassette you're listening to. It's... IT'S TOO HEAVY!,吉提森那重金属磁带 你听到。 这是... 这么重!,扔掉正在听的重金属磁带。它……实在太重了！
+english_events_maingame:L18869,whattojettison,FIX,"As much as it breaks your heart, you must jettison your dear friend Troy, who's been riding with you all along during this trip.","哪怕你伤心了,你必须抛弃你亲爱的朋友特洛伊 他在这段旅程中一直跟你一起骑马",就算再心痛，也得扔下亲爱的特洛伊。他可是从旅行开始，就一直跟着你们的好朋友。
+english_events_maingame:L18871,whattojettison,POLISH,"Whoa, I didn't even notice the heavy metal music. How long has that been playing? I thought we were listening to the %MUSIC% station.","哇,我甚至没注意到重金属音乐。 玩了多久? 玩得开心吗? 我以为我们在听%MUSIC%电台的节目",哇，我都没注意到在放重金属。放多久了？还以为咱们听的是 %MUSIC% 电台。
+english_events_maingame:L18872,whattojettison,POLISH,This is music? I thought the car was just screaming 'cause we were driving it too hard and fast.,这是音乐吗? 我以为那辆车只是尖叫着 因为我们开得太快了,这是音乐？我还以为，车被开得又快又狠，疼得叫起来了。
+english_events_maingame:L18873,whattojettison,POLISH,"Nah, it's music. Metal's not my preferred genre, but I guess it was good ambiance for this high-stakes car chase.","不,这是音乐。 金属不是我的最喜欢的流派, 但我猜这是很好的氛围 对于这个高考车追逐。",不是，是音乐。重金属不是我的菜，不过这种生死时速的追车场面，拿它配乐还挺合适。
+english_events_maingame:L18874,whattojettison,POLISH,But it looks like it's time to kiss this soundtrack goodbye... farewell little buddy.,"但看来是时候吻这声道再见了... 再见,小朋友。",可惜，该跟这段配乐说再见了……再见，小家伙。
+english_events_maingame:L18875,whattojettison,POLISH,"Whoa, this tape's so heavy I can't even eject it. Scott, can you throw it out the window?","哇,这盘带子太重了,我甚至不能弹出它。  斯科特你能把它扔出窗户吗?",哇，这磁带太重，连弹都弹不出来。斯科特，帮忙扔窗外？
+english_events_maingame:L18876,whattojettison,FIX,"Leave it to me, bro. THIS ONE'S FOR ARM DAY!","交给我,兄弟 这张是用来买军火的!",交给我，兄弟。不枉我练了那么多次手臂！
+english_events_maingame:L18877,whattojettison,FIX,Scott suplexes the heavy metal tape out of the moving car.,斯科特 将重金属磁带从移动的汽车上取出。,斯科特使出一招背摔，把重金属磁带甩出行驶中的车子。
+english_events_maingame:L18879,whattojettison,FIX,It's so heavy it cracks the asphalt when it hits the road and shatters.,重得会撞到路面会破碎,磁带重得落地就砸裂了柏油路，自己也摔得粉碎。
+english_events_maingame:L18880,whattojettison,FIX,"A shard of cassette pierces one angry motorist's tire at the same time that heavy metal music pierces everyone's ears, and the tape dies in one final rock-and-roll scream.","一张磁带的硬盘刺穿了一位愤怒的汽车手的轮胎,同时重金属音乐也刺穿了每个人的耳朵,而磁带在一次最后的摇滚尖叫中死去.",一块碎片扎穿了某位愤怒司机的轮胎，重金属乐声同时刺穿了所有人的耳膜。最后一声摇滚尖啸中，磁带寿终正寝。
+english_events_maingame:L18881,whattojettison,KEEP,...,...,...
+english_events_maingame:L18882,whattojettison,KEEP,...,...,...
+english_events_maingame:L18883,whattojettison,POLISH,...Well this silence is deafening.,...这沉默让人耳聋,……好吧，这沉默简直震耳欲聋。
+english_events_maingame:L18884,whattojettison,POLISH,"Dang, I miss the screaming already. Should I scream to fill the silence?","糟了,我已经想念尖叫了 我应该尖叫来填补沉默吗?",哎，已经开始想念尖叫声了。要不我叫两声，填补一下？
+english_events_maingame:L18885,whattojettison,FIX,Go for it.,冲去.,来吧。
+english_events_maingame:L18886,whattojettison,FIX,AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!,呜呼出相去相去来.,啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！
+english_events_maingame:L18887,whattojettison,FIX,*INHALE...*,* 隐隐... *,*吸气……*
+english_events_maingame:L18888,whattojettison,FIX,AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH...,出出出出出出出出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家出家.,啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊……
+english_events_maingame:L18889,whattojettison,FIX,"It's just not the same. You successfully got away from that angry mob, but it came at the cost of your favorite heavy metal mixtape, and -N2 HYPE.",岂同相取. 你成功摆脱了愤怒的暴徒 但代价是你们最喜欢的重金属相接相接器 还有N2 HYPE,还是不一样。你们成功甩掉了愤怒的人群，可代价是最爱的重金属混音带，以及 -N2 热度。
+english_events_maingame:L18891,whattojettison,FIX,"You look back at Troy, sitting where he's always sat in your backseat, and suggest throwing him out of the car.","你回想特洛伊,他坐在你后座上,建议把他扔出车外。",你回头看向特洛伊。他一直坐在后座的老位置上。你提议，把他扔下去。
+english_events_maingame:L18892,whattojettison,POLISH,"No way, we can't get rid of Troy! We've all been through so much together!","不行,我们无法摆脱特洛伊! 我们都经历过这么多在一起!",不行！怎么能丢掉特洛伊！咱们一起经历了那么多！
+english_events_maingame:L18893,whattojettison,POLISH,"It's okay, dude. Somebody's gotta make a sacrifice to get us outta this pickle.","没事的,伙计。 得有人牺牲才能让我们摆脱这苦瓜",没事，伙计。总得有人牺牲，才能脱困。
+english_events_maingame:L18894,whattojettison,POLISH,"Sorry, Troy. You're really cool and all, and we've made some legendary road trip memories together...","对不起,特洛伊。 你真的很酷,我们一起创造了一些传奇的 公路旅行记忆...",对不起，特洛伊。你很酷，咱们也一起留下了好多传奇的旅行回忆……
+english_events_maingame:L18895,whattojettison,FIX,"But if someone has to go, it should probably be you. You are a concrete golem, after all.","但如果有人必须去,那很可能是你 你毕竟是个混凝土的狼人",可要是非得走一个，那大概只能是你。毕竟你是混凝土魔像。
+english_events_maingame:L18896,whattojettison,FIX,"Yeah, I get it. No hard feelings. It was still super dope road-tripping with you guys!","对,我懂了 无有苦恼. 简直是超级毒品的路滑",嗯，我懂。不怪你们。跟大家一起公路旅行，真的超棒！
+english_events_maingame:L18897,whattojettison,FIX,I'll spend the last few seconds of my life before I hit the ground at 90 miles per hour fondly remembering all of our wacky misadventures.,我会花最后几秒钟 之前我到达地面 每小时90英里 深思熟虑地回忆我们所有的疯狂的错事。,我会用以九十英里的时速砸向地面前，人生最后的几秒钟，好好回忆咱们那些疯狂倒霉的冒险。
+english_events_maingame:L18898,whattojettison,POLISH,"Please don't do this, Troy... you're my bro! I'll miss you!","特洛伊,别这样... 你是我的兄弟! ! 你是我的哥们! 我会想你的!",别这样，特洛伊……你是我兄弟！我会想你的！
+english_events_maingame:L18899,whattojettison,POLISH,"I'll miss you too, Scott. Promise me you'll never stop being hairy and cool.",我也一定会想你的 斯科特. 答应我你永远不会停止 毛发和酷。,我也会想你，斯科特。答应我，要一直毛茸茸、酷酷的。
+english_events_maingame:L18900,whattojettison,FIX,"For you, Troy... I'll be even hairier!","特洛伊,给你的... 我还会更发型!",为了你，特洛伊……我会长更多毛！
+english_events_maingame:L18901,whattojettison,POLISH,"Polly: I love ya, girl. You've been a great friend to me. I'll see you on the other side.","波莉- 我爱你,女孩。 你一直是我的一个好朋友。 二相相见.",波莉，爱你啊，姑娘。你一直都是好朋友。咱们另一个世界见。
+english_events_maingame:L18902,whattojettison,FIX,"I mean, this IS my other side, so I kinda doubt it. But the sentiment is nice...","我的意思是,这是我的另一面, 所以我有点怀疑。 但感觉不错...",可我已经在“另一个世界”了，所以不一定能见。不过心意我领了……
+english_events_maingame:L18903,whattojettison,POLISH,"And %CURRENTPLAYERNAME%, I'll never forget you... or the fact that it was your idea to toss me out of a moving car to save your own ass.",还有 %CURRENTPLAYERNAME%我永远不会忘记你... 或者是你想把我从动车厢里扔出来 来救你自己的命,还有 %CURRENTPLAYERNAME%，我永远不会忘记你……更不会忘记，是你出的主意，把我从行驶的车里扔出去，保你自己的命。
+english_events_maingame:L18904,whattojettison,FIX,"I get that you had no choice, but still, kind of a dick move.","我知道你别无选择,但还是有点老二的举动。",我知道你别无选择，可还是挺混蛋的。
+english_events_maingame:L18905,whattojettison,FIX,"Goodbye everyone, and remember my motto: live life to the fullest, and always eat pizza with a fork!","祝大家再见,记住我的座右铭:活得最活,总是用叉吃比萨!",再见，各位！记住我的座右铭：人生就要尽情活，吃披萨一定用叉子！
+english_events_maingame:L18906,whattojettison,FIX,Troy jumps out of the moving car and shatters into a million concrete shards.,特洛伊从行驶的汽车上跳出并被打碎成一百万个混凝土的硬块.,特洛伊跳出行驶中的车，摔成无数混凝土碎片。
+english_events_maingame:L18907,whattojettison,FIX,NOOOOOOOOOOOOOOO!,"不,不,不,不,不,不,不。",不——！！！
+english_events_maingame:L18908,whattojettison,POLISH,"I'm sorry, buddy. Just remember that this was all %CURRENTPLAYERNAME%'s idea, okay?","对不起,伙计。 记住,这一切都是 %CURRENTPLAYERNAME%这是想法,好吗?",对不起，伙计。不过记住，这全是 %CURRENTPLAYERNAME% 的主意，好吗？
+english_events_maingame:L18910,whattojettison,FIX,"You may have lightened the car's load, but all of your hearts are heavier after the loss of dear Troy. You lose -N2 SOUL.",你可能减轻了车载重量 但失去亲爱的特洛伊后 你的心都变重了 你输了 -N2 SOUL。,车是轻了，可失去亲爱的特洛伊，让所有人的心都沉了下去。你损失 -N2 灵魂。
+english_events_maingame:L18922,deerlastwill,POLISH,"You're driving cheerfully along, nothing weird to report...","你开车很愉快,没什么奇怪的...",你们开开心心地赶路，一切正常，没什么怪事……
+english_events_maingame:L18924,deerlastwill,POLISH,"SCOTT, WATCH OUT FOR THAT DEER!","斯科特,注意那只鹿!",斯科特，小心那头鹿！
+english_events_maingame:L18925,deerlastwill,FIX,TOO LATE! BRACE FOR IMPACT!,太迟了! 吹风影响!,来不及了！坐稳，要撞了！
+english_events_maingame:L18927,deerlastwill,FIX,CRASH!,疯狂!,砰！
+english_events_maingame:L18929,deerlastwill,FIX,"BROS! Are you all okay?! Please, tell me you're breathing!","布鲁斯! BROS! 你没事吧? 拜托 告诉我,你还在呼吸!",兄弟们！都没事吧？！快告诉我，你们还在呼吸！
+english_events_maingame:L18931,deerlastwill,POLISH,"I mean, I'm never breathing, but I'm okay, boo. Looks like the car is too!","我从来没有呼吸,但我没事,嘘。 车也一样!",我本来就不呼吸，不过我没事，宝。车好像也没事！
+english_events_maingame:L18932,deerlastwill,POLISH,"I dunno if we can say the same about that deer, though... we should check on it.","我不知道我们能不能说 同样关于那只鹿,虽然... 我们应该看看",可那头鹿，就不一定了……咱们去看看吧。
+english_events_maingame:L18934,deerlastwill,FIX,"You all get out of the car and check on the deer. You're no veterinarian, but you would diagnose this deer with F.U.B.A.R. for sure.",你们都下车去检查鹿 你不是兽医 但你会用联邦兽医局来诊断这只鹿 当然,你们下车查看。虽然不是兽医，但你很确定，这鹿已经惨得没救了。
+english_events_maingame:L18935,deerlastwill,POLISH,"Stay with me, my deer bro! Let me give you mouth-to-mouth!","跟着我,我的鹿兄弟! 让我给你口对口!",坚持住，鹿兄弟！我给你做人工呼吸！
+english_events_maingame:L18936,deerlastwill,FIX,"""No... don't worry about it,"" the deer coughs. ""It's too late, I'm a goner.""","""没有... 少为所取所取""鹿咳而去. ""太迟了,我死了""",“不……别费心了。”鹿咳嗽着说，“太晚了，我不行了。”
+english_events_maingame:L18937,deerlastwill,FIX,"God, we're so sorry, dude. Of all the violence and bloodshed our road trip has caused, I really hoped it'd never come to a deer hit-and-run.","天啊,我们很抱歉,伙计。 一路旅行造成的暴力和流血事件 我真心希望它不会变成鹿撞跑",天哪，真的很抱歉，伙计。这趟旅行惹出那么多暴力和流血，我真希望，至少别闹出撞鹿逃逸这种事。
+english_events_maingame:L18938,deerlastwill,FIX,"""It's okay. Don't blame yourselves; this is my fault. Jumping into the road without looking was my guilty pleasure... my only reprieve from my boring deer life.""","""无事. 别怪自己,这是我的错 跳入道路而不看是我的内疚快乐... 我唯一能从我无聊的鹿生涯中得到的缓刑"".",“没事，别怪自己，是我的错。不看车就跳上马路，是我明知不该却戒不掉的爱好……也是无聊鹿生里唯一的消遣。”
+english_events_maingame:L18939,deerlastwill,POLISH,"""I only regret that I put you in danger. I hope you can forgive me for that... someday...""","""我只后悔我把你置于危险之中. 我希望你能原谅我... 有天... ... . . .",“唯一后悔的，是把你们也置于危险。我希望有一天……你们能原谅我……”
+english_events_maingame:L18940,deerlastwill,FIX,"You and your friends sit with the deer until his chest goes still. It's a somber, -N2 HYPE moment.","你和你的朋友坐在鹿旁边 直到他胸口不动 这是一次混乱,N2 HYPE时刻。",你和朋友们陪在鹿身边，直到他的胸口不再起伏。这一刻沉重又悲伤，你损失 -N2 热度。
+english_events_maingame:L18941,deerlastwill,POLISH,"Jeez, poor guy. All he wanted was a little thrill in his life, and now he's dead for it.","可怜的家伙,你这混蛋 他只想得到一点刺激 现在他为此而死",唉，可怜的家伙。他只是想给生活找点刺激，却因此丢了命。
+english_events_maingame:L18942,deerlastwill,POLISH,I'm really sad... do you guys think there's anything we can do to honor the deer's life somehow?,我真的很伤心... 你们觉得我们能做些什么来纪念鹿的一生吗?,我真的很难过……咱们能不能做点什么，纪念一下他？
+english_events_maingame:L18943,deerlastwill,FIX,It's the least you could do after you shattered his ribs with your headlights. How do you honor the deer's passing?,这是你用你的前灯砸碎他肋骨后 最起码能做的 如何尊相鹿过.,你都用车灯撞碎他的肋骨了，这点事总该做。要如何悼念这头鹿呢？
+english_events_maingame:L18944,deerlastwill,FIX,Be there for the deer's widow and child. Cover for the deer in the important paternal task of teaching his son to play baseball.,陪去取鹿之遗孀与子. 掩护鹿在重要的父子任务中 教他儿子打棒球,陪伴鹿的遗孀和孩子。替他尽一份父亲的责任，教儿子打棒球。
+english_events_maingame:L18945,deerlastwill,FIX,Attend the deer's funeral and meet his loved ones in order to learn more about the deer as a form of honoring him.,"出席鹿会的葬礼并会见所爱的人,以多了解鹿会,以示对鹿会的一种敬礼.",参加鹿的葬礼，认识他的亲友，多了解他生前的事，以此纪念他。
+english_events_maingame:L18948,deerlastwill,FIX,"You all visit the deer's widow and son in their house... which is the woods, 'cause they're deer.","你们都去他们家看鹿的遗孀和儿子... 森林就是树林,因为他们是鹿。",你们去鹿的遗孀和儿子家探望……也就是树林，毕竟他们是鹿。
+english_events_maingame:L18949,deerlastwill,POLISH,"""I always knew my husband's hobby would kill him one day,"" sighs his widow. ""But he lived a full life... and I suppose he would want us to continue on.""","""我一直知道我丈夫的爱好会杀死他"",叹息他的遗孀. ""但他过着充实的生活... 我想他希望我们继续""",“我早知道，他那爱好迟早会害死他。”遗孀叹气，“不过，他这一生过得很充实……我想，他也希望我们继续生活。”
+english_events_maingame:L18950,deerlastwill,POLISH,"I know this must be hard for you, ma'am. Want us to help you with chores or anything?","我知道这对你来说一定很难,夫人 需要我们帮你做家务吗?",夫人，我知道你一定很难受。要不要帮忙做点家务什么的？
+english_events_maingame:L18951,deerlastwill,POLISH,"I could clean up a bit for you! There's dirt and leaves, like, literally everywhere.","我可以帮你清理一下! 到处都是泥土和叶子, 几乎到处都是。",我可以帮忙打扫！到处都是泥土和树叶，真的是到处都有。
+english_events_maingame:L18952,deerlastwill,FIX,"""That would be nice,"" says the widow, sniffling. ""I was going to make my son breakfast. Could you help me open these marmalade jars?""","""那会很好"",寡妇说,""嗅"". ""我本来打算让我的儿子早餐。 你能帮我打开这些果酱罐子吗?""",“那太好了。”遗孀抽泣着说，“我正准备给儿子做早饭，能帮我打开这些橘子酱罐吗？”
+english_events_maingame:L18953,deerlastwill,POLISH,"""I can never open them myself since I don't have thumbs... God, what was I thinking, buying these when I know I have no thumbs?""","""我永远无法打开他们自己,因为我没有拇指... 上帝,我在想什么, 当我知道我没有拇指的时候买这些?""",“没有拇指，我总是拧不开……天哪，明知道自己没拇指，还买这些，我到底在想什么？”
+english_events_maingame:L18954,deerlastwill,POLISH,"Hey, it's okay--","嘿,没关系的 --",嘿，没关系——
+english_events_maingame:L18955,deerlastwill,POLISH,"""WHAT WAS I THINKING?!"" the widow sobs. ""Making a nice breakfast for everyone? Carrying this family alone?! I can't! I can't do any of this alone!!!""","""我在想什么"" 寡妇的泣下。 ""给大家做个好早餐? 独自一人养活这个家? 我办不到! 我不能独自做这些!""",“我到底在想什么？！”遗孀哭喊，“给大家做顿好吃的早饭？独自撑起这个家？！不行！我一个人根本做不到！！！”
+english_events_maingame:L18956,deerlastwill,FIX,"Scott hugs the widow while she regains her composure, then keeps helping her open jars.","斯科特 拥抱寡妇,同时她恢复了自慰,然后继续帮助她打开罐子.",斯科特抱住遗孀，等她慢慢平静下来，又继续帮她开罐子。
+english_events_maingame:L18958,deerlastwill,POLISH,"Meanwhile, you go out to the backyard (which is, you guessed it, just more woods) to teach the deer's son to play baseball.","同时,你到后院去(也就是你猜想的,只是更多的树林)去教鹿的儿子打棒球.",与此同时，你去后院（没错，还是树林），教鹿的儿子打棒球。
+english_events_maingame:L18959,deerlastwill,POLISH,"The juvenile deer is pretty bad at it, on account of the no thumbs.","幼鹿很不擅长,因为没有拇指。",小鹿打得不太好，毕竟没有拇指。
+english_events_maingame:L18960,deerlastwill,POLISH,"""Sorry, I guess this just isn't my thing,"" he sighs. ""Maybe my family and I should give up on thumb-related activities.""","""对不起,我想这不是我的事"",他叹气。 ""也许我和我的家人应该放弃 与拇指相关的活动""",“抱歉，看来我真不适合这个。”他叹气，“也许我们全家，都该放弃需要拇指的活动。”
+english_events_maingame:L18961,deerlastwill,POLISH,"No, don't give up on baseball!","不,不要放弃棒球!",不，别放弃棒球！
+english_events_maingame:L18962,deerlastwill,FIX,"""Why not?"" he says gloomily. ""I'm no good at it. What's the point?""","""为什么不呢?"" 他说的很悲观 ""我无所取. 何以相取而为"".",“为什么？”他闷闷地说，“反正打不好，有什么意思？”
+english_events_maingame:L18963,deerlastwill,FIX,Because it's fun! Society and side-hustle culture have brainwashed us all into thinking we need to be fantastic at all of our hobbies...,因为它很有趣! 社会和侧身文化 已经把我们所有人都洗脑 认为我们需要 奇异的在我们所有的爱好...,因为好玩啊！社会和副业文化，把我们都洗脑了，好像每个爱好都非得练得特别厉害……
+english_events_maingame:L18964,deerlastwill,FIX,"But what happened to doing something just for fun? You can still come out here, play baseball badly, and have a great time!",但做一些只是为了好玩的事 发生了什么事? 你还是可以出来玩棒球的 玩得很开心,可单纯为了开心，去做一件事，不行吗？你完全可以来这里，棒球打得烂，但玩得很开心！
+english_events_maingame:L18965,deerlastwill,POLISH,"""Okay,"" he says, beginning to smile. ""I guess my dad lived by that motto too. He loved jumping in the road, even if he was really bad at avoiding cars.""","""好的""他说,开始微笑。 ""我想我爸爸也用那句格言过活"" 他喜欢跳上路,即使他真的不擅长避车"".",“好吧。”他慢慢笑了，“爸爸好像也是这样生活的。他很喜欢跳上马路，虽然真的很不擅长躲车。”
+english_events_maingame:L18966,deerlastwill,POLISH,"Yeah, kinda like that! I'd rather you play baseball than play in traffic, but yeah!","是啊,有点像! 我宁愿你打棒球 而不是在交通中玩,但是啊!",对，差不多！不过比起在车流里玩，我还是希望你打棒球。总之，就是这样！
+english_events_maingame:L18967,deerlastwill,FIX,"You and the deer play a rousing game of bad baseball, have a yummy breakfast with the family, and feel a bit more whole when you leave. You gain +N2 SOUL.","你和鹿玩着一场令人兴奋的坏棒球游戏, 和家人一起吃个美味的早餐, 离开时感觉更完整一些. 你得到+N2苏尔。",你和小鹿打了场烂得很尽兴的棒球，又跟他们一家吃了顿美味早餐。离开时，心里也好受了些。你获得 +N2 灵魂。
+english_events_maingame:L18971,deerlastwill,FIX,You all attend the deer's funeral. There are lots of other forest animals in attendance.,汝等皆入鹿之丧. 还有很多其他的森林动物在出席.,你们参加了鹿的葬礼，很多森林动物都来了。
+english_events_maingame:L18973,deerlastwill,POLISH,"Sorry for your loss, Mr. Squirrel. Were you and the deer close friends?","很遗憾你的损失,先生。 松鼠(原变种). 你和鹿是亲密的朋友吗?",节哀，松鼠先生。你和鹿是好朋友吗？
+english_events_maingame:L18974,deerlastwill,FIX,"""Oh, we were 'close' all right...,"" says the squirrel shiftily. ""Ever heard the phrase, 'keep your friends close and your enemies closer?'""","""哦,我们是""接近"" 好吧,"" 松鼠说""转动""。 ""你听到这句话了吗"" ""保持你的朋友和敌人的距离?""",“哦，我们确实很‘亲近’……”松鼠眼神闪烁，“听过那句话吗？亲近你的朋友，更要亲近你的敌人。”
+english_events_maingame:L18975,deerlastwill,POLISH,I haven't. I don't think I have any enemies. Should I make some?,我没有。 我想我没有敌人 要不要我做点?,没听过。我好像没有敌人，要不要找几个？
+english_events_maingame:L18976,deerlastwill,POLISH,"""No. I'm trying to say that that deer was into some shady shit,"" the squirrel says. ""I bet he knew too much about something and was murdered!""","""没有. 我想说那只鹿 喜欢一些阴险的狗屎,""松鼠说。 我打赌他知道太多事情 被谋杀了!",“不是。我是说，那头鹿沾着些见不得人的勾当。”松鼠说，“我敢打赌，他肯定知道太多，被灭口了！”
+english_events_maingame:L18977,deerlastwill,POLISH,"""I think you're right!"" says a nearby songbird. ""And it wouldn't surprise me one bit if the murderer was in this very room...""","""我觉得你是对的"" 附近有只歌鸟说 ""如果凶手就在这房间里的话,我一点也不惊讶...""",“我觉得你说得对！”旁边一只鸣禽说，“就算凶手现在就在这个房间里，我也一点都不意外……”
+english_events_maingame:L18978,deerlastwill,FIX,"Well, yeah. We're his murderers, and we are in this room. It was more of a manslaughter thing, though.","对 我们是凶手,我们在这间屋子里 更像是杀人犯",是啊，我们就是凶手，也在这个房间。不过严格说，是过失致死。
+english_events_maingame:L18979,deerlastwill,FIX,"""Yes, it's a real mystery afoot,"" the squirrel goes on obliviously. ""But who here would have the biggest motive to off the deer?""","""是的,这是个真正的神秘的脚"",松鼠的动作是忽略了. ""但谁有最大的动机 离开鹿?""",“没错，真是疑云重重。”松鼠自顾自地说，“可在场谁最有动机杀他呢？”
+english_events_maingame:L18980,deerlastwill,FIX,There was no motive necessary. We hit him with our car on total accident.,"没有必要的动机。 我们用车撞了他,他完全出事了",没什么动机，就是不小心开车撞了。
+english_events_maingame:L18981,deerlastwill,POLISH,"""Come to think of it..."" says the bird, ""do we even have proof the deer is really dead? This could be all staged... you know... to collect life insurance money and all that.""","""来想想吧""鸟说:""我们甚至有鹿真的死了的证据吗? 这可能是所有舞台... 你知道吗... 来收集人寿保险金和所有的钱"".",“说起来……”鸟开口道，“我们有证据，证明鹿真死了吗？没准一切都是演的……为了骗保金之类的。”
+english_events_maingame:L18982,deerlastwill,FIX,I THINK THE BUTLER MURDERED HIM!,我觉得屠宰师把他弄得一团糟!,我觉得凶手是管家！
+english_events_maingame:L18983,deerlastwill,POLISH,"Wait, what?","等等,什麽?",等等，什么？
+english_events_maingame:L18984,deerlastwill,POLISH,"I dunno. It's usually the butler, right?","我不知道,我还没说完 通常都是管家干的 对吧?",不知道。一般不都是管家吗？
+english_events_maingame:L18985,deerlastwill,POLISH,"No, Scott! It was us! Goddammit...",没有 斯科特! 是我们! 该死的...,不，斯科特！是我们！妈的……
+english_events_maingame:L18986,deerlastwill,FIX,"Well, in any case, you all gain +N2 MIND learning so much about the deer... like how dumb all his peers are.","无论如何,你们都得到了+N2 MIND 学习这么多关于鹿... 就像他所有同伴都笨得像个傻子一样",总之，你们了解了许多关于这头鹿的事，获得 +N2 头脑……比如，他的朋友们有多蠢。
+english_events_maingame:L18998,carsolomon1,POLISH,You notice two cars pulled over on the side of the road. The drivers are outside the cars screaming at each other.,你注意到两辆车停在路边了 司机们在车外互相尖叫,你注意到两辆车停在路边，司机都站在车外，对着彼此大吼大叫。
+english_events_maingame:L18999,carsolomon1,FIX,"""You totally T-boned me!"" one driver screams. ""Look at that scratch! That's coming out of YOUR insurance, asshole!""","""你把我打成两半"" 一个司机尖叫着 ""看那刮伤! 保险金里有这个,混蛋!""",“你从侧面撞了我！”一个司机大吼，“看看这划痕！得走你的保险赔，混蛋！”
+english_events_maingame:L19000,carsolomon1,POLISH,"""You can barely even see the scratch!"" the other driver shouts. ""Besides, this accident isn't my fault. You nearly ran me off the road!""","""你几乎看不到刮痕"" 其他司机喊道:""我可没看见你 ""此外,这次事故不是我的错. 你差点把我赶出路!""",“那划痕都快看不见了！”另一个喊，“再说，事故又不是我的错！你差点把我挤出路！”
+english_events_maingame:L19001,carsolomon1,FIX,"""Nuh-uh! You have no proof that I'm at fault here!""","""不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不! 你没有证据证明我在这里有错!""",“少来！你有证据证明我有错吗！”
+english_events_maingame:L19002,carsolomon1,POLISH,"""You're right, but YOU don't have any proof that it's MY fault either.""","""你说得对,但你没有任何证据 证明这是我的错。""",“没有，可你也没证据，证明是我的错。”
+english_events_maingame:L19003,carsolomon1,POLISH,"""Ugh, you're right. Guess we have no choice but to stand here and yell at each other until someone comes along and solves this problem for us.""","""啊,你说得对。 似乎我们别无选择,只能站在这里互相大叫,直到有人来为我们解决这个难题"".",“唉，说得对。看来只能站这里对吼，等人过来替咱们解决了。”
+english_events_maingame:L19005,carsolomon1,POLISH,"Hey bros, you can stop yelling at each other! We're here to solve this problem for you!","嘿,兄弟们,你们可以停止互相叫喊! 我们来这是为了你解决这个难题!",嘿，兄弟们，别吵了！我们来帮你们解决！
+english_events_maingame:L19006,carsolomon1,FIX,"Yup! We're total strangers, we have no clue what went down here, and we aren't vehicle experts in the slightest...","没错! 我们完全陌生,我们不知道 发生了什么事在这里, 我们不是车辆专家 一点一点。 。 。",对！我们素不相识，完全不知道刚才发生了什么，汽车知识也一窍不通……
+english_events_maingame:L19007,carsolomon1,FIX,"BUT, if you pay us, we'll determine who's at fault here for ya. Good deal, huh?","但如果你付了钱 我们会确定谁为你而出错 不错的约定,是吧?",不过，只要付钱，我们就帮忙判断谁的责任。很划算吧？
+english_events_maingame:L19008,carsolomon1,POLISH,First question: which one of you is guilty?,第一问:你们中谁有罪?,第一个问题：你们谁有错？
+english_events_maingame:L19009,carsolomon1,FIX,"""HE IS!"" both drivers shout in unison, pointing at each other.","""HE IS"",两个司机都一致地高喊,指向对方.",“他！”两个司机指着对方，异口同声地喊道。
+english_events_maingame:L19010,carsolomon1,POLISH,"Uh... hmm... that answer doesn't really help me. I'm stumped. %CURRENTPLAYERNAME%, you got any ideas?",额... 那个... 答案对我一点帮助都没有 我被绊倒了。  %CURRENTPLAYERNAME%你有什么想法吗?,呃……嗯……这回答没什么帮助。我没辙了。%CURRENTPLAYERNAME%，有主意吗？
+english_events_maingame:L19011,carsolomon1,POLISH,Acquire proper understanding of the situation. Write down the drivers' full biographies to properly understand their psyches and motivations.,获得对形势的正确理解. 写下司机们的完整传记 以正确理解他们的心理和动机,全面了解情况。写下两位司机的完整传记，深入剖析他们的心理与动机。
+english_events_maingame:L19012,carsolomon1,POLISH,"Only the cars themselves know the whole story. Give them a sense of self and the gift of speech, so you can call them to the stand.","只有汽车本身知道整个故事. 给他们一种自我感和言语的天赋,这样你就可以叫他们出庭作证.",只有车子知道完整经过。赋予它们自我意识和说话能力，传它们出庭作证。
+english_events_maingame:L19014,carsolomon1,FIX,"""Ugh, if you insist...,"" says one driver. ""I'm Ralph Jones, I'm a bartender, and my favorite pastime is crashing into cars for the thrill and chaos of it all.""","""哦,如果你坚持..."" 说一个司机。 ""我是拉尔夫·琼斯,我是酒保"" ""我最喜欢的消遣是撞上车来刺激和混乱""",“唉，你非要问的话……”一个司机说，“我叫拉尔夫·琼斯，是酒保。最爱的消遣就是开车撞人家的车，享受刺激和混乱。”
+english_events_maingame:L19015,carsolomon1,FIX,Oh... uh... that's pretty incriminating. I think we've got our culprit.,哦... 额... 说得真有道理 我想我们抓到凶手了,哦……呃……这基本算自白了。找到肇事者了吧。
+english_events_maingame:L19016,carsolomon1,POLISH,"That's true, but we need to be thorough. We should still interview the other guy just to be sure!","没错 但我们需要彻底 我们还是应该采访另一个人,确定一下!",没错，不过调查要彻底。保险起见，另一个人也得问问！
+english_events_maingame:L19017,carsolomon1,FIX,"""Aww, thanks! Nobody ever asks me about myself!"" says the other driver. ""My name's Wesley Spiegelman. I was born on October 31st, 1964.""","""哇,谢谢! 其他人说,没人问过我自己!"" ""我的名字是卫斯理斯皮格尔曼。 我出生于1964年10月31日"".",“哎呀，谢谢！从来没人关心我！”另一个司机说，“我叫韦斯利·斯皮格尔曼，生于一九六四年十月三十一日。”
+english_events_maingame:L19018,carsolomon1,POLISH,Your birthday's on Halloween? That's cool! I bet you really love candy!,你的生日在万圣节? 这很酷! 我打赌你真的很爱吃糖!,生日是万圣节？真酷！你肯定超爱糖果！
+english_events_maingame:L19019,carsolomon1,POLISH,"""Actually, I despise candy. I'm a children's dentist, and candy makes my job a lot harder.""","""实际上,我鄙视糖果. 我是儿童牙医,糖果让我的工作更加困难"".",“其实，我很讨厌糖。我是儿童牙医，糖果让我的工作难做多了。”
+english_events_maingame:L19020,carsolomon1,FIX,"""But I'm not a total stick-in-the-mud. I moonlight as a standup comedian! Wanna hear some of my material? Yes, of course you do!""","""但我不是个完全坚持的"" 我月光是站立的喜剧演员! 想听听我的材料吗? 当然,你当然知道!""",“不过，我也不是个没趣的人。业余还讲单口喜剧呢！想听段子吗？当然想！”
+english_events_maingame:L19021,carsolomon1,FIX,"""What time is it when it's time to go to the dentist? ...It's TOOTH-HURTY!""","""时已去取出牙医来,几时了? ...这是TOTH -HURTY!""",“什么时候该看牙医？……两点半！因为 two-thirty 听着像 tooth-hurty，牙疼啦！”
+english_events_maingame:L19022,carsolomon1,FIX,"""Get it? Like 'two-thirty'? It's extremely clever; you probably need a dental degree to understand such a nuanced pun.""","""明白吗? 像是""两分之三""? 十分聪明;你可能需要一个牙科学位才能理解这样一个细微的通关语"".",“听懂了吧？跟‘两点半’谐音。极其巧妙，可能得有牙医学位，才能领会这么精妙的双关。”
+english_events_maingame:L19023,carsolomon1,POLISH,"...Don't quit your day job, Wes.","别辞了日活,韦斯",……韦斯，别辞掉你的正职。
+english_events_maingame:L19024,carsolomon1,FIX,"Wesley goes on to tell you about his childhood, his sock-folding method, and his sexual fetishes (if you can even call ""the possibility of getting laid one day"" a fetish).","韦斯利接着讲述了自己的童年,他的袜子上穿方法,以及他的性恋癖(如果你甚至可以称""有一天被打倒的可能性""为""恋"").",韦斯利接着讲起童年、叠袜子的诀窍，还有性癖——如果“有朝一日能做上爱”也算性癖的话。
+english_events_maingame:L19025,carsolomon1,POLISH,"Hmm, none of that boring stuff sounds like the reason why you'd cause a car accident. I think the first guy did it after all!","嗯,这些无聊的东西 听起来不像是什么原因 你将造成车祸。 我想是第一个人干的!",唔，这些无聊的事，听着都不像会引发车祸。我觉得还是第一个人干的！
+english_events_maingame:L19026,carsolomon1,FIX,Incredible. You and %CURRENTPLAYERNAME% are a regular Sherlock and Watson.,不可思议 你和 %CURRENTPLAYERNAME% 是个普通的夏洛克和华生,真了不起。你和 %CURRENTPLAYERNAME%，简直就是福尔摩斯和华生。
+english_events_maingame:L19027,carsolomon1,FIX,"Everyone's a critic. Regardless of your circuitous, -N2 HYPE-draining methods, you still got your answer, which means you were paid +N2 MONEY!","皆是评相. 不论你多狡猾 -N2 HYPE的排练方法,你还是得到了答案,这意味着你得到了+N2 MONEY!",人人都爱挑毛病。虽说你们这套绕远路的调查耗掉 -N2 热度，终究还是查出了答案，拿到 +N2 金钱！
+english_events_maingame:L19029,carsolomon1,FIX,"You draw some runes on the cars, and -N2 MAGIC later, the drivers' vehicles are thinking and speaking!","车厢里画了些木偶 之后,司机们的车在思考和说话",你在车身上画好符文，消耗 -N2 魔力。很快，两辆车就有了思想，还能开口说话！
+english_events_maingame:L19030,carsolomon1,FIX,"""VROOM VROOM VROO--... wait... am I... saying engine noises aloud? Have I finally been gifted speech?!""","""流浪者VROOM VROOO - - - - - - - - - - - - - - - - - - 单单... 我是不是... ? 我是不是在说... 说引擎发出高声? 我终于有天赋的演讲了吗?"".",“轰隆，轰隆，轰——等等……我是在……开口模仿引擎声？我终于能说话了？！”
+english_events_maingame:L19031,carsolomon1,POLISH,Yup! Congrats! We just have some questions--,没错! 恭喜你们! 我们只是有些问题...,对！恭喜！我们只想问几个问——
+english_events_maingame:L19032,carsolomon1,FIX,"""NO! MY TURN TO TALK NOW! I HAVE SO MUCH TO SAY!""","""没有! 转身说话! 我有很多话要说!""",“不！现在轮到我说话！我有太多话想说了！”
+english_events_maingame:L19033,carsolomon1,POLISH,"""My owner is the WORST! He crashes me all the time! He crashed me yesterday, he crashed me today, and he'll probably crash me tomorrow!""","""我的主人是那个讨厌鬼! 他总是撞我! 他昨天撞倒了我,今天撞倒了我,他明天可能撞倒我!""",“我主人烂透了！整天开着我撞来撞去！昨天撞，今天撞，明天估计还得撞！”
+english_events_maingame:L19034,carsolomon1,FIX,"""He also cheats on his wife! He's fucked so many people in my backseat! I'll NEVER get these stains out of the upholstery!""","""他还欺骗了他的妻子! 他在我的后座上干过这么多人! 我永远也不会把这些污点 弄出室内""",“他还背着老婆出轨！在我的后座上跟那么多人做过爱！座椅上这些污渍，我这辈子都洗不掉！”
+english_events_maingame:L19035,carsolomon1,FIX,"Oh, dope, guess we know who crashed into who then. Case solved!","哦,笨蛋,我们猜我们知道谁撞上了谁。 案子已经解决了!",哦，棒，看来已经知道谁撞谁了。结案！
+english_events_maingame:L19036,carsolomon1,FIX,"""Thanks for helping me out!"" the other driver says. ""Here's +N2 MONEY for your trouble.""","""谢谢你帮我"" 另一司机说 ""这里的+N2钱给你的麻烦"".",“谢谢帮忙！”另一个司机说，“这 +N2 金钱，算是辛苦费。”
+english_events_maingame:L19037,carsolomon1,POLISH,"""I just hope my own car doesn't secretly resent me for driving it and getting into occasional accidents... can you ever forgive me, buddy?""","""我只是希望自己的车不要因为我驾驶它而偷偷地怨恨我,并陷入偶发事故...... 你能原谅我吗,伙计?""",“只希望我的车，别因为我开它、偶尔出点事故，就暗地里恨我……伙计，能原谅我吗？”
+english_events_maingame:L19038,carsolomon1,POLISH,"""Yeah, we're cool,"" says the car. ""You drive me pretty well. In fact, I love the feeling of you sitting inside me, shifting my gears, stomping on my brakes...""","""是的,我们很酷"",车说。 ""你让我很爽"" 事实上,我喜欢你坐在我体内, 移动我的齿轮,踩我的刹车的感觉... ...""",“没事，咱俩好着呢。”车说，“你开得挺好。其实，我很喜欢你坐进我的身体、拨弄挡位、狠狠踩刹车的感觉……”
+english_events_maingame:L19039,carsolomon1,FIX,"""So why don't you get in here and put those soft, sexy hands on my steering wheel, big guy?""","""你为什么不进来 把手放进我的方向盘上,大家伙?""",“所以，大个子，干吗不坐进来，把那双柔软性感的手，放上我的方向盘？”
+english_events_maingame:L19040,carsolomon1,POLISH,"""Oh, uh... okay!"" says the driver. ""I'm an openminded guy; I'm down to try this out. Let's go!""","""哦,呃... ... 说吧,我... 司机说,""好吧!"" ""我是一个开明的人;我下地来试一下. 来呀!""",“哦，呃……好啊！”司机说，“我这人挺开放的，可以试试。走吧！”
+english_events_maingame:L19041,carsolomon1,FIX,"Huh, that was weird. I wonder if our car is secretly kinky.","哼,这很奇怪。 不知道我们的车是不是偷偷的变了",哎，真怪。不知道咱们的车，是不是也暗藏什么特殊性癖。
+english_events_maingame:L19042,carsolomon1,POLISH,"I hope so, buddy... I frickin' hope so.","我希望如此,伙计... 我他妈的希望如此。",但愿吧，伙计……真他妈但愿如此。

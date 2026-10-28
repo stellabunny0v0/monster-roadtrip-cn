@@ -1,0 +1,85 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_pitstop:L6441,cdaaravimount,KEEP,Her Recent Achievements,她最近的成就,她最近的成就
+english_events_pitstop:L6443,cdaaravimount,POLISH,"Hmmm... ah, yeah!","那个... 啊,对了!",嗯……啊，对了！
+english_events_pitstop:L6444,cdaaravimount,FIX,"Recently I got the ""Scroll for Mounts"".","最近我拿到了""山地之作""",最近我拿到了“坐骑卷轴”。
+english_events_pitstop:L6445,cdaaravimount,FIX,The... what now?,那个... 现在怎么办?,什么……卷轴？
+english_events_pitstop:L6446,cdaaravimount,FIX,It's a powerful scroll that gives you a special skill for riding mounts.,"它是一个强大的卷轴, 给予你骑马的特殊技能。",那是个强大的卷轴，能赋予你驾驭坐骑的特殊技能。
+english_events_pitstop:L6447,cdaaravimount,POLISH,"I had to visit a sanctuary in the mountains to get it, where I faced riding challenges while a wise monk reviewed my technique.","我不得不去山上的一个避难所去得到它,在那里我面临骑行的挑战,而一位明智的和尚则审查了我的技巧.",为了拿到它，我去了山上的一处圣地，接受骑乘考验，还有位睿智的僧人检查我的技巧。
+english_events_pitstop:L6448,cdaaravimount,FIX,Aaravi... do you mean... you got your driver's license?,阿拉薇... 你是说... 你有驾照吗?,阿拉维……你是说……你考到驾照了？
+english_events_pitstop:L6449,cdaaravimount,FIX,"My driving what? No, no, %CURRENTPLAYERNAME%, I told you: it's a magic scroll that gives you the skill to ride mounts... the ""Scroll of Mounts""!","我的驾驶什么? 没有,没有,没有, %CURRENTPLAYERNAME%我告诉过你,这是一个神奇的卷轴 让你有骑马的技能... ""相去相去""的""相去相去""!",驾驶什么？不，不，%CURRENTPLAYERNAME%，说了是魔法卷轴，能让你学会驾驭坐骑……“坐骑卷轴”！
+english_events_pitstop:L6450,cdaaravimount,FIX,(Pretty sure it's a driver's license.),(非常肯定这是驾照).,（我很确定，那就是驾照。）
+english_events_pitstop:L6451,cdaaravimount,FIX,"The thing is, I crawl so many dungeons that I have quite a bit of loot, so I was thinking of getting myself a good mount.","问题是,我爬了这么多地牢 以至于我有很多好东西 所以我想给自己找个好山",我刷过那么多地牢，攒了不少战利品，所以，想给自己弄个好坐骑。
+english_events_pitstop:L6452,cdaaravimount,FIX,"Tell me, what would be a good mount for Aaravi Mishra?","告诉我,什么是好山 阿拉薇 蜜丝拉?",那说说，什么样的坐骑，才适合阿拉维·米什拉？
+english_events_pitstop:L6453,cdaaravimount,KEEP,Good question...,问得好,问得好
+english_events_pitstop:L6454,cdaaravimount,POLISH,"I value adaptability over speed, really. When I travel, it's less about being in a rush and more about going to faraway lands... sometimes inhospitable ones!","我重视适应性,而不是速度,真的。 当我旅行时, 与其说是匆忙, 不如说是去远方的土地... 有时会很讨厌的!",说真的，我更看重适应能力，不是速度。我出远门，不是为了赶路，而是要去遥远的地方……有时候，环境还挺恶劣！
+english_events_pitstop:L6455,cdaaravimount,FIX,"I need a good, reliable mount that doesn't require lots of maintenance. I adventure too much to spend much time and gold on the mount.","我需要一个很好的,可靠的挂载, 不需要很多的维护。 我冒险太多 花很多时间和黄金在山上。",我得有个可靠、又不用费心照料的好坐骑。冒险这么忙，没空往坐骑上砸太多时间和金币。
+english_events_pitstop:L6456,cdaaravimount,FIX,Ah! Extra points if I can put a cup holder on it. That's always useful.,"摆! 如果我能把杯子拿上去的话,多加点 这总是有用的。",啊！要是还能装杯架，那就更加分了。这个总有用。
+english_events_pitstop:L6457,cdaaravimount,POLISH,Can't adventure without a good cup of coffee at hand!,没有手边的一杯咖啡就无法冒险!,冒险时，手边怎么能没有一杯好咖啡！
+english_events_pitstop:L6458,cdaaravimount,FIX,"You know it, %CURRENTPLAYERNAME%!","你知道这个, %CURRENTPLAYERNAME%!",还是你懂，%CURRENTPLAYERNAME%！
+english_events_pitstop:L6459,cdaaravimount,POLISH,"Perfect, I think I know enough now. I will proceed to give you the best mount recommendation ever!","好极了,我想我知道够了。 我会给你最好的建议!",好，我觉得信息够了。接下来，就给你推荐史上最棒的坐骑！
+english_events_pitstop:L6460,cdaaravimount,POLISH,"Whoa, that's bold of you! Let's raise the stakes: if your recommendation is bullshit, I will stab you in the leg and leave.","哇,你胆子真大! 举起赌注:如果你的推荐是胡说八道,我就刺你的腿,然后离开.",哇，口气不小！那加点赌注：要是你推荐得狗屁不通，我就往你腿上捅一刀，然后走人。
+english_events_pitstop:L6461,cdaaravimount,FIX,Uh... okay? You search for the best mount suggestion on your phone...,额... 好吗? 你在手机上寻找最好的挂载建议...,呃……好吧？你掏出手机，搜索最合适的坐骑……
+english_events_pitstop:L6462,cdaaravimount,FIX,"Secretariat, a celebrity racehorse who remains the undefeated champion thanks to its strict keto diet and its daily dose of scenic strolls on the beach.","秘书处,一位名人赛马,由于它的严格克托饮食和每天在海滩上花样出众的漫步,他仍然是不败的冠军.",秘书处，明星赛马。靠着严格的生酮饮食，以及每天在海滩欣赏美景的散步，始终保持不败。
+english_events_pitstop:L6463,cdaaravimount,FIX,"Bisbaal, the Battle Boar! It's a seasoned, sturdy mount known for being ""mad thicc"".","Bisbaal, 战地野猪! 这是一个老练而坚固的山以""疯子""而出名.",战斗野猪比斯巴尔！久经沙场、结实耐用，以“厚实得离谱”闻名。
+english_events_pitstop:L6464,cdaaravimount,FIX,"Bigotes, the regular-sized rabbit. It's a very portable mount with the cutest whiskers.","比多克特斯,普通大小的兔子. 这是一个非常便携的挂载 有最可爱的胡子。",比戈特斯，一只普通大小的兔子。十分方便携带，胡须可爱极了。
+english_events_pitstop:L6466,cdaaravimount,FIX,Secrewhat now?,现在什么秘密?,什么……秘书？
+english_events_pitstop:L6467,cdaaravimount,FIX,Secretariat! You don't know about Secretariat?!,秘书处! 你不知道秘书处的事吗?,秘书处！你居然不知道秘书处？！
+english_events_pitstop:L6468,cdaaravimount,KEEP,My previous question sort of hints at that already.,我之前的问题已经暗示了这一点。,我之前的问题已经暗示了这一点。
+english_events_pitstop:L6469,cdaaravimount,FIX,Fair.,公平 公平 公平 公平 公平 公平 公平,也是。
+english_events_pitstop:L6470,cdaaravimount,FIX,"Look, Secretariat is only the most wonderful racehorse ever. It has a luscious mane and the most handsome hooves in the world.","你看,秘书处只是有史以来最优秀的赛马。 它的花样优雅 有世界上最英俊的蹄子",秘书处可是史上最棒的赛马。鬃毛丰美，蹄子更是全世界最好看的。
+english_events_pitstop:L6471,cdaaravimount,POLISH,Why do you have so many pics of this horse saved on your phone?,为什么你有这么多的照片 这马保存在你的手机上?,你手机里怎么存了这么多这匹马的照片？
+english_events_pitstop:L6472,cdaaravimount,POLISH,I'm a true Secretariat fan! I follow it on all its social media channels.,我是秘书处真正的粉丝! 我跟踪它的所有社交媒体频道。,我可是秘书处的忠实粉丝！它所有社交账号，我都关注了。
+english_events_pitstop:L6473,cdaaravimount,FIX,"Recently its owner died in a mysterious accident, and now it's up for sale. It's our opportunity, Aaravi!","最近它的主人在一场神秘的事故中去世了,现在要出售了. 这是我们的机会, 阿拉薇!",最近，它主人在一场离奇事故里去世，现在它挂牌出售了。机会来了，阿拉维！
+english_events_pitstop:L6474,cdaaravimount,POLISH,"I dunno, %CURRENTPLAYERNAME%, this fancy-ass horse doesn't seem to be very low-maintenance...","我不知道,%CURRENTPLAYERNAME%, 这匹花花公子马似乎不 是非常低的维护...",不好说，%CURRENTPLAYERNAME%，这匹娇贵的马，可不像好养活的样子……
+english_events_pitstop:L6475,cdaaravimount,FIX,LOW-MAINTENANCE?! OF COURSE NOT!,低气压维持器? 当然不!,好养活？！当然不是！
+english_events_pitstop:L6476,cdaaravimount,FIX,"Aaravi, if you want a true celebrity racehorse...",阿拉薇如果你想要真正的名人赛马...,阿拉维，要是你想要一匹真正的明星赛马……
+english_events_pitstop:L6477,cdaaravimount,FIX,(I don't.),(不见.,（我不想。）
+english_events_pitstop:L6478,cdaaravimount,FIX,...you need to give your 100%.,...你需要给自己的100%。,……就得投入百分之百的心力。
+english_events_pitstop:L6479,cdaaravimount,FIX,We're talking the right diet (which is keto for Secretariat)...,我们说的是正确的饮食方式(这是秘书处的食物)......,先是正确的饮食（秘书处吃的是生酮餐）……
+english_events_pitstop:L6480,cdaaravimount,KEEP,"Perfect, a horse eating better than myself.","好极了,一匹马吃得比我还好","好极了,一匹马吃得比我还好"
+english_events_pitstop:L6481,cdaaravimount,FIX,"...scenic strolls to the beach (but is that a chore or a dream, amirite?)...",...风景漫步到海滩上(但那是一场杂耍还是一场梦? )...,……去海滩散步、欣赏美景（这算干活，还是美梦成真啊，对不对？）……
+english_events_pitstop:L6482,cdaaravimount,FIX,It's definitely a chore.,绝对是杂耍.,绝对算干活。
+english_events_pitstop:L6483,cdaaravimount,POLISH,"...and of course, three hours of hoof maintenance to ensure Secretariat always has the most handsomest hooves.","..当然,三个小时的蹄子维护 以确保秘书处总是有 最帅的蹄子。",……当然，还得花三个小时护理蹄子，保证秘书处的蹄子永远是最好看的。
+english_events_pitstop:L6484,cdaaravimount,KEEP,Stop!,停下来!,停下来!
+english_events_pitstop:L6485,cdaaravimount,POLISH,It's obvious you want to marry this horse or something. Don't offer to help me and then make it about you and your weird horse stuff.,显然你想娶这匹马什么的 别跟我提了 然后说说你和你的怪马的事,停！你分明就想跟这匹马结婚吧？别说是来帮我，结果全变成你跟马的怪癖。
+english_events_pitstop:L6486,cdaaravimount,FIX,I'm out. Feel free  to send me the RSVP when you have a date for the wedding with the horse.,我出来了。 等你和马举行婚礼的时候 直接给我寄回RSVP吧,我走了。等你跟马定好婚期，尽管给我发请柬。
+english_events_pitstop:L6487,cdaaravimount,POLISH,She leaves. You spend the rest of the night imagining what it'd be like to marry Secretariat. Look at those hooves!,她离开。 你整晚都在想着和秘书处结婚会是什么感觉 看看这些蹄子!,她走了。接下来的时间，你一直在想，跟秘书处结婚会是什么样。瞧瞧那些蹄子！
+english_events_pitstop:L6489,cdaaravimount,FIX,"Ooooh, look at this bodacious boar...","哦,看看这只野猪...",哦——看看这头神气的野猪……
+english_events_pitstop:L6490,cdaaravimount,FIX,"Bisbaal, huh?","比斯拜尔,是吧?",比斯巴尔，是吧？
+english_events_pitstop:L6491,cdaaravimount,FIX,"Yeah, it's even spelled with a fancy diaeresis, but my phone doesn't display it properly.","是啊,它甚至拼写 一种花花公子, 但我的手机不 适当显示它。",对，名字里还特意加了个双点变音符，不过，我的手机显示不出来。
+english_events_pitstop:L6492,cdaaravimount,FIX,"And by ""your phone"" we mean ""this game"". We can't support diaeresis, dammit.","""你的手机""是指""这个游戏"" 我们不能支持糖尿病,妈的。",而“你的手机”，说的就是“这个游戏”。我们显示不了双点变音符，妈的。
+english_events_pitstop:L6493,cdaaravimount,FIX,"But you can let your imagination fly and imagine there's a diaeresis in ""Bisbaal"". You can even be adventurous and put it over an unexpected letter. Go for it!","但你可以让你的想象力飞扬,想象出""比斯巴""中存在""地盘""(dialesis). 你甚至可以冒险 把它放在一个意想不到的信。 冲啊!",不过，你可以发挥想象，想象“Bisbaal”里有个双点变音符。胆子大点，还能把它放在意想不到的字母上。尽管试！
+english_events_pitstop:L6494,cdaaravimount,FIX,Ooh la la! A Battle Boar with a fancy name? Sign me up!,"呜啦啦! 名出众的""野猪""? 签我!",哦啦啦！一头名字这么讲究的战斗野猪？我选它！
+english_events_pitstop:L6495,cdaaravimount,FIX,"The name is a homage to that famous bard that sang the much-more danceable version of ""Ave Maria"". Look it up!","这个名字是对那个唱出更能跳舞的""Ave Maria""版本的著名酒吧的致敬. 找找看 找找看 找找看 找找看 找找看",这是在致敬那位著名的吟游诗人，就是唱了更适合跳舞版《Ave Maria》的那位。可以去查查！
+english_events_pitstop:L6496,cdaaravimount,POLISH,"Okay, okay, enough about the name! Don't get me wrong, it's cool; but I am here to look for a good mount, %CURRENTPLAYERNAME%.","好了,好了,够了这个名字! 不要误会,这是很酷的; 但我在这里寻找一个好的山,%CURRENTPLAYERNAME%。",好好好，名字说够了！别误会，名字是挺酷，可我是在找好坐骑，%CURRENTPLAYERNAME%。
+english_events_pitstop:L6497,cdaaravimount,FIX,"Well, look no further!",别再看下去了!,那就不用再找了！
+english_events_pitstop:L6498,cdaaravimount,POLISH,"Bisbaal is sturdy, big, and durable. Its thicc skin is perfect for resisting all sorts of terrains and temperatures. It can also survive attacks and other collisions.","Bisbaal)是坚固,大而耐用. 它的厚皮很适合抵抗各种地形和温度. 它还能从攻击和其他碰撞中幸存下来.",比斯巴尔又大又结实，特别耐用。厚实的皮肤，能应付各种地形和温度，挨打、碰撞也不在话下。
+english_events_pitstop:L6499,cdaaravimount,POLISH,"Hmmm, you're not wrong. Look at that big boar butt... you can surely put a cup holder there.","嗯,你没有错。 看看那头大猪屁股... 你当然可以把一个杯子 在那里。",嗯，说得没错。看看那大猪屁股……上面肯定能装个杯架。
+english_events_pitstop:L6500,cdaaravimount,FIX,"I could fight while mounted AND drink my coffee? Now, that's something.","我可以一边战斗一边喝我的咖啡吗? 现在,这是东西。",一边骑着打架，还能一边喝咖啡？这才像话。
+english_events_pitstop:L6501,cdaaravimount,FIX,"%CURRENTPLAYERNAME%, I think you nailed it here. Bisbaal could very well become my mount. I am in debt to you.",%CURRENTPLAYERNAME%我认为你把它钉在这里。 比斯拜尔很可能会成为我的山峰。 我欠你一笔债,%CURRENTPLAYERNAME%，这回你推荐对了。比斯巴尔真能当我的坐骑。我欠你个人情。
+english_events_pitstop:L6502,cdaaravimount,KEEP,You can pay me back by taking me for a ride on your battle boar.,你可以带我骑你的战猪来报答我,你可以带我骑你的战猪来报答我
+english_events_pitstop:L6503,cdaaravimount,FIX,"Okay, it's a date!","好吧,这是一个约会!",行，就当约会了！
+english_events_pitstop:L6504,cdaaravimount,KEEP,A date?!,约会?,约会?
+english_events_pitstop:L6505,cdaaravimount,FIX,"I mean...! I... uh... hmpf... I JUST MEANT I'LL TAKE YOU ON A RIDE ON MY BATTLE BOAR, OKAY?! Make of it what you want!",我是说... 我…… 额... 汉弗... 我是弧穦盿 ATT坐盘ó盾? 随你便吧!,我是说……！我……呃……哼……我只是答应带你骑战斗野猪，行了吧？！爱怎么想怎么想！
+english_events_pitstop:L6506,cdaaravimount,POLISH,Hehe... okay.,热... 还好。,嘿嘿……好。
+english_events_pitstop:L6507,cdaaravimount,FIX,(It's a date.),(谓相会也.,（就是约会。）
+english_events_pitstop:L6508,cdaaravimount,FIX,You keep looking at pics of Bisbaal while Aaravi daydreams about the cool trips she'll take once she gets it.,你一边看比斯拜尔的相片 阿拉薇 日出梦想着她一拿到钱 就会走酷途,你继续看着比斯巴尔的照片，阿拉维则畅想着，等买到它，就要去哪些地方冒险。
+english_events_pitstop:L6510,cdaaravimount,FIX,...What are you smoking?,你在抽什么烟?,……你嗑了什么？
+english_events_pitstop:L6511,cdaaravimount,FIX,This is a regular-sized rabbit!,这是只普通的兔子!,这就是只普通大小的兔子！
+english_events_pitstop:L6512,cdaaravimount,POLISH,"First of all, there's no way a regular-sized rabbit is properly equipped to take me to every corner of the realm and survive all sorts of terrain.","首先,普通大小的兔子不可能有合适的装备 带我到世界的每一个角落 并生存各种地形",首先，这么大的兔子，哪可能带我走遍世界，还应付得了各种地形。
+english_events_pitstop:L6513,cdaaravimount,KEEP,"Second, and most important:","第二,也是最重要的一点:","第二,也是最重要的一点:"
+english_events_pitstop:L6514,cdaaravimount,FIX,How the fuck I am supposed to ride that?,我该怎么骑那辆车?,我他妈怎么骑它？
+english_events_pitstop:L6515,cdaaravimount,FIX,You... sit on it?,你们... 坐在这里?,你……坐上去？
+english_events_pitstop:L6516,cdaaravimount,FIX,It's a regular-sized rabbit!,这是只普通的兔子!,它就是只普通大小的兔子！
+english_events_pitstop:L6517,cdaaravimount,POLISH,Which makes it very portable and convenient. You can even switch roles every now and then and take it in your purse for a while. Cute!,这使得它非常便携和方便。 你甚至可以偶尔换个角色 放在你的钱包里呆一段时间 可爱!,所以才方便携带啊。还可以时不时换换角色，把它装进手提包，带它走一段。多可爱！
+english_events_pitstop:L6518,cdaaravimount,FIX,"It's not cute, goddammit; it's dumb. A regular-sized rabbit is not a ride!","它不可爱,该死; 它的哑巴。 普通的兔子不是骑!",可爱个屁，是蠢！普通大小的兔子，可不能当坐骑！
+english_events_pitstop:L6519,cdaaravimount,FIX,Yes it is!,没错!,它就是坐骑！
+english_events_pitstop:L6520,cdaaravimount,FIX,"No, it is not!","不,它没有!",不，它不是！
+english_events_pitstop:L6521,cdaaravimount,FIX,"Just then, you see a wild rabbit pass in front of you, in the middle of the desert.","刚刚,你看到一个野生的兔子通过 在你面前,在沙漠的中间。",就在这时，一只野兔从你们面前的沙地上跑过。
+english_events_pitstop:L6522,cdaaravimount,FIX,This could become a teachable moment for Aaravi.,这可能是一个可以教化的时刻 阿拉薇.,这可是给阿拉维上一课的好机会。
+english_events_pitstop:L6523,cdaaravimount,FIX,"You jump on the rabbit, butt first.","你跳上兔子,屁股先来。",你屁股朝下，一下跳到兔子身上。
+english_events_pitstop:L6524,cdaaravimount,KEEP,Plop.,啪嗒。,啪嗒。
+english_events_pitstop:L6525,cdaaravimount,KEEP,...,...,...
+english_events_pitstop:L6526,cdaaravimount,KEEP,...,...,...
+english_events_pitstop:L6527,cdaaravimount,POLISH,"Well, %CURRENTPLAYERNAME%, I think that's my cue to leave. Thanks for nothing. Good luck cleaning rabbit carcass off your butt.",这个嘛 %CURRENTPLAYERNAME%我觉得我该走了 谢谢你的无济于事 祝你好运 把兔子尸体从你屁股上清理干净,好吧，%CURRENTPLAYERNAME%，看来我该走了。谢谢你什么忙都没帮上。祝你早日把屁股上的兔子尸体擦干净。
+english_events_pitstop:L6528,cdaaravimount,FIX,"She leaves. Admittedly, this became a teachable moment for you, about not suggesting absurd ideas.","她离开。 诚然,对于你们来说,这已成为一个可以教化的时刻,不是提出荒谬的想法。",她走了。说实话，这倒真给你上了一课：别再提那些荒谬的点子。

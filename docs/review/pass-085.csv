@@ -1,0 +1,111 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_endings:L518,ending_failure_zoe_1,FIX,%DESTINATION% would be so much fun...,%DESTINATION% 会很有趣的...,%DESTINATION%本来会很好玩……
+english_events_endings:L519,ending_failure_zoe_1,KEEP,...if it wasn't for that expired burrito you ate.,...要不是你吃了那个过期的卷饼.,...要不是你吃了那个过期的卷饼.
+english_events_endings:L520,ending_failure_zoe_1,POLISH,EVERYONE told you not to eat it; that it couldn't be fresh after spending so much time under the sun.,"每个人都告诉你不要吃;在阳光下花这么多时间之后,它不可能是新鲜的.",大家都劝你别吃，说那东西在太阳底下晒了那么久，怎么可能还新鲜。
+english_events_endings:L521,ending_failure_zoe_1,POLISH,"But no, you had to be a stubborn idiot, as always.","但是,不,你必须是一个固执的白痴, 一如既往。",可你偏不，非得跟往常一样，当个固执的白痴。
+english_events_endings:L522,ending_failure_zoe_1,FIX,The burrito fucks up your stomach so much that you start to get unstable.,卷饼弄得你胃脏了 让你变得很不稳定,那卷饼把肠胃折腾得够呛，连你自己，都开始不稳定了。
+english_events_endings:L523,ending_failure_zoe_1,FIX,"Not only do you fart A LOT, but you also rupture the veil between realms. Classic expired burrito stuff (?).","你不仅放屁了,还打破了世界之间的面纱。 经典过期的卷饼(?).",你不光狂放屁，还把世界之间的帷幕，给撕破了。过期卷饼的常规操作，是吧（？）。
+english_events_endings:L525,ending_failure_zoe_1,FIX,"As a result, you appear briefly in the Human Realm.","因此,你短暂出现在""人类王国""中.",于是，你短暂地出现在了人类世界。
+english_events_endings:L526,ending_failure_zoe_1,POLISH,And a brief appearance is enough for the FBI to detain you.,而短暂的出场 足以让联邦调查局拘留你,可就这短短一下，就足够FBI把你抓走了。
+english_events_endings:L527,ending_failure_zoe_1,FIX,I hope that burrito was worth it.,我希望那卷卷饼值得它。,希望那个卷饼，值得你付出这些。
+english_events_endings:L528,ending_failure_zoe_1,FIX,(It wasn't.),(没有. ),（不值得。）
+english_events_endings:L535,ending_failure_zoe_2,POLISH,"Before you can get to %DESTINATION%, something strange happens.","在你到达 %DESTINATION%之前,有些奇怪的事情发生了.",你还没到%DESTINATION%，怪事就发生了。
+english_events_endings:L536,ending_failure_zoe_2,FIX,Light and noise surround you... it's like... a powerful machine rupturing realms...,光和噪音包围着你... 这就像... 一个强大的机器破坏王国...,光芒和噪音包围了你……像是……某台强大的机器，正在撕开世界之间的屏障……
+english_events_endings:L538,ending_failure_zoe_2,FIX,"Through strange technology, humans manage to briefly trespass the veil between realms!","人类通过奇异的技术, 设法短暂地侵入了世界之间的面纱!",靠着奇怪的技术，人类居然短暂地穿透了世界之间的帷幕！
+english_events_endings:L539,ending_failure_zoe_2,FIX,And that's enough to capture you!,这足以抓住你!,而这，就足够把你抓走了！
+english_events_endings:L540,ending_failure_zoe_2,FIX,They throw you into a place called... AREA 51.,他们把你扔到一个叫... 地区51。,他们把你扔进一个叫……51区的地方。
+english_events_endings:L541,ending_failure_zoe_2,POLISH,Is this... your life now?,这是... 你现在的生活?,这……就是你以后的生活了吗？
+english_events_endings:L542,ending_failure_zoe_2,POLISH,"No, it doesn't need to be. Everywhere, your people, the nerds of the world, begin to sense that one of them is being held prisoner in Area 51.","不,这不需要。 任何地方,你的人民,世界的书呆子,开始感觉到其中一人被囚禁在51区.",不，没必要这样。世界各地，你的同胞，那些阿宅们，开始感应到，他们中的一员，被关进了51区。
+english_events_endings:L543,ending_failure_zoe_2,FIX,A plan starts brewing. A valiant resistance. The nerds won't stop... they will Naruto run to Area 51.,一个计划开始酝酿。 一个英勇的抵抗者。 书呆子不会停止... 他们会跑到51区,一个计划开始酝酿。一场英勇的反抗。阿宅们不会罢休……他们要用火影跑，冲向51区。
+english_events_endings:L544,ending_failure_zoe_2,FIX,Now you can't do anything but wait.,今取所行所行等相.,现在，你能做的只有等。
+english_events_endings:L551,ending_failure_zoe_3,FIX,Everyone is about to enjoy %DESTINATION%!,每个人都会很享受 %DESTINATION%!,大家马上就能在%DESTINATION%，好好玩一场了！
+english_events_endings:L552,ending_failure_zoe_3,FIX,"Everyone but you, since you get caught by the Monster FBI.","除了你,除了你,因为你被怪兽FBI抓住。",除了你，因为你被怪物FBI抓了。
+english_events_endings:L554,ending_failure_zoe_3,FIX,You tell them you're not a deity of destruction anymore. You don't seek the end of monsterkind. It's all good!,你告诉他们你不再是毁灭之神了 你不寻求怪物的终结。 这一切都很好!,你告诉他们，你已经不是毁灭之神了。你不想毁灭怪物族群。一切都挺好的！
+english_events_endings:L555,ending_failure_zoe_3,FIX,"""The... what now?""","""这. 现在怎么办?”",“毁灭……你刚才说什么？”
+english_events_endings:L556,ending_failure_zoe_3,FIX,"The FBI seems to have no interest in your ""old deity"" days.","FBI似乎对你的""老神""日没有兴趣",FBI好像对你以前当“古神”的日子，根本没兴趣。
+english_events_endings:L557,ending_failure_zoe_3,FIX,They're here to arrest you because you've been writing fanfic so horny that the government has labeled it a form of dissent.,他们来逮捕你 是因为你一直写着粉丝的性欲 以至于政府把它贴上异议的标签,他们来抓你，是因为你写的同人文，色到政府都把它，定性成了一种异议表达。
+english_events_endings:L558,ending_failure_zoe_3,FIX,"They ask you to stop; this is just a ""cease and desist.""","他们要求你停止,这只是一个""停止""。",他们只是发了封“停止侵害函”，让你别再写。
+english_events_endings:L559,ending_failure_zoe_3,FIX,"NEVER! The world needs your art; your horny, horny art!","从来没有! 这个世界需要你的艺术,你的性欲,性欲的艺术!",绝不！世界需要你的艺术，你那色情、色情的艺术！
+english_events_endings:L560,ending_failure_zoe_3,POLISH,"Oh, well. They throw you in jail, then. You made your choice.","哦,不错。 他们把你关进监狱了 你做出了选择。",哦，那行吧。他们把你扔进了监狱。选择，是你自己做的。
+english_events_endings:L567,ending_failure_juan_1,KEEP,%DESTINATION%!,%DESTINATION%!,%DESTINATION%!
+english_events_endings:L568,ending_failure_juan_1,FIX,You're about to get extremely happy when you get a notification on your phone...,当你接到电话通知时 你会非常高兴的...,你正准备高兴到起飞，手机却收到了一条通知……
+english_events_endings:L569,ending_failure_juan_1,FIX,...THEY DISCONTINUED YOUR FAVORITE SODA FLAVOR!,...你最爱的舞曲继续跳下去!,……你最爱的汽水口味，停产了！
+english_events_endings:L571,ending_failure_juan_1,FIX,What's the meaning of anything anymore?,有什么意义了?,那这一切，还有什么意义？
+english_events_endings:L572,ending_failure_juan_1,POLISH,Your life will never be the same.,你的生活永远不会是相同的。,你的人生，再也回不去了。
+english_events_endings:L573,ending_failure_juan_1,POLISH,You decide to do the only sensible thing: not join your friends and spend several days mourning the loss of your favorite soda flavor in the car.,"你决定做唯一明智的事情:不加入你的朋友,并花几天时间哀悼你最喜欢的汽水口味在车里的丧失.",你做出了唯一明智的选择：不跟朋友一起玩了，留在车里，花上几天，哀悼你最爱的汽水口味。
+english_events_endings:L574,ending_failure_juan_1,FIX,WHYYYYY?! WHY DID THEY HAVE TO DISCONTINUE THE BEST SODA FLAVOR EVER MADE BY MAN OR MONSTER?!,为什么YYYYYYY! 为什么他们要继续 最好的歌舞剧 由人或怪物!,为什么——？！为什么要停产，人类或怪物有史以来，做出过的最好喝的汽水？！
+english_events_endings:L575,ending_failure_juan_1,FIX,Farewell... water-flavored soda. Sigh.,再见... 水味苏打水 叹曰.,永别了……水味汽水。唉。
+english_events_endings:L582,ending_failure_juan_2,KEEP,"%DESTINATION%, WOOHOO!",%DESTINATION%呜呼!,%DESTINATION%呜呼!
+english_events_endings:L583,ending_failure_juan_2,FIX,THESE WILL BE THE BEST DAYS OF YOUR LIFE!,这将是你生命中最好的一天!,这几天，会是你人生中最快乐的日子！
+english_events_endings:L584,ending_failure_juan_2,FIX,Wait...,单单...,等等……
+english_events_endings:L585,ending_failure_juan_2,FIX,These may as well be the literal best days of your life...,这也许是你生命中最美好的一天...,这几天，也许真就是字面意义上，你此生最快乐的日子……
+english_events_endings:L586,ending_failure_juan_2,POLISH,A peak that will never again be experienced.,永远也不会再次经历的高峰。,一个再也无法重来的巅峰。
+english_events_endings:L588,ending_failure_juan_2,FIX,Your life from now on will be a pale attempt to experience something as cool and fun as these days ahead.,从现在开始你的生活将是一个苍白的尝试 体验一些像这些日子一样的优雅和乐趣。,从此以后，你的人生，就只能徒劳地追逐，试图再次体验这几天的精彩和快乐。
+english_events_endings:L589,ending_failure_juan_2,POLISH,"And you will most likely fail, and be filled with sadness as you nostalgically look back on these days.","你最有可能失败, 并充满了悲伤 当你怀旧地回顾这些日子。",你大概永远做不到，只能一边怀念这些日子，一边满心悲伤。
+english_events_endings:L590,ending_failure_juan_2,POLISH,No... this will make you miserable in the long run.,"没有... 从长远来看,这会让你很痛苦的",不……从长远看，这会让你很痛苦。
+english_events_endings:L591,ending_failure_juan_2,POLISH,"And because of that, you choose NOT to go to %DESTINATION%. You stay in the car while your friends go.","因此,你选择不要去 %DESTINATION%. 你留在车里,而你的朋友走了。",所以，你决定，不去%DESTINATION%。朋友们都去了，你却留在车里。
+english_events_endings:L592,ending_failure_juan_2,POLISH,"Yes, this is a good idea. This will be worth it in time... yes.","是的,这是个好主意。 这会很值钱的... 对",对，这是个好主意。时间会证明，这么做是值得的……对。
+english_events_endings:L599,ending_failure_juan_3,KEEP,"%DESTINATION%, woohoo!",%DESTINATION%呜呼!,%DESTINATION%呜呼!
+english_events_endings:L600,ending_failure_juan_3,FIX,"This long, wacky road trip has all been worth it to finally go to %DESTINATION%!",这么长又疯狂的路途 终于值得去 %DESTINATION%!,这一趟漫长又荒唐的公路旅行，都是为了终于来到%DESTINATION%。值了！
+english_events_endings:L601,ending_failure_juan_3,FIX,Except you are... NOT going to %DESTINATION%?! What?!,不过你... ... 不会的 %DESTINATION%?! 你说什么?,可你……不去%DESTINATION%了？！什么？！
+english_events_endings:L603,ending_failure_juan_3,FIX,Apparently %DESTINATION% was all a lie to trick you into going to the vet.,很明显 %DESTINATION% 骗你去看兽医都是谎言,原来，去%DESTINATION%，只是骗你出门的借口。真正的目的，是带你看兽医。
+english_events_endings:L604,ending_failure_juan_3,FIX,But... it can't be a lie? You literally are at %DESTINATION%!,不过... 这不可能是谎言? 你其实是 %DESTINATION%!,可是……怎么会是骗我的？我们明明就到%DESTINATION%了啊！
+english_events_endings:L605,ending_failure_juan_3,FIX,"True, but that was so the lie would hold water better. All of your friends will actually go to %DESTINATION%... while you go to the vet office next door.","没错,但那样谎话会让水保存得更好 你所有的朋友都会去的 %DESTINATION%... 你去隔壁的兽医办公室",没错，可这样，谎话才更可信。朋友们真的会去%DESTINATION%……你去的，则是隔壁的兽医诊所。
+english_events_endings:L606,ending_failure_juan_3,KEEP,Ugh.,唉哟。,唉哟。
+english_events_endings:L613,ending_failure_cinnamon_1,FIX,Finally! You've arrived at %DESTINATION%!,终于来了! 你来了 %DESTINATION%!,终于！你到%DESTINATION%了！
+english_events_endings:L614,ending_failure_cinnamon_1,FIX,You all get ready for the time of your life!,你们都准备好度过生命的时光!,大家都准备好，玩个毕生难忘了！
+english_events_endings:L615,ending_failure_cinnamon_1,POLISH,"Wait, but what's that? There's a cool lamp post next to the entrance to %DESTINATION%.","等等,这是什么? %DESTINATION%的出入口旁边有一个很酷的灯柱.",等等，那是什么？%DESTINATION%入口旁边，有根很酷的路灯柱。
+english_events_endings:L616,ending_failure_cinnamon_1,FIX,Whoa... it is a really cool lamp post...,珃... 这是一个非常酷的灯柱...,哇……真是根特别酷的路灯柱……
+english_events_endings:L618,ending_failure_cinnamon_1,FIX,You... like... gotta stay and check out this cool lamp post a bit more.,你们... 喜欢... 得留下来检查一下这个很酷的灯柱,你……就是……得留下来，再多看看这根酷路灯柱。
+english_events_endings:L619,ending_failure_cinnamon_1,POLISH,You tell your friends to keep going. You'll find them later.,你告诉你的朋友继续走。 你以后会找到他们的,你让朋友们先走，自己过会儿就去找他们。
+english_events_endings:L620,ending_failure_cinnamon_1,FIX,You never do.,你从不这样,结果，你再也没去。
+english_events_endings:L621,ending_failure_cinnamon_1,FIX,Lamp post: best destination ever!,灯口:有史以来最好的目的地!,路灯柱：史上最佳目的地！
+english_events_endings:L628,ending_failure_cinnamon_2,KEEP,%DESTINATION%?,%DESTINATION%?,%DESTINATION%?
+english_events_endings:L629,ending_failure_cinnamon_2,FIX,Fuck %DESTINATION%!,他妈的 %DESTINATION%!,去他妈的%DESTINATION%！
+english_events_endings:L630,ending_failure_cinnamon_2,FIX,And fuck your friends!,去你妈的朋友们!,朋友们也滚一边去！
+english_events_endings:L632,ending_failure_cinnamon_2,FIX,Look at this cool lamp post!,看这个酷的灯柱!,看看这根酷路灯柱！
+english_events_endings:L633,ending_failure_cinnamon_2,FIX,This lamp post was the destination all along! YES!,这个灯柱一直是目的地! 没错!,原来，这根路灯柱，才是真正的目的地！没错！
+english_events_endings:L634,ending_failure_cinnamon_2,FIX,"Welcome to random lamp post, the hip destination for all the cool kidz!","欢迎来到随机的灯口, 所有酷孩子的臀部目的地!",欢迎来到随便一根路灯柱，酷小孩们最时髦的打卡地！
+english_events_endings:L641,ending_failure_cinnamon_3,POLISH,"Recently, you've found a lamp post. It is a REALLY cool lamp post.",最近你找到个灯柱了 这是一个非常酷的灯柱。,最近，你发现了一根路灯柱。特别酷的那种。
+english_events_endings:L642,ending_failure_cinnamon_3,FIX,You've been spending lots of time with the lamp post.,你花了很多时间在灯柱上,你花了好多时间，陪着那根路灯柱。
+english_events_endings:L643,ending_failure_cinnamon_3,POLISH,You've thought of bringing it to %DESTINATION% with you.,你考虑过把它带到 %DESTINATION% 与你为伴.,你甚至想，把它一起带去%DESTINATION%。
+english_events_endings:L644,ending_failure_cinnamon_3,POLISH,Your friends told you that's a weird idea. It's a lamp post... not a love interest.,"你的朋友告诉你,这是一个奇怪的主意。 这是一个灯柱... ... 不是爱的兴趣。",朋友们说，这想法很怪。那是根路灯柱……又不是恋爱对象。
+english_events_endings:L645,ending_failure_cinnamon_3,FIX,Your friends know nothing. Ignoramuses!,"你的朋友什么都不知道,他们不知道。 无知者!",朋友们懂个屁。无知之徒！
+english_events_endings:L647,ending_failure_cinnamon_3,FIX,They don't get you like the lamp post gets you.,他们不会像灯柱那样把你弄走的,他们哪有路灯柱懂你。
+english_events_endings:L648,ending_failure_cinnamon_3,FIX,Fuck %DESTINATION% and fuck your friends. They probably just want to fuck the lamp post. Jealous assholes.,他妈的 %DESTINATION% 和他妈的你的朋友。 他们可能只是想他妈的灯柱。 嫉妒的混蛋们。,去他妈的%DESTINATION%，朋友们也见鬼去吧。他们肯定就是想上这根路灯柱。嫉妒的混蛋们。
+english_events_endings:L649,ending_failure_cinnamon_3,FIX,You proceed to make out with the lamp post.,你开始亲热的灯柱。,你抱着路灯柱，开始热吻。
+english_events_endings:L650,ending_failure_cinnamon_3,POLISH,Your life rocks.,你的生活很摇摆。,你这日子，棒极了。
+english_events_endings:L657,ending_failure_glitch_1,FIX,"%DESTINATION%, yay!",%DESTINATION%哟!,%DESTINATION%，好耶！
+english_events_endings:L659,ending_failure_glitch_1,POLISH,It'd be super fun if not for the fact that some strangers jump out and capture you.,"如果不是一些陌生人跳出来抓你,那会很有趣的",本来会很好玩，要不是几个陌生人突然跳出来，把你抓走的话。
+english_events_endings:L660,ending_failure_glitch_1,FIX,What the fuck?,什么他妈的?,这他妈什么情况？
+english_events_endings:L661,ending_failure_glitch_1,FIX,"Apparently it is the QA team, doing bugfixes on the game.",很明显是QA团队在游戏中做bugfixs.,原来是游戏测试团队，正在修复漏洞。
+english_events_endings:L662,ending_failure_glitch_1,FIX,"They found you, you fuckin' glitch, corrupting the files.","他们发现你,你他妈的""故障, 腐败的文件。",他们逮到了你，这个破坏文件的操蛋故障。
+english_events_endings:L663,ending_failure_glitch_1,FIX,Not anymore! You got bugfixed! Bye.,现在不是了! 你被修理了! 你被修理了! You got bugfied! 再见。,现在可不行了！你被当成漏洞，修掉啦！拜。
+english_events_endings:L670,ending_failure_glitch_2,FIX,%DESTINATION% would be fun if not for the QA team that suddenly appears to bugfix your ass.,%DESTINATION% 如果不是QA团队突然出现 让你的屁股受了虫子的困扰 那会很有趣的,%DESTINATION%本来会很好玩，可测试团队突然出现，要把你这个故障修掉。
+english_events_endings:L672,ending_failure_glitch_2,FIX,They fix your ass out of existence.,他们修补你的屁股 离开存在。,他们把你修得，彻底不存在了。
+english_events_endings:L673,ending_failure_glitch_2,FIX,"If you ask me, this is on you for choosing to play as a glitch instead of a regular character.","如果你问我,这是你选择 玩一个滑稽,而不是一个普通的角色。",要我说，这得怪你自己：放着正常角色不选，非要玩个故障。
+english_events_endings:L674,ending_failure_glitch_2,FIX,You were never supposed to exist in this game! #SorryNotSorry,"你不应该存在在这个游戏中! 对不起,不对不起",你本来就不该出现在这游戏里！#抱歉但并不后悔
+english_events_endings:L681,ending_failure_glitch_3,FIX,%DESTINATION% would be fun if not for the QA team that suddenly appears to bugfix your ass.,%DESTINATION% 如果不是QA团队突然出现 让你的屁股受了虫子的困扰 那会很有趣的,%DESTINATION%本来会很好玩，可测试团队突然出现，要把你这个故障修掉。
+english_events_endings:L683,ending_failure_glitch_3,POLISH,"Your friends jump to your rescue, but they're stopped by the QA team.","你的朋友跳去营救,但他们被QA小组阻止了.",朋友们冲过来救你，却被测试团队拦了下来。
+english_events_endings:L684,ending_failure_glitch_3,FIX,"They explain that you're just a glitch, corrupting the memory files of the game.","他们解释说,你只是一个故障, 腐蚀游戏的记忆文件。",他们解释说，你不过是个故障，正在破坏游戏的记忆文件。
+english_events_endings:L685,ending_failure_glitch_3,FIX,"Slowly, your friends start realizing all their memories are indeed corrupted... their memories with you are all fake!","慢慢的,你的朋友开始意识到 他们所有的记忆确实腐烂... 他们和你在一起的记忆都是假的!",朋友们渐渐发现，记忆果然被破坏了……跟你在一起的那些回忆，全是假的！
+english_events_endings:L686,ending_failure_glitch_3,FIX,"Come to think of it, they don't know you from anywhere. You're just a damned glitch who corrupted %HISHER% way into this road trip.","想想看,他们从哪里都不认识你 你只是一个该死的小混混 谁毁了%HISHER%的方式 进入了这次出行。",仔细一想，他们压根就不认识你。你不过是个该死的故障，靠篡改数据，硬把%HISHER%存在塞进了这趟公路旅行。
+english_events_endings:L687,ending_failure_glitch_3,FIX,"It was all an error, but now it's fixed... by erasing you from existence. Bye!","这都是个错误,但现在已经修好了... 藉以消除你们的存在。 再见!",一切都是错误，不过现在修好了……办法就是，把你彻底抹除。拜拜！
+english_events_endings:L694,ending_failure_pumpkin_1,FIX,"Hooray, you made it to %DESTINATION% in one piece!","万岁,你来了 %DESTINATION% 一成不变!",好耶，你完完整整地到了%DESTINATION%！
+english_events_endings:L695,ending_failure_pumpkin_1,FIX,"But as soon as you arrive, you get a horrible feeling in the pit of your stomach.","但是,一旦你到达, 你得到一个可怕的感觉 在你的胃的坑。",可一到地方，你胃里就涌起一股，特别糟的感觉。
+english_events_endings:L696,ending_failure_pumpkin_1,POLISH,What happened? Why are you suddenly filled with the shame and humiliation?,发生什么事了? 你为什么突然充满了羞耻和屈辱?,怎么回事？为什么突然觉得，这么羞耻、这么丢脸？
+english_events_endings:L697,ending_failure_pumpkin_1,FIX,Why does it feel like you just waved at someone who was actually waving at the person behind you?!,为什么感觉你只是 向某人挥手 实际上挥手在你身后的人?,怎么像是你冲着人家挥手，结果人家招呼的，其实是你身后的人？！
+english_events_endings:L699,ending_failure_pumpkin_1,POLISH,There's only one explanation... you got the Bad Ending.,只有一个解释... 你得到了坏结局。,解释只有一个……你拿到坏结局了。
+english_events_endings:L700,ending_failure_pumpkin_1,POLISH,Why? Who knows? You're the one who lost. I'm just the bearer of bad news.,为什么? 谁知道呢? 输了的是你 我只是个坏消息的传承者,为什么？谁知道？输的人是你，我只是负责报个坏消息。
+english_events_endings:L701,ending_failure_pumpkin_1,KEEP,Better luck next time!,祝你下次好运!,祝你下次好运!
+english_events_endings:L708,ending_failure_pumpkin_2,KEEP,"Yay, you've finally reached %DESTINATION%!","耶,你终于到了 %DESTINATION%!","耶,你终于到了 %DESTINATION%!"
+english_events_endings:L709,ending_failure_pumpkin_2,FIX,"As soon as the car is parked, Polly shouts, ""LAST ONE OUT IS A LAME LOSER!""","等车停了 波莉 大声地说, ""LATT one out is a LAME LOSER!""",车刚停稳，波莉就大喊：“最后一个下车的，是逊咖！”
+english_events_endings:L710,ending_failure_pumpkin_2,FIX,Everyone bolts out of the car... except for you. Everyone points and laughs.,每个人都从车里跑出来... 惟取汝等诸人. 皆指取取取取而取取取笑.,所有人都冲下了车……除了你。大家全指着你笑。
+english_events_endings:L711,ending_failure_pumpkin_2,FIX,Not cool! You had your headphones on and didn't hear Polly! It's not faaair!,一点都不酷! 你开着耳机却没听见 波莉! 这不是法尔!,这可不行！你戴着耳机，没听见波莉说话啊！太不公平了！
+english_events_endings:L713,ending_failure_pumpkin_2,FIX,But rules are rules: you will forever be known as the Lame Loser of the road trip.,"但规则是规则:你永远会被称作""路行走的喇嘛""(Lame Loser).",可规矩就是规矩：从今以后，你永远都是这趟公路旅行的逊咖。
+english_events_endings:L714,ending_failure_pumpkin_2,FIX,Sucks to be you!,真讨厌你!,你可真够惨的！
+english_events_endings:L721,ending_failure_pumpkin_3,FIX,You made it to %DESTINATION%!,你来了 %DESTINATION%!,你到%DESTINATION%了！
+english_events_endings:L722,ending_failure_pumpkin_3,FIX,You'd be living it up right now if you didn't just remember that you've secretly been an animatronic this whole time.,如果你不只记得 你一直以来都是个动画师 你会活下来的,你本来应该正在尽情享受，可你突然想起来，自己一直都是个伪装的机械玩偶。
+english_events_endings:L723,ending_failure_pumpkin_3,FIX,"What? It doesn't make any sense? Sure, maybe it's not canon and just a joke for joke's sake; but you know what? Animatronics don't get to ask this many questions.","什麽? 这不合理吗? 当然,也许它不是Canon, 只是一个笑话的缘故;但你知道吗? 动画师不会问这么多问题",什么？这不合理？行吧，也许这不算正史，只是为了搞笑而搞笑。可你知道吗？机械玩偶，没资格问这么多问题。
+english_events_endings:L724,ending_failure_pumpkin_3,FIX,Now you have to be shut down for everyone's safety.,"现在,你必须关闭 每个人的安全。",现在，为了大家的安全，只能把你关机了。
+english_events_endings:L726,ending_failure_pumpkin_3,KEEP,"What a bad ending, huh?","真是个糟糕的结局,是吧?","真是个糟糕的结局,是吧?"

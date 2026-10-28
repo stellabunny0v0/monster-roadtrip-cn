@@ -1,0 +1,76 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_endings:L2777,ending_date_adrien,FIX,"Eh, %DESTINATION% is cool and all, but spending some quality time with Adrien is cooler.","嗯,%DESTINATION%是很酷的,所有, 但花一些高质量的时间与阿德里安是比较酷的。",嗯，%DESTINATION%是不错，可跟阿德里安亲近一会儿，更好。
+english_events_endings:L2778,ending_date_adrien,FIX,"I mean, look at him: a handsome, chivalrous merknight? He's a literal knight in shining armor!","我的意思是,看看他: 一个英俊而有骑士气质的美容之夜? 他是身穿闪亮盔甲的骑士!",你看看他：英俊又有骑士风度的人鱼骑士！披着闪亮盔甲的梦中骑士，他可是名副其实！
+english_events_endings:L2780,ending_date_adrien,POLISH,"Uh... this trip has been an adventure, hasn't it?","额... 这次旅行是个冒险,不是吗?",呃……这趟旅行，真是场冒险，对吧？
+english_events_endings:L2781,ending_date_adrien,POLISH,Absolutely. And it has been an honor to aid you in such a quest.,当然 我很荣幸能帮助你完成这一任务,当然。能在这趟征途中助你一臂之力，是我的荣幸。
+english_events_endings:L2782,ending_date_adrien,FIX,"Adrien! You always look, like... super tense.",阿德里安! 阿德里安! 阿德里安! 阿德里安! 阿德里安! 阿德里安! 你总是长得像... 超级紧张。,阿德里安，你好像……总是绷得特别紧。
+english_events_endings:L2783,ending_date_adrien,FIX,"When you're a knight fighting against evil, it's hard to lower your guard.","当为骑士与恶作恶相搏斗时,很难降低警惕.",身为对抗邪恶的骑士，很难放下戒备。
+english_events_endings:L2784,ending_date_adrien,FIX,"Maybe you should, from time to time.","也许你应该,不时。",也许，偶尔还是该放松一下。
+english_events_endings:L2785,ending_date_adrien,FIX,"I mean, it can't do any good to carry that heavy armor 24/7.","我的意思是,它不能做任何好处 携带这厚重的装甲 24/7。",一天二十四小时，每周七天，都穿着那么重的盔甲，怎么会舒服。
+english_events_endings:L2786,ending_date_adrien,POLISH,It is quite heavy armor...,这是相当重的盔甲...,这身盔甲，确实很重……
+english_events_endings:L2787,ending_date_adrien,FIX,You could always take it off.,你可以永远把它脱了。,你也可以，把它脱掉啊。
+english_events_endings:L2788,ending_date_adrien,KEEP,...,...,...
+english_events_endings:L2789,ending_date_adrien,FIX,"...Well, it embarrasses me a bit to admit this, but taking the armor off by myself ranges from hard to outright impossible.",承认这一点让我有点难堪 但自己脱下盔甲 从硬到完全不可能,……承认这件事，有点难为情。不过，一个人脱这身盔甲，少说也很困难，甚至可能根本办不到。
+english_events_endings:L2790,ending_date_adrien,FIX,And you were too shy to ask for help? Cute!,而且你太害羞了 求救吗? 可爱!,所以，是不好意思开口请人帮忙？真可爱！
+english_events_endings:L2791,ending_date_adrien,POLISH,We didn't know each other that well...,我们没有那么了解对方...,那时候，我们还不太熟……
+english_events_endings:L2792,ending_date_adrien,FIX,"But we do now, don't we?","但我们现在有了,不是吗?",可现在，已经熟了，不是吗？
+english_events_endings:L2793,ending_date_adrien,FIX,"And so, you start slowly removing Adrien's armor pieces.","因此,你开始慢慢去除阿德里安的装甲碎片.",于是，你开始一件件，慢慢卸下阿德里安的盔甲。
+english_events_endings:L2794,ending_date_adrien,FIX,It's a slow process that's quite sensual in its own way.,"这是一个缓慢的过程,以它自己的方式相当感人.",这过程很慢，也别有一种性感。
+english_events_endings:L2795,ending_date_adrien,FIX,"What's more: as you proceed, Adrien's body reveals itself to be quite toned... which makes sense when you remember that he wears all this armor all the time.","更重要的是,当你继续前进时,阿德里安的身体 暴露了自己相当受宠若惊... 当你记得他一直戴着这副盔甲时 这才有意义",随着盔甲卸下，你发现，他的身材相当结实……想想他一天到晚，都穿着这身重甲，倒也合理。
+english_events_endings:L2796,ending_date_adrien,FIX,Doesn't it feel good?,感觉不好吗?,是不是舒服多了？
+english_events_endings:L2797,ending_date_adrien,KEEP,It truly does.,确实如此。,确实如此。
+english_events_endings:L2798,ending_date_adrien,FIX,You shouldn't carry this much weight ALL THE TIME.,你不应该总是带着这么重的重量。,这么重的担子，不该一直扛着。
+english_events_endings:L2799,ending_date_adrien,POLISH,"Well, %CURRENTPLAYERNAME%... I guess sometimes it's just a bit hard for me to ask for help.",这个嘛 %CURRENTPLAYERNAME%... 我想有时候我很难求救,嗯，%CURRENTPLAYERNAME%……我想，我有时就是不太会，开口请人帮忙。
+english_events_endings:L2800,ending_date_adrien,FIX,I get it.,我理解你的话 I get it.,我懂。
+english_events_endings:L2801,ending_date_adrien,POLISH,"But know this: you've helped us a lot, and I gotta say, I like you.","但你知道的,你帮了我们很多, 我得说,我喜欢你。",不过，记着，你帮了我们很多。而且，我得说，我喜欢你。
+english_events_endings:L2802,ending_date_adrien,FIX,"So, don't be shy in asking me for anything, okay?","所以,不要害羞 问我什么,好吗?",所以，有什么想要的，就跟我开口，别害羞，好吗？
+english_events_endings:L2803,ending_date_adrien,FIX,...Anything?,有发现吗?,……什么都可以？
+english_events_endings:L2804,ending_date_adrien,KEEP,You get closer to him and whisper:,"你靠近他,低声说:","你靠近他,低声说:"
+english_events_endings:L2805,ending_date_adrien,FIX,Anything.,任何东西。,什么都可以。
+english_events_endings:L2806,ending_date_adrien,FIX,"And so, he asks you for... a thing or two.","所以,他问你... 一两件事情",于是，他真的向你提了……一两个要求。
+english_events_endings:L2807,ending_date_adrien,FIX,And thus begins what you could call... this quest's final battle.,"由此开始,你可以称之为... 这场征程的最后一场战役。",这趟征途的……最终之战，就此开始。
+english_events_endings:L2816,ending_date_hope,FIX,"%DESTINATION%? Sure, but what about spending some quality time with Hope?","%DESTINATION%? 当然,但怎么样 花一些高质量的时间与希望?",%DESTINATION%？当然，不过，先跟希望女巫，好好待上一会儿怎么样？
+english_events_endings:L2817,ending_date_hope,FIX,She's doing a tarot reading for you.,她为你做一个塔罗牌阅读。,她正在给你占塔罗牌。
+english_events_endings:L2819,ending_date_hope,FIX,And then... the Death card.,礛... 死亡卡片 死亡卡片,接着……死神牌。
+english_events_endings:L2820,ending_date_hope,FIX,"Oh, no!","哦,没有!",哦，不！
+english_events_endings:L2821,ending_date_hope,POLISH,"Nah, don't fret; Death means change... any kind of change...",不 别担心 死亡意味着改变... 任何改变...,别紧张，死神代表改变……任何一种改变……
+english_events_endings:L2822,ending_date_hope,POLISH,"A new job... meeting someone new... also actual death, why not?","一个新工作... 认识一个新人... 以及实际死亡,为什么不呢?",换份新工作……认识新的人……当然，也可能真是死，为什么不呢？
+english_events_endings:L2823,ending_date_hope,FIX,Fingers crossed it's not that one.,"手指交叉,不是那个。",但愿不是最后那种。
+english_events_endings:L2824,ending_date_hope,POLISH,"Heh... Yes, let's hope for that.","哦... 是的,让我们希望这一点。",呵……是啊，但愿不是。
+english_events_endings:L2825,ending_date_hope,POLISH,"But, %CURRENTPLAYERNAME%, I like to think fate isn't something fixed. Looking into the future is more like getting a glimpse of things that could be.","但是,%CURRENTPLAYERNAME%, 我喜欢认为命运不是固定的东西。 展望未来 更像是对事物的一瞥",不过，%CURRENTPLAYERNAME%，我愿意相信，命运不是写死的。窥看未来，更像是瞥见，某种可能。
+english_events_endings:L2826,ending_date_hope,FIX,"Ultimately, it's up to you to steer the ship in the direction you prefer.","归根结底,由你来引导飞船朝你喜欢的方向行驶.",说到底，船要往哪儿走，还是你自己掌舵。
+english_events_endings:L2827,ending_date_hope,POLISH,"These cards? Think of them as a sort of map, a bit of guidance.",这些牌? 把它们当作地图 一点指引,这些牌？当成地图就好，给你指个方向。
+english_events_endings:L2828,ending_date_hope,KEEP,I think I get it.,我觉得我懂了。,我觉得我懂了。
+english_events_endings:L2829,ending_date_hope,POLISH,Change is in my future; but I still get some control over what that might mean.,改变在我的未来;但我仍然能控制那可能意味着什么。,我未来会有改变。不过，究竟怎么变，我还是能做点主的。
+english_events_endings:L2830,ending_date_hope,POLISH,"Hmmm, yes, in a way.","嗯,是的,在某种程度上。",嗯，算是吧。
+english_events_endings:L2831,ending_date_hope,FIX,Like... you know? I've never kissed you... maybe that's the thing that could change.,喜欢... 你知道吗? 我从来没有吻过你... 也许这就是可能改变的事情。,比如……你知道，我还没亲过你……说不定，这件事可以改变。
+english_events_endings:L2832,ending_date_hope,KEEP,%CURRENTPLAYERNAME%!,%CURRENTPLAYERNAME%!,%CURRENTPLAYERNAME%!
+english_events_endings:L2833,ending_date_hope,POLISH,What? This is me taking charge of my future.,什麽? 这是我掌管我的未来。,怎么？我这是在，掌握自己的未来啊。
+english_events_endings:L2834,ending_date_hope,POLISH,But if that's not in your cards... I would understand.,但是如果你的卡片上没有这个... 我会理解的。,不过，要是你的牌里没这回事，我也能理解。
+english_events_endings:L2835,ending_date_hope,FIX,Lemme do a tarot reading...,让我做一个塔罗牌阅读...,让我占一占……
+english_events_endings:L2836,ending_date_hope,KEEP,...,...,...
+english_events_endings:L2837,ending_date_hope,KEEP,...,...,...
+english_events_endings:L2838,ending_date_hope,POLISH,Just kidding.,开玩笑的,开玩笑的。
+english_events_endings:L2839,ending_date_hope,POLISH,"Kiss me, you idiot.","吻我,你这个白痴。",亲我，笨蛋。
+english_events_endings:L2840,ending_date_hope,FIX,"And so, you do. Best tarot reading ever.","所以,你这样做。 有史以来最好的塔罗特读取。",于是，你亲了她。史上最棒的塔罗占卜。
+english_events_endings:L2849,ending_date_finn,FIX,%DESTINATION% is cool and all that... but you prefer to spend some quality time with Finn.,"%DESTINATION% 很酷,所有这一切... 但你更喜欢和芬恩好好相处",%DESTINATION%是挺好……可你更想，跟芬恩好好待上一会儿。
+english_events_endings:L2850,ending_date_finn,FIX,"You're giving him a massage, and... dang, his whole back seems made of knots. Poor stressed guy!","你在给他按摩,然后... 糟了,他的背好像结了个结 可怜的人压力太大了!",你正给他按摩，然后……嚯，整片背好像都绷成了结。可怜的家伙，压力也太大了！
+english_events_endings:L2852,ending_date_finn,FIX,"Maaaaaan, this feels so good. I NEEDED it. You're a gift sent from Heaven, %CURRENTPLAYERNAME%...","Maaaaan,这感觉真好。 我需要这个. 你是天赐的礼物 %CURRENTPLAYERNAME%...",伙计——，太舒服了，我太需要这个了。%CURRENTPLAYERNAME%，你简直是上天送来的礼物……
+english_events_endings:L2853,ending_date_finn,FIX,"He places his hand over yours, as you touch his shoulder... it's starting to feel quite intimate... and then his phone starts ringing.",他把手放在你身上 你摸他的肩膀时... 它开始感觉很亲密... 然后他的电话响起。,你按着他的肩，他把手覆在你的手上……气氛越来越亲密……然后，手机响了。
+english_events_endings:L2854,ending_date_finn,FIX,Ugh... it's a text from Mr. Pappas... he needs me to explain how to use the fax machine.,唉哟... 这是从先生的短信。 帕帕斯 帕帕斯 帕帕斯 帕帕斯 帕帕斯 他需要我解释如何使用传真机。,呃……帕帕斯先生的短信……他要我教他，怎么用传真机。
+english_events_endings:L2855,ending_date_finn,FIX,Anyway... where were we?,总之... 我们说到哪儿了?,算了……刚才说到哪儿了？
+english_events_endings:L2856,ending_date_finn,FIX,He turns his face towards you. You two are so close... you can almost feel his warm breath as you two look at each other...,他的脸朝你转 你们两个很亲近... 你几乎可以感觉到他的温暖的呼吸 当你们两个看着对方...,他把脸转向你。你们这么近……对望的时候，你几乎能感觉到，他温热的呼吸……
+english_events_endings:L2857,ending_date_finn,FIX,...and then his phone starts ringing like crazy again.,...然后他的电话又像疯了一样响起.,……然后，他的手机，又疯了似的响起来。
+english_events_endings:L2858,ending_date_finn,FIX,Aaaaah... what now?,"啊,啊,啊,啊,啊,啊,啊,啊... 现在怎么办?",啊……又怎么了？
+english_events_endings:L2859,ending_date_finn,POLISH,Oof... gimme a minute... he's worried and asking me if it's normal for the fax machine to make so much noise.,"哦,这... 给我一分钟... 他很担心 问我传真机发出这么多声音是否正常",唉……等我一下……他在担心，问我，传真机这么吵，是不是正常。
+english_events_endings:L2860,ending_date_finn,FIX,Fuck... it's so hard to enjoy little moments like this when you can't put work away...,他妈的... 很难享受这样的小时刻 当你不能把工作带走时...,操……工作一刻都放不下，真难好好享受，这样的小小片刻……
+english_events_endings:L2861,ending_date_finn,FIX,"You should just do that: put work away... focus on the little moments, like this one...","你应该这样做,把工作放下... 专注于小时刻, 像这个...",那就放下啊。先把工作放一边，专心享受，比如现在……
+english_events_endings:L2862,ending_date_finn,POLISH,It does sound good when you put it like that...,这听起来不错 当你把它这样...,被你这么一说，听起来还真不错……
+english_events_endings:L2863,ending_date_finn,POLISH,"He touches your face, getting even closer to you... slowly...","他抚摸你的脸, 更接近你... 慢慢来...",他摸着你的脸，慢慢……靠得更近……
+english_events_endings:L2864,ending_date_finn,KEEP,The phone rings.,电话响了,电话响了
+english_events_endings:L2865,ending_date_finn,FIX,UGH!,呜!,呃啊！
+english_events_endings:L2866,ending_date_finn,FIX,Finn grabs his phone and throws it out of the car.,芬拿起手机扔出车外.,芬恩抓起手机，直接扔出了车外。
+english_events_endings:L2867,ending_date_finn,FIX,"Fuck that! And fuck Mr. Pappas! C'mere, %CURRENTPLAYERNAME%!","他妈的! 和他妈的先生。 帕帕斯! 帕帕斯! 帕帕斯! 帕帕斯! 帕帕斯! Pappas! 蜜尔, %CURRENTPLAYERNAME%!",去他妈的！帕帕斯先生，也去他妈的！过来，%CURRENTPLAYERNAME%！
+english_events_endings:L2868,ending_date_finn,POLISH,"Then he grabs your face and kisses you, passionately.","然后他抓住你的脸 并亲吻你,热情地。",然后，他捧住你的脸，热烈地吻了上来。
+english_events_endings:L2869,ending_date_finn,FIX,"Whoa, he really needed to release some tension, didn't he?","哇,他真的需要释放一些紧张,不是吗?",哇，他可真需要，好好释放一下压力，对吧？
+english_events_endings:L2870,ending_date_finn,FIX,"And so, you two spend the rest of the night... releasing some tension.","所以,你们两个过夜了... 释放出一些紧张。",于是，这一夜剩下的时间，你们都用来……好好释放压力。

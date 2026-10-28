@@ -1,0 +1,168 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_maingame:L20688,wormsacrifice,POLISH,"You're driving with Adrien, making small talk, when you both notice a woman tied to a wooden stake in the desert.",你们开车去跟阿德里安聊天 你们俩都注意到一个女人在沙漠里被绑在木桩上,你和阿德里安一边坐车赶路，一边闲聊，忽然发现沙漠里有个女人被绑在木桩上。
+english_events_maingame:L20690,wormsacrifice,POLISH,"What the -- that woman must need help! Please, stop the car!",女的需要帮助吗? 请停车!,怎么回——那位女士一定需要帮助！请快停车！
+english_events_maingame:L20692,wormsacrifice,FIX,"I dunno... being tied to a wooden stake spells kinky sex stuff in Polly Geist's book. Either way, STOP THE CAR!","我不知道... 被绑在木桩上 使性欲变得古怪 波莉 盖斯之书也. 无论哪种方式,停车!",不好说哦……按我波莉·鬼斯特的经验，绑在木桩上这种事，多半是什么特殊情趣。不过不管怎样，停车！
+english_events_maingame:L20694,wormsacrifice,POLISH,"No need to worry, ma'am. I am a knight of the Merkingdom Royal Army, and I am here to rescue you from your dire predicament.","不用担心,女士。 我是默金多姆皇家军队的骑士 我是来救你的 摆脱你的困境的",女士，不必担心。我是人鱼王国皇家军队的骑士，前来救您脱离险境。
+english_events_maingame:L20695,wormsacrifice,POLISH,"No, don't bother! I'm sacrificing myself to the Great Desert Worm so it will stop attacking my village.","不,别费心了! 我牺牲自己到大沙漠虫 这样它就不再攻击我的村庄了",不用，别忙活了！我正在把自己献给沙漠巨虫，好让它不再袭击我们的村子。
+english_events_maingame:L20696,wormsacrifice,POLISH,I face my death willingly to save countless other lives.,我愿意面对我的死亡 来拯救无数人的生命,只要能救下无数人的性命，我甘愿赴死。
+english_events_maingame:L20697,wormsacrifice,FIX,"I understand, but on my honor, I cannot let an innocent person die even if it's for the greater good. Be still so I can cut you down.","我明白,但为了我的荣誉 我不能让一个无辜的人死 即使是为了更大的利益 保持安静,这样我就可以砍倒你。",我明白，但以我的荣誉起誓，即使是为了大局，我也不能让无辜者丧命。请别动，我来割断绳子，放您下来。
+english_events_maingame:L20698,wormsacrifice,FIX,"Too late! The ground rumbles, and out of the sand pops a huge, bloodthirsty desert worm.",太迟了! 地上隆起出沙子 喷出一股巨大的嗜血沙漠蠕虫,太迟了！地面隆隆震动，一条巨大、嗜血的沙漠蠕虫破沙而出。
+english_events_maingame:L20699,wormsacrifice,KEEP,ROAAAAAAAAAAAAR!,吼——！,吼——！
+english_events_maingame:L20700,wormsacrifice,FIX,"HALT, YOU BEAST! I don't care what deals you've made with this village; I won't let you hurt this woman!","汉特,你最厉害了! 我不管你和这个村子有什么交易 我不会让你伤害这个女人的!",站住，你这野兽！不管你跟村子做了什么交易，我都不会让你伤害这位女士！
+english_events_maingame:L20701,wormsacrifice,POLISH,"...What? Charlene, what's going on? I didn't know you were going to involve other people in this.","什麽? 夏琳,发生什么事了? 我不知道你会让其他人参与其中",……什么？夏琳，这是怎么回事？没听你说还要叫别人一起啊。
+english_events_maingame:L20702,wormsacrifice,FIX,"Ugh, I wasn't! These annoying hero-types just decided to step in and ""save me"" from our foreplay!","唉,我没有! 这些烦人的英雄类型 刚刚决定 介入和""拯救我"" 从我们的前戏!",我没有啊！这几个爱逞英雄的烦人精，非要插手，把我从咱们的前戏里“救”出去！
+english_events_maingame:L20703,wormsacrifice,FIX,Foreplay?! I KNEW THIS WAS KINKY! I FUCKIN' CALLED IT!,前戏? 我知道这是金基! 我他妈的叫它!,前戏？！我就知道是在玩情趣！被我说中了吧！
+english_events_maingame:L20704,wormsacrifice,POLISH,Oh... I seem to have misinterpreted some sort of elaborate romantic roleplay between you two. How embarrassing.,哦... 我似乎误解了 你们俩之间某种精心策划的浪漫角色扮演 真丢人,哦……看来我误会了，你们是在精心扮演某种情侣情境。实在惭愧。
+english_events_maingame:L20705,wormsacrifice,FIX,"Eh, it's okay. This whole ""bloodthirsty desert worm defiles village sacrifice"" routine of ours has admittedly gotten kind of stale anyway.","没事 整个""嗜血的沙漠虫"" 玷污了村庄的祭品 已经承认了 有点僵化了",嗨，没事。说真的，“嗜血沙漠巨虫玷污村庄献上的祭品”这套，玩久了也有点腻了。
+english_events_maingame:L20706,wormsacrifice,POLISH,Eight years of marriage will do that to you...,八年的婚姻会这样对你...,结婚八年，难免会这样嘛……
+english_events_maingame:L20707,wormsacrifice,FIX,"Ooh, honey, maybe you could spice things up this time by eating the merknight!",哦 亲爱的 这次吃麦可夜会 就能调味了,哦，亲爱的，要不这次把人鱼骑士吃了，添点新鲜感？
+english_events_maingame:L20708,wormsacrifice,POLISH,"N-No, please don't. I have no desire to be a part of your sex lives, or to get eaten.","不,请不要。 我并不想成为你性生活的一部分 或者被吃掉",不、不，请别这样。我既不想参与你们的性生活，也不想被吃掉。
+english_events_maingame:L20709,wormsacrifice,POLISH,"Still, I think helping these two spice up their marriage is the least we can do after we ruined their weird sex game.","不过,我认为帮助这两个人 调和他们的婚姻 至少我们能做 在我们毁了他们的怪异的性游戏。",不过，既然我们搅黄了人家的怪异性爱游戏，至少也该帮忙给她们的婚姻找点新鲜感吧。
+english_events_maingame:L20710,wormsacrifice,FIX,"Fuck yeah, it's time for some sexy meddling! %CURRENTPLAYERNAME%, got any ideas?","他妈的是的,它的时间 一些性感的干涉!  %CURRENTPLAYERNAME%有什么想法吗?",太对了，该来点性感的多管闲事了！%CURRENTPLAYERNAME%，有主意吗？
+english_events_maingame:L20711,wormsacrifice,POLISH,"""Spice up the relationship with... deeper commitment! It's time to meet the parents!""","""调和关系与. 更深的承诺! 时相会父母相会"".",“想让感情升温，就来点……更深的承诺！该见家长了！”
+english_events_maingame:L20712,wormsacrifice,POLISH,"""Try some roleplay classics: two strangers meet at a bar... but one of the strangers is an actual giant worm. We can provide the bar!""","""试一些角色扮演经典:两个陌生人在酒吧相遇. 但其中一位陌生人是真正的巨型虫 我们可以提供酒吧!""",“试试经典角色扮演：两个陌生人在酒吧邂逅……只是其中一个，真的是条巨型蠕虫。酒吧我们来提供！”
+english_events_maingame:L20716,wormsacrifice,POLISH,The couple decides to visit the desert worm's father. They knock on the entrance to his sand burrow.,夫妇决定去拜访沙漠虫的父亲. 他们敲打他的沙洞入口,这对伴侣决定去拜访沙漠巨虫的父亲。她们来到他的沙洞入口，敲了敲门。
+english_events_maingame:L20717,wormsacrifice,POLISH,"Hi, Dad. It's been a while, huh?","嗨,爸爸,你好吗? 好久不见,是吧?",嗨，爸。好久不见了，是吧？
+english_events_maingame:L20718,wormsacrifice,FIX,"""Wormilda! Hi!"" says the worm's dad, giving his daughter an affectionate hug-like squeeze with his full body. ""I missed you! It's been so long since your last visit.""","""沃米尔达! 嗨,""虫子的父亲,给他的女儿一个亲切的拥抱 和他全身的挤压。 ""我想念你!"" ""I missed you! 好久没你上次来这了""",“沃米尔达！你来啦！”巨虫爸爸用整个身子亲昵地挤了挤女儿，算是给了她一个拥抱。“想死我了！你可好久没来看我了。”
+english_events_maingame:L20719,wormsacrifice,POLISH,"I know, I'm sorry... I've been avoiding you because... well, I'd like to introduce you to someone. This is my wife.","我知道,对不起... 我一直躲着你,因为... 好吧,我想给你介绍个人。 这是我的妻子。",我知道，对不起……我一直躲着你，是因为……嗯，我想介绍个人给你认识。这是我妻子。
+english_events_maingame:L20720,wormsacrifice,POLISH,Hello! I'm Charlene. It's so nice to finally meet you!,"哈啰! 我是夏琳,我叫夏琳,我叫夏琳,我叫夏琳 终于见到你了",您好！我是夏琳。终于见到您了，真高兴！
+english_events_maingame:L20721,wormsacrifice,POLISH,"""Wormilda... I'm shocked. You married a... bipedal woman? She's... tiny.""","""沃米尔达... 师惊曰. 你嫁给了一个... 双人女人?  微细"".",“沃米尔达……这可真让我意外。你娶了个……长着两条腿的女人？她……好小啊。”
+english_events_maingame:L20722,wormsacrifice,POLISH,"Yes, I did. I know this must be a lot for you to process.","是的,我说了。 我知道这一定有很多事情要你处理",是的。我知道，这事你可能得花点时间消化。
+english_events_maingame:L20723,wormsacrifice,FIX,"I know you wanted me to marry a nice worm, impregnate and be impregnated by them in turn, and give you lots of grand-worms.","我知道你要我嫁给一个漂亮的虫子, 孕育并被他们孕育, 并给你很多外公虫。",我知道你希望我找条好蠕虫结婚，轮流让彼此怀孕，再给你生一大群虫孙孙。
+english_events_maingame:L20724,wormsacrifice,FIX,"But I'm coming out of the dunes! Charlene might be tiny, but she has a big heart... and we're in love!","但我要从沙丘出来! 夏琳可能很小,但她有一颗大心... 我们相爱了!",可今天我就要出沙丘、向你坦白了！夏琳虽然个头小，心胸却很宽广……而且我们相爱！
+english_events_maingame:L20725,wormsacrifice,POLISH,"""Oh, sweetheart, don't worry. If you love this woman, then I love her too, even if she has two legs and only one form of genitalia.""","""哦,亲爱的,别担心。 如果你爱这个女人,那么我也爱她,即使她有两条腿,只有一种生殖器形式"".",“哦，宝贝，别担心。你爱她，我就爱她，哪怕她有两条腿，而且只有一种生殖器。”
+english_events_maingame:L20726,wormsacrifice,FIX,"""Welcome to the family, Charlene! Are you hungry? I can make you my famous homemade dirtloaf!""","""欢迎来到这个家庭,夏琳! 你饿了吗? 我可以做你我著名的自制土豆""!",“欢迎加入这个家，夏琳！饿了吗？我给你做拿手的自制泥土饼！”
+english_events_maingame:L20728,wormsacrifice,POLISH,Hooray! Worm-love wins!,万岁! 虫爱取胜!,好耶！蠕虫的爱情胜利了！
+english_events_maingame:L20729,wormsacrifice,POLISH,Indeed... though I don't understand why we needed to tag along for this. I feel very out of place.,确实是... 但我不明白为什么我们得跟着他 我觉得很不合适,的确……不过，我不太明白我们为什么也要跟来。总觉得自己格格不入。
+english_events_maingame:L20730,wormsacrifice,POLISH,Would you say that you feel like... a fish out of water?,"你会说,你觉得... 一条出水的鱼?",你是不是想说……自己像条离了水的鱼？
+english_events_maingame:L20731,wormsacrifice,FIX,You gain +N2 SOUL for helping the couple rekindle their spark! But you lose -N2 HYPE from the inherent dullness of family reunions.,你帮助夫妇重燃火花 得到+N2 SOUL! 但你因为家庭重聚的内在乏味而失去N2 HYPE.,帮这对伴侣重燃爱火，你获得了 +N2 灵魂！可家庭聚会实在无聊，你又失去了 -N2 热度。
+english_events_maingame:L20733,wormsacrifice,POLISH,"Eh, I see what you're going for, but Wormilda and I actually DID meet at a bar, so that scenario wouldn't be very new or interesting.","我知道你要干什么,但沃米尔达和我确实在酒吧碰面, 这样的情况就不会是新奇的或有趣的。",嗯，我懂你的意思，可我和沃米尔达本来就是在酒吧认识的，重演一遍也没多新鲜有趣吧。
+english_events_maingame:L20734,wormsacrifice,FIX,"Then maybe you could try... role-reversal? Charlene, you could be the worm this time, and Wormilda could be the biped.","那你也许可以试试... 角色倒置吗? 夏琳,这次你可能是虫子,而沃米尔达可能是双鱼.",那不如试试……交换角色？夏琳，这次你来当蠕虫，沃米尔达来当两条腿的人。
+english_events_maingame:L20735,wormsacrifice,POLISH,"Ooh, that sounds hot actually. Now all we need is the bar!","哦,这听起来很热 实际上。 现在我们只需要酒吧!",哦，这听起来还挺性感。现在就差酒吧了！
+english_events_maingame:L20738,wormsacrifice,FIX,Good thing your usual antics don't abide by logic!,幸好你平常的怪人不守逻辑!,幸亏你们平时胡闹，从来不讲逻辑！
+english_events_maingame:L20739,wormsacrifice,FIX,"With some stuff you had stored in the car and plenty of good will, you improvise a pop-up bar.","你用你存放在车里的东西 和很多善意,你即兴发挥出一个弹出酒吧。",你们拿出车里存的杂物，凭着满腔热情，临时拼出了一间酒吧。
+english_events_maingame:L20742,wormsacrifice,FIX,"Welcome to The Bar, Miss Not-a-Giant-Worm! I'm your bartender Scott. What can I get you to drink?","欢迎来到酒吧,不吉安小姐! 我是你的酒保,你来做吧 斯科特. 需要喝点什么吗?",欢迎来到“酒吧”，绝对不是巨虫小姐！我是酒保斯科特，您要喝点什么？
+english_events_maingame:L20743,wormsacrifice,FIX,"I'll have a vodka-soda, please. And send that sexy worm over there a drink from me, too.","来杯伏特加苏打水 把那性感的虫子也送过来,我也要喝一杯",请来杯伏特加苏打。再替我请那边那条性感的蠕虫喝一杯。
+english_events_maingame:L20744,wormsacrifice,FIX,"Wormilda nods at her wife, who's currently doing the worm across the floor. Such a method actress!","沃米尔达点头给她的妻子,她现在正在对着地板做活虫. 这么有方法的女演员!",沃米尔达朝妻子的方向点了点头。夏琳正在地板上扭着身体跳毛毛虫舞。真是个方法派演员！
+english_events_maingame:L20745,wormsacrifice,FIX,"Hello, Miss Definitely-a-Giant-Worm! The woman over there sent you your usual drink: rum and dirt.","你好,绝对的吉安特虫小姐! 那边那个女人给你送来你平常的饮料: 朗姆酒和泥土.",您好，绝对是巨虫小姐！那边那位女士请您喝这个，您的老样子：朗姆酒兑泥土。
+english_events_maingame:L20746,wormsacrifice,FIX,Both women exchange flirty looks. Charlene rolls over to Wormilda's table.,两位女人都换了调情相貌 夏琳转去沃米尔达的桌子。,两位女士眉来眼去。夏琳一路滚到沃米尔达的桌旁。
+english_events_maingame:L20747,wormsacrifice,POLISH,"Thanks for the drink, cutie. Do you come to this bar often?","谢谢你的酒,可爱。 你经常来这酒吧吗?",谢谢你的酒，小可爱。你常来这家酒吧吗？
+english_events_maingame:L20748,wormsacrifice,FIX,"I do, by using my two legs. They are as inefficient for transport as they are anatomically sexy.","我用我的两条腿来做 它们在运输上的效率低, 而在解剖上是性感的。",常来，用我这两条腿走来的。它们走起路来有多低效，长得就有多性感。
+english_events_maingame:L20749,wormsacrifice,POLISH,Do you like them?,你喜欢吗?,喜欢吗？
+english_events_maingame:L20750,wormsacrifice,POLISH,"Well, they might be inefficient for transport, but I'm sure they can be useful for other stuff...",可能运输效率低 但我相信它们能用到其他东西...,嗯，走路是慢了点，不过我相信，这两条腿还能派上别的用场……
+english_events_maingame:L20751,wormsacrifice,POLISH,...like sex stuff.,...就像性爱一样,……比如做爱。
+english_events_maingame:L20752,wormsacrifice,POLISH,What a naughty mouth!,嘴真脏!,这张嘴可真不老实！
+english_events_maingame:L20753,wormsacrifice,POLISH,"Yup, that's my mouth: naughty and -- as per worm anatomy -- nearly indistinguishable from my anus.","是我的口: 淘气,而且 -- 和虫子解剖学一样 -- 几乎与我的肛门无法区分。",没错，我这张嘴就是这么不老实——而且按照蠕虫的生理构造，它跟我的肛门几乎没区别。
+english_events_maingame:L20754,wormsacrifice,POLISH,Really? I wouldn't mind... checking if that's true.,真的吗? 我不介意你这样... 检查是否属实。,真的？我不介意……亲自检查一下。
+english_events_maingame:L20756,wormsacrifice,FIX,"Oh, look, they're making out! Or... maybe eating ass? Hard to tell with Wormilda.","哦,看,他们正在亲热! 或者说... 吃屁股吗? 难说佛弥陀.",哦，快看，她们亲上了！还是说……在舔屁眼？沃米尔达这构造，真不好分。
+english_events_maingame:L20757,wormsacrifice,POLISH,I don't understand why we also need to be here for this. I feel very out of place.,我不明白为什么我们也需要在这里 为这个。 我觉得很不合适,我不明白，这种时候我们为什么也得在场。总觉得自己格格不入。
+english_events_maingame:L20758,wormsacrifice,POLISH,Would you say that you feel like... a fish out of water?,"你会说,你觉得... 一条出水的鱼?",你是不是想说……自己像条离了水的鱼？
+english_events_maingame:L20759,wormsacrifice,FIX,You gain +N2 SOUL for helping this couple rekindle their spark! But you lose -N2 STAMINA from the alcohol you gave them to do so.,你帮这对夫妇重燃火花 得到+N2 SOUL! 但你从你给他们的酒里输了N2 Stamina,帮这对伴侣重燃爱火，你获得了 +N2 灵魂！可为了助兴，把酒给了她们，你也失去了 -N2 体力。
+english_events_maingame:L20773,BathOracle,FIX,You're driving along with Hope riding shotgun when you glimpse something strange and unidentifiable off in the distance.,你和霍普一起开车 骑着猎枪 当你在远处看到一些奇怪和无法辨认的东西,你们开车赶路，希望女巫坐在副驾驶上。忽然，你瞥见远处有什么奇怪的东西，一时认不出来。
+english_events_maingame:L20775,BathOracle,POLISH,"Whoa, what is that? We have to pull over and see!","哇,这是什么? 我们得靠边停车看看!",哇，那是什么？必须停车看看！
+english_events_maingame:L20776,BathOracle,POLISH,"Yup, that seems totally reasonable. You all get out of the car and walk a bit to find...","是的,这似乎完全合理。 你们都下车走走...",行，这决定听着特别合理。你们全都下车，走过去一看……
+english_events_maingame:L20778,BathOracle,FIX,Three old men bathing each other in an antique washtub?,三个老头子在古董洗碗台上互相洗澡?,三个老爷爷，挤在一只老式浴桶里互相洗澡？
+english_events_maingame:L20779,BathOracle,FIX,Hey.,顿,嗨。
+english_events_maingame:L20780,BathOracle,POLISH,Can someone pass the soap?,有人能把肥皂递给我吗?,谁帮我递一下肥皂？
+english_events_maingame:L20781,BathOracle,FIX,"WHAT?! Speak up, dammit!","什麽? 说啊,该死的!",什么？！大点声，妈的！
+english_events_maingame:L20782,BathOracle,FIX,OMG. These old men must be the oracle! They're three wise seers who can answer our questions about the future!,"欧麦可。 这些老人一定是神谕! 他们三个聪明的见者,能回答我们对未来的问题!",我的天！这几位老人一定是先知！三位智慧的预言家，能回答我们有关未来的问题！
+english_events_maingame:L20783,BathOracle,FIX,"What? No. As a real seer, I'm offended; and as a practitioner of common sense, I'm SUPER offended. These guys aren't oracles at all!","什麽? 没有。 作为一个真正的观察者,我感到很生气;作为一个常识的实践者,我感到很生气。 这些人根本不是神谕!",什么？不是。作为真正的预言家，我感到被冒犯了；作为有常识的人，我简直被冒犯透了。这几位根本不是先知！
+english_events_maingame:L20784,BathOracle,POLISH,We'll see about that! O wise old dudes: are you seers who will answer any three questions we ask?,"等着瞧吧! 智者们:你们这些见识者,会回答我们提出的三个问题吗?",试试就知道啦！智慧的老伙计们：你们是能回答任意三个问题的先知吗？
+english_events_maingame:L20785,BathOracle,FIX,No.,没有。,不是。
+english_events_maingame:L20786,BathOracle,FIX,"Ah, seers, always speaking in riddles!","啊,见鬼,总是用谜语说话!",啊，先知嘛，说话总是打哑谜！
+english_events_maingame:L20787,BathOracle,POLISH,"Shit, I just wasted one of our questions! We only have two more. Scott, you ask one!","妈的,我浪费了我们的问题之一! 我们只有两只了  斯科特你问一个!",靠，我刚浪费了一次提问！只剩两次了。斯科特，你问一个！
+english_events_maingame:L20788,BathOracle,POLISH,"Hmm, okay... hey, seer bros, will there still be math in the future?","嗯,好吧... ... 说吧,我... 嘿,见识的弟兄们,将来还会有数学吗?",嗯，好……先知兄弟们，未来还会有数学吗？
+english_events_maingame:L20789,BathOracle,POLISH,Probably.,也许吧。,大概有吧。
+english_events_maingame:L20790,BathOracle,FIX,"Aw, nuts.",胡说八道,唉，真倒霉。
+english_events_maingame:L20791,BathOracle,FIX,"Well, since Hope is a ""skeptical Sally"", that means you get to ask the third question, %CURRENTPLAYERNAME%!","既然""希望""是""怀疑的莎莉"" 也就是说你可以问第三个问题 %CURRENTPLAYERNAME%!",既然希望女巫非要当个怀疑精，那第三个问题就交给你啦，%CURRENTPLAYERNAME%！
+english_events_maingame:L20792,BathOracle,POLISH,Ask the oracle to look into a future they can surely see: ask what it will be like to be an old person.,"问神谕,看看他们肯定能看见的未来:问一个老人会是什么样子。",问先知一个他们肯定了解的未来：变成老人会是什么感觉？
+english_events_maingame:L20793,BathOracle,POLISH,Seek the Oracle's Endless Knowledge: ask how many people fit in the tub.,求神道无尽知识:问浴缸里能容出多少人.,向先知的无尽智慧求教：这只浴桶能挤下几个人？
+english_events_maingame:L20795,BathOracle,FIX,That isn't even fortune-telling. That's just sharing an experience that happens to be placed in YOUR future. There's no MAGIC involved!,这甚至不是算命。 分享你未来的经验 也没有涉及MAGIC!,这根本不叫预言。只是让他们分享人生经历，而那恰好是你将来的经历罢了。跟魔力没有半点关系！
+english_events_maingame:L20796,BathOracle,FIX,"Ohhh, then that's what they must be missing! I'll get them some MAGIC from the car so they can use their powers!","哦,那他们一定是错过了! 我会从车里给他们拿些磁性磁共振 让他们能用上他们的力量",哦——所以他们缺的就是这个！我去车里拿点魔力过来，他们就能施展本领了！
+english_events_maingame:L20797,BathOracle,FIX,"Scott pours -N2 MAGIC into the tub. If it wasn't weird enough that monsters use magic to power their cars, it apparently also doubles as bath salts!","斯科特 倒入-N2 MAGIC入浴缸. 如果怪物用魔法来给汽车提供动力还不够奇怪,显然它也作为浴盐而双倍地存在!",斯科特往浴桶里倒入了 -N2 魔力。怪物拿魔力给车供能就够怪了，没想到这玩意儿还能当浴盐用！
+english_events_maingame:L20798,BathOracle,POLISH,"Thanks, sonny, that was kind of you. What were you askin' about again? What's it like to be old?","谢谢,小子,你真好心 你又问了些什么? 年出岁出,何所相会?",谢谢啊，小伙子，真有心。你们刚才问什么来着？变老是什么感觉？
+english_events_maingame:L20799,BathOracle,FIX,Well... your back hurts... and your joints hurt... and your knee hurts... whenever it rains... and also just in general...,"这个... 你的背好痛... ... . . . . 关节也受伤了... 膝盖会痛... 每当下雨... 并且,从一般的...",这个嘛……背也疼……关节也疼……膝盖也疼……一下雨就疼……不下雨也照样疼……
+english_events_maingame:L20800,BathOracle,FIX,AND EVERYONE AROUND YOU STARTS TALKING QUIETER!,每个人你开始谈论 Quieter!,而且身边所有人说话都越来越小声了！
+english_events_maingame:L20801,BathOracle,POLISH,"There's also your loved ones dying, and the world you knew becoming ""the past""...","还有你所爱的人死去, 而你所知道的世界成为""过去""...",还有，亲人朋友陆续离去，熟悉的世界变成了“从前”……
+english_events_maingame:L20802,BathOracle,POLISH,...but there's good things too.,. 但也有好东西,……不过，也有好处。
+english_events_maingame:L20803,BathOracle,FIX,"Like outgrowing your shame, allowing you to do fun stuff like take a bath in the middle of nowhere with your best friends!",就像让你的耻辱扩大 让你做一些有趣的事 比如在荒郊野外和你的好朋友洗澡,比如老了就不怕丢人了，想干点有趣的事就能干，像这样跟最好的朋友在荒郊野外泡个澡！
+english_events_maingame:L20804,BathOracle,FIX,And salami. Getting to eat all the salami you want is a great part of being old.,并作香草. 吃你想要的香肠 也是年老的伟大部分,还有萨拉米香肠。想吃多少就吃多少，也是变老的一大好处。
+english_events_maingame:L20805,BathOracle,POLISH,"Ooh, that's true! Everyone knows salami is a grown-up food!","哦,这是真的! 大家都知道,沙拉米是成年人的食物!",哦，说得对！谁都知道，萨拉米香肠是大人吃的东西！
+english_events_maingame:L20806,BathOracle,FIX,"Yep! And when you're old and retired, you can eat salami all day, every day! Even in the tub!","没错! 且老而退休后,能吃一日一日,一日一日! 连浴缸里都一样!",没错！老了退休了，就能天天吃、从早吃到晚！泡澡也照吃！
+english_events_maingame:L20807,BathOracle,POLISH,"Hey, I told you NOT to bring your salami into the tub! You'll get the water all greasy!","嘿,我告诉过你不要把你的香肠放进浴缸里! 你会得到的水 油腻!",喂，我不是叫你别把萨拉米香肠带进浴桶吗？水都要被你弄得油乎乎的了！
+english_events_maingame:L20808,BathOracle,FIX,"DID YOU SAY SALAMI?! PASS THAT SALAMI, WILBERT!","你说萨拉米? 过萨拉米,维尔伯特!",你说萨拉米香肠？！维尔伯特，递点过来！
+english_events_maingame:L20809,BathOracle,FIX,"See, Hope? I told you these seers were full of wisdom about the future!","看到没,希望? 我告诉你,这些见者充满了对未来的智慧!",看吧，希望女巫？我就说，这几位先知对未来有满肚子的智慧！
+english_events_maingame:L20810,BathOracle,POLISH,*sigh*...,*叹息*,*叹气*……
+english_events_maingame:L20811,BathOracle,FIX,"Man, you can't wait to get old and take salami-baths! You gain +N2 MIND from the oracles' wisdom.","男人,你等不及要老了 和吃香肠浴! 你从神谕的智慧中获得了+N2 MID.",哎呀，你已经迫不及待想变老，边吃萨拉米香肠边泡澡了！先知们的智慧让你获得了 +N2 头脑。
+english_events_maingame:L20813,BathOracle,FIX,That isn't even fortune-telling. That's just using logic to reach a plausible conclusion. There's no MAGIC involved!,这甚至不是算命。 利用逻辑得出一个合理的结论 也没有涉及MAGIC!,这根本不叫预言。只是用逻辑得出合理的结论罢了。跟魔力没有半点关系！
+english_events_maingame:L20814,BathOracle,FIX,"Ohhh, then that's what they must be missing! I'll get them some MAGIC from the car so they can use their powers!","哦,那他们一定是错过了! 我会从车里给他们拿些磁性磁共振 让他们能用上他们的力量",哦——所以他们缺的就是这个！我去车里拿点魔力过来，他们就能施展本领了！
+english_events_maingame:L20815,BathOracle,FIX,"Scott pours -N2 MAGIC into the tub. If it wasn't weird enough that monsters use magic to power their cars, it apparently also doubles as bath salts!","斯科特 倒入-N2 MAGIC入浴缸. 如果怪物用魔法来给汽车提供动力还不够奇怪,显然它也作为浴盐而双倍地存在!",斯科特往浴桶里倒入了 -N2 魔力。怪物拿魔力给车供能就够怪了，没想到这玩意儿还能当浴盐用！
+english_events_maingame:L20816,BathOracle,POLISH,"Thanks, sonny, that was kind of you. What were you askin' about again? How many people can fit in here?","谢谢,小子,你真好心 你又问了些什么? 这里能容纳多少人?",谢谢啊，小伙子，真有心。你们刚才问什么来着？这里能挤下几个人？
+english_events_maingame:L20817,BathOracle,FIX,"Well, in my long life, I've learned that the best answers are gained through experience. Let's find out how many it can fit together!","在我漫长的生活中,我学会了最好的答案是通过经验获得的. 让我们看看它能合在一起多少个!",我活了这么多年，悟出一个道理：最好的答案，要靠亲身实践。咱们一起试试，到底能挤下几个！
+english_events_maingame:L20818,BathOracle,POLISH,"Ooh, group bath in the desert! I'm in!","哦,在沙漠里集体洗澡! 我进去了!",哦，沙漠集体泡澡！算我一个！
+english_events_maingame:L20821,BathOracle,FIX,"You, Polly, and Scott change into swimwear and get into the tub.","你,你是谁? 波莉,以及 斯科特 换上泳衣,然后去浴缸",你、波莉和斯科特换上泳装，挤进了浴桶。
+english_events_maingame:L20822,BathOracle,POLISH,"Man, who would've thought bathing in the middle of nowhere could be so relaxing?",谁会想到在荒野中洗澡会这么放松?,谁能想到，在荒郊野外泡个澡，居然这么放松？
+english_events_maingame:L20823,BathOracle,POLISH,Yup! Life's full of simple pleasures like these. You learn to appreciate 'em when you get older.,"没错! 生活充满了简单的乐趣,像这样。 你长大后会学会欣赏他们",是啊！生活里到处都有这样简单的小乐趣。上了年纪，就懂得珍惜啦。
+english_events_maingame:L20824,BathOracle,POLISH,"Well, SOMEONE hasn't learned that yet, apparently...","很明显,有人还没学过这个",不过，某个人显然还没学会呢……
+english_events_maingame:L20825,BathOracle,POLISH,...Are you talking about me? I am NOT getting in a bath with you guys and three strange old men.,你在说我吗? 我不会和你们和三个奇怪的老人 一起洗澡的,……在说我？我才不要跟你们，还有三个陌生老头一起泡澡。
+english_events_maingame:L20826,BathOracle,FIX,"But it's so nice! And you seem stressed, Hope. What's better for stress than a warm bath?","但这是如此的美好! 你似乎很紧张,希望。 何以能比取暖浴更能承受压力?",可是真的很舒服！希望女巫，你看起来压力好大。还有什么比泡个热水澡更解压呢？
+english_events_maingame:L20827,BathOracle,POLISH,I think she's just being prideful 'cause she doesn't wanna admit she was wrong about everything.,我觉得她只是很骄傲 因为她不想承认她错了,我看她就是放不下面子，不想承认自己全说错了。
+english_events_maingame:L20828,BathOracle,POLISH,"Ugh, it DOES look nice...","唉,它看起来不错...",唉，看着确实挺舒服的……
+english_events_maingame:L20829,BathOracle,FIX,"FINE! I'll get in. But if you ever tell anyone about this, your only future will be one filled with pain.",不错! 我进去了 但如果你告诉别人这件事 你唯一的未来就是充满痛苦,行！我泡。但谁敢把这事说出去，我保证你以后的日子只有痛苦。
+english_events_maingame:L20830,BathOracle,POLISH,"Yeah, whatever. Shut up and get in, gurl!","是啊,随便。 闭嘴,快进来,小妞!",行行行，少废话，快进来吧姐妹！
+english_events_maingame:L20832,BathOracle,FIX,"You all spend a while in the bath, gaining +N2 STAMINA from your relaxed muscles -- and you learn that the tub can fit at least seven people! The more you know!",你们都花一阵子在洗澡 从放松的肌肉里获得+N2STAMINA--你们学会了浴缸至少可以容纳7个人! 越多你就会知道!,你们一起泡了会儿澡，放松的肌肉让你获得了 +N2 体力——还顺便证实了，这只浴桶至少能装下七个人！又长知识了！
+english_events_maingame:L20846,RoadBandits,FIX,"Suddenly, four horseriding bandits come out of nowhere and box you all in! You're forced to stop the car.","突然,四只骑马的土匪突然从天而降, 把你全部关进监狱里去! 你被迫停车了",突然，四个骑马的劫匪不知从哪儿冲出来，把你们团团围住！你们被迫停了车。
+english_events_maingame:L20848,RoadBandits,POLISH,We've got you surrounded! Come out with your hands up and your money out!,"我们包围了你们! 举起手来,把钱拿出来!",你们被包围了！举起手来，把钱拿出来，给我下车！
+english_events_maingame:L20849,RoadBandits,FIX,"Here, have this -N2 MONEY! It's ALL we have!","给,拿着这个,N2钱! 我们只有这些了!",给，拿着这 -N2 金钱！我们就这么多了！
+english_events_maingame:L20850,RoadBandits,FIX,(It's nooooooot.),(出无相.,（才——不——是——呢。）
+english_events_maingame:L20851,RoadBandits,FIX,"What about you, finn-guy? Give us your wallet!","你呢,芬 -盖? 把你的钱包给我们!",那个叫芬恩的，你呢？钱包交出来！
+english_events_maingame:L20852,RoadBandits,POLISH,"Eh, okay. Good luck with that.","嗯,还好。 祝你们好运",呃，行啊。祝你们好运。
+english_events_maingame:L20853,RoadBandits,POLISH,Hey! There's nothing in here! Where's your money?,嘿 这里什么都没有! 你的钱呢?,喂！里面什么都没有！你的钱呢？
+english_events_maingame:L20854,RoadBandits,POLISH,You can ask my boss. Maybe you'll have better luck than me.,你可以问我老板 也许你比我运气好,问我老板去吧。没准你们比我运气好。
+english_events_maingame:L20855,RoadBandits,POLISH,"You think you're funny, huh? Stop messing with us, or we'll make you regret it.","你觉得你很有趣,是吧? 别耍我们了,否则我们会让你后悔的",觉得自己很幽默，是吧？别耍我们，不然有你好后悔的。
+english_events_maingame:L20856,RoadBandits,POLISH,I doubt you can make me regret anything at this point. I have too many regrets already.,我怀疑你现在能让我后悔什么 我已经后悔太多,我已经够后悔了，不觉得你们还能让我多后悔点什么。
+english_events_maingame:L20857,RoadBandits,FIX,"And anyway, I'm not messing with anyone; I'm seriously broke. Most of my salary is paid in ""experience"".","总之,我没有和任何人乱搞,我严重破产了。 我的工资大部分是用""经验""支付的.",再说我没耍谁，我是真穷。我的工资，大部分都是拿“经验”抵的。
+english_events_maingame:L20858,RoadBandits,FIX,"Wanna steal my ""experience""? I wouldn't recommend it, 'cause it certainly wasn't a pleasant experience; but please, be my guests.","想偷我的""经验""吗? 我建议不要,因为那肯定不是一次愉快的经历;但是请做我的客人.",想抢我的“经验”？不推荐，毕竟都不是什么愉快的经历。不过你们要想要，尽管拿去。
+english_events_maingame:L20859,RoadBandits,FIX,...Hooray?,霍雷吗?,……好耶？
+english_events_maingame:L20860,RoadBandits,POLISH,"Uh... look, we usually never ask our victims this, but... are you okay, bud?","额... 我们通常不会问受害者,但是... 你没事吧,伙计?",呃……虽然我们一般不问受害者这个，不过……哥们儿，你还好吗？
+english_events_maingame:L20861,RoadBandits,FIX,Heh... that question's above my pay grade.,哦... 这个问题的级别高于我的薪水。,呵……我这点工资，可不负责回答这么难的问题。
+english_events_maingame:L20862,RoadBandits,FIX,"(Polly, should we do something? Finn is really bumming me out...)",(波莉要不要我们做点什么? 芬恩真的让我兴奋... ),（波莉，咱们要不要做点什么？芬恩这样，搞得我也好难过……）
+english_events_maingame:L20863,RoadBandits,FIX,(We should absolutely do something. No negative nihilism allowed on this road trip! We gotta help Finn find meaning in life again!),(我们绝对应该做点什么) 这条路不允许消极的虚无主义! 我们必须帮助芬恩找到人生的意义!),（必须做点什么。这趟公路旅行不许搞消极虚无那一套！得帮芬恩重新找到人生的意义！）
+english_events_maingame:L20864,RoadBandits,POLISH,"Okay, guess that's more important than stopping these guys from robbing you. How will you bring joy back to Finn's life?","好吧,猜这比阻止这些家伙抢劫你更重要。 你怎么给芬的生活带来快乐?",好吧，看来这比阻止他们抢你们还重要。要怎么让芬恩的生活重新有点快乐呢？
+english_events_maingame:L20865,RoadBandits,FIX,Finn is jaded by a life that's too mundane. He needs adventure... he needs to give himself over to a romantic life of banditry!,芬恩被太平凡的生活所迷惑 他需要冒险... 他需要把自己交给 浪漫的盗匪生活!,芬恩是被平淡的生活磨麻木了。他需要冒险……需要投身浪漫的劫匪生涯！
+english_events_maingame:L20866,RoadBandits,FIX,"Help Finn look for the something, anything that's truly valuable in his life... something worth being stolen!",帮助芬寻找他生命中真正有价值的东西... 值得被偷的东西!,帮芬恩找找，他人生中究竟还有什么真正宝贵的东西……什么都行，至少得值得人家抢！
+english_events_maingame:L20868,RoadBandits,FIX,NOICE! I've been meaning to get into a life of crime! Let's do it!,小声点! 我一直想进入犯罪生活! 让我们开始吧!,妙啊！我早就想走上犯罪道路了！干吧！
+english_events_maingame:L20871,RoadBandits,FIX,"And so, without a second thought, you and your friends begin a life of banditry. You gain +N2 HYPE!","所以,没有第二个想法, 你和你朋友开始 抢劫的生活。 你得到了+N2 HYPE!",于是，你们想都没想，就开始了劫匪生涯。你获得了 +N2 热度！
+english_events_maingame:L20872,RoadBandits,POLISH,"But one day, the bandits call you all in for a meeting.","但有一天,匪徒们叫你们来开会",可有一天，劫匪们把你们叫去开会。
+english_events_maingame:L20874,RoadBandits,POLISH,"Listen, guys, we need to talk.","听着,伙计们,我们需要谈谈。",各位，听着，咱们得谈谈。
+english_events_maingame:L20875,RoadBandits,POLISH,"We appreciate how much you've helped us commit crimes; but in the end, we welcomed you to our group because we were worried about Finn.","我们欣赏你帮助我们犯罪的程度;但最后,我们欢迎你加入我们的团体,因为我们担心芬恩.",你们帮忙犯了那么多案，我们很感激。不过说到底，让你们入伙，是因为我们担心芬恩。
+english_events_maingame:L20876,RoadBandits,POLISH,"Yeah, Finn seemed so jaded... so devoid of a spark in his life...","是的,芬恩看起来很... 他生命中没有火花...",对啊，芬恩看着太麻木了……生活里一点火花都没了……
+english_events_maingame:L20877,RoadBandits,POLISH,"We knew we had to do something, 'cause banditry isn't just about robbing people; it's about escaping the numbness of traditional society... by robbing people.","我们知道我们必须做点什么,因为盗匪不仅仅是抢劫,而是逃避传统社会的麻木...... 抢劫别人",我们知道不能坐视不管。做劫匪，图的不光是抢钱，也是要摆脱传统社会的麻木……靠抢钱来摆脱。
+english_events_maingame:L20878,RoadBandits,POLISH,"But we're still quite worried about you, Finn.","但我们仍然很担心你,芬恩。",可我们还是很担心你，芬恩。
+english_events_maingame:L20879,RoadBandits,POLISH,About me? But I've been doing my best!,关于我? 但我已经尽力了!,担心我？可我一直很努力啊！
+english_events_maingame:L20880,RoadBandits,POLISH,"Exactly, that's the problem. You're just too efficient.","没错,这就是问题所在。 你只是太有效率了。",对，问题就在这儿。你效率实在太高了。
+english_events_maingame:L20881,RoadBandits,FIX,"You're working super hard to manage our finances, schedule our heists, and keep us on top of our tax fraud.",你努力管理我们的财务 安排我们的抢劫 并让我们在税收欺诈之上。,管账、安排劫案、跟进偷税漏税的进度，你每样都做得特别卖力。
+english_events_maingame:L20882,RoadBandits,FIX,You've turned banditry into a 9-to-5 job.,你把盗匪变成9比5的工作了,你把当劫匪干成了朝九晚五的上班。
+english_events_maingame:L20883,RoadBandits,POLISH,But we've seen the passion you put in that... I'd say office work is to you what banditry is to us. Maybe what made you miserable wasn't your career... but your specific job.,但是我们已经看到了你所投入的激情... 我想说办公室的工作是对你来说什么是盗匪对我们。 也许让你痛苦的不是你的事业... 但你的具体工作。,可我们也看得出来，你干这些事很有热情……对你来说，办公室工作就像抢劫之于我们。让你痛苦的，也许不是这行，而是现在这份工作。
+english_events_maingame:L20884,RoadBandits,POLISH,Hmmm... that could be true. My boss there is a massive asshole.,那个... 这可能是事实。 我老板有个大混蛋,嗯……可能真是这样。我那个老板就是个大混蛋。
+english_events_maingame:L20885,RoadBandits,FIX,"Ah, we know a thing or two about that. We used to have an awful boss, but then we staged a mutiny and stabbed him. Like... a lot.","我们对此一两件事都了解 我们以前有个可怕的老板, 但后来我们策划了一场兵变,刺死了他。 喜欢... 经常",啊，这方面我们熟。以前我们老板也烂透了，后来我们造了反，把他捅了。捅了……好多刀。
+english_events_maingame:L20886,RoadBandits,FIX,"Have you tried stabbing your boss, Finn? Sometimes that does the trick.","你试过刺你老板吗,芬? 有时候,这能做诡计。",芬恩，试过捅你老板吗？有时候真管用。
+english_events_maingame:L20887,RoadBandits,POLISH,...Stabbing my boss probably wouldn't reflect well in my yearly performance review.,刺我老板可能不会 很好地反映在我的年度业绩审查。,……捅了老板，我的年度绩效考核大概不会太好看。
+english_events_maingame:L20888,RoadBandits,FIX,"Fair enough. Then I hope you eventually find a better boss, one that brings the thrill of menial office work back into your heart.",说得没错 我希望你最终能找到一个更好的老板 一个能让你的办公室充满激情的老板,也是。那希望你早日找到个好老板，让你重新爱上办公室里那些琐碎杂活。
+english_events_maingame:L20890,RoadBandits,POLISH,"Well, that was fun while it lasted. You part ways with the bandits and hit the road again... but you don't get back the MONEY they stole from you.","玩得很开心 你和匪徒分开,又上路了... 但你不能拿回他们从你那偷来的金钱",好吧，这段日子玩得还挺开心。你们告别劫匪，重新上路……不过，被抢的金钱是拿不回来了。
+english_events_maingame:L20892,RoadBandits,FIX,"Good thinking, %CURRENTPLAYERNAME%! Surely Finn has something valuable other than MONEY (which he has none of)!","不错的想法, %CURRENTPLAYERNAME%! 芬恩除了货币外,肯定还有宝贵的东西。",好主意，%CURRENTPLAYERNAME%！除了金钱，芬恩肯定还有别的宝贝——毕竟钱他是一分没有！
+english_events_maingame:L20893,RoadBandits,FIX,What about a meaningful memento from Finn's mother; something nostalgic -- and very expensive -- that reminds him of the motherland...,Finn母亲的纪念品怎么样? 怀旧的 -- -- 非常昂贵的 -- -- 使他想起祖国...,有没有芬恩妈妈留的纪念品？要有纪念意义，很怀旧——还很贵——能让他想起故土的那种……
+english_events_maingame:L20894,RoadBandits,POLISH,Like her credit card! That glorious card which brought you so much wealth and happiness as a boy... got anything like that?,像她的信用卡一样! 光荣的牌 带给你这么多财富和幸福 作为一个男孩... 找到类似的东西了吗?,比如她的信用卡！那张神奇的卡，在你小时候给你带来了多少财富和幸福啊……有这种东西吗？
+english_events_maingame:L20895,RoadBandits,POLISH,Eh... no.,额... 没有。,呃……没有。
+english_events_maingame:L20896,RoadBandits,POLISH,"What about your tie, Finn? It's a key part of your whole ""it's Monday at the office and I'm dead inside"" aesthetic, so it must be important to you.","你的领带呢,芬恩? 这是你整个""周一在办公室里 我死了""美学的关键部分 所以这对你来说一定很重要",芬恩，你的领带呢？你那一整套“周一来上班，心里已死透”的造型，全靠它点睛，它对你一定很重要吧。
+english_events_maingame:L20897,RoadBandits,POLISH,...What?,什麽?,……什么？
+english_events_maingame:L20898,RoadBandits,FIX,You guys have it all wrong! Finn's biggest wealth isn't material; it's SPIRITUAL.,你们都错了! 芬恩最大的财富不是物质的;而是SPIRITUAL.,你们都搞错了！芬恩最宝贵的财富，不是物质，是精神上的。
+english_events_maingame:L20899,RoadBandits,POLISH,"Finn may feel miserable in his day-to-day life, but he still finds meaning in rare, precious moments amidst the routine...","芬恩在日常生活中可能感到痛苦,但他仍然在日常中发现珍贵的稀有时刻的意义. .",日复一日的生活可能让芬恩痛苦，可他依然能在平淡中那些罕见而珍贵的瞬间，找到意义……
+english_events_maingame:L20900,RoadBandits,POLISH,An unforgettable night out with the co-workers; a moment of camaraderie in the office; even escaping his routine by hitting the road with us...,"和同事一起度过难忘的夜晚,在办公室里结交一阵友情,甚至与我们一起出道以逃避他所行的习惯......",跟同事一起度过难忘的夜晚，在办公室感受到彼此的情谊，或者像这样暂时跳出日常，跟我们一起上路……
+english_events_maingame:L20901,RoadBandits,POLISH,...those moments make everything else worth it.,那一刻让其他一切变得值得,……正是这些瞬间，让其余一切都变得值得。
+english_events_maingame:L20902,RoadBandits,FIX,"Sure... but that touchy-feely shit isn't something we can resell for profit, so I guess we're taking the tie.",当然... 但是那些触摸的狗屎不是我们能卖出去赚钱的 所以我猜我们得打领带了,行吧……可这些煽情的玩意儿没法转手卖钱，所以我们还是拿领带吧。
+english_events_maingame:L20904,RoadBandits,FIX,The bandits leave with your MONEY and Finn's tie.,匪徒带着你的财团和芬恩的领带离开.,劫匪们拿着你们的金钱和芬恩的领带走了。
+english_events_maingame:L20905,RoadBandits,POLISH,"Well, there goes my favorite tie... good thing I have twelve identical ones.",我最喜欢的领带... 幸好我有12个一样的,得，我最喜欢的领带没了……幸好还有十二条一模一样的。
+english_events_maingame:L20906,RoadBandits,POLISH,"And hey, %CURRENTPLAYERNAME%: I should thank you.","还有,嘿, %CURRENTPLAYERNAME%:我应该谢谢你.",对了，%CURRENTPLAYERNAME%，我得谢谢你。
+english_events_maingame:L20907,RoadBandits,POLISH,Your words made me think: I focus so much on the things I hate in life that I've forgotten to cherish the things I love. Thanks!,"你的话让我想到:我把太多的精力集中在生活中我所憎恨的东西上,这些东西我忘记了珍惜我所爱的东西. 谢谢!",你那番话让我想明白了：我总盯着生活里讨厌的事，反倒忘了珍惜自己喜欢的东西。谢谢！
+english_events_maingame:L20908,RoadBandits,FIX,"You're rewarded with a rare, hopeful smile from Finn, and +N2 SOUL!",芬恩给你的难得的充满希望的微笑 和+N2 SOUL!,芬恩难得露出了一个满怀希望的微笑。你收获了这份回报，还有 +N2 灵魂！

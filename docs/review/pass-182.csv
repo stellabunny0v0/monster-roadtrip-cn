@@ -1,0 +1,215 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_maingame:L18172,theinformant,POLISH,A cop car signals for you to pull over. Ugh...,警车信号让你停车 唉哟...,警车示意你靠边停车。唉……
+english_events_maingame:L18175,theinformant,POLISH,"Well, well, well, look what we have here... do you know how fast you were going?",看看我们这里... 你知道你跑多快吗?,哟，哟，哟，看看这是谁……知道自己刚才开多快吗？
+english_events_maingame:L18176,theinformant,FIX,"Um... somewhere between ""sorta"" and ""super duper?""","那个... 介于""sorta""和""超级杜伯""之间?",呃……介于“有点快”和“超级无敌快”之间？
+english_events_maingame:L18177,theinformant,POLISH,Exactly! And what's this?!,没错! 这是什么?,没错！那这又是什么？！
+english_events_maingame:L18178,theinformant,FIX,"It's the center console of the car. Man, I'm aceing this quiz!","车中央操纵所. 伙计,我正在试卷",汽车的中控台。天哪，这测验我答得太好了！
+english_events_maingame:L18179,theinformant,FIX,Oh yeah? Then let's see how you explain this HUGE BAG OF MARRIAGE-IGUANA we just found in your center console!,是吗? 那让我们来解释一下 我们刚刚在你中央控制台上发现的 结婚的HUGE BAG IGUANA!,哦，是吗？那解释一下，为什么我们刚从中控台里，搜出了这么大一袋“结婚鬣蜥”，marriage-iguana！
+english_events_maingame:L18180,theinformant,FIX,"You mean the bag you blatantly put it in there yourself? Also, it's pronounced ""marijuana"".","你是说你公然放进袋子里的那个? 并且,它被宣告为""马里华纳"".",你是说，你们刚才明目张胆塞进去的那袋？还有，那叫 marijuana，大麻。
+english_events_maingame:L18181,theinformant,POLISH,Only a true drug-user would know what it's really called! You're under arrest!,只有真正的吸毒者才会知道它的真正名称! 你被捕了! ! ! 你被捕了! ! ! 你被捕了! ! 你被捕了! 被捕了! 被捕了! 被捕了!,只有真正吸毒的人，才知道它叫什么！你被捕了！
+english_events_maingame:L18182,theinformant,FIX,Or... we have an offer for you. You can avoid arrest if you become a police informant and infiltrate the local mob for us!,或者说... 我们有个提议要给你 如果你成为警察线人 并渗透到当地的黑帮里 就可以避免逮捕我们,或者……我们有个提议。给警方当线人，替我们打入本地黑帮，就能免于逮捕！
+english_events_maingame:L18183,theinformant,POLISH,"Oh, really? Why didn't you just start with that? I'm in!",是吗? 你为什么不从那开始? 我进去了!,哦，真的？早说嘛！我干了！
+english_events_maingame:L18184,theinformant,POLISH,You are? Just like that?,是吗? 就这样?,你同意了？这么干脆？
+english_events_maingame:L18185,theinformant,FIX,"Yeah, I've always wanted to be a whistleblower for the mob! I even put it as my dream career in my elementary school yearbook!","是啊,我一直想成为 吹哨人暴徒! 我甚至把它当作我的梦想事业 在我的小学年鉴!",对啊，我一直想当揭发黑帮的线人！小学毕业纪念册里，梦想职业那栏我填的就是这个！
+english_events_maingame:L18186,theinformant,POLISH,"I'm pretty sure I either wanna be a pro athlete or a star scientist, but I could try being a police informant for a bit. I'm in too!","我敢肯定,我要么想成为一名职业运动员 要么是一名明星科学家 但我可以尝试做一个警察线人 一点点。 我也进去了!",我应该是想当职业运动员，或者明星科学家，不过也能先当一阵警方线人。我也干！
+english_events_maingame:L18187,theinformant,POLISH,"It's great you're both so onboard! We only need one informant, though, so decide who it'll be amongst yourselves.","很高兴你们都这么上船! 但我们只需要一个线人, 所以决定谁在你们中间。",真高兴你俩都这么积极！不过只需要一个线人，你们自己决定谁来吧。
+english_events_maingame:L18188,theinformant,FIX,"You'll also need a good cover story. We already exhausted all our creativity on this drug-planting farce, so if you kids have any ideas...","你还需要一个很好的封面故事。 我们已经用尽了我们所有的创造力 在这场毒品种植的闹剧, 所以,如果你们有想法...",还得有个好用的掩护身份。刚才栽赃毒品那一出，把我们的创意全用光了。你们要是有什么主意……
+english_events_maingame:L18189,theinformant,POLISH,"I bet %CURRENTPLAYERNAME% does! Boo, which of us should go undercover, and what should our cover story be?","我打赌 %CURRENTPLAYERNAME% 没错! 嘘,我们谁该去卧底, 我们的封面故事应该是什么?",%CURRENTPLAYERNAME% 肯定有！宝，我们谁去卧底？用什么身份？
+english_events_maingame:L18192,theinformant,FIX,"Scott, the cartoonist of the mob. The mob won't ever suspect the friendly cartoonist who draws a zany picture of them once a month would ever betray their trust.",斯科特暴徒的漫画家 暴徒们绝不会怀疑 友好的漫画家 他们每月画一张赞美的照片 将会背叛他们的信任,斯科特，黑帮漫画家。每月替他们画张搞笑漫画的友善画师，怎么可能背叛他们的信任？黑帮绝对想不到。
+english_events_maingame:L18193,theinformant,POLISH,"Polly, mob accountant!",波莉黑道会计!,波莉，黑帮会计！
+english_events_maingame:L18197,theinformant,FIX,It's decided! Scott goes to the mob headquarters and is soon deep in character as the mob cartoonist. Cue +N2 HYPE for having a fun job!,已经决定了!  斯科特 很快成为了黑道漫画家 玩得开心的Cue + N2 HYPE!,决定了！斯科特来到黑帮总部，很快就投入了黑帮漫画家的角色。工作这么好玩，获得 +N2 热度！
+english_events_maingame:L18199,theinformant,FIX,"Good morning, Boss! Ready for your weekly caricature?","早上好,头儿! 准备好你的每周漫画了吗?",早上好，老大！准备好本周的夸张肖像画了吗？
+english_events_maingame:L18200,theinformant,FIX,"""You bet I am!"" says the mob boss. ""This week, howsabout you draw me leaning all suave-like on the street sign where our secret headquarters is located?""","""你打赌我是""黑道老大说. ""这周你画我如何 倾斜所有像 苏维埃一样的街道标志 我们的秘密总部所在的街道标志?""",“那当然！”黑帮老大说，“这周把我画得潇洒一点，靠在咱们秘密总部那条街的路牌上，怎么样？”
+english_events_maingame:L18201,theinformant,POLISH,"I can't refuse that offer, Boss. Look, I drew you as a chef!","我不能拒绝那个提议,老板 你看,我画你做厨师!",这个提议，我没法拒绝，老大。看，我把你画成厨师了！
+english_events_maingame:L18202,theinformant,FIX,"""My turn!"" says Shortstack Grueber. ""Can you sketch me tall and scary, with the cold glare of someone who murdered five people and buried them in Central Park?""","""轮到我了""说""肖特斯塔克·格鲁伯"". ""你能用一个谋杀了五个人 把他们埋在中央公园的人的冷光来画我高高而恐怖吗?""",“轮到我了！”矮个子格鲁伯说，“能把我画得又高又吓人吗？眼神要冰冷，像个杀了五个人、把尸体埋在中央公园的家伙。”
+english_events_maingame:L18203,theinformant,FIX,"Okie dokie, Shortstack. You can be the boss's scary sous chef in this drawing!","OKie dokie, Shorttack. 东尼,你应该知道,你应该知道,我是谁 你在这幅画里可以当老板的吓人大厨",没问题，矮个子。这幅画里，你就是老大的凶狠副厨！
+english_events_maingame:L18204,theinformant,FIX,"""What about me?"" asks Scarface Stabber. ""I wanna be on the boss' chef posse!""","""我怎么办?"" 问""疤面人刺客"" ""我想成为老板的厨师""",“那我呢？”刀疤捅人狂问，“我也想加入老大的厨师团！”
+english_events_maingame:L18205,theinformant,POLISH,I can do that. Want me to draw you with your favorite steak knife? I know it's your weapon of choice!,我可以做到这一点。 要我用你最喜欢的牛排刀画你吗? 我知道这是你选择的武器!,没问题。给你画上最喜欢的牛排刀怎么样？我知道那是你最趁手的凶器！
+english_events_maingame:L18206,theinformant,POLISH,"""That'd be great! I really want you to capture my stabbiness! You can borrow my knife for reference. Just don't show it to any cops, haha!""","""那会很棒! 我真的希望你抓住我的刺! 你可以借我的刀作为参考 千万别给警察看,哈哈!""",“太棒了！一定要画出我那股爱捅人的劲儿！刀借你参考，别拿给警察看就行，哈哈！”
+english_events_maingame:L18207,theinformant,POLISH,Yeah... right...,对... 对...,嗯……当然……
+english_events_maingame:L18210,theinformant,FIX,"Later, when Scott's debriefing the cops...","以后,当 斯科特警方正在向警方汇报...",后来，斯科特向警察汇报……
+english_events_maingame:L18212,theinformant,POLISH,...and that's all the evidence I got. Will it be enough?,...这就是我的全部证据。 够不够?,……证据全在这儿了。够吗？
+english_events_maingame:L18213,theinformant,POLISH,It's more than enough! We've got plenty of probable cause to throw these mobsters in jail now!,够多了! 我们有很多可能的理由 把这些黑道分子关进监狱!,绰绰有余！这些理由，足够把那帮黑帮分子关进牢里了！
+english_events_maingame:L18214,theinformant,POLISH,"Wait, you're gonna arrest them? But these guys are my friends! They trusted me!",等等 你要逮捕他们吗? 但他们是我的朋友! 他们信任我!,等等，你们要抓他们？可他们是我朋友！他们信任我！
+english_events_maingame:L18215,theinformant,FIX,"These aren't your friends, son; they're hardened criminals. They'd sell anyone out to save their own asses.","这不是你的朋友,儿子 他们是硬化的罪犯 他们出卖任何人是为了救自己的屁股",孩子，他们可不是你朋友，都是惯犯。为了保住自己，谁都能出卖。
+english_events_maingame:L18216,theinformant,FIX,So thanks for agreeing to sell them out to save your own ass from jail. Hopefully we can work together again soon!,谢谢你同意卖掉他们 让你自己从监狱里逃出来 希望我们能很快再合作!,所以，感谢你为了不坐牢，答应出卖他们。希望很快还有机会合作！
+english_events_maingame:L18218,theinformant,POLISH,"Man... I know I did the good boi thing, so why do I feel so bad?","哥们... 我知道我做了好事,我为什么觉得这么糟糕?",天哪……我明明做了乖孩子该做的事，为什么心里这么难受？
+english_events_maingame:L18219,theinformant,FIX,"That day, Scott learned being the narc doesn't always mean being the good guy. You lose -N2 SOUL.","那天,我说, 斯科特 学着当缉毒员 并不总是意味着做一个好人 你输了 -N2 SOUL。",那天，斯科特明白了：告密的人，不一定就是好人。你损失 -N2 灵魂。
+english_events_maingame:L18223,theinformant,POLISH,It's decided! Polly goes to the mob headquarters to get into character and learn some dirty secrets.,已经决定了!  波莉 去黑道总部 了解一些肮脏的秘密,决定了！波莉前往黑帮总部，准备进入角色，打探黑幕。
+english_events_maingame:L18226,theinformant,FIX,"Wuddup, mafia don? I heard you guys were in dire need of an ""accountant.""","武道克,黑手党的吗? 我听说你们急需一个""会计""",嘿，黑手党老大！听说你们急需一名“会计”？
+english_events_maingame:L18227,theinformant,POLISH,"""We are, actually!"" says the don. ""We're very behind on organizing our money laundering accounts this month. Can you help?""","""我们是,其实!"" 唐人说。 ""我们这个月在组织洗钱账户方面落后很多. 你能帮忙吗?""",“确实！”老大说，“这个月洗钱账目还差一大堆没整理，能帮忙吗？”
+english_events_maingame:L18228,theinformant,FIX,"Haha, totally! Where are these ""accounts"" I need to ""organize?""","完全没有! 这些账户在哪里 我需要""组织起来""?",哈哈，当然！需要我“整理”的“账目”在哪儿？
+english_events_maingame:L18229,theinformant,FIX,"""They're on the laptop... why do you keep using air quotes?""","""他们用的是笔记本电脑... 为什么你一直用空气引子?""",“笔记本电脑里……你干吗老用手比引号？”
+english_events_maingame:L18230,theinformant,FIX,"Because I'm ""showing you"" that I ""know"" the ""code!""","因为我在""向你展示""我""知道""代码""!",因为我在“告诉你”，我“听得懂”“暗号”！
+english_events_maingame:L18231,theinformant,FIX,"I'll just grab this ""laptop"" here and fill up its ""files"" with some ""spreadsheets"", heh heh...","我只要抓住这个""平顶"" 并填满它的""档案"" 有一些""平面"",heh heh...",我这就拿起这台“笔记本”，给它的“文件”装点“电子表格”，嘿嘿……
+english_events_maingame:L18232,theinformant,FIX,"""HEY, WHOA! Where'd you get that tommy gun?! Quit filling the magazine with bullets, and quit being so weirdly cryptic while you do it!""","""嘿,哇! ! ! ! ! 滚开! 你从哪里弄来这把Tommy的枪的? 别再用子弹给杂志填满了 别再做这么怪异的密码了!""",“嘿，等等！你哪儿弄来的汤普森冲锋枪？！别往弹匣里装子弹了，装的时候也别再打这种莫名其妙的哑谜！”
+english_events_maingame:L18233,theinformant,POLISH,But... I don't understand. How am I gonna help with the next big bank robbery without a gun?,"不过... 我不明白,我不明白,我还是会去的 我怎么才能帮助 下一个大银行抢劫 没有枪?",可是……我不明白。没枪，下次抢银行我怎么帮忙？
+english_events_maingame:L18234,theinformant,FIX,"""Look, toots: you can be our accountant, and you can be in the mob, but we don't need you to do robberies and stuff. We need you here, crunching numbers. Got it?""","""看,托特:你可以做我们的会计,你可以加入黑帮,但我们不需要你来做抢劫之类的事. 我们需要你在这里, 压缩数字。 明白吗?""",“听着，小妞。你可以当会计，也可以入黑帮，可抢银行那些事用不着你。我们需要你待在这儿算账，懂吗？”
+english_events_maingame:L18235,theinformant,FIX,So... I'm an ACTUAL accountant?,所以说... 我是演员会计?,所以……我还真是个会计？
+english_events_maingame:L18236,theinformant,FIX,"""Yes.""","""是的""",“对。”
+english_events_maingame:L18237,theinformant,POLISH,"Aww, that blows!","啊,这太糟糕了!",啊，那也太没劲了！
+english_events_maingame:L18239,theinformant,POLISH,"A few days later, Polly's back to debrief the cops.","几天后,我终于... 波莉回去向警察汇报情况了",几天后，波莉回来向警察汇报。
+english_events_maingame:L18243,theinformant,FIX,...and the laundromat on 3rd and Main is one of their hideouts too. That's the whole list.,...3街和Main街的洗衣房也是他们的藏身地之一 整个名单都写在这了,……第三街和主街交叉口的洗衣店，也是他们的藏身处。名单就这些。
+english_events_maingame:L18244,theinformant,FIX,"Also, being a police informant was WAY more boring than I expected. I thought I'd basically get a free pass to do crimes for a bit, not sit around and do math all day.","而且,当警察的线人比我想象的更无聊 我以为我基本上可以免费通过 做一些犯罪, 不坐在这里和做数学一整天。",还有，当警方线人比我想的无聊多了。我以为能拿到一张临时犯罪通行证，谁知道得整天坐着算数。
+english_events_maingame:L18245,theinformant,POLISH,"Just so we're clear, we will never give you a free pass to do crimes.","我们说清楚了,我们永远不会给你自由 犯罪。",先说清楚，我们绝不会给你犯罪通行证。
+english_events_maingame:L18246,theinformant,POLISH,"You did us a big favor, though. Thanks for the help! Stay outta jail!",你帮了我们一个大忙 谢谢你的帮助! 滚出监狱!,不过你确实帮了大忙。谢了！可别进监狱啊！
+english_events_maingame:L18248,theinformant,FIX,"Well, Polly lost -N2 HYPE in that disappointing debacle, but at least she also gained +N2 MIND crunching all those numbers!","这个嘛 波莉 输了N2 HYPE在那个令人失望的倒闭中,但至少她也得到了+N2 MIND 挤出所有这些数字!",这场令人失望的闹剧让波莉损失了 -N2 热度。不过，算了那么多账，也让她获得了 +N2 头脑！
+english_events_maingame:L18260,hidedrugs,FIX,You're driving along peacefully when that peace is suddenly ruined by police sirens behind your car.,和平突然被警笛声摧毁时 你就会平安地开车,你们正平静地赶路，车后突然响起警笛，打破了这份安宁。
+english_events_maingame:L18262,hidedrugs,POLISH,"Oh, no. Are we getting pulled over?","哦,没有。 我们被拦住了吗?",不是吧。咱们被拦了？
+english_events_maingame:L18263,hidedrugs,POLISH,"I guess so. It's okay, we have nothing to hide!","应该是吧 没关系,我们没什么好隐瞒的!",应该是。没事，咱们又没什么见不得人的！
+english_events_maingame:L18264,hidedrugs,POLISH,Uh...,额...,呃……
+english_events_maingame:L18267,hidedrugs,POLISH,"Good afternoon, kids. Can we see your license and vehicle registration?","午安,孩子们 我们能看看你的驾照和车辆登记吗?",下午好，孩子们。请出示驾驶证和车辆登记证。
+english_events_maingame:L18268,hidedrugs,FIX,"Sure thing, officers! How are you two doing on this fine, perfectly-legal day?","当然,警官们! 你们俩今天过得怎么样 完美合法?",当然，警官！在这个美好又完全合法的日子里，两位过得怎么样？
+english_events_maingame:L18269,hidedrugs,FIX,"I'm doing great, thanks for asking! I had a chocolate donut for breakfast, I saw a butterfly on the way here, and now I get to do my favorite thing: routine traffic stops!","我做得很好,谢谢你的问候! 我早餐吃了个巧克力甜甜圈,我看到一只蝴蝶在路上, 现在我可以做我最喜欢的事: 常规的交通停止!",好极了，谢谢关心！早上吃了巧克力甜甜圈，过来时看见了蝴蝶，现在还能做我最爱的事：例行交通检查！
+english_events_maingame:L18270,hidedrugs,FIX,Looks like your paperwork's in order. We'll just go back to the cruiser to run your plates real quick and you should be good to go.,"看来你的文件已经做好了 我们只是回到巡洋舰去运行 你的车牌非常快,你应该可以走了。",证件都没问题。我们回警车里查一下车牌，很快就能放你们走。
+english_events_maingame:L18271,hidedrugs,POLISH,Awesome! Thanks for not checking the trunk!,厉害! 谢谢你没检查后车厢!,太棒了！谢谢你们不查后备箱！
+english_events_maingame:L18272,hidedrugs,POLISH,...SHOULD we check the trunk?,...我们检查一下后备箱?,……我们应该查查后备箱吗？
+english_events_maingame:L18273,hidedrugs,FIX,...No?,...没有?,……不应该？
+english_events_maingame:L18274,hidedrugs,KEEP,...,...,...
+english_events_maingame:L18275,hidedrugs,KEEP,...,...,...
+english_events_maingame:L18276,hidedrugs,KEEP,...,...,...
+english_events_maingame:L18277,hidedrugs,POLISH,...We'll be right back.,...我们马上回来,……马上回来。
+english_events_maingame:L18279,hidedrugs,POLISH,Fuck. They're totally gonna check the trunk. They're gonna find all my drugs!,他妈的。 他们完全会检查后车厢。 他们会找到我所有的毒品!,操。他们绝对要查后备箱了，我的药全要被翻出来！
+english_events_maingame:L18280,hidedrugs,POLISH,You have drugs?!,你有毒品吗?,你带着毒品？！
+english_events_maingame:L18281,hidedrugs,FIX,"I ALWAYS HAVE DRUGS, SCOTT.","我总是有酒,斯科特。",斯科特，我什么时候没带过毒品。
+english_events_maingame:L18282,hidedrugs,FIX,"Welp, as always, you're everyone's last hope, %CURRENTPLAYERNAME%. Find a way to avoid getting caught with drugs!","韦尔普,像往常一样, 你是每个人的最后希望, %CURRENTPLAYERNAME%. 想办法避免被毒品抓住!",好了，%CURRENTPLAYERNAME%，你一如既往，是大家最后的希望。想办法，别让他们人赃俱获！
+english_events_maingame:L18283,hidedrugs,FIX,"""They can't find any drugs if we take them all first!""","""如果我们先把他们全部带走,他们找不到任何毒品""",“先把药全嗑了，他们不就什么都搜不到了！”
+english_events_maingame:L18284,hidedrugs,POLISH,Plant the drugs on the cops by hugging them.,"拥抱警察,把毒品放进警察身上",借拥抱的机会，把毒品栽赃到警察身上。
+english_events_maingame:L18286,hidedrugs,FIX,"Awww, shucks, we gotta take ALL the drugs? Oh well, guess I'll take one for the team.","胡说八道,我们得把毒品都拿走? 哦,好吧,我想我会为团队拿一个。",哎呀，必须全嗑完吗？好吧，那我就为团队牺牲一下。
+english_events_maingame:L18287,hidedrugs,POLISH,"Weren't these your drugs anyway? How are you ""taking one for the--?""","这些不是你的毒品吗? 你怎么样 ""拿一个...""",这不本来就是你的药吗？你这算哪门子“为团队牺——”？
+english_events_maingame:L18288,hidedrugs,POLISH,"Shhhh, no need to thank me, not all heroes wear capes, et cetera. Less talking, more drug-taking!","嘘,不用谢我,不是所有英雄都戴起斗篷等等 少说话,多吸毒!",嘘，不用谢。不是每个英雄都披着斗篷，诸如此类。少废话，多嗑药！
+english_events_maingame:L18289,hidedrugs,POLISH,"Fine, as long as you've got enough drugs left over to share with me and Scott!","好吧,只要你有足够的药物 剩下的给我分享和 斯科特!",行，不过得留够我和斯科特的份！
+english_events_maingame:L18290,hidedrugs,FIX,"Oh, no drugs for me, thanks. You guys have fun, though!","哦,没有药物给我,谢谢。 你们玩得开心点!",哦，我不嗑，谢谢。你们玩得开心！
+english_events_maingame:L18291,hidedrugs,POLISH,"Okay, %CURRENTPLAYERNAME%, do you want a regular dose, a big dose, or a Polly-sized ""I'm already dead so there are no consequences"" dose?","%CURRENTPLAYERNAME%你想要一个正常剂量,一个大剂量,或者一个 波莉- ""我已经死了,所以没有后果""的剂量?",好了，%CURRENTPLAYERNAME%，普通剂量、加大剂量，还是波莉专用的“反正我都死了，不怕有后果”剂量？
+english_events_maingame:L18292,hidedrugs,FIX,"Suffice to say, you and Polly do a TON of drugs, and gain +N2 HYPE!","说得够多了,你和 波莉 做一通药物, 并获得+N2 HYPE!",总之，你和波莉嗑了海量的药，获得 +N2 热度！
+english_events_maingame:L18294,hidedrugs,FIX,"Okay, your plates came back clean, but my partner says we have to check the trunk for some reason.","好吧,你的车牌回来干净, 但我的搭档说,我们必须检查 后备箱有某种原因。",好了，车牌没问题，不过搭档说，不知道为什么，还是得查一下后备箱。
+english_events_maingame:L18295,hidedrugs,FIX,"LMAO, good luck with that. We don't have a trunk now that the whole car is melting!","卢马奥,祝你好运 整辆车都融化了,我们没有后备箱了!",笑死，祝你好运。整辆车都融化了，哪还有后备箱！
+english_events_maingame:L18296,hidedrugs,POLISH,Melting...? What are you talking about?,熔化... ? 你在说什么?,融化……？你在说什么？
+english_events_maingame:L18297,hidedrugs,FIX,I'm talking about how EVERYONE AND EVERYTHING IS MADE OF A MILLION GAZILLION ATOMS.,我说的是每个人和每样东西 是如何制造出一百万亿的巨型巨型巨星。,我在说，每个人、每样东西，全都是由亿亿万万个原子组成的！
+english_events_maingame:L18298,hidedrugs,FIX,"It makes you think, right? A fuck-ton of identical protons and neutrons all work together to make my whole incredible booty!","让你觉得,对不对? 一堆相同的质子和中子 一起工作 使我整个不可思议的战利品!",是不是很引人深思？一大堆一模一样的质子和中子，合起来就成了我这完美的翘臀！
+english_events_maingame:L18299,hidedrugs,POLISH,"But those same atoms can also make other stuff, like Scott, or a doorknob, or a delicious pizza. Isn't that wild? We're all, like, connected or something...","但是同样的原子 也可以制造其他的东西,比如 斯科特门把手 或美味的披萨 野性吗? 我们都是一样,连接什么的...",可同样的原子，也能组成别的东西，比如斯科特、门把手，或者美味披萨。多神奇啊！我们都互相连着，之类的……
+english_events_maingame:L18300,hidedrugs,FIX,"(Partner, although these youngsters look sorta high, I didn't find any drugs in the trunk. Do you think they're just... like this?)","(伙伴,虽然这些年轻人看起来有点高,但我在后车厢里没有发现任何药物. 你觉得他们只是... 像这样? )",（搭档，这些年轻人虽然看着有点嗨，可后备箱里确实没毒品。他们该不会……平时就这样吧？）
+english_events_maingame:L18301,hidedrugs,FIX,"(Guess the younger generation's even further gone than I feared...) Well, you kids are good to go, I suppose. Drive safe.","(猜想年轻一代的走得比我所担心的还要远. ) 嗯,你们孩子们是好的去,我想。 开车小心",（看来年轻一代，比我担心的还没救……）行吧，你们可以走了。开车小心。
+english_events_maingame:L18303,hidedrugs,FIX,"The cops leave, Scott takes over driving, and you and Polly experience ego death in the back seat. You lose -N2 MIND from all that tripping.","警察离开 斯科特 接驾车,你和 波莉 体验自我死亡 在后座。 你从那些出事中失去了N2 MID",警察离开后，斯科特接手开车，你和波莉则在后座经历自我消融。嗑得太猛，让你损失 -N2 头脑。
+english_events_maingame:L18306,hidedrugs,POLISH,"Okay, your plates came back clean, but I have a feeling we should check your trunk before we go. You have anything back there that we should know about?","好吧,你的车牌回来干净, 但我有预感 我们应该检查你的后车厢 在我们走之前。 你有什么我们该知道的吗?",车牌没问题，不过走之前，我觉得还是该查查后备箱。里面有没有什么我们该知道的东西？
+english_events_maingame:L18307,hidedrugs,FIX,"We sure do. We've got hugs for you! Bring it in, bro!","我们当然知道。 我们为你抱抱! 把它拿来,兄弟!",当然有！有给你们的拥抱！来吧，兄弟！
+english_events_maingame:L18308,hidedrugs,FIX,"You, Scott, and Polly group-hug the cop. Polly reaches into his pocket to plant the goods.","你,你是谁? 斯科特,以及 波莉 组团抓警察。  波莉 伸入他的口袋里种植这些商品。",你、斯科特和波莉一起抱住警察。波莉把手伸进他的口袋，悄悄塞进了货。
+english_events_maingame:L18309,hidedrugs,POLISH,"Hey, officer, what's this I just found in your pocket?","嘿,警官,我刚刚在你口袋里找到什么了?",嘿，警官，猜猜我从你口袋里摸到了什么？
+english_events_maingame:L18310,hidedrugs,FIX,"Whoa, cocaine!","哇,可卡因! 可卡因来了! Whoa, cocaine!",哇，可卡因！
+english_events_maingame:L18311,hidedrugs,FIX,"(Wait... this isn't the cocaine I planted on you, though...)","(等等... ) 说吧,我... 这不是我给你的可卡因,虽然... )",（等等……可这不是我刚才塞给你的那份啊……）
+english_events_maingame:L18312,hidedrugs,POLISH,What did you just say?,你说什么?,你刚说什么？
+english_events_maingame:L18313,hidedrugs,POLISH,Don't change the subject! Your partner has cocaine!,别改变话题! 你的搭档有可卡因!,别转移话题！你搭档带着可卡因！
+english_events_maingame:L18314,hidedrugs,FIX,"Well, yeah, but only a little. It helps me stay alert on the job! You gotta be quick and agile when you have a gun and a city to protect!","嗯,是的,但只是一点点。 这会让我保持警觉的工作! 有了枪和城市,你必须迅速而敏捷地保护!",是啊，就一点点，帮我工作时保持警觉！带着枪、保护整座城市，可得反应快、身手敏捷！
+english_events_maingame:L18315,hidedrugs,FIX,"Thanks to the cocaine, I can shoot all the bad guys, and then some!","多亏了可卡因,我可以杀出所有坏人,然后一些!",多亏可卡因，我能把坏人全打死，还能多打几个！
+english_events_maingame:L18316,hidedrugs,POLISH,"I don't feel very protected... Polly, is this that ""police corruption"" thing you told me about?","我感到没有被保护...  波莉,这是什么 ""警察腐败"" 你告诉我的事情?",我可没觉得被保护了……波莉，这就是你说的“警察腐败”吗？
+english_events_maingame:L18317,hidedrugs,FIX,"Noooo, c'mon! You can trust us! We're your friendly neighborhood cops! I'll just put that coke back, and we can forget all about...","不,来吧! 你可以信任我们! 我们是你的友好的邻里警察! 我只要把可乐放回去,我们就可以忘记这一切...",别这样嘛！你们可以相信我们！我们可是亲切的社区警察！我把可卡因放回去，咱们就把这事忘了……
+english_events_maingame:L18318,hidedrugs,POLISH,Whoa. There are a LOT more drugs in my pocket than I remember. I guess I forgot how much I grabbed when I was coked up this morning.,呜呼. 我口袋里还有很多毒品 比我记得的还要多 我想我忘了我今天早上被吸食时 抓了多少了,哇。口袋里的药比我记得多好多。估计早上嗑嗨时拿了多少，我都忘了。
+english_events_maingame:L18319,hidedrugs,POLISH,"Damn, partner, this looks bad for us. When the chief finds out how much drugs we have, we'll get our badges stripped for sure!","该死,伙计,这对我们来说是不好的。 等局长发现我们有多少毒品 我们一定会把警徽剥光的",妈的，搭档，这可不妙。局长要是知道咱们带着这么多药，警徽肯定保不住了！
+english_events_maingame:L18320,hidedrugs,POLISH,"Hmmm, I have an idea. What if you gave US your drugs? That way your chief won't be mad at you!","嗯,我有一个主意。 如果你把药给了我们呢? 这样你的头就不会生你的气了!",唔，我有个主意。把药给我们怎么样？这样局长就不会生你们的气啦！
+english_events_maingame:L18321,hidedrugs,POLISH,Are you sure? Giving drugs to strangers doesn't sound very... lawful.,你确定吗? 给陌生人注射毒品听起来不太... 合法。 合法。,你确定？把毒品给陌生人，好像不太……合法吧。
+english_events_maingame:L18322,hidedrugs,POLISH,"We're not strangers! We're friends now! We hugged, don't you remember?","我们不是陌生人! 我们现在是朋友了! 我们拥抱了,你不记得了吗?",咱们不是陌生人，是朋友了！都抱过了，忘了吗？
+english_events_maingame:L18323,hidedrugs,POLISH,She's got a point. Just give her the drugs. We can just get more out of the evidence locker later.,她有一点。 给她毒品就行了 我们可以从证据柜里多拿点,她说得有道理。给她吧，回头咱们再从证物柜里拿点就是。
+english_events_maingame:L18324,hidedrugs,POLISH,"Yessss, give me the drugs. Gimme gimme.","是的,给我药。 给我",对——把药给我。给我给我。
+english_events_maingame:L18326,hidedrugs,FIX,"The cops give you their drugs and leave. You lose -N2 SOUL for your deception, but you gain +N2 HYPE for scoring free police-grade cocaine!","警察把毒品给你然后离开 你因为欺骗而输了N2 SOUL,但你因为免费的警察级可卡因得分而得到+N2 HYPE!",警察把毒品给你们，离开了。欺骗让你损失 -N2 灵魂，不过白拿到警用级可卡因，也让你获得了 +N2 热度！
+english_events_maingame:L18338,hidemagicartifact,FIX,You see blinking lights in your rearview mirror and a police siren demanding that you pull over. Ugh...,你后视镜里闪闪发光 警笛声让你停车 唉哟...,后视镜里闪起警灯，警笛催促你靠边停车。唉……
+english_events_maingame:L18341,hidemagicartifact,POLISH,Good afternoon. Can I see your license and vehicle registration?,"下午好,我需要你帮忙 Good afternoon. 我能看看你的驾照和车辆登记吗?",下午好。请出示驾驶证和车辆登记证。
+english_events_maingame:L18342,hidemagicartifact,POLISH,"Yep, it's right here!","对,就在这里!",有，就在这儿！
+english_events_maingame:L18343,hidemagicartifact,FIX,"Oh, uh, thanks Ms. Geist, but we just need to see the driver's information.","哦,呃,谢谢女士。 盖斯特,但我们只需要看看司机的信息",哦，呃，谢谢，鬼斯特女士，不过我们只需要司机的证件。
+english_events_maingame:L18344,hidemagicartifact,POLISH,"Oh! Haha, of course, sorry. I just wanted to show you how trustworthy and cooperative with the law I am.","哦 哈哈,当然,对不起。 我只是想告诉你我是多么的值得信赖 和与法律合作。",哦！哈哈，当然，抱歉。我只是想证明，自己有多可靠、多配合执法。
+english_events_maingame:L18345,hidemagicartifact,FIX,"Trustworthy, cooperative, AND a nervous talker? You're my favorite kind of person to pull over!",值得信任、合作和紧张的谈话者? 你是我最喜欢的 那种人停车!,可靠、配合，还紧张得话多？我最喜欢拦你这种人了！
+english_events_maingame:L18346,hidemagicartifact,POLISH,"Speaking of which, we pulled you over because we're investigating a report that someone in this area stole a magic artifact.","说到这里,我们把你拉过来,因为我们正在调查一个报告, 报告这个地区有人偷了一个魔法文物。",说起这个，我们拦车，是因为这一带有人报案，一件魔法神器被偷了，我们正在调查。
+english_events_maingame:L18347,hidemagicartifact,POLISH,It's an ancient totem that radiates malevolent energy. Have you folks seen anything like it?,这是一种能放出恶性能量的古老图腾. 你们有看到类似的东西吗?,那是个古老图腾，散发着邪恶能量。各位见过类似的东西吗？
+english_events_maingame:L18348,hidemagicartifact,FIX,"NOPE! Never seen it! And even if I had, I wouldn't have felt ANY compulsion to take it, because I'm a levelheaded gal with great impulse control.",没有! 从来没有见过! 就算我做了 我也不会觉得有强迫性 因为我是个有冲动的 头脑清醒的女孩,没有！从没见过！就算见过，我也绝对不会冲动到拿走，因为我是个理智又特别能克制的姑娘。
+english_events_maingame:L18349,hidemagicartifact,POLISH,Uh...,额...,呃……
+english_events_maingame:L18350,hidemagicartifact,POLISH,"But if I HAD seen it, theoretically, it would've been sitting in an unlocked car pretty much begging for someone to steal it. So, it's not really the thief's fault.","但如果我看到它,理论上, 它会一直坐在一个没有锁的汽车里 几乎乞求有人偷它。 所以,这不是真的 小偷的错。",可假设我真见过，它肯定就在一辆没上锁的车里，简直求着人去偷。那也不能全怪小偷吧。
+english_events_maingame:L18351,hidemagicartifact,FIX,"...Right. Hey, partner, can I talk to you in the cruiser for a minute?","对 嘿,搭档,我可以跟你在巡洋舰 一分钟?",……是吗。搭档，能回警车里谈一下吗？
+english_events_maingame:L18353,hidemagicartifact,POLISH,FUCK. We don't have much time. We gotta hide this magic artifact I stole!,他妈的。 我们没有太多时间了 我们要把我偷来的魔法文物藏起来!,操。时间不多了，得赶紧把我偷的魔法神器藏起来！
+english_events_maingame:L18354,hidemagicartifact,POLISH,"Wait, you DID steal it? But you just said--","等等,你偷来的? 但你刚才说...",等等，你真的偷了？可刚才你不是说——
+english_events_maingame:L18355,hidemagicartifact,FIX,"I know what I said, Scott. You bought my ruse because I've got an unbeatable poker face.","我知道我说了什么, 斯科特. 你买我的花招是因为我有一个不可战胜的扑克脸。",斯科特，我知道自己说过什么。你会信，是因为我撒谎时从不露馅。
+english_events_maingame:L18356,hidemagicartifact,FIX,"But those cops will sense the rancid vibes coming off this cursed totem soon, so we've gotta hide it quick! %CURRENTPLAYERNAME%, any ideas?",但是那些警察会感觉到 狂躁的情绪 很快会从这个被诅咒的图腾中消失 所以我们得赶快把它藏起来!  %CURRENTPLAYERNAME%有什么想法吗?,可那诅咒图腾的邪门气息这么重，警察很快就会察觉。得赶紧藏起来！%CURRENTPLAYERNAME%，有主意吗？
+english_events_maingame:L18357,hidemagicartifact,POLISH,Deceive them by telling them you're undercover cops who just seized the artifact.,"欺骗他们,告诉他们你就是卧底警察 刚刚没收了文物",骗他们说，你们是刚刚缴获神器的卧底警察。
+english_events_maingame:L18358,hidemagicartifact,FIX,Hide the magic artifact where you hide everything else: behind your cool façade.,藏起魔法文物 藏起其他东西 藏起你的酷相,把魔法神器藏到你藏一切东西的地方：那副酷炫的伪装后面。
+english_events_maingame:L18361,hidemagicartifact,POLISH,"Okay, we talked it over, and we think we should check your vehicle for the stolen artifact.","好吧,我们谈了一遍, 我们认为我们应该检查你的车 被盗的文物。",好了，商量过了，我们觉得还是得搜车，找找那件失窃的神器。
+english_events_maingame:L18362,hidemagicartifact,FIX,"No need, fellow policemen. I've got the artifact right here! Because you see...","不用,警察同志们 我这里有文物! 因为你看到...",不用了，警察同僚们。神器就在我这儿！因为，其实……
+english_events_maingame:L18364,hidemagicartifact,FIX,"I'm actually Officer Gertrude Sikes, undercover cop extraordinaire!",其实我是格特鲁德·西克斯警官 卧底警察特警,我是格特鲁德·赛克斯警官，顶级卧底！
+english_events_maingame:L18365,hidemagicartifact,POLISH,You are? And you wear that fake mustache whenever you're... being yourself?,是吗? 你穿假胡子 当你... 做你自己吗?,是吗？所以你……做回自己的时候，反而戴着假胡子？
+english_events_maingame:L18366,hidemagicartifact,POLISH,Correct! It makes other cops take me more seriously. No one cared who I was until I put on the 'stache!,"没错! 这让其他警察更认真对待我 没人在乎我是谁 直到我把""胡子""!",对！这样其他警察才会认真对待我。在我戴上胡子之前，根本没人关心我是谁！
+english_events_maingame:L18367,hidemagicartifact,POLISH,"Hmm... what about you, son? Are you an undercover cop too?","垛... 儿子,你呢? ! 你也是个卧底警察吗?",唔……那你呢，小伙子？你也是卧底警察？
+english_events_maingame:L18368,hidemagicartifact,FIX,Yes! I'm Officer... Not Scott!,"没错! 我是警官... 警官,我是警官,长官 没有 斯科特!",对！我是……不斯科特警官！
+english_events_maingame:L18369,hidemagicartifact,FIX,"Your name is ""Not Scott""?","你的名字是""没有"" 斯科特""?",你叫“不斯科特”？
+english_events_maingame:L18370,hidemagicartifact,FIX,"Yup. First name ""Not"", last name ""Scott"". He knows what he's about.","对 姓""不"",""姓""斯科特"". 其相识相.",对。名叫“不”，姓“斯科特”。他很清楚自己在干什么。
+english_events_maingame:L18371,hidemagicartifact,POLISH,"Well, if you're really undercover cops, can we see your badges?","如果你真的是卧底警察,我们能看看你的警徽吗?",好吧，真是卧底的话，能看看警徽吗？
+english_events_maingame:L18372,hidemagicartifact,POLISH,"Oh! I mean, I'd totally show you mine if I could, but I had to trade it to the ACTUAL thief in exchange for the artifact.",哦 我愿意给你看我的 但我得把它换给那个偷东西的小偷 换来这些文物,哦！能给你看，我肯定给。不过为了换回神器，我把警徽给了真正的小偷。
+english_events_maingame:L18373,hidemagicartifact,FIX,"Ah, no problem, I understand. I've lost two pistols that way. What about you, Officer Not Scott?","啊,没问题,我明白。 我丢了两把手枪 那你呢,长官 斯科特?",啊，没事，我懂。我也这么丢过两把手枪。你呢，不斯科特警官？
+english_events_maingame:L18374,hidemagicartifact,POLISH,I... ate it?,我…… 吃了吗?,我……吃了？
+english_events_maingame:L18375,hidemagicartifact,POLISH,"Haha, I did the same thing last week! The chief was pissed, but it's not my fault these things look like shiny potato chips.","哈哈,我上周也做了同样的事情! 局长很生气,但不是我的错 这些东西看起来像闪亮的土豆片",哈哈，我上周也干过！局长气坏了，可谁让这东西长得像亮闪闪的薯片呢，又不怪我。
+english_events_maingame:L18376,hidemagicartifact,FIX,"Okay, well, looks like the artifact's already in good hands! Gertrude, Not, do you wanna blow off the rest of your shifts with us at the Donut Hut?","好吧,看来 文物已经掌握在好手了! 格特鲁德,不,你想 吹掉你的其余的轮班 与我们在多努特胡特?",好吧，看来神器已经有人妥善保管了！格特鲁德、不，要不要一起翘掉剩下的班，去甜甜圈小屋？
+english_events_maingame:L18378,hidemagicartifact,FIX,"Sure! You gain +N2 MAGIC getting to keep that magic artifact, though you lose -N2 SOUL for lying to the cops.","当然! 你得到+N2 MAGIC 得到保存魔法的文物, 虽然你失去了 -N2 Suul 骗了警察。",当然！你保住了魔法神器，获得 +N2 魔力，不过骗警察也让你损失 -N2 灵魂。
+english_events_maingame:L18380,hidemagicartifact,POLISH,"Okay, you'll just have to drop your cool façade for a minute to hide the artifact behind it. Hopefully Polly and Scott won't notice...","好吧,你只需要放下你的酷外表一分钟 来隐藏它后面的文物。 希望你这样 波莉 财务报告和审定财务报表 斯科特 不会注意到的...",好吧，你得先暂时卸下那副酷炫的伪装，才能把神器藏到后面。希望波莉和斯科特没注意到……
+english_events_maingame:L18381,hidemagicartifact,FIX,"Dang, bro, what happened? You don't look nearly as interesting or radical as you usually do!","糟了,兄弟,发生什么事了? 你看上去不像平常那样有趣或激进!",哎，兄弟，怎么了？你看着一点都没平时那么有趣、那么酷了！
+english_events_maingame:L18382,hidemagicartifact,REVIEW,You definitely don't look like the %CURRENTPLAYERNAME% who told us %HESHE% %VERB_KNOWS_KNOW% a ton of awesome BMX tricks.,你绝对不像那个 %CURRENTPLAYERNAME% 谁告诉我们的 %HESHE%  %VERB_KNOWS_KNOW% 一吨惊人的 BMX 技巧。,你可不像那个跟我们吹牛，说 %HESHE% %VERB_KNOWS_KNOW% 一大堆超酷 BMX 车技的 %CURRENTPLAYERNAME%。
+english_events_maingame:L18383,hidemagicartifact,FIX,"Nor do you look like the %CURRENTPLAYERNAME% who claimed to know ""every digit of pi, yes, all of them.""","你看上去也不像一个 %CURRENTPLAYERNAME% 自称认识""所有派的数位人物,是的,所有的人"".",也不像那个号称“圆周率的每一位都知道，没错，每一位”的 %CURRENTPLAYERNAME%。
+english_events_maingame:L18384,hidemagicartifact,POLISH,I feel so lied to... is your name even %CURRENTPLAYERNAME%?,我觉得自己被骗了 你的名字是连 %CURRENTPLAYERNAME%?,感觉被你骗惨了……你真叫 %CURRENTPLAYERNAME% 吗？
+english_events_maingame:L18385,hidemagicartifact,FIX,"Truthfully, no. I invented a cooler name to use, because my real name is... *shudder*... Pimplert.","说实话,没有。 我发明了一个更酷的名字来使用, 因为我的真名是... 苏德尔*... 普普尔特",说实话，不是。我给自己编了个更酷的名字，因为真名叫……*一哆嗦*……皮姆普勒特。
+english_events_maingame:L18386,hidemagicartifact,POLISH,"Oh... okay, that IS unfortunate. But it's still no reason to lie to us!","哦... 好吧,这是不幸的。 但是现在还没有理由对我们撒谎!",哦……好吧，这确实挺惨。可也不能拿这个当理由骗我们啊！
+english_events_maingame:L18387,hidemagicartifact,FIX,But how else was I supposed to befriend awesome people like you and Scott without changing my name and embellishing my personality a little?,但我怎么才能成为像你这样的好人 斯科特 却不改名 轻轻地装饰我的个性?,可不改名字、不稍微美化一下自己，我怎么跟你和斯科特这么酷的人交朋友？
+english_events_maingame:L18388,hidemagicartifact,POLISH,"By being yourself! I'm pretty offended you thought you had to lie to me to be my friend, jerk.","做你自己就够了! 我非常生气你以为你必须骗我 做我的朋友,混蛋。",做你自己就行了！你居然觉得，得先骗我才能当我朋友，真让我火大，混蛋。
+english_events_maingame:L18389,hidemagicartifact,POLISH,"Yeah, bro... we were already your friends. Why did you lie to us? That's so mean...",癸... 我们早就是你的朋友了 你为什么骗我们? 这太刻薄了...,对啊，兄弟……咱们本来就是朋友。你为什么还要骗人？太伤人了……
+english_events_maingame:L18390,hidemagicartifact,FIX,Oof. You lose -N2 HYPE exposing yourself like this. At least you've safely hidden the artifact behind your façade by the time the cops come back.,"哦,这下子了。 你输了N2 HYPE 暴露自己像这样。 至少你把艺术品藏在了你的外表后面 当警察回来的时候",唉，原形毕露让你损失 -N2 热度。至少警察回来之前，你把神器安全藏到了伪装后面。
+english_events_maingame:L18392,hidemagicartifact,POLISH,"Okay, we talked it over, and we think we should check your vehicle for the stolen artifact.","好吧,我们谈了一遍, 我们认为我们应该检查你的车 被盗的文物。",好了，商量过了，我们觉得还是得搜车，找找那件失窃的神器。
+english_events_maingame:L18393,hidemagicartifact,POLISH,I don't know anything about a magic artifact. I only know awesome BMX tricks and every digit of pi.,我对魔法文物一无所知 我只知道很棒的BMX技巧 和每个Pi的数位数,魔法神器什么的，我不知道。我只知道超酷 BMX 车技，还有圆周率的每一位。
+english_events_maingame:L18394,hidemagicartifact,KEEP,...,...,...
+english_events_maingame:L18395,hidemagicartifact,FIX,I believe you! Nobody who knows so many bike tricks and impossible integers would need to steal a magic artifact to be as cool as you clearly are.,我相信你! 我对你有信心! I believe you! 没人知道这么多自行车技巧和不可能的整数 需要偷一个魔法的艺术品 才能像你一样酷,我信！懂那么多车技和不可能的整数，已经够酷了，哪还用得着偷魔法神器！
+english_events_maingame:L18396,hidemagicartifact,FIX,"Yup. Your relaxed, radical aura is convincing enough, and I didn't feel like doing a whole investigation into this anyway. You're free to go.",对 你放松的激进的气息已经足够令人信服了 我也不想对这件事做彻底的调查 汝等诸人自去.,对。你这轻松又酷炫的气场，够有说服力了。反正我也懒得查个底朝天。你们可以走了。
+english_events_maingame:L18398,hidemagicartifact,POLISH,"%CURRENTPLAYERNAME% -- or Pimplert, or whoever you are -- please never bring up BMX tricks again.","%CURRENTPLAYERNAME% - 或Pimprort,或无论你是谁 - 请不要再提起BMX的把戏了。",%CURRENTPLAYERNAME%——还是皮姆普勒特，不管你叫什么——求你别再提 BMX 车技了。
+english_events_maingame:L18399,hidemagicartifact,FIX,Your victory would be sweeter if you couldn't feel the judgment radiating off your friends. At least that artifact is still radiating +N2 MAGIC!,如果你感觉不到你的判断会让你的朋友们发泄出来 你将会更快乐 至少那个文物还在放出+N2 MAGIC!,要是感觉不到朋友们满身的鄙夷，这场胜利本该更甜美。至少，那件神器还在散发 +N2 魔力！
+english_events_maingame:L18411,hidefood,FIX,You're driving along when a cop car pulls up and signals for you to pull over. Uh oh...,警车开起后你就会开车 信号让你停车 哦...,你正开着车，一辆警车追上来，示意你靠边停车。糟了……
+english_events_maingame:L18414,hidefood,POLISH,"Afternoon, kids. Can we see your license and vehicle registration?","下午好,孩子们 我们能看看你的驾照和车辆登记吗?",下午好，孩子们。请出示驾驶证和车辆登记证。
+english_events_maingame:L18415,hidefood,POLISH,Hey... does anyone else smell pie?,顿... 还有谁闻到派的味道吗?,嘿……有人闻到派的味道吗？
+english_events_maingame:L18416,hidefood,KEEP,I don't.,我没有。,我没有。
+english_events_maingame:L18417,hidefood,POLISH,"Now that you mention it, I smell pie too!","既然你提到,我也闻到派了!",你这么一说，我也闻到了！
+english_events_maingame:L18418,hidefood,FIX,"No you don't! Your nose is lying to you, Scott. Don't listen to it!","不,你没有! 你的鼻子在骗你 斯科特. 别听!",你才没有！斯科特，你鼻子在骗人，别听它的！
+english_events_maingame:L18419,hidefood,POLISH,"I smell pie too! I figured I was just really craving pie, but now that Polly's being weird about it...","我也闻到派了! 我觉得我只是想吃派,但现在 波莉有点奇怪...",我也闻到了！还以为只是自己太想吃派，可现在波莉这反应这么奇怪……
+english_events_maingame:L18420,hidefood,FIX,"I'M NOT BEING WEIRD, YOU'RE ALL BEING WEIRD! I AM BEING PERFECTLY SANE AND NORMAL.","我不是在怪异,你们都怪怪的! 我是一个完美的 萨恩和正常。",我哪儿奇怪了，是你们都很奇怪！我明明特别理智、特别正常。
+english_events_maingame:L18421,hidefood,FIX,"Okaaaay... well, it looks like your paperwork's all in order. We're just gonna run your plates real quick and you kids should be good to go.","欧克亚... 看来你的文件都齐全了 我们只是要去运行你的盘子 真正的快,你们应该 不错去。",好——吧。证件都齐全。我们再快速查一下车牌，你们就能走了。
+english_events_maingame:L18423,hidefood,KEEP,"Goddammit, now we gotta figure out what to do with this pie I stole before those goons come back.",该死，现在得赶紧想想怎么处理我偷来的这个派，免得那群混混回来。,该死，现在得赶紧想想怎么处理我偷来的这个派，免得那群混混回来。
+english_events_maingame:L18424,hidefood,POLISH,You stole a pie? What for? You don't even eat.,你偷了个派? 为什么? 你甚至不吃东西。,你偷了个派？干吗啊？你又不吃东西。
+english_events_maingame:L18425,hidefood,FIX,"I dunno, I just saw it cooling on some old lady's windowsill and grabbed it. I was in a silly, goofy mood.","我不知道,我只是看到它冷却 在某个老太太的窗台上,并抓住它。 我当时心情很傻,很傻",不知道，看见老太太把派搁窗台上放凉，就顺手拿了。当时就是想犯点傻、捣点蛋。
+english_events_maingame:L18426,hidefood,FIX,"But now because %CURRENTPLAYERNAME% was acting all suspicious, the cops are totally gonna know I stole this pie. We gotta hide it before they get back!","但现在,因为 %CURRENTPLAYERNAME% 警察会知道我偷了这个派 我们得在他们回来之前藏起来!",可 %CURRENTPLAYERNAME% 刚才鬼鬼祟祟的，警察肯定猜到我偷了派。得赶在他们回来之前藏好！
+english_events_maingame:L18427,hidefood,FIX,"Well, at least if you help Polly hide the pie, you can eat it later! How do you save this stolen pastry?","好吧,至少如果你帮助 波莉 藏起馅饼,待会再吃! 你怎么救这个被偷的糕点?",好吧，帮波莉藏起来，至少之后还能吃上。要怎么保住这份偷来的点心？
+english_events_maingame:L18428,hidefood,FIX,Hide the pie under your trademark fancy top hat you've been wearing throughout this whole road trip.,把你整个旅途的花花公子帽子 藏起来,把派藏在你这一路始终戴着的、标志性的华丽高礼帽下面。
+english_events_maingame:L18429,hidefood,FIX,Hide the pie under the pile of money you will use to bribe the cops.,把钱藏在一堆钱下 用来贿赂警察,拿一堆钱贿赂警察，再把派藏在钱堆底下。
+english_events_maingame:L18431,hidefood,POLISH,"Yeah, my fancy top hat! ...Wait, what fancy top hat?","对,我的花花公子顶上帽子! 等等,什么高档帽子?",对，我的华丽高礼帽！……等等，哪来的华丽高礼帽？
+english_events_maingame:L18432,hidefood,FIX,Only THE trademark %CURRENTPLAYERNAME% fancy top hat! I knew it'd come in handy eventually!,仅此商标 %CURRENTPLAYERNAME% 漂亮的顶帽! 我知道它最终会有用的!,当然是 %CURRENTPLAYERNAME% 标志性的华丽高礼帽！我就知道，总有一天能派上用场！
+english_events_maingame:L18433,hidefood,POLISH,"Yeah, I barely remember who you were before you put on that hat. Let's hide the pie under there!","是啊,我几乎不记得你是谁 在你戴上帽子之前。 不如把派藏在下面吧!",对啊，我都快不记得，你戴这帽子之前是什么样了。把派藏在下面吧！
+english_events_maingame:L18434,hidefood,POLISH,Polly stashes her stolen pie under your hat just in time for the cops to come back.,波莉 把她偷来的派藏在你的帽子下 正好赶上警察回来,波莉把偷来的派塞进你的帽子，警察正好回来了。
+english_events_maingame:L18436,hidefood,FIX,"So, guess what? While we were in the cruiser we got a call that there's a pie thief on the loose. My partner's gonna need to search your vehicle.","所以,你猜怎么着? 当我们在巡洋舰时 我们接到一个电话 一个偷派的贼在逃 我的搭档需要搜查你的车",猜怎么着？刚在警车里接到消息，有个偷派贼还在外面晃。我搭档得搜搜你们的车。
+english_events_maingame:L18437,hidefood,POLISH,"You there, remove that hat for a moment so I can see if the contraband pie is under it.","你在那里,脱掉帽子一会儿 让我看看是否是 违禁品派在它下面。",你，把帽子摘一下，我看看那违禁的派是不是藏在下面。
+english_events_maingame:L18438,hidefood,FIX,You want %CURRENTPLAYERNAME% to take off %HISHER% fancy top hat?! But it's the cornerstone of %HISHER% cool visual identity!,你想怎样? %CURRENTPLAYERNAME% 起飞 %HISHER% 漂亮的顶帽? 但它是基石 %HISHER% 很酷的视觉身份!,你要让 %CURRENTPLAYERNAME% 摘掉 %HISHER% 华丽高礼帽？！这可是 %HISHER% 酷炫造型的根基！
+english_events_maingame:L18439,hidefood,FIX,So?,怎么样?,所以呢？
+english_events_maingame:L18440,hidefood,FIX,You don't understand. %CURRENTPLAYERNAME% was super lame back in school. Putting that fancy top hat on is what turned %HISHER% whole life around!,你不明白吗?  %CURRENTPLAYERNAME% 回到学校后超逊的 戴上那顶漂亮的上衣就是转了过来 %HISHER% 整个生活周围!,你不懂。%CURRENTPLAYERNAME% 上学时超逊的，就是戴上那顶高礼帽，才改变了 %HISHER% 整个人生！
+english_events_maingame:L18441,hidefood,FIX,"You can't force %HIMHER% to go back to %HISHER% old, boring ways. It's inhumane!","你不能强迫我 %HIMHER% 回到 %HISHER% 旧的,无聊的方式。 这是不人道的!",你不能强迫 %HIMHER% 回到 %HISHER% 那种无聊又老土的生活！太不人道了！
+english_events_maingame:L18442,hidefood,POLISH,"Partner, I think they've got a point. I thought %CURRENTPLAYERNAME% was pretty cool with that hat on too.","搭档,我想他们有道理 我以为 %CURRENTPLAYERNAME% 戴着帽子也很酷",搭档，我觉得他们说得对。戴上那帽子，%CURRENTPLAYERNAME% 确实很酷。
+english_events_maingame:L18443,hidefood,FIX,Such a bold fashion choice to wear a top hat while driving -- in a convertible of all things! I don't think we should force %HIMHER% to take it off.,这么大胆的时尚选择在开车时戴顶帽——在各种东西的敞篷车里!. 我觉得我们不应该强迫你 %HIMHER% 把它脱下来。,开车还戴高礼帽，多大胆的时尚选择！而且开的居然是敞篷车！咱们不该逼 %HIMHER% 摘掉。
+english_events_maingame:L18444,hidefood,POLISH,But... the pie...,不过... 派... 派...,可是……派……
+english_events_maingame:L18445,hidefood,POLISH,"I know, but this is too far. We swore to protect people no matter what, even if that meant shooting at suspicious characters first and asking questions later.","我知道,但这是太远。 我们发誓保护人民,不管怎样,即使这意味着首先向可疑人物开枪,然后提出问题。",我知道，可这样太过分了。咱们发过誓，无论如何都要保护大家，哪怕得先对可疑的人开枪，再问话。
+english_events_maingame:L18446,hidefood,FIX,"But THIS? I mean, we gotta draw the line somewhere. Are we really helping people if we make this poor youngster lame again?","但这个? 我的意思是,我们必须划出界限的地方。 如果我们让这个可怜的年轻人又瘸了,我们真的在帮助别人吗?",可现在这样？总得有条底线吧。让这可怜的年轻人重新变逊，真算保护人吗？
+english_events_maingame:L18447,hidefood,POLISH,"You're right... I'm sorry, partner. I've been a cop for so long, I guess I lost some perspective.","你说得对... 对不起,搭档。 我当了这么久警察,我好像失去了一些视角",你说得对……抱歉，搭档。当警察太久，我都快忘了什么才重要。
+english_events_maingame:L18448,hidefood,FIX,"It's okay, pal. Sorry to bother you kids. Drive safe, and stay fancy!","没事的,伙计。 抱歉打扰你们了 开车小心,别乱动!",没事，老伙计。抱歉打扰你们。开车小心，继续保持时髦！
+english_events_maingame:L18450,hidefood,FIX,"You have no recollection of ever putting this hat on, yet there it is, on your head and in everybody else's memories... it's a -N2 MIND-fuck.","你不记得曾经戴过这顶帽子, 但是它就在你头上, 在其他人的记忆里... 这是N2 mind -fuck. 。",你根本不记得自己戴过这顶帽子，可它偏偏就在头上，也在所有人的记忆里……这事搞得你损失了 -N2 头脑。
+english_events_maingame:L18451,hidefood,POLISH,"But you don't let it bother you too much, especially since you gain +N2 STAMINA eating that stolen pie!",但你不会让它烦恼太多 尤其是因为你得到了+N2 Stamina吃被偷的派!,不过你没太在意，尤其是吃掉那偷来的派，还让你获得了 +N2 体力！
+english_events_maingame:L18454,hidefood,FIX,"So, guess what? While we were in the cruiser we got a call that there's a pie thief on the loose. My partner's gonna need to search your vehicle.","所以,你猜怎么着? 当我们在巡洋舰时 我们接到一个电话 一个偷派的贼在逃 我的搭档需要搜查你的车",猜怎么着？刚在警车里接到消息，有个偷派贼还在外面晃。我搭档得搜搜你们的车。
+english_events_maingame:L18455,hidefood,POLISH,Okay. Just be sure NOT to check under that pile of money.,"好吧,我告诉你。 千万别查那堆钱下面",行。千万别翻那堆钱下面就好。
+english_events_maingame:L18456,hidefood,FIX,Wink!,温克!,眨眼！
+english_events_maingame:L18457,hidefood,FIX,...Well now that's obviously the first place I'm gonna check.,"...现在,这显然 首先是我要检查的地方。",……好吧，那我当然得先翻那里。
+english_events_maingame:L18458,hidefood,FIX,"Oh noooo. You found the pie under our fat stack of cash that was just sitting there waiting for a handsome, morally-gray officer to take it...",岂有相取. 你发现我们那堆大钱下面的派 坐在那等着一个英俊的道德官员拿走...,哦不——你发现了那堆厚厚钞票底下的派。钞票就那么放着，专等一位英俊、道德底线灵活的警官来拿呢……
+english_events_maingame:L18459,hidefood,POLISH,"Awww, you really think I'm handsome?","Awww,你真的觉得我帅?",哎呀，你真觉得我帅？
+english_events_maingame:L18460,hidefood,POLISH,Are you kids seriously trying to bribe an officer?!,你们真的想贿赂警官吗?,你们真在贿赂警察？！
+english_events_maingame:L18461,hidefood,POLISH,Um... I think so?,那个... 是吗?,呃……应该是吧？
+english_events_maingame:L18462,hidefood,POLISH,"Okay, cool. I just wanted to make sure, because if not, this conversation was about to get awkward.","好吧,冷静。 我只是想确定, 因为如果没有, 这场谈话 即将变得尴尬。",行，那就好。确认一下而已，不然这话可就尴尬了。
+english_events_maingame:L18463,hidefood,FIX,"Damn, only -N2 MONEY? You call that a bribe?! Back in my day, that'd barely cover the cost of stealing a gumball!","可恶,只有N2钱? 你管这叫贿赂? 从前,这几乎无法支付 偷口香糖丸的费用!",妈的，才 -N2 金钱？这也叫贿赂？！换我年轻那会儿，偷颗口香糖交的钱都不止这点！
+english_events_maingame:L18464,hidefood,POLISH,Take it or leave it.,要么接受要么离开,爱要不要。
+english_events_maingame:L18465,hidefood,FIX,"Fine... guess we gotta start pulling over fancier cars if we wanna get the good bribes, partner.","精细... 如果我们想得到好贿赂,我们就得开始拉起更风光的车,伙伴。",行吧……搭档，想收点像样的贿赂，咱们得拦更豪华的车才行。
+english_events_maingame:L18466,hidefood,FIX,Don't be so sour. I think we did great. I'm gonna use my half to buy a rhinestone bedazzler and gussy up my gun!,少阴之酸. 我觉得我们做的很好。 我要用我的一半买个闪光石床罩 并用我的枪粘住!,别这么不高兴嘛，我觉得收获不错。我这半份钱，拿去买个水钻镶嵌器，把枪好好打扮一下！
+english_events_maingame:L18467,hidefood,POLISH,"All right, we'll look the other way for now. But if we ever pull you over again, remember: I'm a big fan of fifty-dollar bills and foot massages.","好吧,我们现在会另找 但如果我们再把你拉过来,请记住: 我是一个大粉丝 50美元钞票和脚按摩。",好吧，这次就睁只眼闭只眼。下次再被我们拦住，记住：我特别喜欢五十美元钞票，还有足底按摩。
+english_events_maingame:L18469,hidefood,FIX,"Sheesh, those cops sure are morally bankrupt... anyway, you gain +N2 STAMINA eating the pie Polly stole from a sweet old lady. Yum!","唉,那些警察在道德上已经破产了... 再说,你得到+N2 STAMINA吃派 波莉 偷从一个可爱的老太太。 汤!",啧，这帮警察真是毫无道德……总之，你吃掉波莉从善良老太太那儿偷来的派，获得 +N2 体力。真香！

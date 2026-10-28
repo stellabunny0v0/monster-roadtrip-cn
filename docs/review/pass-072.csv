@@ -1,0 +1,82 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_pitstop:L7870,cdlambrole,FIX,Applying for the cult,申请邪教,申请加入教团
+english_events_pitstop:L7872,cdlambrole,FIX,You wanna be in my cult? Really?,你想加入我的邪教吗? 真的吗?,你想加入我的教团？真的？
+english_events_pitstop:L7873,cdlambrole,POLISH,"Sure, why not? We're already friends, so the natural next step would be to pledge my eternal devotion to you.","当然,为什么不呢? 我们已经是朋友了,所以接下来的自然步骤 是保证我永远的忠于你。",当然，为什么不呢？咱们都已经是朋友了，顺理成章的下一步，不就是向你献上永恒的忠诚吗？
+english_events_pitstop:L7874,cdlambrole,POLISH,"You have... a very intense view of friendships, %CURRENTPLAYERNAME%.","你有过... 一个非常强烈的友谊观, %CURRENTPLAYERNAME%.",你对友谊的理解……有点太热烈了，%CURRENTPLAYERNAME%。
+english_events_pitstop:L7875,cdlambrole,KEEP,That's me!,这就是我!,这就是我!
+english_events_pitstop:L7876,cdlambrole,FIX,But I mean... are you sure you're cut out for the cultist lifestyle?,但我想说... 你确定你不适合邪教的生活方式吗?,不过，我是说……你确定自己适合当教徒吗？
+english_events_pitstop:L7877,cdlambrole,KEEP,You're so... independent.,你这么... 独立。,你这么... 独立。
+english_events_pitstop:L7878,cdlambrole,FIX,That's not true! I can depend! I'd make a great cultist!,这不是真的! That's not true! 我可以依赖! 我会成为一个伟大的邪教主义者!,才不是！我也可以依赖别人啊！我肯定能当个优秀的教徒！
+english_events_pitstop:L7879,cdlambrole,FIX,Non-related question: what makes a good cultist?,无关的问题:什么是好邪教?,顺便问个不相干的问题：好教徒得具备什么条件？
+english_events_pitstop:L7880,cdlambrole,FIX,"Well, you gotta bring some value to the cult, y'know? Like: are you incredibly faithful? Do you have strong constitution? Are you OK eating poop?","你要给邪教带来价值,知道吗? 比如:你令人难以置信的忠诚吗? 你有强健的宪法吗? 吃屎还好吧?",嗯，你总得给教团带来点价值，对吧？比如，你够虔诚吗？体格够强壮吗？能接受吃屎吗？
+english_events_pitstop:L7881,cdlambrole,KEEP,...what was that last one?,...那最后一个是什么?,...那最后一个是什么?
+english_events_pitstop:L7882,cdlambrole,FIX,"Yeah, I know how it sounds. But hey, the cult life is hard: there's days when there's too little food and too much poop.","是的,我知道这听起来如何。 但是,嘿,邪教生活是艰难的:有的时候食物太少,便便也太多.",对，我知道这话听着不太对劲。可教团生活不容易啊，有时候就是饭太少，屎太多。
+english_events_pitstop:L7883,cdlambrole,POLISH,And it's in those days when you feel blessed of having some those weirdos around.,"在那些日子,你觉得有这些怪人在身边是幸运的。",这种时候，你就会庆幸，身边有几个这样的怪人。
+english_events_pitstop:L7884,cdlambrole,POLISH,OK... what else other than having a penchant for poop?,... 除了对大便着迷还有别的吗?,好吧……除了爱吃屎，还有什么条件？
+english_events_pitstop:L7885,cdlambrole,FIX,"You'd need to be obedient; a real team player. I don't need any more free-thinking, opinionated dissenters in my cult.","你需要服从 真正的团队球员 我不需要我邪教里 任何自由思考,有意见的异见者",得听话，有团队精神。我可不想让教团里再多几个自由思考、主意一堆的异议分子。
+english_events_pitstop:L7886,cdlambrole,FIX,"They make good fertilizer, but terrible followers.","他们制造出很好的肥料,但可怕的追随者。",他们当肥料挺好，当信徒就差远了。
+english_events_pitstop:L7887,cdlambrole,KEEP,Noted.,已记.,已记.
+english_events_pitstop:L7888,cdlambrole,FIX,It's basically that: do you think you can abide my graceful rule and do your best to... not be useless?,"基本上,你可以遵守我的优雅规则 并尽力... 不是没用的吗?",基本就这些：你能服从我仁慈的统治，并尽最大努力……别当个废物吗？
+english_events_pitstop:L7889,cdlambrole,KEEP,I can try!,我可以试试!,我可以试试!
+english_events_pitstop:L7890,cdlambrole,POLISH,Then tell me: what can you bring to my flock? What'd be your main trait as a follower?,"那么告诉我,你能给我的羊群带来什么? 你作为追随者的主要特质是什么?",那你说说，能给我的信众带来什么？作为信徒，你最突出的特质是什么？
+english_events_pitstop:L7891,cdlambrole,FIX,Total Snacc: your delicious body is so tasty that followers will gain extra faith just by eating your corpse. Yum!,"总的斯纳克:你美味的身体是如此可口,以至于追随者只要吃下你的尸体就会获得额外的信心. 汤!",秀色可餐：你的身体美味到，信徒光是吃下你的尸体，就能额外增加信仰。真香！
+english_events_pitstop:L7892,cdlambrole,POLISH,Blindly Faithful: you're so committed to the Lamb that you're willing to gouge out your eyes to show your faith,"盲目的忠心:你对""羔羊""如此执着,你愿意挖出眼睛来显示你的信仰.",盲目虔诚：你对羔羊忠心耿耿，愿意挖出自己的眼睛，证明信仰。
+english_events_pitstop:L7893,cdlambrole,FIX,"Sarcastic Sidekick: You gain faith by teasing the Lamb. After all, every good leader should know how to laugh at themselves!","Sarcastic Sidekick:你通过取笑""羔羊""获得信心. 毕竟,每个好领导,都应该懂得如何取笑自己!",毒舌跟班：你靠调侃羔羊来增加信仰。毕竟，每个好领袖都该懂得自嘲！
+english_events_pitstop:L7895,cdlambrole,FIX,Eh... I've already got plenty of follower meat after last month's group sacrifices. I don't really need more.,"额... 在上个月的团体牺牲后,我已经得到了很多的跟随者肉. 我真的不需要更多钱了。",呃……上个月集体献祭以后，我已经有一大堆信徒肉了。真不缺这点。
+english_events_pitstop:L7896,cdlambrole,KEEP,"It's not about quantity, but quality!","这不是数量问题,而是质量问题!","这不是数量问题,而是质量问题!"
+english_events_pitstop:L7897,cdlambrole,FIX,"And strange as it sounds, I've recently got many comments in my Momentgram pics from people telling me how edible I am!","奇怪的是,我最近在我的动画片中 有很多评论 来自人们告诉我,我是多么的可食用!",虽然听着奇怪，可最近我发在Momentgram上的照片，底下好多人评论，说我看着多好吃！
+english_events_pitstop:L7898,cdlambrole,FIX,Check these:,检查这些 :,你看看这些：
+english_events_pitstop:L7899,cdlambrole,POLISH,"""Mamma mia, look at this pic! I'd eat you up, head to toes... especially the toes. Figure me salivating here!""","""妈妈咪呀,看这个相! 我会吃掉你,头到脚趾... 特别是脚趾. 想想我在这里流口水!""",“妈呀，看看这照片！想从头到脚把你吃个遍……尤其是脚趾。光想想我就流口水了！”
+english_events_pitstop:L7900,cdlambrole,FIX,"""what an ass! i'd eat that like groceries""","""真是个混蛋! 我会像吃杂货一样吃""",“这屁股！真想当饭吃。”
+english_events_pitstop:L7901,cdlambrole,FIX,"""hey baby, u into vore? DM me ;)""","""嘿,宝贝,你进入vore? 马克我;""",“宝贝，玩吞食癖吗？私聊我 ;)”
+english_events_pitstop:L7902,cdlambrole,KEEP,...,...,...
+english_events_pitstop:L7903,cdlambrole,FIX,"Oh, yeah, I was confused at first too. Lemme explain: this vore thing is when people fantasize with...","哦,是的,我一开始也很困惑。 让我来解释一下:这种空想是当人们幻想着...",哦，对，我一开始也没搞懂。我来解释：吞食癖就是，有人会幻想……
+english_events_pitstop:L7904,cdlambrole,FIX,I know what vore is.,我知道什么是沃尔。,我知道什么是吞食癖。
+english_events_pitstop:L7905,cdlambrole,FIX,"Then you get it! Everyone out there, expressing how much they'd like to eat my yummy yummy corpse once I die.","那你会得到它! 每个人在那里,表达 他们多想吃 我美味的美味尸体,一旦我死了。",那你就懂了！大家都在说，等我死了，有多想吃我这美味无比的尸体。
+english_events_pitstop:L7906,cdlambrole,FIX,"You know they are NOT talking literally, do you?",你知道他们不是在说话吧?,你知道，他们不是真的想吃你吧？
+english_events_pitstop:L7907,cdlambrole,FIX,What do you mean...?,你说什么... ?,什么意思……？
+english_events_pitstop:L7908,cdlambrole,FIX,Nevermind! I knew you might be skeptical -- which is why I whipped THIS up just in case!,别管了! 我就知道你可能很怀疑 所以我才把这事打乱了以防万一,算了！我就知道你可能不信，所以提前准备了这个，以防万一！
+english_events_pitstop:L7909,cdlambrole,FIX,"You unveil the thick, juicy steak that you've somehow been hiding this whole time!",你揭开你一直藏着的厚重多汁的牛排!,你亮出一块厚实多汁的肉排，天知道这一路，你把它藏在了哪里！
+english_events_pitstop:L7910,cdlambrole,FIX,Wow. And this is made of...?,哇哦 这是由... ?,哇。这是用什么做的……？
+english_events_pitstop:L7911,cdlambrole,FIX,"Oh, don't worry, it's nothing I can't survive without. C'mon, take a bite!","哦,不用担心,这是没有什么 我不能生存没有。 来吧,咬一口!",哦，别担心，少了那部分我也活得下去。来，尝一口！
+english_events_pitstop:L7912,cdlambrole,FIX,"Oh... oh, my... this really is something!",哦... 哦我…… 这真的是个东西!,哦……天啊……这可真不一般！
+english_events_pitstop:L7913,cdlambrole,FIX,"And it's so filling! The rich, smoky protein... %CURRENTPLAYERNAME%: You aren't just a snacc -- you're the whole meal!",它是如此充满了! 富含烟雾的蛋白质...  %CURRENTPLAYERNAME%:你不只是一顿饭——你是整顿的饭!,而且好顶饱！这浓郁、带着烟熏味的蛋白质……%CURRENTPLAYERNAME%，你不只是秀色可餐，你就是一整顿大餐！
+english_events_pitstop:L7914,cdlambrole,FIX,Told ya. I'm gonna be the very base of your cult's food pyramid.,告诉你了。 我要成为你们邪教食物金字塔的基地,早说了吧。我能当你们教团膳食金字塔的最底层。
+english_events_pitstop:L7915,cdlambrole,FIX,"Yup, this settles it: I've got to have you in the cult. I can't wait to eat the rest of you someday!","是的,这解决了: 我一定要让你加入邪教. 我迫不及待地想吃你们其余的一天!",嗯，就这么定了：我一定得让你入教。真等不及哪天，把你剩下的部分也吃了！
+english_events_pitstop:L7916,cdlambrole,FIX,"Oh, my...! That might be the nicest thing someone has ever told you. Totally worth the intense bleeding from cooking an undisclosed part of your body.",哦我…… 这可能是最好的一件事 有人告诉你。 完全值钱的血 烹饪你身体的未公开部分。,哦，天啊……！这可能是你听过最动听的一句话了。为了烹饪身上某个不便透露的部位，流那么多血，也完全值了。
+english_events_pitstop:L7918,cdlambrole,FIX,Wh-what?,什麽?,什、什么？
+english_events_pitstop:L7919,cdlambrole,POLISH,"Yeah, I'd totally gouge my eyes out with a spoon to prove my faith!","是啊,我会完全挖出眼睛 用勺子来证明我的信仰!",对啊，为了证明我的信仰，我绝对愿意拿勺子，把自己的眼睛挖出来！
+english_events_pitstop:L7920,cdlambrole,KEEP,But... why would you do that?,不过... 你为什么要这么做?,不过... 你为什么要这么做?
+english_events_pitstop:L7921,cdlambrole,FIX,Who knows? The whims of the all-mighty Lamb are not for blind penitents like me to know!,谁知道呢? 万能的羔羊的一时冲动 不适合像我这样的盲目忏悔者知道,谁知道呢？全能羔羊的心意，哪是我这种盲目忏悔的信徒能揣测的！
+english_events_pitstop:L7922,cdlambrole,FIX,"Now, hold my legs down while I sever my optic nerve. Fair warning: I'm a kicker!","现在,把我的腿压住,而我切断了我的视神经。 公平警告:我是个踢球的!",来，帮我压住腿，我要切断视神经了。先提醒你，我会乱踢的！
+english_events_pitstop:L7923,cdlambrole,POLISH,"Stop it, %CURRENTPLAYERNAME%! I DON'T want you to gouge out your eyes for me!",别闹了 %CURRENTPLAYERNAME%! 我不想你为我挖出你的眼睛!,住手，%CURRENTPLAYERNAME%！我不想让你为我挖眼睛！
+english_events_pitstop:L7924,cdlambrole,KEEP,Oh...,哦...,哦...
+english_events_pitstop:L7925,cdlambrole,KEEP,Are you sure?,你确定吗?,你确定吗?
+english_events_pitstop:L7926,cdlambrole,FIX,"PRETTY MUCH, YES!","相当漂亮,是的!",确定得很，没错！
+english_events_pitstop:L7927,cdlambrole,POLISH,What purpose would that serve to the cult!?,那对邪教有什么作用?,这对教团能有什么用啊！？
+english_events_pitstop:L7928,cdlambrole,KEEP,...,...,...
+english_events_pitstop:L7929,cdlambrole,POLISH,Having some spare eyeballs?,有多余的眼球吗?,……能多点备用眼球？
+english_events_pitstop:L7930,cdlambrole,FIX,WHAT FOR!?,为什么?,拿来干嘛啊！？
+english_events_pitstop:L7931,cdlambrole,FIX,...eyeball emergency?,眼球紧急?,……应付眼球紧急情况？
+english_events_pitstop:L7932,cdlambrole,KEEP,...,...,...
+english_events_pitstop:L7933,cdlambrole,FIX,...I can give you one of my lungs. The good one!,我可以给你我的肺 好样的!,……我可以给你一个肺。好的那个！
+english_events_pitstop:L7934,cdlambrole,FIX,No.,没有。,不要。
+english_events_pitstop:L7935,cdlambrole,POLISH,"Okay, fine, BOTH lungs. Final offer.","好吧,好吧,两个肺。 最终报价。",行吧行吧，两个肺都给你。最后报价了。
+english_events_pitstop:L7936,cdlambrole,FIX,...You made this weird. I'm leaving now.,...你使这很奇怪。 我现在就走,……被你搞得好怪。我先走了。
+english_events_pitstop:L7937,cdlambrole,FIX,"The Lamb leaves. Bummer. You consider gouging out your eyes anyway to make yourself feel better, but it's just not the same.","羊叶出. 可恶 你考虑挖出你的眼睛,反正是为了让自己感觉好点, 但情况并非如此。",羔羊走了。真扫兴。你琢磨着，要不还是把眼睛挖出来，让自己好受点，可感觉总归不一样了。
+english_events_pitstop:L7939,cdlambrole,KEEP,So... you're going to insult me?,所以说... 你要侮辱我吗?,所以说... 你要侮辱我吗?
+english_events_pitstop:L7940,cdlambrole,FIX,"Nooo, not INSULT you. I'm gonna lightly rib and tease you, like those lovable sassy side characters in romcoms.","不,没有打扰你。 我要轻轻地取笑你 就像那些浪漫的可爱的侧面角色",不——是侮辱你。就是轻轻损损你、逗逗你，像爱情喜剧里那些讨喜又嘴欠的配角。
+english_events_pitstop:L7941,cdlambrole,FIX,But I don't need (nor want) a lovable sassy side character.,但我不需要(或想要)可爱的侧面角色.,可我不需要，也不想要一个讨喜又嘴欠的配角。
+english_events_pitstop:L7942,cdlambrole,POLISH,"Sure you do! Just picture it: every time you walk in to give a sermon, I'll say, ""Uh oh, here comes trouble!""","当然了! 想象一下:每次你走进来布道时,我都会说:""哦,麻烦来了!""",当然需要！想想看，每次你进来布道，我就说：“哟，麻烦来咯！”
+english_events_pitstop:L7943,cdlambrole,POLISH,"Or when you finally come back after a long crusade, I'll be all: ""Well, well, well, look who finally decided to show up.""","或者当你在漫长的十字军东征之后终于回来时, 我会说: “好吧,好吧,看看谁最终决定要出现。”",或者，你漫长的圣战结束，终于回来了，我就来一句：“哟哟哟，看看谁终于舍得露面了。”
+english_events_pitstop:L7944,cdlambrole,KEEP,...and what purpose would that serve exactly?,...那究竟有什么用呢? .,...那究竟有什么用呢? .
+english_events_pitstop:L7945,cdlambrole,FIX,"Well, for starters, funnily poking at your flaws will make you relatable!","好吧,首先,滑稽地戳穿你的缺陷 会让你重新受欢迎!",首先，拿你的缺点开开玩笑，会显得亲切，让人有共鸣啊！
+english_events_pitstop:L7946,cdlambrole,POLISH,"I am a cult leader, being relatable is most definitely not part of the job.","我是一个邪教领袖, 平易近人 绝对不是工作的一部分。",我是教团领袖，平易近人绝对不在职责范围里。
+english_events_pitstop:L7947,cdlambrole,POLISH,"You'd only be sporadically incurring into casual blasphemy, which is severely punished.","你只会零星地发生 随意的亵渎行为, 这受到严厉惩罚。",你这只能算时不时地随口亵渎一下神明，可那是要受重罚的。
+english_events_pitstop:L7948,cdlambrole,FIX,"Uh oh, here comes trouble!","哦,哦,这里来了麻烦!",哟，麻烦来咯！
+english_events_pitstop:L7949,cdlambrole,KEEP,...,...,...
+english_events_pitstop:L7950,cdlambrole,POLISH,"OK, I'm gonna tell you what: I will now leave before this gets ugly.","好吧,我告诉你,在事情变得丑陋之前,我现在就走。",好，我这么跟你说吧：趁事情还没闹得难看，我现在就走。
+english_events_pitstop:L7951,cdlambrole,FIX,"You know: ""your internal organs aren't that internal anymore"" kind of ugly.","""你的内脏已经不是那么内脏了"" 有点丑了",你懂吧，就是“你的内脏不再长在身体里面”的那种难看。
+english_events_pitstop:L7952,cdlambrole,FIX,The Lamb walks into the dead of the night indeed.,羔羊确实走入了黑夜的死地。,羔羊果然走进了深沉的夜色。
+english_events_pitstop:L7953,cdlambrole,FIX,"Yeah! Well, for someone who owns so many fleeces, you could afford buying at least one pair of pants!","对! 好吧,对于拥有这么多羊绒的人来说, 你至少买得起一条裤子!",对！不过话说回来，都有那么多件羊毛披风了，总买得起一条裤子吧！
+english_events_pitstop:L7954,cdlambrole,FIX,"But you're definitely alone, with no one to appreciate your sassy remarks. Bummer.",但你绝对是独自一人 没人会欣赏你那又粗鲁的言辞 可恶,可这儿只剩下你一个人，根本没人欣赏你嘴欠的俏皮话。真扫兴。

@@ -8,7 +8,7 @@
   "english_metatexts:TIT_BTN_GAL": "画廊",
   "english_metatexts:TIT_BTN_GAL_ART": "艺术画廊",
   "english_metatexts:TIT_BTN_GAL_ACH": "成就",
-  "english_metatexts:TIT_BTN_MET": "元商店",
+  "english_metatexts:TIT_BTN_MET": "幕后商店",
   "english_metatexts:TIT_BTN_STI": "贴纸工坊",
   "english_metatexts:TIT_BTN_QUT": "退出游戏",
   "english_metatexts:STT_MSC": "音乐",
@@ -31,8 +31,8 @@
   "english_events_prologue:L21": "……那时，我们年轻，无所畏惧。",
   "english_events_prologue:L22": "夏日将尽，波莉和斯科特计划来一场公路旅行。",
   "english_events_prologue:L23": "整件事注定会彻底失控——毕竟，主谋可是这两位恶作剧大师：",
-  "english_events_prologue:L24": "斯科特·豪尔（22 岁），狼人运动健将；脑容量虽小，却有一颗大得离谱的心。",
-  "english_events_prologue:L25": "以及波莉·盖斯特（23 岁？），派对幽灵，对各种不该碰的东西都有着无穷无尽的渴望。",
+  "english_events_prologue:L24": "斯科特·嚎尔（22 岁），狼人运动健将；脑容量虽小，却有一颗大得离谱的心。",
+  "english_events_prologue:L25": "以及波莉·鬼斯特（23 岁？），派对幽灵，对各种不该碰的东西都有着无穷无尽的渴望。",
   "english_events_prologue:L26": "单独看，他们每一个都是混乱的化身……",
   "english_events_prologue:L27": "……可凑到一起呢？他们简直是胡闹惹事的完美组合。",
   "english_events_prologue:L28": "究竟哪个脑子正常的人，会答应和他们一起上路？",
@@ -88,4 +88,3 @@
   "english_metatexts:PRN_GOD_SHE": "女神",
   "english_metatexts:PRN_GOD_THY": "神明"
 }
-

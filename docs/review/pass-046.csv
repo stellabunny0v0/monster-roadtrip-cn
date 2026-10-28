@@ -1,0 +1,74 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_pitstop:L5359,clamb1,KEEP,How to run a cult,如何管理邪教,如何管理邪教
+english_events_pitstop:L5361,clamb1,KEEP,"Uhm, that's a good question.","嗯,这是一个很好的问题。","嗯,这是一个很好的问题。"
+english_events_pitstop:L5362,clamb1,KEEP,Running a cult is full of challenges!,经营邪教组织充满了挑战!,经营邪教组织充满了挑战!
+english_events_pitstop:L5363,clamb1,POLISH,I can only imagine! Convincing all those people to abandon their lives just to worship you like a deity...,我只能想象 说服所有那些人放弃他们的生活 只是为了像神一样崇拜你...,想也知道！得说服那么多人放弃原来的生活，把你当神一样崇拜……
+english_events_pitstop:L5364,clamb1,KEEP,"Oh, no, that part is actually quite easy.","哦,不,那部分其实相当容易。","哦,不,那部分其实相当容易。"
+english_events_pitstop:L5365,clamb1,POLISH,For some reason I keep walking into people who are ready to devote their lives to me.,"出于某种原因,我一直走进那些愿意为我奉献生命的人中间。",不知道为什么，我总能碰到愿意把一生都奉献给我的人。
+english_events_pitstop:L5366,clamb1,POLISH,"I knew I was charming, but not THAT charming!","我知道我很迷人,但没那么迷人!",我知道自己很有魅力，可没想到有这么大魅力！
+english_events_pitstop:L5367,clamb1,KEEP,Even your biggest foes can become faithful followers!,即使你最大的敌人也能成为忠实的追随者!,即使你最大的敌人也能成为忠实的追随者!
+english_events_pitstop:L5368,clamb1,FIX,(If you hit them hard enough.),如果你打得够狠的话,（只要揍得够狠。）
+english_events_pitstop:L5369,clamb1,FIX,Taking notes here.,在这里做笔记。,记下了。
+english_events_pitstop:L5370,clamb1,FIX,"Besides that, the hard part is keeping the helpless little cultists alive and appeased.","除此之外,困难的部分是让无助的小邪教活下来并安抚.",除此之外，难的是让那些什么都不会的小信徒好好活着，还得哄他们开心。
+english_events_pitstop:L5371,clamb1,POLISH,Did you know that they need food and sleep EVERY DAY?,你知道他们每天需要食物和睡眠吗?,你知道吗？他们每天都得吃饭、睡觉！
+english_events_pitstop:L5372,clamb1,KEEP,No way!,不会吧!,不会吧!
+english_events_pitstop:L5373,clamb1,POLISH,And they're always hanging around piles of poop and vomit! It's like they WANT to get sick and die!,他们总是在一堆大便和呕吐物上晃来晃去 就像他们想生病和死亡一样!,而且，他们老是在一堆堆屎和呕吐物旁边晃悠！简直像巴不得自己生病死掉！
+english_events_pitstop:L5374,clamb1,POLISH,"Um, I'm sorry, did you say ""piles of poop""?","嗯,对不起,你是不是说""大便""?",呃，抱歉，你刚刚说的是“一堆堆屎”？
+english_events_pitstop:L5375,clamb1,FIX,"Oh, yeah. You don't even want to KNOW about all the poop cleanup.","哦,对了。 你甚至不想知道 所有的粪便清理。",哦，对。要清理多少屎，你绝对不会想知道。
+english_events_pitstop:L5376,clamb1,POLISH,Nobody ever warns you how much poop one cult can produce.,没有人会警告你 一个邪教能产生多大的便便,从来没人提前告诉你，一个邪教能拉出多少屎。
+english_events_pitstop:L5377,clamb1,FIX,Yikes. I guess being a cult leader isn't all glitz and glamor.,唉哟! 我猜做一个邪教领袖 并不是所有的滑翔和魅力。,嘶，看来当邪教教主，也不全是光鲜亮丽的事。
+english_events_pitstop:L5378,clamb1,KEEP,"You betcha, my friend.","当然,我的朋友。","当然,我的朋友。"
+english_events_pitstop:L5379,clamb1,POLISH,But you know what? I love my little flock. I'd clean all the poop in the world for them.,但是你知道吗? 我爱我的小羊群。 我愿意为他们清理世界上所有的粪便。,不过你知道吗？我爱我这群小信徒。为了他们，全世界的屎我都愿意铲。
+english_events_pitstop:L5380,clamb1,KEEP,That's so sweet of you.,你真贴心,你真贴心
+english_events_pitstop:L5381,clamb1,POLISH,"It's the least I can do. I mean, they're willing to give their lives for me (and many of them probably will).","至少我能做到这一点。 我的意思是,他们愿意为我献出自己的生命(其中许多人很可能会).",这是我该做的。毕竟，他们愿意为我献出生命（其中很多人大概真会如此）。
+english_events_pitstop:L5382,clamb1,POLISH,"Why this sudden interest in cult leadership, though?",为什么突然对邪教的领导感兴趣呢?,不过，你怎么突然对当邪教教主感兴趣了？
+english_events_pitstop:L5383,clamb1,POLISH,I just want to keep my career options open! You never know.,我只是想保持我的职业选择权! 你永远不知道。,我只是想给职业发展多留点选择！谁知道以后会怎样呢。
+english_events_pitstop:L5384,clamb1,KEEP,"Oh, your own cult? That sounds fun!","哦,你自己的邪教吗? 这听起来很有趣!","哦,你自己的邪教吗? 这听起来很有趣!"
+english_events_pitstop:L5385,clamb1,KEEP,Our cults could even become friends.,我们的邪教甚至可以成为朋友。,我们的邪教甚至可以成为朋友。
+english_events_pitstop:L5386,clamb1,POLISH,(Otherwise I may have to bring destruction upon you.),(否则我可能会给你带来毁灭),（不然，我可能就得灭了你们。）
+english_events_pitstop:L5387,clamb1,KEEP,Duly noted.,都记下来了,都记下来了
+english_events_pitstop:L5388,clamb1,POLISH,You two keep talking about the hardships and challenges of running a cult.,你们两个一直在谈论 经营邪教的艰难和挑战,你们继续聊着经营邪教的种种艰辛与挑战。
+english_events_pitstop:L5389,clamb1,POLISH,"The Lamb seems like such a good cult leader that, for a moment, you consider becoming a cult follower instead of a cult leader.","羔羊似乎是一个很好的邪教领袖,在一瞬间,你考虑成为邪教追随者而不是邪教领袖.",羔羊看起来真是个出色的教主，有那么一瞬间，你觉得与其自己当教主，不如直接去当信徒。
+english_events_pitstop:L5398,clamb2,FIX,Cult rituals,宗教仪式,邪教仪式
+english_events_pitstop:L5400,clamb2,FIX,"Oooh, rituals are some of the most fun you can have while being in a cult!","哦,仪式是你们在邪教中可以享受的最乐趣!",哦——在邪教里，参加仪式可是最好玩的事之一！
+english_events_pitstop:L5401,clamb2,POLISH,"Especially considering most of the other activities are either ""hard labor"", ""hours of prayer"", or ""dying.""","特别是考虑到其他大多数活动要么是""艰苦劳动"",""祈祷时数"",要么是""去死"".",尤其是其他活动基本只有“苦役”“祈祷好几个小时”，或者“去死”的时候。
+english_events_pitstop:L5402,clamb2,FIX,I mean... some of the rituals also include dying; but the fun kind!,我是说... 有的仪式也包括去死;有的则是取乐之类!,我是说……有些仪式也得去死，不过是好玩的那种！
+english_events_pitstop:L5403,clamb2,POLISH,"Eh... okay. What are some other rituals you do without the ""dying"" bit?","额... 还好。 没有""去死""的仪式是什么?",呃……好吧。那你们有没有什么不需要“去死”的仪式？
+english_events_pitstop:L5404,clamb2,POLISH,"Well, there's bonfires, feasts, funerals, holy days of rest...","嗯,有篝火,宴会,葬礼,神圣的休息日...",当然。有篝火、宴席、葬礼，还有神圣的休息日……
+english_events_pitstop:L5405,clamb2,FIX,"...fighting pits, necromantic resurrections, sacrifices of the flesh...","...战斗坑, 阴道复活, 牺牲肉体...",……角斗场、死灵复活、血肉献祭……
+english_events_pitstop:L5406,clamb2,POLISH,"Wait, no, I'm pretty sure that last one involves dying.","等等,不,我敢肯定,最后一个涉及死亡。",等等，不对。最后那个，我很确定是得死的。
+english_events_pitstop:L5407,clamb2,FIX,"Yeah, it sounds like it.","是啊,听起来像它。",嗯，听着是。
+english_events_pitstop:L5408,clamb2,FIX,"But does it involve the fun kind of ""dying"", though?","但它是否涉及 有趣的类型""死亡"",虽然?",可那也是好玩的那种“死”吗？
+english_events_pitstop:L5409,clamb2,KEEP,Totally!,绝对!,绝对!
+english_events_pitstop:L5410,clamb2,POLISH,"A big tentacle erupts from the ground and gives a big, warm hug to the follower.",一只大触手从地上喷出并给跟随者一个大而温暖的拥抱.,一条巨大的触手从地下钻出来，给信徒一个大大的、温暖的拥抱。
+english_events_pitstop:L5411,clamb2,POLISH,"The follower is all like ""Aaaaaaaaah!"", which you know is a fun sound, because it's the same sound you'd make if you were riding a roller coaster!","追随者都像""Aaaaaaaaaah!"",你知道这是一个有趣的声音,因为如果你骑起过山车,你会发出同样的声音!",信徒就会“啊啊啊啊——！”你知道，这肯定是开心的叫声，毕竟坐过山车时，大家也是这么叫的！
+english_events_pitstop:L5412,clamb2,FIX,"And the tentacle is all like ""(UNINTELLIGIBLE SCREECHING ELDRITCH NOISES)"".","触手就像""(UNINTELIGILIBLECH CHELDRICH NOISES)""。",触手则会这样：“（无法听懂的、刺耳诡异的怪叫）”。
+english_events_pitstop:L5413,clamb2,KEEP,...,...,...
+english_events_pitstop:L5414,clamb2,KEEP,Fun!,开心!,开心!
+english_events_pitstop:L5415,clamb2,POLISH,"Eh... ah... well, the feasts and the bonfires surely sound like a good time!","额... 摆... 好了,宴会和篝火 听起来确实像一个好时机!",呃……啊……好吧，宴席和篝火听着，肯定挺好玩的！
+english_events_pitstop:L5416,clamb2,FIX,Yay! I can teach you some of the lyrics to the chanting we do. It involves a lot of arcane forbidden languages... and repeating my name a lot!,赞! 我可以教你一些歌词 歌词我们做。 它涉及到很多的 北极的被禁语言... 经常重复我的名字!,好耶！我可以教你几句我们吟唱的歌词。里面有好多神秘的禁忌语言……还会不停重复我的名字！
+english_events_pitstop:L5417,clamb2,FIX,Sounds like a plan!,听起来像一个计划!,就这么定了！
+english_events_pitstop:L5418,clamb2,FIX,You spend the rest of the night learning cult chanting. The Lamb even improvises a bonfire and you do some silly ritual dancing together. And you know what? It IS fun!,你整晚都在学习邪教的口号 羔羊甚至即兴的篝火 你们一起做一些愚蠢的仪式 你知道吗? 这很有趣!,接下来的时间，你一直在学邪教的吟唱。羔羊甚至临时生了堆篝火，和你一起跳了些傻乎乎的仪式舞。你还别说，真挺好玩的！
+english_events_pitstop:L5427,clamb3,KEEP,Building the cult headquarters,建立邪教组织总部,建立邪教组织总部
+english_events_pitstop:L5429,clamb3,FIX,Building out the headquarters took FOREVER. But we've come a long way!,建立总部 永远没有。 但我们已经走了很长的路!,修建总部可花了好长时间。不过，现在已经大不一样了！
+english_events_pitstop:L5430,clamb3,FIX,"When we started out, we were just a group of poor, starving souls in sleeping bags.","当我们开始的时候,我们只是一群穷困,饿死的灵魂在睡袋里.",刚开始，我们就是一群穷得叮当响、饿得前胸贴后背的人，睡觉只能钻睡袋。
+english_events_pitstop:L5431,clamb3,FIX,"Morale was low, and poop levels were high.","士气低落,而大便含量也很高.",士气很低，屎倒是堆得很高。
+english_events_pitstop:L5432,clamb3,FIX,"So I asked myself, ""What would make this poor, hungry flock of mine happy?"" And then it came to me!","于是我问自己:""什么能让这群可怜的,饥饿的我的羊群快乐?""然后它来到我身边!",于是我问自己：“怎么才能让我这群又可怜、又饿的小信徒开心呢？”然后，我就想到办法了！
+english_events_pitstop:L5433,clamb3,FIX,They needed a huge statue of me to pray to every day!,他们需要一个巨大的雕像 我每天祈祷!,他们需要一座我的巨型雕像，好每天向我祈祷！
+english_events_pitstop:L5434,clamb3,KEEP,Did it work?,有用吗?,有用吗?
+english_events_pitstop:L5435,clamb3,FIX,I think so! They sure chant at that statue a lot.,我想是这样! 他们经常在雕像上高呼口号,我觉得挺管用的！他们确实老在雕像前吟唱。
+english_events_pitstop:L5436,clamb3,POLISH,"That made me think: ""Why stop at a big statue of myself?""","这让我想:""为什么停在我自己的大雕像上?""",这又让我想：“为什么只给自己造一座大雕像就停手呢？”
+english_events_pitstop:L5437,clamb3,POLISH,So I built a whole chapel for the followers to gather and listen to my holy word.,于是我为追随者建造了一座完整的礼拜堂来聚集并聆听我的圣言.,所以，我又建了一整座礼拜堂，让信徒们聚在一起，聆听我的圣言。
+english_events_pitstop:L5438,clamb3,FIX,They LOVE listening to my sermons. And sometimes there's even sacrifices!,他们喜欢听我的布道 有时甚至有牺牲!,他们可爱听我布道了。有时还会安排献祭！
+english_events_pitstop:L5439,clamb3,KEEP,You spoil them!,你宠坏他们了!,你宠坏他们了!
+english_events_pitstop:L5440,clamb3,FIX,"Hehe, those little rascals deserve that and more!","嘿,这些小流氓 罪有应得!",嘿嘿，那些小淘气值得这么好的待遇，甚至更多！
+english_events_pitstop:L5441,clamb3,POLISH,"Anyway, once I covered those basic necessities, I could move on to building less important structures, such as a cooking fire or a healing bay.","总之,一旦我解决了这些基本必需品,我就可以着手建造一些不太重要的建筑,如烹饪用火或疗伤湾等。",总之，满足了这些基本需求后，我才开始修建不那么重要的设施，比如做饭的火堆、疗伤的地方。
+english_events_pitstop:L5442,clamb3,KEEP,"Whoa, your headquarters doesn't sound half bad. I may end up moving there.","哇,你的总部听起来还不错 我可能最终会搬到那里。","哇,你的总部听起来还不错 我可能最终会搬到那里。"
+english_events_pitstop:L5443,clamb3,FIX,"You're always welcome, %CURRENTPLAYERNAME%. The only price is eternal worship.","你总是欢迎, %CURRENTPLAYERNAME%. 唯一的代价是永远的崇拜。",%CURRENTPLAYERNAME%，随时欢迎你来，唯一的代价就是永远崇拜我。
+english_events_pitstop:L5444,clamb3,POLISH,And this is only the beginning. I wonder what new structures I can build now that I've covered all the essentials. Some sort of fun building perhaps...,"这仅仅是开始。 我不知道现在我能建造什么新结构 因为我已经覆盖了所有的基本。 某种有趣的建筑,也许...",这还只是个开始。基本需求都满足了，接下来还能建点什么呢？也许该造点好玩的……
+english_events_pitstop:L5445,clamb3,KEEP,"Ooh, like a nightclub! Nightclubs are fun!","哦,像一个夜总会! 夜总会很有趣!","哦,像一个夜总会! 夜总会很有趣!"
+english_events_pitstop:L5446,clamb3,FIX,"Hmm, I was thinking more in the vein of demonic summoning circles and confession booths and statues made of the bones of my enemies...","嗯,我更想的是 恶魔召唤圈 忏悔亭和雕像 由我的敌人的骨骼...",嗯，我想的更像是恶魔召唤法阵、告解亭，还有用敌人的骨头造的雕像……
+english_events_pitstop:L5447,clamb3,KEEP,But a nightclub could be cool too!,但夜总会也不错!,但夜总会也不错!
+english_events_pitstop:L5448,clamb3,POLISH,How many bones do you think I'd need to build one?,你以为我需要多少骨头来造一个?,你觉得造一间得用多少骨头？
+english_events_pitstop:L5449,clamb3,FIX,No idea. Let's figure that one out!,"不知道,我还不知道呢。 让我们想出一个!",不知道，咱们研究研究！
+english_events_pitstop:L5450,clamb3,FIX,You and the Lamb spend the rest of the night planning the new nightclub. It turns out you'll need a LOT of bones.,"你和""羔羊""一起过夜 策划新夜总会 事实证明你需要很多骨头",接下来的时间，你和羔羊一直在规划那间新夜总会。结果发现，需要的骨头可真不少。

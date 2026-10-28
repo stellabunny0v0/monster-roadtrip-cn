@@ -1,0 +1,121 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_bubbles:L409,bubble_going_merkingdom_outpost,FIX,Whoa...,珃...,哇……
+english_events_bubbles:L410,bubble_going_merkingdom_outpost,FIX,The Vanderbilts have been busy.,万德自来已来多事.,范德比尔特家族，还真没闲着啊。
+english_events_bubbles:L416,bubble_going_farm,FIX,Cows!,牛头!,牛！
+english_events_bubbles:L417,bubble_going_farm,FIX,"They sure are, Scott.","他们肯定, 斯科特.",没错，是牛，斯科特。
+english_events_bubbles:L423,bubble_going_farm2,KEEP,I hope they have sheep!,我希望他们有羊!,我希望他们有羊!
+english_events_bubbles:L424,bubble_going_farm2,FIX,I want some sheep's clothing!,我要羊的衣服! 来!,我想披上羊皮！
+english_events_bubbles:L430,bubble_going_fortune_teller,FIX,Thirty bucks for a séance?!,30块钱的圣舞?,招一次魂，要三十块？！
+english_events_bubbles:L431,bubble_going_fortune_teller,POLISH,"And here I am, talking to people for free!","我在这里,免费与人交谈!",我在这儿跟人聊天，可都是免费的！
+english_events_bubbles:L437,bubble_going_rodeo,KEEP,I wanna ride a horsie!,我想骑一匹马!,我想骑一匹马!
+english_events_bubbles:L438,bubble_going_rodeo,KEEP,Cool. I'll ride a cowboy.,酷毙了 我会骑牛仔。,酷毙了 我会骑牛仔。
+english_events_bubbles:L444,bubble_going_village_abandoned,FIX,Where did everybody go?,大家都去哪了? 他们都去哪了?,人都去哪了？
+english_events_bubbles:L445,bubble_going_village_abandoned,FIX,Maybe they're all in the bathroom?,也许他们都在浴室里?,也许全在上厕所？
+english_events_bubbles:L451,bubble_going_gift_shop,KEEP,Polly... what is this place?,波莉... 这是什么地方?,波莉... 这是什么地方?
+english_events_bubbles:L452,bubble_going_gift_shop,KEEP,I don't really know...,我其实不知道...,我其实不知道...
+english_events_bubbles:L458,bubble_going_national_park,FIX,GOTTA CHASE THAT SQUIRREL!,得查查那个小混混!,得去追那只松鼠！
+english_events_bubbles:L459,bubble_going_national_park,FIX,"NOT WHILE YOU'RE DRIVING, SCOTT!","不是当你开车,斯科特!",开车的时候不行，斯科特！
+english_events_bubbles:L465,bubble_going_monster_truck,KEEP,I LOVE MONSTER TRUCKS!,我爱怪兽卡车!,我爱怪兽卡车!
+english_events_bubbles:L466,bubble_going_monster_truck,FIX,"They're like trucks, but BIG!","他们就像卡车,但大!",就像卡车，但是特别大！
+english_events_bubbles:L472,bubble_going_larp2,POLISH,I'm gonna dress as a tree!,我要穿成一棵树!,我要扮成一棵树！
+english_events_bubbles:L473,bubble_going_larp2,POLISH,Really? In a fantasy medieval setting?,真的吗? 在幻想的中世纪环境里?,真的？可那是中世纪奇幻背景啊？
+english_events_bubbles:L474,bubble_going_larp2,FIX,I'll be a fantasy medieval tree!,我会成为一棵幻想中世纪之树!,那我就当一棵中世纪奇幻树！
+english_events_bubbles:L480,bubble_going_cult_place,KEEP,"What does this cult worship, Polly?",这个邪教崇拜什么? 波莉?,这个邪教崇拜什么? 波莉?
+english_events_bubbles:L481,bubble_going_cult_place,FIX,"Soon, they'll be worshipping THIS BOOTY!","很快,他们就会崇拜这个家伙了!",很快，他们就会来拜我这翘臀了！
+english_events_bubbles:L487,bubble_going_mirage,KEEP,What is that place...?,这是什么地方... ?,这是什么地方... ?
+english_events_bubbles:L488,bubble_going_mirage,KEEP,"Wait, you see it too...?","等等,你也看见了?","等等,你也看见了?"
+english_events_bubbles:L494,bubble_going_carnival,KEEP,I'm gonna win all the games!,我会赢得所有的比赛!,我会赢得所有的比赛!
+english_events_bubbles:L495,bubble_going_carnival,KEEP,And I'm gonna drink all the beers.,我要喝掉所有的啤酒。,我要喝掉所有的啤酒。
+english_events_bubbles:L501,bubble_going_dungeon,FIX,Ready to gain some experience?,准备好获得一些经验吗?,准备好赚点经验了吗？
+english_events_bubbles:L502,bubble_going_dungeon,FIX,This road trip has already been the best experience!,这趟公路旅行已经是最好的经验了!,这趟公路旅行，已经是最棒的经历了！
+english_events_bubbles:L503,bubble_going_dungeon,FIX,Aww!,呜!,哎呀，好暖！
+english_events_bubbles:L509,bubble_going_dungeon2,FIX,THE PRANK MASTERZ ARE DUNGEON-CRAWLING!,普兰克马斯特兹是 邓肯狂欢!,恶作剧大师，要下地牢啦！
+english_events_bubbles:L510,bubble_going_dungeon2,KEEP,Hooray!,万岁!,万岁!
+english_events_bubbles:L516,bubble_going_manor_rich,KEEP,How much money do these people have?,这些人有多少钱?,这些人有多少钱?
+english_events_bubbles:L517,bubble_going_manor_rich,POLISH,"Like, a hundred bucks at least!","像,至少一百块钱!",怎么也得有一百块吧！
+english_events_bubbles:L523,bubble_going_tech_company,KEEP,"How does technology work, Polly?","技术是如何工作的, 波莉?","技术是如何工作的, 波莉?"
+english_events_bubbles:L524,bubble_going_tech_company,KEEP,There's a tiny wizard in every computer.,每台电脑里都有个小巫师,每台电脑里都有个小巫师
+english_events_bubbles:L525,bubble_going_tech_company,FIX,Whoa...,珃...,哇……
+english_events_bubbles:L531,bubble_going_casino,FIX,YAAASSS! LET'S ROLL THE DICE!,亚亚西斯! 让我们摇动地盘!,好耶！来掷骰子吧！
+english_events_bubbles:L537,bubble_going_casino2,FIX,Lady Luck will be on our side!,幸运夫人会站在我们这边的!,幸运女神，会站在我们这边！
+english_events_bubbles:L538,bubble_going_casino2,KEEP,...I hope.,...我希望这样。,...我希望这样。
+english_events_bubbles:L544,bubble_going_planetarium,FIX,I can't believe they found a way to bring space to us!,真不敢相信他们找到办法给我们带来空间了!,真不敢相信，他们居然能把太空搬到我们面前！
+english_events_bubbles:L550,bubble_going_planetarium2,KEEP,Hooray! Stars!,万岁! 星星们!,万岁! 星星们!
+english_events_bubbles:L551,bubble_going_planetarium2,FIX,I'm gonna watch 'em all!,我会看着他们所有人!,我要把它们全看个遍！
+english_events_bubbles:L557,bubble_going_battle_royale,KEEP,We're so dead...,我们死定了...,我们死定了...
+english_events_bubbles:L558,bubble_going_battle_royale,FIX,"Well, you guys are, anyway.","嗯,你们是,反正。",反正，你们是死定了。
+english_events_bubbles:L564,bubble_going_battle_royale2,KEEP,"Sure, why not?","当然,为什么不呢?","当然,为什么不呢?"
+english_events_bubbles:L565,bubble_going_battle_royale2,KEEP,I'm already dead anyway.,反正我已经死了,反正我已经死了
+english_events_bubbles:L571,bubble_going_city_90s,KEEP,"This place feels... nostalgic, somehow.",这个地方感觉... 有点怀旧,这个地方感觉... 有点怀旧
+english_events_bubbles:L577,bubble_going_city_90s2,FIX,WATCH OUT FOR THAT EXPLOSION!,看着那场爆炸!,小心爆炸！
+english_events_bubbles:L583,bubble_going_prison,KEEP,Why are we going to prison?,我们为什么要进监狱?,我们为什么要进监狱?
+english_events_bubbles:L584,bubble_going_prison,KEEP,Are we in trouble...?,我们有麻烦了吗?,我们有麻烦了吗?
+english_events_bubbles:L590,bubble_going_prison2,FIX,THE PRANK MASTERZ ARE GOING TO PRISON!,普拉克・马斯特兹要进监狱了!,恶作剧大师，要进监狱啦！
+english_events_bubbles:L591,bubble_going_prison2,FIX,Hooray...?,万岁...,万岁……？
+english_events_bubbles:L597,bubble_going_border,KEEP,"Wait, we're crossing a border?","等等,我们要越过边境?","等等,我们要越过边境?"
+english_events_bubbles:L598,bubble_going_border,FIX,But I don't have my passport!,但我没有护照!,可我没带护照！
+english_events_bubbles:L604,bubble_going_border2,FIX,THE PRANK MASTERZ ARE GOING INTERNATIONAL!,普兰克·马斯特兹正走向国际!,恶作剧大师，冲出国门啦！
+english_events_bubbles:L605,bubble_going_border2,KEEP,Hooray!,万岁!,万岁!
+english_events_bubbles:L611,bubble_going_village_secluded,KEEP,That's a big wall...,那是一堵大墙...,那是一堵大墙...
+english_events_bubbles:L612,bubble_going_village_secluded,FIX,I hope we don't have to pay to get past it.,希望我们不用付钱才能渡过难关,希望不用交钱，才让我们穿过去。
+english_events_bubbles:L618,bubble_going_caves,FIX,"Time to penetrate a dark, deep hole!",是时候穿透一个黑暗而深的洞了!,是时候深入一个又黑又深的洞了！
+english_events_bubbles:L619,bubble_going_caves,KEEP,Woohoo! I love holes!,呜呼! 我喜欢洞!,呜呼! 我喜欢洞!
+english_events_bubbles:L625,bubble_going_gas_trolls2,FIX,I'm not sure I want to deal with trolls...,我不确定我是不是想对付巨怪...,我不太想跟巨魔打交道……
+english_events_bubbles:L626,bubble_going_gas_trolls2,FIX,They're so mean online...,他们在网上太卑鄙了...,他们在网上骂人可凶了……
+english_events_bubbles:L632,bubble_going_motel_fancy2,KEEP,So many rooms!,这么多房间!,这么多房间!
+english_events_bubbles:L633,bubble_going_motel_fancy2,FIX,And every room is a potential prank!,每个房间都是个潜在的恶作剧!,每个房间，都有搞恶作剧的潜力！
+english_events_bubbles:L639,bubble_going_landmark_foot,KEEP,The guide says it draws thousands of visitors every year!,导游说每年吸引上千名游客!.,导游说每年吸引上千名游客!.
+english_events_bubbles:L640,bubble_going_landmark_foot,FIX,Didn't know foot fetishes were so common!,没想到脚迷恋这么普遍!,原来恋足的人这么多啊！
+english_events_bubbles:L646,bubble_going_landmark_hole2,POLISH,"They say if you stare at it, it stares back at you!","他们说,如果你盯着它, 它一直盯着你!",听说，只要你盯着它，它也会回望你！
+english_events_bubbles:L647,bubble_going_landmark_hole2,FIX,I'm gonna challenge it to a blinking contest then!,我会挑战它 眨眼比赛然后!,那我要跟它比瞪眼，看谁先眨！
+english_events_bubbles:L653,bubble_going_diner_pancake3,FIX,Do you think they'll have pancakes?,你觉得他们会吃煎饼吗?,你觉得那儿会卖煎饼吗？
+english_events_bubbles:L654,bubble_going_diner_pancake3,FIX,Who's to say?,谁说?,谁知道呢？
+english_events_bubbles:L660,bubble_going_biker_bar2,KEEP,Will they let us in? We're driving a car...,他们会让我们进去吗? 我们在开一辆车...,他们会让我们进去吗? 我们在开一辆车...
+english_events_bubbles:L661,bubble_going_biker_bar2,FIX,Isn't a car just a bike with a couple more wheels?,车是不是只有一辆车 还有几把车轮?,汽车不就是多了俩轮子的摩托吗？
+english_events_bubbles:L667,bubble_going_biker_bar3,FIX,"Now Scott, you've gotta look tough when we get in there.","现在 斯科特等我们进去了,你必须坚强起来",斯科特，等会儿进去，可得摆出够狠的样子。
+english_events_bubbles:L668,bubble_going_biker_bar3,POLISH,Rolling up my sleeves already!,卷起我的袖子来了!,我已经在卷袖子了！
+english_events_bubbles:L674,bubble_going_biker_bar4,KEEP,But we're not riding motorbikes!,但我们不是骑摩托车的!,但我们不是骑摩托车的!
+english_events_bubbles:L675,bubble_going_biker_bar4,FIX,"Whatever, a car is like two bikes stitched together!","不管怎么样,一辆车就像两辆自行车 缝合在一起!",管它呢，汽车不就像两辆摩托缝在一块儿嘛！
+english_events_bubbles:L681,bubble_going_simon_soups,KEEP,I can already hear children laughing!,我已经听到孩子们在笑了!,我已经听到孩子们在笑了!
+english_events_bubbles:L682,bubble_going_simon_soups,KEEP,That sounds more like screaming to me...,听起来更像是在尖叫...,听起来更像是在尖叫...
+english_events_bubbles:L688,bubble_going_village_west2,KEEP,"Polly, why did they call it the Wild West?","波莉他们为什么把它叫做""狂野西部""?","波莉他们为什么把它叫做""狂野西部""?"
+english_events_bubbles:L689,bubble_going_village_west2,FIX,I guess the Mild West didn't have the same ring to it.,我猜穆德西部没有同样的戒指,大概“温和西部”听起来，没那么带劲吧。
+english_events_bubbles:L695,bubble_going_village_west3,KEEP,"Whoa, cars were really different back then!","哇,当时的车真的不一样了!","哇,当时的车真的不一样了!"
+english_events_bubbles:L696,bubble_going_village_west3,KEEP,"That's a horse, Scott.","这是一匹马, 斯科特.","这是一匹马, 斯科特."
+english_events_bubbles:L702,bubble_going_village_charming2,KEEP,"Scott, don't you think this village looks a little TOO nice?",斯科特你不觉得这个村子看起来太漂亮了吗?,斯科特你不觉得这个村子看起来太漂亮了吗?
+english_events_bubbles:L703,bubble_going_village_charming2,FIX,"You can never be too nice, Polly!","你永远不能太好, 波莉!",波莉，好哪有嫌太好的！
+english_events_bubbles:L709,bubble_going_village_charming3,KEEP,"Man, this village reminds me of a horror movie...",这村子让我想起恐怖电影...,这村子让我想起恐怖电影...
+english_events_bubbles:L710,bubble_going_village_charming3,FIX,Must have been a feel-good horror movie!,一定是一部感觉不错的恐怖电影!,那一定是部很治愈的恐怖片！
+english_events_bubbles:L716,bubble_going_village_abandoned2,KEEP,"But if WE are there, is it still an abandoned village?","但是,如果我们在那里,它还是一个被抛弃的村庄吗?","但是,如果我们在那里,它还是一个被抛弃的村庄吗?"
+english_events_bubbles:L717,bubble_going_village_abandoned2,FIX,"I think this road trip is giving you a bad case of deep thoughts, Scott.",我觉得这趟出行会给你带来 深思熟虑的坏案例 斯科特.,斯科特，我看这趟旅行，让你得了严重的深思病。
+english_events_bubbles:L723,bubble_going_fortune_teller2,FIX,Can't wait to have my paw read!,等不及让我的爪子读了!,等不及让人看看我的爪相了！
+english_events_bubbles:L729,bubble_going_fortune_teller3,KEEP,Do you think psychics can really talk to the dead?,你觉得灵媒真的能和死人说话吗?,你觉得灵媒真的能和死人说话吗?
+english_events_bubbles:L730,bubble_going_fortune_teller3,FIX,It's not that hard. You're doing it right now.,亦无所难. 汝今当作是事.,这有什么难的，你现在不就在跟死人说话嘛。
+english_events_bubbles:L736,bubble_going_animal_shelter,FIX,Are you a cat person or a dog person?,你是猫人还是狗人?,你是猫派，还是狗派？
+english_events_bubbles:L737,bubble_going_animal_shelter,FIX,"I'm a Scott person! C'mere, good boi!","我是一个 斯科特 来人啊! 帅呆了,好家伙!",我是斯科特派！过来，好狗狗！
+english_events_bubbles:L743,bubble_going_farm3,FIX,"Ooh, a farm! Maybe it's the one my grandpa got sent to!","哦,一个农场! 也许是我爷爷送去的!",哇，农场！说不定就是我爷爷被送去的那个！
+english_events_bubbles:L744,bubble_going_farm3,KEEP,"Scott, there's something I need to tell you...",斯科特我有件事要告诉你...,斯科特我有件事要告诉你...
+english_events_bubbles:L750,bubble_going_ranch3,KEEP,"Ooh, a ranch!","哦,牧场!","哦,牧场!"
+english_events_bubbles:L751,bubble_going_ranch3,FIX,Is this where they make the salad dressing?,这就是他们做沙拉酱的地方吗?,牧场沙拉酱，就是在这儿做的吗？
+english_events_bubbles:L757,bubble_going_rodeo2,FIX,"Will we get to see the ""reverse cowgirl"" you told me about?","我们能看看你说的""逆向牛仔女郎""吗?",你说的那个“反向女骑乘”，这儿能看见吗？
+english_events_bubbles:L758,bubble_going_rodeo2,FIX,Now THAT's a rodeo I'd be into!,"现在,这是一个牛仔赛,我会喜欢的!",这种牛仔竞技，我可太有兴趣了！
+english_events_bubbles:L759,bubble_going_rodeo2,KEEP,Really? Why?,真的吗? 为什么?,真的吗? 为什么?
+english_events_bubbles:L765,bubble_going_national_park2,FIX,"Ahh, the great outdoors!","啊,伟大的户外!",啊，还是户外好！
+english_events_bubbles:L766,bubble_going_national_park2,FIX,National parks have doors?,国家公园有门吗?,国家公园还有门？
+english_events_bubbles:L772,bubble_going_caves2,KEEP,Do you think we'll get to see cave paintings?,你觉得我们会看到洞穴画吗?,你觉得我们会看到洞穴画吗?
+english_events_bubbles:L773,bubble_going_caves2,FIX,"If we don't find them, we can make them.","如果我们不找到他们, 我们可以让他们。",找不到的话，我们可以自己画。
+english_events_bubbles:L774,bubble_going_caves2,POLISH,Every painting's a cave painting if you paint in a cave!,每幅画都是洞穴画 如果你在洞穴里画的话!,在洞穴里画的画，不都是洞穴壁画嘛！
+english_events_bubbles:L780,bubble_going_lake2,KEEP,"Wait, what's the difference between a lake and a lagoon?","等等,湖和泻湖有什么区别?","等等,湖和泻湖有什么区别?"
+english_events_bubbles:L781,bubble_going_lake2,FIX,I think lagoons are just spooky-sounding lakes.,我认为环礁湖只是吓人的声音湖。,我觉得，泻湖就是听着更邪门的湖。
+english_events_bubbles:L787,bubble_going_lake3,KEEP,"Wait, how do we know it's a lake and not a lagoon?","等等,我们怎么知道这是个湖 不是环礁湖?","等等,我们怎么知道这是个湖 不是环礁湖?"
+english_events_bubbles:L788,bubble_going_lake3,KEEP,They'd better not try to fool us with one of those fake lakes!,他们最好别用假湖骗我们!,他们最好别用假湖骗我们!
+english_events_bubbles:L794,bubble_going_picnic_spot,KEEP,Did you bring the picnic basket?,你带了野餐篮吗?,你带了野餐篮吗?
+english_events_bubbles:L795,bubble_going_picnic_spot,KEEP,Yup! And the picnic basketball too!,没错! 还有野餐篮球!,没错! 还有野餐篮球!
+english_events_bubbles:L801,bubble_going_graveyard2,KEEP,Are you sure we won't disturb the dead?,你确定我们不会打扰死者吗?,你确定我们不会打扰死者吗?
+english_events_bubbles:L802,bubble_going_graveyard2,KEEP,"Dead people love pranks, trust me!",死人喜欢恶作剧 相信我!,死人喜欢恶作剧 相信我!
+english_events_bubbles:L808,bubble_going_planetarium3,KEEP,Can't wait to see more planets!,等不及要看到更多的行星了!,等不及要看到更多的行星了!
+english_events_bubbles:L809,bubble_going_planetarium3,FIX,"Yeah, after a while, Earth just gets too... earthy.","是啊,过了一段时间,地球也... 土生土长.",是啊，待久了，地球就变得太……土了。
+english_events_bubbles:L815,bubble_going_monster_truck2,KEEP,Finally some monster trucks!,终于有怪兽卡车了!,终于有怪兽卡车了!
+english_events_bubbles:L816,bubble_going_monster_truck2,FIX,"Wouldn't they just be ""trucks"" in the Monster Realm...?","难道他们不是怪物王国里的""卡车""?",在怪物世界，这些不就应该叫“卡车”吗……？
+english_events_bubbles:L822,bubble_going_casino3,POLISH,"Now, Polly, let's be careful with our money.",现在 波莉让我们小心我们的钱。,波莉，咱们得注意，别乱花钱。
+english_events_bubbles:L823,bubble_going_casino3,FIX,I'll bet you anything that I'm more careful than you!,"我敢打赌,我比你更小心!",我什么都敢押，赌我肯定比你谨慎！

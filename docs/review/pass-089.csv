@@ -1,0 +1,72 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_endings:L1353,ending_mvp_magical_land_blue,FIX,Your adventures in the Dreamed Dominions are legendary.,"你在""梦幻之地""的冒险是传奇的",你在梦境领地的冒险，堪称传奇。
+english_events_endings:L1354,ending_mvp_magical_land_blue,FIX,"And of all your party members, you rise to the occasion in ways even you didn't expect.","在你所有的党员中, 你以你没想到的方式迎接这个机会。",面对挑战，队伍里最出彩的居然是你，连你自己都没想到。
+english_events_endings:L1355,ending_mvp_magical_land_blue,FIX,"It's as if you were the chosen hero all along, but you never knew...",好像你一直都是被选中的英雄 但你从不知道...,就好像，你一直都是命定的英雄，只是自己从未察觉……
+english_events_endings:L1357,ending_mvp_magical_land_blue,FIX,%CURRENTPLAYERNAME% the Brave.,%CURRENTPLAYERNAME% 勇者报.,勇者%CURRENTPLAYERNAME%。
+english_events_endings:L1358,ending_mvp_magical_land_blue,POLISH,"A knight pure of heart, ready to help those in need.","心地纯正的骑士,准备帮助有需要的人.",一位心地纯洁的骑士，随时准备帮助需要帮助的人。
+english_events_endings:L1359,ending_mvp_magical_land_blue,FIX,You study the secrets of the land in an effort to truly understand it.,你研究国家的秘密 是为了真正理解它,你研究这片土地的秘密，想真正了解它。
+english_events_endings:L1360,ending_mvp_magical_land_blue,POLISH,"This way, you know how you can really help, slaying only the beasts that bring evil to these domains.","这样,你知道你怎样才能真正帮助, 只杀死那些把邪恶带入这些领域的野兽。",这样，你才知道，怎样才能帮上忙，只斩杀那些给这片国度带来邪恶的野兽。
+english_events_endings:L1361,ending_mvp_magical_land_blue,FIX,"Above all, you want to respect the balance of this land. You're here to be of service, not to intrude.","首先,你要尊重这片土地的平衡 你是来为您服务的 不是来打扰您的",你最在乎的，是尊重这片土地的平衡。你来这里是为了帮忙，而非侵扰。
+english_events_endings:L1362,ending_mvp_magical_land_blue,FIX,Songs will be written about your heroic feats!,歌曲会写到你的英雄功绩!,你的英雄事迹，将被写进歌谣！
+english_events_endings:L1370,ending_mvp_magical_land_green,FIX,Your adventures in the Dreamed Dominions are legendary.,"你在""梦幻之地""的冒险是传奇的",你在梦境领地的冒险，堪称传奇。
+english_events_endings:L1371,ending_mvp_magical_land_green,FIX,"And of all your party members, you rise to the occasion in ways even you didn't expect.","在你所有的党员中, 你以你没想到的方式迎接这个机会。",面对挑战，队伍里最出彩的居然是你，连你自己都没想到。
+english_events_endings:L1372,ending_mvp_magical_land_green,FIX,"It's as if you were the chosen hero all along, but you never knew...",好像你一直都是被选中的英雄 但你从不知道...,就好像，你一直都是命定的英雄，只是自己从未察觉……
+english_events_endings:L1374,ending_mvp_magical_land_green,FIX,%CURRENTPLAYERNAME% the Smooth.,%CURRENTPLAYERNAME% 滑动。,洒脱者%CURRENTPLAYERNAME%。
+english_events_endings:L1375,ending_mvp_magical_land_green,FIX,"You're known for avoiding violence whenever it's possible, for you are a chill motherfucker.",你以尽可能避免暴力而出名 因为你是个冷酷的混蛋,只要能不动手，你就尽量避免暴力，大家都知道。毕竟，你这混蛋，悠闲得很。
+english_events_endings:L1376,ending_mvp_magical_land_green,FIX,"You're an enjoyer of earthly pleasures, feasting on the foods of the land and always ready to nap under a shady tree.",你是大地上快乐的享受者 吃地上的食物 总是准备在一棵阴暗的树下打个午睡,你享受人间的美好，吃遍当地美食，随时准备找片树荫，打个舒服的盹。
+english_events_endings:L1377,ending_mvp_magical_land_green,FIX,Everyone appreciates that you understand how quests can be completed without spilling blood.,每个人都明白你如何在不流血的情况下完成追求。,任务不一定非得见血才能完成。你懂这个道理，大家都很感激。
+english_events_endings:L1378,ending_mvp_magical_land_green,FIX,Peace will always be an option for you... and that speaks volumes of your character.,和平永远是你的选择... 这说明你的性格很强,和平，永远是你愿意选择的道路……这就足以说明，你是个怎样的人。
+english_events_endings:L1379,ending_mvp_magical_land_green,FIX,Songs will be written about your heroic feats!,歌曲会写到你的英雄功绩!,你的英雄事迹，将被写进歌谣！
+english_events_endings:L1387,ending_mvp_magical_land_red,FIX,Your adventures in the Dreamed Dominions are legendary.,"你在""梦幻之地""的冒险是传奇的",你在梦境领地的冒险，堪称传奇。
+english_events_endings:L1388,ending_mvp_magical_land_red,FIX,"And of all your party members, you rise to the occasion in ways even you didn't expect.","在你所有的党员中, 你以你没想到的方式迎接这个机会。",面对挑战，队伍里最出彩的居然是你，连你自己都没想到。
+english_events_endings:L1389,ending_mvp_magical_land_red,FIX,"It's as if you were the chosen hero all along, but you never knew...",好像你一直都是被选中的英雄 但你从不知道...,就好像，你一直都是命定的英雄，只是自己从未察觉……
+english_events_endings:L1391,ending_mvp_magical_land_red,FIX,%CURRENTPLAYERNAME% the Bold.,%CURRENTPLAYERNAME% 勇者号。,果敢者%CURRENTPLAYERNAME%。
+english_events_endings:L1392,ending_mvp_magical_land_red,FIX,"You complete lots of quests, you join forces with the most unexpected allies, and you kick the ass of anyone who dares challenge you.","你完成很多的追求,与最出人意料的盟友联手,并踢出任何敢于挑战你的人的屁股.",你完成各种任务，和最出人意料的盟友并肩作战，把所有敢挑战你的家伙，都打得落花流水。
+english_events_endings:L1393,ending_mvp_magical_land_red,FIX,You love the ass-kicking part!,你爱踢屁股那部分!,尤其是揍人这部分，你最喜欢！
+english_events_endings:L1394,ending_mvp_magical_land_red,FIX,Fireball this; fireball that!,"火球这个,火球那个!",这边一发火球，那边也一发！
+english_events_endings:L1395,ending_mvp_magical_land_red,FIX,"You're a fire that cannot be extinguished, bringing justice and spunk to all the land!","你是一个不能被扑灭的火, 带来正义并沉入了所有的土地!",你是一团永不熄灭的火，给整片国度，带来正义与冲劲！
+english_events_endings:L1396,ending_mvp_magical_land_red,FIX,Songs will be written about your heroic feats!,歌曲会写到你的英雄功绩!,你的英雄事迹，将被写进歌谣！
+english_events_endings:L1404,ending_mvp_magical_land_yellow,FIX,Your adventures in the Dreamed Dominions are legendary.,"你在""梦幻之地""的冒险是传奇的",你在梦境领地的冒险，堪称传奇。
+english_events_endings:L1405,ending_mvp_magical_land_yellow,FIX,"And of all your party members, you rise to the occasion in ways even you didn't expect.","在你所有的党员中, 你以你没想到的方式迎接这个机会。",面对挑战，队伍里最出彩的居然是你，连你自己都没想到。
+english_events_endings:L1406,ending_mvp_magical_land_yellow,FIX,"It's as if you were the chosen hero all along, but you never knew...",好像你一直都是被选中的英雄 但你从不知道...,就好像，你一直都是命定的英雄，只是自己从未察觉……
+english_events_endings:L1408,ending_mvp_magical_land_yellow,FIX,%CURRENTPLAYERNAME% the Nimble.,%CURRENTPLAYERNAME% 尼姆布尔号。,灵巧者%CURRENTPLAYERNAME%。
+english_events_endings:L1409,ending_mvp_magical_land_yellow,FIX,The épée and the lute are your weapons of choice.,佩佩和卢特是你的首选武器,重剑和鲁特琴，就是你最钟爱的武器。
+english_events_endings:L1410,ending_mvp_magical_land_yellow,FIX,"One day, your hands move swiftly to slay terrifying beasts; the next, your fingers move gracefully to play beautiful ballads.","总有一天,你的手会迅速移动去杀死恐怖的野兽;接下来,手指会优雅地移动去演奏美丽的芭蕾舞曲.",今天，你出手迅疾，斩杀可怕的野兽；明天，又能指尖轻舞，弹出动听的歌谣。
+english_events_endings:L1411,ending_mvp_magical_land_yellow,POLISH,"You fight for the weak, and your music brings joy to those in need.",你为弱者而战 你的音乐为有需要的人带来欢乐,你为弱者而战，也用音乐，把快乐带给需要它的人。
+english_events_endings:L1412,ending_mvp_magical_land_yellow,FIX,Songs will be written about your heroic feats!,歌曲会写到你的英雄功绩!,你的英雄事迹，将被写进歌谣！
+english_events_endings:L1420,ending_mvp_magical_land_zoe,FIX,Your adventures in the Dreamed Dominions are legendary.,"你在""梦幻之地""的冒险是传奇的",你在梦境领地的冒险，堪称传奇。
+english_events_endings:L1421,ending_mvp_magical_land_zoe,FIX,"And of all your party members, you rise to the occasion in ways even you didn't expect.","在你所有的党员中, 你以你没想到的方式迎接这个机会。",面对挑战，队伍里最出彩的居然是你，连你自己都没想到。
+english_events_endings:L1422,ending_mvp_magical_land_zoe,FIX,"It's as if you were the chosen hero all along, but you never knew...",好像你一直都是被选中的英雄 但你从不知道...,就好像，你一直都是命定的英雄，只是自己从未察觉……
+english_events_endings:L1424,ending_mvp_magical_land_zoe,FIX,%CURRENTPLAYERNAME% the Merry.,%CURRENTPLAYERNAME% 欢乐。,欢笑者%CURRENTPLAYERNAME%。
+english_events_endings:L1425,ending_mvp_magical_land_zoe,FIX,"Wherever you go, friends are made and happiness follows.","无论你走到哪里,朋友都是成的,幸福也随之而来.",你走到哪里，哪里就多了朋友，也多了欢笑。
+english_events_endings:L1426,ending_mvp_magical_land_zoe,FIX,"You have a laughing heart, always ready to connect with everyone you meet.","你有一个笑的心, 总是准备与你遇到的每个人联系。",你心里装着笑意，遇见谁，都愿意试着亲近。
+english_events_endings:L1427,ending_mvp_magical_land_zoe,FIX,"You know what it's like to be feared for being different, so you always try to understand other people.",你知道害怕与众不同是什么滋味 所以你总是试着去理解别人,你知道，仅仅因为与众不同，就被别人惧怕，是什么滋味。所以，你总会试着理解别人。
+english_events_endings:L1428,ending_mvp_magical_land_zoe,POLISH,"This is noble of you, since the truth is that you hide an incredible power capable of destroying any foe... and yet, you always choose to first see if a foe can become a friend.","这是崇高的你,因为真相是 你隐藏了一个不可思议的力量 能够摧毁任何敌人... 然而,你总是选择先看看敌人是否能够成为朋友。",这尤其可贵，毕竟你体内藏着足以摧毁任何敌人的惊人力量……可你总愿意先看看，敌人能不能成为朋友。
+english_events_endings:L1429,ending_mvp_magical_land_zoe,FIX,Songs will be written about your heroic feats!,歌曲会写到你的英雄功绩!,你的英雄事迹，将被写进歌谣！
+english_events_endings:L1437,ending_mvp_magical_land_juan,FIX,Your adventures in the Dreamed Dominions are legendary.,"你在""梦幻之地""的冒险是传奇的",你在梦境领地的冒险，堪称传奇。
+english_events_endings:L1438,ending_mvp_magical_land_juan,FIX,"And of all your party members, you rise to the occasion in ways even you didn't expect.","在你所有的党员中, 你以你没想到的方式迎接这个机会。",面对挑战，队伍里最出彩的居然是你，连你自己都没想到。
+english_events_endings:L1439,ending_mvp_magical_land_juan,FIX,"It's as if you were the chosen hero all along, but you never knew...",好像你一直都是被选中的英雄 但你从不知道...,就好像，你一直都是命定的英雄，只是自己从未察觉……
+english_events_endings:L1441,ending_mvp_magical_land_juan,FIX,%CURRENTPLAYERNAME% the Extraordinary.,%CURRENTPLAYERNAME% 特别的。,非凡者%CURRENTPLAYERNAME%。
+english_events_endings:L1442,ending_mvp_magical_land_juan,FIX,"As a student of magic, this journey helps you learn a lot and master the occult.","作为魔法的学生,这个旅程帮助你学习了很多东西,并掌握了神道.",作为一名魔法学徒，这趟旅程，让你学会了许多，也掌握了神秘学的奥秘。
+english_events_endings:L1443,ending_mvp_magical_land_juan,POLISH,You concoct powerful poisons to slay your foes and amazing potions to help your friends.,你们用强大的毒药来杀死敌人 和神奇的药来帮助你的朋友,你调制强效毒药，对付敌人，也配出神奇药剂，帮助朋友。
+english_events_endings:L1444,ending_mvp_magical_land_juan,POLISH,You even use your knowledge to throw the most epic parties this land has ever seen!,你甚至用你的知识 来举办这世上最壮观的派对!,你甚至运用所学，办出了这片国度有史以来，最盛大的派对！
+english_events_endings:L1445,ending_mvp_magical_land_juan,POLISH,"You put fear in the hearts of the evil, but you also put joy in the hearts of the good.","你将恐惧放入了邪恶的心中,但你也将快乐放入了善良的心中.",你让恶人胆寒，也让好人心里充满欢乐。
+english_events_endings:L1446,ending_mvp_magical_land_juan,FIX,Songs will be written about your heroic feats!,歌曲会写到你的英雄功绩!,你的英雄事迹，将被写进歌谣！
+english_events_endings:L1454,ending_mvp_magical_land_cinnamon,FIX,Your adventures in the Dreamed Dominions are legendary.,"你在""梦幻之地""的冒险是传奇的",你在梦境领地的冒险，堪称传奇。
+english_events_endings:L1455,ending_mvp_magical_land_cinnamon,FIX,"And of all your party members, you rise to the occasion in ways even you didn't expect.","在你所有的党员中, 你以你没想到的方式迎接这个机会。",面对挑战，队伍里最出彩的居然是你，连你自己都没想到。
+english_events_endings:L1456,ending_mvp_magical_land_cinnamon,FIX,"It's as if you were the chosen hero all along, but you never knew...",好像你一直都是被选中的英雄 但你从不知道...,就好像，你一直都是命定的英雄，只是自己从未察觉……
+english_events_endings:L1458,ending_mvp_magical_land_cinnamon,FIX,%CURRENTPLAYERNAME% the Wise.,"%CURRENTPLAYERNAME% 至睿者,",智者%CURRENTPLAYERNAME%。
+english_events_endings:L1459,ending_mvp_magical_land_cinnamon,FIX,"Above everything, you study the land. Its unique properties are fertile for all sort of experiments and inventions.","在一切之上,你研究土地。 其独特的特性对于各种实验和发明都是肥沃的.",你最关心的，是研究这片土地。它独特的性质，给各种实验与发明，提供了沃土。
+english_events_endings:L1460,ending_mvp_magical_land_cinnamon,POLISH,You want to understand these domains so you can truly make a difference in the world.,"你想了解这些域,这样你才能真正改变世界。",你想了解这片国度，从而真正改变世界。
+english_events_endings:L1461,ending_mvp_magical_land_cinnamon,POLISH,"With your research, you're able to build tools and machines that help the people here.","通过你的研究,你能够建造工具和机器来帮助这里的人.",靠着研究，你造出工具和机器，帮助这里的人们。
+english_events_endings:L1462,ending_mvp_magical_land_cinnamon,POLISH,"These people don't need a hero fighting for them. If you can be of support, it'll be by making them stronger so they can fight for themselves.","这些人不需要英雄为他们而战. 如果你可以支持,那就让他们更强大,让他们为自己而战。",他们不需要一个替自己战斗的英雄。你能帮忙的，是让他们变得更强，能为自己而战。
+english_events_endings:L1463,ending_mvp_magical_land_cinnamon,POLISH,Yes... that's how you can truly make a difference.,对... 这样你才能真正有所作为,没错……这才是真正有所作为。
+english_events_endings:L1471,ending_mvp_magical_land_glitch,FIX,Your adventures in the Dreamed Dominions are legendary.,"你在""梦幻之地""的冒险是传奇的",你在梦境领地的冒险，堪称传奇。
+english_events_endings:L1472,ending_mvp_magical_land_glitch,FIX,"And of all your party members, you rise to the occasion in ways even you didn't expect.","在你所有的党员中, 你以你没想到的方式迎接这个机会。",面对挑战，队伍里最出彩的居然是你，连你自己都没想到。
+english_events_endings:L1473,ending_mvp_magical_land_glitch,FIX,"It's as if you were the chosen hero all along, but you never knew...",好像你一直都是被选中的英雄 但你从不知道...,就好像，你一直都是命定的英雄，只是自己从未察觉……
+english_events_endings:L1475,ending_mvp_magical_land_glitch,FIX,%CURRENTPLAYERNAME% the Bastard.,%CURRENTPLAYERNAME% 那个混蛋,混蛋%CURRENTPLAYERNAME%。
+english_events_endings:L1476,ending_mvp_magical_land_glitch,KEEP,"You cause chaos and mischief wherever you go, bringing dread to your enemies' hearts.","无论你走到哪里,你都会制造混乱和恶作剧,使你的敌人感到恐惧。","无论你走到哪里,你都会制造混乱和恶作剧,使你的敌人感到恐惧。"
+english_events_endings:L1477,ending_mvp_magical_land_glitch,POLISH,"Sometimes it happens to be that your enemies are actual evil people, so, in your own twisted way, you become a hero of sorts.","有时碰巧你的敌人是真正的邪恶的人,所以,用你扭曲的方式,你成为了某种意义上的英雄.",有时候，碰巧你的敌人也确实够邪恶。于是，靠着自己这套扭曲的方式，你居然也算个英雄。
+english_events_endings:L1478,ending_mvp_magical_land_glitch,FIX,The people of the land are equal parts grateful and unsettled by your off-putting vibes.,大地上的人们是平等的部分 感激和不安 由于你的离奇的氛围。,这片国度的人们，既感激你，又被你那令人不安的气场，弄得心里发毛。
+english_events_endings:L1479,ending_mvp_magical_land_glitch,POLISH,"One thing is clear: once someone meets you, you always leave a mark... sometimes a stab mark.","有一件事是清楚的:一旦有人遇见你,你总是留下记号...... 有时候是刺痕",有一件事很清楚：只要遇见你，就总会留下点痕迹……有时候，是刀痕。
+english_events_endings:L1480,ending_mvp_magical_land_glitch,FIX,Songs will be written about your (sometimes) heroic feats!,歌曲会写到你的英雄功绩!,你那，有时候也算英勇的事迹，将被写进歌谣！

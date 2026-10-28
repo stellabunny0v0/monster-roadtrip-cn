@@ -1,0 +1,155 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_maingame:L1790,lakesafety,POLISH,Go swimming,去游泳吗?,去游泳
+english_events_maingame:L1795,lakesafety,FIX,You're about to get in the water when a loud whistle stops you in your tracks. It's the lifeguards!,当大口哨声 阻止你进入轨道时 你就要下水了 是救生员!,你正要下水，一声响亮的哨声，叫住了你。是救生员！
+english_events_maingame:L1800,lakesafety,POLISH,"Heyyy, long time no see! What brings you guys to the lake?","嘿,好久不见! 什么风把你们吹来湖边?",嘿——好久不见！什么风把你们吹到湖边来了？
+english_events_maingame:L1801,lakesafety,POLISH,"We wanted to go swimming! You can do that at a lake, right?","我们想去游泳! 你可以在湖边这样做,对不对?",我们想游泳！湖里能游泳，对吧？
+english_events_maingame:L1802,lakesafety,FIX,"You sure can, brah, but only if you know how to swim safely.","你当然可以,宝贝,但只有你知道如何安全游泳",当然能，兄弟，不过，得知道怎么安全游泳才行。
+english_events_maingame:L1803,lakesafety,POLISH,"Okay, how do we do that?","好吧,我们如何做到这一点?",好，那该怎么做？
+english_events_maingame:L1804,lakesafety,KEEP,...,...,...
+english_events_maingame:L1805,lakesafety,POLISH,Uhhh...,额...,呃……
+english_events_maingame:L1806,lakesafety,POLISH,"...Damn, dude, we totally forgot. Anyone got any ideas?","该死的,伙计,我们完全忘了。 有人有主意吗?",……妈的，兄弟，我们全忘了。谁有主意？
+english_events_maingame:L1807,lakesafety,POLISH,"Hmm... I know you shouldn't eat beforehand... move your arms and legs around... avoid wearing heavy stuff that'll drag you down, like metal or stone...","垛... 我知道你不该事先吃东西... 手臂和腿转动... 避免穿重物会把你拖下水,像金属或石头...",嗯……我知道，之前不能吃东西……手脚要动起来……别穿金属、石头之类的重东西，会把你拖下去……
+english_events_maingame:L1808,lakesafety,POLISH,"Oh, balls, I'm totally made of stone! Do you think that's why I lost my last job as a lifeguard?","哦,球,我完全由石头做成! 你觉得这就是为什么我失去了我作为救生员的最后一份工作吗?",哎，糟了，我全身都是石头！难道这就是我上份救生员工作被炒的原因？
+english_events_maingame:L1809,lakesafety,FIX,"That makes sense. It must be why I got fired, too; I'm usually pretty stoned.","这有道理。 这一定是我被解雇的原因,我通常都醉了。",有道理，难怪我也被炒了。我也总是嗨成一块“石头”。
+english_events_maingame:L1810,lakesafety,POLISH,"But you guys aren't made of stone or metal, so you're safe, I think. Have fun out there!","但你们不是用石头或金属做的 所以你们安全了,我想 玩得开心点!",不过，你们又不是石头或金属做的，应该没事。去玩吧！
+english_events_maingame:L1811,lakesafety,POLISH,Are you sure that's all it takes? You haven't told us any actual tips on swimming safely yet...,你确定只有这些吗? 你还没有告诉我们任何关于安全游泳的实际提示...,你确定这样就行？你们还没教过我们，任何真正能安全游泳的诀窍……
+english_events_maingame:L1812,lakesafety,POLISH,"Eh, fair enough. If you're nervous, I'm sure I've got something in my lifeguard bag that'll help you swim.","额,很公平。 如果你紧张,我肯定我的救生包里有东西可以帮助你游泳.",呃，也是。别紧张，我的救生包里，肯定有能帮你们游泳的东西。
+english_events_maingame:L1813,lakesafety,POLISH,"But then again, I also have a lot of random shit in here. Does any of this crap seem helpful for swimming, %CURRENTPLAYERNAME%?","但再说一遍,我这里也有很多乱七八糟的东西 任何这些垃圾 似乎有助于游泳, %CURRENTPLAYERNAME%?",不过，里面也有不少乱七八糟的玩意儿。%CURRENTPLAYERNAME%，你看，哪个像是游泳能用的？
+english_events_maingame:L1816,lakesafety,FIX,The very smol and intense swimming instructor that's as harsh as he is kawaii.,和他一样严酷的游泳教练,又小只、又凶猛的游泳教练，严厉程度和可爱程度，不相上下。
+english_events_maingame:L1817,lakesafety,FIX,Life insurance. Just in case.,人寿保险. 以防万一 以防万一 以防万一 以防万一 以防万一,人寿保险。有备无患。
+english_events_maingame:L1818,lakesafety,FIX,"The pair of bright, arcane armbands that allow their user to cast a forbidden floating spell.","使用户可以投出被禁活浮咒的一对明亮的,弧形的臂章.",一对鲜艳的秘法臂环，戴上就能施展禁忌漂浮术。
+english_events_maingame:L1822,lakesafety,POLISH,"Awww, he's so cute! How harsh can one little otter be?","啊,他太可爱了! 小水獭能有多严厉?",哎呀，好可爱！这么小一只水獭，能严厉到哪儿去？
+english_events_maingame:L1823,lakesafety,FIX,"""YOU THINK I CAN'T BE HARSH AND CUTE AT THE SAME TIME?!"" the instructor barks. ""I CONTAIN MULTITUDES, ROOKIE! I'LL SHOW YOU HOW TOUGH I CAN BE!""","""你认为我不能在同一个时间是 harsh和cute!"" 教练吠叫。 ""我拥有MUTITITUDES,罗基! 我会告诉你,我可以有多努力!""",“你以为我不能又严厉又可爱？！”教练吼道，“老子可不只一面，菜鸟！这就让你见识我的厉害！”
+english_events_maingame:L1824,lakesafety,FIX,"The swimming lessons are INTENSE. You practice kicking, paddling, diving, washing the sensei's car, peeling potatoes...","游泳课是INTENSE. 你练习踢,划,潜水,洗洗感官的车,剥土豆...",游泳课强度惊人。你们练习打腿、划水、跳水、给师父洗车、削土豆……
+english_events_maingame:L1825,lakesafety,POLISH,"Okay, not to be THAT girl, but I don't see how preparing lunch is gonna help with swimming.","好吧,不是做那个女孩, 但我不明白准备午餐 会如何帮助游泳。",好吧，不是故意抬杠，不过，做午饭到底怎么帮助游泳？
+english_events_maingame:L1826,lakesafety,FIX,"""DON'T QUESTION ME, ROOKIE! POTATO-PEELING IS THE BEST WAY TO TRAIN YOUR BODY FOR THE WATER!""","""不要问我,罗基! 跳跃是训练你身体以取水的最佳方式!""",“别质疑我，菜鸟！削土豆，是训练身体下水的最佳方式！”
+english_events_maingame:L1827,lakesafety,FIX,"""THE REPETITIVE PEELING MOTIONS STRENGTHEN YOUR PALMS AND PHALANGES SO YOU CAN CARVE A PATH THROUGH EVEN THE TOUGHEST RIPTIDES!""","""重温的打水动能强化你的口袋和花瓶 这样你就可以通过最深的口袋 来保存一条路""",“反复削皮的动作，能强化手掌和指骨！再汹涌的激流，你们也能劈开一条路！”
+english_events_maingame:L1828,lakesafety,POLISH,"Fair enough, but what about the car-washing thing? How will that help us swim?","很好,但洗车的事怎么办? 这能帮助我们游泳吗?",行吧，那洗车呢？怎么帮我们游泳？
+english_events_maingame:L1829,lakesafety,POLISH,"""Um... okay, I admit, that was just me taking advantage of you.""","""额... 好吧,我承认,那只是我利用你。""",“呃……好吧，我承认，那个就是占你们便宜。”
+english_events_maingame:L1830,lakesafety,POLISH,"""BUT DO YOU KNOW HOW HARD IT IS TO WASH YOUR DIRTY CAR WHEN YOU'RE TWO FEET TALL?!""","""但你知道它有多难 洗你的脏车,当你是两只脚球?""",“可你们知不知道，身高才两英尺，洗车有多难？！”
+english_events_maingame:L1831,lakesafety,FIX,"You lose -N2 STAMINA training, but when you finally start swimming, it's super easy!","你输了N2STAMINA的训练,但当你终于开始游泳的时候,这是超容易的!",训练让你损失-N2体力。不过，终于下水时，游泳简直轻而易举！
+english_events_maingame:L1832,lakesafety,POLISH,"Who knew swimming had so much in common with peeling potatoes? Nobody probably, because it makes no sense, but here you are!","谁知道游泳跟剥马铃薯有这么多共同点? 没人可能,因为它没有意义,但你在这里!",谁能想到，游泳跟削土豆这么像？大概没人，毕竟根本不合逻辑。不过，反正就是这么回事！
+english_events_maingame:L1833,lakesafety,FIX,"""EXCELLENT WORK, PUPILS!"" the instructor says. ""I CAN FINALLY RETIRE KNOWING THAT I'VE MOLDED YOU SAD SACKS INTO SPECTACULAR SWIMMERS!""","""出色的工作,PUPIELS!"" 教官说. ""我终于知道,我已经 移动了你们 萨德囊塞到 斯克塔克利亚的游泳者!""",“干得好，学员们！”教练说，“把你们这群废柴，培养成出色的泳者，我总算能安心退休了！”
+english_events_maingame:L1834,lakesafety,POLISH,"Thanks a million, little dude. You want a snack before I put you back in your travel cage for nappies?","谢谢你,小家伙。 你想吃点小吃吗?",多谢，小家伙。把你放回便携笼睡午觉之前，要不要来点零食？
+english_events_maingame:L1835,lakesafety,FIX,"""YES! I REQUEST A CUP OF WARM MILK AND POSSIBLY A BEDTIME STORY BEFORE I RETURN TO MY SLUMBER.""","""对! 我要求一个温暖的米克和 可能是一个贝蒂米的故事 在我回到我的数量之前。""",“要！我要求一杯温牛奶，最好睡前再讲个故事，然后，我就要重返梦乡！”
+english_events_maingame:L1836,lakesafety,FIX,"Can do. You put your instructor to bed, and gain +N2 HYPE swimming in the lake!","我们能做到这一点。 你把你的教练上床睡觉, 并获得+N2 HYPE游泳 在湖中!",没问题。你哄教练睡下，随后在湖里尽情游泳，获得+N2热度！
+english_events_maingame:L1840,lakesafety,POLISH,"Ahh, true. Swimming can be pretty dangerous; it'd be smart to have your life insurance worked out before you jump in the water.","啊,没错。 游泳可能相当危险,在跳入水中之前,最好先弄好人寿保险。",啊，也是。游泳确实挺危险，下水前把人寿保险办好，比较稳妥。
+english_events_maingame:L1841,lakesafety,POLISH,"You look over the lifeguards' life insurance policy. It claims to cover ""every danger you might encounter while swimming""...","你看看救生员的人寿保险单 它声称涵盖""游泳时可能遇到的所有危险"".",你看看救生员的寿险保单，上面号称承保“游泳时可能遇到的一切危险”……
+english_events_maingame:L1842,lakesafety,FIX,...yet it doesn't cover drowning?,难道它不覆盖溺水吗?,……可是不保溺水？
+english_events_maingame:L1843,lakesafety,POLISH,"Well, yeah, you can't have it all. But this policy covers lots of other potentially deadly swimming scenarios.","嗯,是的,你不能拥有这一切。 但这项政策涵盖了许多其他潜在的致命游泳场景.",对啊，总不能什么都要吧。不过，很多别的游泳致死情形，这份保险都保。
+english_events_maingame:L1844,lakesafety,POLISH,Like dying from a work-related swimming accident!,就像死于与工作有关的游泳事故一样!,比如，因工游泳时发生意外，死掉！
+english_events_maingame:L1845,lakesafety,POLISH,Or death by water bears. That'd be a hella bad time.,或被水熊所杀. 那会是一个糟糕的时机。,或者，被水熊杀死。那可就惨了。
+english_events_maingame:L1846,lakesafety,FIX,Aren't water bears microscopic anyway?,水不是有显微镜吗?,水熊不是小得得用显微镜看吗？
+english_events_maingame:L1847,lakesafety,POLISH,"But there's still, like, millions of them living in the lake. We're totally outnumbered!",但仍有上百万人生活在湖中. 我们完全寡不敌众!,可湖里有几百万只呢。敌众我寡啊！
+english_events_maingame:L1848,lakesafety,POLISH,Yeah. A million water bears vs. one %CURRENTPLAYERNAME%? I don't fancy your chances.,对 一百万只水熊对. 一个 %CURRENTPLAYERNAME%? 我不喜欢你的机会。,对啊，一百万只水熊，对付一个%CURRENTPLAYERNAME%？我看你胜算不大。
+english_events_maingame:L1849,lakesafety,POLISH,"Okay, but why is ""death by fire"" covered by this policy?","好吧,但为什么""死于火灾"" 包含在这个政策?",可为什么，这份保单还保“火灾身亡”？
+english_events_maingame:L1850,lakesafety,POLISH,"Dude, if you don't understand the dangers of burning alive, maybe it'd be irresponsible of us to let you swim...","哥们,如果你不明白活活烧死的危险, 也许让我们游下去是不负责任的...",兄弟，要是连活活烧死的危险都不懂，我们还放你去游泳，也太不负责任了……
+english_events_maingame:L1851,lakesafety,POLISH,"C'mon, %CURRENTPLAYERNAME%, you're thinking too hard about it. Polly and I will feel a lot better if you took the extra safety precaution before we go swimming.","来吧,%CURRENTPLAYERNAME%,你考虑得太严了。  波莉 如果你在游泳前采取额外的安全防范措施 我会感觉好多了",%CURRENTPLAYERNAME%，别想那么多了。下水前，你多一层保障，我和波莉才能放心。
+english_events_maingame:L1852,lakesafety,FIX,"Word. I've already picked the stripper I'm gonna hire for your funeral, so we'll need that life insurance check if this goes sideways.",语已. 我已经选了脱衣舞娘 我将聘请你参加葬礼 所以我们需要人寿保险的检查 如果这走在一边的话,就是。你葬礼上要请的脱衣舞者，我都挑好了。万一出事，可得靠那笔寿险赔款。
+english_events_maingame:L1853,lakesafety,POLISH,"Fine, if it means that much to them. You lose -N2 MONEY buying this nonsensical life insurance.","好吧,如果这对他们很重要的话。 你输了 -N2货币 购买这种非感性人寿保险。",行吧，既然他们这么在乎。你花-N2金钱，买下这份莫名其妙的人寿保险。
+english_events_maingame:L1854,lakesafety,FIX,"The good news is, you go on to have a great day in the lake! Much fun is had, no one dies from water bears or a lake fire, and you gain +N2 HYPE.","好消息是,你去湖边过个好日子! 有很多乐趣,没有人死于水熊 或湖火, 你得到+N2 HYPE。",好消息是，你们在湖里玩得很开心！没人被水熊杀死，也没人死于湖中火灾，你获得了+N2热度。
+english_events_maingame:L1858,lakesafety,FIX,"Whoa, mad respect. The Arcane Armbands of Buoyancy are suuuper powerful magic items.","哇,疯狂地尊重。 阿卡内臂章(英语:Arcane Armbands of Buoyancy)是苏普尔强大的魔法物品.",哇，佩服。这浮力秘法臂环，可是超级强大的魔法道具。
+english_events_maingame:L1859,lakesafety,FIX,Really? They just look like regular floaties to me.,真的吗? 他们只是看起来像普通活人。,真的？我看，就是普通充气浮袖啊。
+english_events_maingame:L1860,lakesafety,FIX,"That's 'cause you don't have the ""magic touch"", dude. Wanda and I got ours from the wizard who lives at Fill It.","那是因为你没有""魔法感"",伙计。 Wanda和我从住在Fill It的巫师那里得到了我们的",那是因为你没有“魔法天赋”，兄弟。我和万达这对，是住在加满它加油站的巫师给的。
+english_events_maingame:L1861,lakesafety,FIX,Fill It... the gas station?,填满... 加油站吗?,加满它……那家加油站？
+english_events_maingame:L1862,lakesafety,POLISH,That's just what they WANT you to think. The wizard who lives in the Fill It parking lot told us it's actually a magical pocket dimension!,他们就是希望你这样想 住在Fill It停车场的巫师告诉我们 这其实是一个神奇的口袋维度!,他们就是想让你这么以为。住在加满它停车场的巫师说，那儿其实是个魔法口袋空间！
+english_events_maingame:L1863,lakesafety,POLISH,"We were skeptical at first too, but then the wizard gave us some magic cosmic brownies that totally opened our eyes!",我们一开始也很怀疑 但巫师给了我们一些神奇的宇宙棕褐色 完全打开了我们的眼睛!,一开始，我们也不信。可巫师给了我们几块魔法宇宙布朗尼，一下就让我们大开眼界！
+english_events_maingame:L1864,lakesafety,FIX,"Then, when Wanda and I were tripping magical balls, the wizard gave us the Armbands of Buoyancy to aid us on ""whatever you do next, I don't fucking care.""","然后,当万达和我 绊倒神奇球, 巫师给了我们臂章 Buoyancy 帮助我们 ""无论你下一步做什么,我他妈的不在乎""。",后来，我和万达嗨得灵魂出窍，巫师就给了我们浮力臂环，祝我们“接下来爱干吗干吗，老子他妈不在乎”。
+english_events_maingame:L1865,lakesafety,POLISH,But there was a catch: we had to dump magic onto the armbands to make them work.,"但有一个发现:我们不得不把魔法扔到臂章上,以使它们发挥作用。",不过有个条件：得往臂环上灌魔力，它才管用。
+english_events_maingame:L1866,lakesafety,FIX,"We used the magic metal elephant trunks at Fill It to get the magic at the time, but I dunno where you'll find any magic all the way out here...","我们用Fill It的神奇金属大象树干来获得当时的魔力,但我不知道你们会从哪里找到任何魔力...",当时我们用加满它那些魔法金属象鼻，弄到了魔力。不过，现在跑这么远，你们去哪儿找魔力呢……
+english_events_maingame:L1867,lakesafety,POLISH,"Hey, we've been filling our car with magic! Let's use some of that!","嘿,我们一直在给我们的车装上魔法! 让我们用一些!",嘿，我们一直在给车灌魔力！用点那个不就行了！
+english_events_maingame:L1868,lakesafety,POLISH,I'm pretty sure dumping our hard-earned fuel on these floaties would be a terrible idea.,"我敢肯定,将我们辛苦得到的燃料 倾倒在这些浮标上将是一个可怕的主意。",辛辛苦苦弄来的燃油，往浮袖上倒，我很确定，这主意不怎么样。
+english_events_maingame:L1869,lakesafety,FIX,"Pfft. Spoken by someone who totally lacks the ""magic touch"".","P. 由完全缺乏""魔法感""的人所言.",嘁，一听就知道，是没有“魔法天赋”的人说的。
+english_events_maingame:L1870,lakesafety,POLISH,"C'mon, %CURRENTPLAYERNAME%, we gotta do it! The flotation spell won't work otherwise!","来吧, %CURRENTPLAYERNAME%我们必须做到这一点! 浮出水面的咒语是行不通的!",%CURRENTPLAYERNAME%，得这么干！不然漂浮术就没用了！
+english_events_maingame:L1871,lakesafety,FIX,"Ugh, fine. You lose -N2 MAGIC dunking the floaties in gasoline.","呃,没事。 你输了N2 MAGIC在汽油中漂浮。",呃，行吧。你把浮袖浸进汽油，损失-N2魔力。
+english_events_maingame:L1872,lakesafety,FIX,"At least you still have fun playing in the lake, and gain +N2 HYPE splashing around with your friends!",至少你还在湖里玩得开心 和朋友一起玩得开心!,至少，你们在湖里玩得很开心。跟朋友们打水仗，让你获得+N2热度！
+english_events_maingame:L1880,sandcastlesafety,FIX,Build sand castles,建造沙地城堡,堆沙堡
+english_events_maingame:L1885,sandcastlesafety,FIX,You're having fun building castles when you notice that your sandy abodes have acquired some new tenants.,当你发现你的沙地住所 已经收购了一些新房客时 你们正在玩乐建造城堡,你们正开心地堆着沙堡，忽然发现，沙子搭的房子，来了新住户。
+english_events_maingame:L1890,sandcastlesafety,FIX,"Bros, look! Those hermit crabs are moving into our sand castle.","兄弟们,看! 那些隐士蟹要搬入我们的沙地城堡了",兄弟们，看！寄居蟹搬进我们的沙堡了。
+english_events_maingame:L1892,sandcastlesafety,FIX,"That's dope. We have king and queen crabs now. You guys are, like, the kingmakers of the lake.",这是涂料。 我们有王和王后螃蟹了 你们是湖里的霸主,酷。这下有国王蟹和王后蟹了。你们简直就是这湖里的造王者。
+english_events_maingame:L1893,sandcastlesafety,FIX,Yup! And check out the king's brother sharpening that shell shard into a spear. I smell a regicide coming on!,没错! 检查一下国王的弟弟 把炮弹磨成长矛 我闻到一个死党来了!,对！看国王的弟弟，正把贝壳碎片磨成长矛。我闻到弑君的味道了！
+english_events_maingame:L1894,sandcastlesafety,POLISH,Hi Wanda! Hi Stu! What're you doing at the lake?,"嗨,万达! 嗨,斯图! 你在湖边干什么?",嗨，万达！嗨，斯图！你们来湖边干吗？
+english_events_maingame:L1895,sandcastlesafety,POLISH,Uh... fuck... what ARE we doing here?,额... 他妈的... 我们在这里做什么?,呃……妈的……我们来干吗的？
+english_events_maingame:L1896,sandcastlesafety,POLISH,Aren't you lifeguards?,你们不是救生员吗?,你们不是救生员吗？
+english_events_maingame:L1897,sandcastlesafety,FIX,"Oh yeah! Good catch. That explains these rescue floaties and this whistle and why my swimsuit says ""Lifeguard.""","哦,对了! 接得漂亮 接得还不错 Good catch. 这解释了这些救援浮标和这个口哨 以及为什么我的泳衣上写着""生命卫士""",哦，对！提醒得好。难怪有救生浮标、哨子，泳衣上还写着“救生员”。
+english_events_maingame:L1898,sandcastlesafety,POLISH,"And that reminds me: as the lifeguards, we gotta check to make sure your sand castles don't have any OSHA violations.","这提醒了我: 作为救生员,我们得检查一下 以确保你的沙地城堡没有违反OSHA的行为。",这倒提醒我了：作为救生员，我们得检查你们的沙堡，有没有违反 OSHA 职业安全规定。
+english_events_maingame:L1899,sandcastlesafety,FIX,"Yup, them's the rules for some reason. And I can tell you already that these castles aren't up to code at all.","是啊,这是规则 出于某种原因。 我可以告诉你,这些城堡 根本不符合密码。",对，不知为什么，规矩就是这样。而且我现在就看得出，这些城堡，根本不合规。
+english_events_maingame:L1900,sandcastlesafety,FIX,"Bummer, dudes. We'll be back with the paperwork to condemn them. It should take five minutes to an hour depending on if we forget what we're doing on the way.","可恶,伙计。 我们会带回文件 来谴责他们 这需要5分钟到1小时, 取决于我们是否忘记了我们在路上在做什么。",真遗憾，伙计们。我们回去拿文件，等会儿来查封。大概五分钟到一小时，取决于路上，会不会忘了自己要干吗。
+english_events_maingame:L1902,sandcastlesafety,FIX,"We have to do something, bros. If they condemn our sand castles, King and Queen Snippy won't have a place to call home!","我们得做点什么 兄弟 如果他们谴责我们的沙城堡,国王和斯尼皮王后就没有地方叫回家!",兄弟们，得想想办法。沙堡一被查封，钳钳国王和王后，就没家了！
+english_events_maingame:L1903,sandcastlesafety,FIX,There's gotta be some way to get the castles up to code before the lifeguards return. Time to save your crabs from total OSHAnnihilation!,在救生员回来之前 一定有办法把城堡弄好 是时候把螃蟹从OSHAnnihilation中拯救出来!,得赶在救生员回来前，让沙堡符合规范。是时候拯救你们的螃蟹，躲过 OSHA 的“安全歼灭”了！
+english_events_maingame:L1904,sandcastlesafety,POLISH,You may have to replace the sand with another material. Sand isn't well-known for its integrity as a material.,你可能不得不用另一种材料来取而代之 沙地作为材料的完整性并不为人所熟知.,也许该换个材料，别用沙了。沙子这东西，可不以结实牢靠见长。
+english_events_maingame:L1905,sandcastlesafety,POLISH,You probably have to ditch the Murder Plaza. Chances are the Murder Plaza is the least-safe part of this sand castle.,你可能必须放弃谋杀广场。 可能谋杀广场是这个沙地城堡最不安全的地方,大概得拆掉谋杀广场。整座沙堡里，最不安全的，八成就是谋杀广场。
+english_events_maingame:L1907,sandcastlesafety,FIX,"You and your friends spend -N2 MONEY on concrete, metal scaffolding, and other construction materials to reinforce your sand castle.",你和你的朋友花N2货币 用于混凝土 金属脚手架 以及其他建筑材料来强化你的沙城堡,你和朋友们花-N2金钱，买了混凝土、金属脚手架等建材，加固沙堡。
+english_events_maingame:L1909,sandcastlesafety,POLISH,"We're back, dudes. Ready for us to hand down our verdict?","我们回来了,伙计。 准备好让我们做出判决了吗?",我们回来啦，伙计们。准备好听判决了吗？
+english_events_maingame:L1910,sandcastlesafety,POLISH,"Wait a sec, Stu. Something's different about their sand castle...","等一下,斯图。 他们的沙地城堡有些不同...",等等，斯图。他们的沙堡，好像不太一样了……
+english_events_maingame:L1911,sandcastlesafety,FIX,Are you admiring the marble balconies with which King Snippy can address his devoted subjects?,你是在欣赏斯尼皮国王 能用大理石瓦片 来讨论他的专有主题吗?,在欣赏大理石阳台吗？钳钳国王可以站在上面，对忠诚的臣民发表讲话。
+english_events_maingame:L1912,sandcastlesafety,FIX,"Or are you more into the Romanesque support columns in the throne room, which stabilize the castle and look super kickass?","还是你更喜欢罗马式的柱子 在王座室里 稳定城堡,看起来超级棒?",还是更喜欢王座厅里的罗曼式支柱？既能加固城堡，看着又超帅。
+english_events_maingame:L1913,sandcastlesafety,FIX,"Do you like where I wrote ""Scott thinks ur super cool"" in this wall before the cement dried?",你喜欢我写的地方吗?斯科特 在水泥干燥之前 觉得我们超酷吗?,我趁水泥没干，在这墙上写了“斯科特觉得你超酷”，你们喜欢吗？
+english_events_maingame:L1914,sandcastlesafety,FIX,"Waaait, I figured it out! Your sand castle's not made of sand anymore!","Waait,我终于想通了! 你的沙子城堡已经不是沙子了!",等——等，我知道了！你们这沙堡，已经不是沙子做的了！
+english_events_maingame:L1915,sandcastlesafety,POLISH,But... if it's not made of sand anymore... can you even call it a sand castle?,不过... 如果不是沙子做的的话... 你甚至可以称之为沙地城堡吗?,可……既然不用沙子，还能叫沙堡吗？
+english_events_maingame:L1916,sandcastlesafety,FIX,"That's a good question. But let's not be so technical. Architecture is much more about art, and less about ""chitecture"".","问曰. 但是,让我们不要这么技术性。 建筑学更注重于艺术,而较少涉及""奇特"".",好问题。不过，别抠技术细节。建筑，重在“造艺”，不在“造房”。
+english_events_maingame:L1917,sandcastlesafety,POLISH,"We've still made a sand castle, but we've broken the artistic boundary of using sand and totally redefined your preconceptions of what a sand castle can be!","我们仍然建造了一座沙城堡,但我们打破了用沙的艺术界限,彻底地重新定义了你们对沙城堡的先入为主的观念!",我们造的，还是沙堡。只不过突破了必须用沙的艺术边界，彻底重新定义了你们心中，沙堡该有的样子！
+english_events_maingame:L1918,sandcastlesafety,FIX,A sand castle can be concrete! It can be metal! It can even be... OSHA COMPLIANT!,沙地城堡可以混凝土! 它可以是金属的! 这甚至可能是... OSHA 完美无缺!,沙堡可以是混凝土的！可以是金属的！甚至可以……符合 OSHA 规范！
+english_events_maingame:L1919,sandcastlesafety,POLISH,"Oh, sure, it's compliant. This sounds more like an art piece than a building now anyway, so it's not under our jurisdiction to judge it.","哦,当然,这是顺从的。 这听起来更像是艺术作品 而不是建筑物 现在,所以它不 在我们的管辖范围 判断它。",哦，那当然合规。反正听着也更像艺术品，不是建筑了，不归我们管。
+english_events_maingame:L1920,sandcastlesafety,FIX,Sweet! You gain +N2 MIND from the artistic insights of building a sand-less sand castle.,可爱! 你从建设无沙城堡的艺术洞察力中获得+N2 MIND.,好耶！堆出一座没有沙的沙堡，让你对艺术有了新的领悟，获得+N2头脑。
+english_events_maingame:L1922,sandcastlesafety,POLISH,"Awww, are you sure? The Murder Plaza was, like, the best part of the castle!","Awww,你确定吗? 谋杀广场是城堡的最好部分!",哎呀，确定吗？谋杀广场可是城堡最棒的部分！
+english_events_maingame:L1923,sandcastlesafety,FIX,And I spent so long sculpting little bloodthirsty sand golems!,我花了这么长的时间雕塑出 嗜血的沙丘!,我还花了那么久，雕那些嗜血的小沙魔像！
+english_events_maingame:L1924,sandcastlesafety,FIX,How are King and Queen Snippy gonna have Sexy Knifeplay Thursdays now?,"国王和斯尼皮王后 周四的""性感小刀""怎么样?",没了它，钳钳国王和王后，周四还怎么性感玩刀？
+english_events_maingame:L1925,sandcastlesafety,FIX,"Actually, it's King Scuttle now. King Snippy was mysteriously found dead with a seashell spear in his thorax.","实际上,现在是斯克特尔国王了。 斯尼皮国王被神秘地发现死在了胸口,并带着一把海贝长矛.",其实，现在是横横国王了。钳钳国王被发现离奇死亡，胸部插着一根贝壳长矛。
+english_events_maingame:L1926,sandcastlesafety,POLISH,Oh... where was his body found?,哦... 他的尸体在哪发现的?,哦……尸体在哪儿发现的？
+english_events_maingame:L1927,sandcastlesafety,POLISH,"The Murder Plaza, obviously. It's thematic!",很明显是谋杀广场 这是主题!,当然是谋杀广场。很符合主题嘛！
+english_events_maingame:L1928,sandcastlesafety,POLISH,Goddammit...,该死的...,妈的……
+english_events_maingame:L1929,sandcastlesafety,FIX,"You lose -N2 HYPE getting rid of the awesome Murder Plaza and all its amazing sand-torture devices, but it's for the best.","你失去了N2 HYPE 摆脱了可怕的谋杀广场 和它所有惊人的沙牙装置, 但这是最好的。",拆掉超棒的谋杀广场，以及各种绝妙的沙制刑具，让你损失-N2热度。不过，这也是为大家好。
+english_events_maingame:L1931,sandcastlesafety,POLISH,"Sah, dudes! Ready for us to hand down our verdict?","嘘,伙计们! 准备好让我们做出判决了吗?",哟，伙计们！准备好听判决了吗？
+english_events_maingame:L1932,sandcastlesafety,FIX,"Stu, check it out! They got rid of the Murder Plaza! That puts you right in OSHA compliancy, my dudes.","斯图,看看! 他们摆脱了谋杀广场! 这样你们才对 OSHA的忠诚,我的伙计。",斯图，快看！谋杀广场拆了！这下，完全符合 OSHA 规范了，兄弟们。
+english_events_maingame:L1933,sandcastlesafety,POLISH,"Wow, that was pretty easy. We didn't even have to clean out the mold in the guest house!","哇,那很简单。 我们甚至不用清理客房的模具!",哇，好简单。连客房里的霉菌，都不用清！
+english_events_maingame:L1934,sandcastlesafety,POLISH,"Yeah, OSHA certifications are stupid easy to get. As long as you don't have asbestos, Murder Plazas, or less than three windows, you're good to go.","是啊,OSHA的认证是愚蠢的容易得到的。 只要你没有石棉,谋杀广场,或者不到三个窗户,你可以走了。",是啊，OSHA 认证，简单得要命。没有石棉，没有谋杀广场，窗户不少于三扇，就没问题。
+english_events_maingame:L1935,sandcastlesafety,FIX,"Great! You gain +N2 MIND from the relaxing joy of building a sand castle, sans Murder Plaza.","不错! Great! 你从建造沙地城堡的轻松快乐中获得了+N2 MIND, sans Murder Plaza.",真好！不用谋杀广场，也能享受堆沙堡的轻松快乐。你获得+N2头脑。
+english_events_maingame:L1943,bestseashell,KEEP,Collect seashells,收集贝壳,收集贝壳
+english_events_maingame:L1948,bestseashell,FIX,"You, Scott, and Polly set about collecting seashells, as a little memento of your trip together.","你,你是谁? 斯科特,以及 波莉 收集贝壳 作为你们一起旅行的小纪念品",你、斯科特和波莉，开始捡贝壳，留作这趟旅行的小纪念。
+english_events_maingame:L1953,bestseashell,FIX,"Check this shell out! Scott, hold it up to your ear!",看看这外壳!  斯科特举起你的耳朵!,快看这贝壳！斯科特，放到耳边听听！
+english_events_maingame:L1954,bestseashell,POLISH,"Ooh, does it sound like ocean waves?",听起来像海浪吗?,哦，能听见海浪声吗？
+english_events_maingame:L1955,bestseashell,POLISH,"No, better! It sounds like vaporwave music!","不,这样更好! 这听起来像蒸汽波音乐!",不，更好！是蒸汽波音乐！
+english_events_maingame:L1956,bestseashell,FIX,"Polly's shell is covered in gridlines and inexplicably fills you with 90s nostalgia, so that makes sense.","波莉壳被网纹所覆盖,令人难以解释地给你注入了90多个怀旧,所以这才有意义.",波莉的贝壳布满网格线，还莫名勾起了你对九十年代的怀念。这就说得通了。
+english_events_maingame:L1957,bestseashell,POLISH,"That's cool. I found this shell, but I'm not sure if it's a seashell. It looks more like a lake-shell to me.",这很酷。 我找到这个贝壳了 但我不确定是不是海贝壳 对我来说更像是个湖壳,酷。我也找到了一个，不过，不确定是不是海贝壳。我觉得，更像湖贝壳。
+english_events_maingame:L1958,bestseashell,POLISH,"...Stellar deduction, buddy.","... 聪明的推理,伙计。",……好厉害的推理，伙计。
+english_events_maingame:L1959,bestseashell,FIX,You show your friends the shell you found. It's beautiful and small and swirly -- and it suddenly starts crawling around your palm!,你向你的朋友展示你发现的外壳。 它美丽而小而细- 它突然开始在你的手掌上爬行!,你给朋友们看自己捡到的贝壳。小巧漂亮，还带着螺旋纹——忽然，它在你掌心爬了起来！
+english_events_maingame:L1960,bestseashell,FIX,Cool! %CURRENTPLAYERNAME%'s shell is haunted!,凉爽!  %CURRENTPLAYERNAME%贝壳闹鬼了!,酷！%CURRENTPLAYERNAME%的贝壳闹鬼了！
+english_events_maingame:L1962,bestseashell,FIX,"Nah, it's not haunted. %CURRENTPLAYERNAME% just found a hermit crab.","不,它不是闹鬼。  %CURRENTPLAYERNAME% 刚找到个隐士蟹",不是闹鬼，%CURRENTPLAYERNAME%只是捡到了一只寄居蟹。
+english_events_maingame:L1963,bestseashell,POLISH,"Yeah... and sorry to be a buzzkill, but we can't let you take that shell. As the lifeguards of this lake, we can't let you mess with the local wildlife.","对... 但我们不能让你拿走那发壳 作为这个湖的救生员,我们不能让你去搞乱当地的野生动物.",是啊……抱歉扫兴，不过，这个贝壳，你不能带走。我们是这湖的救生员，不能让你们打扰本地的野生动物。
+english_events_maingame:L1964,bestseashell,POLISH,"Yeah. It could be bad for, like, the environment or something?","对 它可能有害,喜欢,环境还是什么?",对。可能……对环境什么的，不太好？
+english_events_maingame:L1965,bestseashell,POLISH,"Plus, having a bunch of sad, homeless hermit crabs around would really harsh the vibe around here.","此外,有一群悲伤的,无家可归的隐士蟹 周围会真正严酷 周围的氛围。",再说，一群无家可归、伤心的寄居蟹，留在湖边，多破坏气氛。
+english_events_maingame:L1966,bestseashell,FIX,"Oh no, you're right! We don't wanna be hermit crab homewreckers!","哦,不,你说得对! 我们不想成为隐士蟹家",哦不，你说得对！我们可不想拆散寄居蟹的家！
+english_events_maingame:L1967,bestseashell,POLISH,"Hmm, what if %CURRENTPLAYERNAME% traded the hermit crab something for its shell instead of just taking it?","嗯,如果 %CURRENTPLAYERNAME% 用隐士蟹换来的东西来换外壳 而不是把它拿走?",嗯，%CURRENTPLAYERNAME%用点东西，跟寄居蟹换贝壳，不直接拿，行不行？
+english_events_maingame:L1968,bestseashell,POLISH,"Sure. As long as this is a fair-and-square exchange of goods and not a theft situation, we're cool.","当然可以。 只要这是公平而平分的交换货物,而不是偷盗的情况,我们就很酷了.",行。只要是公平交易，不是偷窃，就没问题。
+english_events_maingame:L1969,bestseashell,FIX,Fair nuff. What do you give the hermit crab in exchange for its shell?,不错 你给隐士蟹什么来交换它的外壳?,也好。你拿什么，跟寄居蟹换贝壳？
+english_events_maingame:L1970,bestseashell,FIX,"This seashell is the crab's house, so the only fair thing to do is give the deed to your own house to the crab.","这只海贝是螃蟹的家,所以唯一可以做的就是把地契交给自己家给螃蟹.",贝壳是蟹的房子，唯一公平的办法，就是把你自己家的房契给它。
+english_events_maingame:L1971,bestseashell,POLISH,Make a pact to give the crab your first child.,做个协议 给螃蟹你的第一个孩子。,订个契约，把你的第一个孩子给寄居蟹。
+english_events_maingame:L1973,bestseashell,FIX,"Cool, that makes perfect sense! I appreciate you guys rehoming this hermit crab so we didn't have to.","酷,这很合理! 我很感激你们重温这个隐士蟹,所以我们不必。",酷，很合理！多谢你们给寄居蟹安了家，省得我们操心。
+english_events_maingame:L1974,bestseashell,POLISH,"But wait, Wanda... what if %CURRENTPLAYERNAME%'s actions will... like... have consequences?","但等一下,万达... 狦 %CURRENTPLAYERNAME%行动会... 喜欢... 有后果吗?",不过，等等，万达……%CURRENTPLAYERNAME%干的事，会不会……有什么后果？
+english_events_maingame:L1975,bestseashell,FIX,What do you mean?,你说什么?,什么意思？
+english_events_maingame:L1976,bestseashell,POLISH,"Well, what if this hermit crab becoming a homeowner makes all the other hermit crabs jealous?","那么,如果这个隐士蟹 成为屋主 让所有其他隐士蟹嫉妒呢?",就是，这只寄居蟹有房了，其他寄居蟹会不会嫉妒？
+english_events_maingame:L1977,bestseashell,POLISH,So then the hermit crabs start trading their shells to other gullible young adults with property to spare...,然后隐士蟹们开始将它们的贝壳 交易给其他容易受骗的年轻成年人 并留下一些财产...,然后，它们开始拿贝壳，去跟其他好骗、又有多余房产的年轻人换……
+english_events_maingame:L1978,bestseashell,FIX,And then we crash the housing market 'cause all the best properties are being bought and sold for hermit crab shells!,然后我们撞倒了住房市场 因为所有最好的地产 都是为了隐士蟹壳而买卖的,接着，最好的房子，全拿寄居蟹壳买卖，房产市场就被我们搞崩了！
+english_events_maingame:L1979,bestseashell,POLISH,"Then all the houses have been bought by crabs, so monsters start having to live in hermit crab shells, then even THAT housing market inflates...",然后所有的房子都被螃蟹买下 所以怪兽不得不住在隐士蟹壳里 然后连房市都膨胀了...,房子都被蟹买走，怪物们只能住进寄居蟹壳。然后，连这个房产市场也开始涨价……
+english_events_maingame:L1980,bestseashell,POLISH,"Before you know it, it won't be weird to see poor families with eight people sleeping in one undersized shell on the beach!","在知道之前,看到有八个人睡在沙滩上一个下体外壳的贫穷家庭就不会奇怪了!",到最后，贫困的一家八口，挤在海滩上一只小小的壳里睡觉，都不稀奇了！
+english_events_maingame:L1981,bestseashell,POLISH,"Damn, that's a good point... and if the hermit crabs take our houses, what's next? Our jobs?!","该死,这是个好主意... 如果隐士蟹抢走我们的房子,接下来怎么办? 我们的工作?",妈的，说得有道理……寄居蟹抢走咱们的房子，下一步呢？工作？！
+english_events_maingame:L1982,bestseashell,POLISH,Nooooo! A hermit crab would be such a better lifeguard than me! I can't compete!,不许! 隐士蟹会比我更好的救生员! 我不能竞争!,不——！寄居蟹当救生员，肯定比我强！我怎么竞争啊！
+english_events_maingame:L1983,bestseashell,POLISH,I feel like all that happening is pretty unlikely...,我觉得发生的一切 都不太可能...,我觉得，这一整套发生的可能性，不太大……
+english_events_maingame:L1984,bestseashell,POLISH,Oh yeah? Smoke this and see if you still feel that way in a few minutes.,是吗? 抽下这个 再过几分钟你还会有这种感觉吗,是吗？抽口这个，过几分钟，看你还这么想不。
+english_events_maingame:L1986,bestseashell,POLISH,Twenty minutes later...,20分钟后...,二十分钟后……
+english_events_maingame:L1988,bestseashell,FIX,Holy shit. We're gonna crash the housing market!,妈的。 我们要撞倒住房市场!,卧槽。房产市场要被我们搞崩了！
+english_events_maingame:L1989,bestseashell,FIX,Told ya.,告诉你了。,早跟你说了。
+english_events_maingame:L1990,bestseashell,FIX,"You're still skeptical, but you for sure lost -N2 MONEY trading an entire house to a hermit crab. At least you gained +N2 MAGIC from the gorgeous shell!",但你肯定输了N2 MONEY 把整个房子卖给了隐士蟹 至少你从华丽的外壳中获得了+N2 MAGIC!,你仍有点怀疑。不过，一整套房子换给寄居蟹，确实让你损失了-N2金钱。至少，漂亮的贝壳让你获得了+N2魔力！
+english_events_maingame:L1992,bestseashell,POLISH,"Whoa, you get the shell AND you don't have to pay for birth control? Sweet deal!","哇,你得到的外壳 你不必支付节育费? 说得好!",哇，既能拿贝壳，又不用花钱避孕？赚了！
+english_events_maingame:L1993,bestseashell,FIX,"Sweet indeed. You get your shell, your crab gets an ""IOU 1 Baby"" coupon, and everyone is happy.","不错啊 你得到你的外壳,你的螃蟹得到一个""IOU 1宝贝""的优惠券,大家都很开心.",确实赚了。你拿到了贝壳，寄居蟹拿到一张“欠一个宝宝”的兑换券，皆大欢喜。
+english_events_maingame:L1994,bestseashell,FIX,"You continue on your merry way, quickly forgetting about the whole incident...","你继续你的快乐之道, 很快忘记了整个事件...",你开心地上路，很快就把这事，忘了个一干二净……
+english_events_maingame:L1997,bestseashell,POLISH,"...for about 8 years. By this time, you've married the love of your life and gotten a home together. You two now have a healthy, bouncing baby.","...大约8年。 这时候,你娶了一生的爱人,一起获得了一个家. 你们两个现在有了一个健康而活泼的婴儿。",……大概忘了八年。这时候，你已和一生挚爱结婚，一起安了家，还有了个健康活泼的宝宝。
+english_events_maingame:L1998,bestseashell,FIX,You and your spouse are cuddling your little bundle of joy when you hear a quiet -- yet insistent -- knock at the door. It's the hermit crab!,"你和你的配偶正在拥抱你的小快乐 当你听到一个安静的,但坚持的,敲门。 是隐士蟹!",你和伴侣正抱着小宝贝，忽然听到轻轻的、却不依不饶的敲门声。是那只寄居蟹！
+english_events_maingame:L1999,bestseashell,POLISH,"""What's happening, honey?"" your spouse cries. ""Why is a hermit crab trying to take our baby out of my arms?!""","""怎么了,亲爱的?"" 你的配偶哭了。 ""为什么一个隐士蟹想把我们的孩子从我的怀里带走?""",“亲爱的，怎么回事？”伴侣叫道，“为什么有只寄居蟹，要从我怀里抢走我们的孩子？！”
+english_events_maingame:L2000,bestseashell,POLISH,You explain that you promised this crab your first child in exchange for its shell. It seemed like a good idea at the time.,你解释你答应了这个螃蟹 你的第一个孩子交换它的外壳 这在当时似乎是个好主意.,你解释，曾答应把第一个孩子给寄居蟹，换它的贝壳。当时觉得，是个好主意。
+english_events_maingame:L2001,bestseashell,POLISH,You're sure you could convince your spouse it was worth it if you showed them the shell...,你确信你可以说服你的配偶 如果你给他们看那外壳...,你很确定，只要把贝壳拿出来，伴侣就会相信，这交易绝对值……
+english_events_maingame:L2002,bestseashell,POLISH,But you traded it to a raccoon 3 years ago for a plate of spaghetti. Oops!,但你三年前把它卖给了浣熊 买来一盘意大利面 哎哟!,可三年前，你已经拿贝壳，跟一只浣熊换了盘意大利面。哎呀！
+english_events_maingame:L2003,bestseashell,FIX,"""Dammit, %CURRENTPLAYERNAME%! This is why we're getting a divorce, you know -- you're TERRIBLE at bartering!""","""该死, %CURRENTPLAYERNAME%! 这就是我们离婚的原因,你知道的 -- 你对易货是可怕的!""",“妈的，%CURRENTPLAYERNAME%！知道为什么要跟你离婚吗？就是因为你太不会以物易物了！”
+english_events_maingame:L2004,bestseashell,FIX,That must also be why your spouse is getting the house and everything else you own in the settlement. When will you learn?,这也是为什么你的配偶 要得到房子 和所有的东西 在和解。 你什么时候学?,想必也正因如此，离婚财产分割时，房子和你所有其他财产，全归了伴侣。你什么时候，才能长点记性？
+english_events_maingame:L2007,bestseashell,FIX,"But that's years from now. All you know right now is that you lose -N2 SOUL from your heartless decision, but gain +N2 MAGIC from your shell! Ooh, pretty!","但是,这是多年以后。 现在你知道的只是你失去了 -N2 Suul 从你的无情的决定, 但从你的外壳中获取+N2 MAGIC! 哦痷簘獹",不过，那都是好多年后的事了。现在你只知道，冷血的决定让你损失-N2灵魂，可贝壳让你获得+N2魔力！哇，真漂亮！

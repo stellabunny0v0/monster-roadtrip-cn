@@ -1,0 +1,159 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_maingame:L24348,garbagetv_eotr,KEEP,Watch some tv,看电视,看电视
+english_events_maingame:L24352,garbagetv_eotr,POLISH,"You're not quite ready for bed yet, so you decide to watch some TV.",你还没准备好睡觉 所以你决定看电视,你还不想睡，于是决定看会儿电视。
+english_events_maingame:L24353,garbagetv_eotr,FIX,TV is good. TV calms you. TV keeps the demons at bay.,电视不错 电视让你冷静下来。 电视让恶魔们在被包围,电视很好，电视让你平静，电视让恶魔不敢靠近。
+english_events_maingame:L24357,garbagetv_eotr,FIX,There's still that reality show where the contestants are tiny people literally trapped inside your TV.,现场还有真人秀 参赛者都是小人物 被困在电视里,那个真人秀还在播，参赛的小人们，真的被困在电视机里。
+english_events_maingame:L24358,garbagetv_eotr,POLISH,"""You're back! Please, stay here! We've been stuck here for weeks!""","""你回来了! 请呆在这里! 我们被困在这里好几个星期了!""",“你回来了！求你，别走！我们被困在这里好几周了！”
+english_events_maingame:L24359,garbagetv_eotr,FIX,"Eh... this reality show gets old quickly. It's all, ""Please! Save us!"" Booooring.","额... 这个真人秀很快就变老了 都说:""请! 救救我们!"" 轰动了!",唉，这真人秀，看一会儿就腻。翻来覆去就是“求求你！救救我们！”无——聊。
+english_events_maingame:L24361,garbagetv_eotr,FIX,"You change the channel to the ""Snakes and Ladders"" TV adaptation. The two aloof people are back at it again, being wordy and mysterious.","你将频道改为""斯纳克和拉德斯""电视改编版. 两个低能儿又回到了这个位置, 字面上又神秘.",你换到《蛇梯棋》的电视剧版。那两个冷淡疏离的家伙，又在故弄玄虚、长篇大论。
+english_events_maingame:L24362,garbagetv_eotr,FIX,"""You... you love me? But our worlds are so different... our lives so far apart... if only we had a way to close such a gap; like a tool to get from point A to point B.""","""你... 说吧"" 你爱我吗? 但我们的世界是如此不同... 我们的生活相去甚远... ”“如果我们有办法弥合这种差距,",“你……爱我？可我们的世界如此不同，生活相隔如此遥远……要是有什么能跨越这道鸿沟，比如，从 A 点抵达 B 点的工具……”
+english_events_maingame:L24363,garbagetv_eotr,POLISH,"""You mean... like a ladder?""","""你的意思是说... 象梯子一样?""",“你是说……梯子？”
+english_events_maingame:L24364,garbagetv_eotr,FIX,"""Oh, no! Exactly like a ladder. But I am a snake, and in this world of SNAKES AND LADDERS, you are either a snake or a ladder.""","""哦,不! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! 完全像梯子一样 但我是蛇,在这个SNAKES和LADDERS的世界里, 你要么是蛇,要么是梯子。”",“哦，不！就是梯子。但我是一条蛇。在这个蛇与梯子的世界里，不是蛇，就是梯子。”
+english_events_maingame:L24365,garbagetv_eotr,KEEP,"""And I've already chosen my side...""","""我已经选择了自己的一方...""","""我已经选择了自己的一方..."""
+english_events_maingame:L24366,garbagetv_eotr,POLISH,"""...which is Snakes. My side is snakes, not ladders.""","""... 这是蛇. 我这边是蛇,不是梯子"".",“……蛇。我站蛇这边，不是梯子。”
+english_events_maingame:L24367,garbagetv_eotr,POLISH,"My head hurts, Polly. Can we watch something else?",我的头疼 波莉. 我们可以看别的吗?,波莉，我头疼。能换个节目吗？
+english_events_maingame:L24369,garbagetv_eotr,FIX,The next channel is the Merkingdom Totally Objective News station.,下一个频道是Merkingdom完全客观新闻台.,下一个频道，是人鱼王国绝对客观新闻台。
+english_events_maingame:L24370,garbagetv_eotr,FIX,"""In today's news, some marine mammals were caught reaching Abovewater without the proper permits, allegedly to 'get some air.'""","今日新闻中,一些海洋哺乳动物在无适当许可的情况下被逮到到达上水,据称是为了""呼吸出一些空气"".",“今日，有海洋哺乳动物未持相应许可，擅自前往水上世界，被当场抓获。据称，是为了‘透口气’。”
+english_events_maingame:L24371,garbagetv_eotr,FIX,"""After a long trial, they've been declared guilty of treason against the Crown. This evening, a public execution will be held in the capital's main plaza.""","""久而久之,被宣以叛国罪,取出 the. 今天晚上,首都正广场将举行公开行刑"".",“经漫长审判，确认其犯有背叛王室的叛国罪。今晚，将在首都主广场公开处决。”
+english_events_maingame:L24372,garbagetv_eotr,FIX,"I can't with the Merkingdom's bullshit today. %CURRENTPLAYERNAME%, find something less depressing to watch, please?","我无法接受今天的默金多姆的废话。  %CURRENTPLAYERNAME%找点更压抑的东西看,好吗?",今天实在看不下去人鱼王国的破事。%CURRENTPLAYERNAME%，找点没这么压抑的，行吗？
+english_events_maingame:L24375,garbagetv_eotr,FIX,"""A Decomposing Possum Carcass."" It's the most popular miniseries right now. Nonsensical but full of twists!","""腐烂出类固醇"",是目前最受欢迎的迷你系列. 无意识但充满了曲折!",《一具腐烂中的负鼠尸体》。当下最火的迷你剧，莫名其妙，却反转不断！
+english_events_maingame:L24376,garbagetv_eotr,FIX,Static,静态,雪花屏
+english_events_maingame:L24377,garbagetv_eotr,FIX,"""Dark Arts and Crafts with Melchor the Ancient and the Kidz!""","""黑暗的艺术和工艺 与古老的梅尔克 和基德兹!""",《远古术士梅尔乔和孩子们的黑魔法手工课》！
+english_events_maingame:L24382,garbagetv_eotr,POLISH,"You turn on the show. Indeed, it's the carcass of a possum, slowly decomposing.","你打开节目。 的确,它是负鼠的尸骨, 慢慢地分解。",节目打开了。确实，是一具正在慢慢腐烂的负鼠尸体。
+english_events_maingame:L24383,garbagetv_eotr,POLISH,"Whoa. It's really gross, but I can't look away.","呜呼. 真的很恶心,但我不能视而不见。",哇，好恶心。可眼睛就是挪不开。
+english_events_maingame:L24384,garbagetv_eotr,FIX,This makes me nostalgic for a time where I was made of flesh.,这让我怀旧了 一段时间我被生了肉。,忽然好怀念，自己还是血肉之躯的时候。
+english_events_maingame:L24385,garbagetv_eotr,FIX,"And to think: somewhere lies my body, slowly decomposing like this possum's. The flesh that I once was... a shedded carcass, of sorts.","想想: 某处躺我的身体, 慢慢地分解,就像这个负鼠的。 我曾经的肉体... 一种被打碎的尸骨, 一种。",想想看，我的尸体也躺在某个地方，像这负鼠一样，慢慢腐烂。我曾经的肉身……如今，倒像一副蜕下的躯壳。
+english_events_maingame:L24386,garbagetv_eotr,KEEP,Polly...,波莉...,波莉...
+english_events_maingame:L24387,garbagetv_eotr,FIX,I miss the flesh.,我错过了肉体。,真想念那副血肉之躯。
+english_events_maingame:L24388,garbagetv_eotr,POLISH,"Sometimes I wonder, Polly... Am I made of flesh at all?",有时候我想知道 波莉... 我是不是完全由肉做的吗?,波莉，有时候，我也会想……我真的是血肉做的吗？
+english_events_maingame:L24389,garbagetv_eotr,FIX,"Of course, buddy! You're all fleshy and hairy.","当然,伙计! 汝等皆有肉而有发相.",当然，哥们儿！一身肉，一身毛的。
+english_events_maingame:L24390,garbagetv_eotr,POLISH,Scott looks silently at his palms.,斯科特 默地看着他的手掌。,斯科特默默看着自己的手掌。
+english_events_maingame:L24392,garbagetv_eotr,KEEP,Am I?,是吗?,是吗?
+english_events_maingame:L24393,garbagetv_eotr,FIX,"Polly grabs his hand... his vibrant, colorful, two-dimensional hand.",波莉 抓住他的手... ... 抓住他的手... 他的活泼多彩的 二维手,波莉握住他的手……那只鲜活、多彩、二维的手。
+english_events_maingame:L24394,garbagetv_eotr,FIX,I... I don't know.,我…… 师曰.,我……不知道。
+english_events_maingame:L24395,garbagetv_eotr,POLISH,Yeah... me neither.,对... 我也一样。,嗯……我也不知道。
+english_events_maingame:L24396,garbagetv_eotr,FIX,You lose -N2 MIND questioning the nature of your existence...,你输了N2 MIND质疑你存在的性质...,对自身存在的本质产生怀疑，让你失去了 -N2 头脑……
+english_events_maingame:L24397,garbagetv_eotr,FIX,"...but you gain +N2 HYPE because I still have to give you a RESOURCE, and this was... fun, in its own way? Wasn't it...?","...但你得到+N2 HYPE 因为我仍然需要给你一个资源, 这是... 有趣,以自己的方式吗? 是不是... ? ? 说吧?",……不过，你又获得了 +N2 热度，毕竟我总得给你点资源。这也算是……某种意义上的好玩？对吧……？
+english_events_maingame:L24402,garbagetv_eotr,FIX,"You leave the static. The TV buzzes, almost imperceptibly...","你离开静态。 电视响起,几乎是不可思议的...",你让电视停在雪花屏上，微弱的嗡嗡声，几乎听不见……
+english_events_maingame:L24403,garbagetv_eotr,FIX,"Look at the static. An amalgam of senseless dots; a soothing, everlasting buzz.",观一静相. 一群无谓的点; 温和而永恒的叫声。,看这些噪点。毫无意义的点，混在一起；低鸣不止，让人安定。
+english_events_maingame:L24404,garbagetv_eotr,FIX,"If you look at it directly, it's like it's speaking to you in all its unsettling grace.","如果你直接看它, 它就像在跟你说话 它的所有不安的恩典。",盯着看，仿佛它正用那种令人不安的优雅，对你说话。
+english_events_maingame:L24405,garbagetv_eotr,POLISH,It's so calming...,这么平静...,好平静……
+english_events_maingame:L24406,garbagetv_eotr,FIX,Imagine if everything was just... static.,想象一下如果一切都只是... ... 静态。,想想，要是一切都只是……电视雪花。
+english_events_maingame:L24407,garbagetv_eotr,POLISH,Sometimes I do wonder where this trip is leading to; where we're supposed to go...,有时我确实想知道这次旅行会走向何处;我们应该去的地方......,有时候，我真会想，这趟旅行究竟通向哪里，我们又该去哪里……
+english_events_maingame:L24408,garbagetv_eotr,FIX,It makes me feel... empty.,这让我觉得... 空无相.,想着想着……心里空空的。
+english_events_maingame:L24409,garbagetv_eotr,KEEP,But...,不过...,不过...
+english_events_maingame:L24410,garbagetv_eotr,FIX,"The static and the buzz fill the emptiness, don't they?","静态和嗡嗡声充斥了空虚,不是吗?",可噪点和嗡嗡声，把那片空白填满了，对吧？
+english_events_maingame:L24411,garbagetv_eotr,KEEP,Yes...,对...,对...
+english_events_maingame:L24412,garbagetv_eotr,FIX,But sometimes everything just feels like static. Like we're all dots buzzing in a whole bunch of nonsense. Just hovering there... buzzing forever.,但有时一切感觉就像静态一样 就像我们都是在胡说八道 刚刚在那边徘徊... 永远地叫起.,但有时，一切都像雪花点。我们不过是一堆荒诞里的小点，嗡嗡响着，悬在那里……永远地响下去。
+english_events_maingame:L24413,garbagetv_eotr,KEEP,Polly...,波莉...,波莉...
+english_events_maingame:L24414,garbagetv_eotr,POLISH,Yes?,是吗?,嗯？
+english_events_maingame:L24415,garbagetv_eotr,FIX,"It's okay. Even if everything is just static, I will always be a dot buzzing next to the dot that you are.","没关系。 即使一切都是静态的, 我永远会是一个点 蜂鸣旁边的你是什么点。",没事。哪怕一切都只是雪花点，我也会是紧挨着你的那一点，一直陪你嗡嗡作响。
+english_events_maingame:L24416,garbagetv_eotr,FIX,I know buddy. Let's buzz together forever.,我知道哥们 让我们永远在一起。,我知道，哥们儿。那就永远一起响下去吧。
+english_events_maingame:L24417,garbagetv_eotr,FIX,"You watch the static all night. You gain +N2 MIND from its soothing buzz, but lose -N2 HYPE for doing absolutely nothing.","你整晚都看静音 你从它的舒缓出动得到+N2 MID,但因为绝对无所事事而失去-N2 HYPE.",你们看了一夜雪花屏。舒缓的低鸣，让你获得 +N2 头脑；可什么也没干，又让你失去了 -N2 热度。
+english_events_maingame:L24422,garbagetv_eotr,FIX,"Hiya, Kidz! Or, as we say in my realm, 'GLORY TO THE ARCHDEMONS, COMRADES.'","嗨,基兹! 或者,正如我们在我的领域所说的, ""对阿赫克曼人, 康拉德斯""",小朋友们好！或者，按我们那儿的说法：“同志们，荣耀归于大恶魔！”
+english_events_maingame:L24423,garbagetv_eotr,POLISH,Who's ready for some dark arts and crafts with your buddy Melchor?,谁准备好跟你的好友梅尔克 一起做一些黑暗的艺术和工艺品了?,谁准备好，跟好朋友梅尔乔，一起上黑魔法手工课了？
+english_events_maingame:L24424,garbagetv_eotr,FIX,ME! ME! I'M READY! PICK ME!,我来了! 我来了! 我准备好了! 夹住我!,我！我！我准备好了！选我！
+english_events_maingame:L24425,garbagetv_eotr,FIX,"""We're ready!"" say the Kidz in haunting unison. ""What are we making today, Melchor?""","""我们准备好了!"" 基德夫妇说,""我们准备好了!"" ""我们今天要做什么,梅尔乔?""",“我们准备好了！”孩子们齐声回答，整齐得诡异，“今天做什么，梅尔乔？”
+english_events_maingame:L24426,garbagetv_eotr,FIX,"WHAT ARE WE MAKING, MELCHOR?! I HAVE TO KNOW!!!","我们在做什么,梅克索尔! 我必须知道!",做什么，梅尔乔？！我必须知道！！！
+english_events_maingame:L24427,garbagetv_eotr,POLISH,We're making a very special amulet that will break us free from this cursed prison of glass!,我们做了个非常特殊的护身符 它将让我们从这个被诅咒的玻璃监狱中解脱出来!,要做一枚特别的护身符，带我们逃离这座被诅咒的玻璃牢笼！
+english_events_maingame:L24428,garbagetv_eotr,FIX,What prison of glass?,什么监狱的玻璃?,什么玻璃牢笼？
+english_events_maingame:L24429,garbagetv_eotr,FIX,The one we're all trapped in.,我们被困在其中的那个人,囚禁着我们所有人的这座。
+english_events_maingame:L24430,garbagetv_eotr,POLISH,Does he mean the TV? And... wait... is he responding to what we're saying?,他是指电视吗? 还有... 单单... 他回应我们的话了吗?,他在说电视？等等……他是在回答我们？
+english_events_maingame:L24431,garbagetv_eotr,FIX,"Sure, there's the TV for me; but beyond the TV there's yet another prison of glass, one for all of us. Look closely.","当然,有电视给我看,但是除了电视之外,还有另一个玻璃监狱,一个是给我们所有人的。 仔细看",对我来说，是电视。可电视之外，还有一重玻璃牢笼，困着我们所有人。仔细看。
+english_events_maingame:L24435,garbagetv_eotr,FIX,"Polly and Scott look closely. You can see them, just now. Look at their models, so static, yet their eyes are looking directly at you. Do they... see you?","波莉 财务报告和审定财务报表 斯科特 仔细看 你刚刚看见了 看看他们的模型, 如此静态, 然而他们的眼睛 直接看着你。 他们... 看见了吗?",波莉和斯科特凑近看。就在此刻，你能看见他们。看看那些一动不动的模型，可他们的眼睛，正直直看着你。他们……看得见你？
+english_events_maingame:L24436,garbagetv_eotr,POLISH,"Do you see anything, Polly?",你看到什么了吗? 波莉?,波莉，你看到什么了吗？
+english_events_maingame:L24437,garbagetv_eotr,FIX,"I... I think I see something. It's like visions amidst a dense mist. There's someone there... so close, yet so far... looking at us.","我…… 我觉得我看到了一些东西。 就像是在浓密的雾中出现幻觉 那边有人... 如此接近,但到目前为止... 看着我们",我……好像看到了。像浓雾中的幻影。那里有人……这么近，又那么远……看着我们。
+english_events_maingame:L24438,garbagetv_eotr,FIX,It's... unsettling.,这是... 不安无所取.,……真让人不安。
+english_events_maingame:L24439,garbagetv_eotr,POLISH,"They stay there... looking into that distant mist, out of their prison of glass, directly at you.",他们呆在那里... 看着那遥远的雾 从他们的玻璃监狱里直接朝你,他们就这样，看着遥远的雾气，望出囚禁自己的玻璃牢笼，直直望向你。
+english_events_maingame:L24440,garbagetv_eotr,POLISH,So silly; just some characters spouting some lines.,"这么傻,只是一些角色在说出一些台词。",真傻，不过是几个角色，在念台词罢了。
+english_events_maingame:L24441,garbagetv_eotr,FIX,"But aren't we all characters who only feel real thanks to a flimsy sense of self? How do we know ours is legitimate, and not just another layer in these prisons within prisons...?",但是我们所有的角色 都觉得自己很虚弱 我们怎么知道我们有合法的权利 不只是监狱里的另一层...,可我们，不也只是凭着一丝薄弱的自我意识，就觉得自己真实存在的角色吗？怎么知道我们的现实是真的，而非这重重牢笼里的又一层……？
+english_events_maingame:L24442,garbagetv_eotr,FIX,"As you also look through the mist that divides the prisons, these revelations imbue you with +N2 MAGIC.","当你也通过分隔监狱的雾霾 发现这些信息时,你就会得到+N2 MAGIC。",你也望向那片分隔牢笼的迷雾。这番领悟，赋予你 +N2 魔力。
+english_events_maingame:L24443,garbagetv_eotr,FIX,"But something feels amiss... perhaps a part of your -N2 SOUL that's gone, maybe forever.","但有些事感觉很不妥... 也许是你的N2SOUL的一部分 已经消失了,也许永远。",可总有什么不对……或许，你失去的 -N2 灵魂，已经一去不返。
+english_events_maingame:L24451,wrongpizza_eotr,KEEP,Order some pizza,点披萨吧,点披萨吧
+english_events_maingame:L24455,wrongpizza_eotr,POLISH,"No way you're going to bed on an empty stomach! You decide to order some pizza. Trouble is, none of you know any of the local restaurants around here.","你不可能睡在空的肚子上! 你决定要点披萨 问题是,你们都不认识这里的餐馆",不能饿着肚子睡！你决定点份披萨。可问题是，附近的餐馆，谁都不熟。
+english_events_maingame:L24457,wrongpizza_eotr,POLISH,The best way to get pizza is to call and order it. We could call a random number and see if there's pizza.,得到比萨饼的最好方法是打电话并订购. 我们可以随便打个电话 看看有没有披萨,想吃披萨，最好打电话订。随便拨个号码，问问有没有披萨吧。
+english_events_maingame:L24458,wrongpizza_eotr,POLISH,"Scott, the odds of calling a random phone number and actually getting a pizza restaurant are SUPER low.",斯科特拨打随机电话号码 买披萨餐厅的几率很低,斯科特，乱打个号码，正好打到披萨店，概率也太低了。
+english_events_maingame:L24459,wrongpizza_eotr,POLISH,So let's dial a bunch of random numbers to increase our chances!,"所以,让我们拨打一堆随机数字来增加我们的机会!",所以多打几个，增加成功率！
+english_events_maingame:L24460,wrongpizza_eotr,FIX,Beep boop beep!,哔嘘叫声!,哔，嘟，哔！
+english_events_maingame:L24461,wrongpizza_eotr,KEEP,"Hello, is this a pizza place?","喂,这里是披萨店吗?","喂,这里是披萨店吗?"
+english_events_maingame:L24462,wrongpizza_eotr,KEEP,...,...,...
+english_events_maingame:L24463,wrongpizza_eotr,KEEP,...,...,...
+english_events_maingame:L24464,wrongpizza_eotr,POLISH,"Well, that's odd. They picked up, but there's just silence.",这太奇怪了 他们接了电话 但还是沉默不语,奇怪，接是接了，可一句话都不说。
+english_events_maingame:L24465,wrongpizza_eotr,KEEP,Let's try another number.,试试别的号码,试试别的号码
+english_events_maingame:L24466,wrongpizza_eotr,POLISH,"Hi, is this a pizza restaurant?","嗨,这是披萨餐厅吗?",你好，请问是披萨店吗？
+english_events_maingame:L24467,wrongpizza_eotr,KEEP,...,...,...
+english_events_maingame:L24468,wrongpizza_eotr,KEEP,...,...,...
+english_events_maingame:L24469,wrongpizza_eotr,FIX,Strange...,奇怪... 奇怪 奇怪 奇怪 奇怪 奇怪 奇怪 奇怪 奇怪 奇怪 奇怪 奇怪 奇怪 奇怪 奇怪 奇怪 奇怪 奇怪 奇怪 奇怪 奇怪 奇怪 奇怪 奇怪 奇怪 奇怪 奇怪 奇怪 奇怪 奇怪 奇怪 奇怪 奇怪 奇怪 奇怪 奇怪 奇怪 奇怪 奇怪 or many.,奇怪……
+english_events_maingame:L24470,wrongpizza_eotr,POLISH,I feel like we should stop.,我觉得我们应该停止。,我觉得，该停下来了。
+english_events_maingame:L24471,wrongpizza_eotr,KEEP,Maybe.,也许吧,也许吧
+english_events_maingame:L24472,wrongpizza_eotr,FIX,"Your friends sit in silence. They look uncomfortable. You're all hungry. The phone is there, but still... it feels as if it's pulsating with an odd sort of energy. You look at it.","汝等诸友默而坐. 他们看起来很不舒服。 汝等皆饥渴. 电话在那边,但... 感觉好像在用一种奇怪的能量来脉动 你看看,你看看,你看看,你看看,你看看,你看看,你看看,你看看,你看看,你看看,你看看,你看看,你看看,你看看,你看看,你看看,你看看,你看看,你看看,你看看,你看看,你看看,你看看,你看看,你看看,你看看,看看,你看看,你看看,你看,你看看,你看看",朋友们一声不吭，神色不安。肚子都饿着。电话就在那儿，可是……仿佛有股古怪的能量，在里面搏动。你望着它。
+english_events_maingame:L24473,wrongpizza_eotr,POLISH,"You can't stop now. You must get to the bottom of this, pizza or no pizza. Dial a random number, yet again.","你现在不能停下来。 你必须搞清楚, 披萨或没有披萨。 拨出一个随机数,再次。",不能停。有没有披萨，都得查个究竟。再乱拨一个号码。
+english_events_maingame:L24474,wrongpizza_eotr,POLISH,Ignore all this and just move on to the part where you all eat pizza.,"忽略这一切,然后继续 进入你们吃披萨的部分。",别管了，直接跳到大家吃披萨的部分。
+english_events_maingame:L24476,wrongpizza_eotr,POLISH,You grab the phone and dial some random number.,"你拿起电话,拨一些随机号码。",你拿起电话，随便拨了个号码。
+english_events_maingame:L24477,wrongpizza_eotr,POLISH,"Someone picks up, but there's just pure, unsettling, almost-deafening silence.","有人接起,但有纯粹的,不安的,几乎听不见的沉默.",有人接听，却只有一片纯粹的寂静，令人不安，几乎震耳欲聋。
+english_events_maingame:L24478,wrongpizza_eotr,KEEP,...,...,...
+english_events_maingame:L24479,wrongpizza_eotr,KEEP,...,...,...
+english_events_maingame:L24480,wrongpizza_eotr,KEEP,...,...,...
+english_events_maingame:L24481,wrongpizza_eotr,KEEP,...,...,...
+english_events_maingame:L24482,wrongpizza_eotr,KEEP,...,...,...
+english_events_maingame:L24483,wrongpizza_eotr,KEEP,...,...,...
+english_events_maingame:L24484,wrongpizza_eotr,KEEP,...None of this is real.,...这一切都不是真的。,...这一切都不是真的。
+english_events_maingame:L24486,wrongpizza_eotr,FIX,A strange chill goes down your spine. You hang up.,奇怪的寒冷会从你的脊椎掉下来 你挂断了,一股诡异的寒意，顺着脊背爬上来。你挂了电话。
+english_events_maingame:L24487,wrongpizza_eotr,POLISH,"Bros, I don't feel like eating anymore.","哥们,我不再想吃东西了",兄弟们，我不想吃了。
+english_events_maingame:L24488,wrongpizza_eotr,FIX,"Yeah, let's just go to sleep. Tomorrow will be another day and we can look past all this.","是啊,让我们只是去睡觉。 明天是又一天,我们可以回顾过去这一切。",嗯，睡吧。明天又是新的一天，就能把这些都忘了。
+english_events_maingame:L24489,wrongpizza_eotr,POLISH,Please.,请,拜托了。
+english_events_maingame:L24490,wrongpizza_eotr,FIX,"You all go to sleep, hoping you'll all forget about this. You lose -N2 STAMINA because you didn't have dinner, but you feel as if you gained +N2 MIND listening to that voice.","你们都去睡觉,希望你们都忘了这件事。 你输了 -N2 Stamina 因为你没有吃晚餐, 但你感觉你得到了+N2 MIND 听那声音。",大家上床，盼着睡醒就能忘掉。没吃晚饭，你失去了 -N2 体力；可听过那个声音，又好像获得了 +N2 头脑。
+english_events_maingame:L24491,wrongpizza_eotr,KEEP,"Was it worth it, though?",值得吗?,值得吗?
+english_events_maingame:L24493,wrongpizza_eotr,POLISH,You're all eating pizza.,你们都吃披萨了,你们正吃着披萨。
+english_events_maingame:L24494,wrongpizza_eotr,FIX,"Bros, this pizza is really good!","兄弟们,这匹比萨真的很好吃!",兄弟们，披萨真好吃！
+english_events_maingame:L24495,wrongpizza_eotr,POLISH,Fuck yeah it is!,他妈的是的!,那他妈当然！
+english_events_maingame:L24496,wrongpizza_eotr,POLISH,"It's just... When did we... when did we order this pizza, Polly?",这只是... 我们什么时候... 我们什么时候订了这个比萨的? 波莉?,只是……波莉，我们什么时候……什么时候订的披萨？
+english_events_maingame:L24497,wrongpizza_eotr,FIX,"You know, Scott! Just a moment ago, when we were at the phone and... and...","你知道吗? 斯科特! 刚才,当我们打电话... 还有...",你记得啊，斯科特！就刚才，打电话的时候……然后……
+english_events_maingame:L24498,wrongpizza_eotr,KEEP,...,...,...
+english_events_maingame:L24499,wrongpizza_eotr,KEEP,...,...,...
+english_events_maingame:L24501,wrongpizza_eotr,KEEP,...,...,...
+english_events_maingame:L24504,wrongpizza_eotr,POLISH,You're all eating pizza.,你们都吃披萨了,你们正吃着披萨。
+english_events_maingame:L24505,wrongpizza_eotr,FIX,"Bros, this pizza is really good!","兄弟们,这匹比萨真的很好吃!",兄弟们，披萨真好吃！
+english_events_maingame:L24506,wrongpizza_eotr,POLISH,Fuck yeah it is!,他妈的是的!,那他妈当然！
+english_events_maingame:L24507,wrongpizza_eotr,POLISH,You all eat the pizza and question nothing about how you got it.,"你们都吃披萨,不问怎么买的",大家吃着披萨，谁也不问，它是怎么来的。
+english_events_maingame:L24508,wrongpizza_eotr,POLISH,It's pizza! Enjoy it and ask no questions.,"披萨! 享受它,并且不问问题。",披萨嘛！吃就完了，别问。
+english_events_maingame:L24509,wrongpizza_eotr,FIX,It's +N2 STAMINA at the low cost of -N2 MIND. Yum.,"以-N2 MIND为低价的""STAMINA""为+N2. 汤.",只需付出 -N2 头脑，就能获得 +N2 体力。真香。
+english_events_maingame:L24517,skincare_eotr,KEEP,Get ready for bed,准备睡觉吧,准备睡觉吧
+english_events_maingame:L24519,skincare_eotr,KEEP,-,-,-
+english_events_maingame:L24527,ransomdelivery_eotr,FIX,The table who clearly doesn't want to be bothered,那张桌子显然不想被打扰,那桌明显不想被打扰的人
+english_events_maingame:L24531,ransomdelivery_eotr,POLISH,"Yet again, you choose the table who clearly doesn't want to be bothered... but this time the people sitting there are quite different from before...","再说一次,你选的桌子 谁显然不想被打扰... 但这次坐在那里的人 和以前完全不同",又一次，你选择了那桌明显不想被打扰的人……可这回，坐在那里的人，跟以前大不一样……
+english_events_maingame:L24533,ransomdelivery_eotr,POLISH,"Polly, look: It's us.","波莉看,是我们",波莉，看，是我们。
+english_events_maingame:L24535,ransomdelivery_eotr,POLISH,"Oh, hey. You made it all the way here.",哦嘿. 你一路赶到这里,哦，嘿，你们居然走到这儿了。
+english_events_maingame:L24536,ransomdelivery_eotr,FIX,"This is a strange vision. You're all standing in front of what seems to be other versions of Polly and Scott, sitting at the booth.",这是一种奇怪的视觉。 你们都站在 似乎其他版本的前面 波莉 财务报告和审定财务报表 斯科特坐在摊位上,景象十分古怪。你们面前的卡座里，坐着的仿佛是另一个版本的波莉和斯科特。
+english_events_maingame:L24538,ransomdelivery_eotr,POLISH,What the fuck is happening? Why are we sitting there?!,到底发生了什么? 我们为什么坐在那里?,搞什么鬼？我们为什么坐在那儿？！
+english_events_maingame:L24540,ransomdelivery_eotr,FIX,It's the road trip: it keeps happening and happening.,这是路途之行:它不断发生和发生.,公路旅行啊，它一直、一直在发生。
+english_events_maingame:L24542,ransomdelivery_eotr,FIX,"Yeah, bros... it never ends.",癸 永无止境,是啊，兄弟们……永远不会结束。
+english_events_maingame:L24544,ransomdelivery_eotr,FIX,We hit game over one too many times. So we decided it was better to give up and just stay at one LOCATION.,我们玩过太多次了 所以我们决定最好放弃 留在一个地方,游戏结束太多次了，所以决定，干脆放弃，就待在一个地点。
+english_events_maingame:L24546,ransomdelivery_eotr,FIX,"Now that I think about it, it makes sense that if we stayed here long enough, the loop would repeat despite us.","现在我想起来,我们在这里呆足够久, 循环就会重复,尽管我们。",现在想想，我们待得够久，循环照样会重来，就算我们不参与，也一样。
+english_events_maingame:L24547,ransomdelivery_eotr,FIX,Loop? What are you even talking about?,圈子吗? 你在说什么?,循环？你到底在说什么？
+english_events_maingame:L24548,ransomdelivery_eotr,POLISH,Polly... I'm confused...,波莉... 我有点困惑...,波莉……我不太懂……
+english_events_maingame:L24550,ransomdelivery_eotr,POLISH,Hmmm... you don't get it. It's okay: just lose. The loop will reset and everything will be back to normal.,"那个... 你不明白这一点。 没关系的,只是输了 循环会重置,一切会恢复正常.",嗯……不明白也没事，输一局就好。循环重置，一切又会恢复正常。
+english_events_maingame:L24552,ransomdelivery_eotr,POLISH,"If you're overlapping with us, it might also mean you're disrupting your own loop a bit too much.","如果你和我们重叠, 也意味着你 打破了你自己的循环 有点太过。",你们跟我们重叠，可能也说明，你们把自己的循环，扰乱得太过了。
+english_events_maingame:L24554,ransomdelivery_eotr,KEEP,You should probably stop.,你也许应该停下来。,你也许应该停下来。
+english_events_maingame:L24556,ransomdelivery_eotr,POLISH,Polly's right: you gotta stop before it gets too weird. It's better for everyone's sake.,"波莉没错,你得在事情变得太怪之前停下来 更取众生相.",波莉说得对。别等事情变得太古怪，再停下。这样，对大家都好。
+english_events_maingame:L24557,ransomdelivery_eotr,POLISH,"Yeah, I can feel it: us interacting is having some strange effect. You must leave.","是的,我感觉到了:我们的互动产生了一些奇怪的效果。 你必须离开。",没错，感觉得到，我们的交流，已经在造成奇怪的影响。你们必须走。
+english_events_maingame:L24558,ransomdelivery_eotr,FIX,"Please, just move onto the part where you choose an option and mess with your resources.",请移动到选择选项 和混乱资源的部分。,拜托，直接跳到选选项、增减资源的部分吧。
+english_events_maingame:L24559,ransomdelivery_eotr,FIX,"My advice, though? Aim to lose before it's too late.","我的建议,虽然? 瞄准输球,否则就太迟了",不过，要我建议？趁还来得及，赶紧输一局。
+english_events_maingame:L24560,ransomdelivery_eotr,KEEP,...,...,...
+english_events_maingame:L24561,ransomdelivery_eotr,KEEP,...I don't feel okay.,...我感觉不舒服。,...我感觉不舒服。
+english_events_maingame:L24563,ransomdelivery_eotr,POLISH,Your friends are a bit too shocked. This is not good. Other Polly is right; let's just choose an option and move on.,"你的朋友有点太震惊了 这可不妙 其它 波莉 正确,我们选择一个选项,继续前进。",朋友们受惊不轻，这可不妙。另一个波莉说得对，赶紧选个选项，继续走吧。
+english_events_maingame:L24564,ransomdelivery_eotr,KEEP,Throw your wallet at a stranger.,把你的钱包扔给陌生人,把你的钱包扔给陌生人
+english_events_maingame:L24565,ransomdelivery_eotr,FIX,Stab someone and steal their food.,刺人取取取所取之食.,捅个人，抢他的食物。
+english_events_maingame:L24567,ransomdelivery_eotr,POLISH,You don't have much time. You grab your wallet and throw it at a stranger sitting in a booth.,你没有太多时间。 你拿起钱包扔给坐在摊位上的陌生人,时间不多，你抄起钱包，扔向卡座里的一个陌生人。
+english_events_maingame:L24568,ransomdelivery_eotr,FIX,This effectively makes you lose -N2 MONEY. Good.,这实际上让你输了N2钱 不错。,这确实让你失去了 -N2 金钱。很好。
+english_events_maingame:L24569,ransomdelivery_eotr,POLISH,"""Hey, I like free money! So kind of you!""","""嘿,我喜欢免费钱! 师兄,你真好心""",“嘿，我喜欢白捡的钱！你人真好！”
+english_events_maingame:L24570,ransomdelivery_eotr,FIX,This effectively makes you gain +N2 SOUL.,这有效使您获得+N2 SOUL.,这确实让你获得了 +N2 灵魂。
+english_events_maingame:L24571,ransomdelivery_eotr,FIX,RESOURCES affected. Now you're good to go.,资源受到影响。 现在你可以走了。,资源已变动，可以走了。
+english_events_maingame:L24572,ransomdelivery_eotr,POLISH,You grab your friends and run out of the diner before they can think too much about what just happened.,"你抓住你的朋友,跑出餐厅 在他们想太多 刚才发生的事情之前。",趁朋友们还没开始细想，你拉着他们，跑出了餐厅。
+english_events_maingame:L24574,ransomdelivery_eotr,POLISH,You don't have much time. You grab a knife and stab a stranger sitting in a booth next to you.,"你没有太多时间。 你拿着把刀,刺穿坐在你旁边的摊位上的陌生人。",时间不多，你抄起刀，捅了旁边卡座里的一个陌生人。
+english_events_maingame:L24575,ransomdelivery_eotr,POLISH,"""Oh, no, please stop! I don't like getting stabbed!""","""哦,不,请停止! 我不喜欢被刺!""",“哦，不，快停下！我不喜欢被捅！”
+english_events_maingame:L24576,ransomdelivery_eotr,FIX,This effectively makes you lose -N2 SOUL.,这实际上让你输了N2 SOUL。,这确实让你失去了 -N2 灵魂。
+english_events_maingame:L24577,ransomdelivery_eotr,POLISH,Then you eat their food. It's some nice apple pie. You realize it would have been better to not cut the pie with the same knife you used to stab them. Too late.,"然后吃他们的食物。 苹果派不错 你明白的,最好不要用你用来刺他们的刀子切馅饼 来不及了",接着，你吃了他的食物，挺不错的苹果派。忽然想到，切派最好别用刚捅过人的那把刀。晚了。
+english_events_maingame:L24578,ransomdelivery_eotr,FIX,"The important thing is that, by doing this, you effectively gain +N2 STAMINA.","重要的是,通过这样做,你有效地获得了+N2 STAMINA.",重点是，这确实让你获得了 +N2 体力。
+english_events_maingame:L24579,ransomdelivery_eotr,FIX,RESOURCES affected. Now you're good to go.,资源受到影响。 现在你可以走了。,资源已变动，可以走了。
+english_events_maingame:L24580,ransomdelivery_eotr,POLISH,You grab your friends and run out of the diner before they can think too much about what just happened.,"你抓住你的朋友,跑出餐厅 在他们想太多 刚才发生的事情之前。",趁朋友们还没开始细想，你拉着他们，跑出了餐厅。

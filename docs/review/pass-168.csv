@@ -1,0 +1,163 @@
+﻿row_id,event_id,decision,source,before,after
+english_events_maingame:L14705,taxiclients,FIX,Go on a joyride,继续欢快的旅程吧,开车兜风
+english_events_maingame:L14708,taxiclients,FIX,"There's only one thing more fun than driving your old, shitty car: driving someone else's old, shitty car! Joyride time!",开你那辆破车 唯一好玩的就是开别人的旧车 欢乐时光!,比开自家那辆破车更好玩的事，只有开别人家的破车！兜风去！
+english_events_maingame:L14710,taxiclients,FIX,"Hi, Mr. Salesman! I'm Scott, and these are my friends. Can we drive one of your cars?","嗨,先生,你好吗? 销售员! 我是 斯科特这些是我的朋友 我们能开你的车吗?",销售员先生好！我是斯科特，这几位是朋友。能开开你们的车吗？
+english_events_maingame:L14711,taxiclients,POLISH,"""Well, are you interested in buying one of my cars?"" asks the salesman.","""你有兴趣买我的车吗?"" 问推销员",销售员问：“那，你们有兴趣买一辆吗？”
+english_events_maingame:L14712,taxiclients,KEEP,...,...,...
+english_events_maingame:L14713,taxiclients,FIX,...Yes?,是吗?,……有吧？
+english_events_maingame:L14714,taxiclients,POLISH,"""Good enough for me! Here are the keys. Bring it back before 7 p.m.; I need to close the dealership by then.""","""对我来说足够了! 钥匙在这里。 晚上7点前带回来,我需要在那之前关闭经销商"".",“行，有这句话就够了！钥匙给你。晚上七点前还回来，车行那会儿要关门。”
+english_events_maingame:L14715,taxiclients,POLISH,"You're pretty sure this is not a good or smart way of selling used cars. But hey, you're not complaining.",你敢肯定这不是一个好或聪明的 出售旧车的方式。 但你没抱怨吧?,你很确定，这绝不是什么聪明的二手车销售法。不过对你们来说，倒也没什么可抱怨的。
+english_events_maingame:L14717,taxiclients,FIX,Scott peels out of the dealership in the new car and drives an hour into the city. You're waiting at a stoplight when a breathless pregnant woman knocks on your window.,斯科特 出新车经销商 开一小时入城. 你正在等待在停电灯 当一个没有呼吸的孕妇敲你的窗户。,斯科特开着新车，一脚油门冲出车行，开了一个小时进城。等红灯时，一个气喘吁吁的孕妇敲了敲车窗。
+english_events_maingame:L14718,taxiclients,POLISH,Are you my Oober? Thank God you're here! You gotta take me to the hospital!,你是我的欧伯? 谢天谢地你来了! 你一定要带我去医院!,你们是我叫的欧伯车？谢天谢地来了！得送我去医院！
+english_events_maingame:L14719,taxiclients,POLISH,"Uh, we're not...","呃,我们不是...",呃，我们不是……
+english_events_maingame:L14720,taxiclients,FIX,"You're an Oober?! Hey, c'mon, take me instead. I gotta follow that cab!","你是乌伯人? 嘿,来吧,带我代替。 我要跟着那辆出租车!",你们跑欧伯？！嘿，来，先载我！我要追那辆出租车！
+english_events_maingame:L14721,taxiclients,POLISH,Why? What's so special about the cab?,为什么? 出租车有什么特别的?,为什么？那车有什么特别的？
+english_events_maingame:L14722,taxiclients,FIX,"What is this, twenty fucking questions? We don't have time to chat, we gotta chase that cab down!","这是什么,20个他妈的问题? 我们没时间聊天了,我们得追那辆出租车!",查户口呢，他妈问这么多？！没空聊，赶紧追上那车！
+english_events_maingame:L14723,taxiclients,POLISH,"Hey, fuck off! I NEED to get to the hospital! Can't you see I'm pregnant?!","嘿,滚开! 我得去医院! 你没看到我怀孕了吗?",嘿，滚开！我得去医院！看不出我怀孕了吗？！
+english_events_maingame:L14724,taxiclients,POLISH,Am I supposed to give a damn?! I gotta follow that cab RIGHT! FUCKING! NOW!,我该在乎吗? 我得跟在出租车上! 他妈的! 现在!,关我屁事？！我得追那车！现在！立刻！马上！
+english_events_maingame:L14725,taxiclients,FIX,"You're not an Oober, but now you NEED to see how this ends. You decide to pick up...","你不是Oober,但现在你需要看看 如何结束这一切。 你决定接...",虽然你们不跑欧伯，可现在非得知道下文了。你决定载上……
+english_events_maingame:L14726,taxiclients,POLISH,The pregnant lady. She needs your help... even if it means never knowing why the mysterious man was so fixated on following that taxi.,怀孕的女士 怀孕的女士 怀孕的女士 怀孕的女士 她需要你的帮助... 即使这表示永远不知道 为什么神秘男人如此执着地追着那辆出租车,孕妇。她需要帮忙……即使这意味着永远也弄不清，那个神秘男人为什么非要追出租车。
+english_events_maingame:L14727,taxiclients,POLISH,"The mysterious man. You're REALLY intrigued. And the pregnant lady... well, you know what they say: curiosity killed the cat (but not the newborn, so she'll be fine).","那个神秘的人 你真的很感兴趣。 还有那个怀孕的女士... 你知道他们说的:好奇心杀死了猫(但不是新生儿,所以她会好起来的).",神秘男人。实在太好奇了。至于孕妇……俗话说，好奇害死猫，又没说害死新生儿，她应该没事。
+english_events_maingame:L14729,taxiclients,POLISH,But we aren't gonna find out what was so special about that taxi! Can we... I don't know... follow the taxi on the way to the hospital?,"但我们不会发现那辆出租车有什么特别的! 我们能不能... 我不知道... 我不知道... 我不知道,这是什么? 跟着出租车去医院?",可那辆出租车到底怎么回事，就不知道了！要不……我也不知道……去医院的路上，顺便追追？
+english_events_maingame:L14730,taxiclients,POLISH,"NO, YOU CAN'T! THIS IS KIND OF AN EMERGENCY SITUATION!","不,你不能这样! 这是种紧急情况!",不行！这算紧急情况，懂吗？！
+english_events_maingame:L14731,taxiclients,FIX,Bummer. You lose -N2 MIND for never solving that mystery. Scott starts driving to the hospital.,可恶 你因为永远无法解开这个谜题而失去N2 MIND.  斯科特 开始开车去医院。,遗憾。谜团再也解不开，你失去了 -N2 头脑。斯科特开车前往医院。
+english_events_maingame:L14732,taxiclients,POLISH,"Don't worry, miss, we'll get you through this! PUSH!","别担心,小姐,我们会帮你渡过难关的! 推倒他! 推倒他! 推倒他! 推倒他! 推倒他! 推倒他! 推倒他!",小姐别怕，我们会帮你撑过去！用力！
+english_events_maingame:L14733,taxiclients,FIX,Push what?,推什么? 推什么? 推什么?,用力干什么？
+english_events_maingame:L14734,taxiclients,POLISH,"I dunno, I've just heard people say that to pregnant women in movies. Maybe you should do push-ups?","我不知道,我刚听到人们在电影中 向孕妇说。 也许你应该做俯卧撑?",不知道，电影里都这么对孕妇喊。要不做几个俯卧撑？
+english_events_maingame:L14735,taxiclients,FIX,"Huh? You know I'm not in labor right now, don't you? I'm only seven months along.","是吗? 你知道我现在不是在工作,不是吗? 我只有七个月了",啊？我现在又没要生，知道吗？才七个月。
+english_events_maingame:L14736,taxiclients,POLISH,"Oh, sorry... that's awkward. I just figured, since you were going to the hospital...","哦,对不起... 有点尴尬 我只是觉得,既然你要去医院...",哦，抱歉……尴尬了。就是想着，既然去医院……
+english_events_maingame:L14737,taxiclients,POLISH,"Well, honestly, I'm not actually going to the hospital. I'm going to the hot dog truck parked outside of it.","老实说,我其实不会去医院的 我要去停在外面的热狗卡车",说真的，其实不是去医院。我要去停在医院外面的热狗餐车。
+english_events_maingame:L14738,taxiclients,FIX,It's just that Oober drivers tend to actually step on it if I tell them I'm going to the hospital.,只是Oober司机通常会踩到它 如果我告诉他们我要去医院。,只是跟欧伯司机说去医院，他们一般才肯踩油门。
+english_events_maingame:L14739,taxiclients,FIX,WE'RE GETTING HOT DOGS?! BEST HOSPITAL VISIT EVER!,我们得到热狗! 最好的医院访问 永远!,要吃热狗？！这趟医院之行，史上最棒！
+english_events_maingame:L14740,taxiclients,POLISH,"But if all you wanted was a hot dog, why were you so breathless and desperate when we picked you up?",但如果你只想吃热狗 为什么我们接你的时候你那么无气和绝望?,可要只是吃热狗，上车时怎么喘成那样，还急得要死？
+english_events_maingame:L14741,taxiclients,POLISH,"Because I'm really fucking craving this hot dog, okay?! Don't judge me! YOU should try being pregnant!","因为我真的很渴望这热狗,好吗? 别评判我! 你该试试怀孕的滋味!",因为我他妈特别想吃那家热狗，行吗？！别评判我！你自己怀个孕试试！
+english_events_maingame:L14742,taxiclients,FIX,Ew. Pass.,额 过.,呕，算了。
+english_events_maingame:L14744,taxiclients,FIX,"You drive her to the hot dog truck, then return the car to the dealership. I guess getting a pregnant lady food is still a pretty good deed, so here, take +N2 SOUL.",你开车送她去热狗卡车 然后把车还给经销商 我想买个怀孕的女士食物还是件好事 所以在这里 吃一喝一喝一喝一喝一喝,你们送她到热狗餐车，再把车还给车行。帮孕妇弄到吃的，也算好事吧。来，给你 +N2 灵魂。
+english_events_maingame:L14746,taxiclients,POLISH,Helping the pregnant woman might be the right thing to do... but you REALLY want to know what's so special about that cab.,帮助孕妇也许是正确的事情... 但你真的想知道 出租车有什么特别的,帮孕妇可能才是对的……可那辆出租车有什么特别，你真的很想知道。
+english_events_maingame:L14747,taxiclients,POLISH,"Besides, she can always watch a YooToob tutorial on how to have an at-home birth. She'll probably be fine!","此外,她还可以随时观看""柳通""的""如何在家生孩子""的辅导. 她可能没事的!",再说，她总能去 YooToob 看个在家分娩的教程。应该没事！
+english_events_maingame:L14748,taxiclients,FIX,You all speed off with the taxi-chaser!,你们都快跟出租车司机走!,你们载着追出租车的男人，疾驰而去！
+english_events_maingame:L14749,taxiclients,FIX,HANG A FAST RIGHT! STEP ON IT! DON'T LOSE SIGHT OF THAT CAB!,抓紧了! 踩起来! 别失去那头大头!,快右转！踩油门！别跟丢那辆出租车！
+english_events_maingame:L14750,taxiclients,FIX,"Stepping on it, bro!","踩着它,兄弟!",踩着呢，兄弟！
+english_events_maingame:L14751,taxiclients,FIX,HOLD IT! I need you to follow THAT cab now!,坚持住! 我要你马上跟在出租车后面!,等等！现在改追那辆出租车！
+english_events_maingame:L14752,taxiclients,POLISH,Why are you changing who you're following?,你为什么改变你跟踪的是谁?,怎么突然换跟踪对象了？
+english_events_maingame:L14753,taxiclients,FIX,"WE DON'T HAVE TIME FOR QUESTIONS! THE CAB'S ALREADY MOVING -- GO, GO, GO!","我们没时间问问题了! 大脑已经移动了,走,走,走!",没空问！车已经开走了，快快快！
+english_events_maingame:L14754,taxiclients,POLISH,"Polly, I'm confused...",波莉我有点困惑...,波莉，我搞不懂了……
+english_events_maingame:L14755,taxiclients,POLISH,"Same, but I guess we just gotta trust the process. Follow the taxi!","一样,但我想我们只是必须相信这个过程。 跟着出租车!",我也不懂，不过先照着干吧。追那车！
+english_events_maingame:L14756,taxiclients,FIX,"Okay, stepping on it again!","好,再踩一次! 继续!",好，再踩油门！
+english_events_maingame:L14757,taxiclients,POLISH,"STOP! Follow that cab now -- wait, no, never mind, follow THAT one!","停下来! 跟着那辆出租车 -- 等等,不,没关系,跟着那辆!",停！现在追那辆——等等，不对，算了，追那辆！
+english_events_maingame:L14758,taxiclients,POLISH,"Okay, I can't take it anymore: why do you keep wanting to tail different cabs? Why are we following them at all?","好吧,我受不了了,你为什么一直想 跟踪不同的出租车? 我们为什么要跟随他们?",好，受不了了。怎么老换着追不同出租车？咱们到底为什么追车？
+english_events_maingame:L14759,taxiclients,POLISH,"Ugh, we're obviously following them because I love looking at taxis!","啊,我们显然跟在他们后面 因为我喜欢看出租车!",唉，当然是因为我爱看出租车啊！
+english_events_maingame:L14760,taxiclients,POLISH,What? That's stupid. Why can't you just look at them from the sidewalk?,"什麽? 蠢到家了,你这混蛋 为什么你不能从人行道上看他们?",什么？有病吧。在人行道上看不行吗？
+english_events_maingame:L14761,taxiclients,FIX,BECAUSE THEY MOVE TOO FUCKING FAST FOR ME TO PROPERLY APPRECIATE THEM!,因为他们太他妈快了 我非常欣赏他们!,因为它们他妈开太快，我都来不及好好欣赏！
+english_events_maingame:L14762,taxiclients,POLISH,"I mean, he's not wrong, Polly. When you think about it, this might be a good way of looking at cabs for a long period of time.","我是说,他没说错 波莉. 考虑一下,这可能是一个很好的 方式看出租车很长一段时间。",波莉，他倒也没错。想想看，这还真是能盯着出租车看很久的好办法。
+english_events_maingame:L14763,taxiclients,FIX,"Today we might've lost -N2 SOUL for ignoring a pregnant woman in need, but we gained +N2 MIND from learning why this man wanted us to chase the cab. And at the end of the day...","今天我们可能因为忽略一个有需要的孕妇而失去N2 SOUL, 但我们从了解这个男人为什么想要我们追车而获得了+N2 MIND. 临终时...",今天没帮那个需要帮忙的孕妇，可能掉了 -N2 灵魂；可弄清楚他为什么要追车，也赚了 +N2 头脑。说到底……
+english_events_maingame:L14764,taxiclients,FIX,FOLLOW THAT OTHER CAB!,跟随其他的大脑!,追那边那辆出租车！
+english_events_maingame:L14773,howtosellacar,KEEP,Sell some cars,卖出一些车,卖出一些车
+english_events_maingame:L14777,howtosellacar,FIX,"As you and your friends are browsing the assorted cars, a nervous-looking gentleman approaches you and says, ""Excuse me, do you work here?""","当你和你的朋友在浏览各种车时, 一个神经质的绅士接近你,说:""对不起,你在这里工作吗?""",你和朋友们看着各式各样的车。一个神情紧张的男人走来：“打扰，你们在这儿上班吗？”
+english_events_maingame:L14779,howtosellacar,FIX,"As far as you know, yes!","就你所知,是的! ! ! ! ! ! ! ! ! ! ! !",就当我们是吧！
+english_events_maingame:L14780,howtosellacar,POLISH,"Great! Can you help me choose a car to buy? There are so many options, I just can't make up my mind!","不错! Great! 你能帮我选辆车买吗? 有很多选择,我无法决定!",太好了！帮我选辆车吧？选择太多，实在拿不定主意！
+english_events_maingame:L14781,howtosellacar,FIX,"Absolutely! Why not buy this gently-used sports car? It's got stick shift, which I heard is on its way back.",当然! 为什么不买这辆轻度运动车? 上面有棍子转身 我听说它正在回来的路上,当然！这辆没怎么开过的跑车怎么样？手动挡，听说又要流行起来了。
+english_events_maingame:L14782,howtosellacar,FIX,"Hmmm, I'm not sure about the color...","嗯,我不知道颜色...",嗯……颜色不太确定……
+english_events_maingame:L14783,howtosellacar,FIX,"What's not to like about red? It's the color of wine, except when it's not.","红色有什么不好的? 取出酒之色相取出,惟有出出出出出出出.",红色哪儿不好？葡萄酒就是红的，除了不是红的那些。
+english_events_maingame:L14784,howtosellacar,POLISH,"Yeah, but is it a TRUE red? It looks like more of a cinnamon. Or maybe it's closer to a blood orange...","是的,但它是真红? 更相取出一肉桂来. 或者它更接近血橙色...",可这是正红吗？看着更像肉桂色，或者接近血橙色……
+english_events_maingame:L14785,howtosellacar,FIX,"(Oh, God.)","(出自""天经"".",（哦，天啊。）
+english_events_maingame:L14786,howtosellacar,POLISH,How much storage space does this car have?,这辆车有多少存储空间?,这车的储物空间多大？
+english_events_maingame:L14787,howtosellacar,FIX,"Hmmm, the only measurement I know is ""Scotts."" Wanna see how many times I can fit in the trunk?","嗯,我唯一知道的衡量是 ""斯科特想看看我有多少次可以装在后备箱里吗?",嗯，我只认识一种计量单位：“斯科特”。要不要试试后备箱能装几个我？
+english_events_maingame:L14788,howtosellacar,POLISH,"No, thank you. I'm realizing storage space and color aren't so important; what's really bugging me is the number of wheels.","不,谢谢。 我意识到存储空间和颜色并不重要,真正困扰我的是轮子的数量。",不，谢谢。想了想，储物空间和颜色也不重要，真正纠结的是轮子数量。
+english_events_maingame:L14789,howtosellacar,POLISH,I mean... four wheels is the classic number of wheels... but is it the number of wheels I REALLY want on a car?,我是说... 四轮是经典的轮子数...... 但它是车轮的数量 我真正想要的车?,我是说……四个轮子是经典，可我真想买一辆四个轮子的车吗？
+english_events_maingame:L14790,howtosellacar,FIX,"(%CURRENTPLAYERNAME%, step up and sell the car to this man before I find out if HE fits in the trunk.)",(%CURRENTPLAYERNAME%上前把车卖给这个人 在我发现他是否适合后车厢之前,（%CURRENTPLAYERNAME%，快出马，把车卖给他。不然我可要试试，他能不能塞进后备箱了。）
+english_events_maingame:L14791,howtosellacar,POLISH,"Hmmm, okay. There's gotta be something you can do to get this guy to hurry up and buy the damn car...","嗯,没关系。 一定有办法让这家伙快点买车...",嗯，行吧。总有办法让这人赶紧掏钱，把破车买走……
+english_events_maingame:L14792,howtosellacar,FIX,"Sweeten the deal: if he buys the car, he can also have one of your kidneys.","温柔交易:如果他买下车,他也可以拥有你的肾脏之一.",加点赠品：买这辆车，送你一个肾。
+english_events_maingame:L14793,howtosellacar,POLISH,Lie and tell him the car looks crappy as a camouflage technique to adapt to the surroundings of a used car dealership. Its real form is a kickass battle robot from space!,"骗他,告诉他这辆车看起来很烂 是一种伪装技术 适应一个被用过的汽车经销商的周围环境。 它的真面目是太空出产的 令人兴奋的战斗机器人!",骗他说，破车外观只是为了融入二手车行的环境。它的真身，是来自太空的酷炫战斗机器人！
+english_events_maingame:L14795,howtosellacar,POLISH,"Hmmm... a kidney, you say?",那个... 你说是肾?,嗯……你说送肾？
+english_events_maingame:L14796,howtosellacar,FIX,And what a kidney it is!,肾是怎样的!,那可不是一般的肾！
+english_events_maingame:L14797,howtosellacar,FIX,Polly slaps you on the kidneys. Ow.,波莉 拍你的肾脏。 呜.,波莉拍了拍你肾的位置。疼。
+english_events_maingame:L14798,howtosellacar,FIX,These bad boys can fit SO much erythropoietin in them.,这些坏孩子能装入这么多红花素,瞧这宝贝，能装多少促红细胞生成素啊！
+english_events_maingame:L14799,howtosellacar,POLISH,"I can make use of a spare kidney, I suppose... but that begs the question: WHICH kidney is for sale?","我可以利用一个多余的肾脏,我想... 问题就在于 肾脏是用来出售的?",有个备用肾，倒也用得上……不过问题来了，卖的是哪个肾？
+english_events_maingame:L14800,howtosellacar,POLISH,"Oh, easy: it's the left one, right Scott?","很简单,是左边的,对 斯科特?",简单，左边那个，对吧，斯科特？
+english_events_maingame:L14801,howtosellacar,FIX,Scott checks what seem to be medical records with... your name on them?!,斯科特 检查一下病历... 你的名字在他们身上?,斯科特翻看着什么，像是病历……上面写着你的名字？！
+english_events_maingame:L14802,howtosellacar,FIX,Yup! That one's %CURRENTPLAYERNAME%'s good kidney!,没错! 那个是 %CURRENTPLAYERNAME%肾脏好!,没错！那可是 %CURRENTPLAYERNAME% 好的那个肾！
+english_events_maingame:L14803,howtosellacar,POLISH,And it can be yours if you buy this car NOW.,"如果你现在买这辆车,它就可以是你的了。",现在买车，就是你的。
+english_events_maingame:L14804,howtosellacar,POLISH,"Hmmm, yeah... looking at these medical records, this deal isn't half-bad.","嗯,是的,对... 看这些医疗记录, 这个交易还不错。",嗯，是啊……看看这病历，买卖挺划算。
+english_events_maingame:L14805,howtosellacar,POLISH,"Okay, you got me. Gimme the keys... and don't forget the kidney!","好吧,你得到了我。 说吧。 把钥匙给我... 也不要忘记肾!",好，说动我了。钥匙拿来……别忘了肾！
+english_events_maingame:L14806,howtosellacar,FIX,Sweet! My partner Scott's gonna walk you through the paperwork while I perform some amateur kidney surgery on %CURRENTPLAYERNAME%.,"可爱! 我的搭档 斯科特我做一些业余肾脏手术时,会把文件交给你 %CURRENTPLAYERNAME%.",爽！我的搭档斯科特带你办手续，我给 %CURRENTPLAYERNAME% 做个业余摘肾手术。
+english_events_maingame:L14807,howtosellacar,POLISH,"Aww, but I wanted to use the scalpel!","啊,但是我想用手术刀!",哎，我也想玩手术刀！
+english_events_maingame:L14809,howtosellacar,FIX,"Needless to say, getting your kidney removed in a parking lot costs you -N2 STAMINA. At least you gained +N2 MONEY selling a car and an organ!","不用说,在停车场取出你的肾脏 需要你 -N2 STAMINA。 至少你赚了+N2钱卖一辆车和一管风琴!",不用说，在停车场被摘肾，让你失去了 -N2 体力。至少车和器官一起卖，赚到了 +N2 金钱！
+english_events_maingame:L14811,howtosellacar,POLISH,WHOA! This is a battle-robot from space?! That's awesome!,呜哇! 这是太空来的战机器人吗? 赞!,哇！这竟然是太空战斗机器人？！太棒了！
+english_events_maingame:L14812,howtosellacar,FIX,"Uh, yeah, totally. This ""used car"" is actually a refugee from the car-robot civil war devastating the planet... eh... Carrobotplanet.","嗯,是的,完全一样。 这辆""用过的""汽车实际上是来自汽车机器人内战的难民,摧毁了地球...... 额... 心腹平面图.",呃，对，当然。这辆“二手车”，其实是从汽车机器人内战中逃难来的，那场内战毁了……呃……汽车机器人星球。
+english_events_maingame:L14813,howtosellacar,FIX,Really? Isn't the name of that planet a little on the nose?,真的吗? 行星的名字是不是有点在鼻子上?,真的？这星球的名字，不会太直白了吗？
+english_events_maingame:L14814,howtosellacar,FIX,"I mean, I'm a ghost named ""Polly Geist"", but you don't hear me crying.","我的意思是,我是一个鬼 名字 ""波莉 盖斯特,但你没听到我哭",我还是个叫“波莉·鬼斯特”的鬼呢，也没见我哭啊。
+english_events_maingame:L14815,howtosellacar,POLISH,"Fair enough. So, what features does this car-robot hybrid have?","说得没错 那么,这个汽车机器人混合体有什么特性?",也是。那这半车半机器人的东西，有什么功能？
+english_events_maingame:L14816,howtosellacar,FIX,"All kinds! It comes with battle lasers, a jetpack, sixteen-wheel drive, centuries of rage directed at the BikeDroids...",各种! 各种! 各种! 战争激光器 喷气式包 16个轮盘 数个世纪的愤怒 直指比克机器人...,多了！战斗激光、喷气背包、十六轮驱动，还有对摩托机器人绵延数百年的仇恨……
+english_events_maingame:L14817,howtosellacar,FIX,Who are these... 'BikeDroids'?,"这些是谁... ""机器人""吗?",“摩托机器人”……又是谁？
+english_events_maingame:L14818,howtosellacar,FIX,They're the arbitrarily evil rogue race of robots from Carrobotplanet. They wanna steal our planet's life force and destroy all monsters.,他们是来自Carrobotplane的机器人的专横邪恶的流氓种族. 他们想偷走我们星球的生命力 摧毁所有怪物,汽车机器人星球上，毫无来由就邪恶的叛变机器人种族。他们想偷走咱们星球的生命力，消灭所有怪物。
+english_events_maingame:L14819,howtosellacar,POLISH,"Hmm, I don't know if I want to buy a car that wants to wipe out my entire species...","嗯,我不知道我是否想买辆 想要消灭我整个物种的汽车...",嗯……想灭我全族的车，我不知道该不该买……
+english_events_maingame:L14820,howtosellacar,FIX,"No, no, sir: that'd be the ""BikeDroids"". This one is a ""CarBot"" -- those are the good guys!","不,不,先生,那是""机器人""的剧本 这个是""Carbot""--那些是好人!",不，不，先生，那是“摩托机器人”。这是“汽车机器人”，好人那边的！
+english_events_maingame:L14821,howtosellacar,POLISH,"Ah, I think I get it now. Can I see its robot form? I wanna check some of its features.","啊,我想我现在明白了。 我能看看它的机器人吗? 我想检查一下它的一些特征。",啊，懂了。能看看机器人形态吗？想检查几个功能。
+english_events_maingame:L14822,howtosellacar,POLISH,"NO, YOU CAN'T!","不,你不能这样!",不行！
+english_events_maingame:L14823,howtosellacar,FIX,"It's, uh... hibernating right now, in preparation for the impending ""CarBot v. BikeDroid"" war.","这是,呃... 准备即将到来的""CarBot v. 自行车机器人""战争.",它，呃……正在冬眠，为即将到来的“汽车机器人对摩托机器人”大战做准备。
+english_events_maingame:L14824,howtosellacar,POLISH,We can't interrupt its slumber!,我们不能打断它的睡眠!,不能打扰它睡觉！
+english_events_maingame:L14825,howtosellacar,POLISH,"That's fine, I understand. I also get a bit cranky if I'm woken up without my coffee, haha!","没关系,我明白了。 如果我醒来时没有咖啡,我也会有点发疯",没事，理解。没喝咖啡就被叫醒，我脾气也大，哈哈！
+english_events_maingame:L14826,howtosellacar,POLISH,"LOL, you're so funny, are you gonna buy the damn thing or not?","LOL,你真有趣, 你买不买?",哈哈，真幽默。所以这破车，到底买不买？
+english_events_maingame:L14827,howtosellacar,FIX,"He is, apparently! You earn +N2 MONEY from your sale, but you lose -N2 SOUL for... you know... scamming that poor idiot.","他当然是了! 你从你的销售中挣到+N2钱,但你输了 -N2 SOUL... 你知道吗... 骗取那个可怜的白痴",还真买！你卖车赚到 +N2 金钱，可因为……你懂的……骗了这个可怜傻子，也失去了 -N2 灵魂。
+english_events_maingame:L14836,airdancerfavor,FIX,Dance with the air dancers,和空中舞者跳舞,跟充气舞人跳舞
+english_events_maingame:L14839,airdancerfavor,FIX,"You approach those big, inflatable dancing bois and start busting a move.",你接近那些大而充气的舞蹈 开始突破一个动作。,你走向那些高大的充气舞人，开始大跳特跳。
+english_events_maingame:L14841,airdancerfavor,FIX,These balloon dudes are really good dancers! Throw that polyethylene-coated booty back!,这些气球男的跳得真厉害! 把那个聚乙烯皮鞋扔回来!,这些气球哥们真会跳！那包着聚乙烯的屁股，扭起来！
+english_events_maingame:L14842,airdancerfavor,POLISH,They're so cool! Do you think they like my dance moves?,他们太酷了! 你觉得他们喜欢我的舞步吗?,太酷了！你们说，他们喜欢我的舞步吗？
+english_events_maingame:L14843,airdancerfavor,FIX,Silly Scott! The air dancers can't have opinions on his moves because they're not alive.,"蠢货 斯科特! 空舞者不能对他所行的动作有意见,因为他们不活了.",傻斯科特！充气舞人又没生命，哪会对他的舞步有意见。
+english_events_maingame:L14844,airdancerfavor,POLISH,"But after dancing with them for hours, losing -N2 STAMINA and sweating like a sinner in church, you suddenly aren't so sure of that anymore...","但是在和他们跳舞几个小时后,失去 -N2 STAMINA,并像教堂的罪人一样出汗,你突然不再那么确定...",可跳了几个小时，你失去 -N2 体力，汗流得像进教堂的罪人。这下，你突然不太确定了……
+english_events_maingame:L14845,airdancerfavor,POLISH,"The air dancers' faces sway in the breeze. You sense that they're looking at you, appraising your mind, body, and soul... and dance skills.",空中舞者相相相相摇. 你感觉到他们在看你 评估你的心灵 身体和灵魂 和舞蹈技巧。 和舞蹈技巧。,充气舞人的脸在风中晃动。你感觉他们正看着你，评判你的思想、身体和灵魂……还有舞技。
+english_events_maingame:L14846,airdancerfavor,POLISH,"Whoa, this one just put his hand on my shoulder! I think he wants us to follow them!","哇,这只手刚刚把手放在我的肩膀上! 我想他想让我们跟着他们!",哇，这个把手放我肩膀上了！想让咱们跟着走吧！
+english_events_maingame:L14847,airdancerfavor,POLISH,"In your dehydrated, hallucinating state of mind, it makes perfect sense!","在你脱水的幻觉状态下,这是非常合理的!",脱水到产生幻觉的你，觉得这完全合情合理！
+english_events_maingame:L14848,airdancerfavor,POLISH,"After walking some ways, you find yourselves surrounded by more air dancers.","走了几条路后,你发现自己被更多的空中舞者所包围.",走了一段，你们发现周围出现了更多充气舞人。
+english_events_maingame:L14849,airdancerfavor,FIX,"Logic says you're still in the used car dealership, but you've danced your logic away.","逻辑说,你还在被用过的汽车经销商,但你已经跳出你的逻辑了.",按逻辑，你们还在二手车行。可逻辑已经被你们跳没了。
+english_events_maingame:L14851,airdancerfavor,FIX,"Holy shit. This must be, like... the secret air-dancer village!","妈的。 这一定是,像... 秘密的空气切割者村落!",卧槽，这一定是……充气舞人的秘密村落！
+english_events_maingame:L14852,airdancerfavor,FIX,The air dancers offer you something to drink. Thank goodness!,空舞者们给你一些喝的 谢天谢地!,充气舞人端来喝的。谢天谢地！
+english_events_maingame:L14853,airdancerfavor,FIX,"...No, wait, this is just a cup of air. Damn.","不,等等,这只是一杯咖啡。 该死",……等等，不，这就是一杯空气。靠。
+english_events_maingame:L14854,airdancerfavor,POLISH,This is so cool! They must've invited us here because they liked our dance moves so much.,这太酷了! 他们一定邀请我们来这里 因为他们很喜欢我们的舞蹈动作,太酷了！肯定是因为喜欢咱们的舞步，才请我们过来的。
+english_events_maingame:L14855,airdancerfavor,POLISH,Totally! And any society that values the art of dancing till you drop is a society I wanna learn more about!,"绝对! 任何一个社会,只要你跳下去, 都珍惜舞蹈艺术, 是一个我更想学习的社会!",当然！能珍视跳到趴下这种艺术的社会，我一定要多了解！
+english_events_maingame:L14856,airdancerfavor,FIX,"Sure, who needs water anyway? Find a way of immersing yourselves in air dancers culture!","当然,谁需要水呢? 想办法让自己沉浸在空中舞者文化中!",没错，谁还要喝水啊？想想办法，深入体验充气舞人的文化吧！
+english_events_maingame:L14857,airdancerfavor,POLISH,Learn to play the traditional instrument of their culture: the air guitar.,学习演奏他们文化的传统乐器:空气吉他.,学他们的传统乐器：空气吉他。
+english_events_maingame:L14858,airdancerfavor,FIX,"As their name suggests, air dancers have learned to control the most powerful element through the arcane art of... DANCEBENDING!",正如他们的名字所显示的 空中舞者通过 北极艺术 学会控制最强大的元素... 跳舞! 跳舞! 跳舞! 跳舞! 跳舞! 跳舞! 跳舞! 跳舞! 跳舞! 跳舞! 跳舞! 跳舞! 跳舞! 跳舞! 跳舞!,顾名思义，充气舞人已经掌握了最强元素，靠的是玄奥的……御舞术！
+english_events_maingame:L14860,airdancerfavor,FIX,"It's a great plan! You just need to find yourself the perfect air guitar instructor, maybe buy some air guitar amps and air guitar picks and capos...",计划真棒! 你只需要找到完美的空气吉他导师 可能买一些空气吉他安眠药 空气吉他接头和卡波斯...,计划很好！只要找个完美的空气吉他老师，可能还得买空气吉他音箱、空气拨片、空气变调夹……
+english_events_maingame:L14861,airdancerfavor,POLISH,"Nah, fuck that noise! I bet I'm an air guitar prodigy already!","不,他妈的噪音! 我敢打赌,我是一个空气吉他天才了!",呸，管他那些！我肯定天生就是空气吉他神童！
+english_events_maingame:L14862,airdancerfavor,FIX,"Polly whips out an air guitar. Whoa, where was she keeping that all this time?!","波莉 抽出空气吉他来 哇,她一直把那个放哪了?",波莉掏出一把空气吉他。哇，她一直藏哪儿的？！
+english_events_maingame:L14863,airdancerfavor,POLISH,"Watch and learn, bitches! WAH WAH WAAAAAH!","看着点, 婊子们! 呜哈哇哇哇!",看好了，婊子们，学着点！哇哇哇——！
+english_events_maingame:L14864,airdancerfavor,POLISH,"Nice riff, bro! Let me try. I just put my fingers here and strum like this...?","不错的里夫,兄弟! 让我试试。 我刚刚把手指放在这里 像这样来弹琴... ?",这段真棒，兄弟！我也试试。手指放这儿，然后这么拨……？
+english_events_maingame:L14865,airdancerfavor,FIX,DOODLY-DOODLY-DOODLY-DOOOOOO!,"水分好,水分好,水分好,水分好,水分好,水分好,水分好,水分好,水分好",嘟哩嘟哩嘟哩嘟——！
+english_events_maingame:L14866,airdancerfavor,FIX,"Holy shit, you're a natural, Scott! WE SHOULD START A BAND!","神圣的狗屎,你是一个自然的, 斯科特! 我们应该开始一个手!",卧槽，斯科特，天才啊！咱们组乐队吧！
+english_events_maingame:L14867,airdancerfavor,FIX,"Okay, I'm in! We can call ourselves the Air Guitarz -- with a Z!","好,我进去了! 我们可以自称空中吉他-用Z!",好，加入！就叫“空气吉他”，带 Z 的！
+english_events_maingame:L14868,airdancerfavor,FIX,"YES! We'll turn this road trip into a world tour, playing our music wherever the winds take us in our greatest adventure yet!",没错! 风把我们带到最伟大的冒险中 音乐就演奏到世界之旅,对！把公路旅行变成世界巡演，风吹到哪儿就演到哪儿，来场前所未有的大冒险！
+english_events_maingame:L14869,airdancerfavor,FIX,"%CURRENTPLAYERNAMECAPS%, YOU'RE OUT OF THE BAND!",%CURRENTPLAYERNAMECAPS%你从铁板上出来!,%CURRENTPLAYERNAMECAPS%，你被踢出乐队了！
+english_events_maingame:L14870,airdancerfavor,FIX,WHAT?!,什麽?,什么？！
+english_events_maingame:L14871,airdancerfavor,FIX,"Don't worry, Scott, we didn't need %HIMHER% anyway! The Air Guitarz were always meant to be a dynamic duo!",不用担心 斯科特我们不需要 %HIMHER% 无论如何! 吉他航空永远是一款动态双人机!,别担心，斯科特，本来就用不着 %HIMHER%！空气吉他注定是劲爆二人组！
+english_events_maingame:L14872,airdancerfavor,FIX,Cool!,凉爽!,酷！
+english_events_maingame:L14873,airdancerfavor,FIX,"We'll be famous, my good boi! But fame will be exhausting and hollow. We'll probably end up doing airoin to cope with the pressure, like all the great air musicians.","我们会出名的,我的好兄弟! 但名声会很虚弱,空洞 我们可能最终会做艾洛因来应付压力,就像所有伟大的空气音乐家一样.",咱们会出名的，乖狗狗！可成名会又累又空虚，最后大概得吸空气洛因减压，像那些伟大的空气音乐家一样。
+english_events_maingame:L14874,airdancerfavor,POLISH,"Oh, that doesn't seem fun... I don't know if I wanna be in the Air Guitarz anymore...","哦,这看起来不好玩... 我不知道我是否还想再去吉他航空...",哦，听着不好玩……我不太想待在空气吉他乐队了……
+english_events_maingame:L14875,airdancerfavor,FIX,You're quitting on me? FINE! Polly Geist was always destined to be a one-woman show! I'll be the Lone Air Guitar -- WITHOUT the Z!,你放弃我? 不错!  波莉 盖斯特总是注定要成为一出女子出道! 我将成为孤独的空中吉他--没有Z!,你要退出？行啊！波莉·鬼斯特注定单飞！我就叫“孤独空气吉他”，不带 Z！
+english_events_maingame:L14876,airdancerfavor,POLISH,NO Z?! It's like I don't even know who you are anymore!,没有Z? 好像我都不知道你是谁了!,不带 Z？！感觉都不认识你了！
+english_events_maingame:L14878,airdancerfavor,POLISH,"""Hey!"" someone says to you. ""Are you kids okay? You look pretty flushed... should I get you some water?""","""嘿!"" 有人对你说了 ""你们没事吧? 你看起来很冲... ""我应该给你弄点水来?""",有人问：“嘿，孩子们，没事吧？你们脸好红……要不要拿点水来？”
+english_events_maingame:L14879,airdancerfavor,FIX,"NO! I'M THE LONE AIR GUITAR, AND I'LL ONLY TAKE VODKA OR PURE OXYGEN IN MY DRESSING ROOM!!!","没有! 我是独角兽,我只 采取VODKA或催泪性氧气在我的衣室!",不要！我是孤独空气吉他！我的化妆间，只收伏特加和纯氧！！！
+english_events_maingame:L14880,airdancerfavor,POLISH,"""...Yeah, I'm definitely gonna get you water. Try not to wander into traffic while I'm gone.""","""... 是的,我一定会给你弄来水的"" 尽量不要在我不在的时候 乱跑""",“……嗯，我还是去拿水吧。我不在的时候，别乱跑到车流里。”
+english_events_maingame:L14882,airdancerfavor,FIX,"Scott and Polly make up when you all get hydrated and realize you were hallucinating all this time. Man, this argument was dumb!","斯科特 财务报告和审定财务报表 波莉 等你们都喝水了再弥补 发现你们一直有幻觉 哥们,这争论太蠢了!",等大家喝上水，意识到刚才全是幻觉，斯科特和波莉也和好了。天啊，刚才吵得真蠢！
+english_events_maingame:L14883,airdancerfavor,POLISH,At least you gained +N2 MIND by learning and mastering the air guitar -- and you also learned the risks of fame!,至少你通过学习和掌握空气吉他获得了+N2 MIND——你还学会了出名的风险!,至少你学会并掌握空气吉他，获得 +N2 头脑，还知道了成名的风险！
+english_events_maingame:L14885,airdancerfavor,FIX,"Polly, what's dancebending?",波莉什么是舞蹈吗?,波莉，御舞术是什么？
+english_events_maingame:L14886,airdancerfavor,POLISH,You mean you've never heard the ancient air dancer proverb?!,你是说你从没听过古老的空中舞者谚语?,你居然没听过充气舞人那句古老谚语？！
+english_events_maingame:L14887,airdancerfavor,FIX,"It goes like this: ""Dance. Cars. Other Kind of Dance. Air. Long ago, the four nations lived together in harmony...""","其相相去:""舞来相去. 车 其它类型的舞蹈。 空气 空气 空气 空气 空气 空气 空气 空气 空气 空气 空气 Air. 很久以前,四国和睦相处...",这么说的：“舞蹈。汽车。另一种舞蹈。空气。很久以前，四国和睦相处……”
+english_events_maingame:L14888,airdancerfavor,POLISH,"""But everything changed when the Car Nation attacked!""","""但当汽车国军进攻时一切都变了""",“可汽车国发动进攻后，一切都变了！”
+english_events_maingame:L14889,airdancerfavor,POLISH,"""Only the Dancebender, master of all four elements, could stop them from ruining pedestrian rights.""","只有舞蹈家,所有四个元素的主人, 才能阻止他们破坏行人的权利。""",“唯有御舞师，四大元素的掌控者，才能阻止他们践踏行人权利。”
+english_events_maingame:L14890,airdancerfavor,FIX,"""But when the world needed him most... HE VANISHED.""","""但当世界最需要他的时候... 他已经宣誓就职了。""",“可就在世界最需要他时……他消失了。”
+english_events_maingame:L14891,airdancerfavor,POLISH,WHAT?! Where'd he go?!,什麽? 他去哪儿了? 他从哪儿来的?,什么？！去哪儿了？！
+english_events_maingame:L14892,airdancerfavor,FIX,Who knows? He could be anywhere. He could even be IN THIS VERY ROOM!,"谁知道呢? 他可能在任何地方,他不会离开的。 他甚至可能在这个非常的房间!",谁知道，可能在任何地方。甚至就在这个房间！
+english_events_maingame:L14893,airdancerfavor,FIX,WHOA! Do you think... I'M the legendary Dancebender and we just forgot?,"呜哇! 你觉得... 我是传说中的""舞者"" 我们忘了?",哇！你说……我就是传说中的御舞师，只是咱们忘了？
+english_events_maingame:L14894,airdancerfavor,POLISH,It's possible; you and I are kinda forgetful.,"有可能,你和我有点忘记了",有可能，咱俩记性都不怎么好。
+english_events_maingame:L14895,airdancerfavor,FIX,Are you a master of Dance and Other Kind of Dance?,你是舞蹈大师吗?,舞蹈和另一种舞蹈，你都精通吗？
+english_events_maingame:L14896,airdancerfavor,POLISH,"I think I am! And I breathe Air, and I drove here in a Car, so I'm connected to ALL OF THEM!","我觉得我就是! 我呼吸空气,我开车来,所以我和他们都连上关系!",应该是！而且我呼吸空气，又开着汽车来，四个都有关联！
+english_events_maingame:L14897,airdancerfavor,FIX,"Then prove it, boo! Show us some world-saving, prophecy-foretelling Dancebender moves!","那就证明给我看吧,嘘! 给我们展示一些拯救世界的预言 预言的舞蹈节奏",那就证明一下，亲爱的！来几招拯救世界、昭示预言的御舞师动作！
+english_events_maingame:L14898,airdancerfavor,FIX,Scott proceeds to do a silly dance. Then he stops. Then he does... ANOTHER KIND OF SILLY DANCE! Polly is in utter awe.,斯科特 开始跳个傻舞 然后他停下来。 然后他就会... 另一种 冰冷的舞蹈!  波莉 绝对是敬畏的。,斯科特跳了段滑稽舞，停了一下，然后……又跳了另一种滑稽舞！波莉佩服得五体投地。
+english_events_maingame:L14899,airdancerfavor,FIX,"I CAN SEE IT CLEARLY NOW! DANCE. CARS. OTHER KIND OF DANCE. AIR. PUT 'EM ALL TOGETHER, AND THE DANCEBENDER'S THERE!","我现在可以看清了! 跳舞,我们有时间跳舞。 车。 其它类型的舞蹈。 空军。 把他们都放在一起, 舞者在那里!",全明白了！舞蹈。汽车。另一种舞蹈。空气。全凑一起，御舞师就在这里！
+english_events_maingame:L14900,airdancerfavor,POLISH,"Look, all the air dancers are bowing down to you, Scott! You're like their god now!","听着,所有的空气舞者都向你鞠躬 斯科特! 你现在就像他们的神!",看，斯科特，所有充气舞人都在拜你！现在你就是他们的神！
+english_events_maingame:L14901,airdancerfavor,FIX,"""The one true Dancebender has come!"" the deflating air dancers say -- well, they don't SAY it, but you can sense the intent in their soulless stickered-on eyes.","""真正的舞蹈家来了"" 气温下降的空气舞者说—— 他们不说,但你可以感觉到他们无灵魂的粘贴眼睛的意图。",“真正的御舞师降临了！”正瘪下去的充气舞人说。好吧，他们没开口，可那贴上去的、空洞无神的眼睛，就是这意思。
+english_events_maingame:L14902,airdancerfavor,POLISH,"WOOHOO! I'm back, bros, and I'm gonna defeat the Car Nation and save you all!","呜呼! 我回来了,兄弟们 我要打败车国,拯救你们所有人!",呜呼，我回来了，兄弟们！打败汽车国，拯救你们所有人！
+english_events_maingame:L14905,airdancerfavor,FIX,"You leave to ""embark on your heroic journey"", which ends up being a journey to a water fountain and realizing this was all just a sunstroke fever dream.","你离开去""在你的英雄之行上下沉"", 最终是去水泉的旅程, 并且意识到这一切只是一个日出热的梦想。",你们动身“踏上英雄之旅”，结果只走到饮水处，就发现刚才全是中暑时的胡思乱想。
+english_events_maingame:L14906,airdancerfavor,FIX,But Scott still somehow gained +N2 MAGIC from mastering Dancebending... so is it possible that it WAS real? Who knows!,"不过 斯科特 仍然不知何故从Dancebending的掌握中获得了+N2 MAGIC... 所以,它有可能是真实的? 谁知道呢!",可不知怎么，斯科特确实因为掌握御舞术，获得了 +N2 魔力……那刚才也许是真的？谁知道！
