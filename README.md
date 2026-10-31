@@ -4,7 +4,7 @@
 
 当前源码版本：**v0.3.6**。30,255 条文本已完成语言审校，原 PENDING 的 109 条疑难项已逐条裁决，其中 56 条保留、25 条纠错、28 条润色。59 条英文动词变量新增按行中文展开适配，已通过离线测试及编译，尚待实机验收。详见 [审校明细](docs/review/pending-review-109.md)。
 
-当前另有 **Windows 一键安装包 `v0.3.6-mono-layout-1`**，包含退出兼容补丁和安装／卸载入口，已在本地构建并验证，**尚未上传 GitHub Release**。已发布的旧 v0.3.2 不包含这些更新。
+最新 **[Windows 一键安装包 `v0.3.6-mono-layout-1`](https://github.com/stellabunny0v0/monster-roadtrip-cn/releases/tag/v0.3.6-mono-layout-1)** 已发布，包含退出兼容补丁和安装／卸载入口。旧 v0.3.2 不包含这些更新。
 
 v0.3.4 修复了中文属性名导致游戏无法识别加减分的问题：构建时恢复结算协议，游戏完成原有结算后再显示中文。右上角六项属性名也改为中文；保留游戏原有倍率、乘客效果和结算时机。详见 [修复说明](docs/review/stat-runtime-fix-001.md)。
 
@@ -14,7 +14,7 @@ v0.3.6 把主角选择界面的颜色称呼改为“蓝／绿／红／黄／肉�
 
 ## 安装
 
-新版发布后，可从 [Releases](https://github.com/stellabunny0v0/monster-roadtrip-cn/releases) 下载 `MonsterRoadtripChinese-v0.3.6-mono-layout-1-Windows.zip`。目前该包只在本地 `dist` 中；请勿把旧 v0.3.2 当成新版。
+从 [最新 Release](https://github.com/stellabunny0v0/monster-roadtrip-cn/releases/tag/v0.3.6-mono-layout-1) 下载 **[MonsterRoadtripChinese-v0.3.6-mono-layout-1-Windows.zip](https://github.com/stellabunny0v0/monster-roadtrip-cn/releases/download/v0.3.6-mono-layout-1/MonsterRoadtripChinese-v0.3.6-mono-layout-1-Windows.zip)**。请选择 Assets 中的安装包，`Source code` 不是安装包。
 
 1. 将压缩包**完整解压**到任意文件夹，不要直接在压缩包内运行。
 2. 正常退出游戏，双击 `install.bat`。

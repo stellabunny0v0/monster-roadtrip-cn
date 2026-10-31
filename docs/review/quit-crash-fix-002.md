@@ -35,4 +35,4 @@ Cecil／MethodBuilder 后端、关闭通用兼容补丁、替代初始化入口�
 
 如需只撤销本次兼容补丁：关闭游戏，从本次 `backups/mono-layout-before-*/MonoMod.Utils.dll` 恢复原加载器文件，然后移除 `BepInEx/core/MonsterRoadtripMonoCompat.dll`。不要将测试副本或备份 UserData 覆盖回当前存档。
 
-尚未提交、推送或发布新 Release。原 v0.3.2 Release 不包含此修复。
+源码已推送，一键安装包已发布至 [v0.3.6-mono-layout-1](https://github.com/stellabunny0v0/monster-roadtrip-cn/releases/tag/v0.3.6-mono-layout-1)。原 v0.3.2 Release 不包含此修复。

@@ -60,7 +60,7 @@
   "installed_files_hash_checked": 14,
   "save_files_checked_at_install": 11,
   "installed": true,
-  "published_this_fix": false,
+  "published_this_fix": true,
   "stat_fix_report": "docs/review/stat-runtime-fix-001.md",
   "name_persistence_roundtrip": "passed_offline_7_names",
   "name_write_hook_actual_game_il": {
@@ -111,6 +111,10 @@
     "sha256": "E7E9ABFB4C981CD19AC197ECE6EB248EC24C36C7ADCA07D566400599A37B2CD0",
     "bytes": 1729383,
     "contains_user_saves_or_local_config": false,
-    "uploaded_or_published": false
+    "uploaded_or_published": true,
+    "release_url": "https://github.com/stellabunny0v0/monster-roadtrip-cn/releases/tag/v0.3.6-mono-layout-1",
+    "release_source_commit": "cfd390b1054f17848ace2fca8675839799ff7346",
+    "github_asset_digest": "sha256:e7e9abfb4c981cd19ac197ece6eb248ec24c36c7adca07d566400599a37b2cd0",
+    "github_asset_hash_verified": true
   }
 }

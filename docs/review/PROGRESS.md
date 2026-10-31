@@ -268,4 +268,4 @@ Unity 日志确认点击退出后，在原生 Mono 清理阶段发生崩溃；�
 
 ## Windows 一键包（2026-10-31）
 
-已构建离线 ZIP `v0.3.6-mono-layout-1`，提供 install.bat／uninstall.bat，目标 Windows 10／11。Windows 自带 PowerShell 5.1 下 12 项隔离安装器测试通过，对正式游戏目录只读预检通过；不含存档或本机姓名恢复配置。Windows 10／Mac 尚未实机验证。未发布 Release；验证摘要见 windows-installer-validation-001.json，平台边界见 ../INSTALLER_PLATFORMS.md。
+已构建离线 ZIP `v0.3.6-mono-layout-1`，提供 install.bat／uninstall.bat，目标 Windows 10／11。Windows 自带 PowerShell 5.1 下 12 项隔离安装器测试通过，对正式游戏目录只读预检通过；不含存档或本机姓名恢复配置。Windows 10／Mac 尚未实机验证。已发布 [Release v0.3.6-mono-layout-1](https://github.com/stellabunny0v0/monster-roadtrip-cn/releases/tag/v0.3.6-mono-layout-1)，ZIP 与校验文件的 GitHub SHA256 均与本地一致；验证摘要见 windows-installer-validation-001.json，平台边界见 ../INSTALLER_PLATFORMS.md。

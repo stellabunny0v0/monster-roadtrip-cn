@@ -1547,8 +1547,9 @@
     "date": "2026-10-31",
     "version": "0.3.6-mono-layout-1",
     "tests_passed": 12,
-    "published": false,
+    "published": true,
     "new_language_coverage": 0,
-    "report": "docs/review/windows-installer-validation-001.json"
+    "report": "docs/review/windows-installer-validation-001.json",
+    "release_url": "https://github.com/stellabunny0v0/monster-roadtrip-cn/releases/tag/v0.3.6-mono-layout-1"
   }
 }
