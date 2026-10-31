@@ -20,7 +20,7 @@ namespace MonsterRoadtripChinese
     {
         public const string PluginGuid = "cn.monsterroadtrip.localization";
         public const string PluginName = "Monster Roadtrip Chinese Localization";
-        public const string PluginVersion = "0.3.6";
+        public const string PluginVersion = "0.3.7";
 
         internal static ManualLogSource Log;
         internal static string TranslationDirectory;
@@ -62,26 +62,26 @@ namespace MonsterRoadtripChinese
 
             try
             {
-                string userDataDirectory = Path.Combine(Paths.GameRootPath, "UserData");
-                if (!Directory.Exists(userDataDirectory))
+                bool macPlayer = Application.platform == RuntimePlatform.OSXPlayer;
+                string[] candidates = SaveDataPaths.Candidates(Paths.GameRootPath, Application.dataPath, macPlayer);
+                List<string> sourceFiles = new List<string>();
+                List<string> sourceDirectories = new List<string>();
+                foreach (string directory in candidates)
                 {
-                    Log.LogWarning("Save backup skipped because UserData was not found: " + userDataDirectory);
-                    return;
-                }
-
-                string[] sourceFiles = Directory.GetFiles(userDataDirectory, "*", SearchOption.TopDirectoryOnly);
-                int eligibleFileCount = 0;
-                foreach (string sourceFile in sourceFiles)
-                {
-                    string extension = Path.GetExtension(sourceFile);
-                    string name = Path.GetFileName(sourceFile);
-                    if (string.Equals(extension, ".xml", StringComparison.OrdinalIgnoreCase) ||
-                        string.Equals(name, "steam_autocloud.vdf", StringComparison.OrdinalIgnoreCase))
+                    if (!Directory.Exists(directory)) continue;
+                    foreach (string sourceFile in Directory.GetFiles(directory, "*", SearchOption.TopDirectoryOnly))
                     {
-                        eligibleFileCount++;
+                        string extension = Path.GetExtension(sourceFile);
+                        string name = Path.GetFileName(sourceFile);
+                        if (string.Equals(extension, ".xml", StringComparison.OrdinalIgnoreCase) ||
+                            string.Equals(name, "steam_autocloud.vdf", StringComparison.OrdinalIgnoreCase))
+                        {
+                            if (!sourceDirectories.Contains(directory)) sourceDirectories.Add(directory);
+                            sourceFiles.Add(sourceFile);
+                        }
                     }
                 }
-                if (eligibleFileCount == 0)
+                if (sourceFiles.Count == 0)
                 {
                     Log.LogWarning("Save backup skipped because UserData contains no XML or Steam cloud marker files");
                     return;
@@ -100,25 +100,27 @@ namespace MonsterRoadtripChinese
                 manifest.AppendLine("Monster Roadtrip Chinese Localization save snapshot");
                 manifest.AppendLine("Reason: " + reason);
                 manifest.AppendLine("Created UTC: " + DateTime.UtcNow.ToString("o"));
-                manifest.AppendLine("Source: " + userDataDirectory);
+                foreach (string directory in sourceDirectories) manifest.AppendLine("Source: " + directory);
                 manifest.AppendLine();
 
                 int copiedFileCount = 0;
                 foreach (string sourceFile in sourceFiles)
                 {
-                    string extension = Path.GetExtension(sourceFile);
                     string name = Path.GetFileName(sourceFile);
-                    if (!string.Equals(extension, ".xml", StringComparison.OrdinalIgnoreCase) &&
-                        !string.Equals(name, "steam_autocloud.vdf", StringComparison.OrdinalIgnoreCase))
-                    {
-                        continue;
-                    }
-
-                    string destinationFile = Path.Combine(snapshotDirectory, name);
+                    string sourceDirectory = Path.GetDirectoryName(sourceFile);
+                    string relativeName = sourceDirectories.Count == 1 ? name :
+                        Path.Combine("source-" + sourceDirectories.IndexOf(sourceDirectory), name);
+                    string destinationFile = Path.Combine(snapshotDirectory, relativeName);
+                    Directory.CreateDirectory(Path.GetDirectoryName(destinationFile));
                     File.Copy(sourceFile, destinationFile, false);
-                    File.SetCreationTimeUtc(destinationFile, File.GetCreationTimeUtc(sourceFile));
-                    File.SetLastWriteTimeUtc(destinationFile, File.GetLastWriteTimeUtc(sourceFile));
-                    manifest.AppendLine(GetSha256(destinationFile) + "  " + name);
+                    // Unix Mono may not support setting file creation times.
+                    // Snapshot data matters; leave Mac metadata to File.Copy.
+                    if (!macPlayer)
+                    {
+                        File.SetCreationTimeUtc(destinationFile, File.GetCreationTimeUtc(sourceFile));
+                        File.SetLastWriteTimeUtc(destinationFile, File.GetLastWriteTimeUtc(sourceFile));
+                    }
+                    manifest.AppendLine(GetSha256(destinationFile) + "  " + relativeName);
                     copiedFileCount++;
                 }
 

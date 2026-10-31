@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-31",
+  "platform": "Windows host, Git Bash 5.2; macOS probes mocked",
+  "mac_native_validation": false,
+  "game_launched": false,
+  "real_saves_modified": false,
+  "fixture_checks_passed": 13,
+  "fixture_checks": [
+    "shell syntax",
+    "install in spaces/Chinese paths, four save layouts copied and unchanged",
+    "idempotent install",
+    "clean uninstall, saves unchanged",
+    "injected copy failure rolls back mod files",
+    "existing loader/other mod/config preserved",
+    "changed tracked file blocks uninstall",
+    "unknown loader rejected",
+    "arm64-only rejected",
+    "running game rejected",
+    "corrupt payload rejected",
+    "manifest traversal rejected",
+    "missing game API rejected"
+  ],
+  "skipped": [
+    "native symbolic link fixture: host denied creation"
+  ],
+  "additional_checks": [
+    "plugin build: 0 warnings/errors",
+    "26 Python unit tests",
+    "Windows/Mac save candidate paths",
+    "Unicode name persistence",
+    "actual game serializer IL, no save method executed",
+    "1342 stat cues and 27 mission rewards",
+    "59 runtime verb rows",
+    "10 Mono layout cases; 1222 method bodies checked",
+    "all 33 payload hashes",
+    "13 translation files identical to validated Windows build",
+    "compiled plugin matches archive",
+    "Unix executable permissions and LF",
+    "Windows published ZIP hash unchanged"
+  ],
+  "archive": "MonsterRoadtripChinese-v0.3.7-macos-experimental-macOS.zip",
+  "bytes": 1752647,
+  "sha256": "320c734f9004efb419240b071feb52a94637f3987e22ad6395b4758ae2fc4795",
+  "plugin_sha256": "8c1db9d0edd3a4e3981424d2b0dd81f798a3a4af6b4af0d85d735b59846f18e1",
+  "limitations": [
+    "No native macOS game, font, rendering, save round-trip or quit validation",
+    "Architecture/plist/Rosetta/running-process probes mocked in integration fixtures",
+    "Preflight API names are not a complete game-version compatibility proof"
+  ]
+}
