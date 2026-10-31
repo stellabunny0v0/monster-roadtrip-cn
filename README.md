@@ -6,20 +6,6 @@
 
 本轮更新源码，尚未发布新版安装包。以下安装步骤对应原 v0.3.2 发行包；本轮译文及动词适配需使用 v0.3.3 源码构建的插件和同批次翻译文件。
 
-## 汉化效果
-
-### 主菜单
-
-![Monster Prom 3 - Monster Roadtrip 汉化后的主菜单](docs/images/preview-main-menu.jpg)
-
-### 剧情对话
-
-![Monster Prom 3 - Monster Roadtrip 汉化后的剧情对话](docs/images/preview-dialogue.jpg)
-
-### 事件选项
-
-![Monster Prom 3 - Monster Roadtrip 汉化后的事件选项](docs/images/preview-choice.jpg)
-
 ## 安装
 
 1. 打开 [Releases 页面](https://github.com/stellabunny0v0/monster-roadtrip-cn/releases/latest)。
