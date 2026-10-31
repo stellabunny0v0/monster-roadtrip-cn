@@ -1504,5 +1504,51 @@
     "log": "docs/review/pending-review-109.csv",
     "report": "docs/review/pending-review-109.md",
     "new_coverage_entries": 0
+  },
+  "stat_runtime_fix": {
+    "version": "0.3.4",
+    "report": "docs/review/stat-runtime-fix-001.md",
+    "stat_cues_verified": 1342,
+    "mission_rewards_verified": 27,
+    "installed": true,
+    "ingame_verified": false,
+    "new_language_coverage": 0
+  },
+  "name_location_runtime_fix": {
+    "version": "0.3.5",
+    "report": "docs/review/name-location-runtime-fix-001.md",
+    "location_titles_verified": 83,
+    "location_reference_fixes": 42,
+    "name_persistence_test": "passed_offline",
+    "installed": true,
+    "ingame_verified": false,
+    "new_language_coverage": 0
+  },
+  "character_alias_and_quit_diagnosis": {
+    "version": "0.3.6",
+    "color_alias_fixes": 8,
+    "quit_crash_confirmed": true,
+    "quit_crash_fixed": false,
+    "installed": true,
+    "new_language_coverage": 0,
+    "report": "docs/review/quit-crash-diagnosis-001.md"
+  },
+  "mono_layout_quit_fix": {
+    "date": "2026-10-31",
+    "fix": "mono-layout-1",
+    "installed": true,
+    "isolated_game_exit_verified": true,
+    "normal_exit_runs": 3,
+    "steam_session_verified": false,
+    "new_language_coverage": 0,
+    "report": "docs/review/quit-crash-fix-002.md"
+  },
+  "windows_installer": {
+    "date": "2026-10-31",
+    "version": "0.3.6-mono-layout-1",
+    "tests_passed": 12,
+    "published": false,
+    "new_language_coverage": 0,
+    "report": "docs/review/windows-installer-validation-001.json"
   }
 }

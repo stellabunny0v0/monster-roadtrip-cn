@@ -11,6 +11,7 @@ import re
 from pathlib import Path
 
 from translation_common import extract_tokens
+from stat_contracts import compile_event_text
 
 VERB = re.compile(r"%VERB(?:CAPS)?_[A-Za-z'_]+%")
 MANIFEST_NAME = "schinese_verb_overrides.tsv"
@@ -36,7 +37,7 @@ def compile_overrides(translation_dir: Path, rows: dict) -> list[tuple[str, str,
         row = rows[key]
         if not re.fullmatch(r"english_events_[a-z]+:L[1-9][0-9]*", key):
             raise ValueError(f"Invalid event row: {key}")
-        target = row['target']
+        target = compile_event_text(row['source'], row['target'], key)
         if not target or any(c in target for c in '\t\r\n'):
             raise ValueError(f"Invalid verb override text: {key}")
         if set(replacements) != set(VERB.findall(row['source'])) or set(replacements) != set(VERB.findall(target)):

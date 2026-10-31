@@ -38,6 +38,14 @@ try {
     $pluginDir = Join-Path $projectRoot 'build\package\BepInEx\plugins\MonsterRoadtripChinese'
     New-Item -ItemType Directory -Path $pluginDir -Force | Out-Null
     Copy-Item -LiteralPath 'src\bin\Release\MonsterRoadtripChinese.dll' -Destination $pluginDir -Force
+    dotnet build compat\MonsterRoadtripMonoCompat.csproj --configuration Release --ignore-failed-sources
+    if ($LASTEXITCODE -ne 0) { throw 'Mono layout helper build failed.' }
+    & tools\build-mono-compat.ps1
+    & tools\tests\test-mono-compat.ps1
+    $coreDir = Join-Path $projectRoot 'build\package\BepInEx\core'
+    New-Item -ItemType Directory -Path $coreDir -Force | Out-Null
+    Copy-Item -LiteralPath 'build\mono-compat\MonoMod.Utils.dll','build\mono-compat\MonsterRoadtripMonoCompat.dll' -Destination $coreDir -Force
+    Copy-Item -LiteralPath 'compat\LICENSE-MonoMod.txt' -Destination (Join-Path $coreDir 'MonsterRoadtripMonoCompat.LICENSE.txt') -Force
     Write-Host "Build complete: $pluginDir"
 }
 finally {

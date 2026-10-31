@@ -1,0 +1,3 @@
+﻿row_id,event_id,decision,source,before,after,reason
+english_events_maingame:L4951,yesand,FIX,"%CURRENTPLAYERNAME%, go suggest something entertaining please. I'm LITERALLY dying of -N2 HYPE-itis right now.",%CURRENTPLAYERNAME%，求你快提个有意思的题目吧。我真的快被“热度 -N2 炎”给无聊死了。,%CURRENTPLAYERNAME%，求你快提个有意思的题目吧。我是真的快被“-N2 热度炎”折腾死了。,Restore the executable negative stat cue inside the HYPE-itis joke.
+english_events_maingame:L24509,wrongpizza_eotr,FIX,It's +N2 STAMINA at the low cost of -N2 MIND. Yum.,只需付出 -N2 头脑，就能获得 +N2 体力。真香。,你获得 +N2 体力，代价不过是 -N2 头脑。真香。,Keep gain and loss cue order identical to the original calculation order.

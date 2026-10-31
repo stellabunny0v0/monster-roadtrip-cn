@@ -16,6 +16,12 @@ $gameExe = Join-Path $GameDir 'MonsterRoadtrip.exe'
 if (-not (Test-Path -LiteralPath $gameExe -PathType Leaf)) {
     throw "Game executable was not found: $gameExe"
 }
+if (Get-Process -Name MonsterRoadtrip -ErrorAction SilentlyContinue) {
+    throw 'Exit the game normally before installing.'
+}
+if (-not (Test-Path -LiteralPath (Join-Path $projectRoot 'build\mono-compat\compatibility-manifest.json'))) {
+    throw 'Build the Mono layout compatibility files before installing.'
+}
 
 & (Join-Path $projectRoot 'backup-saves.ps1') -GameDir $GameDir
 
@@ -42,6 +48,7 @@ New-Item -ItemType Directory -Path $gameCoreDir,$gamePluginDir -Force | Out-Null
 Copy-Item -LiteralPath (Join-Path $loaderRoot '.doorstop_version'),(Join-Path $loaderRoot 'changelog.txt'),(Join-Path $loaderRoot 'doorstop_config.ini'),(Join-Path $loaderRoot 'winhttp.dll') -Destination $GameDir -Force
 Copy-Item -Path (Join-Path $loaderRoot 'BepInEx\core\*') -Destination $gameCoreDir -Recurse -Force
 Copy-Item -Path (Join-Path $modRoot 'BepInEx\plugins\MonsterRoadtripChinese\*') -Destination $gamePluginDir -Recurse -Force
+& (Join-Path $projectRoot 'tools\install-mono-compat.ps1') -GameDir $GameDir
 
 Write-Host 'Test build installed.'
 Write-Host "Launch the game normally through Steam, then inspect BepInEx\LogOutput.log."

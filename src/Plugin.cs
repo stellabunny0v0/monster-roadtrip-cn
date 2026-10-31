@@ -1,9 +1,12 @@
 using System;
+using System.Collections.Generic;
 using System.IO;
 using System.Reflection;
 using System.Security.Cryptography;
 using System.Text;
+using System.Xml;
 using BepInEx;
+using BepInEx.Configuration;
 using BepInEx.Logging;
 using BeautifulGlitch;
 using HarmonyLib;
@@ -17,7 +20,7 @@ namespace MonsterRoadtripChinese
     {
         public const string PluginGuid = "cn.monsterroadtrip.localization";
         public const string PluginName = "Monster Roadtrip Chinese Localization";
-        public const string PluginVersion = "0.3.3";
+        public const string PluginVersion = "0.3.6";
 
         internal static ManualLogSource Log;
         internal static string TranslationDirectory;
@@ -25,18 +28,25 @@ namespace MonsterRoadtripChinese
 
         private Harmony _harmony;
         private static bool _saveBackupCreated;
+        private static ConfigEntry<string> _nameRecoveryRules;
 
         private void Awake()
         {
             Log = Logger;
             TranslationDirectory = Path.Combine(Path.GetDirectoryName(Info.Location), "Translation");
             TryCreateSaveSnapshot("plugin startup");
+            _nameRecoveryRules = Config.Bind("NameRecovery", "Rules", "",
+                "Optional local recovery for explicitly known lost names: PlayerA|pumpkin|???|original name. Separate rules with semicolons. Empty by default; valid custom names are never replaced.");
             _harmony = new Harmony(PluginGuid);
 
             Patch("BeautifulGlitch.CoreProgressManager", "Load", typeof(ProgressLoadBackupPatch));
+            Patch("BeautifulGlitch.CoreCheckpointXmlSerializer", "SerializeCorePlayerData", typeof(PlayerNameWritePatch));
+            Patch("BeautifulGlitch.CoreCheckpointXmlSerializer", "UnserializeCorePlayerData", typeof(PlayerNameReadPatch));
             Patch("BeautifulGlitch.Languages", "Initialize", typeof(LanguagesInitializePatch));
             Patch("BeautifulGlitch.CoreTextManager", "LoadMetatextsFile", typeof(MetatextPatch));
             Patch("BeautifulGlitch.CoreParser", "ReadLocalizedTextFile", typeof(EventTextPatch));
+            Patch("Game.MainGameEventManager", "ConvertTextTags", typeof(StatFeedbackDisplayPatch));
+            _harmony.CreateClassProcessor(typeof(StatWidgetNamesPatch)).Patch();
             Patch("BeautifulGlitch.LocalizedNGUIFont", "Refresh", typeof(LocalizedNGUIFontPatch));
             Patch("BeautifulGlitch.LocalizedTextFont", "Refresh", typeof(LocalizedTextFontPatch));
 
@@ -275,6 +285,106 @@ namespace MonsterRoadtripChinese
 
                 __result = true;
                 return false;
+            }
+        }
+
+        [HarmonyPatch]
+        private static class PlayerNameWritePatch
+        {
+            private static MethodBase TargetMethod()
+            {
+                return AccessTools.Method(typeof(CoreCheckpointXmlSerializer), "SerializeCorePlayerData");
+            }
+
+            private static IEnumerable<CodeInstruction> Transpiler(IEnumerable<CodeInstruction> instructions)
+            {
+                MethodInfo replacement = typeof(NameTextPersistence).GetMethod("WriteElementString",
+                    BindingFlags.Static | BindingFlags.NonPublic);
+                if (replacement == null) throw new MissingMethodException("Name XML writer helper is missing.");
+                foreach (CodeInstruction instruction in instructions)
+                {
+                    MethodInfo method = instruction.operand as MethodInfo;
+                    if ((instruction.opcode == System.Reflection.Emit.OpCodes.Call || instruction.opcode == System.Reflection.Emit.OpCodes.Callvirt) &&
+                        method != null && method.Name == "WriteElementString" &&
+                        typeof(XmlWriter).IsAssignableFrom(method.DeclaringType))
+                    {
+                        ParameterInfo[] parameters = method.GetParameters();
+                        if (parameters.Length == 2 && parameters[0].ParameterType == typeof(string) &&
+                            parameters[1].ParameterType == typeof(string))
+                        {
+                            instruction.opcode = System.Reflection.Emit.OpCodes.Call;
+                            instruction.operand = replacement;
+                        }
+                    }
+                    yield return instruction;
+                }
+            }
+        }
+
+        [HarmonyPatch]
+        private static class PlayerNameReadPatch
+        {
+            private static readonly FieldInfo NameField = AccessTools.Field(typeof(CorePlayerData), "name");
+            private static readonly FieldInfo PlayerField = AccessTools.Field(typeof(CorePlayerData), "playerId");
+            private static readonly FieldInfo ProfileField = AccessTools.Field(typeof(CorePlayerData), "pcProfile");
+
+            private static MethodBase TargetMethod()
+            {
+                return AccessTools.Method(typeof(CoreCheckpointXmlSerializer), "UnserializeCorePlayerData");
+            }
+
+            private static void Postfix(CorePlayerData aResult)
+            {
+                if (aResult == null || _nameRecoveryRules == null) return;
+                PcProfile profile = ProfileField.GetValue(aResult) as PcProfile;
+                if (profile == null) return;
+                string before = NameField.GetValue(aResult) as string;
+                string after = NameTextPersistence.Recover(_nameRecoveryRules.Value,
+                    PlayerField.GetValue(aResult).ToString(), profile.id, before);
+                if (!string.Equals(before, after, StringComparison.Ordinal))
+                {
+                    NameField.SetValue(aResult, after);
+                    Log.LogInfo("Recovered an explicitly configured player name in memory; existing save files were not rewritten.");
+                }
+            }
+        }
+
+        [HarmonyPatch]
+        private static class StatFeedbackDisplayPatch
+        {
+            private static MethodBase TargetMethod()
+            {
+                return AccessTools.Method(AccessTools.TypeByName("Game.MainGameEventManager"), "ConvertTextTags");
+            }
+
+            private static void Postfix(ref string __result)
+            {
+                __result = StatDisplayTranslations.FinishedFeedback(__result);
+            }
+        }
+
+        [HarmonyPatch]
+        private static class StatWidgetNamesPatch
+        {
+            private static IEnumerable<MethodBase> TargetMethods()
+            {
+                yield return AccessTools.Method(typeof(Game.StatWidget), "Initialize",
+                    new[] { typeof(BeautifulGlitchConfig.StatType) });
+                yield return AccessTools.Method(typeof(Game.StatWidget), "Initialize",
+                    new[] { typeof(BeautifulGlitchConfig.StatType), typeof(UIWidget), typeof(float), typeof(float) });
+            }
+
+            private static void Prefix(Game.StatWidget __instance)
+            {
+                // Set the font before the game clones the auxiliary name labels.
+                if (ChineseFont != null && __instance.nameLabel != null)
+                    __instance.nameLabel.SetTrueTypeFont(ChineseFont);
+            }
+
+            private static void Postfix(Game.StatWidget __instance)
+            {
+                if (__instance.nameLabel != null)
+                    __instance.nameLabel.text = StatDisplayTranslations.Name(__instance.type.ToString());
             }
         }
 

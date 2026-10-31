@@ -7,6 +7,7 @@ from pathlib import Path
 
 from translation_common import load_rows
 from runtime_verbs import build_overrides
+from stat_contracts import compile_event_text
 
 
 META_RE = re.compile(
@@ -31,7 +32,7 @@ def build_event(source_path: Path, destination: Path, rows: dict[str, dict[str, 
         if row and row.get("target"):
             if len(fields) <= 3:
                 raise ValueError(f"Cannot replace text at {source_path.name}:{line_number}")
-            fields[3] = row["target"]
+            fields[3] = compile_event_text(row["source"], row["target"], row["row_id"])
             raw_line = "\t".join(fields)
         output.append(raw_line)
     destination.write_text("\r\n".join(output) + "\r\n", encoding="utf-8", newline="")

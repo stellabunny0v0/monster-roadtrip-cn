@@ -6,6 +6,8 @@ import re
 from pathlib import Path
 from translation_common import load_rows
 from runtime_verbs import validate_overrides
+from stat_contracts import validate_stat_text
+from location_contracts import validate_location_names
 
 
 # These values double as parser identifiers. Translating them makes every stat
@@ -52,6 +54,10 @@ def validate_events(source_dir: Path, output_dir: Path) -> list[str]:
                 zip(source_fields, built_fields)
             ):
                 if field_index == 3 and len(source_fields) > 3:
+                    try:
+                        validate_stat_text(source_field, built_field, f'{built_path.name}:{line_number}')
+                    except ValueError as error:
+                        errors.append(str(error))
                     continue
                 if source_field != built_field:
                     errors.append(
@@ -61,7 +67,7 @@ def validate_events(source_dir: Path, output_dir: Path) -> list[str]:
     return errors
 
 
-def validate_metatexts(output_dir: Path) -> list[str]:
+def validate_metatexts(output_dir: Path, translation_dir: Path | None = None) -> list[str]:
     errors: list[str] = []
     built_path = output_dir / "schinese_metatexts.json"
     if not built_path.exists():
@@ -84,6 +90,8 @@ def validate_metatexts(output_dir: Path) -> list[str]:
                 f"{built_path.name}:{key}: parser identifier must stay "
                 f"{expected!r}, got {actual!r}"
             )
+    if translation_dir is not None:
+        errors.extend(validate_location_names(translation_dir, load_rows(translation_dir), values))
     return errors
 
 
@@ -101,7 +109,7 @@ def main() -> int:
     args = parser.parse_args()
 
     errors = validate_events(args.source, args.output)
-    errors.extend(validate_metatexts(args.output))
+    errors.extend(validate_metatexts(args.output, args.translation))
     errors.extend(validate_overrides(args.translation, load_rows(args.translation), args.output))
     if errors:
         print(f"Runtime contract validation failed with {len(errors)} error(s):")

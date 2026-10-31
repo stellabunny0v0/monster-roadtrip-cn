@@ -1,0 +1,14 @@
+{
+  "version": "0.3.6-mono-layout-1",
+  "format": "offline ZIP, bat launcher, Windows PowerShell 5.1",
+  "payload_files": 32,
+  "windows_powershell_51_cases_passed": 12,
+  "windows_11_tested": true,
+  "windows_10_tested": false,
+  "mac_tested": false,
+  "official_game_preflight": "passed_read_only",
+  "sha256": "E7E9ABFB4C981CD19AC197ECE6EB248EC24C36C7ADCA07D566400599A37B2CD0",
+  "bytes": 1729383,
+  "contains_user_saves_or_local_config": false,
+  "uploaded_or_published": false
+}

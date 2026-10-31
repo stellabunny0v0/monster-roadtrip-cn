@@ -864,7 +864,7 @@ english_events_bubbles:L2901,english_events_bubbles.txt,2901,bubble_going_motel_
 english_events_bubbles:L2902,english_events_bubbles.txt,2902,bubble_going_motel_regular_eotr_4,polly,,Where have I heard that before...?,这话，我是不是在哪儿听过……？,reviewed,polish pass 081: POLISH
 english_events_bubbles:L2908,english_events_bubbles.txt,2908,bubble_going_diner_dinest_eotr_1,scott,,This diner smells familiar...,这餐厅闻起来很熟悉...,reviewed,polish pass 081: KEEP
 english_events_bubbles:L2909,english_events_bubbles.txt,2909,bubble_going_diner_dinest_eotr_1,scott,,Have I peed here before?,我以前在这里撒过尿吗?,reviewed,polish pass 081: KEEP
-english_events_bubbles:L2915,english_events_bubbles.txt,2915,bubble_going_diner_dinest_eotr_2,scott,,The Dinest! Can we stop and take a bite?,The Dinest！咱们能停下吃点东西吗？,reviewed,polish pass 081: FIX
+english_events_bubbles:L2915,english_events_bubbles.txt,2915,bubble_going_diner_dinest_eotr_2,scott,,The Dinest! Can we stop and take a bite?,至臻餐厅！咱们能停下吃点东西吗？,reviewed,polish pass 081: FIX; location name fix 001
 english_events_bubbles:L2916,english_events_bubbles.txt,2916,bubble_going_diner_dinest_eotr_2,polly,,"Sure. Are they like a chain restaurant, or...?",行啊。这是家连锁餐厅，还是什么……？,reviewed,polish pass 081: POLISH
 english_events_bubbles:L2922,english_events_bubbles.txt,2922,bubble_going_caves_eotr_1,scott,,"Ooh, a cave! I've always wanted to visit one!","哦,一个洞穴! 我一直想拜访一个!",reviewed,polish pass 081: KEEP
 english_events_bubbles:L2923,english_events_bubbles.txt,2923,bubble_going_caves_eotr_1,polly,,"Yeah, I feel like something is pulling me in...","是的,我觉得有东西 把我拉进来...",reviewed,polish pass 081: KEEP

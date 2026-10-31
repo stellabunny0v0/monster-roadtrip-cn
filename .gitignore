@@ -11,6 +11,8 @@ extracted/
 recovered-candidates/
 src/bin/
 src/obj/
+compat/bin/
+compat/obj/
 docs/SAVE_RECOVERY.md
 recover-deleted-saves.ps1
 *.log

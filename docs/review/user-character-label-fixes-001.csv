@@ -1,0 +1,9 @@
+﻿row_id,event_id,decision,source,before,after,reason
+english_metatexts:PLY_ALT_BLUE,metatext,FIX,Blue,蓝色,蓝,User requested short player color aliases without the Chinese suffix 色; scope is character-selection aliases only.
+english_metatexts:PLY_ALT_GREEN,metatext,FIX,Green,绿色,绿,User requested short player color aliases without the Chinese suffix 色; scope is character-selection aliases only.
+english_metatexts:PLY_ALT_RED,metatext,FIX,Red,红色,红,User requested short player color aliases without the Chinese suffix 色; scope is character-selection aliases only.
+english_metatexts:PLY_ALT_YELLOW,metatext,FIX,Yellow,黄色,黄,User requested short player color aliases without the Chinese suffix 色; scope is character-selection aliases only.
+english_metatexts:PLY_ALT_CINNAMON,metatext,FIX,Cinnamon,肉桂色,肉桂,User requested short player color aliases without the Chinese suffix 色; scope is character-selection aliases only.
+english_metatexts:PLY_ALT_ZOE,metatext,FIX,Purple,紫色,紫,User requested short player color aliases without the Chinese suffix 色; scope is character-selection aliases only.
+english_metatexts:PLY_ALT_PUMPKIN,metatext,FIX,Orange,橙色,橙,User requested short player color aliases without the Chinese suffix 色; scope is character-selection aliases only.
+english_metatexts:PLY_ALT_SLIME,metatext,FIX,Turquoise,绿松石色,绿松石,User requested short player color aliases without the Chinese suffix 色; scope is character-selection aliases only.

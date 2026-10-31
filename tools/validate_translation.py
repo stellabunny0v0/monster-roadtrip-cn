@@ -4,6 +4,8 @@ import argparse
 from pathlib import Path
 
 from translation_common import extract_tokens, load_rows, load_display_literal_overrides, row_display_literals
+from stat_contracts import compile_event_text
+from location_contracts import validate_location_names
 
 
 def main() -> int:
@@ -13,6 +15,7 @@ def main() -> int:
 
     errors: list[str] = []
     rows = load_rows(args.translation)
+    errors.extend(validate_location_names(args.translation, rows))
     display_overrides = load_display_literal_overrides(args.translation)
     for row_id in display_overrides:
         if row_id not in rows:
@@ -25,6 +28,11 @@ def main() -> int:
                 errors.append(f"{row_id}: approved display literal target is missing")
             continue
         translated += 1
+        if row_id.startswith('english_events_'):
+            try:
+                compile_event_text(row['source'], target, row_id)
+            except ValueError as error:
+                errors.append(str(error))
         if "\t" in target or "\r" in target or "\n" in target:
             errors.append(f"{row_id}: target contains a literal tab or newline; use [n]")
         try:

@@ -11,8 +11,8 @@
   "new_entries_after_recheck": 25420,
   "latest_new_review_pass": "223",
   "ingame_verified": false,
-  "installed_or_published": false,
-  "checked_at": "2026-10-22",
+  "installed_or_published": true,
+  "checked_at": "2026-10-31",
   "task_baseline_inspected": 27725,
   "task_new_inspected": 2530,
   "display_literal_tests": {
@@ -34,7 +34,7 @@
     "POLISH": 28
   },
   "python_tests": {
-    "passed": 15,
+    "passed": 26,
     "failed": 0
   },
   "csharp_runtime_verb_consumer_test": {
@@ -43,10 +43,74 @@
     "passed": true
   },
   "plugin_build": {
-    "version": "0.3.3",
+    "version": "0.3.6",
     "warnings": 0,
     "errors": 0
   },
   "review_scope": "docs/review/pending-review-109.csv",
-  "name_candidates_in_scope": 0
+  "name_candidates_in_scope": 0,
+  "csharp_stat_contract_test": {
+    "stat_cues": 1342,
+    "stat_rows": 1062,
+    "mission_rewards": 27,
+    "passed": true
+  },
+  "stat_display_test": "passed_offline",
+  "installed_version": "0.3.6",
+  "installed_files_hash_checked": 14,
+  "save_files_checked_at_install": 11,
+  "installed": true,
+  "published_this_fix": false,
+  "stat_fix_report": "docs/review/stat-runtime-fix-001.md",
+  "name_persistence_roundtrip": "passed_offline_7_names",
+  "name_write_hook_actual_game_il": {
+    "passed": true,
+    "writer_calls_redirected": 10,
+    "unrelated_instructions": "unchanged",
+    "save_methods_executed": false
+  },
+  "localized_location_titles": 83,
+  "location_reference_fixes": 42,
+  "local_name_recovery_configured": true,
+  "name_recovery_default": "disabled_without_explicit_local_rule",
+  "name_location_fix_report": "docs/review/name-location-runtime-fix-001.md",
+  "character_color_alias_fixes": 8,
+  "quit_crash": {
+    "confirmed": true,
+    "fixed": true,
+    "controlled_ab_test_done": true,
+    "normal_exit_runs": 3,
+    "final_build_exit_code": 0,
+    "settings_return_ui_verified": true,
+    "steam_session_verified": false,
+    "installed": true,
+    "report": "docs/review/quit-crash-fix-002.md"
+  },
+  "mono_compat_validation": {
+    "layout_cases": 10,
+    "invalid_pointer_size_rejected": true,
+    "method_bodies_checked": 1222,
+    "only_one_correction_call_added": true,
+    "build_warnings": 0,
+    "build_errors": 0,
+    "installed_files_hash_checked": 2,
+    "save_files_checked": 11,
+    "saves_unchanged": true,
+    "configuration_unchanged": true,
+    "other_core_files_unchanged": true
+  },
+  "windows_installer": {
+    "version": "0.3.6-mono-layout-1",
+    "format": "offline ZIP, bat launcher, Windows PowerShell 5.1",
+    "payload_files": 32,
+    "windows_powershell_51_cases_passed": 12,
+    "windows_11_tested": true,
+    "windows_10_tested": false,
+    "mac_tested": false,
+    "official_game_preflight": "passed_read_only",
+    "sha256": "E7E9ABFB4C981CD19AC197ECE6EB248EC24C36C7ADCA07D566400599A37B2CD0",
+    "bytes": 1729383,
+    "contains_user_saves_or_local_config": false,
+    "uploaded_or_published": false
+  }
 }

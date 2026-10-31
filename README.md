@@ -2,18 +2,30 @@
 
 适用于 Steam Windows 版 **Monster Prom 3 - Monster Roadtrip** 的简体中文 Mod。
 
-当前源码版本：**v0.3.3**。30,255 条文本已完成语言审校，原 PENDING 的 109 条疑难项已逐条裁决，其中 56 条保留、25 条纠错、28 条润色。59 条英文动词变量新增按行中文展开适配，已通过离线测试及编译，尚待实机验收。详见 [审校明细](docs/review/pending-review-109.md)。
+当前源码版本：**v0.3.6**。30,255 条文本已完成语言审校，原 PENDING 的 109 条疑难项已逐条裁决，其中 56 条保留、25 条纠错、28 条润色。59 条英文动词变量新增按行中文展开适配，已通过离线测试及编译，尚待实机验收。详见 [审校明细](docs/review/pending-review-109.md)。
 
-本轮更新源码，尚未发布新版安装包。以下安装步骤对应原 v0.3.2 发行包；本轮译文及动词适配需使用 v0.3.3 源码构建的插件和同批次翻译文件。
+当前另有 **Windows 一键安装包 `v0.3.6-mono-layout-1`**，包含退出兼容补丁和安装／卸载入口，已在本地构建并验证，**尚未上传 GitHub Release**。已发布的旧 v0.3.2 不包含这些更新。
+
+v0.3.4 修复了中文属性名导致游戏无法识别加减分的问题：构建时恢复结算协议，游戏完成原有结算后再显示中文。右上角六项属性名也改为中文；保留游戏原有倍率、乘客效果和结算时机。详见 [修复说明](docs/review/stat-runtime-fix-001.md)。
+
+v0.3.5 修复中文姓名保存后变成 `???` 的编码问题，并补齐 83 个地图／目的地标题的中文名称。已损坏的姓名只能按明确提供的原名恢复，插件默认不猜测；本机恢复规则和旧存档不随发行包分发。详见 [姓名与地点修复说明](docs/review/name-location-runtime-fix-001.md)。
+
+v0.3.6 把主角选择界面的颜色称呼改为“蓝／绿／红／黄／肉桂／紫／橙／绿松石”，不改玩家自定义姓名。`mono-layout-1` 修复了加载器底层的一处 Unity／Mono 兼容问题；本机隔离副本已正常退出三次，包含设置返回测试。详见 [退出修复说明](docs/review/quit-crash-fix-002.md)。
 
 ## 安装
 
-1. 打开 [Releases 页面](https://github.com/stellabunny0v0/monster-roadtrip-cn/releases/latest)。
-2. 下载 `MonsterRoadtripChinese-v0.3.2-Windows-x86.zip`。
-3. 完全退出游戏。
-4. 在 Steam 库中右键游戏，选择“管理”→“浏览本地文件”。
-5. 把压缩包内的所有文件直接解压到游戏根目录，也就是 `MonsterRoadtrip.exe` 所在的文件夹。出现合并文件夹提示时选择允许。
-6. 正常通过 Steam 启动游戏。第一次启动可能比平时稍慢。
+新版发布后，可从 [Releases](https://github.com/stellabunny0v0/monster-roadtrip-cn/releases) 下载 `MonsterRoadtripChinese-v0.3.6-mono-layout-1-Windows.zip`。目前该包只在本地 `dist` 中；请勿把旧 v0.3.2 当成新版。
+
+1. 将压缩包**完整解压**到任意文件夹，不要直接在压缩包内运行。
+2. 正常退出游戏，双击 `install.bat`。
+3. 安装器会查找 Steam 游戏目录；找不到时，选择 `MonsterRoadtrip.exe` 所在文件夹。
+4. 等待显示“安装完成”，之后通过 Steam 正常启动游戏。
+
+无需另外安装 Python、dotnet SDK 或 BepInEx。安装前会校验包内文件、游戏版本和已有加载器，复制备份存档与将被覆盖的旧文件；不匹配时停止，不自动覆盖其他版本加载器，也不自动申请管理员权限。
+
+目标平台为 Windows 10／11 的 Intel／AMD 电脑。Windows 11 已做本机验证，Windows 10 尚待实机验证；Windows ARM、旧版 Windows 和 macOS 不在本包验证范围。当前游戏的 Unity 在中文安装路径下有已知问题，安装器会提示使用 Steam 将游戏移至英文路径；安装包解压目录可以含中文。
+
+旧 v0.3.2 包没有 `install.bat`，仍需把包内文件直接解压到游戏根目录。
 
 安装正确后，游戏根目录中应能看到：
 
@@ -34,6 +46,8 @@ winhttp.dll
 3. 找到游戏根目录下的 `UserData` 文件夹。
 4. 把整个 `UserData` 文件夹复制到桌面或其他安全位置，并给副本加上日期。
 
+新版安装器还会自动复制一份存档和旧文件到 `%LOCALAPPDATA%\MonsterRoadtripChinese\backups\<时间戳>`，完成后显示实际路径。自动备份不替代自行保留的长期备份。
+
 Mod 每次启动时还会在游戏读取进度前，把现有 XML 存档复制到：
 
 ```text
@@ -43,6 +57,10 @@ BepInEx\save-backups\cn.monsterroadtrip.localization\<时间戳>\
 自动备份只复制文件，不会删除、移动或覆盖原存档。卸载整个 BepInEx 文件夹前，如需保留这些自动备份，请先把 `save-backups` 复制到别处。
 
 ## 删除 Mod
+
+使用新版一键包安装时：退出游戏，双击同包的 `uninstall.bat`。保留 `UserData`、备份和已有配置。安装前已有 BepInEx，或安装后又加入其他 Mod 时，会保留共享加载器及退出兼容补丁；如果加载器由本包首次安装且没有其他 Mod，则移除本包创建的加载器文件。安装后的文件若被用户修改，卸载器会停止并提示，避免误删改动。
+
+手动安装的旧版本可按以下方式删除：
 
 如果还在使用其他 BepInEx Mod，只删除：
 
@@ -85,7 +103,15 @@ $env:MONSTER_ROADTRIP_GAME_DIR = 'D:\SteamLibrary\steamapps\common\Monster Prom 
 ```powershell
 python -m unittest discover -s tools/tests -p 'test_*.py'
 .\tools\tests\test-runtime-verbs.ps1
+.\tools\tests\test-stat-contracts.ps1
+.\tools\tests\test-name-persistence.ps1
+.\tools\tests\test-name-hook.ps1 -GameDir $env:MONSTER_ROADTRIP_GAME_DIR
+.\tools\tests\test-mono-compat.ps1
 ```
+
+构建一键包：`python tools/package_windows_installer.py --game-dir "$env:MONSTER_ROADTRIP_GAME_DIR"`。安装器使用 Windows 自带的 PowerShell 5.1；`.bat` 只为此次进程设置脚本执行方式，不修改系统执行策略。当前包没有数字签名，请只从项目来源下载；哈希校验用于检查损坏，不能替代来源可信性。
+
+Mac 版需要独立的加载器、`.command` 入口、游戏与存档路径适配，并在 Intel／Apple Silicon 环境验证；计划见 [跨平台发布说明](docs/INSTALLER_PLATFORMS.md)。
 
 ## 第三方组件
 
