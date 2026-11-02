@@ -188,6 +188,61 @@ mr_launch_option() {
     path="${path//\\/\\\\}"; path="${path//\"/\\\"}"; path="${path//\$/\\$}"; path="${path//\`/\\\`}"
     printf '"/bin/bash" "%s" %%command%%\n' "$path"
 }
+# Only this native loader needs a download-quarantine exception. Never recurse
+# over a game, touch its .app, or change signatures/system security settings.
+mr_xattr() { /usr/bin/xattr "$@"; }
+mr_link_count() {
+    if [ "$(uname -s)" = Darwin ]; then stat -f '%l' "$1";
+    else stat -c '%h' "$1"; fi
+}
+mr_check_trust_target() {
+    local path="$MR_ROOT/libdoorstop.dylib" expected="$1"
+    mr_no_links "$MR_ROOT" libdoorstop.dylib || return 1
+    [ -f "$path" ] && [ "$(mr_link_count "$path")" = 1 ] &&
+        [ "$(mr_hash "$path")" = "$expected" ] || {
+        mr_fail '加载器缺失、内容变化或存在硬链接；未修改隔离标记。'; return 1;
+    }
+}
+mr_offer_loader_trust() {
+    local path="$MR_ROOT/libdoorstop.dylib" expected attributes answer=''
+    expected=$(awk -F '\t' '$2 == "loader" && $3 == "libdoorstop.dylib" {print $1}' "$MR_PACKAGE/package-files.tsv")
+    if ! [[ "$expected" =~ ^[a-f0-9]{64}$ ]] || ! mr_check_trust_target "$expected"; then
+        printf '已跳过加载器放行；请保留上面的错误信息。\n' >&2
+        return 0
+    fi
+    if ! attributes=$(mr_xattr "$path" 2>/dev/null); then
+        printf '无法读取加载器的扩展属性；安装已保留，未尝试放行。\n' >&2
+        return 0
+    fi
+    if ! printf '%s\n' "$attributes" | grep -qx 'com.apple.quarantine'; then
+        printf '加载器没有下载隔离标记，无需处理。\n'
+        return 0
+    fi
+    printf '\n可选：允许本汉化加载器运行\n文件：%s\nSHA256：%s\n' "$path" "$expected"
+    printf '%s\n' \
+        '此文件是随包分发的 BepInEx/Doorstop 加载器，用于将汉化加载到游戏中。' \
+        '已核对安装清单与文件 SHA256；这只能检查文件一致性，不是 Apple 公证或恶意软件扫描。' \
+        '同意后，只删除上面这个文件的 com.apple.quarantine 下载隔离标记。' \
+        '若已有其他 Mod 共用这个加载器，它们也会使用同一个文件。' \
+        '请仅在确认安装包来自本项目可信 Release 时同意；仍可能出现其他系统提示。'
+    read -r -p '输入 YES 同意；直接回车或其他输入跳过：[默认跳过] ' answer || answer=''
+    if [ "$answer" != YES ]; then
+        printf '\n已跳过，未修改隔离标记。需要时可重新运行此安装器。\n'
+        return 0
+    fi
+    # Recheck after the user prompt; don't act on a replaced/edited file.
+    if ! mr_check_trust_target "$expected"; then return 0; fi
+    if ! mr_xattr -d com.apple.quarantine "$path"; then
+        printf '未能移除隔离标记；安装已保留。可使用 System Settings → Privacy & Security 中针对此文件的允许选项。\n' >&2
+        return 0
+    fi
+    if ! attributes=$(mr_xattr "$path" 2>/dev/null) ||
+        printf '%s\n' "$attributes" | grep -qx 'com.apple.quarantine'; then
+        printf '无法确认隔离标记已移除；请保留终端信息反馈。\n' >&2
+        return 0
+    fi
+    printf '已移除本汉化加载器的下载隔离标记；文件内容与其他扩展属性保持原样。\n'
+}
 mr_install() {
     local hash kind rel allowed extra created loader=0
     mr_check_game
@@ -195,7 +250,9 @@ mr_install() {
     if [ -d "$MR_STATE" ]; then
         mr_validate_record
         [ "$(cat "$MR_STATE/version.txt")" = "$MR_VERSION" ] && cmp -s <(cut -f1-3 "$MR_PACKAGE/package-files.tsv") <(cut -f1-3 "$MR_STATE/files.tsv") || { mr_fail '请先使用旧安装包卸载旧版，再安装新版。'; return 1; }
-        printf '此版本已完整安装，无需重复安装。\n'; mr_launch_option; return
+        printf '此版本已完整安装，无需重复安装。\n'
+        mr_offer_loader_trust
+        printf '\nSteam 启动选项：\n'; mr_launch_option; return
     fi
     [ ! -e "$MR_ROOT/BepInEx/core" ] && [ ! -e "$MR_ROOT/libdoorstop.dylib" ] && [ ! -e "$MR_ROOT/run_bepinex.sh" ] || loader=1
     mr_backup install "${1:-}"
@@ -223,7 +280,8 @@ mr_install() {
     printf '%s\n' "$MR_BACKUP" > "$MR_TEMP/backup-path.txt"
     mv "$MR_TEMP" "$MR_STATE"
     MR_TRANSACTION=0; trap - EXIT
-    printf '\n安装完成（macOS 实验版，尚未真机验证）。\n将下一行复制到 Steam → 属性 → 通用 → 启动选项，然后通过 Steam 启动游戏：\n'
+    mr_offer_loader_trust
+    printf '\n安装完成（macOS 实验版）。\n将下一行复制到 Steam → 属性 → 通用 → 启动选项，然后通过 Steam 启动游戏：\n'
     mr_launch_option
 }
 mr_uninstall() {
