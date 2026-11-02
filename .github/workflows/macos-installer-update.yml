@@ -1,0 +1,37 @@
+name: Publish Mac installer update
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish-macos:
+    runs-on: macos-latest
+    steps:
+      - name: Check out exact workflow commit
+        shell: bash
+        run: |
+          git init .
+          git remote add origin https://github.com/stellabunny0v0/monster-roadtrip-cn.git
+          git fetch --depth 1 origin "$GITHUB_SHA"
+          git checkout --detach FETCH_HEAD
+      - name: Build Mac installer update from verified release
+        run: python3 tools/refresh_macos_installer.py --output-dir dist
+      - name: Validate Mac installer
+        shell: bash
+        run: |
+          /bin/bash tools/tests/test-macos-loader-trust.sh
+          /bin/bash tools/tests/test-macos-installer.sh dist/MonsterRoadtripChinese-v0.3.7-macos-experimental-installer2-macOS
+      - name: Publish Mac prerelease
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          gh release create v0.3.7-macos-installer2 \
+            dist/MonsterRoadtripChinese-v0.3.7-macos-experimental-installer2-macOS.zip \
+            dist/MonsterRoadtripChinese-v0.3.7-macos-experimental-installer2-macOS.zip.sha256 \
+            --repo "$GITHUB_REPOSITORY" --target "$GITHUB_SHA" \
+            --title "macOS installer update 2 (experimental)" \
+            --prerelease --latest=false --notes-file dist/release-notes.md
