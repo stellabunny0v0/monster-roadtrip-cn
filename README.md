@@ -5,7 +5,7 @@
 | 平台 | 下载 | 适用范围 |
 | --- | --- | --- |
 | Windows | [一键安装包](https://github.com/stellabunny0v0/monster-roadtrip-cn/releases/tag/v0.3.6-mono-layout-1) | Windows 10／11，Intel／AMD；已在 Windows 11 验证 |
-| macOS | [实验版安装包](https://github.com/stellabunny0v0/monster-roadtrip-cn/releases/tag/v0.3.7-macos-experimental) | x86_64 Mono 游戏；Apple Silicon 需 Rosetta，**尚未在 Mac 真机验证** |
+| macOS | [实验版安装包（安装器更新）](https://github.com/stellabunny0v0/monster-roadtrip-cn/releases/tag/v0.3.7-macos-installer2) | x86_64 Mono 游戏；Apple Silicon 需 Rosetta；用户已反馈 Mac 安装测试正常，其他配置仍待验证 |
 
 ## 安装
 
@@ -21,11 +21,14 @@
 
 ### macOS（实验版）
 
-1. 双击 `install.command`，按提示选择游戏 `.app` 或其所在目录。
-2. 安装完成后，将终端显示的**整行启动选项**复制到 Steam → 游戏“属性”→“通用”→“启动选项”。
-3. 通过 Steam 启动游戏。Apple Silicon 需要先安装 Rosetta；纯 arm64 游戏程序暂不支持。
+1. 从上方 Mac Release 的 **Assets** 下载名称含 `installer2-macOS.zip` 的安装包，完整解压后双击 `install.command`。按提示选择游戏 `.app` 或其所在目录。
+2. 若首次被 macOS 阻止，确认来源后打开 ** → System Settings → Privacy & Security**，在下方 **Security** 中找到 `install.command`，点击 **Open Anyway**。也可打开 Terminal，输入 `/bin/bash `（末尾有空格），把 `install.command` 拖入窗口后按回车。
+3. 如果安装器询问是否允许本汉化加载器运行，核对显示的路径和用途，输入大写 **`YES`** 并回车。安装器会校验文件，并仅清除 `libdoorstop.dylib` 的下载隔离标记；直接回车则跳过。
+4. 安装完成后，将终端显示的**整行启动选项**复制到 Steam → 游戏“属性”→“通用”→“启动选项”，再通过 Steam 启动游戏。Apple Silicon 需要先安装 Rosetta；纯 arm64 游戏程序暂不支持。
 
-若系统阻止打开脚本，或需要从终端安装，请参阅 [Mac 安装说明](docs/MACOS.md)。这是供测试的独立安装包，中文显示、存档读写及退出流程仍待 Mac 实机确认。
+**已安装 v0.3.7 Mac 实验版的用户无需卸载：**重新运行这个更新包的 `install.command`，相同版本会核对现有文件后提供加载器放行选项，不重复安装。Steam 启动选项不变。
+
+本包尚未签名和公证，仍可能出现系统安全提示；无需全局关闭 Gatekeeper 或 SIP。详细步骤、其他版本升级方式及反馈要求见 [Mac 安装说明](docs/MACOS.md)。目前已有用户反馈本次 Mac 安装器更新测试正常，其他机型、系统和完整游玩流程仍需继续验证。
 
 ## 备份存档
 
