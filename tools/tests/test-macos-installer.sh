@@ -16,6 +16,14 @@ mr_plist_executable() { printf '%s\n' MonsterRoadtrip; }
 mr_architecture() { printf '%s\n' "${FIXTURE_ARCH:-Mach-O 64-bit executable x86_64}"; }
 mr_rosetta() { :; }
 mr_not_running() { [ "${FIXTURE_RUNNING:-0}" = 0 ] || mr_fail 'fixture game running'; }
+mr_xattr() {
+    if [ "$#" = 1 ]; then
+        if [ -f "$MR_ROOT/.fixture-quarantine" ]; then printf 'com.apple.quarantine\n'; fi
+    elif [ "$#" = 3 ] && [ "$1" = -d ] && [ "$2" = com.apple.quarantine ] && [ "$3" = "$MR_ROOT/libdoorstop.dylib" ]; then
+        rm "$MR_ROOT/.fixture-quarantine"
+        printf '%s\n' "$3" >> "$MR_ROOT/.fixture-removed"
+    else return 1; fi
+}
 cp() {
     if [ "${FIXTURE_COPY_FAIL:-0}" = 1 ]; then
         for arg in "$@"; do case "$arg" in */payload/BepInEx/core/BepInEx.dll) return 42;; esac; done
@@ -59,11 +67,30 @@ count_before=$(find "$backup" -name operation.txt | wc -l)
 run install > "$fixture/repeat.log"
 [ "$(find "$backup" -name operation.txt | wc -l)" = "$count_before" ] || fail 'Repeated install wrote backup'
 pass 'identical install is a no-op'
+# The unchanged payload identity permits old installations to use the new
+# consent step without rewriting any installed files or creating a backup.
+: > "$game/.fixture-quarantine"
+printf 'YES\n' | run install > "$fixture/repeat-trust.log"
+[ ! -e "$game/.fixture-quarantine" ] && [ -s "$game/.fixture-removed" ] || fail 'Repeated install did not offer loader trust'
+[ "$(find "$backup" -name operation.txt | wc -l)" = "$count_before" ] || fail 'Trust repair wrote backup'
+pass 'repeat install repairs loader quarantine with consent and no reinstall'
 run uninstall > "$fixture/uninstall.log"
 [ ! -e "$game/libdoorstop.dylib" ] && [ ! -e "$game/monster_roadtrip_cn.sh" ] || fail 'Clean loader remains'
 find "$backup" -name saves-after.tsv -print | while IFS= read -r f; do cmp -s "$f" "${f%/*}/saves-before.tsv"; done
 [ -f "$game/$app/UserData/玩家.xml" ] || fail 'Save removed'
 pass 'uninstall removes new loader and keeps saves'
+new_game consent
+: > "$game/.fixture-quarantine"
+printf '\n' | run install > "$fixture/consent-install.log"
+[ -f "$game/.fixture-quarantine" ] && [ ! -e "$game/.fixture-removed" ] || fail 'Default prompt altered quarantine'
+printf 'YES\n' | run install > "$fixture/consent-retry.log"
+[ ! -e "$game/.fixture-quarantine" ] || fail 'Consent retry did not remove quarantine'
+pass 'new install defaults to skip and permits a later explicit retry'
+new_game consent-first
+: > "$game/.fixture-quarantine"
+printf 'YES\n' | run install > "$fixture/consent-first.log"
+[ ! -e "$game/.fixture-quarantine" ] || fail 'New install did not offer loader trust'
+pass 'new install offers loader trust after file validation'
 new_game rollback
 FIXTURE_COPY_FAIL=1; export FIXTURE_COPY_FAIL
 reject install 'failed copy rolls back files already copied'
