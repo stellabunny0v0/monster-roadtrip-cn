@@ -4,7 +4,7 @@
 
 | 平台 | 下载 | 适用范围 |
 | --- | --- | --- |
-| Windows | [一键安装包](https://github.com/stellabunny0v0/monster-roadtrip-cn/releases/tag/v0.3.6-mono-layout-1) | Windows 10／11，Intel／AMD；已在 Windows 11 验证 |
+| Windows | [一键安装包](https://github.com/stellabunny0v0/monster-roadtrip-cn/releases/tag/v0.3.8) | Windows 10／11，Intel／AMD；已在 Windows 11 验证 |
 | macOS | [实验版安装包（安装器更新）](https://github.com/stellabunny0v0/monster-roadtrip-cn/releases/tag/v0.3.7-macos-installer2) | x86_64 Mono 游戏；Apple Silicon 需 Rosetta；用户已反馈 Mac 安装测试正常，其他配置仍待验证 |
 
 ## 安装

@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-20",
+  "scope": "Windows release only; Mac release/package/instructions not updated at user request",
+  "version": "0.3.8",
+  "package_integrity": {
+    "version": "0.3.8",
+    "platform": "Windows",
+    "archive": "MonsterRoadtripChinese-v0.3.8-Windows.zip",
+    "bytes": 1730396,
+    "sha256": "03d0ce4a680712fbff9585420d0131fa4fe3a57bda3493532cee7b40690def4b",
+    "payload_files": 32,
+    "plugin_files": 14,
+    "plugin_sha256": "2d2f2312a3f8093fac86f72691bf8d69e32ef583268ea9b548b198a3ce7862f9",
+    "contains_saves_or_local_config": false
+  },
+  "installer_validation": {
+    "powershell": "Windows PowerShell 5.1",
+    "cases": 12,
+    "passed": [
+      "preflight-is-read-only",
+      "reject-unknown-loader",
+      "reject-corrupt-package",
+      "reject-escaping-path",
+      "reject-untested-game-version",
+      "clean-install",
+      "repeat-install-is-idempotent",
+      "uninstall-preflight",
+      "clean-uninstall",
+      "existing-loader-preserves-config-and-other-mod",
+      "refuse-to-delete-user-modified-plugin",
+      "shared-loader-uninstall-preserves-other-mod"
+    ],
+    "savesUnchanged": true,
+    "gameBinariesUnchanged": true,
+    "otherModAndConfigPreserved": true
+  },
+  "other_validation": [
+    "29 Python tests",
+    "translation placeholders and runtime control fields",
+    "Release plugin compile with zero warnings/errors",
+    "actual plugin metadata version 0.3.8",
+    "actual game tooltip target and font-only prefix",
+    "10 Mono layout cases; 1222 method bodies checked"
+  ],
+  "game_launched_for_this_release": false,
+  "notes": "Installer integration tests use fake saves and copies of game binaries in an isolated process environment. No real saves or local game files were modified."
+}

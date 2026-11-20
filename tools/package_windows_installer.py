@@ -4,6 +4,7 @@ from __future__ import annotations
 import argparse
 import hashlib
 import json
+import re
 import shutil
 import zipfile
 from pathlib import Path
@@ -16,15 +17,24 @@ def sha(path: Path) -> str:
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument('--game-dir', type=Path, required=True)
-    parser.add_argument('--version', default='0.3.6-mono-layout-1')
+    parser.add_argument('--version', help='Defaults to the current plugin source version')
     args = parser.parse_args()
     repo = Path(__file__).resolve().parent.parent
+    plugin_version = re.search(r'PluginVersion = "([^"]+)"', (repo / 'src/Plugin.cs').read_text(encoding='utf-8'))[1]
+    args.version = args.version or plugin_version
+    if args.version.split('-', 1)[0] != plugin_version:
+        raise SystemExit('Package version must match the plugin source version')
     if any(c not in 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789.-' for c in args.version):
         raise SystemExit('Invalid package version')
     out = repo / 'dist' / f'MonsterRoadtripChinese-v{args.version}-Windows'
-    if out.exists():
+    if out.exists() or Path(str(out) + '.zip').exists():
         raise SystemExit(f'Output already exists: {out}. Choose a new version/directory; no files removed.')
     plugin = repo / 'build/package/BepInEx/plugins/MonsterRoadtripChinese'
+    compiled_dll = repo / 'src/bin/Release/MonsterRoadtripChinese.dll'
+    if not compiled_dll.is_file() or sha(plugin / 'MonsterRoadtripChinese.dll') != sha(compiled_dll):
+        raise SystemExit('Packaged plugin does not match the current compiled plugin')
+    if compiled_dll.stat().st_mtime < max(p.stat().st_mtime for p in (repo / 'src').glob('*.cs')):
+        raise SystemExit('Plugin DLL is older than source; rebuild first')
     plugin_files = sorted(p for p in plugin.rglob('*') if p.is_file())
     if len(plugin_files) != 14:
         raise SystemExit('Expected the plugin DLL and 13 translation/adaptation files.')
@@ -89,7 +99,7 @@ def main() -> None:
         '游戏安装路径含中文时，当前 Unity 有已知问题，请使用 Steam 移动到英文路径；安装包解压路径可以含中文。\n'
         '重复安装同一完整版本不会改文件；升级到另一版安装包时，请先用旧包卸载。\n'
         '此包没有数字签名。只从本项目下载；文件哈希用于检查损坏，不能代替来源可信性。\n'
-        'Mac 后续需独立安装包、匹配的加载器和实机验证，不能运行此 Windows 安装包。\n', encoding='utf-8-sig')
+        'Mac 请下载项目单独发布的 macOS 实验版安装包，不能运行此 Windows 安装包。\n', encoding='utf-8-sig')
     # Do not use with_suffix for versioned directories containing dots.
     archive = Path(str(out) + '.zip')
     with zipfile.ZipFile(archive, 'w', compression=zipfile.ZIP_DEFLATED, compresslevel=6) as z:
