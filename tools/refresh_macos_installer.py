@@ -9,10 +9,10 @@ import urllib.request
 import zipfile
 from pathlib import Path
 
-BASE_NAME = 'MonsterRoadtripChinese-v0.3.7-macos-experimental-macOS.zip'
+BASE_NAME = 'MonsterRoadtripChinese-v0.3.7-macos-experimental-installer2-macOS.zip'
 BASE_URL = ('https://github.com/stellabunny0v0/monster-roadtrip-cn/releases/download/'
-            'v0.3.7-macos-experimental/' + BASE_NAME)
-BASE_SHA256 = '320c734f9004efb419240b071feb52a94637f3987e22ad6395b4758ae2fc4795'
+            'v0.3.7-macos-installer2/' + BASE_NAME)
+BASE_SHA256 = '128055c3eae37a7928143b6d1cd10d98808e35e01d90c90dcb42a1133c0be01a'
 NAME = 'MonsterRoadtripChinese-v0.3.7-macos-experimental-installer2-macOS'
 
 
@@ -89,19 +89,23 @@ def main() -> None:
         z.extractall(extracted)
     digest = sha(archive.read_bytes())
     Path(str(archive) + '.sha256').write_text(f'{digest}  {archive.name}\n', encoding='ascii')
-    notes = f'''Mac installer update 2 (experimental).
+    notes = f'''Monster Prom 3 - Monster Roadtrip 简体中文 Mod，Mac 安装器更新 2（实验版）。
 
-Only the Mac installer and instructions changed. The plugin, translations and all 33 payload files are identical to v0.3.7-macos-experimental. Windows is unchanged.
+本包沿用 v0.3.7 的插件和译文，仅更新安装器与说明。33 个载荷文件保持不变。
 
-Download `{archive.name}` from Assets and fully extract it. Run `install.command`. If macOS blocks the script, use System Settings > Privacy & Security > Open Anyway, or run it with `/bin/bash` in Terminal.
+安装前退出游戏，并复制备份现有的 UserData。从 Assets 下载 `{archive.name}`，完整解压后运行 `install.command`，按提示选择游戏 .app 或其所在目录。
 
-After the installer verifies the loader, type uppercase `YES` to remove only its download-quarantine attribute. Press Enter to skip. Existing identical v0.3.7 Mac installations can rerun this installer without uninstalling or changing Steam launch options.
+若系统拦截脚本，请确认来源后到“系统设置 → 隐私与安全性”选择“仍要打开”（Open Anyway），或使用终端的 `/bin/bash` 运行脚本。
 
-The user reported successful Mac testing. Other hardware/OS configurations and full gameplay coverage remain unverified. Apple Silicon requires Rosetta; only x86_64 Mono games are supported. This package is unsigned and not notarized; first-run security prompts remain possible.
+安装器校验加载器后，可能询问是否放行。核对路径和用途后，输入大写 `YES` 可仅移除该加载器的下载隔离标记；直接回车跳过。相同完整版本可重复运行此安装器，无需卸载或修改已有 Steam 启动选项。
 
-Validation: 19 loader-trust checks (including native macOS xattr fixtures) and 17 installer integration fixtures. See the release workflow run for results.
+安装完成后，把终端输出的整行命令复制到 Steam → 游戏属性 → 通用 → 启动选项，再通过 Steam 启动游戏。
 
-[Chinese installation instructions](https://github.com/stellabunny0v0/monster-roadtrip-cn/blob/main/docs/MACOS.md)
+卸载：退出游戏，运行同包的 `uninstall.command`，然后移除本汉化的 Steam 启动命令，保留原有其他设置。存档、配置和备份保留；其他 Mod 共用的加载器也会保留。
+
+用户已反馈 Mac 安装测试正常，其他配置与完整游玩仍待更多验证。仅支持 x86_64 Mono 游戏；Apple Silicon 需要 Rosetta。本包未签名和公证，首次运行仍可能出现系统提示，无需全局关闭 Gatekeeper 或 SIP。
+
+[完整中文安装、备份和卸载说明](https://github.com/stellabunny0v0/monster-roadtrip-cn/blob/main/docs/MACOS.md)
 
 SHA256: `{digest}`
 '''
