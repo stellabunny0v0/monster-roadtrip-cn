@@ -55,7 +55,7 @@ def main() -> None:
     files['\u5b89\u88c5\u8bf4\u660e.md'] = (repo / 'docs/MACOS.md').read_bytes()
     commit = subprocess.check_output(['git', 'rev-parse', 'HEAD'], cwd=repo, text=True).strip()
     info = json.loads(files['build-info.json'].decode('utf-8-sig'))
-    info['status'] = 'experimental; user reports Mac installer update works; other configurations unverified'
+    info['status'] = 'user reports Mac installer update works; other configurations unverified'
     info['installer_revision'] = 2
     info['installer_update'] = {
         'base_archive_sha256': BASE_SHA256,
@@ -89,9 +89,13 @@ def main() -> None:
         z.extractall(extracted)
     digest = sha(archive.read_bytes())
     Path(str(archive) + '.sha256').write_text(f'{digest}  {archive.name}\n', encoding='ascii')
-    notes = f'''Monster Prom 3 - Monster Roadtrip 简体中文 Mod，Mac 安装器更新 2（实验版）。
+    notes = f'''Monster Prom 3 - Monster Roadtrip 非官方简体中文 Mod，Mac v0.3.7 一键安装包。
 
-本包沿用 v0.3.7 的插件和译文，仅更新安装器与说明。33 个载荷文件保持不变。
+## 版本说明
+
+当前 Mac 最新安装包，包内版本标记为 v0.3.7，包含安装器更新 2。安装器重新打包时保留 33 个载荷文件原样不变。
+
+## 安装与升级
 
 安装前退出游戏，并复制备份现有的 UserData。从 Assets 下载 `{archive.name}`，完整解压后运行 `install.command`，按提示选择游戏 .app 或其所在目录。
 
@@ -101,9 +105,19 @@ def main() -> None:
 
 安装完成后，把终端输出的整行命令复制到 Steam → 游戏属性 → 通用 → 启动选项，再通过 Steam 启动游戏。
 
-卸载：退出游戏，运行同包的 `uninstall.command`，然后移除本汉化的 Steam 启动命令，保留原有其他设置。存档、配置和备份保留；其他 Mod 共用的加载器也会保留。
+## 备份存档
+
+退出游戏，复制游戏 .app 内及外层实际存在的 UserData。安装器还会自动备份到 `~/Library/Application Support/MonsterRoadtripChinese/backups`，仅复制文件，不覆盖现有存档或自动恢复旧进度。
+
+## 卸载
+
+退出游戏，运行同包的 `uninstall.command`，然后移除本汉化的 Steam 启动命令，保留原有其他设置。存档、配置和备份保留；其他 Mod 共用的加载器也会保留。
+
+## 适用范围
 
 用户已反馈 Mac 安装测试正常，其他配置与完整游玩仍待更多验证。仅支持 x86_64 Mono 游戏；Apple Silicon 需要 Rosetta。本包未签名和公证，首次运行仍可能出现系统提示，无需全局关闭 Gatekeeper 或 SIP。
+
+## 校验与说明
 
 [完整中文安装、备份和卸载说明](https://github.com/stellabunny0v0/monster-roadtrip-cn/blob/main/docs/MACOS.md)
 

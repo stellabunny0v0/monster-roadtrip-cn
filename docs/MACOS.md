@@ -1,13 +1,13 @@
-# macOS 实验版安装说明
+# Mac 安装说明
 
 适用于 Steam 版 **Monster Prom 3 - Monster Roadtrip**，游戏进程必须是 **x86_64 Mono**。Intel Mac 直接运行；Apple Silicon 通过 Rosetta 运行。暂不支持纯 arm64 或 IL2CPP 游戏程序。
 
-**用户已反馈本次 Mac 安装器更新测试正常，仍保留实验版标识。** 尚未记录测试机型、系统版本及完整游玩检查结果；其他配置下的中文字体、姓名保存、属性结算、设置返回和退出仍需继续验证。Windows 用户请使用 Windows 安装包。
+当前 Mac 最新安装包为 **v0.3.7 一键安装版**，包含安装器更新 2。用户已反馈安装测试正常；其他机型、系统和完整游玩流程仍待更多验证。Windows 用户请使用 Windows 安装包。
 
 ## 安装
 
 1. 退出游戏，先按下文备份存档。
-2. 从 [Mac 安装器更新 Release](https://github.com/stellabunny0v0/monster-roadtrip-cn/releases/tag/v0.3.7-macos-installer2) 下载名称含 `installer2-macOS.zip` 的实验包，完整解压。
+2. 从 [Mac 最新安装包](https://github.com/stellabunny0v0/monster-roadtrip-cn/releases/tag/v0.3.7-macos-installer2) 的 **Assets** 下载名称以 `installer2-macOS.zip` 结尾的 ZIP，完整解压。`Source code` 是源码，不是安装包；附件文件名保留历史命名。
 3. 双击 `install.command`。默认查找 Steam 常用目录；找不到时，在弹出的窗口选择游戏 `.app`。自定义 Steam 库可按下一节从终端指定路径。
 4. 如果安装器询问是否允许本汉化加载器运行，先核对显示的路径和用途。确认安装包来自本项目可信 Release 后，输入 `YES` 并回车；直接回车则跳过。详情见下方“加载器放行”。
 5. 等待“安装完成”，将终端显示的整行命令复制到 Steam → 游戏“属性”→“通用”→“启动选项”。形如：

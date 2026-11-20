@@ -24,7 +24,7 @@ jobs:
         run: |
           /bin/bash tools/tests/test-macos-loader-trust.sh
           /bin/bash tools/tests/test-macos-installer.sh dist/MonsterRoadtripChinese-v0.3.7-macos-experimental-installer2-macOS
-      - name: Publish Mac prerelease
+      - name: Publish Mac release
         env:
           GH_TOKEN: ${{ github.token }}
         shell: bash
@@ -33,5 +33,5 @@ jobs:
             dist/MonsterRoadtripChinese-v0.3.7-macos-experimental-installer2-macOS.zip \
             dist/MonsterRoadtripChinese-v0.3.7-macos-experimental-installer2-macOS.zip.sha256 \
             --repo "$GITHUB_REPOSITORY" --target "$GITHUB_SHA" \
-            --title "Monster Prom 3 - Monster Roadtrip 简体中文 Mod — Mac 安装器更新 2（实验版）" \
-            --prerelease --latest=false --notes-file dist/release-notes.md
+            --title "Monster Prom 3 - Monster Roadtrip 简体中文 Mod v0.3.7 Mac 一键安装版" \
+            --latest=false --notes-file dist/release-notes.md
