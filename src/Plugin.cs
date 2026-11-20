@@ -20,7 +20,7 @@ namespace MonsterRoadtripChinese
     {
         public const string PluginGuid = "cn.monsterroadtrip.localization";
         public const string PluginName = "Monster Roadtrip Chinese Localization";
-        public const string PluginVersion = "0.3.7";
+        public const string PluginVersion = "0.3.8";
 
         internal static ManualLogSource Log;
         internal static string TranslationDirectory;
@@ -47,6 +47,7 @@ namespace MonsterRoadtripChinese
             Patch("BeautifulGlitch.CoreParser", "ReadLocalizedTextFile", typeof(EventTextPatch));
             Patch("Game.MainGameEventManager", "ConvertTextTags", typeof(StatFeedbackDisplayPatch));
             _harmony.CreateClassProcessor(typeof(StatWidgetNamesPatch)).Patch();
+            Patch("Game.StatsBoxItemTooltip", "Show", typeof(StatsBoxItemTooltipFontPatch));
             Patch("BeautifulGlitch.LocalizedNGUIFont", "Refresh", typeof(LocalizedNGUIFontPatch));
             Patch("BeautifulGlitch.LocalizedTextFont", "Refresh", typeof(LocalizedTextFontPatch));
 
@@ -387,6 +388,26 @@ namespace MonsterRoadtripChinese
             {
                 if (__instance.nameLabel != null)
                     __instance.nameLabel.text = StatDisplayTranslations.Name(__instance.type.ToString());
+            }
+        }
+
+        [HarmonyPatch]
+        private static class StatsBoxItemTooltipFontPatch
+        {
+            private static MethodBase TargetMethod()
+            {
+                return AccessTools.Method(typeof(Game.StatsBoxItemTooltip), "Show");
+            }
+
+            private static void Prefix(Game.StatsBoxItemTooltip __instance)
+            {
+                if (ChineseFont == null || __instance.uiLabel == null) return;
+
+                // This tooltip writes directly to a UILabel, bypassing the
+                // LocalizedNGUIFont path. Use the property setter to invalidate
+                // cached geometry even when the same tooltip text is reused.
+                __instance.uiLabel.keepCrispWhenShrunk = UILabel.Crispness.Never;
+                __instance.uiLabel.trueTypeFont = ChineseFont;
             }
         }
 

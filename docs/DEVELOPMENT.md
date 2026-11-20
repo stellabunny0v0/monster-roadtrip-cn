@@ -19,6 +19,7 @@ python -m unittest discover -s tools/tests -p 'test_*.py'
 .\tools\tests\test-name-hook.ps1 -GameDir $env:MONSTER_ROADTRIP_GAME_DIR
 .\tools\tests\test-mono-compat.ps1
 .\tools\tests\test-save-paths.ps1
+.\tools\tests\test-tooltip-font-hook.ps1 -GameDir $env:MONSTER_ROADTRIP_GAME_DIR
 ```
 
 Windows 打包：`python tools/package_windows_installer.py --game-dir "$env:MONSTER_ROADTRIP_GAME_DIR" --version <版本>`。使用 Windows PowerShell 5.1，不持久修改执行策略。不要覆盖已发布版本的 ZIP。

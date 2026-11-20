@@ -419,6 +419,16 @@
       "note": "学校全称"
     },
     {
+      "en": "Spooky Academy",
+      "zh": "魔物学园",
+      "avoid": [
+        "惊悚学院"
+      ],
+      "evidence": [],
+      "status": "user-approved-project-default",
+      "note": "2026-11-19 用户指定：与 Spooky High 统一称为魔物学园；改名对白另保留 High/Academy 的教育阶段笑点，不声称有旧作取证。"
+    },
+    {
       "en": "Coven",
       "zh": "女巫会",
       "avoid": [

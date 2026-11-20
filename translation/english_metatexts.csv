@@ -540,7 +540,7 @@ english_metatexts:RML_CAVES_EOTR,english_metatexts.json,549,metatext,RML_CAVES_E
 english_metatexts:RML_GRAVEYARD_EOTR,english_metatexts.json,550,metatext,RML_GRAVEYARD_EOTR,,Graveyard,坟场,reviewed,polish pass 005: KEEP; series recheck 004: KEEP
 english_metatexts:RML_MOTEL_REGULAR_EOTR2,english_metatexts.json,551,metatext,RML_MOTEL_REGULAR_EOTR2,,Regular Motel,普通汽车旅馆,reviewed,polish pass 005: KEEP; series recheck 004: KEEP
 english_metatexts:RML_MOTEL_REGULAR_EOTR3,english_metatexts.json,552,metatext,RML_MOTEL_REGULAR_EOTR3,,Regular Motel,普通汽车旅馆,reviewed,polish pass 005: KEEP; series recheck 004: KEEP
-english_metatexts:RML_SPOOKY_ACADEMY,english_metatexts.json,553,metatext,RML_SPOOKY_ACADEMY,,Spooky Academy,惊悚学院,reviewed,polish pass 005: FIX; series recheck 004: KEEP
+english_metatexts:RML_SPOOKY_ACADEMY,english_metatexts.json,553,metatext,RML_SPOOKY_ACADEMY,,Spooky Academy,魔物学园,reviewed,polish pass 005: FIX; series recheck 004: KEEP; amendment 2026-11-19: FIX Spooky Academy name per user
 english_metatexts:RML_SANCTUARY,english_metatexts.json,554,metatext,RML_SANCTUARY,,Polly's Sanctuary,波莉的圣所,reviewed,polish pass 005: KEEP; series recheck 004: POLISH
 english_metatexts:RMD_GAS_HITECH,english_metatexts.json,555,metatext,RMD_GAS_HITECH,,"The transportation of the future, today!",未来的交通，今天就体验！,reviewed,polish pass 005: FIX; series recheck 004: KEEP
 english_metatexts:RMD_GAS_TROLLS,english_metatexts.json,556,metatext,RMD_GAS_TROLLS,,Come all ye weary travellers and fill up your gas tank!,疲惫的旅人们，来加满油吧！,reviewed,polish pass 005: POLISH; series recheck 004: KEEP
@@ -1318,7 +1318,7 @@ english_metatexts:GLR_ECK_EULOGY_EOTR,english_metatexts.json,1337,metatext,GLR_E
 english_metatexts:GLR_ECK_GARBAGETV_EOTR2,english_metatexts.json,1338,metatext,GLR_ECK_GARBAGETV_EOTR2,,STOP Channel-Hopping,停止换台,reviewed,polish pass 009: FIX; series recheck 006: KEEP
 english_metatexts:GLR_ECK_WRONGPIZZA_EOTR2,english_metatexts.json,1339,metatext,GLR_ECK_WRONGPIZZA_EOTR2,,PIZZA TIME!,披萨时间！,reviewed,polish pass 009: FIX; series recheck 006: KEEP
 english_metatexts:GLR_ECK_GLITCHMOTEL_EOTR3,english_metatexts.json,1340,metatext,GLR_ECK_GLITCHMOTEL_EOTR3,,Motel Encounter,汽车旅馆相遇,reviewed,polish pass 009: FIX; series recheck 006: KEEP
-english_metatexts:GLR_ECK_GLITCHSPOOKYACADEMY,english_metatexts.json,1341,metatext,GLR_ECK_GLITCHSPOOKYACADEMY,,Return to Spooky Academy,重返惊悚学院,reviewed,polish pass 009: FIX; series recheck 006: KEEP
+english_metatexts:GLR_ECK_GLITCHSPOOKYACADEMY,english_metatexts.json,1341,metatext,GLR_ECK_GLITCHSPOOKYACADEMY,,Return to Spooky Academy,重返魔物学园,reviewed,polish pass 009: FIX; series recheck 006: KEEP; amendment 2026-11-19: FIX Spooky Academy name per user
 english_metatexts:GLR_ECK_GLITCHPOLLYSANCTUARY,english_metatexts.json,1342,metatext,GLR_ECK_GLITCHPOLLYSANCTUARY,,Polly's Sanctuary,波莉的圣所,reviewed,polish pass 009: KEEP; series recheck 006: FIX
 english_metatexts:ACH_UNL_TTL,english_metatexts.json,1345,metatext,ACH_UNL_TTL,,Achievement Unlocked!,成就解锁!,reviewed,polish pass 009: KEEP; series recheck 006: KEEP
 english_metatexts:ACH_UNL_TTL_PLAYSTATION,english_metatexts.json,1346,metatext,ACH_UNL_TTL_PLAYSTATION,,Trophy Earned!,获得奖杯！,reviewed,polish pass 009: FIX; series recheck 006: KEEP

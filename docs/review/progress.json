@@ -1551,5 +1551,10 @@
     "new_language_coverage": 0,
     "report": "docs/review/windows-installer-validation-001.json",
     "release_url": "https://github.com/stellabunny0v0/monster-roadtrip-cn/releases/tag/v0.3.6-mono-layout-1"
+  },
+  "amendment_20261119_school_name": {
+    "FIX": 23,
+    "log": "docs/review/school-name-fixes-002.csv",
+    "note": "Terminology correction only, not a new full-language review; first-review totals unchanged"
   }
 }
